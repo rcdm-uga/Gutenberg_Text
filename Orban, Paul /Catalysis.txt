@@ -1,0 +1,1441 @@
+The Project Gutenberg EBook of Catalysis, by Poul Anderson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Catalysis
+
+Author: Poul Anderson
+
+Release Date: April 27, 2019 [EBook #59373]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK CATALYSIS ***
+
+
+
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                               CATALYSIS
+
+                           BY POUL ANDERSON
+
+                  _Man is a kind of turtle. Wherever
+                    he goes, he will always carry a
+                   shell holding warmth and air--and
+                   with them his human failings...._
+
+           [Transcriber's Note: This etext was produced from
+             Worlds of If Science Fiction, February 1956.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+When you looked outside, it was into darkness.
+
+Going out yourself, you could let your eyes accommodate. At high noon,
+the sun was a sharp spark in a dusky heaven, and its light amounted to
+about one-ninth of one percent of what Earth gets. The great fields
+of ice and frozen gases reflected enough to help vision, but upthrust
+crags and cliffs of naked rock were like blackened teeth.
+
+Seventy hours later, when Triton was on the other side of the primary
+that it always faced, there was a midnight thick enough to choke you.
+The stars flashed and glittered, a steely twinkle through a gaunt
+atmosphere mostly hydrogen--strange, to see the old lost constellations
+of Earth, here on the edge of the deep. Neptune was at the full, a
+giant sprawling across eight degrees of sky, bluish gray and smoky
+banded, but it caught so little sunlight that men groped in blindness.
+They set up floodlights, or had lamps glaring from their tracs, to work
+at all.
+
+But nearly everything went on indoors. Tunnels connected the various
+buildings on the Hill, instruments were of necessity designed to
+operate in the open without needing human care, men rarely had occasion
+to go out any more. Which was just as well, for it takes considerable
+power and insulation to keep a man alive when the temperature hovers
+around 60 degrees Kelvin.
+
+And so you stood at a meter-thick port of insulglas, and looked out,
+and saw only night.
+
+Thomas Gilchrist turned away from the view with a shudder. He had
+always hated cold, and it was as if the bitterness beyond the lab-dome
+had seeped in to touch him. The cluttered gleam of instruments in the
+room, desk piled high with papers and microspools, the subdued chatter
+of a computer chewing a problem, were comforting.
+
+He remembered his purpose and went with a long low-gravity stride to
+check the mineralogical unit. It was busily breaking down materials
+fetched in by the robosamplers, stones never found on Earth--because
+Earth is not the Mercury-sized satellite of an outer planet, nor has
+it seen some mysterious catastrophe in an unknown time back near
+the beginning of things. Recording meters wavered needles across
+their dials, data tapes clicked out, he would soon have the basic
+information. Then he would try to figure out how the mineral could have
+been formed, and give his hypothesis to the computer for mathematical
+analysis of possibility, and start on some other sample.
+
+For a while Gilchrist stood watching the machine. A cigaret smoldered
+forgotten between his fingers. He was a short, pudgy young man,
+with unkempt hair above homely features. Pale-blue eyes blinked
+nearsightedly behind contact lenses, his myopia was not enough to
+justify surgery. Tunic and slacks were rumpled beneath the gray smock.
+
+_Behold the bold pioneer!_ he thought. His self-deprecating sarcasm
+was mildly nonsane, he knew, but he couldn't stop--it was like biting
+an aching tooth. Only a dentist could fix the tooth in an hour, while
+a scarred soul took years to heal. It was like his eyes, the trouble
+wasn't bad enough to require long expensive repair, so he limped
+through life.
+
+Rafael Alemán came in, small and dark and cheerful. "'Allo," he said.
+"How goes it?" He was one of the Hill's organic chemists, as Gilchrist
+was the chief physical chemist, but his researches into low-temperature
+properties were turning out so disappointingly that he had plenty of
+time to annoy others. Nevertheless, Gilchrist liked him, as he liked
+most people.
+
+"So-so. It takes time."
+
+"Time we have enough of, _mi amigo_," said Alemán. "Two years we 'ave
+been here, and three years more it will be before the ship comes to
+relieve us." He grimaced. "Ah, when I am back to Durango Unit, how fast
+my savings will disappear!"
+
+"You didn't have to join the Corps, and you didn't have to volunteer
+for Triton Station," Gilchrist pointed out.
+
+The little man shrugged, spreading slender hands. "Confidential, I will
+tell you. I had heard such colorful tales of outpost life. But the only
+result is that I am now a married man--not that I have anything but
+praise for my dear Mei-Hua, but it is not the abandonment one had hoped
+for."
+
+Gilchrist chuckled. Outer-planet stations did have a slightly lurid
+reputation, and no doubt it had been justified several years ago.
+
+After all--The voyage was so long and costly that it could not be
+made often. You established a self-sufficient colony of scientists
+and left it there to carry on its researches for years at a time.
+But self-sufficiency includes psychic elements, recreation, alcohol,
+entertainment, the opposite sex. A returning party always took several
+children home.
+
+Scientists tended to be more objective about morals, or at least more
+tolerant of the other fellow's, than most; so when a hundred or so
+people were completely isolated, and ordinary amusements had palled, it
+followed that there would be a good deal of what some would call sin.
+
+"Not Triton," said Gilchrist. "You forget that there's been another
+cultural shift in the past generation--more emphasis on the stable
+family. And I imagine the Old Man picked his gang with an eye to such
+attitudes. Result--the would-be rounders find themselves so small a
+minority that it has a dampening effect."
+
+"_Sí._ I know. But you 'ave never told me your real reason for coming
+here, Thomas."
+
+Gilchrist felt his face grow warm. "Research," he answered shortly.
+"There are a lot of interesting problems connected with Neptune."
+
+Alemán cocked a mildly skeptical eyebrow but said nothing. Gilchrist
+wondered how much he guessed.
+
+That was the trouble with being shy. In your youth, you acquired
+bookish tastes; only a similarly oriented wife would do for you, so
+you didn't meet many women and didn't know how to behave with them
+anyhow. Gilchrist, who was honest with himself, admitted he'd had
+wistful thoughts about encountering the right girl here, under informal
+conditions where--
+
+He had. And he was still helpless.
+
+Suddenly he grinned. "I'll tell you what," he said. "I also came
+because I don't like cold weather."
+
+"Came to _Neptune_?"
+
+"Sure. On Earth, you can stand even a winter day, so you have to. Here,
+since the local climate would kill you in a second or two, you're
+always well protected from it." Gilchrist waved at the viewport. "Only
+I wish they didn't have that bloody window in my lab. Every time I look
+out, it reminds me that just beyond the wall nitrogen is a solid."
+
+"_Yo comprendo_," said Alemán. "The power of suggestion. Even now, at
+your words, I feel a chill."
+
+Gilchrist started with surprise. "You know, somehow I have the
+same--Just a minute." He went over to a workbench. His inframicrometer
+had an air thermometer attached to make temperature corrections.
+
+"What the devil," he muttered. "It _is_ cooled off. Only 18 degrees in
+here. It's supposed to be 21."
+
+"Some fluctuation, in temperature as in ozone content and humidity,"
+reminded Alemán. "That is required for optimum health."
+
+"Not this time of day, it shouldn't be varying." Gilchrist was reminded
+of his cigaret as it nearly burned his fingers. He stubbed it out and
+took another and inhaled to light it.
+
+"I'm going to raise Jahangir and complain," he said. "This could play
+merry hell with exact measurements."
+
+Alemán trotted after him as he went to the door. It was manually
+operated, and the intercoms were at particular points instead of every
+room. You had to forego a number of Earthside comforts here.
+
+There was a murmuring around him as he hurried down the corridor.
+Some doors stood open, showing the various chemical and biological
+sections. The physicists had their own dome, on the other side of the
+Hill, and even so were apt to curse the stray fields generated here. If
+they had come this far to get away from solar radiations, it was only
+reasonable, as anyone but a chemist could see, that--
+
+The screen stood at the end of the hall, next to the tunnel stairs.
+Gilchrist checked himself and stood with a swift wild pulse in his
+throat. Catherine Bardas was using it.
+
+He had often thought that the modern fashion of outbreeding yielded
+humans more handsome than any pure racial type could be. When a girl
+was half Greek and half Amerind, and a gifted biosynthesizer on top of
+it, a man like him could only stare.
+
+Mohammed Jahangir's brown, bearded face registered more annoyance
+than admiration as he spoke out of the screen. "Yes. Dr. Bardas," he
+said with strained courtesy. "I know. My office is being swamped with
+complaints."
+
+"Well, what's the trouble?" asked the girl. Her voice was low and
+gentle, even at this moment.
+
+"I'm not sure," said the engineer. "The domes' temperature is dropping,
+that's all. We haven't located the trouble yet, but it can't be
+serious."
+
+"All I'm asking," said Catherine Bardas patiently, "is how much longer
+this will go on and how much lower it's going to get. I'm trying to
+synthesize a cell, and it takes precisely controlled conditions. If the
+air temperature drops another five degrees, my thermostat won't be able
+to compensate."
+
+"Oh, well ... I'm sure you can count on repair being complete before
+that happens."
+
+"All right," said Catherine sweetly. "If not, though, I'll personally
+bung you out the main air-lock _sans_ spacesuit."
+
+Jahangir laughed and cut off. The light of fluorotubes slid blue-black
+off the girl's shoulder-length hair as she turned around. Her face was
+smooth and dark, with high cheekbones and a lovely molding of lips and
+nose and chin.
+
+"Oh--hello, Tom," she smiled. "All through here."
+
+"Th-th-th--Never mind," he fumbled. "I was only g-going to ask about it
+myself."
+
+"Well--" She yawned and stretched with breathtaking effect. "I suppose
+I'd better get back and--"
+
+"Ah, why so, señorita?" replied Alemán. "If the work does not need your
+personal attention just now, come join me in a leetle drink. It is near
+dinnertime anyhow."
+
+"All right," she said. "How about you, Tom?"
+
+He merely nodded, for fear of stuttering, and accompanied them down the
+stairs and into the tunnel. Half of him raged at his own timidity--why
+hadn't he made that suggestion?
+
+The passages connecting the domes were all alike, straight featureless
+holes lined with plastic. Behind lay insulation and the pipes of the
+common heating system, then more insulation, finally the Hill itself.
+That was mostly porous iron, surprisingly pure though it held small
+amounts of potassium and aluminum oxides. The entire place was a spongy
+ferrous outcropping. But then, Triton was full of geological freaks.
+
+"How goes your work?" asked Alemán sociably.
+
+"Oh, pretty well," said Catherine. "I suppose you know we've
+synthesized virus which can live outside. Now we're trying to build
+bacteria to do the same."
+
+On a professional level, Gilchrist was not a bad conversationalist.
+His trouble was that not everyone likes to talk shop all the time. "Is
+there any purpose in that, other than pure research to see if you can
+do it?" he inquired. "I can't imagine any attempt ever being made to
+colonize this moon."
+
+"Well, you never know," she answered. "If there's ever any reason for
+it, oxide-reducing germs will be needed."
+
+"As well as a nuclear heating system for the whole world, and--What
+do your life forms use for energy, though? Hardly enough sunlight, I
+should think."
+
+"Oh, but there is, for the right biochemistry with the right
+catalysts--analogous to our own enzymes. It makes a pretty feeble type
+of life, of course, but I hope to get bacteria which can live off the
+local ores and frozen gases by exothermic reactions. Don't forget, when
+it's really cold a thermal engine can have a very high efficiency; and
+all living organisms are thermal engines of a sort."
+
+They took the stairs leading up into the main dome: apartments,
+refectories, social centers, and offices. Another stair led downward
+to the central heating plant in the body of the Hill. Gilchrist saw an
+engineer going that way with a metering kit and a worried look.
+
+The bar was crowded, this was cocktail hour for the swing shift
+and--popular opinion to the contrary--a scientist likes his meals
+regular and only lives off sandwiches brought to the lab when he must.
+They found a table and sat down. Nobody had installed dial units, so
+junior technicians earned extra money as waiters. One of them took
+their orders and chits.
+
+The ventilators struggled gallantly with the smoke. It hazed the murals
+with which some homesick soul had tried to remember the green Earth. A
+couple of astronomers at the next table were noisily disputing theories.
+
+"--Dammit, Pluto's got to be an escaped satellite of Neptune. Look at
+their orbits ... and Pluto is where Neptune should be according to
+Bode's Law."
+
+"I know. I've heard that song before. I suppose you favor the Invader
+theory?"
+
+"What else will account for the facts? A big planet comes wandering in,
+yanks Neptune sunward and frees Pluto; but Neptune captures a satellite
+of the Invader. Triton's got to be a captured body, with this screwy
+retrograde orbit. And Nereid--"
+
+"Have you ever analyzed the mechanics of that implausible proposition?
+Look here--" A pencil came out and began scribbling on the
+long-suffering table top.
+
+Catherine chuckled. "I wonder if we'll ever find out," she murmured.
+
+Gilchrist rubbed chilled fingers together. Blast it, the air was still
+cooling off! "It'd be interesting to land a ship on Nep himself and
+check the geology," he said. "A catastrophe like that would leave
+traces."
+
+"When they can build a ship capable of landing on a major planet
+without being squeezed flat by the air pressure, that'll be the day. I
+think we'll have to settle for telescopes and spectroscopes for a long,
+long time to come--"
+
+The girl's voice trailed off, and her dark fine head poised. The
+loudspeaker was like thunder.
+
+"DR. VESEY! DR. VESEY! PLEASE CONTACT ENGINEERING OFFICE! DR. VESEY,
+PLEASE CONTACT DR. JAHANGIR! OVER."
+
+For a moment, there was silence in the bar.
+
+"I wonder what the trouble is," said Alemán.
+
+"Something to do with the heating plant, I suppose--" Again
+Catherine's tones died, and they stared at each other.
+
+The station was a magnificent machine; it represented an engineering
+achievement which would have been impossible even fifty years ago. It
+kept a hundred human creatures warm and moist, it replenished their air
+and synthesized their food and raised a wall of light against darkness.
+But it had not the equipment to call across nearly four and a half
+billion kilometers of vacuum. It had no ship of its own, and the great
+Corps vessel would not be back for three years.
+
+It was a long way to Earth.
+
+       *       *       *       *       *
+
+Dinner was a silent affair that period. There were a few low-voiced
+exchanges, but they only seemed to deepen the waiting stillness.
+
+And the cold grew apace. You could see your breath, and your thin
+garments were of little help.
+
+The meal was over, and the groups of friends were beginning to drift
+out of the refectory, when the intercoms woke up again. This chamber
+had a vision screen. Not an eye stirred from Director Samuel Vesey as
+he looked out of it.
+
+His lips were firm and his voice steady, but there was a gleam of sweat
+on the ebony skin--despite the cold. He stared directly before him and
+spoke:
+
+"Attention, all personnel. Emergency situation. Your attention, please."
+
+After a moment, he seemed to relax formality and spoke as if face to
+face. "You've all noticed our trouble. Something has gone wrong with
+the heating plant, and Dr. Jahangir's crew haven't located the trouble
+so far.
+
+"Now there's no reason for panic. The extrapolated curve of temperature
+decline indicates that, at worst, it'll level off at about zero
+Centigrade. That won't be fun, but we can stand it till the difficulty
+has been found. Everyone is advised to dress as warmly as possible.
+Food and air plant crews are going on emergency status. All projects
+requiring energy sources are cancelled till further notice.
+
+"According to the meters, there's nothing wrong with the pile. It's
+still putting out as much heat as it always has. But somehow, that heat
+isn't getting to us as it should. The engineers are checking the pipes
+now.
+
+"I'll have a stat of the findings made up and issued. Suggestions are
+welcome, but please take them to my office--the engineers have their
+own work to do. Above all, don't panic! This is a nuisance, I know, but
+there's no reason to be afraid.
+
+"All personnel not needed at once, stand by. The following specialists
+please report to me--"
+
+He read off the list, all physicists, and closed his talk with a forced
+grin and thumbs up.
+
+As if it had broken a dam, the message released a babble of words.
+Gilchrist saw Catherine striding out of the room and hastened after her.
+
+"Where are you going?" he asked.
+
+"Where do you think?" she replied. "To put on six layers of clothes."
+
+He nodded. "Best thing. I'll come along, if I may--my room's near
+yours."
+
+A woman, still in her smock, was trying to comfort a child that
+shivered and cried. A Malayan geologist stood with teeth clattering in
+his jaws. An engineer snarled when someone tried to question him and
+ran on down the corridor.
+
+"What do you think?" asked Gilchrist inanely.
+
+"I don't have any thoughts about the heating plant," said Catherine.
+Her voice held a thin edge. "I'm too busy worrying about food and air."
+
+Gilchrist's tongue was thick and dry in his mouth. The biochemistry of
+food creation and oxygen renewal died when it got even chilly.
+
+       *       *       *       *       *
+
+Finished dressing, they looked at each other in helplessness. Now what?
+
+The temperature approached its minimum in a nosedive. There had
+always been a delicate equilibrium; it couldn't be otherwise, when
+the interior of the domes was kept at nearly 240 degrees above the
+surrounding world. The nuclear pile devoted most of its output to
+maintaining that balance, with only a fraction going to the electric
+generators.
+
+Gilchrist thrust hands which were mottled blue with cold into his
+pockets. Breath smoked white before him. Already a thin layer of
+hoarfrost was on ceiling and furniture.
+
+"How long can we stand this?" he asked.
+
+"I don't know," said Catherine. "Not too long, I should think, since
+nobody has adequate clothes. The children should ... suffer ... pretty
+quickly. Too much drain on body energy." She clamped her lips together.
+"Use your mental training. You can ignore this till it begins actually
+breaking down your physique."
+
+Gilchrist made an effort, but couldn't do it. He could stop shivering,
+but the chill dank on his skin, and the cold sucked in by his nose,
+were still there in his consciousness, like a nightmare riding him.
+
+"They'll be dehumidifying the air," said Catherine. "That'll help
+some." She began walking down the hall. "I want to see what they're
+doing about the food and oxy sections."
+
+A small mob had had the same idea. It swirled and mumbled in the hall
+outside the service rooms. A pair of hard-looking young engineers armed
+with monkey wrenches stood guard.
+
+Catherine wormed her way through the crowd and smiled at them. Their
+exasperation dissolved, and one of them, a thickset red-head by the
+name of O'Mallory, actually grinned. Gilchrist, standing moodily behind
+the girl, could hardly blame him.
+
+"How's it going in there?" she asked.
+
+"Well, now, I suppose the Old Man _is_ being sort of slow about his
+bulletins," said O'Mallory. "It's under control here."
+
+"But what are they doing?"
+
+"Rigging electric heaters, of course. It'll take all the juice we have
+to maintain these rooms at the right temperature, so I'm afraid they'll
+be cutting off light and power to the rest of the Hill."
+
+She frowned. "It's the only thing, I suppose. But what about the
+people?"
+
+"They'll have to jam together in the refectories and clubrooms. That'll
+help keep 'em warm."
+
+"Any idea what the trouble is?"
+
+O'Mallory scowled. "We'll get it fixed," he said.
+
+"That means you don't know." She spoke it calmly.
+
+"The pile's all right," he said. "We telemetered it. I'd'a done that
+myself, but you know how it is--" He puffed himself up a trifle. "They
+need a couple husky chaps to keep the crowd orderly. Anyhow, the pile's
+still putting out just as it should, still at 500 degrees like it ought
+to be. In fact, it's even a bit warmer than that; why, I don't know."
+
+Gilchrist cleared his throat. "Th-th-then the trouble is with the ...
+heating pipes," he faltered.
+
+"How did you ever guess?" asked O'Mallory with elaborate sarcasm.
+
+"Lay off him," said Catherine. "We're all having a tough time."
+
+Gilchrist bit his lip. It wasn't enough to be a tongue-tied idiot, he
+seemed to need a woman's protection.
+
+"Trouble is, of course," said O'Mallory, "the pipes are buried in
+insulation, behind good solid plastic. They'll be hard to get at."
+
+"Whoever designed this farce ought to have to live in it," said his
+companion savagely.
+
+"The same design's worked on Titan with no trouble at all," declared
+O'Mallory.
+
+Catherine's face took on a grimness. "There never was much point in
+making these outer-planet domes capable of quick repair," she said. "If
+something goes wrong, the personnel are likely to be dead before they
+can fix it."
+
+"Now, now, that's no way to talk," smiled O'Mallory. "Look, I get off
+duty at 0800. Care to have a drink with me then?"
+
+Catherine smiled back. "If the bar's operating, sure."
+
+Gilchrist wandered numbly after her as she left.
+
+The cold gnawed at him. He rubbed his ears, unsure about frostbite. Odd
+how fast you got tired--It was hard to think.
+
+"I'd better get back to my lab and put things away before they turn off
+the electricity to it," he said.
+
+"Good idea. Might as well tidy up in my own place." Something flickered
+darkly in the girl's eyes. "It'll take our minds off--"
+
+Off gloom, and cold, and the domes turned to blocks of ice, and a final
+night gaping before all men. Off the chasm of loneliness between the
+Hill and the Earth.
+
+They were back in the chemical section when Alemán came out of his lab.
+The little man's olive skin had turned a dirty gray.
+
+"What is it?" Gilchrist stopped, and something knotted hard in his guts.
+
+"_Madre de Díos--_" Alemán licked sandy lips. "We are finished."
+
+"It's not that bad," said Catherine.
+
+"You do not understand!" he shrieked. "Come here!"
+
+They followed him into his laboratory. He mumbled words about having
+checked a hunch, but it was his hands they watched. Those picked up a
+Geiger counter and brought it over to a wall and traced the path of a
+buried heating pipe.
+
+The clicking roared out.
+
+       *       *       *       *       *
+
+"Beta emission," said Gilchrist. His mouth felt cottony.
+
+"How intense?" whispered Catherine.
+
+Gilchrist set up an integrating counter and let it run for a while.
+"Low," he said. "But the dosage is cumulative. A week of this, and
+we'll begin to show the effects. A month, and we're dead."
+
+"There's always some small beta emission from the pipes," said the
+girl. "A little tritium gets formed down in the pile room.
+It's ... never been enough to matter."
+
+"Somehow, the pile's beginning to make more H-3, then." Gilchrist sat
+down on a bench and stared blankly at the floor.
+
+"The laws of nature--" Alemán had calmed down a bit, but his eyes were
+rimmed with white.
+
+"Yes?" asked Catherine when he stopped. She spoke mostly to fend off
+the silence.
+
+"I 'ave sometimes thought ... what we know in science is so leetle. It
+may be the whole universe, it has been in a ... a most improbable state
+for the past few billion years." Alemán met her gaze as if pleading
+to be called a liar. "It may be that what we thought to be the laws of
+nature, those were only a leetle statistical fluctuation."
+
+"And now we're going back onto the probability curve?" muttered
+Gilchrist. He shook himself. "No, damn it. I won't accept that till I
+must. There's got to be some rational explanation."
+
+"Leakage in the pipes?" ventured Catherine.
+
+"We'd know that. Nor does it account for the radiation. No, it's--" His
+voice twisted up on him, and he groped out a cigaret. "It's something
+natural."
+
+"What is natural?" said Alemán. "How do we know, leetle creeping things
+as we are, living only by the grace of God? We 'ave come one long way
+from home." His vision strayed to the viewport with a kind of horror.
+
+_Yes_, thought Gilchrist in the chilled darkness of his mind, _yes, we
+have come far. Four and a half billion kilometers further out from the
+sun. The planet-sized moon of a world which could swallow ours whole
+without noticing. A thin hydrogen atmosphere, glaciers of nitrogen
+which turn to rivers when it warms up, ammonia snow, and a temperature
+not far above absolute zero. What do we know? What is this arrogance of
+ours which insists that the truth on Earth is also the truth on the rim
+of space?_
+
+No!
+
+He stood up, shuddering with cold, and said slowly: "We'd better go see
+Dr. Vesey. He has to know, and maybe they haven't thought to check the
+radiation. And then--"
+
+Catherine stood waiting.
+
+"Then we have to think our way out of this mess," he finished lamely.
+"Let's, uh, start from the beginning. Think back how th-th-the heating
+plant works."
+
+       *       *       *       *       *
+
+Down in the bowels of the Hill was a great man-made cave. It had been
+carved out of the native iron, with rough pillars left to support the
+roof; walls and ceiling were lined with impermeable metal, but the
+floor was in its native state--who cared if there was seepage downward?
+
+The pile sat there, heart and life of the station.
+
+It was not a big one, just sufficient to maintain man on Triton.
+Part of its energy was diverted to the mercury-vapor turbines which
+furnished electricity. The rest went to heat the domes above.
+
+Now travel across trans-Jovian spaces is long and costly; even the
+smallest saving means much. Very heavy insulation against the haze of
+neutrons which the pile emitted could scarcely be hauled from Earth,
+nor had there been any reason to spend time and labor manufacturing it
+on Triton.
+
+Instead, pumps sucked in the hydrogen air and compressed it to about
+600 atmospheres. There is no better shield against high-energy
+neutrons; they bounce off the light molecules and slow down to a speed
+which makes them perfectly harmless laggards which don't travel far
+before decaying into hydrogen themselves. This, as well as the direct
+radiation of the pile, turned the room hot--some 500 degrees.
+
+So what was more natural than that the same hydrogen should be
+circulated through pipes of chrome-vanadium steel, which is relatively
+impenetrable even at such temperatures, and heat the domes?
+
+There was, of course, considerable loss of energy as the compressed gas
+seeped through the Hill and back into the satellite's atmosphere. But
+the pumps maintained the pressure. It was not the most efficient system
+which could have been devised; it would have been ludicrous on Earth.
+But on Triton, terminal of nowhere, men had necessarily sacrificed some
+engineering excellence to the stiff requirements of transportation and
+labor.
+
+And after all, it had worked without a hitch for many years on Saturn's
+largest moon. It had worked for two years on Neptune's--
+
+       *       *       *       *       *
+
+Samuel Vesey drummed on his desk with nervous fingers. His dark
+countenance was already haggard, the eyes sunken and feverish.
+
+"Yes," he said. "Yes, it was news to me."
+
+Jahangir put down the counter. The office was very quiet for a while.
+
+"Don't spread the word," said Vesey. "We'll confine it to the
+engineers. Conditions are bad enough without a riot breaking loose. We
+can take several days of this radiation without harm, but you know how
+some people are about it."
+
+"You've not been very candid so far," snapped Catherine. "Just exactly
+what have you learned?"
+
+Jahangir shrugged. There was a white frost rimming his beard. "There've
+been no bulletins because there's no news," he replied. "We checked the
+pile. It's still putting out as it should. The neutron flux density is
+the same as ever. It's the gas there and in our pipes which has gotten
+cold and ... radioactive."
+
+"Have you looked directly in the pile room--actually entered?" demanded
+Alemán.
+
+Jahangir lifted his shoulders again. "My dear old chap," he murmured.
+"At a temperature of 500 and a pressure of 600?" After a moment, he
+frowned. "I do have some men modifying a trac so it could be driven
+in there for a short time. But I don't expect to find anything. It's
+mostly to keep them busy."
+
+"How about the pipes, then?" asked Gilchrist.
+
+"Internal gas pressure and velocity of circulation is just about what
+it always has been. According to the meters, anyway, which I don't
+think are lying. I don't want to block off a section and rip it out
+except as a last resort. It would just be wasted effort, I'm sure."
+Jahangir shook his turbanned head. "No, this is some phenomenon which
+we'll have to think our way through, not bull through."
+
+Vesey nodded curtly. "I suggest you three go back to the common rooms,"
+he said. "We'll be shunting all the power to food and oxy soon. If you
+have any further suggestions, pass them on ... otherwise, sit tight."
+
+It was dismissal.
+
+       *       *       *       *       *
+
+The rooms stank.
+
+Some ninety human beings were jammed together in three long chambers
+and an adjacent kitchen. The ventilators could not quite handle that
+load.
+
+They stood huddled together, children to the inside, while those on
+the rim of the pack hugged their shoulders and clenched teeth between
+blue lips. Little was said. So far there was calm of a sort--enough
+personnel had had intensive mind training to be a steadying influence;
+but it was a thin membrane stretched near breaking.
+
+As he came in, Gilchrist thought of a scene from Dante's hell.
+Somewhere in that dense mass, a child was sobbing. The lights were
+dim--he wondered why--and distorted faces were whittled out of thick
+shadow.
+
+"G-g-get inside ... in front of me," he said to Catherine.
+
+"I'll be all right," answered the girl. "It's a fact that women can
+stand cold better than men."
+
+Alemán chuckled thinly. "But our Thomas is well padded against it," he
+said.
+
+Gilchrist winced. He himself made jokes about his figure, but it was
+a cover-up. Then he wondered why he should care; they'd all be dead
+anyway, before long.
+
+A colleague, Danton, turned empty eyes on them as they joined the rest.
+"Any word?" he asked.
+
+"They're working on it," said Catherine shortly.
+
+"God! Won't they hurry up? I've got a wife and kid. And we can't even
+sleep, it's so cold."
+
+Yes, thought Gilchrist, that would be another angle. Weariness to eat
+away strength and hope ... radiation would work fast on people in a
+depressed state.
+
+"They could at least give us a heater in here!" exclaimed Danton. His
+tone was raw. Shadows muffled his face and body.
+
+"All the juice we can spare is going to the food and air plants. No use
+being warm if you starve or suffocate," said Catherine.
+
+"I know, I know. But--Well, why aren't we getting more light? There
+ought to be enough current to heat the plants and still furnish a
+decent glow in here."
+
+"Something else--" Gilchrist hesitated. "Something else is operating,
+then, and sucking a lot of power. I don't know what."
+
+"They say the pile itself is as hot as ever. Why can't we run a pipe
+directly from it?"
+
+"And get a mess of fast neutrons?" Catherine's voice died. After
+all ... they were being irradiated as they stood here and trembled.
+
+"We've got batteries!" It was almost a snarl from Danton's throat.
+"Batteries enough to keep us going comfortably for days. Why not use
+them?"
+
+"And suppose the trouble hasn't been fixed by the time they're
+drained?" challenged Gilchrist.
+
+"Don't say that!"
+
+"Take it easy," advised another man.
+
+Danton bit his lip and faced away, mumbling to himself.
+
+A baby began to cry. There seemed no way of quieting it.
+
+"Turn that bloody brat off!" The tone came saw-toothed from somewhere
+in the pack.
+
+"Shut up!" A woman's voice, close to hysteria.
+
+Gilchrist realized that his teeth were rattling. He forced them to
+stop. The air was foul in his nostrils.
+
+He thought of beaches under a flooding sun, of summer meadows and a
+long sweaty walk down dusty roads, he thought of birds and blue sky.
+But it was no good. None of it was real.
+
+The reality was here, just beyond the walls, where Neptune hung ashen
+above glittering snow that was not snow, where a thin poisonous wind
+whimpered between barren snags, where the dark and the cold flowed
+triumphantly close. The reality would be a block of solid gas, a
+hundred human corpses locked in it like flies in amber, it would be
+death and the end of all things.
+
+He spoke slowly, through numbed lips: "Why has man always supposed that
+God cared?"
+
+"We don't know if He does or not," said Catherine. "But man cares,
+isn't that enough?"
+
+"Not when the next nearest man is so far away," said Alemán, trying to
+smile. "I will believe in God; man is too small."
+
+Danton turned around again. "Then why won't He help us now?" he cried.
+"Why won't He at least save the children?"
+
+"I said God cared," answered Alemán quietly, "not that He will do our
+work for us."
+
+"Stow the theology, you two," said Catherine. "We're going to pieces in
+here. Can't somebody start a song?"
+
+Alemán nodded. "Who has a guitar?" When there was no response, he began
+singing a capella:
+
+    "_La cucaracha, la cucaracha,
+    Ya no quiere caminar--_"
+
+Voices joined in, self-consciously. They found themselves too few, and
+the song died.
+
+Catherine rubbed her fingers together. "Even my pockets are cold now,"
+she said wryly.
+
+Gilchrist surprised himself; he took her hands in his. "That may help,"
+he said.
+
+"Why, thank you, Sir Galahad," she laughed. "You--Oh. Hey, there!"
+
+O'Mallory, off guard detail now that everyone was assembled here, came
+over. He looked even bulkier than before in half a dozen layers of
+clothing. Gilchrist, who had been prepared to stand impotently in the
+background while the engineer distributed blarney, was almost relieved
+to see the fear on him. _He_ knew!
+
+"Any word?" asked Catherine.
+
+"Not yet," he muttered.
+
+"Why 'ave we so leetle light?" inquired Alemán. "What is it that draws
+the current so much? Surely not the heaters."
+
+"No. It's the pump. The air-intake pump down in the pile room."
+O'Mallory's voice grew higher. "It's working overtime, sucking in more
+hydrogen. Don't ask me why! I don't know! Nobody does!"
+
+"Wait," said Catherine eagerly. "If the room's losing its warm gas, and
+having to replace it from the cold stuff outside, would that account
+for the trouble we're having?"
+
+"No," said O'Mallory dully. "We can't figure out where the hydrogen's
+disappearing to, and anyway it shouldn't make that much difference. The
+energy output down there's about what it's supposed to be, you know."
+
+Gilchrist stood trying to think. His brain felt gelid.
+
+But damn it, damn it, damn it, there must be a rational answer. He
+couldn't believe they had blundered into an ugly unknown facet of the
+cosmos. Natural law was the same, here or in the farthest galaxy--it
+had to be.
+
+Item, he thought wearily. The pile was operating as usual, except that
+somehow hydrogen was being lost abnormally fast and therefore the pump
+had to bring in more from Triton's air. But--
+
+--Item. That couldn't be due to a leak in the heating pipes, because
+they were still at their ordinary pressure.
+
+--Item. The gas in the pipes included some radioactive isotope.
+Nevertheless--
+
+--Item. It could not be hydrogen-3, because the pile was working
+normally and its neutron leakage just wasn't enough to produce that
+much. Therefore, some other element was involved.
+
+Carbon? There was a little methane vapor in Triton's atmosphere. But
+not enough. Anyway, carbon-13 was a stable isotope, and the pile-room
+conditions wouldn't produce carbon-14. Unless--
+
+_Wait a minute!_ Something flickered on the edge of awareness.
+
+Danton had buttonholed O'Mallory. "We were talking about using the
+battery banks," he said.
+
+The engineer shrugged. "And what happens after they're used up? No,
+we're keeping them as a last resort." His grin was hideous. "We could
+get six or seven comfortable days out of them."
+
+"Then let's have them! If you thumb-fingered idiots haven't fixed the
+system by then, you deserve to die."
+
+"And you'll die right along with us, laddybuck." O'Mallory bristled.
+"Don't think the black gang's loafing. We're taking the cold and the
+radiation as much as you are--"
+
+"_Radiation?_"
+
+Faces turned around. Gilchrist saw eyes gleam white. The word rose in a
+roar, and a woman screamed.
+
+"Shut up!" bawled O'Mallory frantically. "Shut up!"
+
+Danton shouted and swung at him. The engineer shook his head and hit
+back. As Danton lurched, a man rabbit-punched O'Mallory from behind.
+
+Gilchrist yanked Catherine away. The mob spilled over, a sudden storm.
+He heard a table splinter.
+
+Someone leaped at him. He had been an educated man, a most scientific
+and urbane man, but he had just been told that hard radiation was
+pouring through his body and he ran about and howled. Gilchrist
+had a glimpse of an unshaven face drawn into a long thin box with
+terror, then he hit. The man came on, ignoring blows, his own fists
+windmilling. Gilchrist lowered his head and tried clumsily to take the
+fury on his arms. Catherine, he thought dizzily, Catherine was at least
+behind him.
+
+The man yelled. He sat down hard and gripped his stomach, retching.
+Alemán laughed shortly. "A good kick is advisable in such unsporting
+circumstances, _mi amigo_."
+
+"Come on," gasped Catherine. "We've got to get help."
+
+They fled down a tunnel of blackness. The riot noise faded behind, and
+there was only the hollow slapping of their feet.
+
+Lights burned ahead, Vesey's office. A pair of engineer guards tried to
+halt them. Gilchrist choked out an explanation.
+
+Vesey emerged and swore luridly, out of hurt and bewilderment at his
+own people. "And we haven't a tear gas bomb or a needler in the place!"
+He brooded a moment, then whirled on Jahangir, who had come out behind
+him. "Get a tank of compressed ammonia gas from the chem section and
+give 'em a few squirts if they're still kicking up when you arrive.
+That ought to quiet them without doing any permanent damage."
+
+The chief nodded and bounded off with his subordinates. In this
+gravity, one man could carry a good-sized tank.
+
+Vesey beat a fist into his palm. There was agony on his face.
+
+Catherine laid a hand on his arm. "You've no choice," she said gently.
+"Ammonia is rough stuff, but it would be worse if children started
+getting trampled."
+
+Gilchrist, leaning against the wall, straightened. It was as if a bolt
+had snapped home within him. His shout hurt their eardrums.
+
+"_Ammonia!_"
+
+"Yes," said Vesey dully. "What about it?" Breath smoked from his mouth,
+and his skin was rough with gooseflesh.
+
+"I--I--I--It's your ... y-y-your _answer_!"
+
+       *       *       *       *       *
+
+They had set up a heater in his laboratory so he could work, but the
+test was quickly made. Gilchrist turned from his apparatus and nodded,
+grinning with victory. "That settles the matter. This sample from the
+pile room proves it. The air down there is about half ammonia."
+
+Vesey looked red-eyed at him. There hadn't been much harm done in the
+riot, but there had been a bad few minutes. "How's it work?" he asked.
+"I'm no chemist."
+
+Alemán opened his mouth, then bowed grandly. "You tell him, Thomas. It
+is your moment."
+
+Gilchrist took out a cigaret. He would have liked to make a cavalier
+performance of it, with Catherine watching, but his chilled fingers
+were clumsy and he dropped the little cylinder. She laughed and picked
+it up for him.
+
+"Simple," he said. With technicalities to discuss, he could speak well
+enough, even when his eyes kept straying to the girl. "What we have
+down there is a Haber process chamber. It's a method for manufacturing
+ammonia out of nitrogen and hydrogen--obsolete now, but still of
+interest to physical chemists like myself.
+
+"I haven't tested this sample for nitrogen yet, but there's got to be
+some, because ammonia is NH_{3}. Obviously, there's a vein of solid
+nitrogen down under the Hill. As the heat from the pile room penetrated
+downward, this slowly warmed up. Some of it turned gaseous, generating
+terrific pressure; and finally that pressure forced the gas up into the
+pile room.
+
+"Now, when you have a nitrogen-hydrogen mixture at 500 degrees and 600
+atmospheres, in the presence of a suitable catalyst, you get about a 45
+percent yield of ammonia--"
+
+"You looked that up," said Catherine accusingly.
+
+He chuckled. "My dear girl," he said, "there are two ways to know a
+thing: you can know it, or you can know where to look it up. I prefer
+the latter." After a moment: "Naturally, this combination decreases
+the total volume of gas; so the pump has to pull in more hydrogen from
+outside to satisfy its barystat, and more nitrogen is welling from
+below all the time. We've been operating quite an efficient little
+ammonia factory down there, though it should reach equilibrium as to
+pressure and yield pretty soon.
+
+"The Haber process catalyst, incidentally, is spongy iron with certain
+promoters--potassium and aluminum oxides are excellent ones. In other
+words, it so happened that the Hill is a natural Haber catalyst, which
+is why we've had this trouble."
+
+"And I suppose the reaction is endothermic and absorbs heat?" asked
+Catherine.
+
+"No ... as a matter of fact, it's exothermic, which is why the pile
+is actually a little hotter than usual, and that in spite of having
+to warm up all that outside air. But ammonia does have a considerably
+higher specific heat than hydrogen. So, while the gas in our pipes has
+the same caloric content, it has a lower temperature."
+
+"Ummm--" Vesey rubbed his chin. "And the radiation?"
+
+"Nitrogen plus neutrons gives carbon-14, a beta emitter."
+
+"All right," said Catherine. "Now tell us how to repair the situation."
+
+Her tone was light--after all, the answer was obvious--but it didn't
+escape Gilchrist that she _had_ asked him to speak. Or was he thinking
+wishfully?
+
+"We turn off the pile, empty the pipes, and go into the room in
+spacesuits," he said. "Probably the simplest thing would be to drill
+an outlet for the nitrogen vein and drop a thermite bomb down
+there ... that should flush it out in a hurry. Or maybe we can lay an
+impermeable floor. In any event, it shouldn't take more than a few
+days, which the batteries will see us through. Then we can go back to
+operation as usual."
+
+Vesey nodded. "I'll put Jahangir on it right away." He stood up and
+extended his hand. "As for you, Dr. Gilchrist, you've saved all our
+lives and--"
+
+"Shucks." His cheeks felt hot. "It was my own neck too."
+
+Before his self-confidence could evaporate, he turned to Catherine.
+"Since we can't get back to work for a few days, how about going down
+to the bar for a drink? I believe it'll soon be functioning again.
+And, uh, there'll doubtless be a dance to celebrate later--"
+
+"I didn't know you could dance," she said.
+
+"I can't," he blurted.
+
+They went out together. It is not merely inorganic reactions which
+require a catalyst.
+
+
+
+
+
+End of the Project Gutenberg EBook of Catalysis, by Poul Anderson
+
+*** END OF THIS PROJECT GUTENBERG EBOOK CATALYSIS ***
+
+***** This file should be named 59373-8.txt or 59373-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/9/3/7/59373/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

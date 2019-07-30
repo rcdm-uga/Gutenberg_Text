@@ -1,0 +1,2257 @@
+The Project Gutenberg eBook, A Short Narrative of the Life and Actions of
+His Grace John, D. of Marlborogh, by Daniel Defoe, Edited by Paula R.
+Backscheider
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: A Short Narrative of the Life and Actions of His Grace John, D. of Marlborogh
+
+
+Author: Daniel Defoe
+
+Editor: Paula R. Backscheider
+
+Release Date: September 22, 2011  [eBook #37505]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+
+***START OF THE PROJECT GUTENBERG EBOOK A SHORT NARRATIVE OF THE LIFE AND
+ACTIONS OF HIS GRACE JOHN, D. OF MARLBOROGH***
+
+
+E-text prepared by Chris Curnow, Joseph Cooper, and the Online Distributed
+Proofreading Team (http://www.pgdp.net)
+
+
+
+The Augustan Reprint Society
+
+[DANIEL DEFOE]
+
+A SHORT NARRATIVE OF THE
+Life and Actions
+Of His GRACE
+_JOHN_, D. of Marlborough
+
+(1711)
+
+_Introduction by_
+PAULA R. BACKSCHEIDER
+
+
+
+
+
+
+
+Publication Number 168
+William Andrews Clark Memorial Library
+University Of California, Los Angeles
+1974
+
+
+GENERAL EDITORS
+
+  William E. Conway, William Andrews Clark Memorial Library
+  George Robert Guffey, University of California, Los Angeles
+  Maximillian E. Novak, University of California, Los Angeles
+  David S. Rodes, University of California, Los Angeles
+
+
+ADVISORY EDITORS
+
+  Richard C. Boys, University of Michigan
+  James L. Clifford, Columbia University
+  Ralph Cohen, University of Virginia
+  Vinton A. Dearing, University of California, Los Angeles
+  Arthur Friedman, University of Chicago
+  Louis A. Landa, Princeton University
+  Earl Miner, Princeton University
+  Samuel H. Monk, University of Minnesota
+  Everett T. Moore, University of California, Los Angeles
+  Lawrence Clark Powell, William Andrews Clark Memorial Library
+  James Sutherland, University College, London
+  H. T. Swedenberg, Jr., University of California, Los Angeles
+  Robert Vosper, William Andrews Clark Memorial Library
+
+
+CORRESPONDING SECRETARY
+
+  Edna C. Davis, William Andrews Clark Memorial Library
+
+
+EDITORIAL ASSISTANT
+
+  Beverly J. Onley, William Andrews Clark Memorial Library
+
+
+Typography by Wm. M. Cheney
+
+
+
+
+INTRODUCTION
+
+Opinion is a mighty matter in war, and I doubt but the French think it
+impossible to conquer an army that he leads, and our soldiers think
+the same; and how far even this step may encourage the French to play
+tricks with us, no man knows.
+
+    Swift's _Journal to Stella_, 1 January 1711
+
+    ... the moment he leaves the service and loses the protection of
+    the Court, such scenes will open as no victories can varnish over.
+
+    Bolingbroke's _Letters and Correspondence_,
+    23 January 1711
+
+
+The career of John Churchill, Duke of Marlborough, reflects the
+political battles of nearly thirty years of English politics. In an
+age when duplicity, intrigue, personality, and an immediate history of
+violence characterized politics, John Churchill was a constant, steady
+military success even while his political and personal fortunes
+alternately plunged and soared. His military ability insured his
+importance to the Grand Alliance and his victories brought the
+reverence of the European powers opposing Louis XIV as well as that of
+his own people, but, at the same time, his successes also assured his
+involvement with the fortunes of nearly every major English political
+figure and movement in the years 1688 to 1712.
+
+Marlborough's military career spanned two periods. Aware of the danger
+of the "exorbitant power of France" and the corresponding danger to
+the Protestant religion, disgusted with James's actions at the
+_Gloucester_ shipwreck and in dealing with Scottish Protestants,
+Marlborough had joined the bloodless shift to William of Orange. For
+William, he led the English forces in Flanders in 1689 and in Ireland
+in 1690; in 1691 he was in charge of the British forces in Europe with
+the rank of lieutenant-general. In January, 1692, however, Marlborough
+was dismissed from all of his offices for a combination of reasons,
+each insufficient in itself but all too typical for him--open
+opposition to William's Dutch dominated army, rumors that he and
+Sarah, his ambitious and sometimes presumptuous wife, were plotting
+Anne's usurpation of the throne, and dissension aroused between Anne
+and her sister Queen Mary by the quixotic Sarah. When rumors of a
+Jacobite uprising began, Marlborough spent six weeks in the Tower.
+
+Although Marlborough was restored to political favor in 1698 partly as
+a placatory gesture to Anne, it was 1701 before he resumed his
+military career, this time as William's Commander-in-Chief and
+Ambassador Extraordinary to the United Provinces. In this second phase
+of his military career, he won every battle, took every fort that he
+besieged, held the Grand Alliance together, broke the threatening
+supremacy of France, and established England as a major power. Yet,
+during these ten years, Queen Anne's ministry and Parliament underwent
+several major upheavals: the resulting shifts in policy and
+personalities alternately inconvenienced and vexed Marlborough. The
+year 1711 marked the culmination of warring factions and clandestine
+arrangement, and Daniel Defoe's _A Short Narrative of the Life and
+Actions of his grace, John, Duke of Marlborough_, published 20
+February 1711, originated in this battle. (For discussion of
+authorship, please see Appendix.)
+
+Much that happened in these years can be unraveled back to Harley,
+Earl of Oxford. His influences and circuitous dealing emerge wherever
+a close examination of politics is made.[1] Hiding his activities from
+even his closest associates, employing spies and journalists whose
+purposes seem contradictory, manipulating the House of Commons'
+radical October Club while preaching a "broad bottomed" moderate
+government, and buzzing in the Queen's ear in a variety of ways,
+Harley was ready for any exigency. England had wanted peace since 1709
+when their insistence on "no peace without Spain" and on the XXXVII
+Article asking for guarantees of three Spanish towns had rallied the
+French behind the war;[2] Marlborough's pleas that peace be made and
+Spain be dealt with later were ignored. Although Parliament voted
+Malplaquet a triumph, Marlborough's power and prestige were
+systematically shorn away, and embarrassing decisions contrived to
+force his resignation were effected.[3] Should Marlborough resign, a
+scapegoat for defeat or an unfavorable peace would be assured. By
+1710, foreign policy had changed--a growing interest in trade and
+colonization urged Parliament to end a costly and now unnecessary war
+and had united the Tories, Jacobites, the Church party, as well as
+such diverse men as the Dukes of Argyll, Somerset, Newcastle, and
+Shrewsbury, a Whig. With the election of the radical Tory majority
+(240 new members were seated) to the Commons in 1710 and the creation
+of twelve new peers,[4] Harley's job of using diverse elements to form
+a moderate government became more complex. He found it expedient to
+establish and maintain influence with groups ranging from the radical
+Tory October Club to Swift's country squire and clergy _Examiner_
+readers to moderate Whigs such as Shrewsbury. Moreover, Defoe had
+impressed upon him the importance of assuring the nation that moderate
+and sensible men were at the bottom of all of the political
+changes.[5] Harley, therefore, prepared for at least three apparently
+exclusive possibilities--prosecuting the war for several more years,
+negotiating a peace with the Allies, or making a separate peace with
+France without the Allies. To keep all these possibilities alive,
+Harley had to remain in harmony with Marlborough. The general's
+popularity with the soldiers and the European powers and France's awe
+of his military prowess necessitated the appearance that Marlborough's
+command was secure. While the _Examiner_, with its Tory audience and
+its emphasis on pressure for peace, was essential to Harley, so were
+Swift's and Defoe's appeals for moderation at a time when sympathy for
+Marlborough was rampant and the call "no peace without Spain" was
+still defended even by the October Club; for the same reasons he was
+glad to have Bolingbroke openly associated with the _Examiner_.
+
+January of 1711 brought the decisive defeat at Brihuega which
+effectively took the issue of Spanish succession away; in the ensuing
+witch hunt, Almanza and the peace talks of 1709 were revived to
+distract the people. While these inquiries proceeded, England received
+word that France was ready to discuss terms. The delay between this (8
+February) and France's formal proposal (2 May) was an anxious time for
+Harley and his schemers. Defoe was busy setting the stage for the
+outcome.
+
+While Swift, the high Tory, could easily set about discrediting
+Marlborough, the hero and standard bearer, and, by so doing, weaken
+the Whig's position, Defoe's readers required different handling. His
+most effective writing at this time was in pamphlets which reached a
+wider audience and which were not bound by the consistency of the
+Review. Defoe and Swift, primed with the Minister's inside knowledge,
+set about to discredit the Whig ministry in basically the same way. In
+the 15 February _Examiner_, Swift wrote,
+
+    No Body, that I know of, did ever dispute the Duke of Marlborough's
+    Courage, Conduct, or Success; they have been always unquestionable
+    and will continue to be so, in spight of the Malice of his Enemies,
+    or which is yet more, the Weakness of his Advocates. The Nation
+    only wished to see him taken out of ill Hands, and put into better.
+    But, what is all this to the Conduct of the late Ministry, the
+    shameful Mismanagements in Spain, or the wrong Steps in the Treaty
+    of Peace.... [6]
+
+Defoe remarks, "our General wants neither Conduct or Courage" and
+describes his greatest successes as "daughters to preserve his Memory"
+while dissociating him somewhat from the Jacobites, Whigs, and
+"business of [making] peace and war." When the _Review_ finally
+discusses Marlborough's fall, Defoe suggests that the "greatest Guilt
+... is the Error in Policy, and Prudence among his Friends."[7] Both
+writers presented the Duke as a means to an end and discredited him on
+personal grounds (avarice, ambition) thereby protecting the military
+hero and the newborn glory of England fathered by his victories.[8]
+Faced with Dissenters and moderate Whig readers, Defoe's _Review_ had
+to seem to oppose Swift's _Examiner_ with its sneers at trade; not only
+must it be consistent but it was obliged to shift its readers'
+attention more slowly to the earlier failures of the Whig ministry and
+the rich commercial advantages gained in the separate peace.
+
+The _Life of Marlborough_ is part of a stream of pamphlets which Defoe
+wrote supporting the Harley administration; _A Supplement to the Faults
+on Both Sides_, a discussion of the Sacheverell case by two "displac'd
+officers of state," _Rogues on Both Sides_, a study in contrasts
+between old and new Whigs, and old, high flyer, and new Tories, and _A
+Seasonable Caution to the General Assembly_ were published immediately
+before and after. That same year, his pamphlets discuss the October
+Club, the Spanish succession, "Mr. Harley," and the state of religion.
+By summer when the peace was nearly assured though still secret, Defoe
+was writing _Reasons for a Peace; Or, the War at an End_.
+
+Taken in chronological order, Defoe's 1711 pamphlets indicate two
+emerging directions: first, the reasons for ending the war become more
+positive and entirely unconcerned with the General, and, second,
+Defoe's comments about the Duke become less wholeheartedly admiring,
+especially in _No Queen; Or, No General_. _Rogues on Both Sides_ is
+witty praise for moderate men who act "according to English principles
+of Law and Liberty regardless of People and Party" rather than
+believing any demagogue who "cries it rains butter'd Turnips." After
+this, the pamphlets become more informative and solemn--Defoe
+demonstrates Whigs and Tories want the same things and that the country
+bleeds to death. _Armageddon; or the Necessity of Carrying on the War_
+(30 October 1711), _Reasons Why This Nation Ought to put a speedy End
+to this Expensive War_ (6 October), and _Reasons for a Peace: or, the
+War at an End_, for example, catalog the economic ailments--taxes,
+pirates, hard to replace sailors and soldiers killed, but far worse, a
+decline in trade resulting in closed shops and declining manufacturing
+increasing unemployment--"the whole Kingdom sold to Usury" and
+"Consumption of the Growth of the Country." As the year passed, Defoe
+mentioned Marlborough less and less, but the General's possible
+mistakes were progressively forced into balance with his victories.
+While seeming to be moderate, Defoe both tempers his readers' opinions
+of the Duke and turns their attention to other issues.
+
+The techniques and movement in _No Queen: Or, No General_ (10 January
+1712) parallel the techniques and movement in the 1711 pamphlets. In
+this 1712 pamphlet, Defoe's double-edged balance sheet is most obvious;
+in the first six pages he lists the charges against the General which
+he will not discuss--this reminds his readers of every possible failing
+and, because of the language ("I'le forbear to lessen his Glorious
+Character by Reckoning the Number of the Slain, or counting the Cost of
+the Towns"), the significance of each "ignored" charge is increased.
+Defoe recounts the economic issues at stake and insists that when
+Marlborough's "blinded party" made him its representative, regardless
+of his intentions, he became a formidable threat to the Queen and had
+to be removed. The pamphlet gradually turns to the destructiveness of
+party factions and by the patriotic ending ("Alas, what a Condition
+were Britain in if her Fate depended upon the Life, or Gallantry, or
+Merit, of one Man"), Marlborough is no longer an issue.
+
+In the _Life_, Defoe defends the general from the charge of avarice,
+the most plausible charge that the journalists were propagating.
+Marlborough's courage and skill had also been called into question in
+such papers as _The Post Boy_, and a spurious debate raged which could
+only injure Marlborough over the gratitude of the nation. Defoe alludes
+to pamphlets which impugn great men and represent them as "unworthy of
+the Favour of the Prince" slanting the charge that Marlborough had been
+rewarded perhaps too bountifully in order to imply that such writers
+were malicious, uninformed, and ungrateful. Furthermore, Defoe says,
+Marlborough deserved his reward, having bought it at a dear rate, and
+it was no more than what "in all Times belong'd to Generals." Indeed,
+Marlborough's successor, the Duke of Ormond, received the same bread
+perquisite and percentage of foreign pay, but Defoe chooses to "defend"
+Marlborough not with comparable facts which would destroy the
+credibility of the attacking group, but rather with passing references
+to the two other generals with whom he had to divide the money and with
+the profits of sea captains and petty clerks in yards and stores! With
+descriptions of the fitting appearance for generals and Marlborough's
+sobriety in the field, Defoe tips the scales in Marlborough's favor.
+That he ends the section with
+
+    Indeed Generals, tho' the most accomplish'd Heroes, are but Men,
+    they are not Infallible, but may be mistaken as well as other
+    Mortals, they are subject to Faults and Infirmities as well as
+    their Fellow-Creatures; but then their great Services for the good
+    of their Country ought to be cast into the Ballance, against their
+    humane Mistakes; and not only Charity, but Self-consideration
+    should give them very good Quarter, unless their Faults are prov'd
+    to be Wilful and Contumacious.(38)
+
+is a paradigm of his technique. Coming immediately after this defense,
+the argument that his victories should be "cast in the Ballance" is
+somewhat degrading and implies that Marlborough may have been mistaken
+in what he did and even leaves the question open with the phrase
+"unless their Faults are prov'd Wilful and Contumacious."[9] The
+following paragraph, however, opens the subject of Marlborough's
+invincibility. Under the guise of wondering what an ungrateful nation
+would do should he lose a battle, Defoe brings Marlborough's perfect
+record, his piety, and the esteem France and his soldiers had for him
+to our attention. The paragraph before, then, may be taken to introduce
+Defoe's concern--even Marlborough could be mistaken in battle and lose,
+and what would such a nation do then? The paragraph on the whole
+reflects on the nation and is an eloquent defense of the Duke--he is
+human, human beings make mistakes and his great good should excuse him
+even more than an ordinary man's mistakes should be forgiven.
+
+Harley knew that Marlborough was essential until peace negotiations
+were secured. Marlborough had distrusted Harley throughout 1710, but he
+also knew that Harley's stakes in a moderate government were great. In
+1711, Rochester and the October Club began to challenge Harley, and
+their demands alarmed even Queen Anne. The Queen, Bolingbroke, and
+Harley all wrote Marlborough conciliatory letters. Marlborough answered
+in kind and his letter after Harley was stabbed expresses deep concern.
+Harley became increasingly convinced that only peace would preserve his
+power, and Marlborough's power and reputation were essential for an
+acceptable peace. As late as July, Harley's letters to Marlborough are
+respectful and deceitfully warm:
+
+    My lord; I received from the hands of lord Mar, just as I came from
+    Windsor, the honour of your grace's letter, and I am not willing to
+    let a post pass, without making your grace my acknowledgments. It
+    is most certain, that you can best judge what is fit to be proposed
+    upon the subject you are pleased to mention....
+
+    I hope it will be needless to renew the assurances to your grace,
+    that I will not omit any thing in my power, which may testify my
+    zeal for the public, and my particular honour and esteem for your
+    grace; and I doubt not, but when the lord you mention comes, I
+    shall satisfy him of the sincerity of my intentions towards your
+    grace.[10]
+
+Harley's perfidy allowed him to assure Marlborough he would "never do
+any thing which shall forfeit your good opinion" while pretending to
+plan to restore Marlborough to the Queen's confidence. Further, when
+Marlborough appealed to him to silence the libellous attacks by
+journalists, Harley replied, "I do assure your grace I neither know nor
+desire to know any of the authors; and as I heartily wish this
+barbarous war was at an end, I shall be very ready to take my part in
+suppressing them."[11] Details about the financing of Woodstock and
+mutual friends crop up in the letters. So successful is Harley's
+deception that when Sir Solomon Medina accuses Marlborough of graft,
+Marlborough writes Harley:
+
+    Upon my arrival here, I had notice that my name was brought before
+    the commissioners of accounts, possibly without any design to do me
+    a prejudice. However, to prevent any ill impression it might make,
+    I have writ a letter to those gentlemen ... and when you have taken
+    the pains to read the inclosed copy, pray be so kind as to employ
+    your good offices, so as that it may be known I have the advantage
+    of your friendship. No one knows better than your lordship the
+    great use and expence of intelligence, and no one can better
+    explain it; and 'tis for that reason I take the liberty to add a
+    farther request, that you would be so kind to lay the whole, on
+    some fitting opportunity, before the queen, being very well
+    persuaded her majesty, who has so far approved, and so well
+    rewarded my services would not be willing they should now be
+    reflected on.[12]
+
+Defoe points out that criticism of the Duke "may prove Dangerous and
+Fatal" and the joy in the French court at each step in Marlborough's
+fall reinforces Defoe's and Harley's opinion[13] Defoe recounts
+Marlborough's greatest military victories beginning as far back as his
+campaign in Brabant (reminding his readers of possible wealth gained
+through a shipwreck and of the betrayal of Dunkirk as he goes along),
+includes descriptions of his exemplary behavior including regular
+prayers for the Camp, and praises Marlborough as a "finish'd Hero." The
+conclusion to the pamphlet warns the nation again of Marlborough's
+importance; his battles are bringing the enemy to "reason," procuring
+"an honorable and lasting peace." References to the detrimental effect
+of discrediting the general are found intermittently throughout the
+pamphlet in allusion to Hannibal.
+
+Defoe, then, served Harley's purposes well. He defended Marlborough and
+shored up his prestige in a time when it was important for the French
+to think that Marlborough could prosecute the war freely. As a known
+employee of Harley's, Defoe furthered Marlborough's impression that
+Harley could be depended upon.[14] Finally, he began to prepare the
+moderate Whigs for peace by presenting the economic considerations and
+disassociating Marlborough from the Queen's and the ministry's
+"business of peace."
+
+The possibility that Defoe acted independently in this writing cannot
+be discounted.[15] Defoe had praised Marlborough since the beginning of
+his career and the extent to which he and Godolphin adopted William's
+policies added to Defoe's admiration; admiration is clear in this
+pamphlet. Defoe had worked for Godolphin and Sunderland, and may have
+used "by an Old Officer in the Army" as a disguise from Harley or even
+as a means of publishing independently. That Defoe resented attacks on
+his hero can hardly be doubted--the _Review_ and his pamphlets are
+a catalog of the general's triumphs, and no where does he attack
+unequivocably; even in _No Queen_ he puts chief blame on rumors and on
+Marlborough's party. Harley's failure to make permanent provisions for
+Defoe may suggest some dissatisfaction, but even if the possibility
+that the _Life_ was not expressly ordered by Harley is considered, it
+is noteworthy that nothing in it is offensive to Harley, and, more
+important, remarkable that it serves Harley's needs and ends at the
+time so well.
+
+Definitely Defoe's, however, are veiled but telling attacks on Swift
+and his type. Although the purpose of the _Examiner_ was to "furnish
+Mankind, with a Weekly Antidote to that Weekly Poison,"[16] Defoe
+parodied this by saying his pamphlet was to "undeceive the People." The
+"base Pamphleteers" are labeled uninformed and ungrateful; they have
+no way of making right judgments in the matter of perquisites and
+soldier's pay; they go out to see a battlefield as they might a well
+laid-out garden, and, of course, their "Mouths go off smartly with a
+Whiff of Tobacco" (an obvious ridiculing contrast to the cannon fire of
+the real fighters).
+
+Furthermore, compared to attacks on Marlborough in libels such as _The
+Duke of M***'s Confessions to a Jacobite Priest_, _The Land-Leviathan_:
+_or_, _the Modern Hydra_, and _The Perquisite Monger_, Defoe's pamphlet
+was exemplary in its moderation. Even Swift's attacks are moderate
+beside the majority of these 1711-12 pamphlets; not even he conjured
+up memories of regicide and rebellion as did the more numerous and
+libellous pamphleteers. For example, _The Mobb's Address to my Lord
+M***_ (1710) linked Marlborough to Sacheverell and assured the Duke his
+"most dutiful Mobb, will use our utmost Care and Diligence to raise all
+riotous and tumultous Assemblys, and with undaunted Vigour ... oppose
+... all who will keep up the Authority of the Crown." _Oliver's
+Pocket Looking Glass_ (1711) while more erudite was scarcely less
+inflammatory--shades of Cromwell were called up, a "Colossus" with an
+"Army compos'd of almost all nations" faced the "body politic."
+
+The _Life_ exemplifies many of Defoe's life long interests and opinions
+and points to the fiction he was to write. Virtues espoused throughout
+his career are praised here. Ingratitude was a deplorable but all too
+common failing of mankind--that Marlborough should be "undervalued and
+slighted" was "no new Thing, all the Histories of the World are full of
+Examples to this purpose" and his greatness provides but a mark at
+which the envious may shoot. In _Atalantis Major_ Defoe elaborates on
+the causes of the nation's ingratitude: the debt was too great for
+payment and resentment was the natural result. A second interest was
+the military hero; much of Defoe's fiction--_Memoirs of a Cavalier_,
+_Captain Singleton_, for instance--involved military men, and
+Marlborough along with King Gustavus Adolphus of Sweden, another
+soldier who scorned the conventional seventeenth century chess game
+tactics, furnished a model. The "finish'd Hero" described includes all
+of the virtues of Defoe's fictional leaders from Robinson Crusoe to
+John in _Journal of the Plague Year_ to the Cavalier--"Prudent, and
+Vigilant, and Temperate, Alert, and industrious, with an humble
+Submission to the Will of the Almighty" (26), "Temperate, Sober,
+Careful, Couragious, Politick, Skilful, so he is Courteous, Mild,
+Affable, Humble, and Condescending to People of the meanest Condition"
+(45). The Duke's virtues as well as Gustavus's enable the reader of
+_Memoirs of a Cavalier_ and _The Memoirs of Captain George Carlton_ to
+judge the commanders as Defoe would have. Above all, the "assured
+Skill" and "daring Courage" appealed to Defoe--Robinson Crusoe's
+campaigns against the cannibals and in the Far East repeat the daring,
+risk-all quality of Ramilles. Defoe's enjoyment of marching vicariously
+over great battles has led biographers such as J. R. Moore to say that
+it was unfortunate his military genius was never used,[17] and is
+obvious in almost all of his fiction. So skillful are his descriptions
+that J. H. Burton pauses to note "the character and claims of a book
+(_Memoirs of Capt. George Carlton_, 1728) that has afforded him
+valuable instruction on the general character of the war, along with
+special instructions in its leading events."[18]
+
+Defoe's _Life_ was his first biography; other "memoirs" of the Duke of
+Melfort (1714), Daniel Williams (1718), and Major Ramkins (1719)
+suggest the progression to _The Life and Strange Surprizing Adventures
+of Robinson Crusoe_ (1719) and two other lives in that same year.
+Defoe's sometimes troublesome skill with narrative voices is, in the
+_Life_, a shadow of the competence displayed in _Moll Flanders_.
+Although the "old Officer's" voice is sustained and there are excellent
+touches, the distinctiveness and absorbing intimacy are only hinted at.
+The polemist appeals too apparently to his readers while the opening
+pages approach a declamation. The persona protests that he doesn't
+"pretend in this Narrative to Inform the great People at Court,
+concerning this thing," and that he writes only for the common people.
+Defoe does limit carefully his material to events which were common
+knowledge or would have been open to an old soldier--while he describes
+the key maneuver of Ramilles, he certainly lacks a complete overview.
+Many of the virtues praised would appeal most strongly to men who might
+have been common foot concerned with regular bread, a well-run camp,
+and a conscientious strategist, or to simple, pious women glad to hear
+that their general prayed and provided Sunday sermons. Allusions to
+Satan, "the cunning engineer," Solomon, and Moses were common enough,
+while those to Hannibal and Raleigh had been exploited in Defoe's
+other writing. Perhaps the most graphic section in this voice is the
+description of the common soldier's misery in a rainy season march and
+siege. A few passages have the confidential, gossipy tone of ordinary
+people around a tavern table--Sarah was admired abroad, but in her own
+country it was said she was "guilty of more Folly than a Retainer to
+the College in Moore-Fields,"[19] an experienced old general knows more
+coffeehouse quarterbacks, and the soldier naively speculates with
+relish how "my Lord" narrowly escaped being "torn in Pieces" for the
+rumor that he spoke words which would be "brutal from the mouth of
+a Porter." Naive arguments (no man would continue in so hard an
+undertaking from selfish motives), sincere patriotism (defense of his
+King and Queen and praise for a nation "with a generous Race of Warlike
+People" ready to risk their lives), and honest indignation at
+"barbarous Lies" authenticate the narrator.
+
+Defoe's writing--fiction and non-fiction--is all of a piece. The same
+subjects and opinions reoccur and the techniques and style are nearly
+indistinguishable. Expository material alternates with narrative
+examples (which may in turn be followed by a paragraph or two drawing a
+conclusion or a "moral") in all of his writing. The primary difference
+is in the length of the narrative examples--in the fiction they are
+naturally much longer. Over the years, they become increasingly
+dramatic as may be seen in books such as _The Fortunate Mistress_ and
+_Conjugal Lewdness_. _A Short Narrative_ conforms to this structural
+pattern. Sentences which direct the reader's attention to this
+structure are common. For instance, Defoe defends Marlborough's courage
+with descriptions of the battle of Brabant, Ramilles, references to
+Hannibal, and concludes, "And thus then you see, that our General wants
+neither Conduct or Courage." Defoe's skill with these short, dramatic,
+illustrative examples developed with the years. Defoe was always
+concerned with presenting a case clearly and persuasively. Clearly
+marked structure and "reasonable" conclusions alternate with anecdotes
+and reminiscences intended to hold the reader's interest and dramatize
+Defoe's points.[20]
+
+Defoe's _Life of Marlborough_ serves as a kind of barometer for the age
+and for Defoe. A reliable if sketchy list of the Duke's military
+successes and the major charges raised against him at various times
+during his life may be matched to the struggles in the English
+government and on the continent. The time had nearly come for the
+Jacobites, whom Marlborough had offended by deserting James, and the
+Tories, who had long thought him a presumptuous general and a former
+Tory (or a lukewarm Tory as Marlborough might have thought himself) who
+had perverted a Tory Queen, brought the Bill of Occasional Conformity
+to defeat, and driven Tories out of office, to collect the debt that
+they felt Marlborough owed them. The biography, written in the interim
+between two foreign policies when so many momentous plans were
+proceeding backstage, mirrors the age. It is also a barometer by which
+Defoe's development can be measured; his journalistic involvement and
+employment, his non-fiction techniques as well as his progress toward
+the fiction are implied.
+
+  Rollins College
+  Winter Park, Florida
+
+
+
+
+NOTES TO THE INTRODUCTION
+
+
+ 1. Harley as a "trickster is a doctrine as deeply rooted in historical
+opinion as the military skill of Marlborough and the oratorical
+accomplishments of Bolingbroke." John Hill Burton, _A History of the
+Reign of Queen Anne_ (New York: Scribner & Welford, 1880), iii, p. 71.
+See also Elizabeth Hamilton, _The Backstairs Dragon: A Life of Robert
+Harley, Earl of Oxford_ (London: Hamish Hamilton, 1969).
+
+ 2. Winston S. Churchill, _Marlborough; His Life and Times_ (New
+York: Scribner's, 1938), vi, pp. 85-6.
+
+ 3. Marlborough was systematically deprived of the men upon whom he
+relied most. The ministry took over Army promotions and dismissed
+existing officers under the guise of protecting the Queen. Churchill,
+vi, pp. 334-5.
+
+ 4. Burton, iii, pp. 92-3.
+
+ 5. Defoe to Harley, July 28, 1710. George Healey, ed., _The Letters
+of Daniel Defoe_ (Oxford: Oxford University Press, 1955).
+
+ 6. _Examiner_, February 15, 1711. Herbert Davis, ed., _The Prose
+Works of Jonathan Swift_ (Oxford: Basil Blackwell, 1940), p. 87.
+
+ 7. Defoe's _Review_, January 22, 1712.
+
+ 8. Cf. discussions of this in John Ross, _Swift and Defoe: A Study
+in Relationship_ (Berkeley: University of California Press, 1941);
+Richard I. Cook, _Jonathan Swift as A Tory Pamphleteer_ (Seattle:
+University of Washington Press, 1967), and Irvin Ehrenpreis, _Swift:
+The Man, His Works and the Age_ (Cambridge: Harvard University Press,
+1967), ii, pp. 450ff. and 526ff.
+
+ 9. This is similar to an argument Defoe uses to distinguish between
+types of debtors in the _Review_ (iii, 83-4 and 397-400). Whether or
+not the crime was "Wilful" was very important to Defoe; perhaps his
+revised opinion of Marlborough as most obvious in his tribute to him
+at his death is the result of his change of opinion about Marlborough's
+motives and removing him from the list of heroes who possessed the
+"courage of honor" as described in _An Apology for the Army_.
+
+10. William Coxe, _Memoirs of John, Duke of Marlborough with his
+Original Correspondence_ (London: Longman, Hurst, Rees, Orme & Brown,
+1820), vi, p. 48.
+
+11. Coxe, vi, p. 123.
+
+12. Coxe, vi, 126.
+
+13. The advantage France gained from Marlborough's fall and their
+complete awareness of it is discussed in Churchill, vi, pp. 462-69.
+
+14. Coxe, vi, p. 126; Hamilton, p. 172, and _The Letters and Dispatches
+of John Churchill, First Duke of Marlborough_ (London: John Murray,
+1845), v.
+
+15. J. R. Moore, _Daniel Defoe: Citizen of the Modern World_ (Chicago:
+U. of Chicago Press, 1958), pp. 255-56; Defoe's _An Appeal to Honor and
+Justice_; and Chalmers says Defoe wrote what "either gratified his
+prejudices or supplied his needs."
+
+16. Davis, "_A Letter to the Examiner_," p. 221.
+
+17. Moore, pp. 58-61.
+
+18. Burton, ii, p. 171.
+
+19. Bedlam and Grub Street as the colleges in the vicinity of
+Moorefields were standard jokes. Moorfields was also associated with
+cheap lodging, prostitution, theft, and the Pesthouse Burying Ground,
+altogether an unhealthy environment.
+
+20. Defoe discusses this in _Robinson Crusoe_, _Serious Reflections_,
+and a _Collection of Miscellaney Letters_ and several other places. He
+says, for example:
+
+The custom of the ancients in writing fables is my very laudable
+pattern for this; and my firm resolution in all I write to exalt
+virtue, expose vice, promote truth, and help men to serious reflection,
+is my first moving cause and last directed end.
+
+    (Preface to the Review)
+
+Things seem to appear more lively to the Understanding, and to make a
+stronger Impression upon the Mind when they are insinuated under the
+cover of some Symbol or Allegory, especially where the moral is good,
+and the Application obvious and easy.
+
+    (_Collection of Miscellaney Letters_, iv, 210)
+
+21. For this and many other examples of Defoe's distinguishing
+qualities in this appendix, I am deeply indebted to the late Professor
+John Robert Moore.
+
+
+
+
+BIBLIOGRAPHICAL NOTE
+
+
+The facsimile of Defoe's _A Short Narrative of ... Marlborough_ (1711)
+is reproduced from a copy (Shelf Mark: *PR3404/S5451) in the William
+Andrews Clark Memorial Library. The total type-page (p. 7) measures
+153 x 79 mm.
+
+
+A SHORT NARRATIVE OF THE
+
+Life and Actions Of His GRACE
+
+JOHN, D. of _Marlborough_,
+
+FROM THE Beginning of the REVOLUTION,
+
+to this present Time.
+
+WITH SOME REMARKS on his CONDUCT.
+
+_By an Old Officer in the Army._
+
+_LONDON_,
+
+Printed for _JOHN BAKER_, at the _Black-Boy_ in _Pater-noster-Row_,
+1711.
+
+Price Six-Pence.
+
+
+
+
+A short NARRATIVE OF THE ACTIONS
+
+Of his GRACE _John_, Duke of _Marlborough_.
+
+
+Seeing the Press is open, and every body dares Write and Publish what
+he pleases, and Persons of the highest Honour and Virtue, to the great
+Shame and Scandal of our Country, are expos'd to the World, in base
+Pamphlets; and according to the Malice or Misunderstanding of the
+Authors, are represented to the World unworthy of the Favour of the
+Prince, as well as Obnoxious to the Common-Wealth, in which they live:
+It becomes every honest Man, who knows more of the Matter, to set
+things in a true Light, to undeceive the People, as much as he is able,
+that they may be no longer impos'd on by such false Reports, which in
+the end may prove Dangerous and Fatal.
+
+_There is nothing new_, saith Solomon, _under the Sun_; the same Causes
+will always produce the same Effects; and while Mankind bear about
+them, the various Passions of Love and Joy, Hatred and Grief, the
+cunning Engineer, that stands behind the Curtain, will influence and
+work these Passions according to his Malice, to the destruction of
+Persons of highest Worth.
+
+I shall therefore give a _short Narrative_ of the _Actions_ of the most
+Illustrious _John_ Duke of _Marlborough_, with some Reflections on
+them, that People may not wonder how it comes to pass, that such a
+Great Captain, equal no doubt to any in all Ages, considering the
+Powers whom he has Oppos'd, after all his Victories, should be
+represented in the publick Writings of the Town, as over-Honoured and
+over-Paid for all his past Services, and neglected and almost forgotten
+in the midst of all his Triumphs, and his Name almost lost from the
+Mouths of those People, who for several Years last past, and not many
+Months since, have been fill'd with his Praises.
+
+The first time that I had the Honour of seeing _John_, Earl of
+_Marlborough_, (for so I shall call him till he was created a Duke) was
+at a place call'd _Judoigne_ in _Brabant_, where our Army was Encamp'd,
+I think about three Months after the late King was Crown'd. He was sent
+over the King's Lieutenant, with the _British_ Forces under his
+Command, which could then be spared for that Service. Our united Forces
+were Commanded in general, by the Old Prince _Waldeck_.
+
+After several Marches, we came to the Confines of _Haynault_, within a
+League of a small Town call'd _Walcourt_, and on St. _Lewis_'s Day, a
+Saint suppos'd to be prosperous to the _French_ Nation, their Army,
+Commanded by Mareschal _d'Humiers_, very betimes in the Morning,
+Marched to Attack us.
+
+An _English_ Colonel guarded a Pass towards the aforesaid little Town,
+to which the Enemy bent their Course; and being in Distress, was
+reliev'd by my Lord in Person, who ordred his Retreat to such an
+Advantage, that he flank'd the Enemy with perpetual Fire; and this was
+the first Cause that cool'd them in their Design of pushing our Army.
+
+At his return, the Prince receiv'd him with a great deal of
+Satisfaction, and assured him that he would let the King know that he
+saw into the Art of a General more in one Day, than others do in a
+great many Years.
+
+At the end of this Campaign, my Lord _Marlborough_ was ordered, with
+half of the Forces under his Command, to Embark for _Ireland_; where I
+come to relate what he performed there: As soon as he arrived in the
+Harbour of _Kingsale_, having Landed his Forces, without the least loss
+of Time, Marched directly to the Fort or Citadel of that Place, which
+is a strong Fortification, and at that time, well provided with a good
+Garrison, and all things necessary for a strong Defence.
+
+My Lord did not stand to use Forms with them, which might look like a
+Siege; but with a conquering Resolution, and perpetual Volleys, so
+terrified them, that they soon Surrendred.
+
+And now at this Place it was where the Duke's Actions began to be
+Envied, and evil Reports touching his good Name and Reputation were
+industriously spread abroad; and I am apt to believe, such back Friends
+as these will hardly leave him so long as he remains in the World.
+
+There was a Ship at that time in the said Harbour, which 'twas reported
+had some Money on Board for paying of the Forces in these Parts; which
+Ship, by some untimely Accident, was blown up and lost; and presently
+after it was given out by some ill People there present with my Lord,
+and by them sent into _England_ to their Party, that he had gotten the
+Money beforehand to himself, and that the Ship was destroyed by his
+Contrivance; that he had vast Sums of Money in _Holland_, and at
+_Venice_; nay, some went farther and affirmed, that he had settled a
+good Fund, upon Occasion, at _Constantinople_: And I am sure some such
+like Reports and palpable Falsities are continued on him to this very
+Day.
+
+And now I suppose it could not be in this Year that the strong City of
+_Dunkirk_ was to be betrayed by the Governour of it, and Surrendred to
+some of the King's Forces.
+
+In the next Campaign in _Flanders_, the Old _Waldeck_ was severely
+beaten by Duke _Luxembourg_, at the Battle of _Flerus_: We were only
+Six Battalions of _British_ left in _Ghent_, under the Command of the
+then Brigadier _Talmach_: We had Orders to march, and to join the grand
+Army at least a Fortnight before the Fight happened; but as we were
+about to march out of the City, the City Gates were shut against us by
+the People of that Place, because we had no Money to pay our Quarters.
+
+Mr. _Sizar_, whom my Lord brought over with him the Year before, was
+our Pay-Master-General, and at this time was gone down into _Holland_
+to get some Money upon Credit, till our Supply was returned from
+_England_; and then I remember there was a barbarous Lie spread up and
+down among us, that our Money was kept in the Hands of Merchants by the
+contrivance of my Lord and Mr. _Sizar_, that they might reap such a
+particular Benefit, which could not be much, for the use of it.
+
+_Waldeck_ being beaten, the Elector of _Brandenbourg_, for supporting
+of him, was oblig'd by long Marches, to come and join us; after which,
+nothing more of Consequence happened this Year. And now I suppose it
+could not be in this Year that _Dunkirk_ was to be given up to some
+party of the King's Forces; both his Majesty and my Lord _Marlborough_
+being absent from us, and we had no Marches towards that part of the
+Country, and good Reason for it, for we could not if we would.
+
+I come now to our third Campaign, which was made in _Flanders_; and if
+ever _Dunkirk_ was to be betrayed in some secret manner to the late
+King; and if ever the Secret thereof was reveal'd by his Majesty to the
+Earl of _Marlborough_; and if my Lord did reveal the same weighty
+Secret to his Wife; and if by her it was discovered to her Sister at
+_St. Germans_, and by her to the _French_ King, it must be placed in
+this Year, or else it must be _extra anni solisque Vias_, the Lord
+knows when and where.
+
+I am sure that the pretended Discovery of this same Secret hath lain
+hard on my Lord's Name for a great many Years; and upon most Discourses
+of the Affairs in _Flanders_, that business of _Dunkirk_ is trump'd up
+against my Lord to this very Day.
+
+For as soon as this Story was sent abroad, it flew like Lightening, and
+like the sham tragical Report which was put upon the _Irish_ at the
+Revolution, it was scattered over all the Kingdom in an instant. The
+loss of _Dunkirk_ is not to be forgotten, and 'tis fresh in the Minds
+of the common People, both in Town and Country; and not only the
+Farmers over a Pot of Ale at Market, will shake their Heads at
+_Malbur_, (for so they call him) for losing of _Dunkirk_; but also
+Gentlemen of good Rank and Condition believe it to be true, and talk of
+it with a great deal of Regret to this very time. I don't pretend in
+this Narrative to Inform the great People at Court, concerning this
+thing; without doubt they very well know there was no great matter in
+this mighty Secret; but most of it a design to Disgrace my Lord
+_Marlborough_, that he might the more easily be turn'd out of his
+Places at Court and in the Army: I write this to the common People
+only; to vindicate the Innocent, and to undeceive a good part of the
+Nation, who have not had an Opportunity to be better Informed.
+
+This Summer then being our Third Campaign, the King came to the Army,
+and with Him my Lord _Marlborough_, and several other Persons of
+Quality: Among the rest was Count _Solmes_, a nigh Relation to his
+Majesty, and Colonel of the great Regiment of _Dutch_ Blue Guards; and
+then it was after two or three Marches that my Lord was observ'd to be
+somewhat neglected, and his Interest in the Army to decay and cool; and
+upon a certain Morning, as we were in full March, a Man might judge by
+what then happened that it was so: For it seems the Count had ordered
+his Baggage and Sumpters to take Place of my Lord's, and to cut them
+out of the Line; of which Affront my Lord being inform'd by his
+Servants, soon found him out, and having caus'd his Baggage to enter
+the Post which was his due, with his Cane lifted up, and some hard
+Words in _French_, 'twas thought by a great many that it would end in a
+single Combat; but the Count thought fit to shear off, and we heard no
+more of it.
+
+All this Summer was spent in a great many Marches after the _French_,
+to bring them to a Battle, but they Industriously and Artfully declin'd
+it. The Summer being spent, the King committed the Army again to Prince
+_Waldeck_, and went in haste to the _Hague_. Our Regiment was sent to
+Garrison at _Mechlen_, where came the _Dutch_ Foot Guards to Winter
+also. Count _Solmes_, as he designed for _Holland_, took this City in
+his way, and there he assured a certain _English_ Colonel, who not long
+before had been check'd by my Lord, about some Disorders in his
+Regiment, that the Earl of _Marlborough_ had made his Peace with
+_France_, and in a short time he would hear, that he would be call'd to
+an Account for it.
+
+When I went to _England_ that same Winter, my Lord's Appartments were
+at the _Cock-pit_. 'Twas fine to see them full of Gentlemen and
+Officers of all Ranks, as they are now to be seen every Day at his
+Levee at St. _James_'s; but no sooner had my Lord _Sidney_ brought him
+word from the King, that His Majesty had no farther Service for him in
+the Court, or in the Army, but my Lord was forsaken by all his Shadows,
+and his House left in a profound Silence.
+
+Now a Person of my Lord's high Posts, especially having been so
+eminently instrumental in the Revolution, could not be well laid aside
+from all his Employments, without some Reasons were given to the People
+for it; and in a short time the pretended Reasons were produced, and
+they prevailed mightily.
+
+The first was, That at the King's Levee at the putting on of the Shirt,
+my Lord should speak scornfully of the Person of the King, who at the
+same time having made a great Spitting (for his Majesty was a long time
+troubled with a Consumptive Cough) that my Lord should say to some
+Gentlemen nigh him, that _he wish'd it might be his last_.
+
+As soon as this gross Affront was made known to the King, by a certain
+Party, who can calumniate stoutly, and blast as well as blacken, it was
+in a Moment all over the Court and Town; and 'tis a wonder my Lord was
+not torn in Pieces.
+
+But now to the Truth of this Matter. My Lord has been always esteem'd a
+nice Courtier, well guarded in his Words, and one of the most Mannerly
+best-bred Men of the Nation; and no Man of Sense can believe that a Man
+of his Character could be so Indiscreet, as to drop such Words, which
+would be Barbarous and Brutal from the Mouth of a Porter, much more
+from the Lips of a Noble-Man and a General.
+
+The other Reason was, That through his or his Lady's Treachery or
+Indiscretion, the contrivance about _Dunkirk_ was discovered to the
+_French_, or else 'tis very probable it would have been in our
+Possession. And now to clear this Aspersion also.
+
+_Dunkirk_ is suppos'd to be one of the strongest Fortresses of
+_Europe_, either by Sea or Land, the _French_ King, by vast Labour, Art
+and Cost, having made it to be so, and accordingly regards it with a
+careful Eye, always keeping in it a good Garrison, with all manner of
+Plenty for the Defence of it. The next Garrisons of ours towards that
+Place, were _Bruges_, _Ostend_, and _Newport_, the nighest is
+_Newport_, a small Fortress on the Sea, and about twenty Miles from
+_Dunkirk_; we had no Marches towards any of these Places all this
+Campaign, neither was it known that any Detachment was sent that way,
+either in Summer or Winter: Scarce less than a body of Three Thousand
+Men would suffice to secure that City if it were to be betrayed to
+them; now how such a Party could march over so many Canals, Morasses,
+and Trenches in that low Country, some part of the Enemy's, & most part
+of it their Friends, unobserved, and not look'd after, especially a
+Royal Army of theirs being at Hand, is not easie to be conceived by any
+Person who understands the Business of a Soldier. 'Tis a great Hazzard,
+a nice Difficulty for a _French_ Governour to betray a strong City;
+unless all his Officers be in the Secret, and then 'tis wonderful, if
+by some one or other it is not revealed, or else he has with him in the
+Place several good Officers, who understand the Duty as well as
+himself, and very probable that one or more of them may have private
+Instructions to have an Eye upon him, and to keep him in View. Every
+one that has a Command, knows his Alarm-Post, and every hour, Night and
+Day, the Majors, or their Aids, or some other Officers, go their Rounds
+upon the Walls all the Year long, in Places of so great Importance. As
+for the betraying of it to any Naval Forces, I suppose 'twas never
+thought on, unless the whole Garrison, with the Burghers, should give
+their Consent, and stand idly gazing on whilst the Ships were
+approaching: Indeed there was once a Design upon some Sea-port of this
+Garrison, to shake and shatter it with a Vessel, which was called for
+that purpose _The Terrible Machine_; it made a horrible Crack when it
+was Fired, and so the Engine and the Design vanish'd in Smoak.
+
+But now admitting that all this was true, and that there was a
+Contrivance to put _Dunkirk_ into our Hands, and the Plot was
+discovered, and the Governour was hang'd, (which upon strict Enquiry no
+one could tell whom he was, or when or where he was Executed) yet why
+must my Lord _Marlborough_, or his Lady, be the Betrayers of this
+weighty Secret? If it was for a good Reward, I suppose no one living
+can tell how, or when, or where it was paid. And what great Services my
+Lord has done for the _French_ King, for a great many Years to this
+very Day; let the World judge.
+
+But to put all this Matter out of doubt, our most Gracious Sovereign
+Lady the QUEEN, who was then Princess, was at that time the best Judge
+of this Untruth cast upon them; for notwithstanding the high
+displeasure of the Court, she always gave them Umbrage and Protection,
+which without doubt she would not have done, unless she was thoroughly
+persuaded of their Innocence.
+
+To be short, my Lord was a true Lover of the Interest of his Country,
+and a true Member of the Church of _England_; and most Places of State
+and Power were in the Hands of such Persons, who seem'd to depress the
+Fences of the Church, and favour the Dissenters, and their Favourers
+the Whigs: So 'twas not thought convenient that my Lord should be
+admitted into their Secrets; upon which they gave him a good Name, and
+turned him out.
+
+My Lord was no sooner discharged of his Places, but like the old
+_Roman_ Dictator, with the same calmness of Temper he retired from the
+highest Business of State, to his _Villa_ in the Country; but he shew'd
+himself as skilful an Husband-Man, as he had been a Soldier: But here
+he could not long enjoy the Quiet which he sought, but the same Malice
+found him here, which had turn'd him from the Court; from hence he was
+taken and clap'd up into the _Tower_, where most of Friends thought he
+would have lost that Head, which has since done so much good to his
+Queen and Country.
+
+And thus I have shew'd how very much my Lord has been obliged to the
+Whigs in those Days. The Jacobites at this time were not behind hand
+with him in their good Wishes, but all they could do, was to Rail and
+call Names, and so promise their good Nature, when 'twas in their
+Power.
+
+The King, who was certainly an able Judge of Men, had never time enough
+to be acquainted with the excellent Merits of this Noble Lord, but he
+was blasted by His Enemies, before his Virtues were sufficiently made
+known to Him.
+
+But when several great Men, who were true Lovers of their Country, had
+fully inform'd his Majesty, that my Lord was always his most faithful
+Servant and Subject, and most willing to serve Him to the utmost of his
+Power; and that 'twas pity such an able Man should be laid by as
+useless _and forgotten_: My Lord was brought again to the King's nearer
+Conversation; and after the late Peace, as his Majesty found himself
+decaying in his Health, and the _French_ King dealing more and more
+every Day insincerely with him, and his Allies, he chose him again his
+General, and his Ambassador to the States; and having brought him to
+_Holland_, that he might be fully instructed in all the necessary
+Affairs of both Nations, he recommended him to his Successor, our most
+Gracious QUEEN, as the only fit Person, whose Spirit might encounter
+the Genius of _France_, and strangle their Designs of swallowing
+_Europe_.
+
+No sooner had our Sovereign Lady Queen ANNE mounted the Throne, but in
+concert with her High Allies, she proclaim'd War against _France_; and
+having created my Lord, Duke of _Marlborough_, she sent him her
+Plenepotentiary into _Holland_ to the States, and Captain General of
+Her Forces; and I am sure a great many Officers who had serv'd under
+him in the former War, were glad to see him once more at the Head of an
+Army.
+
+In the beginning of this first Year of the War, the _French_ Army,
+under the Conduct of Mareschal _Boufflers_, was a little beforehand
+with us, and came into the Field stronger than ours; some Troops of the
+Allies having not yet join'd us. The _French_ had coop'd up our Army
+under the Walls of _Nimeguen_, and much ado we had, by frequent
+Skirmishes, to hinder them from investing that considerable Frontier,
+at that time unprovided by the neglect of the Governour, as 'tis
+reported, of all warlike Necessaries for the Defence of it. A Man might
+then see but an indifferent Ayre in the face of our Forces: The States
+were under great Apprehensions, least the Enemy should penetrate into
+their Country; and nothing could recover them from their Fears, till
+his Grace, after three or four Days, had join'd our Army with some
+additional Troops; upon his Approach we had immediately a new Scene of
+Affairs; each Soldier seem'd to receive a new Life by the Cheerfulness
+of their Officers; and he presently assured the Deputies of the States,
+that the _French_ should be no longer their bad Neighbours, but he
+would oblige them to March farther off that Country, and that with a
+Witness. They were like People in a Trance, and could hardly believe
+that their Affairs had receiv'd so happy a turn; accordingly we
+march'd, and having passed the _Maes_, Coasted along that side of
+_Brabant_, which lies towards that River, towards the open Country of
+_Mastricht_ and _Luickland_, and not long after, almost in Sight of
+their Army, we opened that noble River, to the great Benefit of the
+Trade of the Country, having taken from the _French_ the Fortresses of
+_Stochum_, of _Stevenswaert_, of _Ruremond_, and _Venlo_, and at last
+the strong Cittadel and City of _Liege_, with a vast quantity of Cannon
+and Prisoners; the _French_ not daring to relieve any of them by
+venturing a Battle.
+
+In this Campaign our General shew'd himself a true Master of his Art,
+having outdone the _French_ Mareschal in every March. When he came into
+_Holland_, he was receiv'd into their Cities, as their Tutelar Angel,
+and their own Generals came to thank him for this happy Campaign,
+without any sign of Envy.
+
+When he returned to _England_, he was well receiv'd by the Queen his
+Mistress, and with the Joy of all good People; but then there was some
+allay to this good Fortune, several People were heard to Grumble, that
+after this Manner we should not get to _Paris_ in a long time, and a
+Speech was Printed, as if a Peer of the Realm had been the Author of
+it, with some ironical Touches on the Duke, about raising the ancient
+Valour of the Nation; and that 'twas unreasonable, that one Man should
+have a _King-Key_, which should open every Door in the Nation.
+
+About this time also Pamphlets began to fly, much reflecting on the
+Countess of _Marlborough_, which I think have not ceas'd, but very much
+increased against her every Year, to this very Day. I never had the
+Honour to see that Lady, but once at the _Hague_; she was there with
+her Husband, the last time our late King was in that Country; and it
+was a common Report, at that Court, among a great many Gentlemen of
+very good Quality, that she was esteemed there among the Foreign
+Ladies, one of the best bred Women of her Age; and here are Ladies from
+most Courts of _Europe_, who, without doubt, are the nicest Judges: But
+to be sure here at home they give her Name very poor Quarters, and make
+her guilty of more Folly, than a Retainer to the College in
+_Moor-Fields_.
+
+It will be too long for me to set down the particular Victories of
+every Campaign, and I hope no need of it; because 'tis probable they
+are fresh in the Memory of every good Subject. His wonderful and
+conquering March to the Banks of the _Danube_; His artful Passing the
+_French_ Lines, purely owing to his own good Conduct; His Beating each
+one of the _French_ Great Mareschals round in their Turns, in several
+well fought Battles: A People, who for an Age had bullied the rest of
+_Europe_, and had taught other Nations the Art and Tactiques of War, as
+well as their Modes and Language: Their Captiv'd Generals and Conquered
+Towns, perhaps the Strongest in the Universe, demonstrate not only his
+Wisdom, Skill and Conduct, but also his surmounting Courage, and
+unwearied Labour.
+
+And now at first View a Man might wonder how it should come to pass
+that such a Renown'd General, after so many Signal Services, and great
+Actions, for the good of his Country, should be so undervalued and
+slighted at his return home from the very middle of his Labours, by any
+one who pretends to value the good of his Nation: But this is no new
+Thing, all the Histories of the World are full of Examples to this
+purpose, and most of them of Men of War and Great Captains.
+
+Sir _Walter Raleigh_ has mustered up a long Roll of Glorious Sufferers,
+from the most ancient to his own Times; and in the Condition in which
+he then was, might have brought in himself for a remarkable Sharer. For
+the most eminent Virtues are but as so many fair Marks set up on high
+for Envy to shoot at with her poysonous Darts, and in all States, 'tis
+sometimes dangerous to be Great and Good, for cunning Envy is often
+very strong, and when once its Devices are effectually spread in the
+Mouths of the Multitude, will produce a Blast able to blow down the
+most lofty Cedar: 'Tis therefore for the good of the common People of
+the Nation, that I shall let them see the scandalous Reflections which
+are scattered abroad on the Honour of the Duke of _Marlborough_; and
+when I have shewn to any rational Man that they are all False,
+Unreasonable, and Malicious, I have my End.
+
+The first Scandal that is put abroad upon his Grace is this: That he
+has avoided several Opportunities of Fighting, not considering the
+great burden of Taxes that lies upon the Nation, because the War should
+be continued longer, whereby he may increase his Riches, and keep up
+his Power. Now how false this Report is, will easily appear.
+
+For the Business of Peace and War does not depend on a General: 'Tis
+the Business of his Monarch, who best knows the proper times for such
+Treaties. Other Princes are concern'd in the War, as well as ours, and
+their Subjects are as desirous of Peace as any of us can be, yet this
+Peace can't well be obtain'd without a joint Consent; but if the Enemy
+against whom we Fight, will not come to any terms of Peace that are
+Reasonable, and Honourable, and Just, and upon which the War is
+founded, but in his pretended Treaties, chicanes and falsifies, and is
+altogether Insincere, then 'tis not the General's Fault if we can't
+have Peace; we are in for the War, and we must stand to it.
+
+Indeed in the last dear Year of Corn, _France_ was almost reduced to
+their last Shifts; their Sufferings could be call'd little less than a
+Famine, and most of the Powers of _Europe_ did really believe that they
+must have sued for a Peace, if they had not been assisted; but whilst
+the Circumstances of this Peace were in Agitation, then did the good
+People of Great _Britain_ and _Ireland_, the north part of them to
+_Burgundy_, and _Champaign_, by way of _Holland_, thro' the _Maes_; and
+the South Part of them from _Dunkirk_ and _Calais_ over-against _Kent_,
+beyond the Mouth of the _Garroon_ on the Western Ocean, supply that
+Country with vast quantities of Corn, almost to the starving of their
+own People. Not one of them cried out for Peace, or blam'd the General,
+their Pockets being well fill'd; But swore in the Markets, over
+plentiful Nappy, that in a short time they would pull old _Lewis_ out
+of his Throne.
+
+As for our Generals avoiding Fighting, 'tis easie to guess out of what
+Quiver this Arrow of Scandal was drawn; for without doubt 'twas forg'd
+in his own Army; and seeing the _Roman_ History is now much in Fashion,
+I shall give an Example, as an Answer to this Scandal, and without
+doubt 'tis home to the Purpose. _Haniball_ had beaten the _Romans_ in
+three great Battles of _Ticinum_, _Trebia_, and _Thrasymene_: 'Twas his
+Business to Fight the _Romans_ wherever he could come at them; his Army
+being compounded of rough old Mercenary Soldiers of divers Nations, who
+are ready to Mutiny and Desert upon all Occasions, if they have not
+present Pay or continual Plunder; in this Extremity the old _Fabius_
+was chosen Dictator, or supream Commander; he was a good Man of War,
+and understood his Business; and for his Lieutenant, or Master of the
+Horse, which among them was all one, he chose one _Minutius_, the worst
+thing that ever he did; because in a short time he found him to be an
+Ungrateful, Conceited, Hot-headed Accuser. _Fabius_ with great skill
+and caution avoided Battle by Coasting _Hanibal_ on the sides of Hills
+in rough Ground, by Woods and Rivers, and hard Passes; because much
+inferior in Horse to the _Carthaginian_; and thereby gain'd time to
+confirm the Hearts of his Soldiers, and so make them capable by degrees
+to look the Enemy in the Face. _Hanibal_ soon found that by no means he
+could draw in this wary old _Gamester_, but declar'd, that he fear'd
+nothing more than that Clowd which hung about the Hill Tops, least some
+time or other it should fall down and severely wet him. Winter coming
+on, and the Dictator being obliged to return home about some other
+Affairs; He left his Army to the Care of this Master of the Horse, with
+a strict charge to shun Fighting with all possible Care, and to follow
+the Example which he had set before him: He was prowd of this
+Opportunity of Commanding the Army, and believ'd himself the best and
+the ablest Man for it; he procured to have his Courage magnified at
+home among the common People, and that if he had a Command equal to the
+Captain General, he would soon give a better Account of _Hanibal_ and
+his Army; that _Fabius_ was afraid to look towards his Enemy, and
+thereby disheartned the Soldiers, who were otherwise naturally Brave;
+and by his Fearfulness suffered these Barbarians to Ravage in their
+Country, to their Ruine and Destruction. The Tribunes of the People,
+not much better than Captains of the Mob, were his particular Friends,
+and they complaining to the Senate, every where gave it out, that after
+this manner of _Fabius_ his going on, the War would never have an end,
+that the City would be undone by perpetual Taxes; that all Trade was
+ceas'd, and nothing to be seen among the Commons, but a sad Prospect of
+growing Poverty.
+
+The Senate was wearied out by these Factious Importunities, till at
+last 'twas granted, that the Master of the Horse should have equal
+Command with that Great Man who would preserve them from Ruine.
+Accordingly he receiv'd half of the Army to be under his Charge, by a
+Lot, for _Fabius_ would not endure, because he foresaw what would come
+to pass, that it shou'd be in his Power, for one Day, to command the
+whole. _Minutius_, forsooth, to show his Bravery, march'd nearer to the
+Enemy. _Hannibal_ had laid a Train for the Hotspur, and soon caught
+him; and both he and his Army had been soon cut to pieces if the Old
+General, not permitting private Revenge to interfere with the good of
+his Country, had not drawn down in very good Order, repuls'd the
+Ambush, and secur'd his Retreat. The best thing that _Minutius_ cou'd
+do, was to beg Pardon for his Fault, and promise more regard to his
+Superiors for the future. So that you see 'tis the Experienc'd,
+Skilful, Old General who is best Judge of times of Fighting; and that
+Man who asperses his Honour is to be suspected as either wanting
+Judgment, or an Enemy to the Publick.
+
+Another Scandal was lately rais'd against his Grace, as touching his
+good Conduct and Skill, as he is a General; and this is much among
+those sort of People, whose Mouths go off smartly with a Whiff of
+Tobacco, and fight Battles, and take Towns over a Dish of Coffee. They
+give out, like Men of great Understanding in the Art Military, that the
+Duke is more beholding to his Good-Fortune than his Skill, in the
+Advantages he has gain'd over the _French_, and that he may thank the
+Prince of _Savoy_, and the good Forces which he Commands, more than his
+own Skill in War, for his great Reputation.
+
+The Good-Fortune of His Grace ought to be attributed to the good
+Providence of GOD, for which, both he and the whole Nation ought to be
+thankful. 'Tis a great Happiness to have such a Fortunate General; and,
+without doubt, the _French_ King would purchase such another at any
+rate, if he could.
+
+But then, _Nullum numen abest, si sit Prudentia_. The General that is
+Prudent, and Vigilant, and Temperate, Alert, and Industrious, with an
+humble Submission to the Will of the Almighty, takes the right way of
+obliging Fortune to be of his Side: Or, to speak better, the Blessings
+of Heaven to crown his Endeavours: For in War 'tis seldom known, (quite
+contrary to the Old Proverb) that in conducting Armies and fighting
+Battles, _Fools_ _have Fortune_.
+
+As for his Acting in Concert with the Heroick Prince of _Savoy_, who
+is, without doubt, one of the ablest Generals of the Universe, and
+chusing of him to be his Friend and Colleague, is one of the strongest
+Arguments of his Art and Knowledge: Mutual Danger, and mutual
+Principles of Honour, have entirely united them. In all difficult
+Points they presently agree, as if what one was Speaking, the other was
+Thinking of the same Matter at the very same time: And no Person can
+believe, that Prince _Eugene_ would endure that any Person in the World
+should share with him in his Fame and Glory, unless such an Hero, whom
+he thinks in all Points to be his Equal. As for the Troops under his
+Command, 'tis evident to the World, that they excel all others; for the
+sake of their Countries they are prodigal of their Blood; and under
+such a General, by their own Confession, when they go to Action, think
+of nothing else but Victory and Triumph.
+
+But Matters of Fact are the best Arguments. Amongst the great number
+which might be produc'd, I shall only Instance these two following; and
+I am sorry that those People who have not seen Marching or Embatteling
+Armies cannot be competent Judges of them. Let the first be in the
+first Campaign, in the first Year of Her Majesty's Reign. We were
+encamp'd on the Confines of _Brabant_, not far from a little Town
+call'd _Peer_; the Country round about is almost all great Heaths and
+large Commons; we were in full March betimes in the Morning, and, by
+the countenance of our March, 'twas suppos'd we should have a long and
+a late Fatigue; when, on a sudden, about Eleven a Clock, we had Orders
+to halt, and to encamp at the bottom of an Heath, behind some rising
+Grounds and great Sand-Hills, near a Place called _Hilteren_; and
+according to the Time that my Lord Duke had projected, Mareschal
+_Boufflers_, with his Army, was blunder'd upon us, within Shot of our
+Cannon, not knowing where we were. At that time we were superior to the
+_French_, especially in Horse; they could by no means avoid a Battle,
+the Mareschal was caught: And if the Deputies of the States, and their
+Generals, could have been perswaded to venture a Battle, in conjunction
+with the other Allies; and they were entreated enough, almost with
+Tears, by all the other Princes and Generals of the Army, 'tis very
+probable the _French_, under that great surprize, had been severely
+beaten. At last they stole away from us in a dark Night, and were glad
+of the Escape. And thus then you see the great Skill of our General, to
+entrap the _French_ Mareschal in his March, in the middle of the Day,
+and to make him, in a manner, fall into his Arms.
+
+
+The second Instance is from the Battle of _Ramelies_. A Stratagem well
+laid argues the great Dexterity and Penetration of a General; in deep
+hollow Ways, in close Bottoms, and nigh sides of Woods, Ambuscades are
+often laid, and, perhaps, as often discovered; but to bring an Ambush
+upon an Enemy, into the open Country, in the face of the Sun, requires
+an assured Skill, as well as a daring Courage. Thus 'tis said of the
+Great _Hannibal_, at the Battle of _Cannæ_, that in the open Field he
+brought an Ambush on the Backs of the _Romans_, which very much help'd
+to encrease their Terror and Confusion. And thus did our General, at
+the foremention'd Battle, but with a better Contrivance.
+
+The _French_ King had Intelligence given him, that all the Forces of
+our Army were not join'd, and accordingly sent positive Orders to his
+General, not to let slip that Opportunity of chastising the Insolence
+of the Allies, for that was the Expression; and indeed 'twas true, the
+Allies had been pretty bold with him several times before: and the
+Mareschal doubted not but to have time enough to execute his Master's
+Commands, before a good Body of Horse, which he understood to be at a
+great distance, could be able to come up and assist us. The Duke gave a
+pretty good Guess at the Monsieur's Designs, and before-hand had sent
+strict Order, that they, without the least delay, should speed
+immediately towards him, and in the middle of the Night, to halt at a
+Village where he had appointed, not above two Leagues from his Camp;
+and after a little Refreshment, and Preparation for Service, must be
+ready to move at break of Day, upon the first bruit of Cannon: For
+their resting in that Place, and at such a distance, would be much more
+to his Advantage than if they had join'd him.
+
+The Business being thus order'd, he was resolv'd the Enemy should not
+take all the Pains in coming towards him, but to meet them on part of
+the Way. The _French_ Right Wing, in which were their best Troops,
+oppos'd our Left, and in their vigorous Charge had the better of the
+Allies: The Duke, with the other Generals, rallied them again; but
+finding it difficult to sustain the strong Impression of the Enemy,
+presently gave out, and it took among all the Squadrons in a Moment,
+That a great number of the best Troops in the World, who were their
+Friends, were just at their Heels with Sword in hand, ready to sustain
+them, that no Power of the Enemy could look them in the Face; which
+being seen to be true, as well as felt by the Enemy, they were soon
+repulsed, discourag'd, and put into Confusion, which was the first
+cause of the general Rout of their Army.
+
+
+And thus then you see, that our General wants neither Conduct or
+Courage: And as 'twas once said to that Renown'd Captain _Epaminondas_,
+who having no Children, and being about to die of his honourable
+Wounds, that his two Battels of _Leuctra_ and _Mantinæa_ should be as
+two fair Daughters to preserve his Memory. So may we say, that the many
+Battles and Sieges, fought and won by our Great _Marlborough_, in the
+Provinces of _Gelders_, of _Limbourg_, of _Brabant_, of _Flanders_, of
+_Artois_, of _Hainault_, shall be far excelling the most numerous
+Progeny to eternize his Name.
+
+The other false Reports that are spread among the People, by the
+Enemies of the Duke, are these; That his way of Living in the Army is
+Mean and Parsimonious, unbecoming the Honour and Dignity of his Post.
+That the Income and Revenue from the Profits of his Places are too much
+for a Subject: And that he minds nothing so much as getting of Riches.
+All which Reports are false and malicious, and only the Designs of his
+secret Enemies.
+
+_Wo be to them that call Evil Good, and Good Evil._ Some of this was
+part of the False Accusation that was urged against _Scipio_ the
+_Asiatic_, by the Malice and ill Nature of _Cato_ and his Accomplices;
+That he had squandred away the Money of the Government, in a great
+measure, by his excessive Way of Living; for so his Magnificence was
+termed by them: That his vast Treats and luxurious Tables had some
+popular Design. And, to be sure, if our General should offer to live
+after any such manner, the Nation would be fill'd with perpetual
+Clamour, that he treated the Officers to make them his Creatures, and
+in a short time would set up for himself; for, without doubt, those
+things which other Men might do, tho' much inferior to the Duke, with a
+general Applause, in him would be Criminal, and of bad Consequence.
+
+In all ancient Histories nothing is more highly prais'd in Princes and
+great Captains, than Temperance and Moderation in Meat and Drink. The
+Commander of the Army ought to be vigilant, that (as a good Prince once
+said) the People committed to his Charge may sleep more safely; and
+'tis not to be conceiv'd how such a Person, who is loaded continually
+with foggy Intemperance, can be Careful, Active, Watchful, Alert,
+Thoughtful, Foreseeing, being all Qualities necessary for so great a
+Charge.
+
+His Grace governs his Family abroad like a wise Master, with good Order
+and Method; every thing about him shines with a temperate Use, and a
+daily chearful Plenty, not only for his own Domesticks, but for many
+others; but then all this is in due time and season: He has no
+Constitution for an Intemperate Life, and the Loads of it would soon
+destroy him.
+
+
+As for his great Profits in the Army, let us take a view of them: There
+is an Author call'd, _The Examiner_, who has been very diligent in
+searching into His Grace's Revenue: But I am sure, in his Perquisites
+belonging to the Army he can be no Judge; the Pay of a Captain General,
+by the Day, may be known to any one, I suppose 'tis set down in the
+_Present State of England_, as well as Master of the Ordnance, and
+Colonel of a Regiment of Foot-Guards; these are all his Military
+Employments, and the Pay of them as much his due, as the Pay of Three
+Shillings and Six-Pence is to an Ensign. The Earl of _Rumney_ had all
+these Places except Captain-General; he was both a Lieutenant-General
+and an Ambassador, and enjoy'd them a long time, and yet I never heard
+of any Man that envied him, or found fault that he had too many Places.
+And 'tis a common thing for a great Mareschal of _France_ to have many
+more Posts, and of much greater Profits.
+
+Any young Clerk, who belongs to an Agent, can presently show how many
+Regiments of Horse, Foot, and Dragoons are in the Pay of Her Majesty,
+under the Duke; and everyone there, from a General to a Drummer, what
+their proper Pay is, nor can they be deceived. The Hospitals and the
+Artillery are paid accordingly, in an exact Method. The Pay of each
+particular Body is issued out to the Pay-masters of the Army, from the
+Pay-Master-General; and the Duke touches not a Farthing but what
+properly belongs to him. And whereas abundance of People complain, that
+almost all the Money of the Nation was, by the late Lord Treasurer,
+sent into _Flanders_ to pay the Troops there; no matter what became of
+the other parts of the War. This I know to be true, That the mercenary
+or hired Forces, which are in our Pay, and are the greatest part of our
+Army under the Duke, being most of them _Danes_, _Swiss_, _Saxons_, and
+_Palatines_, all of the _German_ kind, will not march one Foot,
+notwithstanding all the Perswasions that any General can use; no, not
+to save any King or Prince in the World, unless they are duly paid, at
+the appointed times, according to their first Agreement: but then, as
+soon as you shew the _Gheldt_, they presently Shoulder, and Stalk
+wheresoever you please.
+
+What the Queen is pleas'd to allow the Duke for his Secret Service,
+because his Eyes and Ears must be in all Secret Cabinets, (and, without
+doubt, his Intelligence must be very good) it is not fit for me or the
+_Examiner_ to know; or, for ought I can judge, any one else besides in
+the World.
+
+The Perquisites of Safeguards and Contributions, which in all Times
+have belong'd to Generals, can't easily be valued, they are according
+to the Countries in which the War is carried. But for all these Profits
+to be ascrib'd to the Duke, (as in several Pamphlets 'tis evident they
+are) is very unreasonable; because there are two other Chief Generals
+besides, the Prince of _Savoy_ for the Imperialists, and Count _Tilly_
+for the States, each of which will claim their Parts as well as His
+Grace; besides the gross of them, which are given to the States
+themselves: and yet we hear of no Complaint, or Papers printed against
+them, or in the least envied by any of the Nations under whom they
+serve.
+
+In short, 'tis all the Reason that a conquering General, who fights our
+Battels, and must look the Powers of _Europe_ in the Face, as he is
+distinguish'd by Titles of Honour, so where-ever he goes he ought to be
+attended with Plenty and Riches.
+
+A Sea-Captain, after the Service of Nine or Ten Years, is usually
+Master of a very great Fortune, he Sails in his Coach with rich
+Liveries for his Colours, and Steers from his City to his Country-House
+unenvied, and without unmerciful Remarks. The honest Gentlemen in Town,
+call'd Agents, most of whom are risen from a mean Condition to be
+Members of Parliament, Justices of the Peace, and to purchase Estates,
+where-ever they can find out Land to be dispos'd of, who never ventur'd
+their Lives farther than from the Pay-Office to the Tavern; and yet
+they make a Figure in the World with a very good Grace, untouch'd, or
+not mark'd by any Observator.
+
+But this has been the Fortune of the most glorious Persons, to be
+envied and persecuted whilst they are alive, and when taken away from
+us by some unlucky Accident, are desir'd too late, and lamented with a
+Witness.
+
+If we observe, through the whole Nation, either here in this Capital,
+or in any other Parts of _England_, allowing but for proportion of
+Merit and Dignity, we shall find more People belonging to Offices of
+Docks and Yards, to Offices of Stores and Victualling, who have made as
+good use of the Places in which they serve, and with no greater Fatigue
+and Danger than Figuring and Writing, as the best and richest General
+in _Europe_.
+
+When my Lord _Marlborough_ had escap'd the Wars, and was return'd to
+the quiet of the Country, no Word was heard of him in Court or Town, no
+one talked of his Money, or Riches, or Estate; but no sooner was he
+again call'd to the High Station in which he now Acts, but Envy had
+presently found him out, even in the midst of Guards and Arms, and ever
+since has follow'd him close with all sorts of False-Reports, to this
+very time; as if nothing but his most excellent Qualities, and growing
+Glory, could make him Unfortunate.
+
+Indeed Generals, tho' the most accomplish'd Heroes, are but Men, they
+are not Infallible, but may be mistaken as well as other Mortals, they
+are subject to Faults and Infirmities as well as their Fellow-Creatures;
+but then their great Services for the good of their Country ought to be
+cast into the Ballance, against their humane Mistakes; and not only
+Charity, but Self-consideration should give them very good Quarter,
+unless their Faults are prov'd to be Wilful and Contumacious.
+
+I know not how it might happen to the Duke if he should chance to
+Miscarry, or be beaten in a Battle; God be prais'd, as yet he has never
+been foil'd: but then we must not suppose that he is Invincible, that
+Fortune will always be confin'd to the Pomel of his Sword. But this is
+certain, that the _French_ King has not been severe to any of his Great
+Captains, tho', in their turns, they have been all beaten by the Prince
+of _Savoy_ and the Duke, the Prince taking one of his chief Mareschals
+a Prisoner with him out of the midst of his Garison; the Duke another
+of them on the Banks of the _Danube_, with the greatest part of the
+Banners and Trophies of his almost captiv'd Army: there are no Outcries
+of the Common People for a Sacrifice to the Publick, nor base
+Reflections made on their Courage or Conduct; because 'tis suppos'd in
+all those fiery Ordeals of Battles, a General exerts all the Faculties
+and Powers of Body and Soul; he puts Nature on the stretch. And as my
+Lord Duke, at the conclusion of the great Battle of _Blenheim_ said, I
+think to his Honour, that he believed he had pray'd more that Day than
+all the Chaplains of his Army.
+
+Therefore let not People think, that those Gentlemen who are call'd to
+fight Battles make use of those Employments, in the heat of a bloody
+War, for Diversion or Pleasure. They who have been Spectators of what
+they do and what they suffer, will soon be perswaded, that no People
+under Heaven purchase their Profits and Honours at a dearer rate.
+
+'Tis a great happiness to a Nation to have a generous Race of Warlike
+People, who, at all times, are ready to venture their Lives in the
+defence of it. Cowardice is the highest Scandal to a Country, and
+exposes it to be a Prey to every Invader, as well as a Scorn to their
+Neighbours. In all Histories of the World, they who dare die for the
+sake of their Country, have been esteem'd as a sort of Martyrs: And the
+People who are protected at Home in their Estates, Ease, Safety, and
+Liberties, ought not to grudge them of any of their Perquisites; but to
+bless God for such a gallant number of Martial Brethren, who drive the
+War at a great distance, so that we see none, we do but hear of it; for
+'tis a sad thing to behold the Ravages, the Ruine, the Spoils, the
+Devastations of those Countries which happen to be the Seats of War.
+
+When the Officers, coming from _Flanders_, after the Campaign, appear
+in the newest Fashions, which they bring over with them, with a good
+Ayre and genteel Mien, which is almost common to them, the People, who
+never saw the Hardships which they undergo, think them only design'd
+for Pleasure and Ease, and their Profession to be desir'd above any
+thing in the World besides. They often hear of Fights and Sieges, and
+of a great many Men kill'd in a few Hours; but because they see not the
+Actions, the Talk leaves but a small and transient Impression, and so
+in a small time is wip'd off and forgotten. But if they did but see
+them in a Rainy Season, when the whole Country about them is trod into
+a Chaos, and in such intolerable Marches, Men and Horses dying and dead
+together, and the best of them glad of a bundle of Straw to lay down
+their wet and weary Limbs: If they did but see a Siege, besides the
+daily danger and expectation of Death, which is common to all, from the
+General to the Centinel; the Watches, the Labours, the Cares which
+attend the greatest; the ugly Sights, the Stinks of Mortality, the
+Grass all wither'd and black with the Smoke of Powder, the horrid
+Noises all Night and all Day, and Spoil and Destruction on every side;
+I am sure they would be perswaded, that a State of War, to those who
+are engag'd in it, must needs, be a state of Labour and Misery; and
+that a great General, I mean such a one as the Duke of _Marlborough_,
+weak in his Constitution, and well stricken in Years, would not undergo
+those eating Cares, which must be continually at his Heart; the Toils
+and Hardships which he must endure, and the often Sorrows which must
+prick his Heart for ugly Accidents, if he has the least Spark of humane
+Commiseration, I say, he would not engage himself in such a Life, if
+not for the sake of his Queen and Country, and his Honour.
+
+
+I come now to add a word or two of the government of the Forces under
+his Care. His own Example gives a particular Life to his Orders; and as
+no indecent Expression, unbecoming, unclean, or unhandsome Language
+ever drops from his Lips, so he is imitated by the genteel part of his
+Army: His Camps are like a quiet and well-govern'd City; and, I am apt
+to believe, much more Mannerly; Cursing and Swearing, and boisterous
+Words being never heard among those who are accounted good Officers:
+And, without doubt, his Army is the best Academy in the World to teach
+a young Gentlemen Wit and Breeding; a Sot and a Drunkard being scorn'd
+among them.
+
+These poor Wretches, that are (too many of them) the refuse and
+off-scowrings of the worst parts of our Nation, after two Campaigns, by
+the Care of their Officers, and good Order and Discipline, are made
+Tractable, and Civil, and Orderly, and Sensible, and Clean, and have an
+Ayre and a Spirit that is beyond vulgar People.
+
+
+The Service of GOD, according to the Order of our Church, is strictly
+enjoin'd by the Dukes special Care; and in all fixed Camps, every Day,
+Morning and Evening, there are Prayers; and on Sundays Sermons are duly
+perform'd with all Decency and Respect, as well as in Garisons. And, to
+be sure, the Good-Nature, and Compassion, and Charity of Officers
+express'd to the poor sick and wounded Soldiers, and to their Families
+in Garison, is more Liberal, and Generous, and Free, than usually we
+meet with in our own Country.
+
+
+And now then I hope my good Country-men will not suffer themselves any
+longer to be impos'd on by false Reports, which are cunningly spread
+abroad among them, against a Gentleman, a Patriot, who ventures his
+Life, every Day, for their Safety, and is endeavouring to the utmost of
+his Power, under his Most Gracious Sovereign, by his Courage, his
+Skill, and his Wisdom, to bring the Common Enemy to Reason, and to
+procure them and our Allies, an honourable and lasting Peace.
+
+
+'Tis a thing of ill Consequence to bring a Disreputation on the good
+Name of a General; and to lessen his Honour is to dispirit his Army:
+for when the Forces under his Command have once a mean Opinion of the
+Integrity, and Honour, and Conduct of their General, they may be drawn
+out and forced to Battle, but never be perswaded to think of Laurels
+and Victory.
+
+
+'Tis an old Piece of Policy for an Enemy, if possible, to bring an
+Odium on the Honour of a General against whom he is to act. Thus did
+_Hannibal_, who, in his moroding Marches, had spared some Grounds
+belonging to the Dictator _Fabius_, not out of any respect or kindness
+to his Person, but to bring him into Envy and Suspicion among the
+People at _Rome_; and so 'twas given out by one of the Tribunes, that
+_Hannibal_ and he had, as it were, made a Truce; that the drift of
+_Fabius_ could be nothing else but to prolong the War, that he might be
+long in Office, and have the sole Government both of City and Armies.
+And, without doubt, the _French_ King would have been very well
+satisfied, if this same Aspersion, which was lately spread abroad
+concerning our General, had taken the effect of having him laid aside,
+and put out of his Places. A Finish'd Hero does not grow up every Day,
+they are scarce Plants, and do not thrive in every Soil; He may be
+easily lost, but then that Loss cannot easily be repair'd; therefore
+there is great Reason to Value and Esteem him.
+
+
+To conclude, As our great Commander is known to the World, or at least
+to the greatest part of it, to be Temperate, Sober, Careful,
+Couragious, Politick, Skilful, so he is Courteous, Mild, Affable,
+Humble, and Condescending to People of the meanest Condition. And as
+'tis said of _Moses_, the Great, the Valiant Captain-General of
+Almighty God, for an immortal Title of Honour, that he was one of the
+Meekest Men upon the Earth; so, without doubt, our Captain-General,
+_John_ Duke of _Marlborough_, has a great share of it.
+
+
+_FINIS._
+
+
+
+
+APPENDIX
+
+
+Authorship of _A Short Narrative_
+
+
+While no direct contemporary corroboration exists as evidence for
+Defoe's authorship, a considerable number of literary mannerisms,
+interests, and opinions appear to establish it conclusively.
+
+As Professor John Robert Moore said, _The Life_ is "exceptionally
+characteristic" of Defoe, so characteristic in fact that "one can
+recognize his style and manner as one would a familiar voice."[21] The
+list of phrases and mannerisms which produce this effect is extensive:
+The insertion of qualifying or explanatory phrases ("The first time
+that I had the Honour of seeing John, Earl of Marlborough, [for so I
+shall call him till he was created Duke] ..."), the use of "sentence
+paragraphs," the repetition of such introductory phrases as "To be
+short," "but now to the Truth of the matter," "in short," and "to put
+all this matter out of doubt," and the frequent use of words such as
+"matter" and "purpose" to emphasize the force and pertinence of his
+arguments mark Defoe's writings throughout his career. The use of the
+present participle construction as subject ("As for his Acting in
+Concert with the Heroick Prince of Savoy ... is one of the strongest
+Arguments of his Art and Knowledge"), long sentences hung together with
+"and" and qualified with subordinate clauses, and a propensity for
+coining words ("over-Honored and over-Paid") make Defoe's writing
+nearly unmistakable and give it the hasty, colloquial quality. His
+Latin quotations are off hand and rather careless.
+
+At the same time, Defoe has great stylistic virtuosity. He is always
+direct and forceful. Although he is attacking some of the most powerful
+men in politics and literature in _The Life_, there is nothing at all
+deferential. He includes trivial and often superfluous details which
+give whatever he writes an authentic tone; these details may be places
+("After several Marches, we came to the Confines of Haynault, within a
+League of a small Town call'd Walcourt...."), names of people ("Mr.
+Sizar was our Pay-Master General...."), or observations ("twas
+supposed we would have a long and a late Fatigue"). The same sort of
+verisimilitude which deceived the readers of _Memoirs of Captain
+Carleton_ and _Journal of the Plague Year_ supports the illusion of an
+eye witness account. Defoe's metaphors are also distinctive. While
+there are no great number, they are graphic, often simplify and
+condense an idea, and join image and idea in much the same way that
+seventeenth-century conceits do. Drawing on the common place, the
+originality and force comes from their aptness ("'tis easie to guess
+out of what Quiver this Arrow of Scandal was drawn," "For the most
+eminent Virtues are but as so many fair Marks set up on high for
+Envy to shoot at with her poysonous darts"). Characteristic
+idioms--"Engineer that stands behind the curtains," "the Lord knows who
+and where"--can be found on every page. Small touches such as an
+allusion to one of Defoe's favorite jokes (Lord Craven's retort to de
+Vere concerning his ancestry) can also be identified.
+
+Furthermore, the allusions to historical and Biblical figures are
+consistent with Defoe's life-long usage, opinions and interests. Sir
+Walter Raleigh and Hannibal, Moses and Solomon are referred to for the
+same purposes in writings from _The Shortest Way with Dissenters_ to
+_Atalantis Major_ (a typically explicit analog: from _The Shortest
+Way_--"Moses was a merciful meek man" and from _The Life_--"Moses ...
+one of the Meekest Men upon the Earth"). Defoe habitually commented on
+the policies of military men and statesmen, traced topography, and
+included the large features of military campaigns which could be found
+in printed records. Defoe's opinions on drinking, swearing, reliance on
+Providence, leadership qualities, gratitude, and courage, to mention a
+few, are consistent throughout his life and found in this pamphlet. For
+example, he makes the same distinctions in types of courage in _Journal
+of the Plague Year_, the _Review_, _Robinson Crusoe_, _Atalantis
+Major_, and _Memoirs of Captain Carleton_ that he does in _The Life_
+("True courage cannot proceed from what Sir Walter Raleigh finely calls
+the art or philosophy of quarrel. No! It must be the issue of
+principle...").
+
+Moreover, the pamphlet itself bears certain marks indicative of
+Defoe's hand. It was published by John Baker, "at the Black-Boy in
+Pater-noster-Row," Defoe's usual publisher for that year. Had it been
+published by, say, Tonson, the immediate conclusion would be that it
+was not Defoe's. Baker appeared to take greater care with Defoe's
+pamphlets than he did with some others; _A Defence of Dr. Sacheverell_,
+for example, has fifty lines of small type to the page. Six other
+tracts by Defoe have titles beginning with "Short" or "Shortest." The
+use of the eye witness narrator and the soldier narrator are recurring
+devices which Defoe used to protect himself or his sources and to add
+weight to what he was purporting to be factual.
+
+Finally Marlborough was one of Defoe's heroes until at least late 1711.
+He praises him highly in _Seldom Comes a Better_, _Atalantis Major_,
+and _The Quaker's Sermon_. It is with reluctance that Defoe is
+persuaded that Marlborough must be displaced, and even in the poem on
+the occasion of Marlborough's funeral, his disapproval seems to be more
+for the ostentatiousness and inappropriateness of the funeral than for
+the man himself. All in all, there is scarcely a line in _The Life_
+which does not bear Defoe's fingerprints.
+
+
+
+
+WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+
+UNIVERSITY OF CALIFORNIA, LOS ANGELES
+
+The Augustan Reprint Society
+
+PUBLICATIONS IN PRINT
+
+
+
+
+The Augustan Reprint Society
+
+PUBLICATIONS IN PRINT
+
+
+1948-1949
+
+ 16. Henry Nevil Payne, _The Fatal Jealousie_ (1673).
+
+ 18. "Of Genius," in _The Occasional Paper_, Vol. III, No. 10
+(1719), and Aaron Hill, Preface to _The Creation_ (1720).
+
+
+1949-1950
+
+ 19. Susanna Centlivre, _The Busie Body_ (1709).
+
+ 20. Lewis Theobald, _Preface to the Works of Shakespeare_ (1734).
+
+ 22. Samuel Johnson, _The Vanity of Human Wishes_ (1749), and two
+_Rambler_ papers (1750).
+
+ 23. John Dryden, _His Majesties Declaration Defended_ (1681).
+
+
+1951-1952
+
+ 26. Charles Macklin, _The Man of the World_ (1792).
+
+ 31. Thomas Gray, _An Elegy Wrote in a Country Churchyard_ (1751),
+and _The Eton College Manuscript_.
+
+
+1952-1953
+
+ 41. Bernard Mandeville, _A Letter to Dion_ (1732).
+
+
+1964-1965
+
+109. Sir William Temple, _An Essay Upon the Original and Nature of
+Government_ (1680).
+
+110. John Tutchin, _Selected Poems_ (1685-1700).
+
+111. _Political Justice_ (1736).
+
+113. T. R., _An Essay Concerning Critical and Curious Learning_ (1698).
+
+114. Two Poems Against Pope: Leonard Welsted, _One Epistle to Mr. A.
+Pope_ (1730); and _The Blatant Beast_ (1742).
+
+
+1965-1966
+
+115. Daniel Defoe and others, _Accounts of the Apparition of Mrs.
+Veal_.
+
+116. Charles Macklin, _The Convent Garden Theatre_ (1752).
+
+117. Sir Roger L'Estrange, _Citt and Bumpkin_ (1680).
+
+118. Henry More, _Enthusiasmus Triumphatus_ (1662).
+
+119. Thomas Traherne, _Meditations on the Six Days of the Creation_
+(1717).
+
+120. Bernard Mandeville, _Aesop Dress'd or a Collection of Fables_
+(1740).
+
+
+1966-1967
+
+123. Edmond Malone, _Cursory Observations on the Poems Attributed to
+Mr. Thomas Rowley_ (1782).
+
+124. _The Female Wits_ (1704).
+
+125. _The Scribleriad_ (1742). Lord Hervey, _The Difference Between
+Verbal and Practical Virtue_ (1742).
+
+
+1968-1969
+
+133. John Courtenay, _A Poetical Review of the Literary and Moral
+Character of the Late Samuel Johnson_ (1786).
+
+134. John Downes, _Roscius Anglicanus_ (1708).
+
+135. Sir John Hill, _Hypochondriasis, a Practical Treatise_ (1766).
+
+136. Thomas Sheridan, _Discourse ... Being Introductory to His Course
+of Lectures on Elocution and the English Language_ (1759).
+
+137. Arthur Murphy, _The Englishman From Paris_ (1736).
+
+
+1969-1970
+
+138. [Catherine Trotter] _Olinda's Adventures_ (1718).
+
+139. John Ogilvie, _An Essay on the Lyric Poetry of the Ancients_
+(1762).
+
+140. _A Learned Dissertation on Dumpling_ (1726) and _Pudding Burnt to
+Pot or a Compleat Key to the Dissertation on Dumpling_ (1727).
+
+141. Selections from Sir Roger L'Estrange's _Observator_ (1681-1687).
+
+142. Anthony Collins, _A Discourse Concerning Ridicule and Irony in
+Writing_ (1729).
+
+143. _A Letter From A Clergyman to His Friend, With An Account of the
+Travels of Captain Lemuel Gulliver_ (1726).
+
+144. _The Art of Architecture, A Poem. In Imitation of Horace's Art of
+Poetry_ (1742).
+
+
+1970-1971
+
+145-146. Thomas Shelton, _A Tutor to Tachygraphy, or Short-writing_
+(1642) and _Tachygraphy_ (1647).
+
+147-148. _Deformities of Dr. Samuel Johnson_ (1782).
+
+149. _Poeta de Tristibus: or the Poet's Complaint_ (1682).
+
+150. Gerard Langbaine, _Momus Triumphans: or the Plagiaries of the
+English Stage_ (1687).
+
+
+1971-1972
+
+151-152. Evan Lloyd, _The Methodist. A Poem_ (1766).
+
+153. _Are these Things So?_ (1740), and _The Great Man's Answer to Are
+these Things So?_ (1740).
+
+154. Arbuthnotiana: _The Story of the St. Alb-ns Ghost_ (1712), and _A
+Catalogue of Dr. Arbuthnot's Library_ (1779).
+
+155-156. A Selection of Emblems from Herman Hugo's _Pia Desideria_
+(1624), with English Adaptations by Francis Quarles and Edmund Arwaker.
+
+
+1972-1973
+
+157. William Mountfort, _The Life and Death of Doctor Faustus_ (1697).
+
+158. Colley Cibber, _A Letter from Mr. Cibber, to Mr. Pope_ (1742).
+
+159. [Catherine Clive], _The Case of Mrs. Clive_ (1744).
+
+160. [Thomas Tryon], _A Discourse ... of Phrensie, Madness or
+Distraction_ from _A Treatise of Dreams and Visions_ [1689].
+
+161. Robert Blair, _The Grave. A Poem_ (1743).
+
+162. Bernard Mandeville, _A Modest Defence of Publick Stews_ (1724).
+
+
+    Publications of the first fifteen years of the Society (numbers
+    1-90) are available in paperbound units of six issues at $16.00
+    per unit, from the Kraus Reprint Company, 16 East 46th Street,
+    New     York, N.Y. 10017.
+
+    Publications in print are available at the regular membership rate
+    of $5.00 for individuals and $8.00 for institutions per year.
+    Prices of single issues may be obtained upon request. Subsequent
+    publications may be checked in the annual prospectus.
+
+    _Make check or money order payable to_
+
+    THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+
+    and send to
+
+    The William Andrews Clark Memorial Library
+    2520 Cimarron Street, Los Angeles, California 90018
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK A SHORT NARRATIVE OF THE LIFE AND
+ACTIONS OF HIS GRACE JOHN, D. OF MARLBOROGH***
+
+
+******* This file should be named 37505-8.txt or 37505-8.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/3/7/5/0/37505
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://www.gutenberg.org/about/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:
+http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

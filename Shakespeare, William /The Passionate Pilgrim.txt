@@ -1,0 +1,587 @@
+
+Project Gutenberg Etext of The Passionate Pilgrim by Shakespeare
+PG has multiple editions of William Shakespeare's Complete Works
+
+
+*******************************************************************
+THIS EBOOK WAS ONE OF PROJECT GUTENBERG'S EARLY FILES PRODUCED AT A
+TIME WHEN PROOFING METHODS AND TOOLS WERE NOT WELL DEVELOPED. THERE
+IS AN IMPROVED EDITION OF THIS TITLE WHICH MAY BE VIEWED AS EBOOK
+(#100) at https://www.gutenberg.org/ebooks/100
+*******************************************************************
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Passionate Pilgrim
+
+by William Shakespeare [Clark edition]
+
+November, 1998 [Etext #1545]
+
+
+Project Gutenberg Etext of The Passionate Pilgrim by Shakespeare
+******This file should be named 1545.txt or 1545.zip******
+
+
+This etext was prepared by the PG Shakespeare Team,
+a team of about twenty Project Gutenberg volunteers.
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT! keep
+these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This etext was prepared by the PG Shakespeare Team,
+a team of about twenty Project Gutenberg volunteers.
+
+
+
+
+
+THE PASSIONATE PILGRIM
+
+by William Shakespeare
+
+
+
+
+I.
+
+When my love swears that she is made of truth,
+I do believe her, though I know she lies,
+That she might think me some untutor'd youth,
+Unskilful in the world's false forgeries,
+Thus vainly thinking that she thinks me young,
+Although I know my years be past the best,
+I smiling credit her false-speaking tongue,
+Outfacing faults in love with love's ill rest.
+But wherefore says my love that she is young?
+And wherefore say not I that I am old?
+O, love's best habit is a soothing tongue,
+And age, in love, loves not to have years told.
+  Therefore, I'll lie with love, and love with me,
+  Since that our faults in love thus smother'd be.
+
+
+II.
+
+Two loves I have, of comfort and despair,
+That like two spirits do suggest me still;
+My better angel is a man right fair,
+My worser spirit a woman colour'd ill.
+To win me soon to hell, my female evil
+Tempteth my better angel from my side,
+And would corrupt my saint to be a devil,
+Wooing his purity with her fair pride.
+And whether that my angel be turn'd fiend,
+Suspect I may, yet not directly tell:
+For being both to me, both to each friend,
+I guess one angel in another's hell:
+  The truth I shall not know, but live in doubt,
+  Till my bad angel fire my good one out.
+
+
+III.
+
+Did not the heavenly rhetoric of thine eye,
+'Gainst whom the world could not hold argument.
+Persuade my heart to this false perjury?
+Vows for thee broke deserve not punishment.
+A woman I forswore; but I will prove,
+Thou being a goddess, I forswore not thee:
+My vow was earthly, thou a heavenly love:
+Thy grace being gain'd cures all disgrace in me.
+My vow was breath, and breath a vapour is;
+Then, thou fair sun, that on this earth doth shine,
+Exhale this vapour vow; in thee it is:
+If broken, then it is no fault of mine.
+  If by me broke, what fool is not so wise
+  To break an oath, to win a paradise?
+
+
+IV.
+
+Sweet Cytherea, sitting by a brook
+With young Adonis, lovely, fresh, and green,
+Did court the lad with many a lovely look,
+Such looks as none could look but beauty's queen,
+She told him stories to delight his ear;
+She show'd him favours to allure his eye;
+To win his heart, she touch'd him here and there, --
+Touches so soft still conquer chastity.
+But whether unripe years did want conceit,
+Or he refused to take her figured proffer,
+The tender nibbler would not touch the bait,
+But smile and jest at every gentle offer:
+  Then fell she on her back, fair queen, and toward:
+  He rose and ran away; ah, fool too froward!
+
+
+V.
+
+If love make me forsworn, how shall I swear to love?
+O never faith could hold, if not to beauty vow'd:
+Though to myself forsworn, to thee I'll constant prove;
+Those thoughts, to me like oaks, to thee like osiers bow'd.
+Study his bias leaves, and make his book thine eyes,
+Where all those pleasures live that art can comprehend.
+If knowledge be the mark, to know thee shall suffice;
+Well learned is that tongue that well can thee commend;
+All ignorant that soul that sees thee without wonder;
+Which is to me some praise, that I thy parts admire:
+Thy eye Jove's lightning seems, thy voice his dreadful thunder,
+Which, not to anger bent, is music and sweet fire.
+  Celestial as thou art, O do not love that wrong,
+  To sing heaven's praise with such an earthly tongue.
+
+
+VI.
+
+Scarce had the sun dried up the dewy morn,
+And scarce the herd gone to the hedge for shade,
+When Cytherea, all in love forlorn,
+A longing tarriance for Adonis made
+Under an osier growing by a brook,
+A brook where Adon used to cool his spleen:
+Hot was the day; she hotter that did look
+For his approach, that often there had been.
+Anon he comes, and throws his mantle by,
+And stood stark naked on the brook's green brim:
+The sun look'd on the world with glorious eye,
+Yet not so wistly as this queen on him.
+  He, spying her, bounced in, whereas he stood:
+  'O Jove,' quoth she, 'why was not I a flood!'
+
+
+VII.
+
+Fair is my love, but not so fair as fickle;
+Mild as a dove, but neither true nor trusty;
+Brighter than glass, and yet, as glass is brittle;
+Softer than wax, and yet, as iron, rusty:
+  A lily pale, with damask dye to grace her,
+  None fairer, nor none falser to deface her.
+
+Her lips to mine how often hath she joined,
+Between each kiss her oaths of true love swearing!
+How many tales to please me bath she coined,
+Dreading my love, the loss thereof still fearing!
+  Yet in the midst of all her pure protestings,
+  Her faith, her oaths, her tears, and all were jestings.
+
+She burn'd with love, as straw with fire flameth;
+She burn'd out love, as soon as straw outburneth;
+She framed the love, and yet she foil'd the framing;
+She bade love last, and yet she fell a-turning.
+  Was this a lover, or a lecher whether?
+  Bad in the best, though excellent in neither.
+
+
+VIII.
+
+If music and sweet poetry agree,
+As they must needs, the sister and the brother,
+Then must the love be great 'twixt thee and me,
+Because thou lovest the one, and I the other.
+Dowland to thee is dear, whose heavenly touch
+Upon the lute doth ravish human sense;
+Spenser to me, whose deep conceit is such
+As, passing all conceit, needs no defence.
+Thou lovest to bear the sweet melodious sound
+That Phoebus' lute, the queen of music, makes;
+And I in deep delight am chiefly drown'd
+Whenas himself to singing he betakes.
+  One god is god of both, as poets feign;
+  One knight loves both, and both in thee remain.
+
+
+IX.
+
+Fair was the morn when the fair queen of love,
+    *     *     *     *     *     *
+Paler for sorrow than her milk-white dove,
+For Adon's sake, a youngster proud and wild;
+Her stand she takes upon a steep-up hill:
+Anon Adonis comes with horn and hounds;
+She, silly queen, with more than love's good will,
+Forbade the boy he should not pass those grounds:
+'Once,' quoth she, 'did I see a fair sweet youth
+Here in these brakes deep-wounded with a boar,
+Deep in the thigh, a spectacle of ruth!
+See, in my thigh,' quoth she, 'here was the sore.
+  She showed hers: he saw more wounds than one,
+  And blushing fled, and left her all alone.
+
+
+X.
+
+Sweet rose, fair flower, untimely pluck'd, soon vaded,
+Pluck'd in the bud, and vaded in the spring!
+Bright orient pearl, alack, too timely shaded!
+Fair creature, kill'd too soon by death's sharp sting!
+  Like a green plum that hangs upon a tree,
+  And falls, through wind, before the fall should he.
+
+I weep for thee, and yet no cause I have;
+For why thou left'st me nothing in thy will:
+And yet thou left'st me more than I did crave;
+For why I craved nothing of thee still:
+  O yes, dear friend, I pardon crave of thee,
+  Thy discontent thou didst bequeath to me.
+
+
+XI.
+
+Venus, with young Adonis sitting by her
+Under a myrtle shade, began to woo him:
+She told the youngling how god Mars did try her,
+And as he fell to her, so fell she to him.
+'Even thus,' quoth she, 'the warlike god embraced me,'
+And then she clipp'd Adonis in her arms;
+'Even thus,' quoth she, 'the warlike god unlaced me,'
+As if the boy should use like loving charms;
+'Even thus,' quoth she, 'he seized on my lips
+And with her lips on his did act the seizure
+And as she fetched breath, away he skips,
+And would not take her meaning nor her pleasure.
+  Ah, that I had my lady at this bay,
+  To kiss and clip me till I run away!
+
+
+XII.
+
+Crabbed age and youth cannot live together
+Youth is full of pleasance, age is full of care;
+Youth like summer morn, age like winter weather;
+Youth like summer brave, age like winter bare;
+Youth is full of sport, age's breath is short;
+  Youth is nimble, age is lame;
+Youth is hot and bold, age is weak and cold;
+  Youth is wild, and age is tame.
+Age, I do abhor thee; youth, I do adore thee;
+  O, my love, my love is young!
+Age, I do defy thee: O, sweet shepherd, hie thee,
+  For methinks thou stay'st too long.
+
+
+XIII.
+
+Beauty is but a vain and doubtful good;
+A shining gloss that vadeth suddenly;
+A flower that dies when first it gins to bud;
+A brittle glass that's broken presently:
+  A doubtful good, a gloss, a glass, a flower,
+  Lost, vaded, broken, dead within an hour.
+
+And as goods lost are seld or never found,
+As vaded gloss no rubbing will refresh,
+As flowers dead lie wither'd on the ground,
+As broken glass no cement can redress,
+  So beauty blemish'd once's for ever lost,
+  In spite of physic, painting, pain and cost.
+
+
+XIV.
+Good night, good rest.  Ah, neither be my share:
+She bade good night that kept my rest away;
+And daff'd me to a cabin hang'd with care,
+To descant on the doubts of my decay.
+ 'Farewell,' quoth she, 'and come again tomorrow:
+ Fare well I could not, for I supp'd with sorrow.
+
+Yet at my parting sweetly did she smile,
+In scorn or friendship, nill I construe whether:
+'T may be, she joy'd to jest at my exile,
+'T may be, again to make me wander thither:
+  'Wander,' a word for shadows like myself,
+  As take the pain, but cannot pluck the pelf.
+
+
+XV.
+
+Lord, how mine eyes throw gazes to the east!
+My heart doth charge the watch; the morning rise
+Doth cite each moving sense from idle rest.
+Not daring trust the office of mine eyes,
+  While Philomela sits and sings, I sit and mark,
+  And wish her lays were tuned like the lark;
+
+For she doth welcome daylight with her ditty,
+And drives away dark dismal-dreaming night:
+The night so pack'd, I post unto my pretty;
+Heart hath his hope, and eyes their wished sight;
+  Sorrow changed to solace, solace mix'd with sorrow;
+  For why, she sigh'd and bade me come tomorrow.
+
+Were I with her, the night would post too soon;
+But now are minutes added to the hours;
+To spite me now, each minute seems a moon;
+Yet not for me, shine sun to succour flowers!
+  Pack night, peep day; good day, of night now borrow:
+  Short, night, to-night, and length thyself
+     to-morrow.
+
+
+
+
+
+End of Project Gutenberg Etext of The Passionate Pilgrim by Shakespeare
+PG has multiple editions of William Shakespeare's Complete Works
+

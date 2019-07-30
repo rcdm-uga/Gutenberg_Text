@@ -1,0 +1,3240 @@
+The Project Gutenberg eBook, The Years Between, by Rudyard Kipling
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: The Years Between
+
+
+Author: Rudyard Kipling
+
+
+
+Release Date: June 8, 2007  [eBook #21777]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+
+***START OF THE PROJECT GUTENBERG EBOOK THE YEARS BETWEEN***
+
+
+E-text prepared by Thierry Alberto, L. N. Yaddanapudi, and the Project
+Gutenberg Online Distributed Proofreading Team (http://www.pgdp.net)
+
+
+
+Note: Project Gutenberg also has an HTML version of this
+      file which includes the original illustration.
+      See 21777-h.htm or 21777-h.zip:
+      (http://www.gutenberg.net/dirs/2/1/7/7/21777/21777-h/21777-h.htm)
+      or
+      (http://www.gutenberg.net/dirs/2/1/7/7/21777/21777-h.zip)
+
+
+
+
+
+THE YEARS BETWEEN
+
+by
+
+RUDYARD KIPLING
+
+
+
+
+
+
+
+[Illustration]
+
+
+
+Methuen and Co. Ltd.
+36 Essex Street W.C.
+London
+First Published in 1919
+
+
+
+
+DEDICATION
+
+TO THE SEVEN WATCHMEN
+
+
+    _Seven Watchmen sitting in a tower,
+      Watching what had come upon mankind,
+    Showed the Man the Glory and the Power,
+      And bade him shape the Kingdom to his mind.
+    'All things on Earth your will shall win you'
+      ('Twas so their counsel ran)
+    'But the Kingdom--the Kingdom is within you,'
+      Said the Man's own mind to the Man.
+        For time, and some time--
+    As it was in the bitter years before,
+      So it shall be in the over-sweetened hour--
+    That a man's mind is wont to tell him more
+      Than Seven Watchmen sitting in a tower._
+
+
+
+
+CONTENTS
+
+
+                             PAGE
+  BENEFACTORS, THE             96
+  CHOICE, THE                  35
+  'CITY OF BRASS, THE'        148
+  COVENANT, THE                13
+  CRAFTSMAN, THE               91
+  DEAD KING, THE              100
+  DEATH-BED, A                106
+  DECLARATION OF LONDON, THE    6
+  DEDICATION                    v
+  EN-DOR                       55
+  EPITAPHS                    135
+  FEMALE OF THE SPECIES, THE  128
+  'FOR ALL WE HAVE AND ARE'    21
+  FRANCE                       15
+  GEHAZI                      109
+  GETHSEMANE                   85
+  HOLY-WAR, THE                38
+  HOUSES, THE                  42
+  HYÆNAS, THE                  68
+  JUSTICE                     156
+  IRISH GUARDS, THE            48
+  LORD ROBERTS                 31
+  MARY'S SON                   80
+  MESOPOTAMIA                  65
+  MY BOY JACK                  61
+  NATIVITY, A                  52
+  NATURAL THEOLOGY            121
+  OLDEST SONG, THE            119
+  OUTLAWS, THE                 27
+  PILGRIM'S WAY, A            114
+  PRO-CONSULS, THE             87
+  QUESTION, THE                33
+  RECANTATION, A               58
+  ROWERS, THE                   1
+  RUSSIA TO THE PACIFISTS      44
+  SONG AT COCK-CROW, A        125
+  SONG IN STORM, A             24
+  SONG OF THE LATHES, THE      81
+  SONS OF MARTHA, THE          75
+  SPIES' MARCH, THE            70
+  THINGS AND THE MAN           93
+  ULSTER                        9
+  VERDICTS, THE                63
+  VETERANS, THE                 5
+  VIRGINITY, THE              112
+  ZION                         29
+
+
+
+
+INDEX TO FIRST LINES
+
+
+                                                                    PAGE
+  _Across a world where all men grieve,_                             156
+  _A._ 'I was a "have"' _B._ 'I was a "have-not,"'                   135
+  After the burial-parties leave,                                     68
+  _Ah! What avails the classic bent,_                                 96
+  _A tinker out of Bedford,_                                          38
+
+  Be well assured that on our side,                                   24
+  Brethren, how shall it fare with me,                                33
+  _Broke to every known mischance, lifted over all,_                  15
+
+  For all we have and are,                                            21
+
+  God rest you, peaceful gentlemen, let nothing you dismay,           44
+
+  'Have you news of my boy Jack?'                                     61
+  He passed in the very battle-smoke,                                 31
+
+  I ate my fill of a whale that died,                                121
+  I do not look for holy saints to guide me on my way,               114
+  If you stop to find out what your wages will be,                    80
+  _In a land that the sand overlays--the ways to her gates are
+      untrod,_                                                       148
+
+  Not in the thick of the fight,                                      63
+
+  Oh ye who hold the written clue,                                    93
+  Once, after long-drawn revel at The Mermaid,                        91
+
+  _Seven Watchmen sitting in a tower,_                                 v
+
+  _The Babe was laid in the Manger,_                                  52
+  The banked oars fell an hundred strong,                              1
+  The dark eleventh hour,                                              9
+  The Doorkeepers of Zion,                                            29
+  The fans and the beltings they roar round me,                       81
+  The first time that Peter denied his Lord,                         125
+  The Garden called Gethsemane,                                       85
+  _The overfaithful sword returns the user,_                          87
+  There are no leaders to lead us to honour, and yet without leaders
+      we sally,                                                       70
+  The road to En-dor is easy to tread,                                55
+  These were never your true love's eyes,                            119
+  The Sons of Mary seldom bother, for they have inherited that good
+      part,                                                           75
+  They shall not return to us, the resolute, the young,               65
+  'This is the State above the Law,                                  106
+  To-day, across our fathers' graves,                                  5
+  _To the Judge of Right and Wrong,_                                  35
+  Through learned and laborious years,                                27
+  Try as he will, no man breaks wholly loose,                        112
+  'Twixt my house and thy house the pathway is broad,                 42
+
+  We're not so old in the Army List,                                  48
+  We thought we ranked above the chance of ill,                       13
+  We were all one heart and one race,                                  6
+  What boots it on the Gods to call?                                  58
+  'Whence comest thou, Gehazi,                                       109
+  When the Himalayan peasant meets the he-bear in his pride,         128
+  _Who in the Realm to-day lays down dear life for the sake of a
+      land more dear?_                                               100
+
+
+
+
+THE ROWERS
+
+1902
+
+(When Germany proposed that England should help her in a naval
+demonstration to collect debts from Venezuela.)
+
+
+    The banked oars fell an hundred strong,
+      And backed and threshed and ground,
+    But bitter was the rowers' song
+      As they brought the war-boat round.
+
+    They had no heart for the rally and roar
+      That makes the whale-bath smoke--
+    When the great blades cleave and hold and leave
+      As one on the racing stroke.
+
+    They sang:--'What reckoning do you keep,
+      And steer her by what star,
+    If we come unscathed from the Southern deep
+       To be wrecked on a Baltic bar?
+
+    'Last night you swore our voyage was done,
+      But seaward still we go,
+    And you tell us now of a secret vow
+      You have made with an open foe!
+
+    'That we must lie off a lightless coast
+      And haul and back and veer,
+    At the will of the breed that have wronged us most
+      For a year and a year and a year!
+
+    'There was never a shame in Christendie
+      They laid not to our door--
+    And you say we must take the winter sea
+      And sail with them once more?
+
+    'Look South! The gale is scarce o'erpast
+      That stripped and laid us down,
+    When we stood forth but they stood fast
+      And prayed to see us drown
+
+    'Our dead they mocked are scarcely cold,
+      Our wounds are bleeding yet--
+    And you tell us now that our strength is sold
+      To help them press for a debt'
+
+    ''Neath all the flags of all mankind
+      That use upon the seas,
+    Was there no other fleet to find
+      That you strike hands with these?
+
+    'Of evil times that men can choose
+      On evil fate to fall,
+    What brooding Judgment let you loose
+      To pick the worst of all?
+
+    'In sight of peace--from the Narrow Seas
+      O'er half the world to run--
+    With a cheated crew, to league anew
+      With the Goth and the shameless Hun!'
+
+
+
+
+THE VETERANS
+
+[Written for the gathering of survivors of the Indian Mutiny, Albert
+Hall, 1907.]
+
+
+    To-day, across our fathers' graves,
+      The astonished years reveal
+    The remnant of that desperate host
+      Which cleansed our East with steel.
+
+    Hail and farewell! We greet you here,
+      With tears that none will scorn--
+    O Keepers of the House of old,
+      Or ever we were born!
+
+    One service more we dare to ask--
+      Pray for us, heroes, pray,
+    That when Fate lays on us our task
+      We do not shame the Day!
+
+
+
+
+THE DECLARATION OF LONDON
+
+JUNE 29, 1911
+
+('On the re-assembling of Parliament after the Coronation, the
+Government have no intention of allowing their followers to vote
+according to their convictions on the Declaration of London, but
+insist on a strictly party vote'--_Daily Papers_.)
+
+
+    We were all one heart and one race
+      When the Abbey trumpets blew.
+    For a moment's breathing-space
+      We had forgotten you
+    Now you return to your honoured place
+      Panting to shame us anew.
+
+    We have walked with the Ages dead--
+      With our Past alive and ablaze,
+    And you bid us pawn our honour for bread;
+      This day of all the days!
+    And you cannot wait till our guests are sped,
+      Or last week's wreath decays?
+
+    The light is still in our eyes
+      Of Faith and Gentlehood,
+    Of Service and Sacrifice,
+      And it does not match our mood,
+    To turn so soon to your treacheries
+      That starve our land of her food.
+
+    Our ears still carry the sound
+      Of our once Imperial seas,
+    Exultant after our King was crowned,
+      Beneath the sun and the breeze.
+    It is too early to have them bound
+      Or sold at your decrees.
+
+    Wait till the memory goes,
+      Wait till the visions fade,
+    We may betray in time, God knows,
+      But we would not have it said,
+    When you make report to our scornful foes,
+      That we kissed as we betrayed!
+
+
+
+
+ULSTER
+
+1912
+
+('Their webs shall not become garments, neither shall they cover
+themselves with their works; their works are works of iniquity,
+and the act of violence is in their hands.'--_Isaiah lix 6_)
+
+
+    The dark eleventh hour
+    Draws on and sees us sold
+    To every evil power
+    We fought against of old.
+    Rebellion, rapine, hate,
+    Oppression, wrong and greed
+    Are loosed to rule our fate,
+    By England's act and deed.
+
+    The Faith in which we stand,
+    The laws we made and guard,
+    Our honour, lives, and land
+    Are given for reward
+    To Murder done by night,
+    To Treason taught by day,
+    To folly, sloth, and spite,
+    And we are thrust away.
+
+    The blood our fathers spilt,
+    Our love, our toils, our pains,
+    Are counted us for guilt,
+    And only bind our chains.
+    Before an Empire's eyes
+    The traitor claims his price.
+    What need of further lies?
+    We are the sacrifice.
+
+    We asked no more than leave
+    To reap where we had sown,
+    Through good and ill to cleave
+    To our own flag and throne.
+    Now England's shot and steel
+    Beneath that flag must show
+    How loyal hearts should kneel
+    To England's oldest foe.
+
+    We know the war prepared
+    On every peaceful home,
+    We know the hells declared
+    For such as serve not Rome--
+    The terror, threats, and dread
+    In market, hearth, and field--
+    We know, when all is said,
+    We perish if we yield.
+
+    Believe, we dare not boast,
+    Believe, we do not fear--
+    We stand to pay the cost
+    In all that men hold dear.
+    What answer from the North?
+    One Law, one Land, one Throne.
+    If England drive us forth
+    We shall not fall alone.
+
+
+
+
+THE COVENANT
+
+1914
+
+
+    We thought we ranked above the chance of ill.
+      Others might fall, not we, for we were wise--
+    Merchants in freedom. So, of our free-will
+      We let our servants drug our strength with lies.
+    The pleasure and the poison had its way
+      On us as on the meanest, till we learned
+    That he who lies will steal, who steals will slay.
+      Neither God's judgment nor man's heart was turned.
+
+    Yet there remains His Mercy--to be sought
+    Through wrath and peril till we cleanse the wrong
+    By that last right which our forefathers claimed
+    When their Law failed them and its stewards were bought.
+    This is our cause. God help us, and make strong
+    Our wills to meet Him later, unashamed!
+
+
+
+
+FRANCE
+
+1913
+
+
+    _Broke to every known mischance, lifted over all
+    By the light sane joy of life, the buckler of the Gaul;
+    Furious in luxury, merciless in toil,
+    Terrible with strength that draws from her tireless soil;
+    Strictest judge of her own worth, gentlest of man's mind,
+    First to follow Truth and last to leave old Truths behind--
+    France, beloved of every soul that loves its fellow-kind!_
+
+    Ere our birth (rememberest thou?) side by side we lay
+    Fretting in the womb of Rome to begin our fray.
+    Ere men knew our tongues apart, our one task was known--
+    Each must mould the other's fate as he wrought his own
+    To this end we stirred mankind till all Earth was ours,
+    Till our world-end strifes begat wayside thrones and powers--
+    Puppets that we made or broke to bar the other's path--
+    Necessary, outpost folk, hirelings of our wrath
+    To this end we stormed the seas, tack for tack, and burst
+    Through the doorways of new worlds, doubtful which was first,
+    Hand on hilt (rememberest thou?) ready for the blow--
+    Sure, whatever else we met, we should meet our foe.
+    Spurred or balked at every stride by the other's strength,
+    So we rode the ages down and every ocean's length!
+
+    Where did you refrain from us or we refrain from you?
+    Ask the wave that has not watched war between us two!
+    Others held us for a while, but with weaker charms,
+    These we quitted at the call for each other's arms.
+    Eager toward the known delight, equally we strove--
+    Each the other's mystery, terror, need, and love
+    To each other's open court with our proofs we came.
+    Where could we find honour else, or men to test our claim?
+    From each other's throat we wrenched--valour's last reward--
+    That extorted word of praise gasped 'twixt lunge and guard.
+    In each other's cup we poured mingled blood and tears,
+    Brutal joys, unmeasured hopes, intolerable fears--
+    All that soiled or salted life for a thousand years.
+    Proved beyond the need of proof, matched in every clime,
+    O companion, we have lived greatly through all time!
+
+    Yoked in knowledge and remorse, now we come to rest,
+    Laughing at old villainies that Time has turned to jest,
+    Pardoning old necessities no pardon can efface--
+    That undying sin we shared in Rouen marketplace.
+    Now we watch the new years shape, wondering if they hold
+    Fiercer lightnings in their heart than we launched of old.
+    Now we hear new voices rise, question, boast or gird,
+    As we raged (rememberest thou?) when our crowds were stirred,
+    Now we count new keels afloat, and new hosts on land,
+    Massed like ours (rememberest thou?) when our strokes were planned.
+    We were schooled for dear life's sake, to know each other's blade
+    What can blood and iron make more than we have made?
+    We have learned by keenest use to know each other's mind.
+    What shall blood and iron loose that we cannot bind?
+    We who swept each other's coast, sacked each other's home,
+    Since the sword of Brennus clashed on the scales at Rome,
+    Listen, count and close again, wheeling girth to girth,
+    In the linked and steadfast guard set for peace on earth!
+
+    Broke to every known mischance, lifted over all
+    By the light sane joy of life, the buckler of the Gaul;
+    Furious in luxury, merciless in toil,
+    Terrible with strength renewed from a tireless soil;
+    Strictest judge of her own worth, gentlest of man's mind,
+    First to face the Truth and last to leave old Truths behind--
+    France, beloved of every soul that loves or serves its kind!
+
+
+
+
+'FOR ALL WE HAVE AND ARE'
+
+1914.
+
+
+    For all we have and are,
+    For all our children's fate,
+    Stand up and take the war,
+    The Hun is at the gate!
+    Our world has passed away,
+    In wantonness o'erthrown.
+    There is nothing left to-day
+    But steel and fire and stone!
+        Though all we knew depart,
+        The old Commandments stand:--
+        'In courage keep your heart,
+        In strength lift up your hand.'
+
+    Once more we hear the word
+    That sickened earth of old:--
+    'No law except the Sword
+    Unsheathed and uncontrolled.'
+    Once more it knits mankind,
+    Once more the nations go
+    To meet and break and bind
+    A crazed and driven foe.
+
+    Comfort, content, delight,
+    The ages' slow-bought gain,
+    They shrivelled in a night.
+    Only ourselves remain
+    To face the naked days
+    In silent fortitude,
+    Through perils and dismays
+    Renewed and re-renewed.
+        Though all we made depart,
+        The old Commandments stand;--
+        'In patience keep your heart,
+        In strength lift up your hand.'
+
+    No easy hope or lies
+    Shall bring us to our goal,
+    But iron sacrifice
+    Of body, will, and soul.
+    There is but one task for all--
+    One life for each to give
+    Who stands if Freedom fall?
+    Who dies if England live?
+
+
+
+
+A SONG IN STORM
+
+
+    Be well assured that on our side
+      The abiding oceans fight,
+    Though headlong wind and heaping tide
+      Make us their sport to-night.
+    By force of weather not of war
+      In jeopardy we steer,
+    Then welcome Fate's discourtesy
+      Whereby it shall appear,
+        How in all time of our distress,
+        And our deliverance too,
+        The game is more than the player of the game,
+        And the ship is more than the crew.
+
+    Out of the mist into the mirk
+      The glimmering combers roll.
+    Almost these mindless waters work
+      As though they had a soul--
+    Almost as though they leagued to whelm
+      Our flag beneath their green
+    Then welcome Fate's discourtesy
+      Whereby it shall be seen, etc.
+
+    Be well assured, though wave and wind
+      Have weightier blows in store,
+    That we who keep the watch assigned
+      Must stand to it the more;
+    And as our streaming bows rebuke
+      Each billow's baulked career,
+    Sing, welcome Fate's discourtesy
+      Whereby it is made clear, etc.
+
+    No matter though our deck be swept
+      And masts and timber crack--
+    We can make good all loss except
+      The loss of turning back.
+    So, 'twixt these Devils and our deep
+      Let courteous trumpets sound,
+    To welcome Fate's discourtesy
+      Whereby it will be found, etc.
+
+    Be well assured, though in our power
+      Is nothing left to give
+    But chance and place to meet the hour,
+      And leave to strive to live,
+    Till these dissolve our Order holds,
+      Our Service binds us here.
+    Then welcome Fate's discourtesy
+      Whereby it is made clear,
+        How in all time of our distress,
+        And in our triumph too,
+        The game is more than the player of the game,
+        And the ship is more than the crew!
+
+
+
+
+THE OUTLAWS
+
+1914
+
+
+    Through learned and laborious years
+      They set themselves to find
+    Fresh terrors and undreamed-of fears
+      To heap upon mankind.
+
+    All that they drew from Heaven above
+      Or digged from earth beneath,
+    They laid into their treasure-trove
+      And arsenals of death:
+
+    While, for well-weighed advantage sake,
+      Ruler and ruled alike
+    Built up the faith they meant to break
+      When the fit hour should strike.
+
+    They traded with the careless earth,
+      And good return it gave;
+    They plotted by their neighbour's hearth
+      The means to make him slave.
+
+    When all was ready to their hand
+      They loosed their hidden sword,
+    And utterly laid waste a land
+      Their oath was pledged to guard.
+
+    Coldly they went about to raise
+      To life and make more dread
+    Abominations of old days,
+      That men believed were dead.
+
+    They paid the price to reach their goal
+      Across a world in flame;
+    But their own hate slew their own soul
+      Before that victory came.
+
+
+
+
+ZION
+
+
+    The Doorkeepers of Zion,
+      They do not always stand
+    In helmet and whole armour,
+      With halberds in their hand,
+    But, being sure of Zion,
+      And all her mysteries,
+    They rest awhile in Zion,
+    Sit down and smile in Zion;
+    Ay, even jest in Zion;
+      In Zion, at their ease.
+
+    The Gatekeepers of Baal,
+      They dare not sit or lean,
+    But fume and fret and posture
+      And foam and curse between;
+    For being bound to Baal,
+      Whose sacrifice is vain.
+    Their rest is scant with Baal,
+    They glare and pant for Baal,
+    They mouth and rant for Baal,
+      For Baal in their pain!
+
+    But we will go to Zion,
+      By choice and not through dread,
+    With these our present comrades
+      And those our present dead;
+    And, being free of Zion
+      In both her fellowships,
+    Sit down and sup in Zion--
+    Stand up and drink in Zion
+    Whatever cup in Zion
+      Is offered to our lips!
+
+
+
+
+LORD ROBERTS
+
+1914
+
+
+    He passed in the very battle-smoke
+      Of the war that he had descried.
+    Three hundred mile of cannon spoke
+      When the Master-Gunner died.
+
+    He passed to the very sound of the guns;
+      But, before his eye grew dim,
+    He had seen the faces of the sons
+      Whose sires had served with him.
+
+    He had touched their sword-hilts and greeted each
+      With the old sure word of praise;
+    And there was virtue in touch and speech
+      As it had been in old days.
+
+    So he dismissed them and took his rest,
+      And the steadfast spirit went forth
+    Between the adoring East and West
+      And the tireless guns of the North.
+
+    Clean, simple, valiant, well-beloved,
+      Flawless in faith and fame,
+    Whom neither ease nor honours moved
+      An hair's-breadth from his aim.
+
+    Never again the war-wise face,
+      The weighed and urgent word
+    That pleaded in the market-place--
+      Pleaded and was not heard!
+
+    Yet from his life a new life springs
+      Through all the hosts to come,
+    And Glory is the least of things
+      That follow this man home.
+
+
+
+
+THE QUESTION
+
+1916
+
+
+    Brethren, how shall it fare with me
+      When the war is laid aside,
+    If it be proven that I am he
+      For whom a world has died?
+
+    If it be proven that all my good,
+      And the greater good I will make,
+    Were purchased me by a multitude
+      Who suffered for my sake?
+
+    That I was delivered by mere mankind
+      Vowed to one sacrifice,
+    And not, as I hold them, battle-blind,
+      But dying with open eyes?
+
+    That they did not ask me to draw the sword
+      When they stood to endure their lot--
+    That they only looked to me for a word,
+      And I answered I knew them not?
+
+    If it be found, when the battle clears,
+      Their death has set me free,
+    Then how shall I live with myself through the years
+      Which they have bought for me?
+
+    Brethren, how must it fare with me,
+      Or how am I justified,
+    If it be proven that I am he
+      For whom mankind has died,
+    If it be proven that I am he
+      Who being questioned denied?
+
+
+
+
+THE CHOICE
+
+1917
+
+(THE AMERICAN SPIRIT SPEAKS)
+
+
+      _To the Judge of Right and Wrong
+        With Whom fulfilment lies
+      Our purpose and our power belong,
+        Our faith and sacrifice._
+
+    Let Freedom's Land rejoice!
+      Our ancient bonds are riven;
+    Once more to us the eternal choice
+      Of Good or Ill is given.
+
+    Not at a little cost,
+      Hardly by prayer or tears,
+    Shall we recover the road we lost
+      In the drugged and doubting years.
+
+    But, after the fires and the wrath,
+      But, after searching and pain,
+    His Mercy opens us a path
+      To live with ourselves again.
+
+    In the Gates of Death rejoice!
+      We see and hold the good--
+    Bear witness, Earth, we have made our choice
+      With Freedom's brotherhood!
+
+    Then praise the Lord Most High
+      Whose Strength hath saved us whole,
+    Who bade us choose that the Flesh should die
+      And not the living Soul!
+
+      _To the God in Man displayed--
+        Where e'er we see that Birth,
+      Be love and understanding paid
+        As never yet on earth!_
+
+      _To the Spirit that moves in Man,
+        On Whom all worlds depend,
+      Be Glory since our world began
+        And service to the end!_
+
+
+
+
+THE HOLY WAR
+
+1917
+
+('For here lay the excellent wisdom of him that built Mansoul that the
+walls could never be broken down nor hurt by the most mighty adverse
+potentate unless the townsmen gave consent thereto'--BUNYAN'S _Holy
+War_)
+
+
+    _A tinker out of Bedford,
+      A vagrant oft in quod,
+    A private under Fairfax,
+      A minister of God--
+    Two hundred years and thirty
+      Ere Armageddon came
+    His single hand portrayed it,
+      And Bunyan was his name!_
+
+    He mapped, for those who follow,
+      The world in which we are--
+    'This famous town of Mansoul'
+      That takes the Holy War
+    Her true and traitor people,
+      The gates along her wall,
+    From Eye Gate unto Feel Gate,
+      John Bunyan showed them all.
+
+    All enemy divisions,
+      Recruits of every class,
+    And highly-screened positions
+      For flame or poison-gas,
+    The craft that we call modern,
+      The crimes that we call new,
+    John Bunyan had 'em typed and filed
+      In Sixteen Eighty-two
+
+    Likewise the Lords of Looseness
+      That hamper faith and works,
+    The Perseverance-Doubters,
+      And Present-Comfort shirks,
+    With brittle intellectuals
+      Who crack beneath a strain--
+    John Bunyan met that helpful set
+      In Charles the Second's reign.
+
+    Emmanuel's vanguard dying
+      For right and not for rights,
+    My Lord Apollyon lying
+      To the State-kept Stockholmites,
+    The Pope, the swithering Neutrals,
+      The Kaiser and his Gott--
+    Their rôles, their goals, their naked souls--
+      He knew and drew the lot.
+
+    Now he hath left his quarters,
+      In Bunhill Fields to lie.
+    The wisdom that he taught us
+      Is proven prophecy--
+    One watchword through our armies,
+      One answer from our lands--
+    'No dealings with Diabolus
+      As long as Mansoul stands.
+
+    _A pedlar from a hovel,
+      The lowest of the low,
+    The father of the Novel,
+      Salvation's first Defoe,
+    Eight blinded generations
+      Ere Armageddon came,
+    He showed us how to meet it,
+      And Bunyan was his name!_
+
+
+
+
+THE HOUSES
+
+(A SONG OF THE DOMINIONS)
+
+1898
+
+
+    'Twixt my house and thy house the pathway is broad,
+    In thy house or my house is half the world's hoard;
+    By my house and thy house hangs all the world's fate,
+    On thy house and my house lies half the world's hate.
+
+    For my house and thy house no help shall we find
+    Save thy house and my house--kin cleaving to kind:
+    If my house be taken, thine tumbleth anon,
+    If thy house be forfeit, mine followeth soon.
+
+    'Twixt my house and thy house what talk can there be
+    Of headship or lordship, or service or fee?
+    Since my house to thy house no greater can send
+    Than thy house to my house--friend comforting friend;
+    And thy house to my house no meaner can bring
+    Than my house to thy house--King counselling King.
+
+
+
+
+RUSSIA TO THE PACIFISTS
+
+
+    God rest you, peaceful gentlemen, let nothing you dismay,
+    But--leave your sports a little while--the dead are borne this way!
+    Armies dead and Cities dead, past all count or care.
+    God rest you, merry gentlemen, what portent see you there?
+        Singing.--Break ground for a wearied host
+            That have no ground to keep.
+            Give them the rest that they covet most,
+            And who shall next to sleep, good sirs,
+            In such a trench to sleep?
+
+    God rest you, peaceful gentlemen, but give us leave to pass.
+    We go to dig a nation's grave as great as England was.
+    For this Kingdom and this Glory and this Power and this Pride
+    Three hundred years it flourished--in three hundred days it died.
+        Singing--Pour oil for a frozen throng,
+            That lie about the ways.
+            Give them the warmth they have lacked so long
+            And what shall be next to blaze, good sirs,
+            On such a pyre to blaze?
+
+    God rest you, thoughtful gentlemen, and send your sleep is light!
+    Remains of this dominion no shadow, sound, or sight,
+    Except the sound of weeping and the sight of burning fire,
+    And the shadow of a people that is trampled into mire.
+        Singing.--Break bread for a starving folk
+            That perish in the field.
+            Give them their food as they take the yoke ...
+            And who shall be next to yield, good sirs,
+            For such a bribe to yield?
+
+    God rest you, merry gentlemen, and keep you in your mirth!
+    Was ever kingdom turned so soon to ashes, blood, and earth?
+    'Twixt the summer and the snow--seeding-time and frost--
+    Arms and victual, hope and counsel, name and country lost!
+        Singing:--_Let down by the foot and the head--
+            Shovel and smooth it all!
+            So do we bury a Nation dead ..._
+            And who shall be next to fall, good sirs,
+            With your good help to fall?
+
+
+
+
+THE IRISH GUARDS
+
+1918
+
+
+    We're not so old in the Army List,
+      But we're not so young at our trade,
+    For we had the honour at Fontenoy
+      Of meeting the Guards' Brigade.
+    'Twas Lally, Dillon, Bulkeley, Clare,
+      And Lee that led us then,
+    And after a hundred and seventy years
+      We're fighting for France again!
+        _Old Days! The wild geese are flighting,
+          Head to the storm as they faced it before!
+        For where there are Irish there's bound to be fighting,
+          And when there's no fighting, it's Ireland no more!
+                                        Ireland no more!_
+
+    The fashion's all for khaki now,
+      But once through France we went
+    Full-dressed in scarlet Army cloth,
+      The English--left at Ghent
+    They're fighting on our side to-day.
+      But, before they changed their clothes,
+    The half of Europe knew our fame,
+      As all of Ireland knows!
+        _Old Days! The wild geese are flying,
+          Head to the storm as they faced it before!
+        For where there are Irish there's memory undying,
+          And when we forget, it is Ireland no more!
+                                        Ireland no more!_
+
+    From Barry Wood to Gouzeaucourt,
+      From Boyne to Pilkem Ridge,
+    The ancient days come back no more
+      Than water under the bridge
+    But the bridge it stands and the water runs
+      As red as yesterday,
+    And the Irish move to the sound of the guns
+      Like salmon to the sea.
+        _Old Days! The wild geese are ranging,
+          Head to the storm as they faced it before!
+        For where there are Irish their hearts are unchanging,
+          And when they are changed, it is Ireland no more!
+                                        Ireland no more!_
+
+    We're not so old in the Army List,
+      But we're not so new in the ring,
+    For we carried our packs with Marshal Saxe
+      When Louis was our King.
+    But Douglas Haig's our Marshal now
+      And we're King George's men,
+    And after one hundred and seventy years
+      We're fighting for France again!
+        _Ah, France! And did we stand by you,
+          When life was made splendid with gifts and rewards?
+        Ah, France! And will we deny you
+          In the hour of your agony, Mother of Swords?
+        Old Days! The wild geese are flighting,
+          Head to the storm as they faced it before!
+        For where there are Irish there's loving and fighting,
+        And when we stop either, it's Ireland no more!
+                                        Ireland no more!_
+
+
+
+
+A NATIVITY
+
+1916
+
+
+    _The Babe was laid in the Manger
+      Between the gentle kine--
+    All safe from cold and danger--_
+      'But it was not so with mine.
+                  (With mine! With mine!)
+    'Is it well with the child, is it well?'
+      The waiting mother prayed.
+    'For I know not how he fell,
+      And I know not where he is laid.'
+
+    _A Star stood forth in Heaven,
+      The watchers ran to see
+    The Sign of the Promise given--_
+      'But there comes no sign to me.
+                          (To me! To me!)
+    '_My_ child died in the dark.
+      Is it well with the child, is it well?
+    There was none to tend him or mark,
+      And I know not how he fell.'
+
+    _The Cross was raised on high;
+      The Mother grieved beside--_
+    'But the Mother saw Him die
+      And took Him when He died.
+                    (He died! He died!)
+    'Seemly and undefiled
+      His burial-place was made--
+    Is it well, is it well with the child?
+      For I know not where he is laid.'
+
+    _On the dawning of Easter Day
+      Comes Mary Magdalene;
+    But the Stone was rolled away,
+      And the Body was not within--_
+                          (Within! Within!)
+    'Ah, who will answer my word?'
+      The broken mother prayed.
+    'They have taken away my Lord,
+      And I know not where He is laid.'
+
+       *       *       *       *       *
+
+    _The Star stands forth in Heaven.
+      The watchers watch in vain
+    For a Sign of the Promise given
+      Of peace on Earth again--_
+                            (Again! Again!)
+    'But I know for Whom he fell'--
+      The steadfast mother smiled
+    'Is it well with the child--is it well?
+      It is well--it is well with the child!'
+
+
+
+
+EN-DOR
+
+'Behold there is a woman that hath a familiar spirit at En-dor'
+
+1 _Samuel_ XXVIII 7
+
+
+    The road to En-dor is easy to tread
+      For Mother or yearning Wife.
+    There, it is sure, we shall meet our Dead
+      As they were even in life.
+    Earth has not dreamed of the blessing in store
+    For desolate hearts on the road to En-dor.
+
+    Whispers shall comfort us out of the dark--
+      Hands--ah God!--that we knew!
+    Visions and voices--look and heark!--
+      Shall prove that our tale is true,
+    And that those who have passed to the further shore
+    May be hailed--at a price--on the road to En-dor.
+
+    But they are so deep in their new eclipse
+      Nothing they say can reach,
+    Unless it be uttered by alien lips
+      And framed in a stranger's speech.
+    The son must send word to the mother that bore,
+    Through an hireling's mouth. 'Tis the rule of En-dor.
+
+    And not for nothing these gifts are shown
+      By such as delight our dead.
+    They must twitch and stiffen and slaver a groan
+      Ere the eyes are set in the head,
+    And the voice from the belly begins. Therefore
+    We pay them a wage where they ply at En-dor.
+
+    Even so, we have need of faith
+      And patience to follow the clue.
+    Often, at first, what the dear one saith
+      Is babble, or jest, or untrue.
+    (Lying spirits perplex us sore
+    Till our loves--and our lives--are well known at En-dor)....
+
+    _Oh the road to En-dor is the oldest road
+      And the craziest road of all!
+    Straight it runs to the Witch's abode,
+      As it did in the days of Saul,
+    And nothing has changed of the sorrow in store
+    For such as go down on the road to En-dor!_
+
+
+
+
+A RECANTATION
+
+(TO LYDE OF THE MUSIC HALLS)
+
+
+    What boots it on the Gods to call?
+      Since, answered or unheard,
+    We perish with the Gods and all
+      Things made--except the Word.
+
+    Ere certain Fate had touched a heart
+      By fifty years made cold,
+    I judged thee, Lyde, and thy art
+      O'erblown and over-bold.
+
+    But he--but he, of whom bereft
+      I suffer vacant days--
+    He on his shield not meanly left--
+      He cherished all thy lays.
+
+    Witness the magic coffer stocked
+      With convoluted runes
+    Wherein thy very voice was locked
+      And linked to circling tunes.
+
+    Witness thy portrait, smoke-defiled,
+      That decked his shelter-place.
+    Life seemed more present, wrote the child,
+      Beneath thy well-known face.
+
+    And when the grudging days restored
+      Him for a breath to home,
+    He, with fresh crowds of youth, adored
+      Thee making mirth in Rome.
+
+    Therefore, I, humble, join the hosts,
+      Loyal and loud, who bow
+    To thee as Queen of Songs--and ghosts--
+      For I remember how
+    Never more rampant rose the Hall
+      At thy audacious line
+    Than when the news came in from Gaul
+      Thy son had--followed mine.
+
+    But thou didst hide it in thy breast
+      And, capering, took the brunt
+    Of blaze and blare, and launched the jest
+      That swept next week the front.
+
+    Singer to children! Ours possessed
+      Sleep before noon--but thee,
+    Wakeful each midnight for the rest,
+      No holocaust shall free.
+
+    Yet they who use the Word assigned,
+      To hearten and make whole,
+    Not less than Gods have served mankind,
+      Though vultures rend their soul.
+
+
+
+
+MY BOY JACK
+
+
+    'Have you news of my boy Jack?'
+      _Not this tide._
+    'When d'you think that he'll come back?'
+      _Not with this wind blowing, and this tide._
+
+    'Has any one else had word of him?'
+      _Not this tide.
+    For what is sunk will hardly swim,
+      Not with this wind blowing, and this tide._
+
+    'Oh, dear, what comfort can I find?'
+      _None this tide,
+      Nor any tide,
+    Except he did not shame his kind--
+      Not even with that wind blowing, and that tide._
+
+    _Then hold your head up all the more,
+      This tide,
+      And every tide;
+    Because he was the son you bore,
+      And gave to that wind blowing and that tide!_
+
+
+
+
+THE VERDICTS
+
+(JUTLAND)
+
+
+    Not in the thick of the fight,
+      Not in the press of the odds,
+    Do the heroes come to their height,
+      Or we know the demi-gods.
+
+    That stands over till peace.
+      We can only perceive
+    Men returned from the seas,
+      Very grateful for leave.
+
+    They grant us sudden days
+      Snatched from their business of war;
+    But we are too close to appraise
+      What manner of men they are.
+
+    And, whether their names go down
+      With age-kept victories,
+    Or whether they battle and drown
+      Unreckoned, is hid from our eyes.
+
+    They are too near to be great,
+      But our children shall understand
+    When and how our fate
+      Was changed, and by whose hand.
+
+    Our children shall measure their worth.
+      We are content to be blind
+    But we know that we walk on a new-born earth
+      With the saviours of mankind.
+
+
+
+
+MESOPOTAMIA
+
+1917
+
+
+    They shall not return to us, the resolute, the young,
+      The eager and whole-hearted whom we gave:
+    But the men who left them thriftily to die in their own dung,
+      Shall they come with years and honour to the grave?
+
+    They shall not return to us, the strong men coldly slain
+      In sight of help denied from day to day:
+    But the men who edged their agonies and chid them in their pain,
+      Are they too strong and wise to put away?
+
+    Our dead shall not return to us while Day and Night divide--
+      Never while the bars of sunset hold:
+    But the idle-minded overlings who quibbled while they died,
+      Shall they thrust for high employments as of old?
+
+    Shall we only threaten and be angry for an hour?
+      When the storm is ended shall we find
+    How softly but how swiftly they have sidled back to power
+      By the favour and contrivance of their kind?
+
+    Even while they soothe us, while they promise large amends,
+      Even while they make a show of fear,
+    Do they call upon their debtors, and take council with their friends,
+      To confirm and re-establish each career?
+
+    Their lives cannot repay us--their death could not undo--
+      The shame that they have laid upon our race:
+    But the slothfulness that wasted and the arrogance that slew,
+      Shall we leave it unabated in its place?
+
+
+
+
+THE HYÆNAS
+
+
+    After the burial-parties leave
+      And the baffled kites have fled,
+    The wise hyænas come out at eve
+      To take account of our dead.
+
+    How he died and why he died
+      Troubles them not a whit.
+    They snout the bushes and stones aside
+      And dig till they come to it.
+
+    They are only resolute they shall eat
+      That they and their mates may thrive,
+    And they know that the dead are safer meat
+      Than the weakest thing alive.
+
+    (For a goat may butt, and a worm may sting,
+      And a child will sometimes stand;
+    But a poor dead soldier of the King
+      Can never lift a hand.)
+
+    They whoop and halloo and scatter the dirt
+      Until their tushes white
+    Take good hold in the army shirt,
+      And tug the corpse to light,
+
+    And the pitiful face is shewn again
+      For an instant ere they close;
+    But it is not discovered to living men--
+      Only to God and to those
+
+    Who, being soulless, are free from shame,
+      Whatever meat they may find.
+    Nor do they defile the dead man's name--
+      That is reserved for his kind.
+
+
+
+
+THE SPIES' MARCH
+
+(BEFORE THE WAR)
+
+('The outbreak is in full swing and our death-rate would sicken
+Napoleon.... Dr M---- died last week, and C---- on Monday, but some more
+medicines are coming.... We don't seem to be able to check it at all....
+Villages panicking badly.... In some places not a living soul.... But at
+any rate the experience gained may come in useful, so I am keeping my
+notes written up to date in case of accidents.... Death is a queer chap
+to live with for steady company.' _Extracted from a private letter from
+Manchuria._)
+
+
+    There are no leaders to lead us to honour, and yet without leaders
+          we sally,
+      Each man reporting for duty alone, out of sight, out of reach, of
+          his fellow.
+    There are no bugles to call the battalions, and yet without bugles
+          we rally,
+      From the ends of the earth to the ends of the earth, to follow
+          the Standard of Yellow!
+            _Fall in! O fall in! O fall in!_
+
+        Not where the squadrons mass,
+          Not where the bayonets shine,
+        Not where the big shell shout as they pass
+          Over the firing-line;
+        Not where the wounded are,
+          Not where the nations die,
+        Killed in the cleanly game of war--
+          That is no place for a spy!
+        O Princes, Thrones and Powers, your work is less than ours--
+          Here is no place for a spy!
+
+        Trained to another use,
+          We march with colours furled,
+        Only concerned when Death breaks loose
+          On a front of half a world.
+        Only for General Death
+          The Yellow Flag may fly,
+        While we take post beneath--
+          That is the place for a spy.
+        Where Plague has spread his pinions over Nations and Dominions--
+          Then will be work for a spy!
+
+        The dropping shots begin,
+          The single funerals pass,
+        Our skirmishers run in,
+          The corpses dot the grass!
+        The howling towns stampede,
+          The tainted hamlets die.
+        Now it is war indeed--
+          Now there is room for a spy!
+        O Peoples, Kings and Lands, we are waiting your commands--
+          What is the work for a spy?
+              (DRUMS)--_'Fear is upon us, spy!_
+
+        'Go where his pickets hide--
+          Unmask the shapes they take,
+        Whether a gnat from the waterside,
+          Or stinging fly in the brake,
+        Or filth of the crowded street,
+          Or a sick rat limping by,
+        Or a smear of spittle dried in the heat--
+          That is the work of a spy!
+              (DRUMS)--_Death is upon us, spy!_
+
+
+        'What does he next prepare?
+          Whence will he move to attack?--
+        By water, earth or air?--
+          How can we head him back?
+        Shall we starve him out if we burn
+          Or bury his food-supply?
+        Slip through his lines and learn--
+          That is work for a spy!
+              (DRUMS)--_Get to your business, spy!_
+
+        'Does he feint or strike in force?
+          Will he charge or ambuscade?
+        What is it checks his course?
+          Is he beaten or only delayed?
+        How long will the lull endure?
+          Is he retreating? Why?
+        Crawl to his camp and make sure--
+          That is the work for a spy!
+              (DRUMS)--_Fetch us our answer, spy!_
+
+        'Ride with him girth to girth
+          Wherever the Pale Horse wheels,
+        Wait on his councils, ear to earth,
+          And say what the dust reveals.
+        For the smoke of our torment rolls
+          Where the burning thousands lie;
+        What do we care for men's bodies or souls?
+          Bring us deliverance, spy!'
+
+
+
+
+THE SONS OF MARTHA
+
+
+    The Sons of Mary seldom bother, for they have inherited that good
+        part,
+    But the Sons of Martha favour their Mother of the careful soul and
+        the troubled heart.
+    And because she lost her temper once, and because she was rude to
+        the Lord her Guest,
+    Her Sons must wait upon Mary's Sons, world without end, reprieve,
+        or rest.
+
+    It is their care in all the ages to take the buffet and cushion the
+        shock.
+    It is their care that the gear engages; it is their care that the
+        switches lock.
+    It is their care that the wheels run truly; it is their care to
+        embark and entrain,
+    Tally, transport, and deliver duly the Sons of Mary by land and
+        main.
+
+    They say to mountains 'Be ye removèd.' They say to the lesser floods
+        'Be dry.'
+    Under their rods are the rocks reprovèd--they are not afraid of that
+        which is high.
+    Then do the hill-tops shake to the summit--then is the bed of the
+        deep laid bare,
+    That the Sons of Mary may overcome it, pleasantly sleeping and
+        unaware.
+
+    They finger death at their gloves' end where they piece and repiece
+        the living wires.
+    He rears against the gates they rend: they feed him hungry behind
+        their fires.
+    Early at dawn, ere men see clear, they stumble into his terrible
+        stall,
+    And hale him forth like a haltered steer, and goad and turn him till
+        evenfall.
+
+    To these from birth is Belief forbidden; from these till death is
+        Relief afar.
+    They are concerned with matters hidden--under the earth-line their
+        altars are.
+    The secret fountains to follow up, waters withdrawn to restore to
+        the mouth,
+    And gather the floods as in a cup, and pour them again at a city's
+        drouth.
+
+    They do not preach that their God will rouse them a little before
+        the nuts work loose.
+    They do not teach that His Pity allows them to leave their work when
+        they damn-well choose.
+    As in the thronged and the lighted ways, so in the dark and the
+        desert they stand,
+    Wary and watchful all their days that their brethren's days may be
+        long in the land.
+
+    Raise ye the stone or cleave the wood to make a path more fair or
+        flat,
+    Lo, it is black already with blood some Son of Martha spilled for
+        that!
+    Not as a ladder from earth to Heaven, not as a witness to any creed,
+    But simple service simply given to his own kind in their common
+        need.
+
+    And the Sons of Mary smile and are blessèd--they know the angels are
+        on their side.
+    They know in them is the Grace confessèd, and for them are the
+        Mercies multiplied.
+    They sit at the Feet--they hear the Word--they see how truly the
+        Promise runs:
+    They have cast their burden upon the Lord, and--the Lord He lays it
+        on Martha's Sons!
+
+
+
+
+MARY'S SON
+
+
+    If you stop to find out what your wages will be
+      And how they will clothe and feed you,
+    Willie, my son, don't you go on the Sea,
+      For the Sea will never need you.
+
+    If you ask for the reason of every command,
+      And argue with people about you,
+    Willie, my son, don't you go on the Land,
+      For the Land will do better without you.
+
+    If you stop to consider the work you have done
+      And to boast what your labour is worth, dear,
+    Angels may come for you, Willie, my son,
+      But you'll never be wanted on Earth, dear!
+
+
+
+
+THE SONG OF THE LATHES
+
+1918
+
+(Being the words of the tune hummed at her lathe by Mrs. L. Embsay,
+widow.)
+
+
+    The fans and the beltings they roar round me.
+    The power is shaking the floor round me
+    Till the lathes pick up their duty and the midnight-shift takes
+        over.
+              It is good for me to be here!
+
+    _Guns in Flanders--Flanders guns!
+    (I had a man that worked 'em once!)
+    Shells for guns in Flanders, Flanders!
+    Shells for guns in Flanders, Flanders!
+              Shells for guns in Flanders! Feed the guns!_
+
+    The cranes and the carriers they boom over me,
+    The bays and the galleries they loom over me,
+    With their quarter-mile of pillars growing little in the distance:
+              It is good for me to be here!
+
+    The Zeppelins and Gothas they raid over us.
+    Our lights give warning, and fade over us.
+    (Seven thousand women keeping quiet in the darkness!)
+              Oh, it is good for me to be here!
+
+    The roofs and the buildings they grow round me,
+    Eating up the fields I used to know round me;
+    And the shed that I began in is a sub-inspector's office--
+              So long have I been here!
+
+    I've seen six hundred mornings make our lamps grow dim,
+    Through the bit that isn't painted round our skylight rim,
+    And the sunshine in the window slope according to the seasons,
+              Twice since I've been here.
+
+    The trains on the sidings they call to us
+    With the hundred thousand blanks that they haul to us;
+    And we send 'em what we've finished, and they take it where it's
+        wanted,
+              For that is why we are here!
+
+    Man's hate passes as his love will pass.
+    God made woman what she always was.
+    Them that bear the burden they will never grant forgiveness
+              So long as they are here!
+
+    Once I was a woman, but that's by with me.
+    All I loved and looked for, it must die with me.
+    But the Lord has left me over for a servant of the Judgment,
+              And I serve His Judgments here!
+
+    _Guns in Flanders--Flanders guns!
+    (I had a son that worked 'em once!)
+    Shells for guns in Flanders, Flanders!
+    Shells for guns in Flanders, Flanders!
+              Shells for guns in Flanders! Feed the guns!_
+
+
+
+
+GETHSEMANE
+
+
+    The Garden called Gethsemane
+      In Picardy it was,
+    And there the people came to see
+      The English soldiers pass.
+    We used to pass--we used to pass
+      Or halt, as it might be,
+    And ship our masks in case of gas
+      Beyond Gethsemane.
+
+    The Garden called Gethsemane,
+      It held a pretty lass,
+    But all the time she talked to me
+      I prayed my cup might pass.
+    The officer sat on the chair,
+      The men lay on the grass,
+    And all the time we halted there
+      I prayed my cup might pass--
+
+    It didn't pass--it didn't pass--
+      It didn't pass from me.
+    I drank it when we met the gas
+      Beyond Gethsemane.
+
+
+
+
+THE PRO-CONSULS
+
+
+    _The overfaithful sword returns the user
+    His heart's desire at price of his heart's blood.
+    The clamour of the arrogant accuser
+    Wastes that one hour we needed to make good.
+    This was foretold of old at our outgoing;
+    This we accepted who have squandered, knowing,
+    The strength and glory of our reputations,
+    At the day's need, as it were dross, to guard
+    The tender and new-dedicate foundations
+    Against the sea we fear--not man's award._
+
+        They that dig foundations deep,
+          Fit for realms to rise upon,
+        Little honour do they reap
+          Of their generation,
+        Any more than mountains gain
+        Stature till we reach the plain.
+
+        With no veil before their face
+          Such as shroud or sceptre lend--
+        Daily in the market-place,
+          Of one height to foe and friend--
+        They must cheapen self to find
+        Ends uncheapened for mankind.
+
+        Through the night when hirelings rest,
+          Sleepless they arise, alone,
+        The unsleeping arch to test
+          And the o'er-trusted corner-stone,
+        'Gainst the need, they know, that lies
+        Hid behind the centuries.
+
+        Not by lust of praise or show,
+          Not by Peace herself betrayed--
+        Peace herself must they forego
+          Till that peace be fitly made;
+        And in single strength uphold
+        Wearier hands and hearts acold.
+
+        On the stage their act hath framed
+          For thy sports, O Liberty!
+        Doubted are they, and defamed
+          By the tongues their act set free,
+        While they quicken, tend and raise
+        Power that must their power displace.
+
+        Lesser men feign greater goals,
+          Failing whereof they may sit
+        Scholarly to judge the souls
+          That go down into the pit,
+        And, despite its certain clay,
+        Heave a new world towards the day.
+
+        These at labour make no sign,
+          More than planets, tides or years
+        Which discover God's design,
+          Not our hopes and not our fears;
+        Nor in aught they gain or lose
+        Seek a triumph or excuse.
+
+    _For, so the Ark be borne to Zion, who
+    Heeds how they perished or were paid that bore it?
+    For, so the Shrine abide, what shame--what pride--
+    If we, the priests, were bound or crowned before it?_
+
+
+
+
+THE CRAFTSMAN
+
+
+    Once, after long-drawn revel at The Mermaid,
+    He to the overbearing Boanerges
+    Jonson, uttered (If half of it were liquor,
+                      Blessed be the vintage!)
+
+    Saying how, at an alehouse under Cotswold,
+    He had made sure of his very Cleopatra,
+    Drunk with enormous, salvation-contemning
+                      Love for a tinker.
+
+    How, while he hid from Sir Thomas's keepers,
+    Crouched in a ditch and drenched by the midnight
+    Dews, he had listened to gipsy Juliet
+                      Rail at the dawning.
+
+    How at Bankside, a boy drowning kittens
+    Winced at the business; whereupon his sister
+    (Lady Macbeth aged seven) thrust 'em under,
+                      Sombrely scornful.
+
+    How on a Sabbath, hushed and compassionate--
+    She being known since her birth to the townsfolk--
+    Stratford dredged and delivered from Avon
+                      Dripping Ophelia.
+
+    So, with a thin third finger marrying
+    Drop to wine-drop domed on the table,
+    Shakespeare opened his heart till sunrise
+                      Entered to hear him.
+
+    London wakened and he, imperturbable,
+    Passed from waking to hurry after shadows ...
+    Busied upon shows of no earthly importance?
+                      Yes, but he knew it!
+
+
+
+
+THINGS AND THE MAN
+
+(IN MEMORIAM, JOSEPH CHAMBERLAIN)
+
+1904
+
+'And Joseph dreamed a dream, and he told it his brethren; and they hated
+him yet the more.'--_Genesis_ XXXVII. 5.
+
+
+    Oh ye who hold the written clue
+      To all save all unwritten things,
+    And, half a league behind, pursue
+      The accomplished Fact with flouts and flings,
+      Look! To your knee your baby brings
+        The oldest tale since Earth began--
+      The answer to your worryings
+        _'Once on a time there was a Man.'_
+
+    He, single-handed, met and slew
+      Magicians, Armies, Ogres, Kings.
+    He lonely 'mid his doubting crew--
+      'In all the loneliness of wings'--
+      He fed the flame, he filled the springs,
+        He locked the ranks, he launched the van
+      Straight at the grinning Teeth of Things.
+        _'Once on a time there was a Man.'_
+
+    The peace of shocked Foundations flew
+      Before his ribald questionings.
+    He broke the Oracles in two,
+      And bared the paltry wires and strings.
+      He headed desert wanderings,
+        He led his soul, his cause, his clan
+      A little from the ruck of Things.
+        _'Once on a time there was a Man.'_
+
+    Thrones, Powers, Dominions block the view
+      With episodes and underlings--
+    The meek historian deems them true
+      Nor heeds the song that Clio sings--
+      The simple central truth that stings
+        The mob to boo, the priest to ban;
+      _Things never yet created things--
+        'Once on a time there was a Man.'_
+
+    A bolt is fallen from the blue.
+      A wakened realm full circle swings
+    Where Dothan's dreamer dreams anew
+      Of vast and farborne harvestings;
+      And unto him an Empire clings
+        That grips the purpose of his plan.
+      My Lords, how think you of these things?
+        _Once--in our time--is there a Man?_
+
+
+
+
+THE BENEFACTORS
+
+
+    _Ah! What avails the classic bent
+      And what the cultured word,
+    Against the undoctored incident
+      That actually occurred?_
+
+    _And what is Art whereto we press
+      Through paint and prose and rhyme--
+    When Nature in her nakedness
+      Defeats us every time?_
+
+    It is not learning, grace nor gear,
+      Nor easy meat and drink,
+    But bitter pinch of pain and fear
+      That makes creation think.
+
+    When in this world's unpleasing youth
+      Our god-like race began,
+    The longest arm, the sharpest tooth,
+      Gave man control of man;
+
+    Till, bruised and bitten to the bone
+      And taught by pain and fear,
+    He learned to deal the far-off stone,
+      And poke the long, safe spear.
+
+    So tooth and nail were obsolete
+      As means against a foe,
+    Till, bored by uniform defeat,
+      Some genius built the bow.
+
+    Then stone and javelin proved as vain
+      As old-time tooth and nail,
+    Ere, spurred anew by fear and pain,
+      Man fashioned coats of mail.
+
+    Then was there safety for the rich
+      And danger for the poor,
+    Till someone mixed a powder which
+      Redressed the scale once more.
+
+    Helmet and armour disappeared
+      With sword and bow and pike,
+    And, when the smoke of battle cleared,
+      All men were armed alike....
+
+    And when ten million such were slain
+      To please one crazy king,
+    Man, schooled in bulk by fear and pain,
+      Grew weary of the thing;
+
+    And, at the very hour designed,
+      To enslave him past recall,
+    His tooth-stone-arrow-gun-shy mind
+      Turned and abolished all.
+
+       *       *       *       *       *
+
+    _All Power, each Tyrant, every Mob
+      Whose head has grown too large,
+    Ends by destroying its own job
+      And earns its own discharge._
+
+    _And Man, whose mere necessities
+      Move all things from his path,
+    Trembles meanwhile at their decrees,
+      And deprecates their wrath!_
+
+
+
+
+THE DEAD KING
+
+(EDWARD VII.)
+
+1910
+
+
+    _Who in the Realm to-day lays down dear life for the sake of a land
+        more dear?
+      And, unconcerned for his own estate, toils till the last grudged
+        sands have run?
+          Let him approach. It is proven here
+      Our King asks nothing of any man more than Our King himself has
+        done._
+
+    For to him above all was Life good, above all he commanded
+              Her abundance full-handed.
+    The peculiar treasure of Kings was his for the taking:
+    All that men come to in dreams he inherited waking:--
+
+    His marvel of world-gathered armies--one heart and all races,
+    His seas 'neath his keels when his war-castles foamed to their
+        places;
+    The thundering foreshores that answered his heralded landing;
+    The huge lighted cities adoring, the assemblies upstanding;
+    The Councils of Kings called in haste to learn how he was minded--
+    The Kingdoms, the Powers, and the Glories he dealt with unblinded.
+
+    To him came all captains of men, all achievers of glory,
+    Hot from the press of their battles they told him their story.
+    They revealed him their life in an hour and, saluting, departed,
+    Joyful to labour afresh--he had made them new-hearted.
+    And, since he weighed men from his youth, and no lie long deceived
+        him,
+    He spoke and exacted the truth, and the basest believed him.
+
+    And God poured him an exquisite wine, that was daily renewed to him,
+    In the clear-welling love of his peoples that daily accrued to him.
+    Honour and service we gave him, rejoicingly fearless;
+    Faith absolute, trust beyond speech and a friendship as peerless.
+    And since he was Master and Servant in all that we asked him,
+    We leaned hard on his wisdom in all things, knowing not how we
+        tasked him.
+
+    For on Him each new day laid command, every tyrannous hour,
+    To confront, or confirm, or make smooth some dread issue of power;
+    To deliver true judgment aright at the instant, unaided,
+    In the strict, level, ultimate phrase that allowed or dissuaded;
+    To foresee, to allay, to avert from us perils unnumbered,
+    To stand guard on our gates when he guessed that the watchmen had
+        slumbered;
+    To win time, to turn hate, to woo folly to service and, mightily
+        schooling
+    His strength to the use of his Nations, to rule as not ruling.
+    These were the works of our King; Earth's peace was the proof of
+        them.
+    God gave him great works to fulfil, and to us the behoof of them.
+    We accepted his toil as our right--none spared, none excused him.
+    When he was bowed by his burden his rest was refused him.
+    We troubled his age with our weakness--the blacker our shame to us!
+    Hearing his People had need of him, straightway he came to us.
+
+    As he received so he gave--nothing grudged, naught denying,
+    Not even the last gasp of his breath when he strove for us, dying
+    For our sakes, without question, he put from him all that he
+        cherished.
+    Simply as any that serve him he served and he perished.
+    All that Kings covet was his, and he flung it aside for us.
+    Simply as any that die in his service he died for us.
+
+    _Who in the Realm to-day has choice of the easy road or the hard to
+        tread?
+      And, much concerned for his own estate, would sell his soul to
+        remain in the sun?
+              Let him depart nor look on Our dead.
+      Our King asks nothing of any man more than Our King himself has
+        done._
+
+
+
+
+A DEATH-BED
+
+
+    'This is the State above the Law.
+      The State exists for the State alone.'
+    [_This is a gland at the back of the jaw,_
+      _And an answering lump by the collar-bone._]
+
+    Some die shouting in gas or fire;
+      Some die silent, by shell and shot.
+    Some die desperate, caught on the wire;
+      Some die suddenly. This will not.
+
+    'Regis suprema Voluntas lex.'
+      [_It will follow the regular course of--throats._]
+    Some die pinned by the broken decks,
+      Some die sobbing between the boats.
+
+    Some die eloquent, pressed to death
+      By the sliding trench, as their friends can hear.
+    Some die wholly in half a breath
+      Some--give trouble for half a year.
+
+    'There is neither Evil nor Good in life
+      Except as the needs of the State ordain.'
+    [_Since it is rather too late for the knife,
+      All we can do is to mask the pain._]
+
+    Some die saintly in faith and hope--
+      One died thus in a prison-yard--
+    Some die broken by rape or the rope;
+      Some die easily. This dies hard.
+
+    'I will dash to pieces who bar my way.
+      Woe to the traitor! Woe to the weak!'
+    [_Let him write what he wishes to say.
+      It tires him out if he tries to speak._]
+
+    Some die quietly. Some abound
+      In loud self-pity. Others spread
+    Bad morale through the cots around ...
+      This is a type that is better dead.
+
+    'The war was forced on me by my foes.
+      All that I sought was the right to live.'
+    [_Don't be afraid of a triple dose;
+      The pain will neutralize half we give._
+
+    _Here are the needles. See that he dies
+      While the effects of the drug endure....
+    What is the question he asks with his eyes?--
+      Yes, All-Highest, to God, be sure._]
+
+
+
+
+GEHAZI
+
+
+    'Whence comest thou, Gehazi,
+      So reverend to behold,
+    In scarlet and in ermines
+      And chain of England's gold?'
+    'From following after Naaman
+      To tell him all is well,
+    Whereby my zeal hath made me
+      A Judge in Israel.'
+
+    Well done, well done, Gehazi,
+      Stretch forth thy ready hand,
+    Thou barely 'scaped from judgment,
+      Take oath to judge the land,
+    Unswayed by gift of money
+      Or privy bribe, more base,
+    Of knowledge which is profit
+      In any market-place.
+
+    Search out and probe, Gehazi,
+      As thou of all canst try,
+    The truthful, well-weighed answer
+      That tells the blacker lie--
+    The loud, uneasy virtue,
+      The anger feigned at will,
+    To overbear a witness
+      And make the Court keep still.
+
+    Take order now, Gehazi,
+      That no man talk aside
+    In secret with his judges
+      The while his case is tried.
+    Lest he should show them--reason
+      To keep a matter hid,
+    And subtly lead the questions
+      Away from what he did.
+
+    Thou mirror of uprightness,
+      What ails thee at thy vows?
+    What means the risen whiteness
+      Of the skin between thy brows?
+    The boils that shine and burrow,
+      The sores that slough and bleed--
+    The leprosy of Naaman
+      On thee and all thy seed?
+        Stand up, stand up, Gehazi,
+          Draw close thy robe and go,
+        Gehazi, Judge in Israel,
+          A leper white as snow!
+
+
+
+
+THE VIRGINITY
+
+
+    Try as he will, no man breaks wholly loose
+    From his first love, no matter who she be.
+    Oh, was there ever sailor free to choose,
+    That didn't settle somewhere near the sea?
+
+    Myself, it don't excite me nor amuse
+    To watch a pack o' shipping on the sea,
+    But I can understand my neighbour's views
+    From certain things which have occurred to me.
+
+    Men must keep touch with things they used to use
+    To earn their living, even when they are free;
+    And so come back upon the least excuse--
+    Same as the sailor settled near the sea.
+
+    He knows he's never going on no cruise--
+    He knows he's done and finished with the sea,
+    And yet he likes to feel she's there to use--
+    If he should ask her--as she used to be.
+
+    Even though she cost him all he had to lose,
+    Even though she made him sick to hear or see,
+    Still, what she left of him will mostly choose
+    Her skirts to sit by. How comes such to be?
+
+    _Parsons in pulpits, tax-payers in pews,
+    Kings on your thrones, you know as well as me,
+    We've only one virginity to lose,
+    And where we lost it there our hearts will be!_
+
+
+
+
+A PILGRIM'S WAY
+
+
+    I do not look for holy saints to guide me on my way,
+    Or male and female devilkins to lead my feet astray.
+    If these are added, I rejoice--if not, I shall not mind,
+    So long as I have leave and choice to meet my fellow-kind.
+      For as we come and as we go (and deadly-soon go we!)
+      The people, Lord, Thy people, are good enough for me!
+
+    Thus I will honour pious men whose virtue shines so bright
+    (Though none are more amazed than I when I by chance do right),
+    And I will pity foolish men for woe their sins have bred
+    (Though ninety-nine per cent. of mine I brought on my own head)
+      And, Amorite or Eremite, or General Averagee,
+      The people, Lord, Thy people, are good enough for me!
+
+    And when they bore me overmuch, I will not shake mine ears,
+    Recalling many thousand such whom I have bored to tears.
+    And when they labour to impress, I will not doubt nor scoff;
+    Since I myself have done no less and--sometimes pulled it off.
+      Yea, as we are and we are not, and we pretend to be,
+      The people, Lord, Thy people, are good enough for me!
+
+    And when they work me random wrong, as often-times hath been,
+    I will not cherish hate too long (my hands are none too clean)
+    And when they do me random good I will not feign surprise,
+    No more than those whom I have cheered with wayside charities.
+      But, as we give and as we take--whate'er our takings be--
+      The people, Lord, Thy people, are good enough for me!
+
+    But when I meet with frantic folk who sinfully declare
+    There is no pardon for their sin, the same I will not spare
+    Till I have proved that Heaven and Hell which in our hearts we have
+    Show nothing irredeemable on either side the grave.
+      For as we live and as we die--if utter Death there be--
+      The people, Lord, Thy people, are good enough for me!
+
+    Deliver me from every pride--the Middle, High, and Low--
+    That bars me from a brother's side, whatever pride he show.
+    And purge me from all heresies of thought and speech and pen
+    That bid me judge him otherwise than I am judged. _Amen!_
+      That I may sing of Crowd or King or road-borne company,
+      That I may labour in my day, vocation and degree,
+      To prove the same in deed and name, and hold unshakenly
+      (Where'er I go, whate'er I know, whoe'er my neighbour be)
+      This single faith in Life and Death and all Eternity
+      'The people, Lord, Thy people, are good enough for me!'
+
+
+
+
+THE OLDEST SONG
+
+For before Eve was Lilith--_Old Tale._
+
+
+    These were never your true love's eyes.
+      Why do you feign that you love them?
+    You that broke from their constancies,
+      And the wide calm brows above them!
+
+    This was never your true love's speech.
+      Why do you thrill when you hear it?
+    You that have ridden out of its reach
+      The width of the world or near it!
+
+    This was never your true love's hair,--
+      You that chafed when it bound you
+    Screened from knowledge or shame or care,
+      In the night that it made around you!
+
+    '_All these things I know, I know._
+      _And that's why my heart is breaking!_'
+    Then what do you gain by pretending so?
+      '_The joy of an old wound waking._'
+
+
+
+
+NATURAL THEOLOGY
+
+
+PRIMITIVE
+
+    I ate my fill of a whale that died,
+      And stranded after a month at sea....
+    There is a pain in my inside.
+      Why have the Gods afflicted me?
+    Ow! I am purged till I am a wraith!
+      Wow! I am sick till I cannot see!
+    What is the sense of Religion and Faith?
+      Look how the Gods have afflicted me!
+
+
+PAGAN
+
+    How can the skin of rat or mouse hold
+      Anything more than a harmless flea?...
+    The burning plague has taken my household.
+      Why have my Gods afflicted me?
+
+    All my kith and kin are deceased,
+      Though they were as good as good could be.
+    I will out and batter the family priest,
+      Because my Gods have afflicted me.
+
+
+MEDIÆVAL
+
+    My privy and well drain into each other
+      After the custom of Christendie....
+    Fevers and fluxes are wasting my mother.
+      Why has the Lord afflicted me?
+    The Saints are helpless for all I offer--
+      So are the clergy I used to fee
+    Henceforward I keep my cash in my coffer,
+      Because the Lord has afflicted me.
+
+
+MATERIAL
+
+    I run eight hundred hens to the acre.
+      They die by dozens mysteriously....
+    I am more than doubtful concerning my Maker.
+      Why has the Lord afflicted me?
+    What a return for all my endeavour--
+      Not to mention the L. S. D.!
+    I am an atheist now and for ever,
+      Because this God has afflicted me!
+
+
+PROGRESSIVE
+
+    Money spent on an Army or Fleet
+      Is homicidal lunacy....
+    My son has been killed in the Mons retreat.
+      Why is the Lord afflicting me?
+    Why are murder, pillage and arson
+      And rape allowed by the Deity?
+    I will write to the _Times_, deriding our parson
+      Because my God has afflicted me.
+
+
+CHORUS
+
+    We had a kettle, we let it leak;
+      Our not repairing it made it worse.
+    We haven't had any tea for a week....
+      The bottom is out of the Universe!
+
+
+CONCLUSION
+
+    This was none of the good Lord's pleasure,
+      For the Spirit He breathed in Man is free;
+    But what comes after is measure for measure
+      And not a God that afflicteth thee.
+    As was the sowing so the reaping
+      Is now and evermore shall be.
+    Thou art delivered to thy own keeping.
+      Only Thyself hath afflicted thee!
+
+
+
+
+A SONG AT COCK-CROW
+
+'_Ille autem iterum negavit._'
+
+
+    The first time that Peter deniéd his Lord
+    He shrank from the cudgel, the scourge and the cord,
+    But followed far off to see what they would do,
+    Till the cock crew--till the cock crew--
+    After Gethsemane, till the cock crew!
+
+    The first time that Peter deniéd his Lord
+    'Twas only a maid in the palace who heard,
+    As he sat by the fire and warmed himself through.
+    Then the cock crew! Then the cock crew!
+    ('Thou also art one of them.') Then the cock crew!
+
+    The first time that Peter deniéd his Lord
+    He had neither the Throne, nor the Keys nor the Sword--
+    A poor silly fisherman, what could he do
+    When the cock crew--when the cock crew--
+    But weep for his wickedness when the cock crew?
+
+       *       *       *       *       *
+
+    The next time that Peter deniéd his Lord
+    He was Fisher of Men, as foretold by the Word,
+    With the Crown on his brow and the Cross on his shoe,
+    When the cock crew--when the cock crew--
+    _In Flanders and Picardy when the cock crew_.
+
+    The next time that Peter deniéd his Lord
+    'Twas Mary the Mother in Heaven Who heard,
+    And She grieved for the maidens and wives that they slew
+    When the cock crew--when the cock crew--
+    _At Tirmonde and Aerschott when the cock crew_.
+
+    The next time that Peter deniéd his Lord
+    The Babe in the Manger awakened and stirred,
+    And He stretched out His arms for the playmates He knew--
+    When the cock crew--when the cock crew--
+    _But the waters had covered them when the cock crew_.
+
+    The next time that Peter deniéd his Lord
+    'Twas Earth in her agony waited his word,
+    But he sat by the fire and naught would he do,
+    Though the cock crew--though the cock crew--
+    _Over all Christendom, though the cock crew_.
+
+    The last time that Peter deniéd his Lord,
+    The Father took from him the Keys and the Sword,
+    And the Mother and Babe brake his Kingdom in two,
+    When the cock crew--when the cock crew--
+    (_Because of his wickedness_) _when the cock crew_!
+
+
+
+
+THE FEMALE OF THE SPECIES
+
+1911
+
+
+    When the Himalayan peasant meets the he-bear in his pride,
+    He shouts to scare the monster, who will often turn aside.
+    But the she-bear thus accosted rends the peasant tooth and nail
+    For the female of the species is more deadly than the male.
+
+    When Nag the basking cobra hears the careless foot of man,
+    He will sometimes wriggle sideways and avoid it as he can.
+    But his mate makes no such motion where she camps beside the trail.
+    For the female of the species is more deadly than the male.
+
+    When the early Jesuit fathers preached to Hurons and Choctaws,
+    They prayed to be delivered from the vengeance of the squaws.
+    'Twas the women, not the warriors, turned those stark enthusiasts
+        pale
+    For the female of the species is more deadly than the male.
+
+    Man's timid heart is bursting with the things he must not say,
+    For the Woman that God gave him isn't his to give away;
+    But when hunter meets with husband, each confirms the other's tale--
+    The female of the species is more deadly than the male.
+
+    Man, a bear in most relations--worm and savage otherwise,--
+    Man propounds negotiations, Man accepts the compromise.
+    Very rarely will he squarely push the logic of a fact
+    To its ultimate conclusion in unmitigated act.
+
+    Fear, or foolishness, impels him, ere he lay the wicked low,
+    To concede some form of trial even to his fiercest foe.
+    Mirth obscene diverts his anger! Doubt and Pity oft perplex
+    Him in dealing with an issue--to the scandal of The Sex!
+
+    But the Woman that God gave him, every fibre of her frame
+    Proves her launched for one sole issue, armed and engined for the
+        same;
+    And to serve that single issue, lest the generations fail,
+    The female of the species must be deadlier than the male.
+
+    She who faces Death by torture for each life beneath her breast
+    May not deal in doubt or pity--must not swerve for fact or jest.
+    These be purely male diversions--not in these her honour dwells.
+    She the Other Law we live by, is that Law and nothing else.
+
+    She can bring no more to living than the powers that make her great
+    As the Mother of the Infant and the Mistress of the Mate!
+    And when Babe and Man are lacking and she strides unclaimed to claim
+    Her right as femme (and baron), her equipment is the same.
+
+    She is wedded to convictions--in default of grosser ties;
+    Her contentions are her children, Heaven help him who denies!--
+    He will meet no suave discussion, but the instant, white-hot, wild,
+    Wakened female of the species warring as for spouse and child.
+
+    Unprovoked and awful charges--even so the she-bear fights,
+    Speech that drips, corrodes, and poisons--even so the cobra bites,
+    Scientific vivisection of one nerve till it is raw
+    And the victim writhes in anguish--like the Jesuit with the squaw!
+
+    So it comes that Man the coward, when he gathers to confer
+    With his fellow-braves in council, dare not leave a place for her
+    Where, at war with Life and Conscience, he uplifts his erring hands
+    To some God of Abstract Justice--which no woman understands.
+
+    And Man knows it! Knows, moreover, that the Woman that God gave him
+    Must command but may not govern--shall enthral but not enslave him.
+    And _She_ knows, because She warns him and Her instincts never fail,
+    That the Female of Her Species is more deadly than the Male.
+
+
+
+
+EPITAPHS
+
+
+'EQUALITY OF SACRIFICE'
+
+    _A._ 'I was a "have."' _B._ 'I was a "have-not."'
+    (_Together_) 'What hast thou given which I gave not?'
+
+
+A SERVANT
+
+    We were together since the War began
+    He was my servant--and the better man.
+
+
+A SON
+
+    My son was killed while laughing at some jest. I would I knew
+    What it was, and it might serve me in a time when jests are few.
+
+
+AN ONLY SON
+
+    I have slain none except my Mother, She
+    (Blessing her slayer) died of grief for me.
+
+
+EX-CLERK
+
+    Pity not! The Army gave
+    Freedom to a timid slave:
+    In which Freedom did he find
+    Strength of body, will, and mind:
+    By which strength he came to prove
+    Mirth, Companionship, and Love:
+    For which Love to Death he went:
+    In which Death he lies content.
+
+
+THE WONDER
+
+    Body and Spirit I surrendered whole
+    To harsh Instructors--and received a soul ...
+    If mortal man could change me through and through
+    From all I was--what may The God not do?
+
+
+HINDU SEPOY IN FRANCE
+
+    This man in his own country prayed we know not to what Powers.
+    We pray Them to reward him for his bravery in ours.
+
+
+THE COWARD
+
+    I could not look on Death, which being known,
+    Men led me to him, blindfold and alone.
+
+
+SHOCK
+
+    My name, my speech, my self I had forgot.
+    My wife and children came--I knew them not.
+    I died. My Mother followed. At her call
+    And on her bosom I remembered all.
+
+
+A GRAVE NEAR CAIRO
+
+    Gods of the Nile, should this stout fellow here
+    Get out--get out! He knows not shame nor fear.
+
+
+PELICANS IN THE WILDERNESS
+
+(A GRAVE NEAR HALFA)
+
+    The blown sand heaps on me, that none may learn
+      Where I am laid for whom my children grieve....
+    O wings that beat at dawning, ye return
+      Out of the desert to your young at eve!
+
+
+THE FAVOUR
+
+    Death favoured me from the first, well knowing I could not endure
+    To wait on him day by day. He quitted my betters and came
+    Whistling over the fields, and, when he had made all sure,
+      'Thy line is at end,' he said, 'but at least I have saved its
+        name.'
+
+
+THE BEGINNER
+
+    On the first hour of my first day
+      In the front trench I fell.
+    (Children in boxes at a play
+      Stand up to watch it well.)
+
+
+R. A. F. (AGED EIGHTEEN)
+
+    Laughing through clouds, his milk-teeth still unshed,
+    Cities and men he smote from overhead.
+    His deaths delivered, he returned to play
+    Childlike, with childish things now put away.
+
+
+THE REFINED MAN
+
+    I was of delicate mind. I went aside for my needs,
+      Disdaining the common office. I was seen from afar and killed....
+    How is this matter for mirth? Let each man be judged by his deeds
+      _I have paid my price to live with myself on the terms that I
+        willed._
+
+
+NATIVE WATER-CARRIER (M. E. F.)
+
+    Prometheus brought down fire to men.
+      This brought up water.
+    The Gods are jealous--now, as then,
+      They gave no quarter.
+
+
+BOMBED IN LONDON
+
+    On land and sea I strove with anxious care
+    To escape conscription. It was in the air!
+
+
+THE SLEEPY SENTINEL
+
+    Faithless the watch that I kept: now I have none to keep.
+    I was slain because I slept: now I am slain I sleep.
+    Let no man reproach me again, whatever watch is unkept--
+    I sleep because I am slain. They slew me because I slept.
+
+
+BATTERIES OUT OF AMMUNITION
+
+    If any mourn us in the workshop, say
+    We died because the shift kept holiday.
+
+
+COMMON FORM
+
+    If any question why we died,
+    Tell them, because our fathers lied.
+
+
+A DEAD STATESMAN
+
+    I could not dig; I dared not rob:
+    Therefore I lied to please the mob.
+    Now all my lies are proved untrue,
+    And I must face the men I slew.
+    What tale shall save me here among
+    Mine angry and defrauded young?
+
+
+THE REBEL
+
+    If I had clamoured at Thy Gate
+      For gift of Life on Earth,
+    And, thrusting through the souls that wait,
+      Flung headlong into birth--
+    Even then, even then, for gin and snare
+      About my pathway spread,
+    Lord, I had mocked Thy thoughtful care
+      Before I joined the Dead!
+    But now?... I was beneath Thy Hand
+      Ere yet the Planets came.
+    And now--though Planets pass, I stand
+      The witness to Thy Shame.
+
+
+THE OBEDIENT
+
+    Daily, though no ears attended,
+      Did my prayers arise
+    Daily, though no fire descended
+      Did I sacrifice....
+    Though my darkness did not lift,
+      Though I faced no lighter odds,
+    Though the Gods bestowed no gift,
+                    None the less,
+      None the less, I served the Gods!
+
+
+A DRIFTER OFF TARENTUM
+
+    He from the wind-bitten north with ship and companions descended,
+      Searching for eggs of death spawned by invisible hulls.
+    Many he found and drew forth. Of a sudden the fishery ended
+      In flame and a clamorous breath not new to the eye-pecking gulls.
+
+
+DESTROYERS IN COLLISION
+
+    For Fog and Fate no charm is found
+      To lighten or amend.
+    I, hurrying to my bride, was drowned--
+      Cut down by my best friend.
+
+
+CONVOY ESCORT
+
+    I was a shepherd to fools
+      Causelessly bold or afraid.
+    They would not abide by my rules.
+      Yet they escaped. For I stayed.
+
+
+UNKNOWN FEMALE CORPSE
+
+    Headless, lacking foot and hand,
+    Horrible I come to land.
+    I beseech all women's sons
+    Know I was a mother once.
+
+
+RAPED AND REVENGED
+
+    One used and butchered me: another spied
+    Me broken--for which thing a hundred died.
+    So it was learned among the heathen hosts
+    How much a freeborn woman's favour costs.
+
+
+SALONIKAN GRAVE
+
+    I have watched a thousand days
+    Push out and crawl into night
+    Slowly as tortoises
+    Now I, too, follow these.
+    It is fever, and not fight--
+    Time, not battle--that slays.
+
+
+THE BRIDEGROOM
+
+    Call me not false, beloved,
+      If, from thy scarce-known breast
+    So little time removed,
+      In other arms I rest.
+
+    For this more ancient bride
+      Whom coldly I embrace
+    Was constant at my side
+      Before I saw thy face.
+
+    Our marriage, often set--
+      By miracle delayed--
+    At last is consummate,
+      And cannot be unmade.
+
+    Live, then, whom Life shall cure,
+      Almost, of Memory,
+    And leave us to endure
+      Its immortality.
+
+
+V. A. D. (MEDITERRANEAN)
+
+    Ah, would swift ships had never been, for then we ne'er had found,
+    These harsh Ægean rocks between, this little virgin drowned,
+    Whom neither spouse nor child shall mourn, but men she nursed
+        through pain
+    And--certain keels for whose return the heathen look in vain.
+
+
+
+
+'THE CITY OF BRASS'
+
+1909
+
+     Here was a people whom after their works thou shalt see wept over
+     for their lost dominion: and in this palace is the last information
+     respecting lords collected in the dust.
+
+     _The Arabian Nights_
+
+
+    _In a land that the sand overlays--the ways to her gates are
+        untrod--
+    A multitude ended their days whose fates were made splendid by God,
+    Till they grew drunk and were smitten with madness and went to their
+        fall,
+    And of these is a story written: but Allah alone knoweth all!_
+
+    When the wine stirred in their heart their bosoms dilated,
+    They rose to suppose themselves kings over all things created--
+    To decree a new earth at a birth without labour or sorrow--
+    To declare: 'We prepare it to-day and inherit to-morrow.'
+    They chose themselves prophets and priests of minute understanding,
+    Men swift to see done, and outrun, their extremest commanding--
+    Of the tribe which describe with a jibe the perversions of Justice--
+    Panders avowed to the crowd whatsoever its lust is.
+
+    Swiftly these pulled down the walls that their fathers had made
+        them--
+    The impregnable ramparts of old, they razed and relaid them
+    As playgrounds of pleasure and leisure with limitless entries,
+    And havens of rest for the wastrels where once walked the sentries;
+    And because there was need of more pay for the shouters and
+        marchers,
+    They disbanded in face of their foemen their bowmen and archers.
+    They replied to their well-wishers' fears--to their enemies'
+        laughter,
+    Saying: 'Peace! We have fashioned a God Which shall save us
+        hereafter.
+    We ascribe all dominion to man in his factions conferring,
+    And have given to numbers the Name of the Wisdom unerring.'
+    They said: 'Who has hate in his soul? Who has envied his neighbour?
+    Let him arise and control both that man and his labour.'
+    They said: 'Who is eaten by sloth? Whose unthrift has destroyed him?
+    He shall levy a tribute from all because none have employed him.'
+    They said: 'Who hath toiled? Who hath striven, and gathered
+        possession?
+    Let him be spoiled. He hath given full proof of transgression.'
+    They said. 'Who is irked by the Law? _Though we may not remove it,
+    If he lend us his aid in this raid, we will set him above it!_'
+    So the robber did judgment again upon such as displeased him,
+    The slayer, too, boasted his slain, and the judges released him.
+
+    As for their kinsmen far off, on the skirts of the nation,
+    They harried all earth to make sure none escaped reprobation,
+    They awakened unrest for a jest in their newly-won borders,
+    And jeered at the blood of their brethren betrayed by their orders.
+    They instructed the ruled to rebel, their rulers to aid them;
+    And, since such as obeyed them not fell, their Viceroys obeyed them.
+    When the riotous set them at naught they said: 'Praise the upheaval!
+    For the show and the word and the thought of Dominion is evil!'
+
+    They unwound and flung from them with rage, as a rag that defiled
+        them
+    The imperial gains of the age which their forefathers piled them.
+    They ran panting in haste to lay waste and embitter for ever
+    The wellsprings of Wisdom and Strength which are Faith and
+        Endeavour.
+    They nosed out and digged up and dragged forth and exposed to
+        derision
+    All doctrine of purpose and worth and restraint and prevision:
+    And it ceased, and God granted them all things for which they had
+        striven,
+    And the heart of a beast in the place of a man's heart was given....
+
+       *       *       *       *       *
+
+    When they were fullest of wine and most flagrant in error,
+    Out of the sea rose a sign--out of Heaven a terror.
+    Then they saw, then they heard, then they knew--for none troubled
+        to hide it,
+    An host had prepared their destruction, but still they denied it.
+    They denied what they dared not abide if it came to the trial,
+    But the Sword that was forged while they lied did not heed their
+        denial.
+    It drove home, and no time was allowed to the crowd that was driven.
+    The preposterous-minded were cowed--they thought time would be
+        given.
+    There was no need of a steed nor a lance to pursue them;
+    It was decreed their own deed, and not chance, should undo them
+    The tares they had laughingly sown were ripe to the reaping,
+    The trust they had leagued to disown was removed from their keeping.
+    The eaters of other men's bread, the exempted from hardship,
+    The excusers of impotence fled, abdicating their wardship.
+    For the hate they had taught through the State brought the State no
+        defender,
+    And it passed from the roll of the Nations in headlong surrender.
+
+
+
+
+JUSTICE
+
+OCTOBER 1918
+
+
+    _Across a world where all men grieve
+      And grieving strive the more,
+    The great days range like tides and leave
+      Our dead on every shore.
+    Heavy the load we undergo,
+      And our own hands prepare,
+    If we have parley with the foe,
+      The load our sons must bear._
+
+    Before we loose the word
+      That bids new worlds to birth,
+    Needs must we loosen first the sword
+      Of Justice upon earth;
+    Or else all else is vain
+      Since life on earth began,
+    And the spent world sinks back again
+      Hopeless of God and Man.
+
+    A people and their King
+      Through ancient sin grown strong,
+    Because they feared no reckoning
+      Would set no bound to wrong;
+    But now their hour is past,
+      And we who bore it find
+    Evil Incarnate held at last
+      To answer to mankind.
+
+    For agony and spoil
+      Of nations beat to dust,
+    For poisoned air and tortured soil
+      And cold, commanded lust,
+    And every secret woe
+      The shuddering waters saw--
+    Willed and fulfilled by high and low--
+      Let them relearn the Law.
+
+    That when the dooms are read,
+      Not high nor low shall say:--
+    'My haughty or my humble head
+      Has saved me in this day.'
+    That, till the end of time,
+      Their remnant shall recall
+    Their fathers' old, confederate crime
+      Availed them not at all.
+
+    That neither schools nor priests,
+      Nor Kings may build again
+    A people with the heart of beasts
+      Made wise concerning men.
+    Whereby our dead shall sleep
+      In honour, unbetrayed,
+    And we in faith and honour keep
+      That peace for which they paid.
+
+
+Printed by T and A CONSTABLE, Printers to His Majesty at the Edinburgh
+University Press
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK THE YEARS BETWEEN***
+
+
+******* This file should be named 21777-8.txt or 21777-8.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/2/1/7/7/21777
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://www.gutenberg.org/about/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:
+http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

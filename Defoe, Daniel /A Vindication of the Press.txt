@@ -1,0 +1,1647 @@
+The Project Gutenberg EBook of A Vindication of the Press, by Daniel Defoe
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: A Vindication of the Press
+
+Author: Daniel Defoe
+
+Release Date: November 18, 2004 [EBook #14084]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A VINDICATION OF THE PRESS ***
+
+
+
+
+Produced by David Starner, Keith M. Eckrich, and the Project Gutenberg
+Online Distributed Proofreading Team
+
+
+
+
+
+
+The Augustan Reprint Society
+
+
+Daniel Defoe
+
+_A Vindication of the Press_ (1718)
+
+
+With an Introduction by Otho Clinton Williams
+
+
+Publication Number 29
+
+Los Angeles
+
+William Andrews Clark Memorial Library
+
+University of California
+
+1951
+
+
+
+
+_GENERAL EDITORS_
+
+  H. RICHARD ARCHER, _Clark Memorial Library_
+
+  RICHARD C. BOYS, _University of Michigan_
+
+  EDWARD NILES HOOKER, _University of California, Los Angeles_
+
+  JOHN LOFTIS, _University of California, Los Angeles_
+
+
+
+
+_ASSISTANT EDITOR_
+
+  W. EARL BRITTON, _University of Michigan_
+
+
+
+
+_ADVISORY EDITORS_
+
+  EMMETT L. AVERY, _State College of Washington_
+
+  BENJAMIN BOYCE, _Duke University_
+
+  LOUIS I. BREDVOLD, _University of Michigan_
+
+  CLEANTH BROOKS, _Yale University_
+
+  JAMES L. CLIFFORD, _Columbia University_
+
+  ARTHUR FRIEDMAN, _University of Chicago_
+
+  LOUIS A. LANDA, _Princeton University_
+
+  SAMUEL H. MONK, _University of Minnesota_
+
+  ERNEST MOSSNER, _University of Texas_
+
+  JAMES SUTHERLAND, _Queen Mary College, London_
+
+  H.T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+
+
+INTRODUCTION
+
+
+_A Vindication of the Press_ is one of Defoe's most characteristic
+pamphlets and for this reason as well as for its rarity deserves
+reprinting. Besides the New York Public Library copy, here reproduced,
+I know of but one copy, which is in the Indiana University Library.
+Neither the Bodleian nor the British Museum has a copy.
+
+Like many items in the Defoe canon, this tract must be assigned to him
+on the basis of internal evidence; but this evidence, though
+circumstantial, is convincing. W.P. Trent included _A Vindication_ in
+his bibliography of Defoe in the _CHEL_, and later bibliographers of
+Defoe have followed him in accepting it. Since the copy here
+reproduced was the one examined by Professor Trent, the following
+passage from his ms. notes is of interest:
+
+     The tract was advertised, for "this day," in the _St. James
+     Evening Post_, April 19-22, 1718. It is not included in the
+     chief lists of Defoe's writings, but it has been sold as
+     his, and the only copy I have seen, one kindly loaned me by
+     Dr. J.E. Spingarn, once belonged to some eighteenth century
+     owner, who wrote Defoe's name upon it. I was led by the
+     advertisement mentioned above to seek the pamphlet, thinking
+     it might be Defoe's; but I failed to secure a sight of it
+     until Professor Spingarn asked me whether in my opinion the
+     ascription to Defoe was warranted, and produced his copy.
+
+Perhaps the most striking evidence for Defoe's authorship of _A
+Vindication_ is the extraordinary reference to his own natural parts
+and to the popularity of _The True-Born Englishman_ some seventeen
+years after that topical poem had appeared [pp. 29f.]. Defoe was
+justly proud of this verse satire, one of his most successful works,
+and referred to it many times in later writings; it is hard to
+believe, however, that anyone but Defoe would have praised it in such
+fulsome terms in 1718.
+
+The general homeliness and facility of the style, together with
+characteristic phrases which occur in his other writings, indicate
+Defoe's hand. Likewise homely similitudes and comparisons, specific
+parallels with his known work, and characteristic treatment of matter
+familiar in his other works, all furnish evidence of his authorship of
+this pamphlet.
+
+Just what motive caused Defoe to write _A Vindication of the Press_ is
+not clear. Unlike his earlier _An Essay on the Regulation of the
+Press_ (1704), _A Vindication_ does not seem to have been occasioned
+by a specific situation, and in it Defoe is not alone concerned with
+freedom of the press, but writes on a more general and discursive
+level. His opening paragraph states that "The very great Clamour
+against some late Performances of Authorship, and the unprecedented
+Criticisms introduc'd" make such an essay as he writes "absolutely
+necessary." Yet there is no clear indication of just what works
+occasion this necessity. The ironic reference to Mr. Dennis at the end
+of the first paragraph, taken together with the praise of Mr. Pope's
+translation of Homer and the allusion to "the malicious and violent
+Criticisms of a certain Gentleman in its Disfavour" [p. 23], might
+suggest that Defoe had in mind Dennis' _Remarks upon Mr. Pope's
+Translation of Homer_, but even the entire body of writings attacking
+Pope's _Homer_ would hardly seem sufficient to give point to this
+somewhat omnibus and unfocused essay.
+
+Equally suggestive, perhaps, are Defoe's references to the Bangorian
+controversy and to Bishop Hoadley [pp. 10, 23]. This controversy raged
+from 1717 to 1720 and produced a spate of pamphlets (to which Defoe
+contributed), many of which were marked by heated argument and
+acrimony. Defoe, with his liking for moderation, no doubt intended to
+make an oblique criticism of the license of many of the Bangorian
+tracts. But these tracts are certainly not advanced as the prime
+occasion for _A Vindication_.
+
+Defoe points out in the first section of his essay how important is
+freedom of the press as the foundation of the "valuable liberties" of
+Englishmen. I have been unable to find any reference to a specific
+threat of regulation of the press at this time that might have
+occasioned _A Vindication_. Nevertheless, it is possible that
+sentiment for control of the press, perhaps incited by the Bangorian
+controversy, was felt in 1718 and may have been a contributing motive
+to the composition of this tract. Whatever the immediate motives for
+writing it may have been, the variety of its contents suggests that
+Defoe saw an opportunity to turn a penny, to express himself on a
+number of his pet subjects, and to defend his own position as a
+professional writer.
+
+_A Vindication_ is made up of three clearly marked sections: in the
+first the author vindicates the usefulness of writing; in the second
+he discusses the usefulness--it would be more exact to say the
+harmfulness--of criticism; in the third he expatiates upon the
+qualifications of authors. One may admit at once the comparative
+worthlessness of the pamphlet as a contribution to criticism or
+critical theory. Defoe's comments upon specific writers are thoroughly
+conventional and commonplace, as may be seen from a glance at his
+remarks about Milton, Chaucer, Spenser, Shakespeare, and others on p.
+12.
+
+Of more interest is his very high praise of Dryden, "a Man for
+Learning and universal Writing in Poetry, perhaps the greatest that
+England has produc'd" [p. l5], and his comment upon the critical
+detraction from which he suffered. He compares Pope, interestingly
+enough, with Dryden, remarking that Pope ("a Person tho' Inferior to
+Mr. _Dryden_, yet speaking Impartially has few Superiors in this Age")
+also is persecuted by envy; and he has generous praise for that poet's
+translation of Homer. One may note that Defoe avoids the shortcomings
+of the critics whom he condemns for judging according to party. He
+distributes his praise indiscriminately between Whig and Tory writers.
+In short, his essay hardly does more than confirm the critical
+commonplaces of the time and attest to the catholicity of the author's
+taste.
+
+Of particular interest for students of Defoe is the paragraph [p. 2l]
+in which Defoe defends the hack-writers who must write for
+subsistence. One should not expect their writings, which are
+necessarily numerous, to be as correct and finished as they might be.
+After comparing their pens to prostitutes because of their venality,
+he claims, in a half-ironic tone, for both authors and booksellers the
+liberty of writing and printing for either or both sides without
+ignominy. After all, they must write and print to live. Such practice
+is certainly, he observes, no more unjust or disreputable than other
+ways of gaining wealth such as one finds in Exchange-Alley.
+
+This paragraph gains point when one remembers that Defoe had served
+both Whig and Tory governments. In 1718, as letters written to Lord
+Stanhope in that very year testify, he was engaged in the perhaps
+dubious business of masquerading as a Tory, while actually in the
+service of the Whig ministry, to take the "sting" out of the more
+violent Tory periodicals; and he was much concerned with the danger of
+his ambiguous position. In December of 1717 he had been identified as
+a writer for _Mist's Weekly Journal_, the leading Tory paper, and was
+subjected to growing attacks in the Whig press. One can hardly doubt
+that this paragraph is a thinly veiled defense of his own practice as
+a professional journalist.
+
+It is no surprise to find the author of _A Vindication_, in discussing
+the qualifications of writers, advocating the importance of genius and
+"Natural Parts" above mere learning. He instances the author of _The
+True-Born Englishman_ and Shakespeare, the former "Characteriz'd as a
+Person of Little Learning, but of prodigious Natural Parts" and the
+latter having "but a small share of Literature." The further example
+of the literary achievements of the "Fair Sex," who had, of course, no
+university education, reminds one of Defoe's championship elsewhere of
+women. The business of a writer is "to please and inform," and the
+general implication is that genius is more necessary to this end than
+learning.
+
+Also characteristic of Defoe is his emphasis upon the advantage to an
+author of conversation, "the Aliment of Genius, the Life of all airy
+Performances" [p.32]. Likewise, his digression upon education [pp.
+34f.], his charge that people of quality in England all too often
+neglect their children's education, his remarks upon the advantages of
+travel and the need of training in the vernacular, all will be
+familiar to readers of Defoe.
+
+_A Vindication of the Press_ is chiefly important for the
+corroboration of our knowledge of Daniel Defoe. It presents nothing
+that is new, but it gives further evidence of his pride in authorship,
+of his rationalization of his actions as a professional journalist,
+and of his belief in the importance of a free press. Many of his
+characteristic ideas are repeated with his usual consistency in point
+of view. Although the critical comments in the essay are thoroughly
+conventional, they offer evidence of contemporary literary judgments
+and reveal Defoe as a well-informed man of moderation and commonsense,
+though certainly not as a profound critic. In the catholicity of his
+tastes and interests Defoe is far ahead of his Puritan fellows, and
+his essay may be taken as one indication of the growing interest of
+the middle-classes for whom he wrote in the greater world of
+literature. As Professor Trent remarks in his ms. notes, "Defoe rarely
+wrote a tract without introducing something worthy of attention and
+comment, and the present pamphlet is no exception to the rule."
+
+I should like to thank Dr. Henry C. Hutchins for his generosity in
+making available to me Professor Trent's ms. notes on _A Vindication_
+and Dr. John Robert Moore for his kindness, criticisms, and
+suggestions.
+
+
+Otho Clinton Williams
+San Jose State College
+
+
+Vindication of the Press:
+
+OR, AN ESSAY ON THE _Usefulness of Writing_, ON CRITICISM, AND THE
+
+Qualification of AUTHORS.
+
+Wherein is shewn,
+
+That 'tis for the Advantage of all Governments to encourage Writing;
+otherwise a Nation would never be secure from the Attempts of its most
+secret Enemies; Barbarous and prejudic'd Criticisms on Writings are
+detected, and Criticism is justly stated. With an Examination into
+what Genius's and Learning are necessary for an AUTHOR in all manner
+of Performances.
+
+_LONDON_:
+
+Printed for _T. Warner_, at the _Black-Boy_ in Pater-Noster-Row.
+MDCCXVIII.
+
+[Price Sixpence.]
+
+[ILLUSTRATION]
+
+
+
+
+A Vindication of the PRESS:
+
+OR, AN ESSAY ON THE _Usefulness of Writing_, &c.
+
+The very great Clamour against some late Performances or Authorship,
+and the unpresidented Criticisms introduc'd, render a Treatise on the
+Usefulness of Writing in general so absolutely necessary, that the
+Author of this Essay has not the least Apprehensions of Displeasure
+from the most inveterate, but on the contrary, doubts not an
+Approbation, even of the Great Mr. _Dennis_.
+
+For the Usefulness of Writing in the Church, I shall trace back to the
+Annals of our Saviour and his Apostles. Had not Writing been at that
+Time in use, what Obscurity might we reasonably have expected the
+whole World would have labour'd under at this Day? when,
+notwithstanding the Infidels possess such vast Regions, and Religion
+in its Purity shines but in a small Quarter of the Globe. 'Tis easy-to
+imagine, that without the New-Testament every Person of excellency in
+Literature, and compleat in Hypocrisy, either out of Interest, or
+other worldly Views, would have taken the Liberty to deny the most
+Sacred Traditions, and to have impos'd upon the Populace as many
+Religions as they pleas'd, and that the ignorant Multitude would
+easily acquiesce, as they do in _Turkey_, and other distant Parts of
+the World, which deny the Divinity of our Saviour.
+
+What fatal Errors, Schisms, and concomitant Evils would have been
+introduc'd, must be apparent to all Persons of the least Penetration.
+The Quakers might at this Time possibly have been our National Church,
+and our present Happiness, with regard to those Considerations, can no
+way be more lively and amply demonstrated than in taking a step at
+once from Mr. _Penn's_ Conventicle to the Cathedral Church of St.
+_Pauls_.
+
+The Regularity and heavenly Decorum of the latter, give an Awe and
+Transport to the Audience at the same time they ornament Religion; and
+the Confusion of the former fully shews, that as it only serves to
+amuse a Crowd of ignorant Wretches, unless meerly with temporal Views
+(Sectarists generally calculating Religion for their Interests) so it
+gives a License to all manner of Indecencies, and the Congregations
+usually resort thither with the same Regard as a Rake of the Town
+would do to Mother _Wybourn's_, or any publick Place of Diversion.
+
+Whether it be not natural to have expected a Confusion in the Church,
+equal to that of the worst Sectaries in the World, had not the Use of
+Waiting been early attain'd and practis'd, I appeal to the Breast of
+every unprejudic'd Reader; and if so, how infinitely happy are we by
+the Use of our Sacred Writings, which clear up the Cloud of Ignorance
+and Error, and give a Sanction to our Religion, besides the
+Satisfaction we of the Church of _England_ have in this felicitous
+Contemplation, that our Religion, since the Reformation, strictly
+observ'd, is the nearest that of our Saviour and his Apostles of any
+Profession of Faith upon Earth.
+
+'Tis owing to Writing, that we enjoy the purest Religion in the World,
+and exclusive of it, there would have been no possibility of
+transmitting down entirely those valuable Maxims of _Solomon_, and the
+Sufferings of the Righteous _Job_, in the old Testament; which are so
+extensive to all Parts and Stations of Life, that as they are
+infinitely preferable to all other Writings of the Kind, so they
+afford the greatest Comfort and Repose in the Vicisitudes incident to
+Humane Nature.
+
+How far Theology is improv'd from those inestimable Writings, I need
+not to enlarge, since it is highly conspicuous that they are the
+Foundation of all Divine Literature; and how ignorant and imperfect we
+should have been without them, is no great difficulty to explain; and
+who can sufficiently admire the Psalter of _David_, which fills the
+Soul with Rapture, and gives an Anticipation of sublimest Joys.
+
+Besides the Advantages of Sacred Writings in the Cause of Religion;
+'tis chiefly owing to Writing, that we have our most valuable
+Liberties preserv'd; and 'tis observable, that the Liberty of the
+Press is no where restrain'd but in Roman Catholick Countries, or
+Kingdoms, or States Exercising an Absolute Power.
+
+In the Kingdom of _France_ Writings relating to the Church and State
+are prohibited upon the severest Penalties, and the Consequences of
+those Laws are very Obvious to all Persons of Discernment here; they
+serve to secure the Subject in the utmost Obscurity, and as it were
+Effect an entire Ignorance, whereby an exorbitant Power is chearfully
+submitted to, and a perfect Obedience paid to Tyranny; and the
+Ignorance and Superstition of these People so powerfully prevail, that
+the greatest Oppressor is commonly the most entirely Belov'd, which I
+take to be sufficiently ently Illustrated in the late _Lewis_ the
+Fourteenth, whose Arbitrary Government was so far from Diminishing the
+Affections of his Subjects, that it highten'd their Esteem for their
+Grand Monarch.
+
+But of late the populace of _France_ are not so perfectly enclouded
+with Superstition, and if a young Author can pretend to Divine, I
+think it is easy to foresee that the papal Power will in a very short
+space be considerably lessen'd if not in a great measure disregarded
+in that Kingdom, by the intestine Jarrs and Discords of their Parties
+for Religion, and the Desultory Judgments of the most considerable
+Prelates.
+
+The best Support of an Arbitrary Power is undoubtedly Ignorance, and
+this cannot be better cultivated than by an Absolute Denial of
+Printing; the Oppressions of the Popularity cannot be thoroughly
+Stated, or Liberty in general Propagated without the use of the Press
+in some measure, and therefore the Subjects must inevitably submit to
+such Ordinances as an Ambitious or Ignorant Monarch and his Tyrannical
+Council shall think fit to impose upon them, how Arbitrary soever: And
+the Hands of the Patriots and Men of Eminence who should Illuminate
+the Age, and open the Eyes of the deluded People are thereby tied up,
+and the Infelicity of the Populace so compleat that they are incapable
+of either seeing their approaching Misery, or having a redress of
+present Grievances.
+
+In _Constantinople_ I think they have no such thing as Printing
+allow'd on any Account whatsoever; all their Publick Acts relating to
+the Church and State are recorded in Writing by expert Amanuensis's,
+so very strict are the Divan and great Council of the Sultan in
+prohibiting the Publication of all manner of Writings: They are very
+sensible had Persons a common Liberty of stating their own Cases, they
+might Influence the Publick so far, that the Yoke of Tyranny must sink
+if not be rendred insupportable; and this is regarded in all Kingdoms
+and Countries upon Earth Govern'd by a Despotick Power.
+
+To what I have already offer'd in favour of the Press, there may be
+Exceptions taken by some Persons in the World; and as it is my
+Intentions to solve all Objections that may be rais'd to what I
+advance, as I proceed, I think I cannot too early make known, that I
+am apprehensive the following Observations may be made; _viz._ that a
+general License of the Press is of such a fatal Tendency, that it
+causes Uneasinesses in the State, Confusions in the Church, and is
+destructive sometimes even to Liberty, by putting the ruling Powers
+upon making Laws of Severity, on a Detection of ill Designs against
+the State, otherwise never intended.
+
+In answer to which, I shall give the following Particulars: In respect
+to Uneasinesses in the State, it may not be amiss to premise, that it
+is esteem'd by Men of Penetration, no small Wisdom in the present
+Administration, to bestow Preferments on the brightest and most
+enterprising Authors of the Age; but whether it be so much out of a
+Regard to the Service they are capable of to the State in their
+Employs, as to their Writing for the Government, and to answer
+treasonable Pamphlets, poison'd Pens, _&c._ I do not take upon me to
+determine. I must confess, where a Faction prevails, it gives a
+sensible Monarch some Pain to see Disafection propagated by the Press,
+without any manner of Restraint; but then, on the other Hand, such a
+Ruler is thereby let into the Secrets of the Faction, he may with
+facility penetrate into their deepest Intrigues, and be enabled to
+avert an impending Storm. Upon approach of a Rebellion, he will be
+thoroughly sensible from what Quarter his greatest Danger is to be
+expected, whereby it will be entirely his own Fault, if he be without
+a sufficient Guard against it, which he could not be appriz'd of (with
+any certainty) without a general Liberty of Writing: And tho' Slander
+must occasion a great deal of Uneasiness to a crown'd Head, the Power
+of bestowing Favours on Friends only is no small Satisfaction to the
+Prince, and a sufficient Punishment to his Enemies. And it is my
+Opinion, that the Grand Sultan, and other Eastern Potentates, would be
+in a great deal less danger of Deposing, (a Practice very frequent of
+late) if in some measure a Liberty of Writing was allow'd; for the
+Eyes of the People would be open, as well for as against their Prince,
+and their fearing a worse Evil should succeed, might make them easy
+under a present Oppression.
+
+As for Confusion in the Church, I look upon this to be the greatest
+Objection that can be raised; but then it must be allow'd, that
+without Writing the Reformation (the Glory of our Religion) could
+never have been effected; and in respect to religious Controversies,
+tho' I own they are seldom attended with good Consequences, yet I must
+beg leave to observe, that as the Age we now live in, is more bright
+and shining in substantial Literature than any preceding Century, so
+the generality of Mankind are capable of judging with such an
+Exactness as to avoid a Bad; not but, I confess, I think many of the
+Persons concern'd in the Controversy lately on foot, with relation to
+the Bishop of _Bangor's_ Sermon, preach'd before His Majesty, deserve
+to be stigmatiz'd, as well for their indecent Heat, as for the
+Latitude taken with regard to the Holy Scriptures. And for the last
+Objection, I never knew that Writing was any ways destructive to
+Liberty, unless it was in a Pamphlet, [entitled King-Killing no
+Murder] which 'tis said occasion'd the Death of _Oliver Cromwel_.
+
+These are the Uses of Writings in the Church and the State, with
+Answers to such Objections as may be made against them, not to mention
+particularly in respect to the former, the Writings of the Fathers,
+and even of some Heathen Philosophers, such as _Seneca_, &c. And
+besides the valuable Performances of our most eminent Divines in all
+Ages, as Dr. _Taylor_, Bishop _Usher, Tillotson, Beveridge_ &c. and
+_The whole Duty of Man_, &c. in our private Devotions. I now proceed
+to the Uses in Arts and Sciences.
+
+How much Posterity will be oblig'd to the Great Sir _Isaac Newton_ and
+Doctor _Flamstead_ for their Mathematical Writings, is more easy to
+imagine than the Improvements which may be made from thence; there's a
+great deal of Reason to believe, that if a future Age produces a
+Successor to Sir _Isaac_, (at present I take it, there's none in the
+World) that not only the Longitude at Sea will be discover'd, but the
+perpetual Motion, so many Ages sought after, found out.
+
+How much are the Gentlemen of the Law oblig'd to my Lord _Littleton's_
+Institutes and _Coke's_ Commentaries thereupon? Writing in this
+Profession is esteem'd so Essential, that there's seldom a Judge quits
+the Stage of Life, without a voluminous Performance, as a Legacy to
+the World, and there's rarely a Term without some Production of the
+Press: The Numbers of these Writings are very much augmented by the
+various Reports of Cases from Time to Time made; and these seem to be
+entirely necessary by way of Precedent, as a discreet and cautious
+Justice will not take upon him to determine a Cause of difficulty
+without the Authority of a Precedent.
+
+And in the Practice of Physick, are not the present Professors
+infinitely obliged to the Discoveries and Recipes of _Aristotle_,
+_Galen_, &c? How much the World is oblig'd to the Declamations of
+_Tully_, _Cicero_, for Oratory; to the famous Writings of _Milton_ for
+the Foundation of Divine Poetry; Poetry in general is improv'd from
+the Writings of _Chaucer_, _Spencer_, and others; Dramatick
+Entertainments perfected by _Shakespear_; our Language and Poetry
+refin'd by _Dryden_; the Passions rais'd by _Otway_; the Inclination
+mov'd by _Cowley_; and the World diverted by _Hudibras_, (not to
+mention the Perfections of Mr. _Addison_, and several others of this
+Age) I leave to the Determination of every impartial Reader.
+
+'Tis by Writing that Arts and Sciences are Cultivated, Navigation and
+Commerce (by which alone Wealth is attain'd) to the most distant parts
+of the World Improv'd, Geography Compleated, the Languages, Customs
+and Manners of Foreign Nations known; and there is scarce any one
+Mechanick calling of Note or Signification, but Treatises have been
+written upon, to transmit the valuable Observations of Ingenious
+Artificers to the latest Posterity.
+
+There might be innumerable Instances given of the Advantages of
+Writings in all Cases, but I shall satisfy my self with the
+particulars already advanc'd, and proceed to such Objections, as I am
+apprehensive may be made relating to the Writings last mentioned.
+First, it may be Objected that the numerous Writings tend more to
+confound the Reader, than to inform him; to this I answer, that it is
+impossible there can be many Writings produced, but there must be some
+valuable Informations communicated, easy to be Collected by a
+judicious Reader; tho' there may be a great deal superfluous, and
+notwithstanding it is a considerable Charge to purchase a useful
+Library, (the greatest Grievance) yet we had better be at that
+Expence, than to have no Books publish'd, and consequently no
+Discoveries; the same Reason may be given where Books in the Law,
+Physick, &c. are imperfect in some Part, and tend to the misleading
+Persons; for of two Evils the old Maxim is, always chuse the least.
+The only Objection that I do not take upon me to Defend, is, that
+against Lewd and obscene Poetry in general; (for sometimes the very
+great Wit may make it excuseable) which in my Opinion will admit of
+but a slender Apology in its Defence.
+
+The use of Writing is Illustrated in the following Lines, which
+conclude my first Head of this Essay.
+
+  _By ancient Writing Knowledge is convey'd,
+  Of famous Arts the best Foundation laid;
+  By these the Cause of Liberty remains,
+  Are Nations free'd from Arbitrary Chains,
+  From Errors still our Church is purified,
+  The State maintained, with justice on its Side._
+
+I now advance to my second Particular, _Criticism_.
+
+The fatal Criticism or Damnation which the Writings of some Authors
+meet with thro' their Obscurity, want of Friends and Interest in the
+World, &c. is very discouraging to the Productions of Literature:
+It is the greatest difficulty immaginable, for an obscure Person to
+Establish a Reputation in any sort of Writing; he's a long time in the
+same Condition with _Sisyphus_, rolling a heavy Stone against an
+aspiring Mount which perpetually descends again; it must be to his
+benign Stars, some lucky Subject suiting the Humour of the Times, more
+than the Beauty of his Performance, which he will be oblig'd for his
+Rise: And in this Age Persons in general, are so Estrang'd from bare
+Merit, that an Author destitute of Patronage will be equally
+Unsuccessful to a Person without Interest at Court, (and you'll as
+rarely find the Friendship of an _Orestes_, as the Chastity of
+_Penelope_) When a Man of Fortune has no other Task, than to give out
+a stupid Performance to be of his own Composing, and he's immediately
+respected as a Celebrated Writer: And if a Man has the good Fortune to
+hit the capricious Humour of the Age; after he has attained a
+Reputation with the utmost Difficulty, he's sure to meet with the
+severest Treatment, from a herd of Malicious and Implacable Scriblers.
+
+This was the Case of the late Mr. _Dryden_, a Man for Learning and
+universal Writing in Poetry, perhaps the Greatest that _England_ has
+produc'd; he was Persecuted by Envy, with the utmost Inveteracy for
+many Years in Succession: And is the Misfortune at this Juncture of
+Mr. _Pope_, a Person tho' Inferior to Mr. _Dryden_, yet speaking
+Impartially has few Superiors in this Age: From these Considerations
+it is Evident, (tho' it seems a Paradox) that it is a Reputation to be
+Scandaliz'd, as a Person in all Cases of this Nature is allow'd some
+Merit, when Envy attacks him, and the World might not be sensible of
+it in General, without a publick Encounter in Criticism; and many
+Authors would be Buried in Oblivion were they not kept alive by
+Clamours against their Performances.
+
+The Criticks in this Age are arriv'd to that consummate Pitch of
+ill-nature, that they'll by no means permit any Person the favour to
+Blunder but their mighty selves, and are in all respects, except the
+Office of a Critick, in some measure ill Writers; I have known an
+unnatural Brother of the Quill causless condemn Language in the
+Writings of other Persons, when his own has really been the meanest;
+to Accuse others of Inconsistency with the utmost Vehemence, when his
+own Works have not been without their Æra's, and to find fault with
+every Line in a Poem, when he has been wholly at a loss to Correct, or
+at least not capable of Writing one single Page of it.
+
+There are another sort of Criticks, which are equally ill-natur'd to
+these I have mention'd, tho' in all other respects vastly inferior to
+them: They are such as no sooner hear of a Performance compos'd by a
+Juvenile Author, or one not hitherto known in the way of Writing he
+has undertaken; but immediately without reading a Line give it a Stamp
+of Damnation; (not considering that the first Performance of an Author
+in any way of Writing done carefully, is oftentimes the best) and if
+they had thoroughly perus'd it, they were no ways capable of Judging
+of either the Sense, Language, or Beauty of any one Paragraph; and
+what is still worse, these ignorant Slanderers of Writings frequently
+take what other Persons report for Authority, who know as little, or
+perhaps are more Ignorant than themselves, so little Regard have they
+to the Reputation of an Author.
+
+And sometimes you'll find a pert _Bookseller_ give himself the Airs of
+Judging a Performance so far, as to Condemn the Correctness of what he
+knows nothing of these there's a pretender to Authorship in the City,
+who Rules the young Fry of Biblioples about the _Royal-Exchange_.
+
+But the _Booksellers_ in general, (tho' they commonly Judge of the
+Goodness of Writings, by the greatness of the Sale,) are Very sensible
+that their greatest Security in respect to the Performance of any
+Work, is the Qualification of the Person that Composes it, the
+Confidence they can Repose in him; his Capacity, Industry and
+Veracity; And the Author's Reputation is so far concern'd in a
+Performance, which he owns that the _Bookseller_ will sooner rely upon
+that, than his own Judgment.
+
+To descend still to a lower Order of Criticks, you'll find very few
+Coffee-Houses in this opulent City without an illiterate Mechanick,
+Commenting upon the most material Occurrences, and Judging the Actions
+of the greatest Councils in _Europe_, and rarely a Victualing House,
+but you meet with a _Tinker, a Cobler, or a Porter_, Criticizing upon
+the Speeches of Majesty, or the Writings of the most celebrated Men of
+the Age.
+
+This is entirely owing to Party, and there is such a Contagion
+diffuses it self thro' the greatest Part of the World at this Time,
+that it is impossible for a Man to acquire a universal Character in
+Writing, as it is inconsistent for him to engage in Writings for both
+Parties at one and the same Time, (whatever he may do alternately)
+without which such a Character is not attainable; and these contending
+Parties carry Things to that Extremity, that they'll by no means allow
+the least Merit in the most perfect Author, who adheres to the
+opposite Side; his Performances will be generally unheeded, if not
+blasted, and frequently damn'd, as if, like _Coelus_, he were capable
+of producing nothing but Monsters; he shall be in all Respects
+depress'd and debas'd, at the same time an illiterate Scribler, an
+auspicious Ideot of their own (with whose Nonsense they are never
+sated) shall be extoll'd to the Skies: Herein, if a Man has all the
+Qualifications necessary in Poetry, as an Elegance of Style, an
+Excellency of Wit, and a Nobleness of Thought; were Master of the most
+surprizing Turns, fine Similies, and of universal Learning, yet he
+shall be despis'd by the Criticks, and rang'd amongst the damn'd
+Writers of the Times.
+
+The Question first ask'd is, whether an Author is a Whig or a Tory; if
+he be a Whig, or that Party which is in Power, his Praise is
+resounded, he's presently cried up for an excellent Writer; if not,
+he's mark'd as a Scoundrel, a perpetual Gloom hangs over his Head; if
+he was Master of the sublime Thoughts of _Addison_, the easy flowing
+Numbers of _Pope_, the fine Humour of _Garth_, the beautiful Language
+of _Rowe_, the Perfection of _Prior_, the Dialogue of _Congreve_, and
+the Pastoral of _Phillips_, he must nevertheless submit to a mean
+Character, if not expect the Reputation of an Illitterate.
+
+Writings for the Stage are of late so very much perverted by the
+Violence of Party, that the finest Performance, without Scandal,
+cannot be supported; _Shakespear_ and _Ben Johnson_, were they, now
+living, would be wholly at a Loss in the Composure of a Play suitable
+to the Taste of the Town; without a promiscuous heap of Scurrility to
+expose a Party, or, what is more detestable, perhaps a particular
+Person, no Play will succeed, and the most execrable Language, in a
+Comedy, produc'd at this Time, shall be more applauded than the most
+beautiful Turns in a _Love for Love_: Such are the Hardships a
+Dramatick-Poet has to struggle with, that either Obscenity, Party, or
+Scandal must be his Theme, and after he has performed his utmost in
+either of these Ways, without a powerful Interest, he'll have more
+Difficulty in the bringing his Play upon the Theatre than in the
+Writing, and sometimes never be able to accomplish it.
+
+These are the Inconveniencies which Writers for the Stage labour
+under, besides 'tis observable, that an obsequious prolifick Muse
+generally meets with a worse Reception than a petulant inanimate
+Author; and when a Poet has finished his Labours, so that he has
+brought his Play upon the Stage, the best Performance has oftentimes
+the worst Success, for which I need only instance Mr. _Congreve's Way
+of the World_, a Comedy esteem'd by most Persons capable of judging,
+no way inferior to any of his other Performances.
+
+A Choice of Actors, next to Interest and Popularity, is the greatest
+Advantage to a new Play: If a Stage-Poet has the Misfortune not to
+have a sufficient Influence over the Managers of the Theatres to make
+a Nomination, his Performance must very much suffer; and if he cannot
+entirely Command his Theatre, and Season for bringing it on, it will
+be perfectly slaughter'd; and a certain Theatre has lately acquir'd
+the Name of a _Slaughter-House_, but whether more for the Stupidity of
+its Poets than its Actors, I do not pretend to determine; but certain
+it is, that Acting is the Life of all Dramatick-Performances. And tho'
+an indifferent Play may appear tolerable, with good Acting, it is
+impossible a bad one can afford any Entertainment, when perform'd by
+an incompleat Set of Comedians.
+
+In respect to Writings in general, there is an unaccountable Caprice
+in abundance of Persons, to Condemn or Commend a Performance meerly by
+a Name. The Names of some Writers will effectually recommend, without
+making an Examination into the Merit of the Work; and the Names of
+other Persons, equally qualified for Writing, and perhaps of greater
+Learning than the Former, shall be sufficient to Damn it; and all this
+is owing either to some lucky Accident of writing apposite to the
+Humour of the Town, (wherein an agreeable Season and a proper Subject
+are chiefly to be regarded) or to Prejudice, but most commonly the
+Former.
+
+It is a Misfortune to Authors both in Prose and Verse, who are reduc'd
+to a Necessity of constant writing for a Subsistence, that the
+numerous Performances, publish'd by them, cannot possibly be so
+correct as they might be, could more Time be afforded in the
+Composure. By this Means there is sometimes just room for Criticism
+upon the best of their Productions, and these Gentlemen,
+notwithstanding it be never so contrary to their Inclinations, are
+entirely oblig'd to prostrate their Pens to the Town, as Ladies of
+Pleasure do their Bodies; tho' herein, in respect to Party, it is to
+be observ'd, that a Bookseller and an Author may very well be allow'd
+occasionally to be of either Party, or at least, that they should be
+permitted the Liberty of Writing and Printing of either Side for
+Bread, free from Ignominy; and as getting Money is the chief Business
+of the World, so these Measures cannot by any means be esteem'd Unjust
+or Disreputable, with regard to the several Ways of accumulating
+Wealth, introduc'd in _Exchange-Alley_, and at the other End of the
+Town.
+
+It is a common Practice with some Persons in the World, either to
+prefix the Name of a _Mecanas_ in the Front of their Performances, or
+to obtain recommendatory Lines from some Person of excellency in
+Writing, as a Protection against Criticism; and there is nothing more
+frequent than to see a mean Performance (especially if it be done by a
+Man of Figure) with this Guard.
+
+'Tis true, the worst Performances have the greatest occasion of these
+Ramparts, but then the Person who takes upon him to Recommend, must
+have such an absolute Authority and Influence over the generality of
+Mankind, as to silence all Objections, or else it will have a contrary
+Turn, by promoting a Criticism as well upon the Author as upon
+himself; for which Reason it is very hazardous for a Person in a
+middle Station (tho' he have never so great a Reputation in Writing)
+to engage in the Recommendation of the Writings of others.
+
+The severe Treatment which the brightest Men of the Age have met with
+from the Criticks, is sufficient to deter all young Gentlemen from
+entring the Lists of Writing; and was not the World in general more
+good-natur'd and favourable to youthful Performances than the
+Criticks, there would be no such thing as a Succession of Writings;
+whereas, by that Means, and his present Majesty's Encouragement,
+Literature is in a flourishing Condition, and Poetry seems to improve
+more at this Time than it has done in any preceding Reign, except that
+of King _Charles_ II. when there was a _Rochester_, a _Sidley_, a
+_Buckingham_, &c. And (setting aside Party) what the World may hope
+from a generous Encouragement of polite Writing, I take to be very
+conspicuous from Mr. _Pope's_ Translation of _Homer_, notwithstanding
+the malicious and violent Criticisms of a certain Gentleman in its
+Disfavour.
+
+In the religious Controversy of late depending, Criticisms have been
+carried to that height, that some Persons have pretended to fix false
+Grammer on one of the most celebrated Writers perhaps at this Time in
+_Europe_, but how justly, I leave to the Determination of those who
+have perused the Bishop's incomparable Answer; but admitting his
+Lordship had permitted an irregularity of Grammer to pass unobser'd
+[typo for "unobserv'd"?], he is not the first of his Sacred Character
+that has done it, and small Errors of this kind are easily looked
+over, where the Nominative Case is at a distance from the Verb, or a
+Performance is done in haste, the Case of the Bishop against so many
+powerful Adversaries. Besides, it is apparent and well known, that a
+certain Person [_Mr._ Lessey, _now with the_ Chevalier.] in the World,
+who has a very great Reputation in Writing, never regards the strict
+Rules of Grammer in any of his Performances.
+
+It is a Satisfaction to Authors of tender Date, to see their Superiors
+thus roughly handled by the Criticks; a young Writer in Divinity will
+not think his Case desperate, when the shining _Bangor_ has met with
+such malevolent Treatment; neither must a youthful Poet be uneasy at a
+severe Criticism, when the Great Mr. _Addison, Rowe_ and _Pope_ have
+been treated with the utmost Scurrility.
+
+These Men of Eminence sitting easy with a load of Calumny, is a
+sufficient Consolation to Inferiors under the most despicable Usage,
+and there is this satisfactory Reflection, that perhaps the most
+perfect Work that ever was compos'd, if not so entirely correct, but
+there may be some room for Criticism by a Man of consummate Learning;
+for there is nothing more common than to find a Man, (if not wholly
+blind) over opiniated in respect to his own Performances, and too
+exact in a Scrutiny into the Writings of others.
+
+The ill Nature attending Criticism I take to be greater now than in
+any Age past; a Man's Defects in Writing shall not only be expos'd,
+but all the personal Infamy heap'd upon him that is possible; his
+Descent and Education shall be scandaliz'd, (as if a fine Performance
+was the worse for the Author's Parentage) his good Name villified, a
+History of the Transactions of his whole Life, and oftentimes a great
+deal more, shall be written, as if the were a Candidate setting up in
+a Burough for Member of Parliament, not an airy[?] or loose Action
+shall be omitted, and neither the Sacred Gown, nor the greatest
+Dignity shall be exempted; but there is this Consideration which sways
+the sensible part of Mankind, _viz._ a Man of Excellency in Writing
+his being generally a Person of more Vivacity than the common Herd,
+and consequently the more extraordinary Actions in him are allowable;
+yet, nevertheless, I think it consistent with Prudence for an Author,
+when he has the good fortune to compose a Piece, which he's assur'd
+will occasion Envy and Criticism, to write his own Life at the same
+Time with it, tho' it be a little extravagant and the method is
+unusual, to prevent an ill-natur'd doing thereof by the Hand of
+another Person.
+
+According to the old Maxim, _Get a Reputation, and lye a Bed,_ not to
+mention how many lye a Bed before they can attain it, according to the
+humorous Turn of the late ingenious Mr. _Farqubar_; but there's at
+this Time a greater necessity for a Man to be wakeful, when he has
+acquir'd a Reputation, than at any Time before; he'll find abundantly
+more difficulty attend the Securing than the Attaining of the greatest
+Reputation; he'll meet with Envy from every Quarter; Malice will
+pursue him in all his undertakings, and if he makes any manner of
+Defence, he cannot commence it too soon, tho' it is not always
+prudential to shew an open Resentment, even to the utmost ill
+Treatment.
+
+If a Man be so considerable as to be thought worthy of Criticism, a
+luducrous Reprimand is always preferable to a serious Answer;
+returning Scurrility with Comic-Satyr will gaul an ill-natur'd
+Adversary beyond any Treatment whatsoever; his Spleen will encrease
+equal to any Poison, his Rage keep within no Bounds, and at length his
+Passion will not only destroy his own Performance, but himself
+likewise: And this I take to be natural in our modern Criticks.
+
+The Business of these Gentlemen is to set the ignorant Part of Mankind
+right, In correcting the Errors of pretending Authors, and exposing of
+Impositions, whereby who has Learning and Merit, and who has not, may
+be so apparent, that the World may not misplace their Favour; but
+unless they do it with more Impartiality, Temper and Candour than of
+late, they may, with equal prospect of Success, endeavour to turn the
+current of the Thames, as to pervert the Humour of this good-natur'd
+Town.
+
+I presume to present them with these two Verses:
+
+  _The learned Criticks learn not to be Civil,
+  In Spite and Malice personate the Devil._
+
+Having now dispatch'd the two first Subjects of my Essay _(viz.)_ The
+Usefulness of Writing, and Criticism, I come to my last Head, the
+Qualification of Authors.
+
+I am not of the Opinion of a great many Persons in the World, that a
+Poet is entirely born such, and that Poetry is a particular Gift of
+Heaven, not but I confess there is a great deal in natural Genius,
+which I shall mention hereafter:
+
+It is consistent with my Reason, that any Man having a share of
+Learning, and acquainted with the Methods of Writing, may by an
+assiduous Application, not only write good Poetry, but make a
+tollerable Figure in any sort of Writings whatsoever; and herein I
+could give numerous Instances of Authors who have written all manner
+of Ways with success. Neither can I acquiesce in the common Notion,
+that the Person who begins most early in Poetry always arrives to the
+greatest Perfection; for, in my Opinion, it is a Matter of no great
+difficulty, for a Person of any Age, before his Vivacity is too much
+abated, and Fire exhausted, to commence a Poet; the great Mr. _Dryden_
+not beginning to Write 'till he was above the Age of 30; and I doubt
+not but a great many Persons have lost themselves for want of putting
+their Genius's to the Trial, and making particular Writings their
+particular Studies.
+
+Their is no Practice more frequent than for an Author to misapply his
+Genius; and there is nothing more common than for a Man, after
+numerous Trials in almost all sorts of Authorship, to make that his
+favourite Writing which he is least capable of performing; and too
+frequently Authors use their Genius's as Parents do their Children,
+place them to such Businesses as make the most considerable Figure in
+the World, without consulting their Qualifications.
+
+There are many other Faults equal to these, as where Authors, through
+overmuch Timerity, or too great Opinion of their own Performances,
+permit their Writings to pass with egregious Errors; and I take it to
+be equally pernicious for a Man to be too diffident of his own
+Performances, as it is to be presuming: There are likewise some
+Gentlemen, who (by a lazy Disposition, or through over much Haste, an
+impatience in dispatch to gain an early Reputation) commit Blunders
+almost to their immediate Ruin; but many of these Errors are commonly
+excus'd in an Author by a condescending Printer, who is oblig'd to
+take the Errata upon himself.
+
+In Prose a slight Examination of a Performance may suffice, but in
+Poetry it cannot be too often repeated; and in this way of Writing,
+haste is attended with a fatal Consequence. To compose your Lines in
+perfect Harmony, of easy flowing Numbers, fine Flights and Similies,
+and at the same Time retain a strong Sense, which make Poetry
+substantially Beautiful, is a Work of Time, and requires the most
+sedate Perusals: And though some Persons think, giving Poetry the
+Character of easy Lines to be a Disgrace, it is rightly considered the
+greatest Reputation and Honour they can do it; the utmost Difficulty
+attending this easy Writing, and there are very few Persons that can
+ever attain it.
+
+But to leave these general Observations, I proceed to my Point in
+Hand, the Qualification of Authors; Though I shall first take Notice,
+that the Business of every Author is to please and inform his Readers;
+but how difficult it is to please, through the prevalence of Parties,
+Envy and Prejudice needs no Illustration, and some Persons in the
+World are so very perverse and obstinate, that they will not be
+inform'd by a Person they entertain no good Opinion of. For writing
+Prose a Man ought to have a tollerable Foundation of Learning, at
+least to be Master of the Latin Tongue, to be a good Historian, and to
+have a perfect Knowledge of the World; and besides these
+Qualifications, in Poetry as I have before observ'd, a Writer should
+be Master of the most refin'd and beautiful Language, surprizing
+Turns, fine adapted Similes, a sublimity of Thought, and to be a
+Person of universal Learning: Though I have often observ'd, both in
+Prose and Verse, that some Persons of strong Genius, well acquainted
+with the World, and but of little Learning, have made a better Figure
+in some kinds of Writings, than Persons of the most consummate
+Literature, not bless'd with natural Genius, and a Knowledge of
+Mankind.
+
+The preference of Genius to Learning, is sufficiently Demonstrated in
+the Writings of the Author of the _True born English Man_; (a Poem
+that has Sold beyond the best Performance of any Ancient or Modern
+Poet of the greatest Excellency, and perhaps beyond any Poetry ever
+Printed in the _English_ Language) This Author is Characteriz'd as a
+Person of little Learning, but of prodigious Natural Parts; and the
+immortal _Shakespear_ had but a small share of Literature: It is
+likewise worthy Observation, that some of our most entertaining
+Comedies, Novels and Romances have been Written by the fair Sex, who
+cannot be suppos'd to have Learning in any Degree equal to Gentlemen
+of a University Education. And in _North Britain_ where Literature
+shines amongst the Persons of middle Station, an Ounce of Natural
+Parts, (speaking in a common way of Comparison) is Esteem'd of greater
+Value, than a Pound of Learning.
+
+A Person of Learning without Genius and Knowledge of the World, is
+like an _Architect's_ Assistant, whose only Business is to Draw the
+Draught or Model of a Pile of Building; he's at a loss in the
+Materials necessary for compleating the Structure, tho' he can Judge
+of its Beauty when Perfected; and may be compared to a Man that has
+the theory in any Art or Science, but wants the Practice.
+
+And a meer Scholar is the most unacceptable Companion upon Earth: He
+is Rude in his Manners, Unpolish'd in his Literature, and generally
+Ill-Natur'd to the last Degree; he's Company for a very few Persons,
+and Pleasing to None; his Pride exalts him in Self-Opinion beyond all
+Mankind: And some of the sucking Tribe of _Levi_, think the Gown and
+Cassock alone, Merit a Respect due to the greatest Personages, and
+that the broad Hat with the Rose should be Ador'd, tho' it covers a
+thick and brainless Skull.
+
+But these are a few only; there are great Numbers of the Clergy who
+deserve the utmost Respect, and are justly paid more than they desire;
+and no Person can have a greater Regard for that sacred Body than my
+self, as I was not only intended for a Clergyman, but have several
+Relations now in being of that venerable Order; Tho' I am oblig'd to
+take Notice, that the Authors of the Gown in general, treat the World
+with greater Insolence and Incharity, than any Lay-Persons whatsoever.
+
+There's nothing more frequent, than to find the Writings of many of
+our Modern Divines, not only Stiff and Harsh, but full of Rancour, and
+to find an easy Propensity and Complaisance in the Writings of the
+Laity; a Gentleman without the Gown commonly Writes with a genteel
+Respect to the World, abundance of good Temper and a condescension
+Endearing; when a brawny Priest, shall shew a great deal of
+Ill-nature, give indecent Reflections, and affrontive Language, and
+oftentimes be Dogmatical in all his Performances.
+
+Whether this be owing more to Pride, than a want of an Easy, Free, and
+polite Conversation, I do not take upon me to Determine; but I believe
+it must be generally Imputed to the Former, as it cannot be suppos'd,
+that either of the Universities, are at any time without a polite
+Converse; tho' I take leave to observe, that there is a great deal of
+difference between a finish'd _Oxonian_, and a sprightly Senator.
+
+This is Demonstrated in the Speeches from Time to Time, made in the
+Senate and the Synod; the Stile and Composure of the one, is no way to
+be compar'd to the other, tho' the Sense be equally strong; there's an
+Elegancy and Beauty of Expression in the Former, not to be met with in
+the Latter, Oratory no where to be exceeded, and an Affluence of Words
+not to be met with in any other Speeches whatsoever; and I believe it
+must be generally allow'd that there is a very great difference in the
+common Conversation, (particularly in point of Manners) of the Members
+of those August Assemblies.
+
+A good Conversation is the greatest Advantage an Author can possibly
+Enjoy, by a variety of Converse, a Man is furnish'd with a perpetual
+Variety of Hints, and may acquire a greater Knowledge on some Subjects
+in the space of a few Minutes, than he can attain by Study, in a
+Succession of Weeks, (tho' I must allow Study to be the only
+Foundation for Writing) 'twas owing to a good Conversation, that those
+Entertaining Papers the _Tatlers_ were publish'd by Sir _Richard
+Steel_, the _Examiner_ carried on by Mr. _Oldsworth_; and 'tis
+impossible a perfect good Comedy can be written by any Person, without
+a constant Resort to the best Conversation, whereby alone a Man will
+be Master of the best Thoughts.
+
+In short, Conversation is the Aliment of the Genius, the Life of all
+airy Performances, as Learning is the Soul; the various Humours of
+Mankind, upon all Occasions, afford the most agreeable Subjects for
+all sorts of Writings, and I look upon any Performance, tho' done by a
+Person celebrated for Writing, without the use of Conversation, in
+some measure incompleat.
+
+If an Author be enclin'd to write for Reformation of Manners, let him
+repair to St. _Pauls_ or _Westminster-Abbey_, and observe the indecent
+Behaviour of multitudes of Persons, who make those Sacred Places
+Assignations of Vice; if you are enclin'd to lash the Follies and
+Vanities of the fair Sex, retire to the Tea Table and the Theatre; if
+your Business be to compose a Sermon, or you are engag'd in
+Theological Studies, resort to _Child's_ Coffee-House in St. _Paul's_
+Church-Yard; if you are desirous to depaint the Cheat and the
+Trickster, I recommend ye to the _Royal-Exchange_ and the Court End of
+the Town; and if you would write a Poem in imitation of _Rochester_,
+you need only go to the Hundreds of _Drury_, and you'll be
+sufficiently furnish'd with laudable Themes.
+
+But Converse at home falls infinitely short of Conversation abroad,
+and the Advantages attending Travelling are so very great, that they
+are not to be express'd; this finishes Education in the most effectual
+manner, and enables a Man to speak and write on all Occasions with a
+Grace and Perfection, no other way to be attain'd. The Travels of a
+young Gentleman have not only the effect of transplation of
+Vegetables, in respect to the encrease of Stature, but also the
+Consequence of the most beautiful Pruning. How much the Gentlemen of
+_Scotland_ owe their Capacities to Travelling, is very obvious, there
+being no Person of Quality in that Kingdom but expends the greatest
+part of his Fortune in other Countries, to reap the Benefit of it in
+personal Accomplishments; and a greater Commendation than this to the
+_Scots_ is, the bestowing the best of Literature upon all manner of
+Youth educated amongst them.
+
+Whilst the Men of Quality here very often neglect giving their
+Children the common and necessary Learning, and too frequently entrust
+their Education with lazy, ignorant, and incogitant Tutors, not to
+mention the Supineness of Schoolmasters in general throughout
+_England_; the _North-Britains_ labour in this Particular
+indefatigably, as they are very sensible that Learning is the greatest
+Honour of their Country, and the ancient _Britains_ come so near the
+_Scots_, that amongst the common Persons, in some Parts of _Wales_,
+you may meet with a Ploughman that speaks tollerable Latin, and a
+Mason, like the famous _Ben Johnson_, with his _Horace_ and a Trowel.
+
+The want of a generous Education is an irretrieveable Misfortune, and
+the Negligence of an Inspector of the Literature of Youth ought to be
+unpardonable; how many Persons of Distinction have curs'd their aged
+Parents for not bestowing on them a liberal Education? And how many of
+the Commonalty have regretted the mispending of the precious Time of
+Youth? A Man arriv'd to Maturity has the Mortification of observing an
+Inferior in Circumstances superior in Literature, and wants the
+Satisfaction of giving a tollerable Reason for any Thing he says or
+does, or in any respect to judge of the Excellency of others; and, in
+my Opinion, a generous Education, with a bare Subsistence only, is to
+be preferr'd to the largest Patrimony, and a want of Learning.
+
+Without Education it is impossible to Write or Read any Thing
+distinctly; without a frequent turning of the Dictionary, no Person
+can be compleat in the _English_ Language, neither can he give Words
+their proper Accent and Pronunciation, or be any ways Master of
+Elocution; and a Man without Learning, though he appears tollerable in
+Conversation, (which I have known some Persons do by a constant
+enjoyment of good Company, and a strength of Memory) is like an
+_Empirick_, that takes Things upon trust: And whenever he comes to
+exercise the Pen, that the Subject is uncommon, and Study is requir'd,
+you'll find him oftentimes not capable of writing one single Line of
+Senfe, and scarcely one Word of _English_. And, on the other Hand, I
+have known some Persons who could talk Latin very fluently, who have
+us'd Phrases and Sentences perpetually in that Language, in
+Conversation, vulgar and deficient in the Mother-Tongue, and who have
+written most egregious Nonsense; from whence it is evident, that
+Writing is the only Test of Literature.
+
+I have a little deviated from my Subject, in pursuing the Rules and
+Advantages of Education, which I take to be of that universal good
+Tendency, that they are acceptable in any Performance whatsoever: I
+shall offer nothing farther, but conclude this Essay with the
+following Particulars; that besides the Qualifications already
+mention'd, it is as necessary for a fine Writer to be endued with
+Modesty as for a beautiful Lady; that good Sense is of equal
+Consequence to an Author, as a good Soil for the Culture of the most
+noble Plants; that a Person writing a great deal on various Subjects,
+should be as cautious in owning all his Performances, as in revealing
+the Secrets of his most intimate Friend; and in respect to those
+Gentlemen, who have made no scruple to prostitute their Names, the
+following Similie may be judg'd well adapted:
+
+  _As Musick soft, by constant use is forc'd
+  Grows harsh, and cloys, becomes at length the worst,
+  The Harmony amidst Confusion lost:
+  So finest Pens, employ'd in Writing still
+  Lose Strength and Beauty as the Folio's fill._
+
+
+_FINIS._
+
+
+
+
+William Andrews Clark Memorial Library: University of California
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_General Editors_
+
+  H. Richard Archer
+    William Andrews Clark Memorial Library
+
+  R.C. Boys
+    University of Michigan
+
+  E.N. Hooker
+    University of California, Los Angeles
+
+  John Loftis
+    University of California, Los Angeles
+
+
+The society exists to make available inexpensive reprints (usually
+facsimile reproductions) of rare seventeenth and eighteenth century
+works.
+
+The editorial policy of the Society continues unchanged. As in the
+past, the editors welcome suggestions concerning publications.
+
+All correspondence concerning subscriptions in the United States and
+Canada should be addressed to the William Andrews Clark Memorial
+Library, 2205 West Adams Blvd., Los Angeles 18, California.
+Correspondence concerning editorial matters may be addressed to any of
+the general editors. Membership fee continues $2.50 per year. British
+and European subscribers should address B.H. Blackwell, Broad Street,
+Oxford, England.
+
+Publications for the fifth year [1950-1951]
+
+_(At least six items, most of them from the following list, will be
+reprinted)_
+
+FRANCES REYNOLDS (?): _An Enquiry Concerning the Principles of Taste,
+and of the Origin of Our Ideas of Beauty, &c._ (1785). Introduction by
+James L. Clifford.
+
+THOMAS BAKER: _The Fine Lady's Airs_ (1709). Introduction by John
+Harrington Smith.
+
+DANIEL DEFOE: _Vindication of the Press_ (1718). Introduction by Otho
+Clinton Williams.
+
+JOHN EVELYN: _An Apologie for the Royal Party_ (1659); _A Panegyric to
+Charles the Second_ (1661). Introduction by Geoffrey Keynes.
+
+CHARLES MACKLIN: _Man of the World_ (1781). Introduction by Dougald
+MacMillan.
+
+_Prefaces to Fiction_. Selected and with an Introduction by Benjamin
+Boyce.
+
+THOMAS SPRAT: _Poems._
+
+SIR WILLIAM PETTY: _The Advice of W.P. to Mr. Samuel Hartlib for the
+Advancement of some particular Parts of Learning_ (1648).
+
+THOMAS GRAY: _An Elegy Wrote in a Country Church Yard_ (1751).
+(Facsimile of first edition and of portions of Gray's manuscripts of
+the poem).
+
+
+To The Augustan Reprint Society
+_William Andrews Clark Memorial Library
+2205 West Adams Boulevard
+Los Angeles 18, California_
+
+_Subscriber's Name and Address_
+________________________________
+________________________________
+________________________________
+
+_As_ MEMBERSHIP FEE _I enclose for the years marked:_
+The current year.......................... $2.50 [ ]
+The current & the 4th year................  5.00 [ ]
+The current, 3rd & 4th year...............  7.50 [ ]
+The current, 2nd, 3rd & 4th year.......... 10.00 [ ]
+The current, 1st, 2nd, 3rd & 4th year..... 11.50 [ ]
+_(Publications no. 3 & 4 are out of print)_
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+NOTE: _All income of the Society is devoted to defraying cost of
+printing and mailing._
+
+
+
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+
+First Year (1946-1947)
+
+ 1. Richard Blackmore's _Essay upon Wit_ (1716), and Addison's
+    _Freeholder_ No. 45 (1716).
+
+ 2. Samuel Cobb's _Of Poetry_ and _Discourse on Criticism_ (1707).
+
+ 3. _Letter to A.H. Esq.; concerning the Stage_ (1698), and Richard
+    Willis' _Occasional Paper No. IX_ (1698). (OUT OF PRINT)
+
+ 4. _Essay on Wit_ (1748), together with Characters by Flecknoe, and
+    Joseph Warton's _Adventurer_ Nos. 127 and 133. (OUT OF PRINT)
+
+ 5. Samuel Wesley's _Epistle to a Friend Concerning Poetry_ (1700) and
+    _Essay on Heroic Poetry_ (1693).
+
+ 6. _Representation of the Impiety and Immorality of the Stage_ (1704)
+    and _Some Thoughts Concerning the Stage_ (1704).
+
+
+Second Year (1947-1948)
+
+ 7. John Gay's _The Present State of Wit_ (1711); and a section on Wit
+    from _The English Theophrastus_ (1702).
+
+ 8. Rapin's _De Carmine Pastorali_, translated by Creech (1684).
+
+ 9. T. Hanmer's (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+
+10. Corbyn Morris' _Essay towards Fixing the True Standards of Wit,
+    etc._ (1744).
+
+11. Thomas Purney's _Discourse on the Pastoral_ (1717).
+
+12. Essays on the Stage, selected, with an Introduction by Joseph Wood
+    Krutch.
+
+
+Third Year (1948-1949)
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720).
+
+14. Edward Moore's _The Gamester_ (1753).
+
+15. John Oldmixon's _Reflections on Dr. Swift's Letter to Barley_
+    (1712); and Arthur Mainwaring's _The British Academy_ (1712).
+
+16. Nevil Payne's _Fatal Jealousy_ (1673).
+
+17. Nicholas Rowe's _Some Account of the Life of Mr. William
+    Shakespear_ (1709).
+
+18. Aaron Hilt's Preface to _The Creation_; and Thomas Brereton's
+    Preface to _Esther_.
+
+
+Fourth Year (1949-1950)
+
+19. Susanna Centlivre's _The Busie Body_ (1709).
+
+20. Lewis Theobald's _Preface to The Works of Shakespeare_ (1734).
+
+21. _Critical Remarks on Sir Charles Gradison, Clarissa, and Pamela_
+    (1754).
+
+22. Samuel Johnson's _The Vanity of Human Wishes_ (1749) and Two
+    _Rambler_ papers (1750).
+
+23. John Dryden's _His Majesties Declaration Defended_ (1681).
+
+24. Pierre Nicole's _An Essay on True and Apparent Beauty in Which
+    from Settled Principles is Rendered the Grounds for Choosing and
+Rejecting Epigrams_, translated by J.V. Cunningham.
+
+
+
+
+
+End of Project Gutenberg's A Vindication of the Press, by Daniel Defoe
+
+*** END OF THIS PROJECT GUTENBERG EBOOK A VINDICATION OF THE PRESS ***
+
+***** This file should be named 14084-8.txt or 14084-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.net/1/4/0/8/14084/
+
+Produced by David Starner, Keith M. Eckrich, and the Project Gutenberg
+Online Distributed Proofreading Team
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

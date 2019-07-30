@@ -1,0 +1,1887 @@
+The Project Gutenberg EBook of Atalantis Major, by Daniel Defoe
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Atalantis Major
+
+Author: Daniel Defoe
+
+Release Date: October 17, 2008 [EBook #26940]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ATALANTIS MAJOR ***
+
+
+
+
+Produced by David Starner and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+[DANIEL DEFOE]
+
+Atalantis Major
+
+(1711)
+
+
+
+_Introduction by_
+
+JOHN J. PERRY
+
+
+
+
+PUBLICATION NUMBER 198
+WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+UNIVERSITY OF CALIFORNIA, LOS ANGELES
+1979
+
+
+GENERAL EDITOR
+    David Stuart Rodes, _University of California, Los Angeles_
+
+EDITORS
+    Charles L. Batten, _University of California, Los Angeles_
+    George Robert Guffey, _University of California, Los Angeles_
+    Maximillian E. Novak, _University of California, Los Angeles_
+    Thomas Wright, _William Andrews Clark Memorial Library_
+
+ADVISORY EDITORS
+    Ralph Cohen, _University of Virginia_
+    William E. Conway, _William Andrews Clark Memorial Library_
+    Vinton A. Dearing, _University of California, Los Angeles_
+    Arthur Friedman, _University of Chicago_
+    Louis A. Landa, _Princeton University_
+    Earl Miner, _Princeton University_
+    Samuel H. Monk, _University of Minnesota_
+    James Sutherland, _University College, London_
+    Robert Vosper, _William Andrews Clark Memorial Library_
+
+CORRESPONDING SECRETARY
+    Beverly J. Onley, _William Andrews Clark Memorial Library_
+
+EDITORIAL ASSISTANT
+    Frances M. Reed, _University of California, Los Angeles_
+
+
+
+
+INTRODUCTION
+
+
+_Atalantis Major_ is a thinly veiled allegory describing the November
+1710 election of the representative Scottish peers. The circumstances
+which surrounded this election were produced by the outcome of the
+previous month's General Election--a landslide for the Tories--and, to
+understand these circumstances, the impact of that Tory victory must be
+seen within the context of the political events of 1710.
+
+By early in 1710 it had become obvious that the Whig Ministry of Sidney
+Godolphin was unable or unwilling to negotiate an end to the long,
+expensive, and consequently, unpopular war with France. The quarrel
+between Queen Anne and her confidante, the Duchess of Marlborough,
+smouldered until, on 6 April 1710, the breach between them became
+final. The Queen's confidence in the Duke of Marlborough began to erode
+as early as May 1709 when he sought to be appointed "Captain-General
+for Life." Godolphin's decision to impeach the popular Rev. Dr. Henry
+Sacheverell for preaching "a sermon which reasserted the doctrine of
+non-resistance to the will of the monarch" was ill-advised, for not
+only did it give the High-Church Tories a martyr, it also gave the
+Administration the appearance of being against the Church. In securing
+the impeachment of Sacheverell on 20 March 1710, the Whigs discovered
+that they had lost the support and the confidence of both the
+Parliament and the country.
+
+Dissention within and intrigue from without further hastened the fall
+of the Administration. Godolphin, a moderate, had, after the General
+Election of 1708, found himself allied with the "Junto" of five
+powerful Whig Lords--Wharton, Sommers, Halifax, Orford, and
+Sunderland--but it was, at best, an uneasy alliance. Throughout 1709
+and into the early months of 1710, personal jealousies drove the
+Godolphin-Marlborough interest farther and farther away from the Junto.
+Robert Harley and the Dukes of Somerset and Shrewsbury, in their
+determination to overthrow the Administration, exploited every chance
+to widen the rifts between Anne and her Ministers and between the two
+ministerial factions. Abigail Hill Masham, who soon became an agent of
+Harley, replaced the Duchess of Marlborough as Anne's confidante.
+
+When the Ministry fell, it fell like a house of cards. On 14 April 1710
+Shrewsbury was made Lord Chamberlain over the unavailing protests of
+Godolphin. Two months later, at the instigation of Somerset, the Queen
+replaced Sunderland with the Tory Lord Dartmouth as Secretary of State.
+Finally, on 8 August, Godolphin was ordered to break the White Staff of
+his office and Harley was appointed Treasurer. One by one the remaining
+Junto Ministers were replaced by Tories. By September the work was
+complete. The Duke of Marlborough alone remained, in command of the
+army, but this was only to be until the new Ministry could negotiate a
+peace and his services would no longer be required.
+
+It had been Harley's intention to govern by means of a "moderate"
+Administration, a "Queen's Ministery above party," but he had not
+reckoned on the outcome of the General Election called in October. "On
+the day Godolphin fell, Harley expounded his 'moderate' programme in a
+letter to the Duke of Newcastle: 'The Queen is assured you will approve
+her proceedings, which are directed to the sole aim of making an
+honourable and safe peace, securing her allies, reserving the liberty
+and property of the subject, and the indulgence to Dissenters in
+particular, and to perpetuate this by really securing the succession of
+the House of Hanover.'"[1]
+
+Alone, either the antagonism to the war or the intensity of feeling for
+the High-Church cause which the Sacheverell affair engendered, would
+have been sufficient to sweep the Whigs from power. Together, and
+combined as they were with the prestige of the Queen's public support
+of Harley and the newly appointed Tory Ministers, these issues were
+irresistible. Harley found himself with an "immoderate" House of
+Commons. The Tories held 320 seats, the Whigs only 150, and there were
+40 seats whose votes were "doubtful."[2] Many of the new
+Parliamentarians were High-Church zealots, and most were anxious to
+turn the nation away from the policies of the Whig Administration of
+Godolphin.
+
+The House of Lords, however, remained a bastion of Whig strength. As an
+hereditary body the House of Lords was simply not subject to the same
+opportunity for change as the elected House of Commons. Consequently,
+in 1710, as a result of the Glorious Revolution, the long reign of
+William III, and the Godolphin Ministry, the majority of the members of
+the House of Lords were of Whig or Revolution Settlement policies.
+Therein lay Harley's problem in late October of 1710: to obtain a Lords
+to match the Commons he had been given.
+
+Any early eighteenth-century Ministry--Whig or Tory--could count on
+having the support of those peers whose poverty made them dependent on
+governmental subsidies, but this number would not have given Harley
+even a bare majority in the strongly Whig House of Lords. And there
+Harley needed at least enough strength to ensure success for some of
+the measures designed to satisfy the demands of the newly Tory House of
+Commons, particularly if his Ministry was to be able to negotiate a
+satisfactory treaty of peace with France.
+
+To obtain a Tory majority in the House of Lords commensurate with the
+one in Commons, Harley could have seen to the creation of a sufficient
+number of new peerages; but this would have alienated too many factions
+and the recently completed Union with Scotland (1707) offered what
+appeared to be a far simpler expedient. The Act of Union provided for
+the election of sixteen Scottish peers who would represent all of the
+Scottish nobility in the House of Lords.[3] If he could ensure that all
+sixteen of these peers were Tory, Harley would be certain of a large
+block of loyal votes in the upper house, or, at worst, he would have to
+arrange for the creation of only a few new peers to neutralize the
+Whigs' strength. To John Campbell, the second Duke of Argyll, Harley
+assigned the task of orchestrating a Tory sweep in this election.
+
+The Duke of Argyll sat in the House of Lords as the Earl of Greenwich
+(an English title), not as one of the elected peers, and, as such, he
+was not elegible to stand as a candidate or to vote in this election.
+Argyll had supported the Whig Junto and held the rank of Lieutenant
+General under Marlborough in France, but in 1710 (seeing the direction
+the political tide was taking) he abandoned his support of Godolphin's
+Ministry. So that, "by the time the [Sacheverell] Trial was finished,
+it was known that the great chief of the Campbells and of the Scottish
+Whigs had gone into opposition to the Government [of Godolphin] in
+league with Harley, although he voted for the Doctor's condemnation...."[4]
+
+Argyll and the sixteen representative peers (if they were all Tories),
+together with the votes of those peers who were dependant upon
+Government subsidies would give the new Ministry of Harley enough votes
+in the upper house for almost any eventuality--even the impeachment of
+Marlborough. It is possible to speculate that this was the
+plum--command of the British armies in Europe--that induced Argyll's
+change from Whig to Tory in 1710. Argyll's jealousy and resentment of
+his commander had been a well known bit of gossip for some time, and it
+is very possible that Argyll saw a new Government as his chance to
+steal a march on Marlborough. Although Harley's Ministry did give the
+Order of the Garter to Argyll on 20 December 1710, he was never
+promoted over Marlborough, but that was not due to any lack of success
+in assuring a Tory victory in the election of the peers. Argyll's
+heavy-handed management of that election is the subject of Defoe's
+_Atalantis Major_.
+
+By birth and education Daniel Defoe was a member of the mercantile
+middle class. He was a Dissenter and his political and economic
+sympathies generally coincided with those of the moderate Whigs. A
+limited monarchy, the destruction of France's commercial empire,
+liberty of conscience for Dissenters and Nonconformists, and a
+Protestant (that is, Hanover) Succession were the imperatives which lay
+behind much of his political and economic thinking and writing. From as
+early as 1694 he had served William III as a pamphleteer-propagandist
+for the vigorous prosecution of the war with France. After his
+five-month imprisonment in 1703 for writing _The Shortest Way with
+Dissenters_, Defoe was employed as an agent and pamphleteer of the
+Government. First, in the service of Robert Harley, Godolphin's
+Secretary of State during the early moderate years of the Godolphin
+Administration (1704-08), and thereafter working for Godolphin himself,
+Defoe's _Review_ preached the gospel of national unity above party
+faction. When Harley replaced Godolphin as Treasurer in 1710, Defoe
+returned to his service.
+
+Although it may appear from this that Defoe's pen was for hire by
+whichever party was in power, in point of fact, Defoe's political views
+were remarkably congruent with those of both Harley and Godolphin. All
+three were staunch supporters of England's commercial interests, the
+Hanoverian Succession, liberty of conscience for Dissenters and
+Nonconformists, and the terms of the Revolution Settlement. It must be
+remembered that Godolphin and Harley were both moderates, each trying
+to chart his course between the extremes of the parties. They, like
+Daniel Defoe, saw their loyalty being to England and to the Queen, not
+to a party. Like Defoe, they both discovered that politics often make
+strange bedfellows. Godolphin, faced with a large Whig majority in the
+House of Commons after the General Election of 1708, found that his
+fortunes were bound to those of the Junto. Harley, after the General
+Election of 1710, discovered the necessity of courting the High-Church
+Tories far more than he would have liked.
+
+Argyll's slate of Scottish peers for the November election included men
+who were even more extreme in their Toryism than the majority of
+High-Church English Tories. Most of the sixteen were High-Church, many
+had strong Catholic leanings; all of them were against increasing the
+religious liberties of the Scottish Presbyterians (and thus those of
+the English Dissenters and Nonconformists). Several of these peers had
+been openly professed Jacobites and all were, in some degree,
+sympathetic to France. To have men with such beliefs in Parliament
+meant, to Defoe, the chance that Marlborough's victories in France
+would be negotiated away, the loss of what the Toleration Act of 1689
+had gained, and finally, the spector of the Pretender on the throne. In
+short, such men could mean the loss of all that the Revolution and the
+war with France had won. Yet, in the late autumn of 1710, Defoe found
+himself in Edinburgh, the agent and propagandist of the man on whose
+behalf Argyll had engineered the election of men of such politics.
+
+Defoe's mission in Edinburgh that autumn was to allay the fears of the
+Presbyterian clergy and Whig merchants about the new Tory Ministry. His
+message to them was, in Professor Sutherland's words, that
+
+    What the country needed ... was steady, moderate men, whether they
+    called themselves Whig or Tory, men who would uphold the Protestant
+    succession and avoid extreme measures; and that on the whole was
+    what it had now got [appearances to the contrary notwithstanding].
+    The Ministry was not going to give way to the clamours of the High
+    Tory rank and file; and the Queen would certainly not countenance
+    any form of persecution.[5]
+
+In short, Defoe was charged with convincing his Scottish friends and
+associates (and, by means of the _Review_, the nation at large) the
+opposite of all that Argyll's actions and words bespoke of Harley's
+intentions.
+
+Defoe wrote Harley from Edinburgh on 18 November (eight days after the
+election of the peers) to voice his dismay at the tactics that had been
+used by Argyll. By them his own mission on Harley's behalf had been
+impaired:
+
+    I hint this Sir to Confirm my Censure of the Conduct aforesaid as
+    Imprudent and as what has rendred [sic] the quieting these people,
+    which was Easy before, Very Difficult now.[6]
+
+Further, he suggests that Harley's heretofore moderate allies, the
+Squadrone, have been pushed by Argyll into league with the old Court
+Party that had supported the Godolphin Ministry. This letter also
+contains a brief summary of the main events which were to form the plot
+of _Atalantis Major_, but it does not attack Argyll with the same
+bitterness that the longer work does. Defoe writes:
+
+    In the late Election, the Conduct of the D of 60 [Argyll], the E of
+    163 [Islay], and the Earle of 194 [Mar] is Very Perticular....
+    [They] Declared Openly [that] the Quallification of those to be
+    Chosen ... [was] their agreeing to Impeach 140 [Godolphin] and 193
+    [Marlborough], Nor did the Impudence End there, but On all
+    Occasions to Say in So Many Words They had her Majties Orders to
+    Choose Such and Such and it must be don: This was So abandonning
+    all Reserves, that it has disgusted the Generallity, and has Put
+    them Upon Measures of Uniteing, which may shut the door upon all
+    future Measures, what Ever the Occasion may be....
+
+    Now they have Returnd their Number, it were to be Wished they Could
+    have Avoided a few who are Declar'd profest Jacobites, Such as 197
+    [Marischal], Kilsyth, Blantire, Hume &c. who are known to aim in
+    all they do at the Pretender, and whose being Now Chosen has many
+    ill Effects here What Ever may be as to Over-ruleing them in
+    England, I mean as to Encreasing the Insolence of Jacobitisme in
+    the North, where its Strength is far from being Contemptible.[7]
+
+What Defoe hoped to obtain from Harley by this and succeeding letters
+on this subject is not clear. He may have been seeking Harley's public
+repudiation of the Jacobite peers, or at least some private assurances
+that what Argyll had told the peers did not represent the new
+Ministry's policies. Whatever it was he sought, by late December it was
+obviously not forthcoming from Harley or his Ministry. And on 20
+December Argyll was made a Knight of the Garter. It was during this
+December that the bulk of _Atalantis Major_ was written, most probably
+between 30 November and 26 December. On 26 December 1710 Defoe wrote
+Harley of the existence of "Two Vile Ill Natur'd Pamphlets ... both of
+which have fallen into My hands in Manuscript, and I think I have
+prevented both their Printing. The first Was advertised in the Gazette
+here and Called the Scots atalantis[8] ... The Other Pamphlet is called
+_Atalantis Major_." The letter concludes with a short description of
+the work, a disavowal of any knowledge of its authorship, and the hope
+that he can suppress its publication:
+
+    The Other Pamphlet is called _Atalantis Major_; and is a Bitter
+    Invective against the D of Argyle, the E of Mar, and the Election
+    of the Peers. It is Certainly Written by Some English man, and I
+    have Some Guess at the Man, but dare not be positive. I have
+    hitherto kept this also from the Press, and believe it will be
+    Impossible for them to get it printed here after the Measures I
+    have Taken. The Party I Got it of pretends the Coppy Came from
+    England, But I am of Another Opinion. I shall Trouble you no
+    farther about it because if possible I can get it Coppyed, I will
+    Transmit the Coppy by Next post, for I have the Originall in My
+    hand. They Expect I shall Encourage and assist them in the
+    Mannageing it, and Till I can Take a Coppy I shall not Undeciev
+    them.[9]
+
+There is no evidence to suggest that Harley doubted Defoe's disclaimer
+or that Defoe sent the copy to Harley.
+
+Since Defoe was back in London on 13 February 1711, _Atalantis Major_
+must have been seen through the press sometime between 26 December and
+the end of January, not, as Moore lists it, "before 26 December
+1710."[10] Internal evidence suggests an even narrower range of
+probable dates of publication. The last four pages of _Atalantis Major_
+deal with the Duke of Argyll being given command of the English forces
+in Spain and the singular lack of grace with which he undertook this
+command. Since Argyll was not given command of the Peninsula campaign
+until 11 January 1711, it could not be until after this date that the
+manuscript could have been finished and printed.
+
+The work bears few signs of being hastily printed. There are only nine
+typographical errors,[11] and four of these are catchwords. There is no
+evidence to suggest that there was more than one printing of the
+pamphlet,[12] and the use of several Scotticisms[13] seems to offer
+support for the contention that the pamphlet was intended for a
+primarily Scottish audience.
+
+William Lee was the first to ascribe the work to Defoe, and this
+ascription has been accepted by both Dottin and Moore.[14] The evidence
+for assigning this work to Defoe seems to rest on the two letters to
+Harley quoted above. Another proof of Defoe's authorship of _Atalantis
+Major_ is to be found in the remark it contains, "That the Southern
+Part of the Island [that is, England] was the most remarkable of any,
+as to the Policy of their Government, and the Character of the People;
+and excepting _Englishmen_ and _Polanders_, there is not such another
+Nation in the World" (p. 12). In 1704 Defoe had written _The Dyet of
+Poland_, a poem in which he had made a similar unflattering comparison
+between England and Poland. A far more substantial case for Defoe's
+authorship can be made from the existence of the anecdote of John
+White, Edinburgh's hangman, in both a letter to Harley (18 November
+1710) and the _Review_ (for 30 November 1710), as well as in _Atalantis
+Major_ (pp. 22-3).
+
+
+
+
+Key to Names and Characters in _Atalantis Major_
+
+
+In the thinly disguised allegory of _Atalantis Major_, _Atalantis_ is,
+of course, Britain. _Olreeky_, or _Old Reeky_, or simply _Reeky_, is
+still used as an affectionate local term for the city of Edinburgh,
+prone as it is to be enshrouded in mists and smoke in the early
+morning. _Tartary_ is France, and the French are referred to as either
+the _Tartarians_ or the _Barbarians_. Jacobites are also indicated by
+the name _Tartarians_, since the Pretender's cause was actively
+supported by Louis XIV. _Japan_ is Spain and _China_ stands for
+Holland. The characters who appear in _Atalantis Major_ are (in the
+order that they are mentioned):
+
+    _The Duke de Sanquarius_ (p. 14) is James Douglas, second Duke of
+    Queensberry and Duke of Dover (1662-1711);
+
+    _The Earl of Stairdale_ (p. 15) is John Dalrymple, second Earl of
+    Stair (1673-1747);
+
+    _The Earl of Crawlinfordsay_ (p. 16) is John Lindsay, nineteenth
+    Earl of Crawford (d. 1713);
+
+    _The Prince of Greeniccio of the ancient Blood of Argyllius_ (p.
+    17) is John Campbell, second Duke of Argyll, Baron Chatham and Earl
+    of Greenwich (1678-1742);
+
+    _The Earl of Marereskine_ (p. 18) is John Erskine, eleventh Earl of
+    Mar of the Erskine line (1675-1732);
+
+    _The Prince de Heymuthius_ (p. 18) is John Churchill, first Duke of
+    Marlborough and Baron Churchill of Aymouth (1650-1722);
+
+    _The Earl of Dolphinus_ (p. 18) is Sidney Godolphin (1645-1712);
+
+    _Bellcampo, Lord of the Isles_ (p. 19) is Archibald Campbell, first
+    and only Earl of Islay (pronounced "Isle-ah") and brother and heir
+    of the second Duke of Argyll (1682-1761);
+
+    _One of the Ministers_ (p. 22) is Thomas Miller of Kirkliston;
+
+    _John ----, his Majesty's Hangman_ (p. 22) is John White;
+
+    _Bradalbino_ (p. 24) is John Campbell, first Earl of Breadalbane
+    (1635-1716);
+
+    _Leslynus_ (p. 24) is David Leslie, third Earl of Leven
+    (1660-1728);
+
+    _One of the family of Boiilio_ (p. 24) is David Boyle, first Earl
+    of Glasgow (1666-1733);
+
+    _The Prince de Rosymonte_ (p. 34) is James Graham, fourth Marquis
+    and first Duke of Montrose (d. 1742).
+
+The fact that, in several cases, the names used by Defoe are developed
+from family names and not the title seems to offer support for the
+contention that _Atalantis Major_ was intended primarily for a Scottish
+audience. Further, Defoe's name for Marlborough--_Heymuthius_--comes
+from his one Scottish title, Baron Aymouth (now Eyemouth, a fishing
+town on the southeast coast of Scotland), and not from his better-known
+English title, the Duke of Marlborough.
+
+State University College
+Brockport, New York
+
+
+NOTES TO THE INTRODUCTION
+
+ 1. George Macaulay Trevelyan, _England Under Queen Anne_ (London:
+Longmans, Green and Co., 1948), III, 68.
+
+ 2. These are Trevelyan's figures (_op. cit._, 73). W. A. Speck (_Tory
+and Whig_ [London: Macmillan, 1970], p. 123) gives the Tories 332 seats
+and 181 seats to the Whigs in this election.
+
+ 3. In point of fact, Harley's concern for the loyalty of the
+representative peers is unique in the history of these elections. In
+subsequent Parliaments, the Scottish peers seldom, if ever, voted
+against the Government--even at the trial of Lord Lovat in 1745-6. For
+one thing, almost without exception, the representative peers were
+dependent on governmental subsidies and this dependence increased
+during the course of the eighteenth century (see J. H. Plumb, _The
+Growth of Political Stability in England_ [London: Penguin, 1973], p.
+180; and Geoffrey Holmes, _British Politics in the Age of Anne_
+[London: Macmillan, 1967], p. 393). The practice of electing a
+representative peerage for Scotland was discontinued after 1782 (see
+Trevelyan, _op. cit._, 235).
+
+ 4. Trevelyan, _op. cit._, 58.
+
+ 5. James R. Sutherland, _Defoe_ (London: Methuen, 1950), p. 179.
+
+ 6. _The Letters of Daniel Defoe_, ed. by George Harris Healey (Oxford:
+Clarendon Press, 1955), p. 296.
+
+ 7. _Ibid._, pp. 294-295.
+
+ 8. Healey reports that "in such issues as I have been able to find of
+the _Scots Postman, or the New Edinburgh Gazette_, there is no mention
+of the _Scots Atalantis_" (_Letters_, p. 306, n. 1). The title of this
+work and of Defoe's _Atalantis Major_ are derived from Mrs. Manley's
+_New Atalantis or Secret Memoirs and Manners of several Persons of
+Quality of both Sexes from the New Atalantis, an island in the
+Mediterranean_ (1709). The OED records that the word _atalantis_
+enjoyed a brief currency in the eighteenth century with the meaning, "a
+secret or scandalous history."
+
+ 9. _Letters_, p. 307.
+
+10. John Robert Moore, _A Checklist of the Writings of Daniel Defoe_
+(Bloomington: Indiana University Press, 1960), p. 82.
+
+11. Page 12, line 5: _do_ is omitted before _this_; page 16, line 24:
+_an_ for _on_; page 17, line 6: _Grandfathers_ for _Grandfather's_;
+page 19, the catch-word, _the_ for _this_; page 20, line 5: _run_ for
+_ran_; page 22, line 22: _of_ for _off_; page 28, the catch-word,
+_they_ for _the_; page 36, the catch-word, _Cha-_ for _Courage_; page
+37, the catch-word, _Lansd_ for _Lands_. In addition, there are several
+places where the printer uses eighteenth-century variant spellings such
+as _ballances_ (pp. 5, 8), _mannaged_ (p. 2), _quallifie_ (p. 8),
+_Soveraign_ (p. 41) and _steddy_ (p. 15). Eighteenth-century
+orthographic practice would have permitted such spellings. The word
+_entitled_, however, appears on page five as both _entituled_ and
+_intituled_.
+
+12. None of the various copies I have examined contains typographical
+differences--even in the case of the typographical errors.
+
+13. On page 38, line 25, the word _Big_ is used where _Large_ would
+have been the English usage; on page 42, line 3, the word _Bann'd_ is
+used for _Swore_ and defined in the text as an "Atalantic word"; on
+page 43, line 4, the word _evite_ is used instead of _avoid_.
+
+14. William Lee, _Daniel Defoe: His Life, and Recently Discovered
+Writings_ (London: Hotten, 1869), I, 177; Paul Dottin, _Daniel Defoe_,
+trans. Louise Ragan (New York, Macaulay, 1929), p. 155; John Robert
+Moore, _Daniel Defoe, Citizen of the Modern World_ (Chicago: University
+of Chicago Press, 1958), p. 191; and Moore, _A Checklist of the
+Writings of Daniel Defoe_(Bloomington: Indiana University Press, 1962),
+p. 82.
+
+
+BIBLIOGRAPHICAL NOTE
+
+_Atalantis Major_ is reproduced from a copy of the first edition
+(1711) in the William Andrews Clark Memorial Library (Shelf Mark:
+*PR/3404/A851). A typical type-page (p. 4) measures 158 × 82 mm.
+
+
+
+
+Atalantis Major.
+
+Printed in _Olreeky_, the Chief City of the North Part of _Atalantis
+Major_.
+
+_Anno Mundi_ 1711.
+
+
+
+
+Atalantis Major.
+
+
+There having been a large Account given to the World of several
+remarkable Adventures which happened lately in the famous _Atalantis_,
+an Island, which the ingenious Authors found placed in the
+_Mediterranean_ Sea; the Success of which Accounts, but especially the
+Usefulness of the Relation, to the Ends for which they were designed,
+having been very remarkable, I thought it could not be unacceptable to
+the World, (especially to those who _have been Already so delighted_
+with News from that Island) to give a particular Historical Narration
+of some remarkable Transactions which happened in the Great Island,
+called, _Atalantis Major_, a famous well known Island, tho' much
+farther North, lying in the _Ducaledonian_ Ocean, which Island it was
+my good Fortune to winter at, the last time I returned North about from
+_China_, by the Streights of _Nassau_ and _Wygates_, and the Eastern
+Coast of _Grand Tartary_.
+
+I have nothing to do to enquire, whether our late Authors mistook or
+not, in placing the Island _Atalantis_ in the _Mediterranean_ Sea, or,
+whether they might find some small Island of that Name among the
+infinite Crowd of Islands of the _Egean_ Sea: But as the mighty
+Transactions of which my History shall be the faithful Relator, are of
+too great Consequence in the World to be brought forth on so mean a
+Stage; so the Place, and the mighty People, and by whom this Revolution
+of Affairs have been mannaged, are all suitable to the Greatness and
+Glory of the Actions themselves.
+
+As Geographers have no doubt given a full Description of this famous
+Island, and allowed it due Place in the Globes, where it stands noted
+for the biggest of the Kind in the Northern World, I need spend none of
+your Time in the Description of the Place, excepting such as shall fall
+naturally in my Way, as I come to treat of the People, and historically
+of their Behaviour.
+
+The Island is possest by a brave, generous, powerful and wealthy
+Nation, truly Great in their natural Gallantry of Spirit, terrible in
+the Field, rich in the Product of their Lands, more in their general
+Commerce, most of all in their Manufactures, Industry and Application:
+They have some few Errors in their Conduct, which seems owing to the
+Climate, which is cold and moist, or to their Diet, which is strong and
+luxurious, and particularly to their way of Living, which in Eating and
+Drinking, is high, to an Excess.
+
+This makes them Cholerick, Envious, and above all Contentious, so that
+the Nation is ever divided into Parties and Factions: They pursue their
+Feuds with the most eagerness imaginable in their Turns, commit all
+Kinds of Errors even on both Sides alternately, as they get uppermost.
+
+This occasions much Heat, tho' the Country is Cold, little Charity, and
+above all, (which the Climate has the blame off) they are by their own
+Confession, of short Memories, partly as to Injuries, but especially as
+to Kindnesses, Services and inherent Merit. Hence, Gratitude is not the
+national Virtue, nor is encouraging Virtue any Branch of the
+Manufacture of the Place; long Services often meet here with unjust
+Censures; overgrown Merit with necessary Contempt: He must be a bold
+Man that dares oblige them; he is sure to provoke them by it to use him
+very severely.
+
+If they are reduc'd to any extreme Distress, he must be weary of his
+Life that Attempts to rescue them from the Danger; he is as sure to Die
+for it as they are sure to be Unjust: It is Natural to the Blood of the
+Race, if they are obliged beyond the Power of Payment, they presently
+hate, because they scorn to be in Debt. Hence also Benefactors are the
+most abhorr'd People in the World, they Walk always alone, for every
+Man keeps at a distance from them.
+
+If a Man happens to be bound Apprentice to his own generous Spirit, and
+resolves to do them good, he must do it to God, to do it to them is to
+work to the Devil; he must be sure to run the Gauntlet, and bear the
+Lashes of Ten thousand Tongues, the Reproach of all those he serves,
+and will Die unpitied.
+
+If ever they do relent, if ever they acknowledge Services, 'tis always
+after the Man is dead, that he may not upbraid them with it. An eminent
+great Man among them, and rich to a Prodigy, had been almost drowned,
+but was taken up in the Interval by a poor Man; when he came to
+himself, he gave the poor Man Six-pence, but could never abide the
+sight of him after: The poor Man afterwards had the Dissaster of being
+drowned himself, and then the rich Man bewail'd that he had not made
+him a better Return, wherefore, in abundant Gratitude, he settled upon
+the Widow and her Six Children, a noble Pension of 20 _s. per Annum_.
+
+It was a saying of One of their great and wise Men, of a poor Servant
+that had saved his Life; he saved my Life, _said he_, and therefore I
+hate to see him, for it is an intolerable Life to have always a
+Creditor in my Sight that I cannot ballance Accounts with.
+
+But all this is by the By. The Inhabitants of this Great Island are,
+those things excepted, a Noble, Gallant, Ancient, Wealthy People; and a
+Stranger may very well winter among them. I could say more in their
+Praise but the ensuing History calls me off from that Subject.
+
+There happen'd in that famous Island, when I was last there, an
+Occasion upon some State Affairs to assemble an extraordinary Council
+of the Nobility, to consult together with the Sovereign; whole
+Hereditary Councellors they were by the Constitution of the Place:
+These were not chosen by the Inhabitants, as in such Cases among us our
+Parliament Men are chosen; but were by Birth and Blood, or by
+Dignities, High-Offices, _&c._ entitled to sit in the aforesaid
+Council, except one Part of the Island, who had by some former
+Constitution been a several distinct Government, and had a certain
+Number of Nobility of their own. This Part having by some ancient
+Treaty been join'd to the other, their whole Nobility were not
+intituled to the Right of sitting in Council as above; but they usually
+met by themselves upon such Occasions, and chose a certain Number to
+represent the whole Body. This Number was, as near as I can remember,
+Sixteen or thereabouts, not reckoning some who were singled out by the
+Sovereign to be advanc'd by new Titles, to be Members of the Great Body
+of the Hereditary Nobility; a Favour, which by the Stipulations of the
+said Agreement, was reserv'd to the Sovereign of that whole Island.
+
+Now there happening, as I have noted, an Occasion to assemble this
+Great Council; the Nobility of that Part of the Island which were thus
+particularly constituted, behoved to meet, _as said is_, to elect the
+Number that were to represent them in the great Assembly; and the
+History of that Meeting having so many strange Circumstances in it, and
+making so much Noise in that Country, it cannot but be useful for us to
+be inform'd of it.
+
+The Nobility of that Island, as I find it too much the Fate of all the
+Nobility in the World, were unhappily divided into Factions and
+separate Interests, and therefore before I proceed to the Relation, it
+will be necessary to give you a brief Account of these several
+Divisions, and as to the Characters of the Persons, it will necessarily
+fall into the Course of the Story.
+
+The Divisions and Animosities which, as I say, were among the Nobility,
+were very unhappily occasion'd upon two several Foundations, and
+therefore consisted of two several Kinds.
+
+This Island, it seems, was govern'd by a very glorious Queen, who
+however she was of the ancient Royal Blood of that Country, was yet for
+Reasons more especially respecting the Safety of the Country, plac'd
+upon the Throne by the Suffrage of the Nobility and People, without
+Regard to her Father or his Male Children, who for like Reasons of
+Safety they had Depos'd and render'd incapable: There being, it seems a
+Power reserv'd by the Constitution of that Place, to the said Nobility
+and People so to do a thing so like what we call in _England_
+Parliamentary Limitation, that it gives me great Reason to think the
+Power of Parliaments limiting the Crown is a natural Principle, and
+founded upon meer Original Light, since it should be so exactly
+establish'd in a Country so remote and so entirely excluded from
+Correspondence with _Europe_, as this of the Island of _Atalantis_.
+
+The Queen of this Island, by the Assistance of exquisite Councellors,
+Punctual Management, and a mild merciful Administration, had obtain'd
+the entire Affection of Her Subjects at Home, and as long as she
+continued the Administration in those Hands she preserv'd that
+Affection very entire to herself; She had also, by the Conduct of
+eminent and most glorious Commanders, rendered her self Victorious
+abroad, in a long, terrible and expensive War, against the barbarous
+_Tartarian_ Emperor, whose growing Greatness, had forced her
+Predecessor, in Conjunction with several neighbouring Nations, to have
+recourse to Arms, to keep up a Ballance of Power in that Part of the
+World, as long as those fortunate Generals commanded, her Affairs were
+blest by Sea and Land; till the _Barbarians_ began to stoop their
+Pride, to be humbled, and they sought Peace, made great Offers of
+restoring the Kingdoms they had usurped, and of establishing a lasting
+Tranquillity in those Parts of the World.
+
+How the Face of Affairs there altered, how some Factions prevailing at
+Home, made a Breach in all this blessed Harmony, how the faithful
+Councellors at Home were dismiss'd and disgrac'd, the victorious
+Generals Abroad ill used and ungratefully treated, by which the Publick
+Credit sunk at Home, the great Confederates of this glorious Queen were
+discouraged and allarmed, the _Barbarians_ encouraged to hold out,
+carry on the War, and reject the Terms of Peace, they would before have
+complied with: These are Things perhaps my stay in that Place not
+permitting me to get a full Account of, much less see the Issue of, I
+shall for the present omit, perhaps my next Voyage may more fully
+quallifie me to inform you.
+
+My present Relation refers more especially to the Affair of the
+Election of those representing Nobles, which, as before, the Northern
+Part of the Island, by a late Treaty of Coalition, were obliged to send
+up as often as the Soveraign of the Country thought fit to Summon her
+Hereditary Council to meet, which Summons was generally once in Three
+Years.
+
+To let you into the Nature of the unhappy Strife which is the Subject
+of my present Relation, it may be necessary to descend to a Historical
+Relation of some Facts for a few Years past, and to give the Characters
+of some Persons who have the principal Conduct in the present Affairs.
+
+There had been a Contention in the last Election in the same Place, (we
+shall go no further back) of something of the like Nature with this;
+wherein the same Heat was unhappily breaking out against the Friends
+and Favourites of the great Queen of the Island, as had now come to a
+full height; it is too true, That the Factions which then agitated the
+Nobility being between the Court-Party then so called, and a flying
+Squadron of Noblemen, who were of the same general Denomination with
+themselves, that Breach tended so much to the dividing their Interest,
+that they could never effectually joyn it again, they made that
+Seperation of Affection then which they could never unite, let in those
+Enemies then which they could never get removed again, brought those
+Charges and Accusations against one another then which their Enemies
+have since made use off, and which they cannot now deny but are fatal
+to them.
+
+The Parties are so naturally resembling our unhappy Divisions in
+_Britain_, have been so exactly pursued by our Methods, are so properly
+adapted to Persons as well as Things, so alike in Temper, Manners,
+Management and Design, to our Parties, of _Tory_, _Whig_, _High
+Church_, _Low Church_, _Old Whig_, _New Whig_, _High Flyer_,
+_Dissenter_, _Jacobite_, _Court_, _Country_, _Revolution_, _Union_, and
+the like. That to give the more lively Representation of them to your
+Minds, and to avoid the barbarous Words used in the Country, where the
+Language is altogether unknown to us, and unlike ours, I shall even
+call them by the same Names, giving a brief Description as I go on, and
+always desiring you to add a Subintelligitur for the word _Atalantick_
+to them all; as the _Atalantick Whigs_, _Atalantick Tories_,
+_Atalantick High Church_, and so of all the rest: And whenever you meet
+with the Names or Distinctions of _Whig_, _Tory_, _High Church_, _Low
+Church_, _&c._ in this Discourse, the Author provides against any other
+Suggestion or Meaning, than that of the _Whigs_, _Tories_, _High
+Church_, _Low Church_, _Old Whig_, _New Whig_, _High Flyers_,
+_Dissenters_, _Jacobites_, _&c._ who are Inhabitants of the famous
+Island of _Atalantis Major_, situate beyond the North Cape, between the
+Degrees of 42 and 80 of Northern Latitude, as you sail from _China_
+into _Europe_, by the Streights of _Nassau_, the Island of _Nova
+Zembla_, (if it be an Island) and the like, being what we call the
+North-East Passages: And you cannot blame me for being thus Particular
+in this early Protestation, if you consider how ready the Men of this
+Age are to Censure, Condemn and Reproach, the Meaning of Authors,
+whether they themseves have any meaning or no. If any Man shall presume
+to say, there is no such Place, I may as readily answer their
+Presumption, by another less Criminal, _viz._ That they never have past
+that Way to _China_, and consequently cannot demonstrate the Truth of
+what they say.
+
+Having thus premised what I think necessary, to fence this Work against
+the Malice of the Times, I am next to tell you, That I shall confine
+this Part of my Account to the Transactions of the Northern Part of
+this great Island, and therein to what happened in this Case of the
+Election of their Noble Councellors only; yet I must Hint a little at
+what had been transacting in the Southern Parts of the Island; and this
+is absolutely necessary, in order to make the other Accounts
+intelligible.
+
+In order to this, you are to understand, That the Southern Part of the
+Island was the most remarkable of any, as to the Policy of their
+Government, and the Character of the People; and excepting _Englishmen_
+and _Polanders_, there is not such another Nation in the World: Here
+they reckoned about Fifty three several Sects, Divisions, and espoused
+Opinions in Religion, upon most of the Heads whereof the People
+actually seperated from one another; such as, (1.) _Churchmen_, and
+among them _High Church_, _Low Church_, _Non Jurors_, _Prelatists_,
+_Socinians_, _Arians_, _Arminians_, _Deists_, _Atheists_,
+_Immoralists_, _Flyers_, _Soul-Sleepers_, _Prophets_, _&c._ (2.)
+_Presbyterians_, and under that head all kind of Dissenters,
+_Cameronians_, _Independants_, _Anabaptists_, _Baptists_,
+_Seventh-Day-Men_, _Sabatarians_, _Donatists_, _Gnosticks_,
+_Antiprelatists_, _Muggletonians_, and various undistinguishable
+_Quakers_ both wet and dry, _Sweet Singers_, _Family of Love_,
+_Christian Jews_, _Jewish Christians_, and the like. In the State, the
+Divisions were no less Fatal, or the variety greater in Proportion,
+these we may, as I said before, call by the Names which the like
+Factions are distinguish'd by here; such as _Tory_, _Whig_, _Low
+Church_, _Hot_ _Whig_, _Old Whig_, _Modern Whig_, _High Flyer_, _High
+Church_, _High Tory_, a _Gillicranky_, a _Tantivy_, _Tackers_, _Non
+Jurors_, _Assassinators_, _Junto's_, _Squadroni_, _Court_, _Country_,
+_Revolutionists_, _Non Resisters_, _Passive Obedience Men_, and the
+like.
+
+You may understand, that the Queen of the Island had thought fit to
+change Hands in the Administration just before I came there, and tho'
+it was given out that the change would not be from what we call here a
+Whig to a Tory Ministry, in effect it past for no other, especially for
+that the Whigs were generally laid by in every publick Matter, and the
+Tories, or at least such as had appear'd with them were all taken in.
+
+Among the Persons turn'd out of Employ, or very much envy'd in it, we
+find two great Personages, Men of the greatest Eminency in their
+Station that the Age had produc'd in that Island, their Country had no
+Error to find in their Conduct except it were that it was so much in
+debt to their Services, that they could not be capable of rewarding it,
+therefore like the corrupted Nature of the whole Race of Man, they hate
+the Men, as a late Author says, because they hate to be in debt beyond
+the Power of Payment.
+
+One of these presided over the Treasure, the other over the Army, and
+except what may have happen'd since those days, their very Enemies had
+not been able to assign any Reason from their own Behaviour, why they
+dismist them. Of these more in the Process of the Story.
+
+For the present it shall suffice to tell you, without other Preamble,
+both these were by the Artifice of their Enemies, dispossess'd of the
+Queen of the Island's Favour, and that with them fell the Juncto's and
+Squadrons of their Friends in most Part of the Southern _Atalantis_.
+
+In the North Part of the Island the Divisions of the Court had not
+extended so far, at least they had not been push'd so vigorously, the
+great Officers kept their Posts, whether Civil or Military, not the
+least Alteration was made, except of a few inferiour Officers, and
+those but casually; all seem'd to stand at a Stay till the Election of
+the noble Councellors aforesaid, and till the sitting of the great
+Council, as above.
+
+There were some of the Nobility of these Northern Parts that had very
+much the Favour of their Prince, and by whom she had always been
+directed in those things that related to that Part of Her Dominions,
+These were,
+
+1. The Duke _de Sanquarius_, a Northern Prince of great Reputation who
+had the principal Trust in the Management of the late Coalition, which,
+as is noted already, had formerly been made between this Northern Part
+of the Island and the Southern. This Prince was a Person of great
+Prudence and Policy, perfect Master of the Interest, Temper and
+Constitution of the Country and People; great and as a Master of his
+own Passions, that had an Insight into Persons as well as things, and
+was, without Dispute, the best qualify'd to manage that uneasy People,
+of any Man in that Part of the Island: He had a leading Interest among
+them, and us'd it with such Temper and such Clearness of Judgment, as
+seldom failed to bring to pass whatever he undertook. He was Viceroy in
+the great Meeting of the States of that Country, several times; in
+which he behav'd to the Satisfaction of his Sovereign and the general
+Good, even to the Confession of his Enemies, after the separate
+Government of that Part of the Island ceas'd he was receiv'd very
+graciously by the Queen, and made principal Secretary of State.
+
+2. The Earl of _Stairdale_ was another, a Nobleman of extraordinary
+Merit, distinguish'd for a thousand good Qualities; affable, generous,
+exceeding curteous, steddy in a sound Principle, wise above his Age,
+brave above his Neighbours. His Family had been famous for the Gown, he
+was like to make it more so by the Sword: He had at this time a very
+honourable Command in the Armies of _Atalantis Major_, and being the
+same thing as we call a Lieutenant General, was employed against the
+_Tartarians_.
+
+3. The Earl of _Crawlinfordsay_ a Nobleman of a most ancient Race,
+being the first of his Degree in the whole _Atalantis Major_, an
+honest, bold, gallant Person; he had so much Goodness in his Temper,
+Courage in his Heart, and Honesty in his Face, that made all Men love
+him; he was true to his Sovereign, and tho' his Fortunes too depended
+upon the _Court_, being Captain of the Queen's Guards, yet so true to
+his Honour, that he scorn'd to sacrifice his Principle to his Interest;
+had too much Courage to be bully'd, and too much Honesty to be brib'd;
+too much Wit to be wheedl'd and too much Warmth to forbear telling it
+in the Teeth of those that try'd all those ways to bring him into their
+Party.
+
+4. The Prince of _Greeniccio_ of the ancient Blood of _Agyllius_. This
+was a young Nobleman of great Hopes, and from whom great things were
+expected, an account of the very Race he was descended from. Had he
+inherited the Principles of his Family as he did the Honour and Estate,
+he must have been the Head of that very Party he now acted against,
+being the same for whose Cause two of his greatest Ancestors at least
+had both ventured and lost their Lives, but Grace not going by
+Generation, nor Vertue by Inheritance any more in that Country than in
+ours. He neither own'd their Cause or imitated their Vertue, but gave
+himself up first to all Manner of Vice, and then with his Morals
+abandoned his Principles, flew in the Face of his Grandfathers injured
+_Grave_, join'd with his Murtherers, and the abhorr'd Betrayers of his
+Country, and plac'd himself at the Head of that very Party who had
+trampled on the Blood of his Family as well as Nation. He was in Temper
+brave but rash, had more Courage than Generosity, more Passion than
+Prudence, and more Regard to his Resentment than to his Honour; he was
+proud without Merit, ambitious without Prospect, revengeful without
+Injury; he would resent without Affront, and quarrel without Cause,
+would embroil himself without Reason, and come out of it without
+Honour: His Courage was rather in his Blood than in his Head, and as
+his Actions run often before his Thoughts, so his Thoughts often run
+before his Reason; yet he was pushing and that supply'd very much his
+Want of Policy; but he discover'd the Errors of his Judgment by the
+Warmth of his Behaviour in every thing he did he sought no Disguise,
+every Man knew him better than himself, and he never could be in a Plot
+because he conceal'd nothing.
+
+He was a General in the Armys of _Atalantis Major_ and excepting the
+chief Command of an Army, was very well fitted for the Field: He had
+behav'd himself very well on several Occasions against the
+_Tartarians_, and unless his ill Fate should place him above being
+commanded, he might in time be a great Man; at present, having all the
+Fire of a General without the Flegm, his great Misfortune and the only
+Thing that can ruin him is, That he thinks himself qualifyed to
+Command, and cannot bear the Lustre of their Merit that excel him.
+
+5. The E. of _Marereskine_: This was a Nobleman whose Character is not
+so easy to describe; he appear'd in the Service of the Queen of the
+Island, but was suspected to lean to the _Tartars_, whose Interest he
+was known formerly to espouse; He was proud, peevish, subtle and
+diligent, affected more the Statesman than the Soldier, and therefore
+aim'd at the Place the Duke _de Sanquharius_ enjoy'd of Secretary of
+State, but had not yet had his Ambition gratifyed.
+
+You are to note also that the Queen of the Island had for several Years
+committed the Administration of her Affairs to two extraordinary
+Persons, Natives of the South Parts of the Island. The Prince _de
+Heymuthius_ and the E. of _Dolphinus_, their Characters may be confin'd
+to this: In short, the first commanded all the Armies of _Atalantis
+Major_, and was Captain General and Commander in Chief; the other, High
+Keeper of the Treasury of the Island, the greatest General and the
+greatest Minister of State the Island ever knew, who had raised the
+Glory of their Mistress, and the Honour of their Country, to the
+greatest Pitch the Age has ever seen; whose Merit I can no more
+describe than the Nation can requite.
+
+Tho' these Characters seem to take up too much room in this Tract, yet
+it could not be avoided, it being impossible to let you into a true
+Notion of the Farce that was acted afterwards if the Actors had not
+been thus described.
+
+_Greeniccio_ was a Peer of the whole Island, and therefore had no Vote
+in the Northern Election, being one of the Hereditary Council
+aforesaid; but taking upon him the absolute Direction of the Affair,
+tho' he had really, as above, nothing to do with it, he rendred himself
+at the City Reeky, the Capital of that Part of the Kingdom a few Days
+before the Election.
+
+_Marereskine_, who had really a Voice in the Election, was there before
+him, and had busily embark'd _Bellcampo_, Lord of the Isles, and
+Brother to _Greeniccio_, to make Parties, and prepare Parties,
+sollicite Votes, get Proxies, and the like, about the Countries.
+
+This _Bellcampo_, Lord of the Isles, was an insinuating self-interested
+Man, had little Fortune of his own, but resolved to raise himself which
+side soever got upmost: He run with every Stream, kept fair with every
+Side, spoke smoothly to all, meant Service to none, his dear Self
+excepted. By this means he got up from one Step to another to some good
+Employments, which his Interest and Diligence procured for him rather
+than his Sincerity; for he was first made a Peer on the Side he now
+acted against, and now a Judge acting against the Side made him a Peer,
+and the like.
+
+These were the Instruments of the Fate of North _Atalantis_;
+_Marereskine_ acted one Part, _Greeniccio_ another: And here it is, as
+I said before, that the differing Parties, appeared so like our _Whig_
+and _Tory_, _Episcopal_ and _Presbyterian_, that I cannot better
+describe them to you than by the same Names, only with this Difference,
+That all the _Tories_ and _Episcopal_ People in North _Atalantis_ were
+_Tartarians_ profestly, and boldly owned themselves for the _Tartarian_
+Emperor.
+
+And now the two last mentioned Engines, having acted covertly for some
+time, which they had the better opportunity to do, because they had
+both appeared among the other Party, _which now I'll call Whigs_;
+before, the first of these carried it stiff and forward when he talked
+with the great Officers, or such Lords as had some Dependance upon the
+Court: He told them of what the Queen expected from them, what was
+their Duty to do, that they would find it their Interest to do so and
+so, that they might consider in Time what they had to do, and the like:
+When he talk'd with any of the _Whig_ Lords, for there was a Squadron
+of them left, that had a great sway yet in the Country, then he would
+talk of him, and Party and Queen, as one Knot, in the plural Number,
+most haughtily, thus: We are resolved to do so and so, and we must have
+none but such or such.
+
+The _Lord of the Isles_, at the same time acted his usual Flattery on
+both Sides, insinuating to the _Whigs_, that they were in No Danger;
+that there was not the least Design against them or their Liberties;
+that the Queen was resolved to change Hands, but would not change
+Principles; that their Church should not be touched, that their
+Priviledges should not in the least be infringed, and that they need
+not fear. One time, this Politick Peer, as he would be thought, was
+very handsomely met with, the Story is this, whether designedly or no
+it matters not. He was one Day in Company with some of the North
+_Atalantis_ Ministers, for there just as here, they have one Church
+established in the North, and another in the South of the Island; He
+used all his Art in persuading the Ministers that they should be easie,
+that they should fear nothing, that there was no Design to give them
+the least Disturbance; that this was a Politick Turn, not a Religious,
+and that they should do well to be satisfied, and to satisfie their
+People that they were in no Danger, and should fear nothing. One of the
+Ministers, who had heard him very patiently, but saw easily through all
+his cunning; returns, Thus my Lord, shall I tell your Lordship a Story,
+and then he goes on with it. We had in former times, one _John_ ----
+who had the Honour to be his Majesty's Hangman in this City. This good
+Man had a most gentle easie Way of executing his Office; for when the
+poor People came into his Hands, and were to Die by his Operations, as
+many honest Men did in those cruel Days, (this by the way was home to
+his Lordship, for that this very _John_ cut off his Lordships
+Grandfather's Head) all the while he was a fitting Things for the
+Execution of his Office, he would smile upon them, talk kindly to them,
+bid them not be afraid, Come, come, fear nothing, trust God, and the
+like: Then bringing them to the foot of the Ladder, he would still say,
+Be not afraid, come, come, fear nothing, step up one step, do not fear,
+trust in God, and so to another step and another; and just thus he
+carried 'em on, till at last, with the very Words in his Mouth, Fear
+nothing, he turn'd them off.
+
+The honest Minister made no Application of the Story, much less took
+Notice, how his Lordship's own Grandfather not only fell by the same
+Hangman, but by the same Party that he then espoused: But he had too
+much Sense, and was too closely touch'd with the Story, not to make the
+Application himself; so he left the Ministers, giving no Reply at all
+to the Story.
+
+This Story grew so popular, especially being printed by the Reviewer of
+that Country, that the Lord of the Isles could make nothing of his
+Design whenever he talk'd of the good Design of the Party; he was only
+laugh'd at, and bid remember his Grandfathers Hangman; so he became
+useless.
+
+The Prince _Greeniccio_ and the Earl of _Marereskine_ then took upon
+them the Manegement of the whole Affair. They took publick Apartments
+in the Town, kept an affected State, called themselves the Queen's
+Managers, and had a Court as great as if they had been really so; they
+received the Visits of the Nobility with an Air of Majesty, and
+affected Gravity; and under this assumed Authority they took upon them
+to Closet the Noblemen when they came to pay their Respects to them;
+not to ask who they would give their Votes for, or to sollicit them to
+Vote for this or that, but in a Style haughty and insolent, especially
+to the Men of the greatest Character and Merit.
+
+_Greeniccio_ had several Ruffles with some of the Nobility, of which it
+may not be amiss to give some Account, because it may be for the
+Advantage of our Nobility to know, how Persons of like Quality in that
+Country can submit to be treated.
+
+_Bradalbino_, a Nobleman of great Age and Authority in that Island,
+expected to be One of the Sixteen, and was told he was in the List;
+when he comes to Discourse with the Prince _de Greeniccio_, he tells
+him, Very plainly, That he thought it would be much for the Publick
+Good to put in Two or Three Lords, such as _Leslynus_, and one of the
+Family of _Boiilio_, being Men he thought could not properly be left
+out, and that if they were in, he would come into all the rest: The
+Prince, in a kind of Passion swore, By G--d, not of them; and but for
+naming them, laid aside _Bradalbino_ himself.
+
+Another Lord being an Officer in the Army, having the Court List
+proposed to him, answered, My Lord you kno' _Leslynus_ is my General
+and Commander in Chief, and he could not as he commanded under him but
+Vote for his General, _&c._ _Greeniccio_ in a fury returns, God d----n
+your General, what do you tell us of Commander in Chief? If that be
+all, we shall soon get you another Commander in Chief; you shall Vote
+for none such as he.
+
+Another Lord expostulated with him a little to admit such and such with
+the Men he proposed; he answers, My Lord, I am no Hypocrite, I am
+above-board; this is the List we will have; the Q....n approves of it,
+and I will have no other; and swearing again, By-G--d, says he, 'Tis
+indifferent to me, keep out but the Men we are against; but I will have
+no _Go....phin_ Men, no _Ma....bro'_ Men, no Squadron Men, in short, no
+_Whigs_ of any Denomination; as for the rest, it is indifferent, any
+but them. How, my Lord, says this Nobleman, What will you take
+_Tartarians_, (that is, as our _Jacobites_) rather than the honest
+Gentlemen that have been so true to the _Atalantic_ Interest: I care
+not what they are, says the Prince, so they be none of these.
+
+Among the Noblemen that he used with the most rudeness, was the Earl of
+_Crawlindford_: Whether he thought to Insult this faithful Nobleman,
+because he knew his Fortunes were low, and that he depended on the
+Court; or whether he took this Advantage to use him Ill on Account of
+an old Ruffle, in which he having challenged the Earl to Fight; and the
+Earl appearing ready to defend his Honour with his Sword; the Prince
+ashamed of the needless Quarrel, had declin'd it again, and came off
+but, so, so; choosing to risk his Honour rather than his Life; what was
+the Reason, Authors do not agree about; But the Prince used him most
+scandalously. The Earl prest him hard, and told him, How he had on all
+Occasions shewn himself faithful to the Queen, and to the _Atalantic_
+Interest, that he had gone into all such Measures as were for the
+Service of both, that he thought he had some Claim to be trusted in the
+Service of his Country.
+
+The Prince told him plainly, He might set his Heart at rest, for he
+should not be one. He ask'd him, What Reason was assigned, what
+Objections were against him. The Prince, with much more Plainness than
+Prudence replies, They knew he was under Obligations to the President
+of the Treasure, and the great Commander of the Army; and he did not
+know but they might come to bring a Charge or Impeachment against them
+in the great _Atalantic_ Council; and he would have no Body chosen but
+such as would give their Words they would come into such Measures. The
+Earl told him, If any thing could be offered to prove them Guilty, or
+any Crimes were made appear, he scorned to be so much obliged to any
+Man as not to dare to do Justice; and that he would readily join in an
+Impeachment, if there was Reason sufficient to Charge them; and to
+refuse him otherwise, implied, they wanted Crime and just Ground to
+form the Impeachment upon, and therefore must choose such a Set of Men
+as would Impeach innocent Men blindfold, to please a Party. The Prince
+told him, That the Resolution was to Impeach them, and he would have
+none chosen that would not agree to it. What, right or wrong, my Lord!
+says the Earl; to which the Prince, not suddenly replying, the Earl
+went on, Let what will come of it, and tho' I should lose all, nay,
+tho' I were to beg my Bread, I'll never submit to such base Terms, and
+so defied him. The Prince told him, It should be the worse for him; and
+there they parted.
+
+There was a short Dispute between the Prince and the Earl of
+_Stairdale_; but the Earl had so much more Honesty than the Party, and
+so much more Sense and Wit than the Prince, that indeed he cared not
+much to talk to him, but left him to _Mareskine_. He was too hard for
+them both, and having baffled them in Discourse, he was no more to be
+Bullied by them, than he was to be Wheedled; he told 'em plainly, They
+were betraying their Country, selling and sacrificing the Priviledges
+of the Nobility, making themselves Tools to a Party, and giving
+themselves up in a base Manner to the Pleasure of a few Men, who, when
+they had got their Will would contemn them, would love the Folly, but
+P....s upon the Fools; and as to their List, he scorn'd to come into
+it, or into any of their menacing Measures. This put a short end to
+their Attempts upon him; and indeed, had the other Lords been advised
+by this gallant Gentleman, they had broke all their Schemes; but they
+were not all united in their Resolutions, or equally determined in
+their Measures.
+
+Thus they went on, _Mareskine_ mannag'd the most mildly; yet he told
+the Nobility of his Acquaintance: That the List was determined, that
+the Q....n expected they should Vote them all: that they would have no
+Mixtures: that her Majesty would have nothing to do with the _Whig_
+Lords, but there was other Work to do now than usual: Discoursing with
+some of the Lords, who were G----als in the Army, he told them plainly,
+They had resolved to Impeach the great Commander; and that it could not
+be expected, those who had Commands under him, and were Awed by him,
+should do Justice in that Case. They had often the Question put to
+them, What it was the great Commander, or the Keeper of the Treasure,
+had done, that they were to be Impeach'd for: But they could never be
+brought to offer the least tollerable Reason, except that the Prince
+_Greeniccio_ let fall in his Passion sometimes, of which he had no
+manner of Government, That he had used him ill abroad.
+
+Some, who had more nicely enquired into the Particulars of the ill
+Usage which was the Cause of this Resentment, have given the oddest
+contradicting Accounts of it that any History can Parallel: As first,
+That the great Commander had restrained the rashness of this young
+Hotspur General, who being but a Boy in Experience, compared to the
+Commander, was always for pushing into the Heart of _Tartary_ with the
+Army; not considering, That to run up a Hundred Mile into the Country,
+and leave the Enemies Towns untaken, and their Armies in a Condition to
+Recruit, cut off their Convoys and Communication, and make their
+Subsistence impracticable, was the ready way to destroy them, as has
+been seen by a woful Example in _Spain_. But the General was wiser, and
+regarded more the Safety of the Army, and the Honour of his Mistress;
+and therefore, by the unanimous Approbation of all the allied Generals,
+(for it was not his own single Opinion) and according to the just Rules
+of War, went on gradually to take their fortified Towns, and ruin their
+Defences on the Frontiers, that at last, he might have a sure and easie
+Conquest of the rest: This was one Pretence. The second was just the
+Reverse of this: For at a great Battle with the _Tartarians_, the
+Commander having resolved to attack the Enemy in their advantageous
+Camp, and having drawn up in Battalia his whole Army, he gives the Post
+of Honour to the Prince, appointing him, with a select Body of the best
+Troops in the Army, to fall on upon the Right, and Charge the Enemy,
+while other Generals did the like, and with equal Hazard and more real
+Danger, on the Left. There was not a Gentleman in the Enemies Army but
+would have taken this as the greatest Testimony of his General's
+Esteem, and would have thought any Man in the Army his mortal Enemy
+that should have gone about to have deprived him of it. Nor was there
+any Man in the _Attalantick_ Army, who did not take it as an Evidence
+of the great Opinion the Commander had of the Prince's Courage; and all
+the World talked of it as the greatest Honour could possibly be done
+the Prince.
+
+Had not the Commander taken all needful Care to have him well back'd,
+had he not given him the best Troops in the Army to act under him, had
+he not plac'd a great Body of Horse to support him, had he not equally
+prest the Enemy in other Places, to prevent their doubling their
+Strength in that Part; had he done any Thing but what a Man of Honour
+would have thought himself obliged by, there might have been some
+Reason to Object: But to call giving a General a Post of Honour
+sacrificing him, because it was attended with Danger, is referr'd to
+the Determination of the Soldierly Part of Mankind. And as it would be
+laught at in _Tartary_, in _France_, and in _Britain_, where such
+Things are very seldom heard of; so I can assure the Reader, it was
+sufficiently laugh'd at in _Attalantis Major_, and the Prince of
+_Greeniccio_ is become most intollerably ridiculous by the taking
+Notice of it.
+
+Hence all Men in the Island of _Atalantick Major_ conclude, he has
+Rashness without Courage, Fury without Honour, Passion without
+Judgment, and less regard to his Character than to his Resentment.
+
+Nor has the Vanity of this Prince appeared less in his not sticking
+openly to discover, That he aims at the Command in general; that he
+thinks himself equally qualified for a Post of so great Trust, and that
+regard is not had to his Merit that he is so long suffered to Serve
+under another; at the same time not enquiring, whether the Allies of
+the Queen would have equal Confidence in him, as in the great
+Commander, on whose Judgment, all the Princes and States of the North
+have so much Dependance, to whom they have so chearfully committed
+their Troops, and under whose Conduct they have had such wonderful
+Success against the _Tartarian_ Emperor: But it never was this Prince's
+Talent to think too much, his Heat was always too volatile, and his
+Head too light for his Hands.
+
+We have brought him now to the Conclusion of the Affair: Having gone
+through his Catechizing of the Nobility, in which indeed they of his
+own Party appeared of a Temper patient and debased, below the true
+Spirit of Noblemen; (at least, God be praised, below the ancient Temper
+and Gallantry of the Nobility of _Great Britain_) Having come now to
+the Day for the Choice, which was the 10th Day of their Sixth Month,
+but as I suppose _November_: There appeared at the Place 33 Noblemen,
+besides the 16 which were chosen, and who every one Voted for
+themselves and for one another; so that of about 130 Noblemen, which
+they say are in the North Part of _Attalantis Major_, only 49 appeared.
+
+There was a great Meeting of the honest Part of the Nobility, at
+another Place, to consult what was proper to be done in this
+new-fashion'd Way of Proceeding: Some proposed to go down in a Body to
+the Place where the rest were met, and protest against the Illegality
+of the Choice; that to impose a List upon the Nobility was not
+agreeable to the Nature of a free Choice; and that therefore they
+should protest, That whoever were returned by Virtue of that Meeting,
+were not legally Chosen, and had no right to Sit in the great Council
+of the Nobility.
+
+This was sound Advice: But unhappily it was not resolved upon; and some
+they say slipt out of the Meeting for fear of Resentment, and went down
+and voted, and came up again _incognito_.
+
+The rest resolved to send Two of their Number down to the Meeting, and
+offer their Service to Vote with them, provided they would declare
+their Measures: and that those that might be chosen would declare
+themselves for the true _Atalantick_ Succession, against a pretending
+Claimant, who was then sheltred among the _Tartarians_: But they could
+receive no Satisfaction even to this so reasonable Request. But the
+Prince of _Greeniccio_, who had no right to Vote himself, yet run up
+and down, as a Broker, or a Party-Sollicitor, whispering and prompting,
+from one to another, to Influence and Settle them, (for some began to
+waver.) This Prince, I say, giving an answer, insolent and haughty,
+_like himself_. The Noble Persons that went, came away, and contented
+themselves, with telling them, they would having nothing to do with
+them. Thus, being but a Rump of the Nobility, they gave up their
+Liberties, Voted as they were commanded to do, signed a Roll of Names,
+and this they called a Choice.
+
+The Number of the dissenting Nobility were about Twenty six, whereof
+Five did at last comply with their List, as they thought, being in
+publick Commands, supposing it might give a Handle to their Enemies, to
+misrepresent them to their Soveraign; but they nevertheless, upon all
+Occasions, testified their Dislike and Abhorrence of the Method, and of
+the Conduct of those concern'd in it.
+
+Among those said Dissenters, were Two Dukes, One Marquis, Sixteen
+Earls, and Six Lords, besides many others, who were Absent.
+
+We might be large in describing, and giving Characters of these
+dissenting Nobility. Among them we could not escape the Prince _de
+Rosymonte_, a Person, for Blood and Birth, eminent in that Country,
+more for his own excellent and inimitable Virtues, Grave, Sober,
+Judicious, even from his Youth, of whom one of the _Atalantick_ Poets
+gave this bright Character.
+
+    _Grave without Age, without Experience wise._
+
+He was President of the Royal Council of that Country even while he was
+very young, an Honour the greatest of the Nobility were well pleased to
+see him adorned with, and made no Scruple to sit below him: His
+distinguish'd Modesty and Humility in all his publick Appearances,
+recommends him to the Affections of the whole Country; and tho' the
+Fortunes of his Family have suffered by the Disasters of the Times, yet
+he supports a handsome Figure suitable to the Dignity of his Character,
+Rich without Gaiety, Great without Affectation, Plentiful without
+Profusion, letting the World see he knows how and when, and to what
+Pitch to appear that when he pleases to be at Large, he can do it like
+a wise Man, or Retrench, he can do it like a Prince. It might be said,
+as a finishing stroke to his Character, he is just the Reverse of
+_Greeniccio_, for he is Fire without Thunder, Brave without Fury, Great
+without Pride, Gay without Vanity, Wise without Affectation, knows how
+to Obey and how to Command; he knows great Things enough to manage
+them, and is so Master of himself, as not to let them manage him; he
+knows how to be a Courtier without Ambition, and to Merit Favour rather
+than to seek it; he scorns to push his Fortunes over the Belly of his
+Principles, ever Faithful to himself, and by consequence to all that
+Trust him; he has too great a Value for Merit to envy it even in his
+Enemy, and too low Thoughts of the Pride and Conceit of Men without
+Merit, to approve of it even in his Friends.
+
+This Noble Person appears at the Head of the dissenting Nobility: Nor
+does it lessen his Zeal for the Principles of Liberty, or the present
+Establishment of Religion in his Country; that some of his Ancestors,
+otherwise Noble, Brave and Great, appear'd on the other side; since the
+Liberties of his Country are the Center of his Actions, and the
+Prosperity of all Men the mark he aims at.
+
+It may be a Character to the rest of the dissenting Lords, to say of
+them in general, That they were such as took a particular Pleasure in
+being Patrons of Virtue as well as Patrons of Liberty: That they were
+Men generally speaking distinguish'd for their constant Loyalty to
+their Prince, but ever with a view to the Fundamental Laws: That they
+had always Wisdom enough to know their Countries Rights, and Courage
+enough to defend them; Men of Honour, Men of Prudence, Men of
+Resolution: In short, They were Men admirably suited to the Character
+of their Leader; as he on the other hand, thought it his Honour to be
+at the Head of so illustrious a Body of Men, equally valuable for their
+Virtue, Capacities, Wisdom and Integrity.
+
+It cannot be forgotten; That as these Noble Persons were Zealous for
+the Liberties of their Country, so truly they were Men that had the
+greatest Interest in it, having separately considered the best Estates
+of the whole Nobility, of that Country and joined together, were able
+to Buy twice their Number in the whole Assembly. It is true, that
+Estate is not any just Addition to the Character of a Person; but it
+will for ever remain a Truth; And all Nations will shew a regard to it,
+_viz._ that those may be supposed to be the most proper Persons to be
+trusted with the Conservation of the Liberties of their Country, who
+have by their Birth and Inheritance the largest Shares in the
+Possession of it.
+
+This is illustrated by the Practice of that happy Country we live in,
+where this Story may perhaps be read, and where very lately, a Law has
+been made, to unquallifie all such to represent their Country in the
+Legislation and Power of raising Taxes, who are not possessed of such
+or such a Porportion in the Lands of their Country, as may suppose them
+Persons made naturally anxious for the Welfare of the whole, in regard
+to the Preservation of their Property. Unhappy _Atalantis_! Had such a
+Law pass'd for the Qualification of those Noblemen, who should be
+elected to the great Royal Council of thy Country; and should the
+Nobility so to be chosen have been limited to but one hundred
+_Perialo's_ (a Gold Coin in that Country amounting by Estimation to
+about 2000 _l._ a Year Sterling) of yearly Estate in Lands, how few of
+the Sixteen now chosen could have shewn themselves in that august
+Meeting.
+
+On the contrary, several of those now sent up, were not able to put
+themselves into a Posture to undertake the Journey, till they had sold
+the Magazines of Corn which they had laid up for the Year's Subsistance
+of their Families, or mortgaged their small Estates to borrow Money for
+the Expence.
+
+Nor is it doubted in the least, but when those poor Noblemen come to
+find some of their _Tartarian_ Expectations frustrated, with which it
+is manifest they were very Big when they went up; they will sorely
+regret the Misfortune of their Election; since they must be thereby so
+reduced, as almost to want Subsistance for their Families; and as for
+the Debts contracted, it is impossible some of them should ever Pay
+them.
+
+It has been a too unhappy Truth in other Places as well as in
+_Atalantis Major_, That in such popular Elections, whether of Noblemen
+or others, Men are deluded with the Notion, that to be chosen by their
+Country to these great Councils of the Nation, must so recommend them,
+or make them so necessary to the State, to the Government, or the
+Ministers of State, that they cannot fail to make their Fortunes and
+raise Estates by their very Appearance: But this is so constantly found
+to fail, and so many have been almost ruin'd by the Expences they have
+been at to make a Figure as they call it, and to appear at Court like
+themselves on such Occasions, that it seems wonderful that Persons of
+Quality, who know their own Circumstances, and whose Fortunes, through
+the Disasters of their Families, may not be equal to their Dignity,
+should on so vain a Presumption push themselves upon the necessity of
+compleating their own Ruin, beggering their Families, and leaving their
+Posterity an Estate in Titles and Coronets, Things without the Support
+of competent Estates the most despicable in the World.
+
+It might be very useful to our Readers, and perhaps something
+instructing might be gathered from it, with respect to the Affairs of
+_Europe_ at this Time, to give some Account here of the Success of
+these strange Proceedings; what Figure these People made, when they
+came to Court, how they behav'd themselves when they came into the
+great Council, how they were made Tools there to the Politicians of
+those Times, even to act against their Interest, their Country, their
+own Designs.
+
+In doing this, it would appear, How some of the Sixteen, more
+particularly known to be in the _Tartarian_ Interest, and who had all
+along declared themselves for the Person and Title of the pretending
+Prince, who, as is noted before, put in a Claim to the Succession of
+the Throne: How these, I say, went up to the great Council, wheedled by
+the Subtilties of _Greeniccio_, and his Agents, to believe seriously
+that they went up directly to declare his Title; that they should be
+the Men that should have the Honour to declare his Right in the great
+Council of the Nobility; and that he should for the future own his
+Restoration, his Glory, and his Crown, to their Loyalty and steddy
+acting for him. This, they did not doubt, should tend not to their
+Honour only, but to the raising their decay'd Fortunes, for they were
+miserably Poor; since he could do no less than confer the greatest
+Trusts upon Persons who had with so much Fidelity acted for his Glory
+and Interest.
+
+It would also to the eternal Shame and Disappointment of the _Atalantic
+Jacobites_, (if I may so call them) necessarily follow, that the
+History of their Conduct should come in at the same time to be
+considered, _viz._ How just the contrary to all this, and against the
+very Nature of the Thing they were obliged, even among the very first
+of their Transactings in their Publick Station, as Members of the great
+Council aforesaid, to appear in a Publick Address to the Soveraign of
+the Country, in which they were brought in recognizing Her just Title
+to Reign, (which they in their Hearts abhorr'd) promising to Stand by
+and Defend that Title with all their Might, (which they had hoped to
+see overthrown) engaging to assist Her to the utmost, against that very
+pretending Claimant as above, (who they Reverence as their lawful
+Prince) and to carry on the War with Vigour against the _Tartarian_
+Emperor (that very Prince on whose Power they depended for the carrying
+on their Designs).
+
+Had any _British_-Man of Sense, that understands the Language of the
+Countenance, but seen the Astonishment, the Chagrin, the Vexation and
+Anguish of Soul, that appear'd on the Faces of these _Atalantic_
+Noblemen, at this surprizing Event; how they gnashed their Teeth for
+Anger, and curst the Hour that ever they were Members of this grand
+Council; how they Bann'd, (an _Atalantis_ Word used there, for what we
+call Swearing and Damning in our Country;) how they raged at
+_Greenwiccio_, and the _Lord of the Isles_, who they said had Betray'd
+them; and how strangely they look'd, upon the solemn Occasion of
+presenting this Address to their Soveraign: I say, could their
+Countenances but have been read by any in our Country, they would have
+taken them for Furies rather than Men, or for Men under some Frenzy,
+ridden with the Night-Mare, or scared with some Apparition.
+
+It was not less odd, to see the Conduct of _Greeniccio_; for tho' he
+had not less Mischief in his Heart, yet it was of another Kind; and
+tho' he had not the same View of the Succession, nor perhaps was
+directly in the _Tartarian_ Interest, and therefore shew'd no Pity,
+or Sympathy with the Mortifications of the other, yet he met with
+Disappointments equally perplexing, and which made him heartily repent
+the length he had gone; but as it was in his Nature to be rash, it was
+impossible to prevent his being disappointed almost in every Thing he
+went about: For it is in _Atalantis Major_ just as it is in other Parts
+of the World, _viz._ That rash headstrong unthinking Tempers, generally
+precipitate themselves into innumerable Mischiefs, which Prudence and
+Patience would evite and prevent; and also, that these furious rash
+People, as they are hot and impatient under those Mischiefs when they
+are surprised with them, so they are not always the best able to
+extricate and deliver themselves.
+
+                     *      *      *      *      *
+
+This will necessarily lead us to a long History of the Disappointments
+he met with:
+
+1. In his Project of charging and impeaching his General, and the great
+Testador, or ---- of the Nations Treasure, which he could never, either
+bring Crime enough to justifie, or Friends enough to joyn in, and make
+it terrible.
+
+2. How he was disappointed in his ambitious Views of being made General
+against the _Tartarians_; whereas, he had on the contrary, the
+Mortification, to see the great Commander continu'd, with an addition
+of Generallissimo to his Titles of Command; and himself, like what we
+used to call in _England_, being _Kick'd up Stairs_, sent out of the
+Way with a Feather in his Cap, and the Title of General, to carry on a
+remote Unfortunate, and never-to-be Successful War in _Japan_, and the
+Lord knows where, among Barbarians and Savages.
+
+                     *      *      *      *      *
+
+This was not all; When upon his embracing this Title, which his Temper
+(naturally Ambitious) jumpt at, and eagerly closed with, he began to
+choose Officers, name Regiments, and draw out Forces to form the Army
+he was to Command, he found the new Generalissimo had supplanted him
+there too; for he had not only prevailed with the Queen of the Country,
+not to draw away any of the old Troops then establish'd for the
+_Tartarian_ War, of which this _Gew-Gaw-General_ fancied to himself he
+should form his Army: But the Generalissimo obtain'd, That the best
+Troops which were remaining in _Atalantis Major_, should be sent over
+to strengthen the Army against the _Tartars_: So that this new General
+was likely to go away to _Japan_ without any Army, but such Troops as
+her _Atalantic_ Majesty and Her Allies had hired from the _Emperor of
+China_, and such other People; and he had none but Strangers,
+Barbarians and Mercenaries to Command.
+
+It is true, That his Design of drawing off the Troops from the
+_Tartarian_ War, to carry on a _Wild-Goose War_ in the remotest Parts
+of _Japan_, was like the rest of his Schemes, so inconsistent, so
+destructive to the general Design of the War, and would in all its
+probable Circumstances be so dangerous to the true Interest of
+_Atalantis Major_, That notwithstanding some had persuaded the
+Government to a _New Scheme_, and that the War was to be pushed on
+_ESPECIALLY_ in _Japan_ (a Thing which perhaps some encouraged at
+first, on purpose to draw him in to accept of that Command, which many
+of inferiour Rank to him had declin'd) yet when they came to look
+nearer into the Thing, and to see the fatal Prospect of weakning the
+Forces on the _Tartarian_ side, while the _Emperor of Tartary_ at the
+same Time was vigilant and forward in encreasing his Preparations, they
+soon found the Representations of the Generalissimo had such Weight in
+them, and were founded so much upon their general Good, that they
+thought fit to alter their Measures.
+
+How _Greeniccio_ was thus disappointed; how he resented it; how to
+Pacifie him, an Appearance of drawing some Troops together was made;
+how he was at last sent away with a whole Ship load of fine Promises;
+as he on the contrary loaded the same Ship back with a full Freight of
+Schemes, Projects and Rhodomontadoes; how he went; what he did, and
+what he did not; how _Tinker_ like, he mended the Work of those that
+went before, and left it for others to mend after him; these are Things
+I may give you a farther Account of when I return from my next Progress
+to that glorious Country of _Atalantis Major_.
+
+
+_FINIS._
+
+
+
+
+
+End of the Project Gutenberg EBook of Atalantis Major, by Daniel Defoe
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ATALANTIS MAJOR ***
+
+***** This file should be named 26940-8.txt or 26940-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/6/9/4/26940/
+
+Produced by David Starner and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

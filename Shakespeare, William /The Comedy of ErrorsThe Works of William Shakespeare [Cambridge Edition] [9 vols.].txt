@@ -1,0 +1,3895 @@
+The Project Gutenberg EBook of The Comedy of Errors, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Comedy of Errors
+       The Works of William Shakespeare [Cambridge Edition] [9 vols.]
+
+Author: William Shakespeare
+
+Editor: William George Clark
+        John Glover
+
+Release Date: December 30, 2007 [EBook #23046]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE COMEDY OF ERRORS ***
+
+
+
+
+Produced by Louise Hope, Jonathan Ingram and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+
+
+
+[Transcriber’s Note:
+
+This text of _The Comedy of Errors_ is from Volume I of the nine-volume
+1863 Cambridge edition of Shakespeare. The Preface (e-text 23041) and
+the other plays from this volume are each available as separate
+e-texts.
+
+General Notes are in their original location at the end of the play.
+Text-critical notes are grouped at the end of each Scene. All line
+numbers are from the original text; line breaks in dialogue--including
+prose passages--are unchanged. Brackets are also unchanged; to avoid
+ambiguity, footnotes and linenotes are given without added brackets.
+In the notes, numerals printed as subscripts are shown inline as
+F1, F2, Q1...
+
+Texts cited in the Notes are listed at the end of the e-text.]
+
+
+
+
+  THE WORKS
+
+  of
+
+  WILLIAM SHAKESPEARE
+
+
+  Edited by
+
+  WILLIAM GEORGE CLARK, M.A.
+  Fellow and Tutor of Trinity College, and Public Orator
+  in the University of Cambridge;
+
+  and JOHN GLOVER, M.A.
+  Librarian Of Trinity College, Cambridge.
+
+
+  _VOLUME I._
+
+
+  Cambridge and London:
+  MACMILLAN AND CO.
+  1863.
+
+
+
+
+THE COMEDY OF ERRORS.
+
+
+
+
+DRAMATIS PERSONÆ[1].
+
+SOLINUS[2], duke of Ephesus.
+ÆGEON, a merchant of Syracuse.
+ANTIPHOLUS[3] of Ephesus, } twin brothers, and sons to
+ANTIPHOLUS of Syracuse,   }   Ægeon and Æmilia.
+DROMIO of Ephesus,  } twin brothers, and attendants on
+DROMIO of Syracuse, }   the two Antipholuses.
+BALTHAZAR, a merchant.
+ANGELO, a goldsmith.
+First Merchant, friend to Antipholus of Syracuse.
+Second Merchant, to whom Angelo is a debtor.
+PINCH, a schoolmaster.
+
+ÆMILIA, wife to Ægeon, an abbess at Ephesus.
+ADRIANA, wife to Antipholus of Ephesus.
+LUCIANA, her sister.
+LUCE, servant to Adriana.
+A Courtezan.
+
+Gaoler, Officers, and other Attendants.
+
+
+_SCENE--Ephesus._
+
+
+  FOOTNOTES:
+
+  1: DRAMATIS PERSONÆ first given by Rowe.
+  2: SOLINUS] See note (I).
+  3: ANTIPHOLUS] See note (I).
+
+
+
+
+THE COMEDY OF ERRORS.
+
+
+
+
+ACT I.
+
+
+_SCENE I. A hall in the DUKE’S palace._
+
+  _Enter DUKE, ÆGEON, _Gaoler_, _Officers_, and other _Attendants_._
+
+_Æge._ Proceed, Solinus, to procure my fall,
+And by the doom of death end woes and all.
+
+_Duke._ Merchant of Syracusa, plead no more;
+I am not partial to infringe our laws:
+The enmity and discord which of late                                 5
+Sprung from the rancorous outrage of your duke
+To merchants, our well-dealing countrymen,
+Who, wanting guilders to redeem their lives,
+Have seal’d his rigorous statutes with their bloods,
+Excludes all pity from our threatening looks.                       10
+For, since the mortal and intestine jars
+’Twixt thy seditious countrymen and us,
+It hath in solemn synods been decreed,
+Both by the Syracusians and ourselves,
+To admit no traffic to our adverse towns:                           15
+Nay, more,
+If any born at Ephesus be seen
+At any Syracusian marts and fairs;
+Again: if any Syracusian born
+Come to the bay of Ephesus, he dies,                                20
+His goods confiscate to the duke’s dispose;
+Unless a thousand marks be levied,
+To quit the penalty and to ransom him.
+Thy substance, valued at the highest rate,
+Cannot amount unto a hundred marks;                                 25
+Therefore by law thou art condemn’d to die.
+
+_Æge._ Yet this my comfort: when your words are done,
+My woes end likewise with the evening sun.
+
+_Duke._ Well, Syracusian, say, in brief, the cause
+Why thou departed’st from thy native home,                          30
+And for what cause thou camest to Ephesus.
+
+_Æge._ A heavier task could not have been imposed
+Than I to speak my griefs unspeakable:
+Yet, that the world may witness that my end
+Was wrought by nature, not by vile offence,                         35
+I’ll utter what my sorrow gives me leave.
+In Syracusa was I born; and wed
+Unto a woman, happy but for me,
+And by me, had not our hap been bad.
+With her I lived in joy; our wealth increased                       40
+By prosperous voyages I often made
+To Epidamnum; till my factor’s death,
+And the great care of goods at random left,
+Drew me from kind embracements of my spouse:
+From whom my absence was not six months old,                        45
+Before herself, almost at fainting under
+The pleasing punishment that women bear,
+Had made provision for her following me,
+And soon and safe arrived where I was.
+There had she not been long but she became                          50
+A joyful mother of two goodly sons;
+And, which was strange, the one so like the other
+As could not be distinguish’d but by names.
+That very hour, and in the self-same inn,
+A meaner woman was delivered                                        55
+Of such a burden, male twins, both alike:
+Those, for their parents were exceeding poor,
+I bought, and brought up to attend my sons.
+My wife, not meanly proud of two such boys,
+Made daily motions for our home return:                             60
+Unwilling I agreed; alas! too soon
+We came aboard.
+A league from Epidamnum had we sail’d,
+Before the always-wind-obeying deep
+Gave any tragic instance of our harm:                               65
+But longer did we not retain much hope;
+For what obscured light the heavens did grant
+Did but convey unto our fearful minds
+A doubtful warrant of immediate death;
+Which though myself would gladly have embraced,                     70
+Yet the incessant weepings of my wife,
+Weeping before for what she saw must come,
+And piteous plainings of the pretty babes,
+That mourn’d for fashion, ignorant what to fear,
+Forced me to seek delays for them and me.                           75
+And this it was, for other means was none:
+The sailors sought for safety by our boat,
+And left the ship, then sinking-ripe, to us:
+My wife, more careful for the latter-born,
+Had fasten’d him unto a small spare mast,                           80
+Such as seafaring men provide for storms;
+To him one of the other twins was bound,
+Whilst I had been like heedful of the other:
+The children thus disposed, my wife and I,
+Fixing our eyes on whom our care was fix’d,                         85
+Fasten’d ourselves at either end the mast;
+And floating straight, obedient to the stream,
+Was carried towards Corinth, as we thought.
+At length the sun, gazing upon the earth,
+Dispersed those vapours that offended us;                           90
+And, by the benefit of his wished light,
+The seas wax’d calm, and we discovered
+Two ships from far making amain to us,
+Of Corinth that, of Epidaurus this:
+But ere they came,--O, let me say no more!                          95
+Gather the sequel by that went before.
+
+_Duke._ Nay, forward, old man; do not break off so;
+For we may pity, though not pardon thee.
+
+_Æge._ O, had the gods done so, I had not now
+Worthily term’d them merciless to us!                              100
+For, ere the ships could meet by twice five leagues,
+We were encounter’d by a mighty rock;
+Which being violently borne upon,
+Our helpful ship was splitted in the midst;
+So that, in this unjust divorce of us,                             105
+Fortune had left to both of us alike
+What to delight in, what to sorrow for.
+Her part, poor soul! seeming as burdened
+With lesser weight, but not with lesser woe,
+Was carried with more speed before the wind;                       110
+And in our sight they three were taken up
+By fishermen of Corinth, as we thought.
+At length, another ship had seized on us;
+And, knowing whom it was their hap to save,
+Gave healthful welcome to their shipwreck’d guests;                115
+And would have reft the fishers of their prey,
+Had not their bark been very slow of sail;
+And therefore homeward did they bend their course.
+Thus have you heard me sever’d from my bliss;
+That by misfortunes was my life prolong’d,                         120
+To tell sad stories of my own mishaps.
+
+_Duke._ And, for the sake of them thou sorrowest for,
+Do me the favour to dilate at full
+What hath befall’n of them and thee till now.
+
+_Æge._ My youngest boy, and yet my eldest care,                    125
+At eighteen years became inquisitive
+After his brother: and importuned me
+That his attendant--so his case was like,
+Reft of his brother, but retain’d his name--
+Might bear him company in the quest of him:                        130
+Whom whilst I labour’d of a love to see,
+I hazarded the loss of whom I loved.
+Five summers have I spent in furthest Greece,
+Roaming clean through the bounds of Asia,
+And, coasting homeward, came to Ephesus;                           135
+Hopeless to find, yet loath to leave unsought
+Or that, or any place that harbours men.
+But here must end the story of my life;
+And happy were I in my timely death,
+Could all my travels warrant me they live.                         140
+
+_Duke._ Hapless Ægeon, whom the fates have mark’d
+To bear the extremity of dire mishap!
+Now, trust me, were it not against our laws,
+Against my crown, my oath, my dignity,
+Which princes, would they, may not disannul,                       145
+My soul should sue as advocate for thee.
+But, though thou art adjudged to the death,
+And passed sentence may not be recall’d
+But to our honour’s great disparagement,
+Yet will I favour thee in what I can.                              150
+Therefore, merchant, I’ll limit thee this day
+To seek thy help by beneficial help:
+Try all the friends thou hast in Ephesus;
+Beg thou, or borrow, to make up the sum,
+And live; if no, then thou art doom’d to die.                      155
+Gaoler, take him to thy custody.
+
+_Gaol._ I will, my lord.
+
+_Æge._ Hopeless and helpless doth Ægeon wend,
+But to procrastinate his lifeless end.
+
+    [_Exeunt._
+
+
+  NOTES: I, 1.
+
+  A hall ... palace.] Malone. The Duke’s palace. Theobald.
+    A publick Place. Capell.
+  ÆGEON,] Rowe. with the Merchant of Siracusa, Ff.
+  Officers,] Capell. Officer, Staunton. om. Ff.
+  1: _Solinus_] F1. _Salinus_ F2 F3 F4.
+  10: _looks_] _books_ Anon. conj.
+  14: _Syracusians_] F4. _Siracusians_ F1 F2 F3. _Syracusans_ Pope.
+    See note (I).
+  16, 17, 18: _Nay more If ... seen At any_] Malone.
+    _Nay, more, if ... Ephesus Be seen at any_ Ff.
+  18: _any_] om. Pope.
+  23: _to ransom_] F1. _ ransom_ F2 F3 F4.
+  27: _this_] _’tis_ Hanmer.
+  33: _griefs_] F1. _griefe_ F2. _grief_ F3 F4.
+  35: _nature_] _fortune_ Collier MS.
+  39: _by me_] F1. _by me too_ F2 F3 F4.
+  42: _Epidamnum_] Pope. _Epidamium_ Ff. _Epidamnium_ Rowe.
+    See note (I).
+  43: _the_] _then_ Edd. conj.
+  _the ... care ... left_] Theobald. _he ... care ... left_ F1.
+    _he ... store ... leaving_ F2 F3 F4.
+    _heed ... caves ... left_ Jackson conj.
+  _random_] F3 F4. _randone_ F1 F2.
+  50: _had she_] Ff. _she had_ Rowe.
+  55: _meaner_] Delius (S. Walker conj.). _meane_ F1. _poor meane_ F2.
+    _poor mean_ F3 F4.
+  56: _burden, male twins_] _burthen male, twins_ F1.
+  61, 62: So Pope. One line in Ff.
+  61: _soon_] _soon!_] Pope. _soon._ Capell.
+  70: _gladly_] _gently_ Collier MS.
+  71: _weepings_] F1. _weeping_ F2 F3 F4.
+  76: _this_] _thus_ Collier MS.
+  79: _latter-_] _elder-_ Rowe.
+  86: _either end the mast_] _th’ end of either mast_ Hanmer.
+  87, 88: _And ... Was_] Ff. _And ... Were_ Rowe.
+    _Which ... Was_ Capell.
+  91: _wished_] F1. _wish’d_ F2 F3 F4.
+  92: _seas wax’d_] _seas waxt_ F1. _seas waxe_ F2. _seas wax_ F3.
+    _seas was_ F4. _sea was_ Rowe.
+  94: _Epidaurus_] _Epidarus_ F1. _Epidamnus_ Theobald conj.
+  103: _upon_] Pope. _up_ F1 _up upon_ F2 F3 F4.
+  104: _helpful_] _helpless_ Rowe.
+  113: _another_] _the other_ Hanmer.
+  115: _healthful_] F1. _helpful_ F2 F3 F4.
+  117: _bark_] _backe_ F1.
+  120: _That_] _Thus_ Hanmer. _Yet_ Anon. conj.
+  122: _sake_] F1. _sakes_ F2 F3 F4.
+  124: _hath ... thee_] _have ... they_ F1.
+  _of_] om. F4.
+  128: _so_] F1. _for_ F2 F3 F4.
+  130: _the_] om. Pope.
+  131: _I labour’d of a_] _he labour’d of all_ Collier MS.
+  144, 145: These lines inverted by Hanmer.
+  145: _princes, would they, may_] Hanmer. _Princes would they may_ F1.
+    _Princes would, they may_ F2 F3 F4.
+  151: _Therefore, merchant, I’ll_] Ff. _Therefore merchant, I_ Rowe.
+    _I, therefore, merchant_ Pope. _I’ll, therefore, merchant_ Capell.
+  152: _help ... help_] Ff. _life ... help_ Pope.
+    _help ... means_ Steevens conj. _hope ... help_ Collier.
+    _fine ... help_ Singer.
+  _by_] _thy_ Jackson conj.
+  155: _no_] _not_ Rowe.
+  156: _Gaoler,_] _Jailor, now_ Hanmer. _So, jailer,_ Capell.
+  159: _lifeless_] Warburton. _liveless_ Ff.
+
+
+_SCENE II. The Mart._
+
+  _Enter _ANTIPHOLUS of Syracuse_, _DROMIO of Syracuse_, and
+  _First Merchant_._
+
+_First Mer._ Therefore give out you are of Epidamnum,
+Lest that your goods too soon be confiscate.
+This very day a Syracusian merchant
+Is apprehended for arrival here;
+And, not being able to buy out his life,                             5
+According to the statute of the town,
+Dies ere the weary sun set in the west.
+There is your money that I had to keep.
+
+_Ant. S._ Go bear it to the Centaur, where we host,
+And stay there, Dromio, till I come to thee.                        10
+Within this hour it will be dinner-time:
+Till that. I’ll view the manners of the town,
+Peruse the traders, gaze upon the buildings,
+And then return, and sleep within mine inn;
+For with long travel I am stiff and weary.                          15
+Get thee away.
+
+_Dro. S._ Many a man would take you at your word,
+And go indeed, having so good a mean.    [_Exit._
+
+_Ant. S._ A trusty villain, sir; that very oft,
+When I am dull with care and melancholy,                            20
+Lightens my humour with his merry jests.
+What, will you walk with me about the town,
+And then go to my inn, and dine with me?
+
+_First Mer._ I am invited, sir, to certain merchants,
+Of whom I hope to make much benefit;                                25
+I crave your pardon. Soon at five o’clock,
+Please you, I’ll meet with you upon the mart,
+And afterward consort you till bed-time:
+My present business calls me from you now.
+
+_Ant. S._ Farewell till then: I will go lose myself,                30
+And wander up and down to view the city.
+
+_First Mer._ Sir, I commend you to your own content.    [_Exit._
+
+_Ant. S._ He that commends me to mine own content
+Commends me to the thing I cannot get.
+I to the world am like a drop of water,                             35
+That in the ocean seeks another drop;
+Who, falling there to find his fellow forth,
+Unseen, inquisitive, confounds himself:
+So I, to find a mother and a brother,
+In quest of them, unhappy, lose myself.                             40
+
+  _Enter _DROMIO of Ephesus_._
+
+Here comes the almanac of my true date.
+What now? how chance thou art return’d so soon?
+
+_Dro. E._ Return’d so soon! rather approach’d too late:
+The capon burns, the pig falls from the spit;
+The clock hath strucken twelve upon the bell;                       45
+My mistress made it one upon my cheek:
+She is so hot, because the meat is cold;
+The meat is cold, because you come not home;
+You come not home, because you have no stomach;
+You have no stomach, having broke your fast;                        50
+But we, that know what ’tis to fast and pray,
+Are penitent for your default to-day.
+
+_Ant. S._ Stop in your wind, sir: tell me this, I pray:
+Where have you left the money that I gave you?
+
+_Dro. E._ O,--sixpence, that I had o’ Wednesday last                55
+To pay the saddler for my mistress’ crupper?
+The saddler had it, sir; I kept it not.
+
+_Ant. S._ I am not in a sportive humour now:
+Tell me, and dally not, where is the money?
+We being strangers here, how darest thou trust                      60
+So great a charge from thine own custody?
+
+_Dro. E._ I pray you, jest, sir, as you sit at dinner:
+I from my mistress come to you in post;
+If I return, I shall be post indeed,
+For she will score your fault upon my pate.                         65
+Methinks your maw, like mine, should be your clock,
+And strike you home without a messenger.
+
+_Ant. S._ Come, Dromio, come, these jests are out of season;
+Reserve them till a merrier hour than this.
+Where is the gold I gave in charge to thee?                         70
+
+_Dro. E._ To me, sir? why, you gave no gold to me.
+
+_Ant. S._ Come on, sir knave, have done your foolishness,
+And tell me how thou hast disposed thy charge.
+
+_Dro. E._ My charge was but to fetch you from the mart
+Home to your house, the Phœnix, sir, to dinner:                     75
+My mistress and her sister stays for you.
+
+_Ant. S._ Now, as I am a Christian, answer me,
+In what safe place you have bestow’d my money;
+Or I shall break that merry sconce of yours,
+That stands on tricks when I am undisposed:                         80
+Where is the thousand marks thou hadst of me?
+
+_Dro. E._ I have some marks of yours upon my pate,
+Some of my mistress’ marks upon my shoulders;
+But not a thousand marks between you both.
+If I should pay your worship those again,                           85
+Perchance you will not bear them patiently.
+
+_Ant. S._ Thy mistress’ marks? what mistress, slave, hast thou?
+
+_Dro. E._ Your worship’s wife, my mistress at the Phœnix;
+She that doth fast till you come home to dinner,
+And prays that you will hie you home to dinner.                     90
+
+_Ant. S._ What, wilt thou flout me thus unto my face,
+Being forbid? There, take you that, sir knave.
+
+_Dro. E._ What mean you, sir? for God’s sake, hold your hands!
+Nay, an you will not, sir, I’ll take my heels.    [_Exit._
+
+_Ant. S._ Upon my life, by some device or other                     95
+The villain is o’er-raught of all my money.
+They say this town is full of cozenage;
+As, nimble jugglers that deceive the eye,
+Dark-working sorcerers that change the mind.
+Soul-killing witches that deform the body,                         100
+Disguised cheaters, prating mountebanks,
+And many such-like liberties of sin:
+If it prove so, I will be gone the sooner.
+I’ll to the Centaur, to go seek this slave:
+I greatly fear my money is not safe.    [_Exit._                   105
+
+
+  NOTES: I, 2.
+
+  SCENE II.] Pope. No division in Ff.
+  The Mart.] Edd. A public place. Capell. The Street. Pope.
+    See note (II).
+  Enter ...] Enter Antipholis Erotes, a Marchant, and Dromio. Ff.
+  4: _arrival_] _a rivall_ F1.
+  10: _till_] _tell_ F2.
+  11, 12: The order of these lines is inverted by F2 F3 F4.
+  12: _that_] _then_ Collier MS.
+  18: _mean_] F1. _means_ F2 F3 F4.
+  23: _my_] F1. _the_ F2 F3 F4.
+  28: _consort_] _consort with_ Malone conj.
+  30: _myself_] F1. _my life_ F2 F3 F4.
+  33: SCENE III. Pope.
+  _mine_] F1. _my_ F2 F3 F4.
+  37: _falling_] _failing_ Barron Field conj.
+  37, 38: _fellow forth, Unseen,_] _fellow, for Th’ unseen_ Anon. conj.
+  38: _Unseen,_] _In search_ Spedding conj.
+  _Unseen, inquisitive,_] _Unseen inquisitive!_ Staunton.
+  40: _them_] F1. _him_ F2 F3 F4.
+  _unhappy_,] F2 F3 F4. (_unhappie a_) F1. _unhappier_, Edd. conj.
+  65: _score_] Rowe. _scoure_ F1 F2 F3. _scour_ F4.
+  66: _your clock_] Pope. _your cooke_ F1. _you cooke_ F2.
+    _your cook_ F3 F4.
+  76: _stays_] _stay_ Rowe.
+  86: _will_] _would_ Collier MS.
+  93: _God’s_] Hanmer. _God_ Ff.
+  96: _o’er-raught_] Hanmer. _ore-wrought_ Ff.
+  99: _Dark-working_] _Drug-working_ Warburton.
+  99, 100: _Dark-working ... Soul-killing_] _Soul-killing ...
+    Dark-working_ Johnson conj.
+  100: _Soul-killing_] _Soul-selling_ Hanmer.
+  102: _liberties_] _libertines_ Hanmer.
+
+
+
+
+ACT II.
+
+
+_SCENE I. The house of _ANTIPHOLUS of Ephesus_._
+
+  _Enter ADRIANA and LUCIANA._
+
+_Adr._ Neither my husband nor the slave return’d,
+That in such haste I sent to seek his master!
+Sure, Luciana, it is two o’clock.
+
+_Luc._ Perhaps some merchant hath invited him,
+And from the mart he’s somewhere gone to dinner.                     5
+Good sister, let us dine, and never fret:
+A man is master of his liberty:
+Time is their master; and when they see time,
+They’ll go or come: if so, be patient, sister.
+
+_Adr._ Why should their liberty than ours be more?                  10
+
+_Luc._ Because their business still lies out o’ door.
+
+_Adr._ Look, when I serve him so, he takes it ill.
+
+_Luc._ O, know he is the bridle of your will.
+
+_Adr._ There’s none but asses will be bridled so.
+
+_Luc._ Why, headstrong liberty is lash’d with woe.                  15
+There’s nothing situate under heaven’s eye
+But hath his bound, in earth, in sea, in sky:
+The beasts, the fishes, and the winged fowls,
+Are their males’ subjects and at their controls:
+Men, more divine, the masters of all these,                         20
+Lords of the wide world and wild watery seas,
+Indued with intellectual sense and souls,
+Of more pre-eminence than fish and fowls,
+Are masters to their females, and their lords:
+Then let your will attend on their accords.                         25
+
+_Adr._ This servitude makes you to keep unwed.
+
+_Luc._ Not this, but troubles of the marriage-bed.
+
+_Adr._ But, were you wedded, you would bear some sway.
+
+_Luc._ Ere I learn love, I’ll practise to obey.
+
+_Adr._ How if your husband start some other where?                  30
+
+_Luc._ Till he come home again, I would forbear.
+
+_Adr._ Patience unmoved! no marvel though she pause;
+They can be meek that have no other cause.
+A wretched soul, bruised with adversity,
+We bid be quiet when we hear it cry;                                35
+But were we burden’d with like weight of pain,
+As much, or more, we should ourselves complain:
+So thou, that hast no unkind mate to grieve thee,
+With urging helpless patience wouldst relieve me;
+But, if thou live to see like right bereft,                         40
+This fool-begg’d patience in thee will be left.
+
+_Luc._ Well, I will marry one day, but to try.
+Here comes your man; now is your husband nigh.
+
+  _Enter _DROMIO of Ephesus_._
+
+_Adr._ Say, is your tardy master now at hand?
+
+_Dro. E._ Nay, he’s at two hands with me, and that my               45
+two ears can witness.
+
+_Adr._ Say, didst thou speak with him? know’st thou his mind?
+
+_Dro. E._ Ay, ay, he told his mind upon mine ear:
+Beshrew his hand, I scarce could understand it.
+
+_Luc._ Spake he so doubtfully, thou couldst not feel his            50
+meaning?
+
+_Dro. E._ Nay, he struck so plainly, I could too well
+feel his blows; and withal so doubtfully, that I could scarce
+understand them.
+
+_Adr._ But say, I prithee, is he coming home?                       55
+It seems he hath great care to please his wife.
+
+_Dro. E._ Why, mistress, sure my master is horn-mad.
+
+_Adr._ Horn-mad, thou villain!
+
+_Dro. E._                      I mean not cuckold-mad;
+But, sure, he is stark mad.
+When I desired him to come home to dinner,                          60
+He ask’d me for a thousand marks in gold:
+‘’Tis dinner-time,’ quoth I; ‘My gold!’ quoth he:
+‘Your meat doth burn,’ quoth I; ‘My gold!’ quoth he:
+‘Will you come home?’ quoth I; ‘My gold!’ quoth he,
+‘Where is the thousand marks I gave thee, villain?’                 65
+‘The pig,’ quoth I, ‘is burn’d;’ ‘My gold!’ quoth he:
+‘My mistress, sir,’ quoth I; ‘Hang up thy mistress!
+I know not thy mistress; out on thy mistress!’
+
+_Luc._ Quoth who?
+
+_Dro. E._ Quoth my master:                                          70
+‘I know,’ quoth he, ‘no house, no wife, no mistress.’
+So that my errand, due unto my tongue,
+I thank him, I bare home upon my shoulders;
+For, in conclusion, he did beat me there.
+
+_Adr._ Go back again, thou slave, and fetch him home.               75
+
+_Dro. E._ Go back again, and be new beaten home?
+For God’s sake, send some other messenger.
+
+_Adr._ Back, slave, or I will break thy pate across.
+
+_Dro. E._ And he will bless that cross with other beating:
+Between you I shall have a holy head.                               80
+
+_Adr._ Hence, prating peasant! fetch thy master home.
+
+_Dro. E._ Am I so round with you as you with me,
+That like a football you do spurn me thus?
+You spurn me hence, and he will spurn me hither:
+If I last in this service, you must case me in leather.
+    [_Exit._                                               85
+
+_Luc._ Fie, how impatience lowereth in your face!
+
+_Adr._ His company must do his minions grace,
+Whilst I at home starve for a merry look.
+Hath homely age the alluring beauty took
+From my poor cheek? then he hath wasted it:                         90
+Are my discourses dull? barren my wit?
+If voluble and sharp discourse be marr’d,
+Unkindness blunts it more than marble hard:
+Do their gay vestments his affections bait?
+That’s not my fault; he’s master of my state:                       95
+What ruins are in me that can be found,
+By him not ruin’d? then is he the ground
+Of my defeatures. My decayed fair
+A sunny look of his would soon repair:
+But, too unruly deer, he breaks the pale,                          100
+And feeds from home; poor I am but his stale.
+
+_Luc._ Self-harming jealousy! fie, beat it hence!
+
+_Adr._ Unfeeling fools can with such wrongs dispense.
+I know his eye doth homage otherwhere;
+Or else what lets it but he would be here?                         105
+Sister, you know he promised me a chain;
+Would that alone, alone he would detain,
+So he would keep fair quarter with his bed!
+I see the jewel best enamelled
+Will lose his beauty; yet the gold bides still,                    110
+That others touch, and often touching will
+Wear gold: and no man that hath a name,
+By falsehood and corruption doth it shame.
+Since that my beauty cannot please his eye,
+I’ll weep what’s left away, and weeping die.                       115
+
+_Luc._ How many fond fools serve mad jealousy!
+
+    [_Exeunt._
+
+
+  NOTES: II, 1.
+
+  The house ... Ephesus.] Pope. The same (i.e. A publick place).
+    Capell, and passim.
+  11: _o’ door_] Capell. _adore_ F1 F2 F3. _adoor_ F4.
+  12: _ill_] F2 F3 F4. _thus_ F1.
+  15: _lash’d_] _leashed_ “a learned lady” conj. ap. Steevens.
+    _lach’d_ or _lac’d_ Becket conj.
+  17: _bound, ... sky:_] _bound: ... sky,_ Anon. conj.
+  19: _subjects_] _subject_ Capell.
+  20, 21: _Men ... masters ... Lords_] Hanmer. _Man ... master
+    ... Lord_ Ff.
+  21: _wild watery_] _wilde watry_ F1. _wide watry_ F2 F3 F4.
+  22, 23: _souls ... fowls_] F1. _soul ... fowl_ F2 F3 F4.
+  30: _husband start_] _husband’s heart’s_ Jackson conj.
+  _other where_] _other hare_ Johnson conj. See note (III).
+  31: _home_] om. Boswell (ed. 1821).
+  39: _wouldst_] Rowe. _would_ Ff.
+  40: _see_] _be_ Hanmer.
+  41: _fool-begg’d_] _fool-egg’d_ Jackson conj. _fool-bagg’d_
+    Staunton conj. _fool-badged_ Id. conj.
+  44: SCENE II. Pope.
+  _now_] _yet_ Capell.
+  45: _Nay_] _At hand? Nay_ Capell.
+  _and_] om. Capell.
+  45, 46: _two ... two_] _too ... two_ F1.
+  50-53: _doubtfully_] _doubly_ Collier MS.
+  53: _withal_] _therewithal_ Capell.
+  _that_] om. Capell, who prints lines 50-54 as four verses ending
+    _feel ... I ... therewithal ... them._
+  59: _he is_] _he’s_ Pope. om. Hanmer.
+  61: _a thousand_] F4. _a hundred_ F1 _a 1000_ F2 F3.
+  64: _home_] Hanmer. om. Ff.
+  68: _I know not thy mistress_] _Thy mistress I know not_ Hanmer.
+    _I know not of thy mistress_ Capell. _I know thy mistress not_
+    Seymour conj.
+  _out on thy mistress_] F1 F4. _out on my mistress_ F2 F3.
+    _’out on thy mistress,’ Quoth he_ Capell. _I know no mistress;
+    out upon thy mistress_ Steevens conj.
+  70: _Quoth_] _Why, quoth_ Hanmer.
+  71-74: Printed as prose in Ff. Corrected by Pope.
+  73: _bare_] _bear_ Steevens.
+  _my_] _thy_ F2.
+  74: _there_] _thence_ Capell conj.
+  85: _I last_] _I’m to last_ Anon. conj.
+  [Exit.] F2.
+  87: SCENE III. Pope.
+  93: _blunts_] F1. _blots_ F2 F3 F4.
+  107: _alone, alone_] F2 F3 F4. _alone, a love_ F1.
+    _alone, alas!_ Hanmer. _alone, O love,_ Capell conj.
+    _alone a lone_ Nicholson conj.
+  110: _yet the_] Ff. _and the_ Theobald. _and tho’_ Hanmer.
+    _yet though_ Collier.
+  111: _That others touch_] _The tester’s touch_ Anon. (Fras. Mag.)
+    conj. _The triers’ touch_ Singer.
+  _and_] Ff. _yet_ Theobald. _an_ Collier. _though_ Heath conj.
+  111, 112: _will Wear_] Theobald (Warburton). _will, Where_] F1.
+  112, 113: F2 F3 F4 omit these two lines. See note (IV).
+  112: _and no man_] F1. _and so no man_ Theobald.
+    _and e’en so man_ Capell. _and so a man_ Heath conj.
+  113: _By_] F1. _But_ Theobald.
+  115: _what’s left away_] _(what’s left away)_ F1.
+    _(what’s left) away_ F2 F3 F4.
+
+
+_SCENE II. A public place._
+
+  _Enter _ANTIPHOLUS of Syracuse_._
+
+_Ant. S._ The gold I gave to Dromio is laid up
+Safe at the Centaur; and the heedful slave
+Is wander’d forth, in care to seek me out
+By computation and mine host’s report.
+I could not speak with Dromio since at first                         5
+I sent him from the mart. See, here he comes.
+
+  _Enter _DROMIO of Syracuse_._
+
+How now, sir! is your merry humour alter’d?
+As you love strokes, so jest with me again.
+You know no Centaur? you receiv’d no gold?
+Your mistress sent to have me home to dinner?                       10
+My house was at the Phœnix? Wast thou mad,
+That thus so madly thou didst answer me?
+
+_Dro. S._ What answer, sir? when spake I such a word?
+
+_Ant. S._ Even now, even here, not half an hour since.
+
+_Dro. S._ I did not see you since you sent me hence,                15
+Home to the Centaur, with the gold you gave me.
+
+_Ant. S._ Villain, thou didst deny the gold’s receipt,
+And told’st me of a mistress and a dinner;
+For which, I hope, thou felt’st I was displeased.
+
+_Dro. S._ I am glad to see you in this merry vein:                  20
+What means this jest? I pray you, master, tell me.
+
+_Ant. S._ Yea, dost thou jeer and flout me in the teeth?
+Think’st thou I jest? Hold, take thou that, and that.
+    [_Beating him._
+
+_Dro. S._ Hold, sir, for God’s sake! now your jest is earnest:
+Upon what bargain do you give it me?                                25
+
+_Ant. S._ Because that I familiarly sometimes
+Do use you for my fool, and chat with you,
+Your sauciness will jest upon my love,
+And make a common of my serious hours.
+When the sun shines let foolish gnats make sport,                   30
+But creep in crannies when he hides his beams.
+If you will jest with me, know my aspect,
+And fashion your demeanour to my looks,
+Or I will beat this method in your sconce.
+
+_Dro. S._ Sconce call you it? so you would leave battering,         35
+I had rather have it a head: an you use these blows
+long, I must get a sconce for my head, and insconce it
+too; or else I shall seek my wit in my shoulders. But,
+I pray, sir, why am I beaten?
+
+_Ant. S._ Dost thou not know?                                       40
+
+_Dro. S._ Nothing, sir, but that I am beaten.
+
+_Ant. S._ Shall I tell you why?
+
+_Dro. S._ Ay, sir, and wherefore; for they say every
+why hath a wherefore.
+
+_Ant. S._ Why, first,--for flouting me; and then, wherefore,--      45
+For urging it the second time to me.
+
+_Dro. S._ Was there ever any man thus beaten out of season,
+When in the why and the wherefore is neither rhyme nor reason?
+Well, sir, I thank you.
+
+_Ant. S._ Thank me, sir! for what?                                  50
+
+_Dro. S._ Marry, sir, for this something that you gave
+me for nothing.
+
+_Ant. S._ I’ll make you amends next, to give you nothing
+for something. But say, sir, is it dinner-time?
+
+_Dro. S._ No, sir: I think the meat wants that I have.              55
+
+_Ant. S._ In good time, sir; what’s that?
+
+_Dro. S._ Basting.
+
+_Ant. S._ Well, sir, then ’twill be dry.
+
+_Dro. S._ If it be, sir, I pray you, eat none of it.
+
+_Ant. S._ Your reason?                                              60
+
+_Dro. S._ Lest it make you choleric, and purchase me
+another dry basting.
+
+_Ant. S._ Well, sir, learn to jest in good time: there’s a
+time for all things.
+
+_Dro. S._ I durst have denied that, before you were so              65
+choleric.
+
+_Ant. S._ By what rule, sir?
+
+_Dro. S._ Marry, sir, by a rule as plain as the plain bald
+pate of father Time himself.
+
+_Ant. S._ Let’s hear it.                                            70
+
+_Dro. S._ There’s no time for a man to recover his hair
+that grows bald by nature.
+
+_Ant. S._ May he not do it by fine and recovery?
+
+_Dro. S._ Yes, to pay a fine for a periwig, and recover
+the lost hair of another man.                                       75
+
+_Ant. S._ Why is Time such a niggard of hair, being, as
+it is, so plentiful an excrement?
+
+_Dro. S._ Because it is a blessing that he bestows on
+beasts: and what he hath scanted men in hair, he hath
+given them in wit.                                                  80
+
+_Ant. S._ Why, but there’s many a man hath more hair
+than wit.
+
+_Dro. S._ Not a man of those but he hath the wit to
+lose his hair.
+
+_Ant. S._ Why, thou didst conclude hairy men plain                  85
+dealers without wit.
+
+_Dro. S._ The plainer dealer, the sooner lost: yet he
+loseth it in a kind of jollity.
+
+_Ant. S._ For what reason?
+
+_Dro. S._ For two; and sound ones too.                              90
+
+_Ant. S._ Nay, not sound, I pray you.
+
+_Dro. S._ Sure ones, then.
+
+_Ant. S._ Nay, not sure, in a thing falsing.
+
+_Dro. S._ Certain ones, then.
+
+_Ant. S._ Name them.                                                95
+
+_Dro. S._ The one, to save the money that he spends in
+trimming; the other, that at dinner they should not drop
+in his porridge.
+
+_Ant. S._ You would all this time have proved there is
+no time for all things.                                            100
+
+_Dro. S._ Marry, and did, sir; namely, no time to recover
+hair lost by nature.
+
+_Ant. S._ But your reason was not substantial, why
+there is no time to recover.
+
+_Dro. S._ Thus I mend it: Time himself is bald, and                105
+therefore to the world’s end will have bald followers.
+
+_Ant. S._ I knew ’twould be a bald conclusion:
+But, soft! who wafts us yonder?
+
+  _Enter ADRIANA and LUCIANA._
+
+_Adr._ Ay, ay, Antipholus, look strange and frown:
+Some other mistress hath thy sweet aspects;                        110
+I am not Adriana nor thy wife.
+The time was once when thou unurged wouldst vow
+That never words were music to thine ear,
+That never object pleasing in thine eye,
+That never touch well welcome to thy hand,                         115
+That never meat sweet-savour’d in thy taste,
+Unless I spake, or look’d, or touch’d, or carved to thee.
+How comes it now, my husband, O, how comes it,
+That thou art then estranged from thyself?
+Thyself I call it, being strange to me,                            120
+That, undividable, incorporate,
+Am better than thy dear self’s better part.
+Ah, do not tear away thyself from me!
+For know, my love, as easy mayst thou fall
+A drop of water in the breaking gulf,                              125
+And take unmingled thence that drop again,
+Without addition or diminishing,
+As take from me thyself, and not me too.
+How dearly would it touch thee to the quick,
+Shouldst thou but hear I were licentious,                          130
+And that this body, consecrate to thee,
+By ruffian lust should be contaminate!
+Wouldst thou not spit at me and spurn at me,
+And hurl the name of husband in my face,
+And tear the stain’d skin off my harlot-brow,                      135
+And from my false hand cut the wedding-ring,
+And break it with a deep-divorcing vow?
+I know thou canst; and therefore see thou do it.
+I am possess’d with an adulterate blot;
+My blood is mingled with the crime of lust:                        140
+For if we two be one, and thou play false,
+I do digest the poison of thy flesh,
+Being strumpeted by thy contagion.
+Keep, then, fair league and truce with thy true bed;
+I live distain’d, thou undishonoured.                              145
+
+_Ant. S._ Plead you to me, fair dame? I know you not:
+In Ephesus I am but two hours old,
+As strange unto your town as to your talk;
+Who, every word by all my wit being scann’d,
+Wants wit in all one word to understand.                           150
+
+_Luc._ Fie, brother! how the world is changed with you!
+When were you wont to use my sister thus?
+She sent for you by Dromio home to dinner.
+
+_Ant. S._ By Dromio?
+
+_Dro. S._ By me?                                                   155
+
+_Adr._ By thee; and this thou didst return from him,
+That he did buffet thee, and, in his blows,
+Denied my house for his, me for his wife.
+
+_Ant. S._ Did you converse, sir, with this gentlewoman?
+What is the course and drift of your compact?                      160
+
+_Dro. S._ I, sir? I never saw her till this time.
+
+_Ant. S._ Villain, thou liest; for even her very words
+Didst thou deliver to me on the mart.
+
+_Dro. S._ I never spake with her in all my life.
+
+_Ant. S._ How can she thus, then, call us by our names,            165
+Unless it be by inspiration.
+
+_Adr._ How ill agrees it with your gravity
+To counterfeit thus grossly with your slave,
+Abetting him to thwart me in my mood!
+Be it my wrong you are from me exempt,                             170
+But wrong not that wrong with a more contempt.
+Come, I will fasten on this sleeve of thine:
+Thou art an elm, my husband, I a vine,
+Whose weakness, married to thy stronger state,
+Makes me with thy strength to communicate:                         175
+If aught possess thee from me, it is dross,
+Usurping ivy, brier, or idle moss;
+Who, all for want of pruning, with intrusion
+Infect thy sap, and live on thy confusion.
+
+_Ant. S._ To me she speaks; she moves me for her theme:            180
+What, was I married to her in my dream?
+Or sleep I now, and think I hear all this?
+What error drives our eyes and ears amiss?
+Until I know this sure uncertainty,
+I’ll entertain the offer’d fallacy.                                185
+
+_Luc._ Dromio, go bid the servants spread for dinner.
+
+_Dro. S._ O, for my beads! I cross me for a sinner.
+This is the fairy land;--O spite of spites!
+We talk with goblins, owls, and sprites:
+If we obey them not, this will ensue,                              190
+They’ll suck our breath, or pinch us black and blue.
+
+_Luc._ Why pratest thou to thyself, and answer’st not?
+Dromio, thou drone, thou snail, thou slug, thou sot!
+
+_Dro. S._ I am transformed, master, am I not?
+
+_Ant. S._ I think thou art in mind, and so am I.                   195
+
+_Dro. S._ Nay, master, both in mind and in my shape.
+
+_Ant. S._ Thou hast thine own form.
+
+_Dro. S._                          No, I am an ape.
+
+_Luc._ If thou art chang’d to aught, ’tis to an ass.
+
+_Dro. S._ ’Tis true; she rides me, and I long for grass.
+’Tis so, I am an ass; else it could never be                       200
+But I should know her as well as she knows me.
+
+_Adr._ Come, come, no longer will I be a fool,
+To put the finger in the eye and weep,
+Whilst man and master laughs my woes to scorn.
+Come, sir, to dinner. Dromio, keep the gate.                       205
+Husband, I’ll dine above with you to-day,
+And shrive you of a thousand idle pranks.
+Sirrah, if any ask you for your master,
+Say he dines forth, and let no creature enter.
+Come, sister. Dromio, play the porter well.                        210
+
+_Ant. S._ Am I in earth, in heaven, or in hell?
+Sleeping or waking? mad or well-advised?
+Known unto these, and to myself disguised!
+I’ll say as they say, and persever so,
+And in this mist at all adventures go.                             215
+
+_Dro. S._ Master, shall I be porter at the gate?
+
+_Adr._ Ay; and let none enter, lest I break your pate.
+
+_Luc._ Come, come, Antipholus, we dine too late.
+
+    [_Exeunt._
+
+
+  NOTES: II, 2.
+
+  SCENE II.] Capell. SCENE IV. Pope.
+  A public place.] Capell. A street. Pope.
+  3, 4, 5: _out By ... report. I_] F1 F2 F3. _out By ... report, I_ F4.
+    _out. By ... report, I_ Rowe.
+  12: _didst_] _did didst_ F1.
+  23: Beating him] Beats Dro. Ff.
+  28: _jest_] _jet_ Dyce.
+  29: _common_] _comedy_ Hanmer.
+  35-107: Pope marks as spurious.
+  38: _else_] om. Capell.
+  45: _Why, first_] _First, why_ Capell.
+  53: _next, to_] _next time,_ Capell conj.
+  _to_] _and_ Collier MS.
+  59: _none_] F1. _not_ F2 F3 F4.
+  76: _hair_] _hair to men_ Capell.
+  79: _men_] Pope, ed. 2 (Theobald). _them_ Ff.
+  91: _sound_] F1. _sound ones_ F2 F3 F4.
+  93: _falsing_] _falling_ Heath conj.
+  97: _trimming_] Rowe. _trying_ Ff. _tyring_ Pope. _’tiring_ Collier.
+  101: _no time_] F2 F3 F4. _in no time_ F1. _e’en no time_ Collier
+    (Malone conj.).
+  110: _thy_] F1. _some_ F2 F3 F4.
+  111: _not ... nor_] _but ... and_ Capell conj.
+  112: _unurged_] _unurg’dst_ Pope.
+  117: _or look’d, or_] _look’d,_ Steevens.
+  _to thee_] om. Pope. _thee_ S. Walker conj.
+  119: _then_] _thus_ Rowe.
+  130: _but_] F1. om. F2 F3 F4.
+  135: _off_] Hanmer. _of_ Ff.
+  138: _canst_] _wouldst_ Hanmer.
+  140: _crime_] _grime_ Warburton.
+  142: _thy_] F1. _my_ F2 F3 F4.
+  143: _contagion_] _catagion_ F4.
+  145: _distain’d_] _unstain’d_ Hanmer (Theobald conj.).
+    _dis-stain’d_ Theobald. _distained_ Heath conj.
+  _undishonoured_] _dishonoured_ Heath conj.
+  149, 150: Marked as spurious by Pope.
+  _Who, ... Wants_] _Whose every ..., Want_ Becket conj.
+  150: _Wants_] Ff. _Want_ Johnson.
+  155: _By me?_] Pope. _By me._ Ff.
+  156: _this_] F1, Capell. _thus_ F2 F3 F4.
+  167: _your_] _you_ F2.
+  174: _stronger_] F4. _stranger_ F1 F2 F3.
+  180-185: Marked ‘aside’ by Capell.
+  180: _moves_] _means_ Collier MS.
+  183: _drives_] _draws_ Collier MS.
+  184: _sure uncertainty_] _sure: uncertainly_ Becket conj.
+  185: _offer’d_] Capell. _free’d_ Ff. _favour’d_ Pope.
+    _proffered_ Collier MS.
+  187-201: Marked as spurious by Pope.
+  189: _talk_] _walk and talk_ Anon. conj.
+  _goblins_] _ghosts and goblins_ Lettsom conj.
+  _owls_] _ouphs_ Theobald.
+  _sprites_] F1. _elves sprites_ F2 F3 F4. _elvish sprites_
+    Rowe (ed. 2). _elves and sprites_ Collier MS.
+  191: _or_] _and_ Theobald.
+  192: _and answer’st not?_] F1. om. F2 F3 F4.
+  193: _Dromio, thou drone, thou snail_] Theobald.
+    _Dromio, thou Dromio, thou snaile_ F1.
+    _Dromio, thou Dromio, snaile_ F2 F3 F4.
+  194: _am I not?_] Ff. _am not I?_ Theobald.
+  203: _the eye_] _thy eye_ F2 F3.
+  204: _laughs_] Ff. _laugh_ Pope.
+  211-215: Marked as ‘aside’ by Capell.
+
+
+
+
+ACT III.
+
+
+_SCENE I. Before the house of _ANTIPHOLUS of Ephesus_._
+
+  _Enter _ANTIPHOLUS of Ephesus_, _DROMIO of Ephesus_, ANGELO,
+  and BALTHAZAR._
+
+_Ant. E._ Good Signior Angelo, you must excuse us all;
+My wife is shrewish when I keep not hours:
+Say that I linger’d with you at your shop
+To see the making of her carcanet,
+And that to-morrow you will bring it home.                           5
+But here’s a villain that would face me down
+He met me on the mart, and that I beat him,
+And charged him with a thousand marks in gold,
+And that I did deny my wife and house.
+Thou drunkard, thou, what didst thou mean by this?                  10
+
+_Dro. E._ Say what you will, sir, but I know what I know;
+That you beat me at the mart, I have your hand to show:
+If the skin were parchment, and the blows you gave were ink,
+Your own handwriting would tell you what I think.
+
+_Ant. E._ I think thou art an ass.
+
+_Dro. E._                      Marry, so it doth appear             15
+By the wrongs I suffer, and the blows I bear.
+I should kick, being kick’d; and, being at that pass,
+You would keep from my heels, and beware of an ass.
+
+_Ant. E._ You’re sad, Signior Balthazar: pray God our cheer
+May answer my good will and your good welcome here.                 20
+
+_Bal._ I hold your dainties cheap, sir, and your welcome dear.
+
+_Ant. E._ O, Signior Balthazar, either at flesh or fish,
+A table full of welcome makes scarce one dainty dish.
+
+_Bal._ Good meat, sir, is common; that every churl affords.
+
+_Ant. E._ And welcome more common; for that’s nothing but words.    25
+
+_Bal._ Small cheer and great welcome makes a merry feast.
+
+_Ant. E._ Ay to a niggardly host and more sparing guest:
+But though my cates be mean, take them in good part;
+Better cheer may you have, but not with better heart.
+But, soft! my door is lock’d.--Go bid them let us in.               30
+
+_Dro. E._ Maud, Bridget, Marian, Cicely, Gillian, Ginn!
+
+_Dro. S._ [_Within_] Mome, malt-horse, capon, coxcomb,
+        idiot, patch!
+Either get thee from the door, or sit down at the hatch.
+Dost thou conjure for wenches, that thou call’st for such store,
+When one is one too many? Go get thee from the door,                35
+
+_Dro. E._ What patch is made our porter? My master stays
+        in the street.
+
+_Dro. S._ [_Within_] Let him walk from whence he came, lest he
+        catch cold on’s feet.
+
+_Ant. E._ Who talks within there? ho, open the door!
+
+_Dro. S._ [_Within_] Right, sir; I’ll tell you when, an you’ll
+        tell me wherefore.
+
+_Ant. E._ Wherefore? for my dinner: I have not dined to-day.        40
+
+_Dro. S._ [_Within_] Nor to-day here you must not; come again
+        when you may.
+
+_Ant. E._ What art thou that keepest me out from the house I owe?
+
+_Dro. S._ [_Within_] The porter for this time, sir, and
+        my name is Dromio.
+
+_Dro. E._ O villain, thou hast stolen both mine office
+        and my name!
+The one ne’er got me credit, the other mickle blame.                45
+If thou hadst been Dromio to-day in my place,
+Thou wouldst have changed thy face for a name, or thy name
+        for an ass.
+
+_Luce._ [_Within_] What a coil is there, Dromio? who are
+        those at the gate?
+
+_Dro. E._ Let my master in, Luce.
+
+_Luce._                [_Within_] Faith, no; he comes too late;
+And so tell your master.
+
+_Dro. E._          O Lord, I must laugh!                            50
+Have at you with a proverb;--Shall I set in my staff?
+
+_Luce._ [_Within_] Have at you with another; that’s,
+       --When? can you tell?
+
+_Dro. S._ [_Within_] If thy name be call’d Luce, --Luce,
+        thou hast answer’d him well.
+
+_Ant. E._ Do you hear, you minion? you’ll let us in, I hope?
+
+_Luce._ [_Within_] I thought to have ask’d you.
+
+_Dro. S._     [_Within_] And you said no.                           55
+
+_Dro. E._ So, come, help:--well struck! there was blow for blow.
+
+_Ant. E._ Thou baggage, let me in.
+
+_Luce._            [_Within_] Can you tell for whose sake?
+
+_Dro. E._ Master, knock the door hard.
+
+_Luce._            [_Within_] Let him knock till it ache.
+
+_Ant. E._ You’ll cry for this, minion, if I beat the door down.
+
+_Luce._ [_Within_] What needs all that, and a pair of stocks
+        in the town?                                                60
+
+_Adr._ [_Within_] Who is that at the door that keeps
+        all this noise?
+
+_Dro. S._ [_Within_] By my troth, your town is troubled
+        with unruly boys.
+
+_Ant. E._ Are you, there, wife? you might have come before.
+
+_Adr._ [_Within_] Your wife, sir knave! go get you from the door.
+
+_Dro. E._ If you went in pain, master, this ‘knave’
+        would go sore.                                              65
+
+_Aug._ Here is neither cheer, sir, nor welcome: we would
+        fain have either.
+
+_Bal._ In debating which was best, we shall part with neither.
+
+_Dro. E._ They stand at the door, master; bid them welcome
+        hither.
+
+_Ant. E._ There is something in the wind, that we cannot get in.
+
+_Dro. E._ You would say so, master, if your garments were thin.     70
+Your cake here is warm within; you stand here in the cold:
+It would make a man mad as a buck, to be so bought and sold.
+
+_Ant. E._ Go fetch me something: I’ll break ope the gate.
+
+_Dro. S._ [_Within_] Break any breaking here, and I’ll break
+        your knave’s pate.
+
+_Dro. E._ A man may break a word with you, sir; and words
+        are but wind;                                               75
+Ay, and break it in your face, so he break it not behind.
+
+_Dro. S._ [_Within_] It seems thou want’st breaking: out
+        upon thee, hind!
+
+_Dro. E._ Here’s too much ‘out upon thee!’ I pray thee,
+        let me in.
+
+_Dro. S._ [_Within_] Ay, when fowls have no feathers, and
+        fish have no fin.
+
+_Ant. E._ Well, I’ll break in:--go borrow me a crow.                80
+
+_Dro. E._ A crow without feather? Master, mean you so?
+For a fish without a fin, there’s a fowl without a feather:
+If a crow help us in, sirrah, we’ll pluck a crow together.
+
+_Ant. E._ Go get thee gone; fetch me an iron crow.
+
+_Bal._ Have patience, sir; O, let it not be so!                     85
+Herein you war against your reputation,
+And draw within the compass of suspect
+Th’ unviolated honour of your wife.
+Once this,--your long experience of her wisdom,
+Her sober virtue, years, and modesty,                               90
+Plead on her part some cause to you unknown;
+And doubt not, sir, but she will well excuse
+Why at this time the doors are made against you.
+Be ruled by me: depart in patience,
+And let us to the Tiger all to dinner;                              95
+And about evening come yourself alone
+To know the reason of this strange restraint.
+If by strong hand you offer to break in
+Now in the stirring passage of the day,
+A vulgar comment will be made of it,                               100
+And that supposed by the common rout
+Against your yet ungalled estimation,
+That may with foul intrusion enter in,
+And dwell upon your grave when you are dead;
+For slander lives upon succession,                                 105
+For ever housed where it gets possession.
+
+_Ant. E._ You have prevail’d: I will depart in quiet,
+And, in despite of mirth, mean to be merry.
+I know a wench of excellent discourse,
+Pretty and witty; wild, and yet, too, gentle:                      110
+There will we dine. This woman that I mean,
+My wife--but, I protest, without desert--
+Hath oftentimes upbraided me withal:
+To her will we to dinner. [_To Ang._] Get you home,
+And fetch the chain; by this I know ’tis made:                     115
+Bring it, I pray you, to the Porpentine;
+For there’s the house: that chain will I bestow--
+Be it for nothing but to spite my wife--
+Upon mine hostess there: good sir, make haste.
+Since mine own doors refuse to entertain me,                       120
+I’ll knock elsewhere, to see if they’ll disdain me.
+
+_Ang._ I’ll meet you at that place some hour hence.
+
+_Ant. E._ Do so. This jest shall cost me some expense.
+
+    [_Exeunt._
+
+
+  NOTES: III, 1.
+
+  SCENE I. ANGELO and BALTHAZAR.] Angelo the Goldsmith and Balthasar
+    the Merchant. Ff.
+  1: _all_] om. Pope.
+  11-14: Put in the margin as spurious by Pope.
+  11: _Say_] _you must say_ Capell.
+  13: _the skin_] _my skin_ Collier MS.
+  14: _own_] F1. om. F2 F3 F4.
+  _you_] _you for certain_ Collier MS.
+  15: _doth_] _dont_ Theobald.
+  19: _You’re_] _Y’are_ Ff. _you are_ Capell.
+  20: _here_] om. Pope.
+  21-29: Put in the margin as spurious by Pope.
+  31: _Ginn_] om. Pope. _Jen’_ Malone. _Gin’_ Collier. _Jin_ Dyce.
+  36-60: Put in the margin as spurious by Pope.
+  32, sqq.: [Within] Rowe.
+  46: _been_] F1. _bid_ F2 F3 F4.
+  47: _an ass_] _a face_ Collier MS.
+  48: Luce. [Within] Rowe. Enter Luce. Ff.
+  _there, Dromio? who_] _there! Dromio, who_ Capell.
+  54: _hope_] _trow_ Theobald. Malone supposes a line omitted
+    ending _rope_.
+  61: Adr. [Within]. Rowe. Enter Adriana. Ff.
+  65-83: Put in the margin as spurious by Pope.
+  67: _part_] _have part_ Warburton.
+  71: _cake here_] _cake_ Capell. _cake there_ Anon. conj.
+  72: _mad_] F1. _as mad_ F2 F3 F4.
+  _as a buck_] om. Capell.
+  75: _you,_] _your_ F1.
+  85: _so_] _thus_ Pope.
+  89: _Once this_] _Own this_ Malone conj. _This once_ Anon. conj.
+  _her_] Rowe. _your_ Ff.
+  91: _her_] Rowe. _your_ Ff.
+  93: _made_] _barr’d_ Pope.
+  105: _slander_] _lasting slander_ Johnson conj.
+  _upon_] _upon its own_ Capell conj.
+  106: _housed ... gets_] Collier. _hous’d ... gets_ F1.
+    _hous’d ... once gets_ F2 F3 F4. _hous’d where ’t gets_ Steevens.
+  108: _mirth_] _wrath_ Theobald.
+  116: _Porpentine_] Ff. _Porcupine_ Rowe (and passim).
+  117: _will I_] F1. _I will_ F2 F3 F4.
+  119: _mine_] F1. _my_ F2 F3 F4.
+  122: _hour_] F1. _hour, sir_ F2 F3 F4.
+
+
+_SCENE II. The same._
+
+  _Enter LUCIANA and _ANTIPHOLUS of Syracuse_._
+
+_Luc._ And may it be that you have quite forgot
+    A husband’s office? shall, Antipholus,
+Even in the spring of love, thy love-springs rot?
+    Shall love, in building, grow so ruinous?
+If you did wed my sister for her wealth,                             5
+    Then for her wealth’s sake use her with more kindness:
+Or if you like elsewhere, do it by stealth;
+    Muffle your false love with some show of blindness:
+Let not my sister read it in your eye;
+    Be not thy tongue thy own shame’s orator;                       10
+Look sweet, speak fair, become disloyalty;
+    Apparel vice like virtue’s harbinger;
+Bear a fair presence, though your heart be tainted;
+    Teach sin the carriage of a holy saint;
+Be secret-false: what need she be acquainted?                       15
+    What simple thief brags of his own attaint?
+’Tis double wrong, to truant with your bed,
+    And let her read it in thy looks at board:
+Shame hath a bastard fame, well managed;
+    Ill deeds are doubled with an evil word.                        20
+Alas, poor women! make us but believe,
+    Being compact of credit, that you love us;
+Though others have the arm, show us the sleeve;
+    We in your motion turn, and you may move us.
+Then, gentle brother, get you in again;                             25
+    Comfort my sister, cheer her, call her wife:
+’Tis holy sport, to be a little vain,
+    When the sweet breath of flattery conquers strife.
+
+_Ant. S._ Sweet mistress,--what your name is else, I know not,
+    Nor by what wonder you do hit of mine,--                        30
+Less in your knowledge and your grace you show not
+    Than our earth’s wonder; more than earth divine.
+Teach me, dear creature, how to think and speak;
+    Lay open to my earthy-gross conceit,
+Smother’d in errors, feeble, shallow, weak,                         35
+    The folded meaning of your words’ deceit.
+Against my soul’s pure truth why labour you
+    To make it wander in an unknown field?
+Are you a god? would you create me new?
+    Transform me, then, and to your power I’ll yield.               40
+But if that I am I, then well I know
+    Your weeping sister is no wife of mine,
+Nor to her bed no homage do I owe:
+    Far more, far more to you do I decline.
+O, train me not, sweet mermaid, with thy note,                      45
+    To drown me in thy sister flood of tears:
+Sing, siren, for thyself, and I will dote:
+    Spread o’er the silver waves thy golden hairs,
+And as a bed I’ll take them, and there lie;
+    And, in that glorious supposition, think                        50
+He gains by death that hath such means to die:
+    Let Love, being light, be drowned if she sink!
+
+_Luc._ What, are you mad, that you do reason so?
+
+_Ant. S._ Not mad, but mated; how, I do not know.
+
+_Luc._ It is a fault that springeth from your eye.                  55
+
+_Ant. S._ For gazing on your beams, fair sun, being by.
+
+_Luc._ Gaze where you should, and that will clear your sight.
+
+_Ant. S._ As good to wink, sweet love, as look on night.
+
+_Luc._ Why call you me love? call my sister so.
+
+_Ant. S._ Thy sister’s sister.
+
+_Luc._                       That’s my sister.
+
+_Ant. S._                                    No;                    60
+It is thyself, mine own self’s better part,
+Mine eye’s clear eye, my dear heart’s dearer heart,
+My food, my fortune, and my sweet hope’s aim,
+My sole earth’s heaven, and my heaven’s claim.
+
+_Luc._ All this my sister is, or else should be.                    65
+
+_Ant. S._ Call thyself sister, sweet, for I am thee.
+Thee will I love, and with thee lead my life:
+Thou hast no husband yet, nor I no wife.
+Give me thy hand.
+
+_Luc._          O, soft, sir! hold you still:
+I’ll fetch my sister, to get her good will.    [_Exit._             70
+
+  _Enter _DROMIO of Syracuse_._
+
+_Ant. S._ Why, how now, Dromio! where runn’st thou
+so fast?
+
+_Dro. S._ Do you know me, sir? am I Dromio? am I
+your man? am I myself?
+
+_Ant. S._ Thou art Dromio, thou art my man, thou art                75
+thyself.
+
+_Dro. S._ I am an ass, I am a woman’s man, and
+besides myself.
+
+_Ant. S._ What woman’s man? and how besides thyself?
+
+_Dro. S._ Marry, sir, besides myself, I am due to a                 80
+woman; one that claims me, one that haunts me, one that
+will have me.
+
+_Ant. S._ What claim lays she to thee?
+
+_Dro. S._ Marry, sir, such claim as you would lay to
+your horse; and she would have me as a beast: not that,             85
+I being a beast, she would have me; but that she, being
+a very beastly creature, lays claim to me.
+
+_Ant. S._ What is she?
+
+_Dro. S._ A very reverent body; ay, such a one as a man
+may not speak of, without he say Sir-reverence. I have              90
+but lean luck in the match, and yet is she a wondrous fat
+marriage.
+
+_Ant. S._ How dost thou mean a fat marriage?
+
+_Dro. S._ Marry, sir, she’s the kitchen-wench, and all
+grease; and I know not what use to put her to, but to make          95
+a lamp of her, and run from her by her own light. I warrant,
+her rags, and the tallow in them, will burn a Poland
+winter: if she lives till doomsday, she’ll burn a week
+longer than the whole world.
+
+_Ant. S._ What complexion is she of?                               100
+
+_Dro. S._ Swart, like my shoe, but her face nothing like
+so clean kept: for why she sweats; a man may go over
+shoes in the grime of it.
+
+_Ant. S._ That’s a fault that water will mend.
+
+_Dro. S._ No, sir, ’tis in grain; Noah’s flood could not           105
+do it.
+
+_Ant. S._ What’s her name?
+
+_Dro. S._ Nell, sir; but her name and three quarters,
+that’s an ell and three quarters, will not measure her from
+hip to hip.                                                        110
+
+_Ant. S._ Then she bears some breadth?
+
+_Dro. S._ No longer from head to foot than from hip to
+hip: she is spherical, like a globe; I could find out countries
+in her.
+
+_Ant. S._ In what part of her body stands Ireland?                 115
+
+_Dro. S._ Marry, sir, in her buttocks: I found it out by
+the bogs.
+
+_Ant. S._ Where Scotland?
+
+_Dro. S._ I found it by the barrenness; hard in the palm
+of the hand.                                                       120
+
+_Ant. S._ Where France?
+
+_Dro. S._ In her forehead; armed and reverted, making
+war against her heir.
+
+_Ant. S._ Where England?
+
+_Dro. S._ I looked for the chalky cliffs, but I could find         125
+no whiteness in them; but I guess it stood in her chin, by
+the salt rheum that ran between France and it.
+
+_Ant. S._ Where Spain?
+
+_Dro. S._ Faith, I saw it not; but I felt it hot in her
+breath.                                                            130
+
+_Ant. S._ Where America, the Indies?
+
+_Dro. S._ Oh, sir, upon her nose, all o’er embellished
+with rubies, carbuncles, sapphires, declining their rich aspect
+to the hot breath of Spain; who sent whole armadoes
+of caracks to be ballast at her nose.                              135
+
+_Ant. S._ Where stood Belgia, the Netherlands?
+
+_Dro. S._ Oh, sir, I did not look so low. To conclude,
+this drudge, or diviner, laid claim to me; called me
+Dromio; swore I was assured to her; told me what privy
+marks I had about me, as, the mark of my shoulder, the             140
+mole in my neck, the great wart on my left arm, that
+I, amazed, ran from her as a witch:
+
+And, I think, if my breast had not been made of faith, and
+        my heart of steel,
+She had transform’d me to a curtal dog, and made me turn
+        i’ the wheel.
+
+_Ant. S._ Go hie thee presently, post to the road:--               145
+An if the wind blow any way from shore,
+I will not harbour in this town to-night:--
+If any bark put forth, come to the mart,
+Where I will walk till thou return to me.
+If every one knows us, and we know none,                           150
+’Tis time, I think, to trudge, pack, and be gone.
+
+_Dro. S._ As from a bear a man would run for life,
+So fly I from her that would be my wife.    [_Exit._
+
+_Ant. S._ There’s none but witches do inhabit here;
+And therefore ’tis high time that I were hence.                    155
+She that doth call me husband, even my soul
+Doth for a wife abhor. But her fair sister,
+Possess’d with such a gentle sovereign grace,
+Of such enchanting presence and discourse,
+Hath almost made me traitor to myself:                             160
+But, lest myself be guilty to self-wrong,
+I’ll stop mine ears against the mermaid’s song.
+
+  _Enter ANGELO with the chain._
+
+_Ang._ Master Antipholus,--
+
+_Ant. S._                  Ay, that’s my name.
+
+_Ang._ I know it well, sir:--lo, here is the chain.
+I thought to have ta’en you at the Porpentine:                     165
+The chain unfinish’d made me stay thus long.
+
+_Ant. S._ What is your will that I shall do with this?
+
+_Ang._ What please yourself, sir: I have made it for you.
+
+_Ant. S._ Made it for me, sir! I bespoke it not.
+
+_Ang._ Not once, nor twice, but twenty times you have.             170
+Go home with it, and please your wife withal;
+And soon at supper-time I’ll visit you,
+And then receive my money for the chain.
+
+_Ant. S._ I pray you, sir, receive the money now,
+For fear you ne’er see chain nor money more.                       175
+
+_Ang._ You are a merry man, sir: fare you well.    [_Exit._
+
+_Ant. S._ What I should think of this, I cannot tell:
+But this I think, there’s no man is so vain
+That would refuse so fair an offer’d chain.
+I see a man here needs not live by shifts,                         180
+When in the streets he meets such golden gifts.
+I’ll to the mart, and there for Dromio stay:
+If any ship put out, then straight away.    [_Exit._
+
+
+  NOTES: III, 2.
+
+  SCENE II. Enter LUCIANA] F2. Enter JULIANA F1.
+  1: Luc.] Rowe. Julia Ff.
+  2: _Antipholus_] _Antipholis, hate_ Theobald. _Antipholis, thus_
+    Id. conj. _a nipping hate_ Heath conj. _unkind debate_ Collier MS.
+  4: _building_] Theobald. _buildings_ Ff.
+  _ruinous_] Capell (Theobald conj.). _ruinate_ Ff.
+  16: _attaint_] Rowe. _attaine_ F1 F2 F3. _attain_ F4.
+  20: _are_] F2 F3 F4. _is_ F1.
+  21: _but_] Theobald. _not_ Ff.
+  26: _wife_] _wise_ F1.
+  35: _shallow_] F1. _shaddow_ F2 F3. _shadow_ F4.
+  43: _no_] F1. _a_ F2 F3 F4.
+  44: _decline_] _incline_ Collier MS.
+  46: _sister_] F1. _sister’s_ F2 F3 F4.
+  49: _bed_] F2 F3 F4. _bud_ F1. _bride_ Dyce.
+  _them_] Capell (Edwards conj.). _thee_ Ff.
+  52: _she_] _he_ Capell.
+  57: _where_] Pope. _when_ Ff.
+  66: _am_] _mean_ Pope. _aim_ Capell.
+  71: SCENE III. Pope.
+  93: _How_] _What_ Capell.
+  97: _Poland_] _Lapland_ Warburton.
+  108: _and_] Theobald (Thirlby conj). _is_ Ff.
+  120: _the_] Ff. _her_ Rowe.
+  122: _forehead_] _sore head_ Jackson conj.
+  _reverted_] _revolted_ Grant White.
+  123: _heir_] _heire_ F1. _haire_ F2 F3. _hair_ F4.
+  125: _chalky_] _chalkle_ F1.
+  135: _caracks_] Hanmer. _carrects_ F1. _carracts_ F2 F3 F4.
+  _ballast_] _ballasted_ Capell.
+  138: _drudge, or_] _drudge of the Devil, this_ Warburton.
+  _or diviner_] _this divine one_ Capell conj.
+  140: _mark_] _marke_ F1. _marks_ F2 F3 F4.
+  143: _faith_] _flint_ Hanmer.
+  143, 144: Printed as prose in Ff. As verse first by Knight.
+  144: _curtal_] F4. _curtull_ F1. _curtall_ F2 F3. _cur-tail_ Hanmer.
+  146: _An_] Capell. _And_ Ff.
+  150: _knows us_] _know us_ Johnson.
+  154: SCENE IV. Pope.
+  161: _to_] _of_ Pope.
+  164: _here is_] Pope. _here’s_ Ff.
+  177: Ant. S.] Ant. F1 F4. Dro. F2 F3.
+  181: _streets_] _street_ Capell conj.
+
+
+
+
+ACT IV.
+
+
+_SCENE I. A public place._
+
+  _Enter _Second Merchant_, ANGELO, and an _Officer_._
+
+_Sec. Mer._ You know since Pentecost the sum is due,
+And since I have not much importuned you;
+Nor now I had not, but that I am bound
+To Persia, and want guilders for my voyage:
+Therefore make present satisfaction,                                 5
+Or I’ll attach you by this officer.
+
+_Ang._ Even just the sum that I do owe to you
+Is growing to me by Antipholus;
+And in the instant that I met with you
+He had of me a chain: at five o’clock                               10
+I shall receive the money for the same.
+Pleaseth you walk with me down to his house,
+I will discharge my bond, and thank you too.
+
+  _Enter _ANTIPHOLUS of Ephesus_ and _DROMIO of Ephesus_ from
+  the courtezan’s._
+
+_Off._ That labour may you save: see where he comes.
+
+_Ant. E._ While I go to the goldsmith’s house, go thou              15
+And buy a rope’s end: that will I bestow
+Among my wife and her confederates,
+For locking me out of my doors by day.--
+But, soft! I see the goldsmith. Get thee gone;
+Buy thou a rope, and bring it home to me.                           20
+
+_Dro. E._ I buy a thousand pound a year: I buy a rope.
+    [_Exit._
+
+_Ant. E._ A man is well holp up that trusts to you:
+I promised your presence and the chain;
+But neither chain nor goldsmith came to me.
+Belike you thought our love would last too long,                    25
+If it were chain’d together, and therefore came not.
+
+_Ang._ Saving your merry humour, here’s the note
+How much your chain weighs to the utmost carat,
+The fineness of the gold, and chargeful fashion,
+Which doth amount to three odd ducats more                          30
+Than I stand debted to this gentleman:
+I pray you, see him presently discharged,
+For he is bound to sea, and stays but for it.
+
+_Ant. E._ I am not furnish’d with the present money;
+Besides, I have some business in the town.                          35
+Good signior, take the stranger to my house,
+And with you take the chain, and bid my wife
+Disburse the sum on the receipt thereof:
+Perchance I will be there as soon as you.
+
+_Ang._ Then you will bring the chain to her yourself?               40
+
+_Ant. E._ No; bear it with you, lest I come not time enough.
+
+_Ang._ Well, sir, I will. Have you the chain about you?
+
+_Ant. E._ An if I have not, sir, I hope you have;
+Or else you may return without your money.
+
+_Ang._ Nay, come, I pray you, sir, give me the chain:               45
+Both wind and tide stays for this gentleman,
+And I, to blame, have held him here too long.
+
+_Ant. E._ Good Lord! you use this dalliance to excuse
+Your breach of promise to the Porpentine.
+I should have chid you for not bringing it,                         50
+But, like a shrew, you first begin to brawl.
+
+_Sec. Mer._ The hour steals on; I pray you, sir, dispatch.
+
+_Ang._ You hear how he importunes me;--the chain!
+
+_Ant. E._ Why, give it to my wife, and fetch your money.
+
+_Ang._ Come, come, you know I gave it you even now.                 55
+Either send the chain, or send me by some token.
+
+_Ant. E._ Fie, now you run this humour out of breath.
+Come, where’s the chain? I pray you, let me see it.
+
+_Sec. Mer._ My business cannot brook this dalliance.
+Good sir, say whether you’ll answer me or no:                       60
+If not, I’ll leave him to the officer.
+
+_Ant. E._ I answer you! what should I answer you?
+
+_Ang._ The money that you owe me for the chain.
+
+_Ant. E._ I owe you none till I receive the chain.
+
+_Ang._ You know I gave it you half an hour since.                   65
+
+_Ant. E._ You gave me none: you wrong me much to say so.
+
+_Ang._ You wrong me more, sir, in denying it:
+Consider how it stands upon my credit.
+
+_Sec. Mer._ Well, officer, arrest him at my suit.
+
+_Off._ I do; and charge you in the duke’s name to obey me.          70
+
+_Ang._ This touches me in reputation.
+Either consent to pay this sum for me,
+Or I attach you by this officer.
+
+_Ant. E._ Consent to pay thee that I never had!
+Arrest me, foolish fellow, if thou darest.                          75
+
+_Ang._ Here is thy fee; arrest him, officer.
+I would not spare my brother in this case,
+If he should scorn me so apparently.
+
+_Off._ I do arrest you, sir: you hear the suit.
+
+_Ant. E._ I do obey thee till I give thee bail.                     80
+But, sirrah, you shall buy this sport as dear
+As all the metal in your shop will answer.
+
+_Ang._ Sir, sir, I shall have law in Ephesus,
+To your notorious shame; I doubt it not.
+
+  _Enter _DROMIO of Syracuse_, from the bay._
+
+_Dro. S._ Master, there is a bark of Epidamnum                      85
+That stays but till her owner comes aboard,
+And then, sir, she bears away. Our fraughtage, sir,
+I have convey’d aboard; and I have bought
+The oil, the balsamum, and aqua-vitæ.
+The ship is in her trim; the merry wind                             90
+Blows fair from land: they stay for nought at all
+But for their owner, master, and yourself.
+
+_Ant. E._ How now! a madman! Why, thou peevish sheep,
+What ship of Epidamnum stays for me?
+
+_Dro. S._ A ship you sent me to, to hire waftage.                   95
+
+_Ant. E._ Thou drunken slave, I sent thee for a rope,
+And told thee to what purpose and what end.
+
+_Dro. S._ You sent me for a rope’s end as soon:
+You sent me to the bay, sir, for a bark.
+
+_Ant. E._ I will debate this matter at more leisure,               100
+And teach your ears to list me with more heed.
+To Adriana, villain, hie thee straight:
+Give her this key, and tell her, in the desk
+That’s cover’d o’er with Turkish tapestry
+There is a purse of ducats; let her send it:                       105
+Tell her I am arrested in the street,
+And that shall bail me: hie thee, slave, be gone!
+On, officer, to prison till it come.
+
+    [_Exeunt Sec. Merchant, Angelo, Officer, and Ant. E._
+
+_Dro. S._ To Adriana! that is where we dined,
+Where Dowsabel did claim me for her husband:                       110
+She is too big, I hope, for me to compass.
+Thither I must, although against my will,
+For servants must their masters’ minds fulfil.    [_Exit._
+
+
+  NOTES: IV, 1.
+
+  8: _growing_] _owing_ Pope.
+  12: _Pleaseth you_] Ff. _Please you but_ Pope. _Please it you_
+    Anon. conj.
+  14: _may you_] F1 F2 F3. _you may_ F4.
+  17: _her_] Rowe. _their_ Ff. _these_ Collier MS.
+  26: _and_] om. Pope.
+  28: _carat_] Pope. _charect_ F1. _Raccat_ F2 F3 F4. _caract_ Collier.
+  29: _chargeful_] _charge for_ Anon. conj.
+  41: _time enough_] _in time_ Hanmer.
+  46: _stays_] _stay_ Pope.
+  _this_] F1. _the_ F2 F3 F4.
+  47: _to blame_] F3. _too blame_ F1 F2 F4.
+  53: _the chain!_] Dyce. _the chain,_ Ff. _the chain--_ Johnson.
+  56: _Either_] _Or_ Pope.
+  _me by_] _by me_ Heath conj.
+  60: _whether_] _whe’r_ Ff. _where_ Rowe. _if_ Pope.
+  62: _what_] F1. _why_ F2 F3 F4.
+  67: _more_] F1. om. F2 F3 F4.
+  70: Printed as verse by Capell.
+  73: _this_] F1. _the_ F2 F3 F4.
+  74: _thee_] F1. om. F2 F3 F4. _for_ Rowe.
+  85: SCENE II. Pope.
+  _there is_] Pope. _there’s_ Ff.
+  87: _And then, sir,_] F1. _Then, sir,_ F2 F3 F4. _And then_ Capell.
+  _she_] om. Steevens.
+  88: _bought_] F1. _brought_ F2 F3 F4.
+  98: _You sent me_] _A rope! You sent me_ Capell.
+    _You sent me, Sir,_ Steevens.
+
+
+_SCENE II. The house of _ANTIPHOLUS of Ephesus_._
+
+  _Enter ADRIANA and LUCIANA._
+
+_Adr._ Ah, Luciana, did he tempt thee so?
+    Mightst thou perceive austerely in his eye
+That he did plead in earnest? yea or no?
+    Look’d he or red or pale, or sad or merrily?
+What observation madest thou, in this case,                          5
+Of his heart’s meteors tilting in his face?
+
+_Luc._ First he denied you had in him no right.
+
+_Adr._ He meant he did me none; the more my spite.
+
+_Luc._ Then swore he that he was a stranger here.
+
+_Adr._ And true he swore, though yet forsworn he were.              10
+
+_Luc._ Then pleaded I for you.
+
+_Adr._                       And what said he?
+
+_Luc._ That love I begg’d for you he begg’d of me.
+
+_Adr._ With what persuasion did he tempt thy love?
+
+_Luc._ With words that in an honest suit might move.
+First he did praise my beauty, then my speech.                      15
+
+_Adr._ Didst speak him fair?
+
+_Luc._                      Have patience, I beseech.
+
+_Adr._ I cannot, nor I will not, hold me still;
+My tongue, though not my heart, shall have his will.
+He is deformed, crooked, old, and sere,
+Ill-faced, worse bodied, shapeless everywhere;                      20
+Vicious, ungentle, foolish, blunt, unkind;
+Stigmatical in making, worse in mind.
+
+_Luc._ Who would be jealous, then, of such a one?
+No evil lost is wail’d when it is gone.
+
+_Adr._ Ah, but I think him better than I say,                       25
+    And yet would herein others’ eyes were worse.
+Far from her nest the lapwing cries away:
+    My heart prays for him, though my tongue do curse.
+
+  _Enter _DROMIO of Syracuse_._
+
+_Dro. S._ Here! go; the desk, the purse! sweet, now, make haste.
+
+_Luc._ How hast thou lost thy breath?
+
+_Dro. S._                            By running fast.               30
+
+_Adr._ Where is thy master, Dromio? is he well?
+
+_Dro. S._ No, he’s in Tartar limbo, worse than hell.
+A devil in an everlasting garment hath him;
+One whose hard heart is button’d up with steel;
+A fiend, a fury, pitiless and rough;                                35
+A wolf, nay, worse; a fellow all in buff;
+A back-friend, a shoulder-clapper, one that countermands
+The passages of alleys, creeks, and narrow lands;
+A hound that runs counter, and yet draws dry-foot well;
+One that, before the Judgment, carries poor souls to hell.          40
+
+_Adr._ Why, man, what is the matter?
+
+_Dro. S._ I do not know the matter: he is ’rested on the case.
+
+_Adr._ What, is he arrested? Tell me at whose suit.
+
+_Dro. S._ I know not at whose suit he is arrested well;
+But he’s in a suit of buff which ’rested him, that can I tell.      45
+Will you send him, mistress, redemption, the money in his desk?
+
+_Adr._ Go fetch it, sister. [_Exit Luciana._] This I wonder at,
+That he, unknown to me, should be in debt.
+Tell me, was he arrested on a band?
+
+_Dro. S._ Not on a band, but on a stronger thing;                   50
+A chain, a chain! Do you not hear it ring?
+
+_Adr._ What, the chain?
+
+_Dro. S._ No, no, the bell: ’tis time that I were gone:
+It was two ere I left him, and now the clock strikes one.
+
+_Adr._ The hours come back! that did I never hear.                  55
+
+_Dro. S._ O, yes; if any hour meet a sergeant, ’a turns back
+        for very fear.
+
+_Adr._ As if Time were in debt! how fondly dost thou reason!
+
+_Dro. S._ Time is a very bankrupt, and owes more than he’s
+        worth to season.
+Nay, he’s a thief too: have you not heard men say,
+That Time comes stealing on by night and day?                       60
+If Time be in debt and theft, and a sergeant in the way,
+Hath he not reason to turn back an hour in a day?
+
+  _Re-enter LUCIANA with a purse._
+
+_Adr._ Go, Dromio; there’s the money, bear it straight;
+  And bring thy master home immediately.
+Come, sister: I am press’d down with conceit,--                     65
+  Conceit, my comfort and my injury.
+
+    [_Exeunt._
+
+
+  NOTES: IV, 2.
+
+  SCENE II.] SCENE III. Pope.
+  2: _austerely_] _assuredly_ Heath conj.
+  4: _or sad or_] _sad_ Capell.
+  _merrily_] _merry_ Collier MS.
+  6: _Of_] F2 F3 F4. _Oh,_ F1.
+  7: _you_] _you; you_ Capell.
+  _no_] _a_ Rowe.
+  18: _his_] _it’s_ Rowe.
+  22: _in mind_] F1. _the mind_ F2 F3 F4.
+  26: _herein_] _he in_ Hanmer.
+  29: SCENE IV. Pope.
+  _sweet_] _swift_ Collier MS.
+  33: _hath him_] _hath him fell_ Collier MS. _hath him by the heel_
+    Spedding conj.
+  34: _One_] F2 F3 F4. _On_ F1.
+  After this line Collier MS. inserts: _Who knows no touch of mercy,
+    cannot feel_.
+  35: _fury_] Pope, ed. 2 (Theobald). _Fairie_ Ff.
+  37: _countermands_] _commands_ Theobald.
+  38: _of_] _and_ Collier MS.
+  _alleys_] _allies_ Ff.
+  _lands_] _lanes_ Grey conj. See note (V).
+  37, 38: _countermands The ... lands_] _his court maintains I’ the
+    ... lanes_ Becket conj.
+  42, 45: _’rested_] Theobald. _rested_ Ff.
+  43: _Tell_] _Well, tell_ Edd. conj.
+  44: _arrested well;_] F1. _arrested, well;_ F2 F3.
+    _arrested: well:_ F4.
+  45: _But he’s_] F3 F4. _But is_ F1 F2. _But ’a’s_ Edd. conj.
+  _can I_] F1 F2. _I can_ F3 F4.
+  46: _mistress, redemption_] Hanmer. _Mistris redemption_ F1 F2 F3.
+    _Mistris Redemption_ F4. See note (VI).
+  48: _That_] _Thus_ F1.
+  49, 50: _band_] _bond_ Rowe.
+  50: _but on_] _but_ Pope.
+  54-62: Put in the margin as spurious by Pope.
+  55: _hear_] _here_ F1.
+  56: _’a turns_] _it turns_ Pope. _he turns_ Capell.
+  58: _bankrupt_] _bankrout_ Ff.
+  _to season_] om. Pope.
+  61: _Time_] Rowe. _I_ Ff. _he_ Malone. _’a_ Staunton.
+  62: _an hour_] _any hour_ Collier MS.
+
+
+_SCENE III. A public place._
+
+  _Enter _ANTIPHOLUS of Syracuse_._
+
+_Ant. S._ There’s not a man I meet but doth salute me
+As if I were their well-acquainted friend;
+And every one doth call me by my name.
+Some tender money to me; some invite me;
+Some other give me thanks for kindnesses;                            5
+Some offer me commodities to buy;--
+Even now a tailor call’d me in his shop,
+And show’d me silks that he had bought for me,
+And therewithal took measure of my body.
+Sure, these are but imaginary wiles,                                10
+And Lapland sorcerers inhabit here.
+
+  _Enter _DROMIO of Syracuse_._
+
+_Dro. S._ Master, here’s the gold you sent me for.--
+What, have you got the picture of old Adam new-apparelled?
+
+_Ant. S._ What gold is this? what Adam dost thou mean?
+
+_Dro. S._ Not that Adam that kept the Paradise, but that            15
+Adam that keeps the prison: he that goes in the calf’s skin
+that was killed for the Prodigal; he that came behind you,
+sir, like an evil angel, and bid you forsake your liberty.
+
+_Ant. S._ I understand thee not.
+
+_Dro. S._ No? why, ’tis a plain case: he that went, like a          20
+base-viol, in a case of leather; the man, sir, that, when
+gentlemen are tired, gives them a sob, and ’rests them; he, sir,
+that takes pity on decayed men, and gives them suits of
+durance; he that sets up his rest to do more exploits with
+his mace than a morris-pike.                                        25
+
+_Ant. S._ What, thou meanest an officer?
+
+_Dro. S._ Ay, sir, the sergeant of the band; he that
+brings any man to answer it that breaks his band; one that
+thinks a man always going to bed, and says, ’God give you
+good rest!’                                                         30
+
+_Ant. S._ Well, sir, there rest in your foolery. Is there
+any ship puts forth to-night? may we be gone?
+
+_Dro. S._ Why, sir, I brought you word an hour since,
+that the bark Expedition put forth to-night; and then were
+you hindered by the sergeant, to tarry for the hoy Delay.           35
+Here are the angels that you sent for to deliver you.
+
+_Ant. S._ The fellow is distract, and so am I;
+And here we wander in illusions:
+Some blessed power deliver us from hence!
+
+  _Enter a _Courtezan_._
+
+_Cour._ Well met, well met, Master Antipholus.                      40
+I see, sir, you have found the goldsmith now:
+Is that the chain you promised me to-day?
+
+_Ant. S._ Satan, avoid! I charge thee, tempt me not.
+
+_Dro. S._ Master, is this Mistress Satan?
+
+_Ant. S._ It is the devil.                                          45
+
+_Dro. S._ Nay, she is worse, she is the devil’s dam; and
+here she comes in the habit of a light wench: and thereof
+comes that the wenches say, ‘God damn me;’ that’s as
+much to say, ‘God make me a light wench.’ It is written,
+they appear to men like angels of light: light is an effect of      50
+fire, and fire will burn; ergo, light wenches will burn. Come
+not near her.
+
+_Cour._ Your man and you are marvellous merry, sir.
+Will you go with me? We’ll mend our dinner here?
+
+_Dro. S._ Master, if you do, expect spoon-meat; or bespeak          55
+a long spoon.
+
+_Ant. S._ Why, Dromio?
+
+_Dro. S._ Marry, he must have a long spoon that must
+eat with the devil.
+
+_Ant. S._ Avoid then, fiend! what tell’st thou me of supping?       60
+Thou art, as you are all, a sorceress:
+I conjure thee to leave me and be gone.
+
+_Cour._ Give me the ring of mine you had at dinner,
+Or, for my diamond, the chain you promised,
+And I’ll be gone, sir, and not trouble you.                         65
+
+_Dro. S._ Some devils ask but the parings of one’s nail,
+A rush, a hair, a drop of blood, a pin,
+A nut, a cherry-stone;
+But she, more covetous, would have a chain.
+Master, be wise: an if you give it her,                             70
+The devil will shake her chain, and fright us with it.
+
+_Cour._ I pray you, sir, my ring, or else the chain:
+I hope you do not mean to cheat me so.
+
+_Ant. S._ Avaunt, thou witch! --Come, Dromio, let us go.
+
+_Dro. S._ ‘Fly pride,’ says the peacock: mistress, that you know.
+
+    [_Exeunt Ant. S. and Dro. S._                                   75
+
+_Cour._ Now, out of doubt Antipholus is mad,
+Else would he never so demean himself.
+A ring he hath of mine worth forty ducats,
+And for the same he promised me a chain:
+Both one and other he denies me now.                                80
+The reason that I gather he is mad,--
+Besides this present instance of his rage,--
+Is a mad tale he told to-day at dinner,
+Of his own doors being shut against his entrance.
+Belike his wife, acquainted with his fits,                          85
+On purpose shut the doors against his way.
+My way is now to his home to his house,
+And tell his wife that, being lunatic,
+He rush’d into my house, and took perforce
+My ring away. This course I fittest choose;                         90
+For forty ducats is too much to lose.    [_Exit._
+
+
+  NOTES: IV, 3.
+
+  SCENE III.] SCENE V. Pope.
+  13: _What, have_] Pope. _What have_ Ff.
+  _got_] _got rid of_ Theobald. _not_ Anon. conj.
+  16: _calf’s skin_] _calves-skin_ Ff.
+  22: _sob_] _fob_ Rowe. _bob_ Hanmer. _sop_ Dyce conj.
+    _stop_ Grant White.
+  _’rests_] Warburton. _rests_ Ff.
+  25: _morris_] _Moris_ Ff. _Maurice_ Hanmer (Warburton).
+  28: _band_] _bond_ Rowe.
+  29: _says_] Capell. _saies_ F1. _saieth_ F2. _saith_ F3 F4.
+  32: _ship_] F2 F3 F4. _ships_ F1.
+  34: _put_] _puts_ Pope.
+  40: SCENE VI. Pope.
+  44-62: Put in the margin as spurious by Pope.
+  47-49: _and ... wench.’_] Marked as spurious by Capell, MS.
+  48, 49: _as much_] _as much as_ Pope.
+  54: _me? ... here?_] _me, ... here?_ Ff. _me? ... here._ Steevens.
+  55: _if you do, expect_] F2 F3 F4. _if do expect_ F1.
+  _or_] om. Rowe. _so_ Capell. _either stay away, or_ Malone conj.
+    _and_ Ritson conj. _Oh!_ Anon. conj.
+  60: _then_] F1 F2 F3. _thou_ F4. _thee_ Dyce.
+  61: _are all_] _all are_ Boswell.
+  66-71: Printed as prose by Ff, as verse by Capell, ending the
+    third line at _covetous_.
+  75: Put in the margin as spurious by Pope.
+  76: SCENE VII. Pope.
+  84: _doors_] _door_ Johnson.
+
+
+_SCENE IV. A street._
+
+  _Enter _ANTIPHOLUS of Ephesus_ and the _Officer_._
+
+_Ant. E._ Fear me not, man; I will not break away:
+I’ll give thee, ere I leave thee, so much money,
+To warrant thee, as I am ’rested for.
+My wife is in a wayward mood to-day,
+And will not lightly trust the messenger.                            5
+That I should be attach’d in Ephesus,
+I tell you, ’twill sound harshly in her ears.
+
+  _Enter _DROMIO of Ephesus_ with a ropes-end._
+
+Here comes my man; I think he brings the money.
+How now, sir! have you that I sent you for?
+
+_Dro. E._ Here’s that, I warrant you, will pay them all.            10
+
+_Ant. E._ But where’s the money?
+
+_Dro. E._ Why, sir, I gave the money for the rope.
+
+_Ant. E._ Five hundred ducats, villain, for a rope?
+
+_Dro. E._ I’ll serve you, sir, five hundred at the rate.
+
+_Ant. E._ To what end did I bid thee hie thee home?                 15
+
+_Dro. E._ To a rope’s-end, sir; and to that end am I
+returned.
+
+_Ant. E._ And to that end, sir, I will welcome you.
+    [_Beating him._
+
+_Off._ Good sir, be patient.
+
+_Dro. E._ Nay, ’tis for me to be patient; I am in adversity.        20
+
+_Off._ Good, now, hold thy tongue.
+
+_Dro. E._ Nay, rather persuade him to hold his hands.
+
+_Ant. E._ Thou whoreson, senseless villain!
+
+_Dro. E._ I would I were senseless, sir, that I might not
+feel your blows.                                                    25
+
+_Ant. E._ Thou art sensible in nothing but blows, and
+so is an ass.
+
+_Dro. E._ I am an ass, indeed; you may prove it by my
+long ears. I have served him from the hour of my nativity
+to this instant, and have nothing at his hands for my service       30
+but blows. When I am cold, he heats me with beating;
+when I am warm, he cools me with beating: I am waked
+with it when I sleep; raised with it when I sit; driven out
+of doors with it when I go from home; welcomed home
+with it when I return: nay, I bear it on my shoulders, as           35
+a beggar wont her brat; and, I think, when he hath lamed
+me, I shall beg with it from door to door.
+
+_Ant. E._ Come, go along; my wife is coming yonder.
+
+  _Enter ADRIANA, LUCIANA, the _Courtezan_, and PINCH._
+
+_Dro. E._ Mistress, ‘respice finem,’ respect your end; or
+rather, the prophecy like the parrot, ‘beware the rope’s-end.’      40
+
+_Ant. E._ Wilt thou still talk?    [_Beating him._
+
+_Cour._ How say you now? is not your husband mad?
+
+_Adr._ His incivility confirms no less.
+Good Doctor Pinch, you are a conjurer;
+Establish him in his true sense again,                              45
+And I will please you what you will demand.
+
+_Luc._ Alas, how fiery and how sharp he looks!
+
+_Cour._ Mark how he trembles in his ecstasy!
+
+_Pinch._ Give me your hand, and let me feel your pulse.
+
+_Ant. E._ There is my hand, and let it feel your ear.               50
+    [_Striking him._
+
+_Pinch._ I charge thee, Satan, housed within this man,
+To yield possession to my holy prayers,
+And to thy state of darkness his thee straight:
+I conjure thee by all the saints in heaven!
+
+_Ant. E._ Peace, doting wizard, peace! I am not mad.                55
+
+_Adr._ O, that thou wert not, poor distressed soul!
+
+_Ant. E._ You minion, you, are these your customers?
+Did this companion with the saffron face
+Revel and feast it at my house to-day,
+Whilst upon me the guilty doors were shut,                          60
+And I denied to enter in my house?
+
+_Adr._ O husband, God doth know you dined at home;
+Where would you had remain’d until this time,
+Free from these slanders and this open shame!
+
+_Ant. E._ Dined at home!--Thou villain, what sayest thou?           65
+
+_Dro. E._ Sir, sooth to say, you did not dine at home.
+
+_Ant. E._ Were not my doors lock’d up, and I shut out?
+
+_Dro. E._ Perdie, your doors were lock’d, and you shut out.
+
+_Ant. E._ And did not she herself revile me there?
+
+_Dro. E._ Sans fable, she herself reviled you there.                70
+
+_Ant. E._ Did not her kitchen-maid rail, taunt, and scorn me?
+
+_Dro. E._ Certes, she did; the kitchen-vestal scorn’d you.
+
+_Ant. E._ And did not I in rage depart from thence?
+
+_Dro. E._ In verity you did; my bones bear witness,
+That since have felt the vigour of his rage.                        75
+
+_Adr._ Is’t good to soothe him in these contraries?
+
+_Pinch._ It is no shame: the fellow finds his vein,
+And, yielding to him, humours well his frenzy.
+
+_Ant. E._ Thou hast suborn’d the goldsmith to arrest me.
+
+_Adr._ Alas, I sent you money to redeem you,                        80
+By Dromio here, who came in haste for it.
+
+_Dro. E._ Money by me! heart and good-will you might;
+But surely, master, not a rag of money.
+
+_Ant. E._ Went’st not thou to her for a purse of ducats?
+
+_Adr._ He came to me, and I deliver’d it.                           85
+
+_Luc._ And I am witness with her that she did.
+
+_Dro. E._ God and the rope-maker bear me witness
+That I was sent for nothing but a rope!
+
+_Pinch._ Mistress, both man and master is possess’d;
+I know it by their pale and deadly looks:                           90
+They must be bound, and laid in some dark room.
+
+_Ant. E._ Say, wherefore didst them lock me forth to-day?
+And why dost thou deny the bag of gold?
+
+_Adr._ I did not, gentle husband, lock thee forth.
+
+_Dro. E._ And, gentle master, I received no gold;                   95
+But I confess, sir, that we were lock’d out.
+
+_Adr._ Dissembling villain, them speak’st false in both.
+
+_Ant. E._ Dissembling harlot, them art false in all,
+And art confederate with a damned pack
+To make a loathsome abject scorn of me:                            100
+But with these nails I’ll pluck out these false eyes,
+That would behold in me this shameful sport.
+
+  _Enter three or four, and offer to bind him. He strives._
+
+_Adr._ O, bind him, bind him! let him not come near me.
+
+_Pinch._ More company! The fiend is strong within him.
+
+_Luc._ Ay me, poor man, how pale and wan he looks!                 105
+
+_Ant. E._ What, will you murder me? Thou gaoler, thou,
+I am thy prisoner: wilt thou suffer them
+To make a rescue?
+
+_Off._          Masters, let him go:
+He is my prisoner, and you shall not have him.
+
+_Pinch._ Go bind this man, for he is frantic too.                  110
+
+    [_They offer to bind Dro. E._
+
+_Adr._ What wilt thou do, thou peevish officer?
+Hast thou delight to see a wretched man
+Do outrage and displeasure to himself?
+
+_Off._ He is my prisoner: if I let him go,
+The debt he owes will be required of me.                           115
+
+_Adr._ I will discharge thee ere I go from thee:
+Bear me forthwith unto his creditor,
+And, knowing how the debt grows, I will pay it.
+Good master doctor, see him safe convey’d
+Home to my house. O most unhappy day!                              120
+
+_Ant. E._ O most unhappy strumpet!
+
+_Dro. E._ Master, I am here entered in bond for you.
+
+_Ant. E._ Out on thee, villain! wherefore dost thou mad me?
+
+_Dro. E._ Will you be bound for nothing? be mad, good
+master: cry, The devil!                                            125
+
+_Luc._ God help, poor souls, how idly do they talk!
+
+_Adr._ Go bear him hence. Sister, go you with me.
+    [_Exeunt all but Adriana, Luciana, Officer and Courtezan._]
+Say now; whose suit is he arrested at?
+
+_Off._ One Angelo, a goldsmith: do you know him?
+
+_Adr._ I know the man. What is the sum he owes?                    130
+
+_Off._ Two hundred ducats.
+
+_Adr._                   Say, how grows it due?
+
+_Off._ Due for a chain your husband had of him.
+
+_Adr._ He did bespeak a chain for me, but had it not.
+
+_Cour._ When as your husband, all in rage, to-day
+Came to my house, and took away my ring,--                         135
+The ring I saw upon his finger now,--
+Straight after did I meet him with a chain.
+
+_Adr._ It may be so, but I did never see it.
+Come, gaoler, bring me where the goldsmith is:
+I long to know the truth hereof at large.                          140
+
+  _Enter _ANTIPHOLUS of Syracuse_ with his rapier drawn,
+  and _DROMIO of Syracuse_._
+
+_Luc._ God, for thy mercy! they are loose again.
+
+_Adr._ And come with naked swords.
+Let’s call more help to have them bound again.
+
+_Off._ Away! they’ll kill us.
+
+    [_Exeunt all but Ant. S. and Dro. S._
+
+_Ant. S._ I see these witches are afraid of swords.                145
+
+_Dro. S._ She that would be your wife now ran from you.
+
+_Ant. S._ Come to the Centaur; fetch our stuff from thence:
+I long that we were safe and sound aboard.
+
+_Dro. S._ Faith, stay here this night; they will surely do
+us no harm: you saw they speak us fair, give us gold:              150
+methinks they are such a gentle nation, that, but for the
+mountain of mad flesh that claims marriage of me, I could
+find in my heart to stay here still, and turn witch.
+
+_Ant. S._ I will not stay to-night for all the town;
+Therefore away, to get our stuff aboard.
+
+    [_Exeunt._                                                     155
+
+
+  NOTES: IV, 4.
+
+  SCENE IV.] SCENE VIII. Pope.
+  and the Officer.] Capell. with a Jailor. Ff.
+  5, 6: _messenger. That ... Ephesus,_] Rowe.
+    _messenger, That ... Ephesus,_ F1 F2 F3.
+    _messenger; That ... Ephesus,_ F4.
+    _messenger, That ... Ephesus:_ Capell.
+  14: Dro. E.] Off. Edd. conj.
+  15: _hie_] _high_ F2.
+  17: _returned_] _come_ Anon. conj.
+  18: [Beating him.] Capell. [Beats Dro. Pope. om. Ff.
+  29: _ears_] See note (VII).
+  38: SCENE IX. Pope. The stage direction ‘Enter ... Pinch,’
+    precedes line 38 in Ff, and all editions till Dyce’s.
+  Pinch.] a schoolmaster, call’d Pinch. Ff.
+  40: _the prophecy_] _the prophesie_ F1 F2 F3 F4. _prophesie_ Rowe.
+    _to prophesy_ Dyce.
+  39-41: _or rather ... talk?_] _or rather, ‘prospice funem,’
+    beware the rope’s end._ Ant. E. _Wilt thou still talk like
+    the parrot?_ Edd. conj.
+  41: [Beating him.] [Beats Dro. Ff.
+  46: _what_] _in what_ Hanmer.
+  65: _Dined_] _Din’d I_ Theobald. _I din’d_ Capell.
+  72: _Certes_] Pope. _certis_ Ff.
+  74: _bear_] _beares_ F1.
+  75: _vigour_] _rigour_ Collier MS.
+  _his_] _your_ Pope.
+  83: _master_] _mistress_ Dyce conj.
+  _rag_] _bag_ Becket conj.
+  84: _not thou_] _thou not_ Capell.
+  87: _bear_] _do bear_ Pope. _now bear_ Collier MS.
+  89: _is_] _are_ Rowe.
+  101: _these false_] Ff. _those false_ Rowe.
+  102: [Flying at his wife. Capell.
+  Enter ...] The stage direction is transferred by Dyce to follow 105.
+  106: _me? Thou ... thou,_] Rowe. _me, thou ... thou?_ Ff.
+  110: [They ... Dro. E.] Edd. om. Ff.
+  117: [They bind ANT. and DRO. Rowe.
+  124: _nothing?_] _nothing thus?_ Hanmer, reading as verse.
+  126: _help, poor_] Theobald. _help poor_ Ff.
+  _idly_] Pope. _idlely_ Ff.
+  127: _go_] _stay_ Pope.
+  [Exeunt all but ...] Exeunt. Manet ... Ff (after line 128).
+  129: SCENE X. Pope.
+  133: _for me_] om. Hanmer.
+  141: SCENE XI. Pope.
+  143: [Runne all out. Ff.
+  144: [Exeunt ...] Exeunt omnes, as fast as may be, frighted. Ff.
+  150: _saw ... speak us ... give_] F1.
+    _saw ... spake us ... give_ F2 F3 F4.
+    _saw ... spake to us ... give_ Rowe.
+    _saw ... spake us ... gave_ Pope.
+    _see ... speak us ... give_ Capell.
+
+
+
+
+ACT V.
+
+
+_SCENE I. A street before a Priory._
+
+  _Enter _Second Merchant_ and ANGELO._
+
+_Ang._ I am sorry, sir, that I have hinder’d you;
+But, I protest, he had the chain of me,
+Though most dishonestly he doth deny it.
+
+_Sec. Mer._ How is the man esteem’d here in the city?
+
+_Ang._ Of very reverent reputation, sir,                             5
+Of credit infinite, highly beloved,
+Second to none that lives here in the city:
+His word might bear my wealth at any time.
+
+_Sec. Mer._ Speak softly: yonder, as I think, he walks.
+
+  _Enter _ANTIPHOLUS of Syracuse_ and _DROMIO of Syracuse_._
+
+_Ang._ ’Tis so; and that self chain about his neck,                 10
+Which he forswore most monstrously to have.
+Good sir, draw near to me, I’ll speak to him;
+Signior Antipholus, I wonder much
+That you would put me to this shame and trouble;
+And, not without some scandal to yourself,                          15
+With circumstance and oaths so to deny
+This chain which now you wear so openly:
+Beside the charge, the shame, imprisonment,
+You have done wrong to this my honest friend;
+Who, but for staying on our controversy,                            20
+Had hoisted sail and put to sea to-day:
+This chain you had of me; can you deny it?
+
+_Ant. S._ I think I had; I never did deny it.
+
+_Sec. Mer._ Yes, that you did, sir, and forswore it too.
+
+_Ant. S._ Who heard me to deny it or forswear it?                   25
+
+_Sec. Mer._ These ears of mine, thou know’st, did hear thee.
+Fie on thee, wretch! ’tis pity that thou livest
+To walk where any honest men resort.
+
+_Ant. S._ Thou art a villain to impeach me thus:
+I’ll prove mine honour and mine honesty                             30
+Against thee presently, if thou darest stand.
+
+_Sec. Mer._ I dare, and do defy thee for a villain.
+
+    [_They draw._
+
+  _Enter ADRIANA, LUCIANA, the _Courtezan_, and others._
+
+_Adr._ Hold, hurt him not, for God’s sake! he is mad.
+Some get within him, take his sword away:
+Bind Dromio too, and bear them to my house.                         35
+
+_Dro. S._ Run, master, run; for God’s sake, take a house!
+This is some priory.--In, or we are spoil’d!
+
+    [_Exeunt Ant. S. and Dro. S. to the Priory._
+
+  _Enter the _Lady Abbess_._
+
+_Abb._ Be quiet, people. Wherefore throng you hither?
+
+_Adr._ To fetch my poor distracted husband hence.
+Let us come in, that we may bind him fast,                          40
+And bear him home for his recovery.
+
+_Ang._ I knew he was not in his perfect wits.
+
+_Sec. Mer._ I am sorry now that I did draw on him.
+
+_Abb._ How long hath this possession held the man?
+
+_Adr._ This week he hath been heavy, sour, sad,                     45
+And much different from the man he was;
+But till this afternoon his passion
+Ne’er brake into extremity of rage.
+
+_Abb._ Hath he not lost much wealth by wreck of sea?
+Buried some dear friend? Hath not else his eye                      50
+Stray’d his affection in unlawful love?
+A sin prevailing much in youthful men,
+Who give their eyes the liberty of gazing.
+Which of these sorrows is he subject to?
+
+_Adr._ To none of these, except it be the last;                     55
+Namely, some love that drew him oft from home.
+
+_Abb._ You should for that have reprehended him.
+
+_Adr._ Why, so I did.
+
+_Abb._              Ay, but not rough enough.
+
+_Adr._ As roughly as my modesty would let me.
+
+_Abb._ Haply, in private.
+
+_Adr._                  And in assemblies too.                      60
+
+_Abb._ Ay, but not enough.
+
+_Adr._ It was the copy of our conference:
+In bed, he slept not for my urging it;
+At board, he fed not for my urging it;
+Alone, it was the subject of my theme;                              65
+In company I often glanced it;
+Still did I tell him it was vile and bad.
+
+_Abb._ And thereof came it that the man was mad:--
+The venom clamours of a jealous woman,
+Poisons more deadly than a mad dog’s tooth.                         70
+It seems his sleeps were hinder’d by thy railing:
+And thereof comes it that his head is light.
+Thou say’st his meat was sauced with thy upbraidings:
+Unquiet meals make ill digestions;
+Thereof the raging fire of fever bred;                              75
+And what’s a fever but a fit of madness?
+Thou say’st his sports were hinder’d by thy brawls:
+Sweet recreation barr’d, what doth ensue
+But moody and dull melancholy,
+Kinsman to grim and comfortless despair;                            80
+And at her heels a huge infectious troop
+Of pale distemperatures and foes to life?
+In food, in sport, and life-preserving rest
+To be disturb’d, would mad or man or beast:
+The consequence is, then, thy jealous fits                          85
+Have scared thy husband from the use of wits.
+
+_Luc._ She never reprehended him but mildly,
+When he demean’d himself rough, rude, and wildly.
+Why bear you these rebukes, and answer not?
+
+_Adr._ She did betray me to my own reproof.                         90
+Good people, enter, and lay hold on him.
+
+_Abb._ No, not a creature enters in my house.
+
+_Adr._ Then let your servants bring my husband forth.
+
+_Abb._ Neither: he took this place for sanctuary,
+And it shall privilege him from your hands                          95
+Till I have brought him to his wits again,
+Or lose my labour in assaying it.
+
+_Adr._ I will attend my husband, be his nurse,
+Diet his sickness, for it is my office,
+And will have no attorney but myself;                              100
+And therefore let me have him home with me.
+
+_Abb._ Be patient; for I will not let him stir
+Till I have used the approved means I have,
+With wholesome syrups, drugs and holy prayers,
+To make of him a formal man again:                                 105
+It is a branch and parcel of mine oath,
+A charitable duty of my order.
+Therefore depart, and leave him here with me.
+
+_Adr._ I will not hence, and leave my husband here:
+And ill it doth beseem your holiness                               110
+To separate the husband and the wife.
+
+_Abb._ Be quiet, and depart: thou shalt not have him.
+    [_Exit._
+
+_Luc._ Complain unto the Duke of this indignity.
+
+_Adr._ Come, go: I will fall prostrate at his feet,
+And never rise until my tears and prayers                          115
+Have won his Grace to come in person hither,
+And take perforce my husband from the abbess.
+
+_Sec. Mer._ By this, I think, the dial points at five:
+Anon, I’m sure, the Duke himself in person
+Comes this way to the melancholy vale,                             120
+The place of death and sorry execution,
+Behind the ditches of the abbey here.
+
+_Ang._ Upon what cause?
+
+_Sec. Mer._ To see a reverend Syracusian merchant,
+Who put unluckily into this bay                                    125
+Against the laws and statutes of this town,
+Beheaded publicly for his offence.
+
+_Ang._ See where they come: we will behold his death.
+
+_Luc._ Kneel to the Duke before he pass the abbey.
+
+  _Enter DUKE, attended; ÆGEON bareheaded; with the _Headsman_
+  and other _Officers_._
+
+_Duke._ Yet once again proclaim it publicly,                       130
+If any friend will pay the sum for him,
+He shall not die; so much we tender him.
+
+_Adr._ Justice, most sacred Duke, against the abbess!
+
+_Duke._ She is a virtuous and a reverend lady:
+It cannot be that she hath done thee wrong.                        135
+
+_Adr._ May it please your Grace, Antipholus my husband,--
+Whom I made lord of me and all I had,
+At your important letters,--this ill day
+A most outrageous fit of madness took him;
+That desperately he hurried through the street,--                  140
+With him his bondman, all as mad as he,--
+Doing displeasure to the citizens
+By rushing in their houses, bearing thence
+Rings, jewels, any thing his rage did like.
+Once did I get him bound, and sent him home,                       145
+Whilst to take order for the wrongs I went,
+That here and there his fury had committed.
+Anon, I wot not by what strong escape,
+He broke from those that had the guard of him;
+And with his mad attendant and himself,                            150
+Each one with ireful passion, with drawn swords,
+Met us again, and, madly bent on us,
+Chased us away; till, raising of more aid,
+We came again to bind them. Then they fled
+Into this abbey, whither we pursued them;                          155
+And here the abbess shuts the gates on us,
+And will not suffer us to fetch him out,
+Nor send him forth, that we may bear him hence.
+Therefore, most gracious Duke, with thy command
+Let him be brought forth, and borne hence for help.                160
+
+_Duke._ Long since thy husband served me in my wars;
+And I to thee engaged a prince’s word,
+When thou didst make him master of thy bed,
+To do him all the grace and good I could.
+Go, some of you, knock at the abbey-gate,                          165
+And bid the lady abbess come to me.
+I will determine this before I stir.
+
+  _Enter a _Servant_._
+
+_Serv._ O mistress, mistress, shift and save yourself!
+My master and his man are both broke loose,
+Beaten the maids a-row, and bound the doctor,                      170
+Whose beard they have singed off with brands of fire;
+And ever, as it blazed, they threw on him
+Great pails of puddled mire to quench the hair:
+My master preaches patience to him, and the while
+His man with scissors nicks him like a fool;                       175
+And sure, unless you send some present help,
+Between them they will kill the conjurer.
+
+_Adr._ Peace, fool! thy master and his man are here;
+And that is false thou dost report to us.
+
+_Serv._ Mistress, upon my life, I tell you true;                   180
+I have not breathed almost since I did see it.
+He cries for you, and vows, if he can take you,
+To scorch your face and to disfigure you.    [_Cry within._
+Hark, hark! I hear him, mistress: fly, be gone!
+
+_Duke._ Come, stand by me; fear nothing. Guard with halberds!      185
+
+_Adr._ Ay me, it is my husband! Witness you,
+That he is borne about invisible:
+Even now we housed him in the abbey here;
+And now he’s there, past thought of human reason.
+
+  _Enter _ANTIPHOLUS of Ephesus_ and _DROMIO of Ephesus_._
+
+_Ant. E._ Justice, most gracious Duke, O, grant me justice!        190
+Even for the service that long since I did thee,
+When I bestrid thee in the wars, and took
+Deep scars to save thy life; even for the blood
+That then I lost for thee, now grant me justice.
+
+_Æge._ Unless the fear of death doth make me dote,                 195
+I see my son Antipholus, and Dromio.
+
+_Ant. E._ Justice, sweet prince, against that woman there!
+She whom thou gavest to me to be my wife,
+That hath abused and dishonour’d me
+Even in the strength and height of injury:                         200
+Beyond imagination is the wrong
+That she this day hath shameless thrown on me.
+
+_Duke._ Discover how, and thou shalt find me just.
+
+_Ant. E._ This day, great Duke, she shut the doors upon me,
+While she with harlots feasted in my house.                        205
+
+_Duke._ A grievous fault! Say, woman, didst thou so?
+
+_Adr._ No, my good lord: myself, he and my sister
+To-day did dine together. So befal my soul
+As this is false he burdens me withal!
+
+_Luc._ Ne’er may I look on day, nor sleep on night,                210
+But she tells to your Highness simple truth!
+
+_Ang._ O perjured woman! They are both forsworn:
+In this the madman justly chargeth them.
+
+_Ant. E._ My liege, I am advised what I say;
+Neither disturbed with the effect of wine,                         215
+Nor heady-rash, provoked with raging ire,
+Albeit my wrongs might make one wiser mad.
+This woman lock’d me out this day from dinner:
+That goldsmith there, were he not pack’d with her,
+Could witness it, for he was with me then;                         220
+Who parted with me to go fetch a chain,
+Promising to bring it to the Porpentine,
+Where Balthazar and I did dine together.
+Our dinner done, and he not coming thither,
+I went to seek him: in the street I met him,                       225
+And in his company that gentleman.
+There did this perjured goldsmith swear me down
+That I this day of him received the chain,
+Which, God he knows, I saw not: for the which
+He did arrest me with an officer.                                  230
+I did obey; and sent my peasant home
+For certain ducats: he with none return’d.
+Then fairly I bespoke the officer
+To go in person with me to my house.
+By the way we met my wife, her sister, and a rabble more           235
+Of vile confederates. Along with them
+They brought one Pinch, a hungry lean-faced villain,
+A mere anatomy, a mountebank,
+A threadbare juggler, and a fortune-teller,
+A needy, hollow-eyed, sharp-looking wretch,                        240
+A living-dead man: this pernicious slave,
+Forsooth, took on him as a conjurer;
+And, gazing in mine eyes, feeling my pulse,
+And with no face, as ’twere, outfacing me,
+Cries out, I was possess’d. Then all together                      245
+They fell upon me, bound me, bore me thence,
+And in a dark and dankish vault at home
+There left me and my man, both bound together;
+Till, gnawing with my teeth my bonds in sunder,
+I gain’d my freedom, and immediately                               250
+Ran hither to your Grace; whom I beseech
+To give me ample satisfaction
+For these deep shames and great indignities.
+
+_Ang._ My lord, in truth, thus far I witness with him,
+That he dined not at home, but was lock’d out.                     255
+
+_Duke._ But had he such a chain of thee or no?
+
+_Ang._ He had, my lord: and when he ran in here,
+These people saw the chain about his neck.
+
+_Sec. Mer._ Besides, I will be sworn these ears of mine
+Heard you confess you had the chain of him,                        260
+After you first forswore it on the mart:
+And thereupon I drew my sword on you;
+And then you fled into this abbey here,
+From whence, I think, you are come by miracle.
+
+_Ant. E._ I never came within these abbey-walls;                   265
+Nor ever didst thou draw thy sword on me:
+I never saw the chain, so help me Heaven:
+And this is false you burden me withal!
+
+_Duke._ Why, what an intricate impeach is this!
+I think you all have drunk of Circe’s cup.                         270
+If here you housed him, here he would have been;
+If he were mad, he would not plead so coldly:
+You say he dined at home; the goldsmith here
+Denies that saying. Sirrah, what say you?
+
+_Dro. E._ Sir, he dined with her there, at the Porpentine.         275
+
+_Cour._ He did; and from my finger snatch’d that ring.
+
+_Ant. E._ ’Tis true, my liege; this ring I had of her.
+
+_Duke._ Saw’st thou him enter at the abbey here?
+
+_Cour._ As sure, my liege, as I do see your Grace.
+
+_Duke._ Why, this is strange. Go call the abbess hither.           280
+I think you are all mated, or stark mad.
+
+    [_Exit one to the Abbess._
+
+_Æge._ Most mighty Duke, vouchsafe me speak a word:
+Haply I see a friend will save my life,
+And pay the sum that may deliver me.
+
+_Duke._ Speak freely, Syracusian, what thou wilt.                  285
+
+_Æge._ Is not your name, sir, call’d Antipholus?
+And is not that your bondman, Dromio?
+
+_Dro. E._ Within this hour I was his bondman, sir,
+But he, I thank him, gnaw’d in two my cords:
+Now am I Dromio, and his man unbound.                              290
+
+_Æge._ I am sure you both of you remember me.
+
+_Dro. E._ Ourselves we do remember, sir, by you;
+For lately we were bound, as you are now.
+You are not Pinch’s patient, are you, sir?
+
+_Æge._ Why look you strange on me? you know me well.               295
+
+_Ant. E._ I never saw you in my life till now.
+
+_Æge._ O, grief hath changed me since you saw me last,
+And careful hours with time’s deformed hand
+Have written strange defeatures in my face:
+But tell me yet, dost thou not know my voice?                      300
+
+_Ant. E._ Neither.
+
+_Æge._ Dromio, nor thou?
+
+_Dro. E._              No, trust me, sir, nor I.
+
+_Æge._ I am sure thou dost.
+
+_Dro. E._ Ay, sir, but I am sure I do not; and whatsoever
+a man denies, you are now bound to believe him.                    305
+
+_Æge._ Not know my voice! O time’s extremity,
+Hast thou so crack’d and splitted my poor tongue
+In seven short years, that here my only son
+Knows not my feeble key of untuned cares?
+Though now this grained face of mine be hid                        310
+In sap-consuming winter’s drizzled snow,
+And all the conduits of my blood froze up,
+Yet hath my night of life some memory,
+My wasting lamps some fading glimmer left,
+My dull deaf ears a little use to hear:                            315
+All these old witnesses--I cannot err--
+Tell me thou art my son Antipholus.
+
+_Ant. E._ I never saw my father in my life.
+
+_Æge._ But seven years since, in Syracusa, boy,
+Thou know’st we parted: but perhaps, my son,                       320
+Thou shamest to acknowledge me in misery.
+
+_Ant. E._ The Duke and all that know me in the city
+Can witness with me that it is not so:
+I ne’er saw Syracusa in my life.
+
+_Duke._ I tell thee, Syracusian, twenty years                      325
+Have I been patron to Antipholus,
+During which time he ne’er saw Syracusa:
+I see thy age and dangers make thee dote.
+
+  _Re-enter _Abbess_, with _ANTIPHOLUS of Syracuse_ and
+  _DROMIO of Syracuse_._
+
+_Abb._ Most mighty Duke, behold a man much wrong’d.
+
+    [_All gather to see them._
+
+_Adr._ I see two husbands, or mine eyes deceive me.                330
+
+_Duke._ One of these men is Genius to the other;
+And so of these. Which is the natural man,
+And which the spirit? who deciphers them?
+
+_Dro. S._ I, sir, am Dromio: command him away.
+
+_Dro. E._ I, sir, am Dromio: pray, let me stay.                    335
+
+_Ant. S._ Ægeon art thou not? or else his ghost?
+
+_Dro. S._ O, my old master! who hath bound him here?
+
+_Abb._ Whoever bound him, I will loose his bonds,
+And gain a husband by his liberty.
+Speak, old Ægeon, if thou be’st the man                            340
+That hadst a wife once call’d Æmilia,
+That bore thee at a burden two fair sons:
+O, if thou be’st the same Ægeon, speak,
+And speak unto the same Æmilia!
+
+_Æge._ If I dream not, thou art Æmilia:                            345
+If thou art she, tell me where is that son
+That floated with thee on the fatal raft?
+
+_Abb._ By men of Epidamnum he and I
+And the twin Dromio, all were taken up;
+But by and by rude fishermen of Corinth                            350
+By force took Dromio and my son from them,
+And me they left with those of Epidamnum.
+What then became of them I cannot tell;
+I to this fortune that you see me in.
+
+_Duke._ Why, here begins his morning story right:                  355
+These two Antipholuses, these two so like,
+And these two Dromios, one in semblance,--
+Besides her urging of her wreck at sea,--
+These are the parents to these children,
+Which accidentally are met together.                               360
+Antipholus, thou camest from Corinth first?
+
+_Ant. S._ No, sir, not I; I came from Syracuse.
+
+_Duke._ Stay, stand apart; I know not which is which.
+
+_Ant. E._ I came from Corinth, my most gracious lord,--
+
+_Dro. E._ And I with him.                                          365
+
+_Ant. E._ Brought to this town by that most famous warrior.
+Duke Menaphon, your most renowned uncle.
+
+_Adr._ Which of you two did dine with me to-day?
+
+_Ant. S._ I, gentle mistress.
+
+_Adr._                      And are not you my husband?
+
+_Ant. E._ No; I say nay to that.                                   370
+
+_Ant. S._ And so do I; yet did she call me so:
+And this fair gentlewoman, her sister here,
+Did call me brother. [_To Lucia._] What I told you then,
+I hope I shall have leisure to make good;
+If this be not a dream I see and hear.                             375
+
+_Ang._ That is the chain, sir, which you had of me.
+
+_Ant. S._ I think it be, sir; I deny it not.
+
+_Ant. E._ And you, sir, for this chain arrested me.
+
+_Ang._ I think I did, sir; I deny it not.
+
+_Adr._ I sent you money, sir, to be your bail,                     380
+By Dromio; but I think he brought it not.
+
+_Dro. E._ No, none by me.
+
+_Ant. S._ This purse of ducats I received from you,
+And Dromio my man did bring them me.
+I see we still did meet each other’s man;                          385
+And I was ta’en for him, and he for me;
+And thereupon these ERRORS are arose.
+
+_Ant. E._ These ducats pawn I for my father here.
+
+_Duke._ It shall not need; thy father hath his life.
+
+_Cour._ Sir, I must have that diamond from you.                    390
+
+_Ant. E._ There, take it; and much thanks for my good cheer.
+
+_Abb._ Renowned Duke, vouchsafe to take the pains
+To go with us into the abbey here,
+And hear at large discoursed all our fortunes;--
+And all that are assembled in this place,                          395
+That by this sympathized one day’s error
+Have suffer’d wrong, go keep us company,
+And we shall make full satisfaction.--
+Thirty-three years have I but gone in travail
+Of you, my sons; and till this present hour                        400
+My heavy burthen ne’er delivered.
+The Duke, my husband, and my children both,
+And you the calendars of their nativity,
+Go to a gossips’ feast, and go with me;
+After so long grief, such nativity!                                405
+
+_Duke._ With all my heart, I’ll gossip at this feast.
+
+    [_Exeunt all but Ant. S., Ant. E., Dro. S., and Dro. E._
+
+_Dro. S._ Master, shall I fetch your stuff from ship-board?
+
+_Ant. E._ Dromio, what stuff of mine hast thou embark’d?
+
+_Dro. S._ Your goods that lay at host, sir, in the Centaur.
+
+_Ant. S._ He speaks to me. --I am your master, Dromio:             410
+Come, go with us; we’ll look to that anon:
+Embrace thy brother there; rejoice with him.
+
+    [_Exeunt Ant. S. and Ant. E._
+
+_Dro. S._ There is a fat friend at your master’s house,
+That kitchen’d me for you to-day at dinner:
+She now shall be my sister, not my wife.                           415
+
+_Dro. E._ Methinks you are my glass, and not my brother:
+I see by you I am a sweet-faced youth.
+Will you walk in to see their gossiping?
+
+_Dro. S._ Not I, sir; you are my elder.
+
+_Dro. E._ That’s a question: how shall we try it?                  420
+
+_Dro. S._ We’ll draw cuts for the senior: till then lead
+        thou first.
+
+_Dro. E._ Nay, then, thus:--
+We came into the world like brother and brother;
+And now let’s go hand in hand, not one before another.
+
+    [_Exeunt._
+
+
+  NOTES: V, 1.
+
+  SCENE I. A street ... Priory] Pope. See note (VIII).
+  3: _doth_] F1. _did_ F2 F3 F4.
+  9: Enter ...] Enter Antipholis and Dromio againe. Ff.
+  12: _to me_] _with me_ Collier MS.
+  18: _Beside_] Ff. _Besides_ Pope.
+  26: _know’st ... thee._] Ff. _knowest ... thee._ Pope.
+    _knowest well ... thee._ Hanmer. _know’st ... thee, sir._ Capell.
+    _know’st ... thee swear_ Grant White conj.
+  30: _mine honesty_] F1 F2 F3. _my honesty_ F4.
+  33: SCENE II. Pope.
+  33, 36: _God’s ... God’s_] F3 F4. _God ... God’s_ F1 F2.
+  38: _quiet, people._] Theobald. _quiet people._ Ff.
+  45: _sour_] Rowe. _sower_ Ff.
+  46: _much_] F1 F4. _much, much_ F2 F3.
+  49: _of sea_] F1. _at sea_ F2 F3 F4.
+  50: _Hath not else his eye_] _Hath nought else his eye?_ Anon. conj.
+  51: _his ... in_] _in ... and_ Anon. conj.
+  61: _Ay_] _Ay, ay_ Hanmer.
+  66: _it_] _at it_ Pope.
+  69: _venom_] _venome_ F1 F2. _venomous_ F3 F4. _venom’d_ Pope.
+  _woman,_] _woman_ Pope.
+  69, 70: _clamours ... Poisons_] _clamours ... Poison_ Pope.
+    _clamour ... Poisons_ Capell.
+  72, 75: _thereof_] _therefore_ Johnson.
+  74: _make_] F1. _makes_ F2 F3 F4.
+  77: _by_] _with_ Pope.
+  79: _moody_] F1. _muddy_ F2 F3 F4.] _moody, moping_ Hanmer.
+    _moody sadness_ Singer conj.
+  _melancholy_] _melancholia_ Anon. conj.
+  80: _Kinsman_] _kins-woman_ Capell. ending line 79 at _kins-_.
+    _A’kin_ Hanmer.
+  Warburton marks this line as spurious.
+  81: _her_] _their_ Malone (Heath conj.).
+  86: _Have_] F2 F3 F4. _Hath_ F1.
+  88: _wildly_] _wild_ Capell.
+  89: _these_] F1 F2. _those_ F3 F4.
+  112: [Exit.] Theobald.
+  117: [Exeunt. Enter Merchant and Goldsmith. F2.
+  121: _death_] F3 F4. _depth_ F1 F2.
+  _sorry_] _solemn_ Collier MS.
+  124: _reverend_ F3 F4. _reverent_ F1 F2.
+  128: Enter Adriana and Lucia. F2.
+  130: SCENE III. Pope.
+  attended] Theobald.
+  132: Enter Adriana. F2.
+  134: _reverend_] Ff.
+  137: _Whom_] F2 F3 F4. _Who_ F1.
+  138: _important_] F1. _impoteant_ F2. _impotent_ F3 F4.
+    _all-potent_ Rowe.
+  _letters_] F1 F2 F3. _letter_ F4.
+  148: _strong_] _strange_ Malone conj.
+  150: _with_] _here_ Capell. _then_ Ritson conj.
+  _and himself_] mad himself Warburton.
+  158: _hence_] F1 F2. _thence_ F3 F4.
+  168: SCENE IV. Pope.
+  Enter a servant.] Capell. Enter a Messenger. Ff.
+  174: _to him_] om. Capell.
+  _and_] om. Hanmer. _and the_ om. Steevens.
+  176: _some_] F1 _some other_ F2 F3 F4.
+  179: _to_] F1 F3 F4. _of_ F2.
+  183: _scorch_] _scotch_ Warburton.
+  205: _While_] F1 _Whilst_ F2 F3 F4.
+  208: _To-day_] om. Hanmer.
+  _So befal_] _So fall_ Capell.
+  212, 213: [To Mer. Capell.
+  228: _of_] F1. _from_ F2 F3 F4.
+  235: _By the way_] _To which he yielded: by the way_ Capell,
+    making two verses of 235. See note (IX).
+  235, 236: Pope ends these lines _and ... confederates_.
+  236: _Along with them_] om. Pope.
+  247: _And in_] _Into_ Lettsom conj.
+  248: _There_] _They_ Collier MS.
+  249: _in sunder_] F1. _asunder_ F2 F3 F4.
+  267, 268: _chain, so ... Heaven: And_] _chain. So ... heaven As_
+    Dyce.
+  281: _mad_] _made_ F2.
+  [Exit ...] F1 F2. [Enter ... F3 F4.
+  291: _you both_] F1. _both_ F2 F3 F4.
+  298: _deformed_] _deforming_ Capell.
+  304: _Ay, sir,_] Capell. _I sir,_ Ff. _I, sir?_ Pope.
+    _Ay, sir?_ Malone.
+  304, 305: Printed as verse by Capell: _But ... whatsoever A ... him_.
+  307: _crack’d and splitted_] _crack’d my voice, split_ Collier MS.
+  309: _of untuned cares_] _untuned of cares_ Anon. conj.
+  _cares_] _ears_ Anon. conj.
+  314: _lamps_] _lamp_ Pope.
+  316: _All_] _And all_ Rowe.
+  _old_] _hold_ Warburton.
+  _witnesses--I cannot err--_] _witnesses, I cannot erre._ Ff.
+  319: _Syracusa, boy_] Capell. _Syracusa boy_ Ff. _Syracusa bay_ Rowe.
+    _Syracusa’s bay_ Hanmer.
+  329: SCENE VII. Pope.
+  [All ... them.] [All ... him. Warburton.
+  332: _these. Which_] _these, which_ Ff.
+  355-360: _Why ... together_] Ff insert this speech after 344.
+    The alteration is due to Capell.
+  355: _his_] F1 F2. _this_ F3 F4. _the_ Pope.
+  _story right_] _story’s light_ Capell.
+  356: _Antipholuses, these_] _Antipholus, these_ F1.
+    _Antipholis, these_ F2 F3 F4. _Antipholis’s_ Hanmer. See note (I).
+  357: _these_] F1 F4. _those_ F2 F3.
+  _semblance_] _semblance prove_ Capell.
+  358: _Besides her urging of her_]
+    _Both sides emerging from their_ Hanmer.
+    _Besides his urging of his_ Collier MS.
+    _Besides his urging of her_ Dyce conj.
+    Malone supposes a line, beginning with _These_, lost after 358.
+  _wreck at sea,--_] _wreck,--all say,_ Jackson conj.
+  359: _These are_] _These plainly are_ Pope.
+  361: Ff prefix ‘Duke.’
+  372: _her sister_] F1. om. F2 F3 F4.
+  373: [To Lucia.] [Aside to Lucia. Staunton conj.
+  387: _are arose_] Ff. _all arose_ Rowe. _rare arose_ Staunton.
+    _here arose_ Anon. conj.
+  394: _hear_] _here_ Johnson.
+  398: _we shall make_] _ye shalt have_ Pope.
+  399: _Thirty-three_] Ff. _Twenty-five_ Theobald.
+    _Twenty-three_ Capell. See note (X).
+  _but_] F1. _been_ F2 F3 F4. om. Hanmer.
+  400: _and till_] _nor till_ Theobald. _until_ Malone (Boaden conj.).
+    _and at_ Collier MS.
+  401: _burthen ne’er_] Dyce. _burthen are_ F1.
+    _burthens are_ F2 F3 F4. _burden not_ Capell.
+    _burden undelivered_ Collier. _burden here_ Grant White.
+    _burden has_ Anon. conj. (ap. Halliwell).
+  404: _Go ... and go_] _Hence ... along_ Lettsom conj.
+    _So ... all go_ Edd. conj.
+  _and go_] F1 F3 F4. _and goe_ F2. _and gaud_ Warburton.
+    _and joy_ Heath conj. _and gout_ Jackson conj. _and see_
+    Anon. conj.
+  405: _nativity_] Ff. _felicity_ Hanmer. _festivity_ Dyce
+    (Johnson conj.).
+  _such nativity!_] _suits festivity._ Anon. conj.
+  406: [Exeunt ...] [Exeunt omnes. Manet the two Dromio’s and two
+    brothers. Ff.
+  407: SCENE VIII. Pope.
+  _fetch_] _go fetch_ S. Walker conj.
+  _ship-board_] _shipboard for you_ Capell conj.
+  412: [Exeunt ...] [Exit. Ff.
+  420: _we try it?_] _we trie it._ F1 _I try it._ F2 F3 F4.
+    _we try it, brother?_ Capell.
+  421: _We’ll_] _We will_ Capell, ending lines 419-421 at
+    _question ... draw ... first._
+  _senior_] Pope. _signior_ F1 F2. _signiority_ F3 F4.
+  422: [embracing. Rowe.
+
+
+
+NOTES.
+
+
+NOTE I.
+
+
+In the spelling of the name of ‘Solinus’ we have followed the first
+Folio. In the subsequent Folios it was altered, most probably by an
+accident in F2 to ‘Salinus.’ The name occurs only once in the copies,
+and that in the first line of the text. The name which we have given as
+‘Antipholus’ is spelt indifferently thus, and ‘Antipholis’ in the
+Folios. It will hardly be doubted that the lines in the rhyming passage,
+III. 2. 2, 4, where the Folios read ‘Antipholus,’ are correctly amended
+by Capell, and prove that ‘Antipholus’ is the spelling of Shakespeare.
+Either word is evidently corrupted from ‘Antiphilus.’ These names are
+merely arbitrary, but the surnames, ‘Erotes’ and ‘Sereptus,’ are most
+probably errors for ‘Errans,’ or ‘Erraticus’ and ‘Surreptus,’ of which
+the latter is plainly derived from Plautus’ _Menæchmus Surreptus_,
+a well-known character in Shakespeare’s day: see Brian Melbancke’s
+_Philotimus_ (1582), p. 160: ‘Thou art like Menechmus Subreptus his wife
+... whose “husband shall not neede to be justice of peace” for she “will
+have a charter to make her justice of coram.”’ See _Merry Wives_, I. 1.
+4, 5. In spelling ‘Syracusian’ instead of ‘Syracusan’ we follow the
+practice of the Folios in an indifferent matter. ‘Epidamnum’ not
+‘Epidamium’ is found in the English translation of the _Menæchmi_,
+1595, so the latter form in F1 is probably a printer’s error.
+
+
+NOTE II.
+
+I. 2. 1. That this scene is laid at the Mart appears from Antipholus’s
+allusion to this place in II. 2. 5, 6:
+
+  ‘I could not speak with Dromio since at first
+   I sent him from the mart.’
+
+As this play is derived from a classical prototype, Capell has supposed
+no change of scene, but lays the whole action in ‘a Publick Place;’
+evidently with much inconvenience to the Persons.
+
+
+NOTE III.
+
+II. 1. 30. Johnson’s ingenious conjecture may have been suggested to him
+by a passage in _As you like it_, IV. 3. 17:
+
+  ‘Her love is not the hare that I do hunt.’
+
+But the received reading of the Folios is perhaps confirmed by a line in
+the present play, III. 2. 7:
+
+  ‘Or if you like elsewhere, do it by stealth.’
+
+
+NOTE IV.
+
+II. 1. 108 sqq. The only correction of this passage which we believe to
+be quite free from doubt is that in line 112, ‘Wear’ for ‘Where.’
+Accordingly, with this exception, we have retained the precise words of
+the first Folio.
+
+
+NOTE V.
+
+IV. 2. 38. Grey’s conjecture of ‘lanes’ for ‘lands’ is made somewhat
+more probable by the existence of copies of F1 in which the word
+appears ‘lans.’ A corrector would naturally change this rather to
+‘lands’ than to ‘lanes,’ because of the rhyme.
+
+
+NOTE VI.
+
+IV. 2. 46. The Folios have ‘send him Mistris redemption,’ and Rowe, by
+his punctuation and capital R, made Dromio call Luciana ‘Redemption.’
+Pope and Theobald seem to have followed him, though they give the small
+r. The Folios cannot be made chargeable with this error, for the comma
+does not regularly follow vocatives in these editions where we expect
+it. There is no comma, for instance, following the word ‘Mistress’ in
+IV. 3. 75 or in IV. 4. 39.
+
+
+NOTE VII.
+
+IV. 4. 29. The word ‘ears’ might probably be better printed ‘’ears’ for
+‘years;’ for a pun--hitherto, however, unnoticed--seems to be indicated
+by the following words. A very farfetched explanation has been offered
+by Steevens, and accepted by Delius and, we believe, by all the modern
+editors, namely, that Antipholus has wrung Dromio’s ears so often that
+they have attained a length like an ass’s.
+
+
+NOTE VIII.
+
+V. 1. 1. Shakespeare uses the words ‘Priory’ and ‘Abbey’ as synonymous.
+Compare V. 1. 37 and V. 1. 122.
+
+
+NOTE IX.
+
+V. 1. 235. It might possibly be better to print this line as two lines,
+the first being broken:
+
+  ‘By the way we met
+   My wife....’
+
+But the place is probably corrupt.
+
+
+NOTE X.
+
+V. 1. 399. The number Thirty-three has been altered by editors to bring
+the figures into harmony with other periods named in the play. From
+I. 1. 126, 133 the age of Antipholus has been computed at twenty-three;
+from I. 1. 126 and V. 1. 308 we derive twenty-five. The Duke says he has
+been patron to Antipholus for twenty years, V. 1. 325; but three or five
+seems too small an age to assign for the commencement of this patronage.
+Antipholus saved the Duke’s life in the wars ‘long since,’ V. 1. 161,
+191. His ‘long experience’ of his wife’s ‘wisdom’ and her ‘years’ are
+mentioned, III. 1. 89, 90. But Shakespeare probably did not compute the
+result of his own figures with any great care or accuracy.
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+Sources:
+
+The editors’ Preface (e-text 23041) discusses the 17th- and
+18th-century editions in detail; the newer (19th-century) editions
+are simply listed by name. The following editions may appear in the
+Notes. All inset text is quoted from the Preface.
+
+  Folios:
+  F1 1623; F2 (no date given); F3 1663; F4 1685.
+    “The five plays contained in this volume occur in the first Folio
+    in the same order, and ... were there printed for the first time.”
+
+  Early editions:
+  Rowe 1709
+  Pope 1715
+    “Pope was the first to indicate the _place_ of each new scene;
+    as, for instance, _Tempest_, I. 1. ‘On a ship at sea.’ He also
+    subdivided the scenes as given by the Folios and Rowe, making
+    a fresh scene whenever a new character entered--an arrangement
+    followed by Hanmer, Warburton, and Johnson. For convenience of
+    reference to these editions, we have always recorded the
+    commencement of Pope’s scenes.”
+  Theobald 1733
+  Hanmer (“Oxford edition”) 1744
+  Warburton 1747
+  Johnson 1765
+  Capell 1768; _also Capell’s annotated copy of F2_
+  Steevens 1773
+  Malone 1790
+  Reed 1803
+
+  Later editions:
+  Singer, Knight, Cornwall, Collier, Phelps, Halliwell, Dyce, Staunton
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+Errata
+
+  IV. 2. 17 note: ... Anon.  [Aonn.]
+  Note IV. ... line 112, ‘Wear’ for ‘Where.’  [line 111]
+  Note VI. ... the word ‘Mistress’ in / IV. 3. 75 ...  [IV. 3. 74]
+
+
+
+
+
+End of Project Gutenberg's The Comedy of Errors, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE COMEDY OF ERRORS ***
+
+***** This file should be named 23046-0.txt or 23046-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/3/0/4/23046/
+
+Produced by Louise Hope, Jonathan Ingram and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

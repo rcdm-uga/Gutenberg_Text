@@ -1,0 +1,4795 @@
+The Project Gutenberg EBook of Three Hours after Marriage, by 
+John Gay and Alexander Pope and John Arbuthnot
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Three Hours after Marriage
+
+Author: John Gay
+        Alexander Pope
+        John Arbuthnot
+
+Editor: John Harrington Smith
+
+Release Date: October 8, 2011 [EBook #37667]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THREE HOURS AFTER MARRIAGE ***
+
+
+
+
+Produced by Chris Curnow, Joseph Cooper and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+  THE AUGUSTAN REPRINT SOCIETY
+
+
+  _JOHN GAY_, _ALEXANDER POPE_
+  _JOHN ARBUTHNOT_
+
+  THREE HOURS AFTER MARRIAGE
+
+
+  Edited, with an
+  Introduction, by
+  John Harrington Smith
+
+
+  Publication Number 91-92
+
+
+  William Andrews Clark Memorial Library
+  University of California
+  Los Angeles
+  1961
+
+
+
+
+  GENERAL EDITORS
+
+    Richard C. Boys, _University of Michigan_
+    Ralph Cohen, _University of California, Los Angeles_
+    Vinton A. Dearing, _University of California, Los Angeles_
+    Lawrence Clark Powell, _Clark Memorial Library_
+
+
+  ADVISORY EDITORS
+
+    John Butt, _University of Edinburgh_
+    James L. Clifford, _Columbia University_
+    Arthur Friedman, _University of Chicago_
+    Louis A. Landa, _Princeton University_
+    Samuel H. Monk, _University of Minnesota_
+    Everett T. Moore, _University of California, Los Angeles_
+    James Sutherland, _University College, London_
+    H. T. Swedenberg, Jr., _University of California, Los Angeles_
+
+
+  CORRESPONDING SECRETARY
+
+    Edna C. Davis, _Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+It is a privilege to have a part in this reprint of what is certainly
+one of the wittiest plays in the language, and one of the most
+neglected.[A] Its tripartite authorship and raffish character have
+encouraged editors to bypass it. The 1717 London edition and Dublin
+reprint the same year bore no author's name on the title-page, but as
+Gay signed the Advertisement one would think his editors would have felt
+it somewhat incumbent on them to keep the play alive. However, so far as
+I have been able to discover, only the 1795 collected edition of Gay
+does its duty in this respect, and the editor of Gay's plays in the
+Abbey Classics (2 vols., 1923) refused to admit it there, claiming that
+though "this justly abused piece" had been ascribed to Gay, "the authors
+of the greater part were Pope and Arbuthnot." _Three Hours_ has fared
+somewhat better as a work of Pope, but interest in reprinting it under
+his aegis seems to have died out early in the nineteenth century, where
+the Twickenham Edition (VI, 180) locates two collections of writings
+attached to Pope that include it--very far to the back of the volume in
+each case. Since then, nothing, except for a few scraps in G. C. Faber's
+_Poetical Works of Gay_, 1926.
+
+  [A] Since this introduction was written the _Johnsonian News Letter_
+    for June 1961 has announced that an edition of _Three Hours_ is
+    being prepared and may be expected to appear at an early date. It is
+    gratifying to learn that the play is receiving this attention and I
+    hope that this reprint may be of use to the editors in their task.
+
+Not much can be done with the play in the space here available, but
+neither is a complete treatment attempted. Our purpose is to dispel the
+impression that _Three Hours_ is "dull"[1] (or so risqué that in the
+public interest it should be kept from general circulation) and to bring
+it to the attention of more scholars. Certainly the present discussion
+does not aim to pre-empt the possibilities for study; much will remain
+to conquer still-for example, the knotty problem of which author wrote
+precisely which parts of the play, if anyone wants to try an untangling
+here--I prefer to think it a collaboration through and through, though
+some tracks of individuals may be made out.
+
+  [1] Thus the editor of the Cambridge _Pope_ in his headnote to the
+    prologue; one wonders whether he had read the play or was merely
+    going on hearsay.
+
+In the selection of the text to be reproduced for this series the first
+edition (somewhat unexpectedly) had competition, not from the London
+1757 _Supplement_ to Pope's works, but from the version of the play
+given in the three Dublin printings of the collection of this title:
+1757, 1758, 1761. The Dublin play is not merely a debased version of
+1717: it is in five acts, 1717 in three, and it contains a sentence of
+dialogue that 1717 does not: these differences, when taken in
+conjunction with the prefatory remarks that Gay wrote for the 1717
+printing, made it possible to determine (readers will find the argument
+set forth further on, in a note to the Advertisement) that Dublin,
+though printed so long after the event (and somewhat butchered by the
+type-setter, we admit, but corrections of his worst misreadings and
+typos will be found in the notes) dates from the year 1717 just as the
+other does, was the script used in the production of the play, and
+actually was the one that Gay thought Lintot would use in the edition he
+published. The other consideration inclining us toward the Dublin
+version of the play was that only in its printings can one get the Key
+and Letter which, a number of years ago, George Sherburn had in a copy
+of 1761 and used with such striking effect in his article on the
+"Fortunes and Misfortunes" of the play;[2] he quoted liberally from both
+documents but they seemed to us so interesting as to be worth putting
+into the reader's hands entire.
+
+  [2] _MP_, XXIV (1926), 91-109.
+
+Thus it boiled down to a choice between the two earlier Dublin
+printings; 1761, it seemed, would not need to be checked. The kindness
+of the Harvard College Library made it possible to compare its copy of
+1757 with the Clark Library's copy of 1758, and in the light of the data
+furnished by the Clark's Supervising Bibliographer, Mr. William E.
+Conway, the Clark copy could be settled upon; the differences, though
+slight--there was little resetting from 1757 to 1758, and none in the
+play proper--were in its favor.
+
+Any study of the play must begin with Professor Sherburn's article--it
+is still indispensable, factually--but in its findings scholars have
+perhaps let it influence them more than they should have. John Wilson
+Bowyer was exceptional in challenging one of its identifications[3]
+(successfully, I thought); perhaps the time has now come for
+re-examining some of its other theses--for example, the doctrine (which
+has become so firmly embedded in the scholarship on the play) that the
+authors intended the role of Plotwell as a satire on Cibber. This was
+suggested at the time in the _Key_ to the play by E. Parker, but any
+charge brought by this person might well have been looked at askance;
+for, whoever he was, he was avowedly a champion of "that elaborate
+Gentleman," "the learned Dr. W--d---d" (Woodward, one of the real
+people attacked in the play) and might be suspected of hoping to cause
+an embroilment. It seems clear that prior to the play's première there
+was no rift between the management at Drury Lane and the authors. Parker
+says that they were constantly in attendance at rehearsals, and our
+Letter (p. 216) avers that they were more than satisfied with what
+Cibber was doing with their work. It rings true; the line attributed to
+Gay, "We dug the ore, but he [Cibber] refined the gold" exaggerates
+greatly no doubt, but seems beyond the powers of our female informant to
+have contrived in support of a thesis. An atmosphere of happy optimism
+prevailed; Lintot (Parker says) predicted that the play "would surprize
+the whole Town," and it was reported that he had given 50 guineas for
+the publishing rights (this item from John Durant Breval--signing
+himself "Joseph Gay"--p. 30 of _The Confederates_, 1717).[4]
+
+  [3] In _The Celebrated Mrs. Centlivre_ (1952). Sherburn had
+    contended that Phoebe Clinket in the play was aimed at Mrs.
+    Centlivre rather than at Lady Winchilsea as the tradition had it.
+    Bowyer pins the satire to Lady Winchilsea once more and it seems
+    this must be generally correct; the reference in the epilogue to
+    "our well-bred poetess" seems intended for Lady Winchilsea rather
+    than for Mrs. Centlivre.
+
+  [4] The report was not far wrong--the amount that Lintot paid Gay,
+    on January 8, was £43, 2s, 6d (Nichols, _Literary Anecdotes_, VIII
+    (1814), 296).
+
+That in all this sweetness and light there should have been a plan to
+make Cibber ridiculous, and he too stupid to realize this until he had
+trod the stage as Plotwell and felt the impact of the lines directed at
+him personally, is unbelievable on the face of it. How could the alleged
+plotters have been sure that when Colley came to cast the play he would
+not frustrate their deep-laid plan by assigning Plotwell to some other
+actor, if only by mere chance?
+
+The theory has fed on some misreadings of the play that must have an end
+put to them if this ghost is to be laid. If the reader, then, will
+pardon the obviousness of the following, it is true that Cibber wrote
+plays, but the name Plotwell should not be taken in this sense, but
+merely as suggesting the gallant skilled in the stratagems which, in the
+older comedies, males of this class had been accustomed to use in their
+cuckolding operations. Plotwell in the play has never set pen to paper
+except for notes sent to wives, and he is not an "actor-manager" or the
+like. He and Underplot are simply gentlemen who spend so much of their
+time in intrigues in real life that they would have no time for
+play-writing.[5] In the part of _Three Hours_ that has led scholars down
+this false path--the scene in which the manuscript is judged by Sir
+Tremendous and the players--it must be kept in mind that the actual
+author of the work being dismembered is Phoebe Clinket, not Plotwell,
+who, since he is merely fronting for her, is enabled to meet such
+strictures as "Between you and I, this gentleman knows nothing of
+poetry" with perfect sang-froid; it is Phoebe whose withers are
+comically wrung. Thus there was nothing in the part to offend Cibber,
+much less can resentment on his part be deduced from the intermission of
+the play after the seventh night.[6]
+
+  [5] See the excellent comment on the pair in our Key, p. 212.
+
+  [6] To charge him, as one authority has done, with "an arbitrary
+    withdrawal of _Three Hours_ after a far from unsuccessful week ...
+    an invidious, if not unwarrantable, decision on his part" betrays an
+    imperfect understanding of how a theater had to be managed in the
+    early 18th century when the number of patrons upon which it could
+    rely was limited. A play would run as long as it continued to draw;
+    when the house began to fall off a new bill would have to be
+    announced. The intermitting of _Three Hours_ should be most
+    naturally read as suggesting that at least in the judgment of the
+    managers its initial vogue had passed. It would have been brought
+    back when they thought patrons were ready to see it again--say, in a
+    couple of months.
+
+The squabble involving Pope, Gay, and Cibber must have begun with the
+latter's allusion to our play in the revival of _The Rehearsal_ on
+February 7, a couple of weeks after _Three Hours_ had closed. Cibber's
+version of how it happened may be read in the Letter (pp. 217-218
+below); our female correspondent sympathized with him and deleted a few
+expressions indicative of animus on his part, but on the whole the quote
+as she gives it is a reasonable facsimile of what he had said in the
+_Letter to Pope_ (1742). His disclaimer of an intent to offend is
+believable in the light of what we have just seen as to how Plotwell
+should be read in the play; on the other side, Pope's anger at the
+gag--though not any visit by him to Cibber, that is true--is attested
+both by Breval and by "Timothy Drub" (_A Letter to Mr. John Gay_, 1717)
+who agree that Pope was the one principally offended and that it was he
+who sent Gay with instructions to trounce "that impudent Dog C----r"
+(this line from Drub's pamphlet). Why may not Pope have been angry
+enough to seek out Cibber himself on the impulse of the moment? It seems
+feeble to doubt Cibber's testimony on the grounds that he had not told
+the story prior to 1742; he had not previously told the tale of the
+youthful Pope in a bagnio, either, yet the authorities think there might
+be something to this--if to the one tale, why not to the other? As to
+the account the lady gives of the scuffle between Gay and Cibber, it was
+widely known at the time that there had been some sort of angry meeting
+between them; her story is highly colored but nonetheless may be
+substantially true.[7]
+
+  [7] She says that the fracas occurred on the fourth evening of _The
+    Rehearsal_, and at least this revival did have a fourth performance,
+    five in fact: Emmett L. Avery in _The London Stage_ (1960) gives the
+    dates as February 7, 8, 20, March 21, 28. There is a slight
+    difficulty in assigning Gay's visit to the fourth of these, i.e.,
+    March 21: this is that the dates on which the two pamphlets that
+    refer to it were advertised ("just before March 1" for Drub's, and
+    March 30 for Breval's--Sherburn, p. 91) seem to rule out a March 21
+    fracas in the one case and to fall uncomfortably close in the other.
+    But publication (of course) though announced, may have been delayed,
+    and it is perhaps worth noticing that in each pamphlet Gay's visit
+    is mentioned in an inorganic part of the work that could have been
+    added late: the Dedication in Drub's, and, in Breval's, an ironical
+    "congratulatory poem" printed after the epilogue, on the last two
+    pages of the book.
+
+This quarrel, whether with both poets involved with Cibber or only one,
+doubtless cost the play a revival or two that it would otherwise have
+had; with such evidence of anger in the authors Cibber could well have
+wished to have done with them and their work. The use of the crocodile
+costume on April 2 in a dance at Drury Lane entitled _The Shipwreck_
+suggests that so far as the management was concerned the play for which
+it had been devised would not be acted again. Thereafter, _Three Hours_
+had only two revivals (Handlist of Plays in Nicoll, _Early
+Eighteenth-Century Drama_)--one in 1737 (two performances) the other in
+1746 (three).
+
+A pity! But in any case the play could not have had much of a life on
+the stage, considering the climate into which the authors chose to
+introduce it. The type of wit that had flourished in the former age did
+still hold a place in the theatre in 1717, but only in such comedies as
+had already won a place in the repertory.[8] The older plays could be
+"corrected" (that is, the racier lines could be taken out) or the
+tender-minded could tolerate them as classics or in a pinch stay at home
+when a play known to be of this sort had been announced. A new play was
+in a more vulnerable position; it had to conform to what the reformers
+had for a couple of decades been telling audiences a play should be, or
+squalls could be expected. Sir Richard Blackmore was continuing the
+crusade against scapegrace wit--in the Preface to his _Essays_, 1717, he
+is explicitly severe upon _Three Hours_ and its authors--and the battle
+was going his way. Jeremy Collier had published nothing on the theatre
+for nearly a decade but it is interesting to see his methods applied to
+the play by Timothy Drub in his _Letter to Gay_ and Drub then clinching
+his remarks with a quote of two pages from "a very elegant author" whom
+he does not name but who--not too surprisingly--can be recognized as
+Collier himself.[9] (Could "Drub" have been, in fact, Collier, thus
+tempted by _Three Hours_ to return to the fray under this alias?)
+
+  [8] During the year prior to the première of _Three Hours_ the
+    following had been seen on the London stage twice each or more
+    (selection only: based on Avery, op. cit.): _The Comical Revenge_,
+    _Man of Mode_, _Country Wife_, _Plain-Dealer_, _London Cuckolds_,
+    _Old Bachelor_, _Relapse_. _City Politicks_, a play from which our
+    authors took some hints, was revived in the July after the closure
+    of _Three Hours_; it ran three performances (i.e., successfully).
+    But it should be recalled that the most recent of the eight plays
+    here mentioned--Vanbrugh's--had been in the repertory twenty years.
+
+  [9] The quote is from the _Short View_, pp. 7-8 in the 1698 edition,
+    from "Obscenity in any Company is a rustick and increditable Talent"
+    to "But here a Man can't be a Sinner without being a Clown."
+
+In any event the authors must have known that they were offering to swim
+against the tide but counted on their combined brilliance to win anyway.
+What they wrote happens to conform to the current rules in one
+respect--to paraphrase the epilogue to _Love's Last Shift_, no cuckold
+is made within the limits of its three hours' time span--but this
+compliance must have been accidental, for in every other respect the
+play deliberately flouts the regulations as established by Collier and
+his school. Obviously the authors were out to create a sensation: shock
+the stodgy and respectable element, jam the play down the throats of the
+audience, and win the admiration of the minority with whom libertine wit
+was still in favor.
+
+These aims, which even a friend and well-wisher has to view as a bit on
+the juvenile side, were far from fully achieved. The description that
+Breval gives of the behavior of the crowd on the first night (Sherburn
+quotes it, if the reader can not readily get hold of _The Confederates_)
+is suggestive, not of a house packed with enemies of the authors,
+friends of Dr. Woodward and John Dennis out to damn the play, but of a
+crowd that had come predisposed to approve--"Silent a while th'attentive
+Many sate"--but found themselves simply unable to endure the dramatic
+fare set before them. The murmur that began and then grew to a hiss must
+have surprised and alarmed the authors: Breval's version of how they
+reacted must have a grain or two of truth in it. In the account of the
+second and third nights furnished by our Key one can see matters
+improving, but it is clear that to quiet the audience took heroic
+efforts by the cast and there was probably some deletion of offending
+lines,[10] perhaps some resort to "packing" the house.[11] This last was
+a measure not infrequently taken in those days--Dr. Johnson's story of
+Steele's efforts in behalf of _Cato_ will be recalled--but this was not
+what the authors had anticipated. In the upshot they had dared the
+unpastured dragon of reform in his den and had got away with it--but
+barely. They were all right financially--the run should have brought
+them two "benefits"--and there was the fee from Lintot and an added
+present of guineas from those three court ladies who wanted the world to
+know that they were sophisticated enough to take the play in stride.
+(Pope paid them with "A Court Ballad.") Still, the pride of the authors
+must have received some damage; perhaps some sensitiveness on Pope's
+part is understandable.
+
+  [10] Drub says that the actors left out "a considerable load of
+    Obscenity and Prophaness." Presumably the authors would have to
+    acquiesce in such bowdlerizing.
+
+  [11] Breval, p. 11, and his note.
+
+But what the collaboration produced is truly remarkable; if there is
+something of a show-off air about it the authors can be forgiven, in
+view of what they had to exhibit. Though its fast pace (which flags only
+toward the last) and its emphasis on intrigue may slant it toward
+farce, _Three Hours_ has the vitality and verve that one finds only in
+the very best English comic writing. Phoebe Clinket and Sir Tremendous
+are, to me, endlessly enjoyable, and Dr. Fossile more than merely a
+caricature of a now forgotten virtuoso or a lifeless counter in an
+intrigue plot (though in both these respects he meets the requirements
+of the part beautifully); even he has moments when the humanity shows
+through--as in his plaintive line to his friends when the mummy and the
+crocodile spring into movement and speech, "Gentlemen, wonder at nothing
+within these walls; for ever since I was married, nothing has happened
+to me in the common course of human life." Of the trio composed of Mrs.
+Townley and her followers I like them all, for various reasons, but the
+lady best. Once she shrieks (p. 186) but considering the circumstances
+anyone would consider this justifiable; otherwise she moves through the
+incredible crises of her role with a self-possession and an easy charm
+and good humor that one can only admire: as if she knew it was all
+nonsense but condescended to cooperate for the sake of the joke.
+
+Among the minor characters one deserves especial mention. It was
+probably heartless of the authors to make fun of an aging and
+unfortunate (if rather eccentric) lady in "poor Lady Hyppokekoana" (as
+her compassionate, but, perforce, ever neglectful physician calls her)
+but at least the result was esthetically satisfactory, and I beg leave
+to nominate her for listing with that class of comic characters who,
+though kept behind the scenes throughout, still come through
+unforgettably in the reports we have of them: Mrs. Grundy in _Speed the
+Plough_; Mrs. Harris in _Martin Chuzzlewit_; Dashenka in _The Cherry
+Orchard_.
+
+  John Harrington Smith
+  University of California
+  Los Angeles
+
+
+
+
+NOTES
+
+
+_Advertisement, printed exactly as it is acted._
+
+In 1717 Gay continued, "for, tho' the Players in Compliance with the
+Taste of the Town, broke it into five Parts in the Representation; yet,
+as the Action pauses, and the Stage is left vacant but three times, so
+it properly consists but of three Acts, like the _Spanish_ Comedies."
+There are several puzzles here. In the first place for a three-act play
+the stage should be left vacant twice rather than three times. But
+setting this aside there is a contradiction which must have puzzled any
+reader who has used the 1717 edition, namely that if the players broke
+it into five parts and the play is printed exactly as it is acted, the
+play that follows should be in five acts but actually is in three. The
+London 1757 _Supplement to Pope_ merely reprints Advertisement and play
+as they are in 1717 and it is not until the Dublin printings that the
+play appears in the five acts in which Gay says it was acted.
+
+I suggest that Lintot in 1717 had two scripts of the play, one in three
+acts, one in five, and that Gay wrote the Advertisement under the
+impression that Lintot would discard the former.
+
+I judge that when W. Whitestone undertook his Dublin Supplement of 1757
+he took the Advertisement from the London book that had just been
+published (see the title-page of the volume) but that when he re-issued
+his book in 1758 he deleted the lines quoted above, perceiving that they
+were not to the point so far as his text of the play was concerned.
+
+Unless we imagine Whitestone revising the play into five acts himself we
+must suppose that he had got his hands on an authentic acting MS of the
+play, and it seems not one from a late revival. I suspect that
+Whitestone in fact had got the very MS of the play that Gay thought
+Lintot was going to print; one cannot guess from where, but presumably
+from the same source that supplied the Key and Letter. Besides the act
+divisions the most interesting variant is a speech of a dozen words
+added to Dublin; see the note to p. 183. Cibber may have put this in, or
+Gay, at Cibber's request. But in either case it seems that the text
+that has it is the one that Gay authorized for printing.
+
+By the same token, the cast as given in the present reprint (no actors'
+names are given in Dublin 1757 but they must have been in the script and
+in the reprint of 1758 Whitestone decided to put them in) is more
+probably correct than that printed in 1717. The only differences between
+the two are in five very minor roles, where, as rehearsals went on,
+substitutions would be easy. All the principals are the same.
+
+
+_Prologue._
+
+Nothing to add to the Twickenham _Pope_, VI, 179-180.
+
+
+_Dramatis Personae._
+
+Five minor roles differ from 1717, as stated above. _Mrs. Bicknet._ A
+misreading by the typesetter--he had never heard of Mrs. Bicknell.
+
+
+_Play._
+
+  140 _Almost three and twenty._ Mrs. Oldfield was only 34 in 1717 but
+    no doubt popular enough to draw a laugh by simpering at this line.
+
+      _The office of the church ... brute beasts._ The _Book of Common
+    Prayer_ (1709) says of matrimony that it is not to be taken in hand
+    "wantonly ... like brute beasts." The fashion of alluding to the
+    Prayer Book in a jocose context, if it did not begin in the reign of
+    Charles II, was at least in vogue than; a couple of instances in
+    Dryden's _Wild Gallant_ will be pointed out in the Clark _Dryden_,
+    VIII (scheduled to appear in 1962). Another touch of "profaneness"
+    that Collieresque critics objected to in _Three Hours_ was the
+    paraphrase of Holy Writ in Sir Tremendous's line about "ten
+    righteous criticks," p. 153; cf. Key, p. 215.
+
+  141 _pistachoe-porridge._ An aphrodisiac concoction? (I apologize
+    for my neglect of the pharmaceutical, medical, and alchemical
+    jargon--J.H.S.)
+
+  144 _spoils of quarries._ Cf. the anecdote of Dr. Woodward in the
+    Key, p. 211; Parker's Key has it also, but in a less complete form.
+
+  145 _Shock._ Mrs. Townley's lapdog--perhaps named after Belinda's in
+    _Rape of the Lock_. Of course it may have been a common name for
+    such dogs before Pope wrote the poem; see Twickenham _Pope_, II,
+    153.
+
+  147 _my pace and my honour._ 1717, "Peace."
+
+  148 _forgive thee, if thou hadst ... kill'd my lapdog._ Parker, with
+    a citation to _Rape of the Lock_, assigned this speech to Pope, and
+    indeed it smacks of several places in the poem, e.g., III, 157-8,
+    IV, 119-120.
+
+  150 _some ... that nauseate the smell of a rose._ Cf. _Essay on
+    Man_, I, 200.
+
+  152 _That injudicious Canaille._ In view of her bias Phoebe's
+    strictures on the players are of course to be taken in the directly
+    opposite sense.
+
+  155 Parker finds some double-entendres in the dialogue in which
+    Phoebe and Sir Tremendous compliment each other; if such there be,
+    the speakers are unaware of them.
+
+  156 _if stones were dissolved, as a late philosopher hath proved._
+    In summarizing his thesis in the preface to his Essay _Toward a
+    Natural History of the Earth_ (1695) Dr. Woodward does say that "the
+    whole Terrestrial Globe was taken all to pieces and dissolved at the
+    Deluge, the particles of Stone ..." According to the DNB, Arbuthnot
+    published a criticism of this book in 1697.
+
+  163 The "old woman" who brings the letter from Madam Wyburn (a name
+    beyond all praise!): Drub, p. 18, calls her "an Old Woman without a
+    Nose," and objects strenuously. One dislikes siding with Drub on
+    anything, but this was indeed an unsavory touch, perhaps one of the
+    embellishments suggested by Cibber while refining the ore of the
+    play into gold during the rehearsal period. Our authors should have
+    ruled against it but they were in no mood to pull punches at this
+    time, though, as stated above, they had to consent to some
+    bowdlerizing after the first night of the play.
+
+  168 _a rouge in disguise._ 1717, "Rogue."
+
+  171 _my Mercury._ 1717, "by Mercury."
+
+  173 _s.d. in a chair like a sick man._ Idea from Crowne, _City
+    Politicks_, first acted 1682.
+
+  178 _fitigue._ 1717, "Fatigue."
+
+      s.d. _powers some drops in._ 1717, "pours."
+
+  180 _have the any power._ 1717, "they."
+
+  182 Townley's concealing Plotwell under the petticoat owes to Mrs.
+    Behn's _The Younger Brother_ (acted 1696, not revived), Mirtilla's
+    hiding "Endimion" under the train of her gown in IV.ii.
+
+      _invisible i th is very._ Typo for "in this very"; 1717 has "on this
+    very." Gay (or Cibber) might have changed "on" to "in" when adding
+    the sentence at the end of Act IV; see next note.
+
+  183 _But prithee ... rarities._ This sentence is not in 1717, but
+    seems an improvement, as it hints at developments to come and raises
+    the expectations of the audience.
+
+  186 _desarts._ 1717, "Disserts."
+
+      _Macedonian queen._ Olympias: Underplot in his verses alludes,
+    mock-heroically, to the fabled begetting of Alexander the Great.
+
+      _mantygers._ This spelling may have come from the London 1757
+    _Supplement_. 1717, "Mantegers" (OED, mantegar, a kind of baboon).
+
+  191 _s.d. leap from their places._ Idea from Ravenscroft's _The
+    Anatomist_: cf. n. to 215.
+
+  199 _Come we may_ (5th line on page). 1717, "Come we now"--perhaps
+    "may" is a misreading.
+
+
+_Epilogue._
+
+_sound in living._ Perhaps another misreading: 1717, "and" for "in."
+
+_viol._ 1717, "vial." Perhaps another misreading.
+
+
+_Key._
+
+  212 _knights of the shires, who represent them all._ Paraphrase of a
+    line in Dryden's epilogue to _The Man of Mode_: a mark of literacy
+    in the anonymous writer of our Key.
+
+      _Heautontimerumenos._ Self-tormentor--title of a play by Terence.
+
+  213 _another eminent physician's wife ... shall be nameless._
+    Contemporary gossip said that the wife of Dr. Richard Mead was
+    meant: Parker, less considerate than the gentlemanly author of our
+    Key, uses her name, and in Breval (p. 15) Mrs. Oldfield is made to
+    wish that she had not "mimick'd Mrs. M--d" in her role as Mrs.
+    Townley. But it seems likely that any mimicry would be in the mind
+    of the audience rather than in Mrs. Oldfield's performance, or for
+    that matter, the intention of the authors.
+
+  214 _Marriage not to be undertaken wantonly._ The Key is incorrect
+    in citing the Jonson play; see note to p. 140, above.
+
+  215 _letters ... Cocu imaginaire._ None of our Key-writer's
+    adducings of Molière is really in point. The hint for the letters
+    came from Act V of anon., _The Apparition_, acted twice in 1713. The
+    same play has an intriguing valet named Plotwell; here our authors
+    found the name for one of their gallants--Underplot was a happy
+    invention of their own.
+
+      _Lubomirski ... in Lopez de Vega_. Parker (p. 9) is correct in
+    tracing this impersonation of Plotwell's to Ravenscroft's _The
+    Anatomist, or the Sham Doctor_; the same farce suggested the anxiety
+    of the disguised gallants at the proposals to dissect them in Act V.
+    Ravenscroft's play, first acted in 1696, was popular well into the
+    18th century and would be well known to the audience. No doubt our
+    authors expected their play to be found infinitely funnier than
+    Ravenscroft's in the comparable parts. It is.
+
+      _Theatre Italien._ Parker (p. 14) says more explicitly that
+    the mummy-crocodile scene is "all stole from a farce" in this
+    collection. Gherardi, vol. VI, does have a farce of the title cited
+    but the only trace of it in _Three Hours_ occurs in the brief joke
+    on Antony and Cleopatra that Townley and Plotwell share on p. 185.
+
+
+
+
+  A
+  SUPPLEMENT
+  TO THE
+  WORKS
+  OF
+  ALEXANDER POPE, Esq;
+  CONTAINING,
+  Such POEMS, LETTERS, _&c._
+
+  As are omitted in the Edition published
+  by the Reverend Doctor _Warburton_:
+
+  With the COMEDY of the
+  THREE HOURS after MARRIAGE;
+  And a KEY to the LETTERS:
+  To which is added, (not in the _London_ Edition)
+  A KEY to the THREE HOURS after
+  MARRIAGE,
+
+  And a LETTER giving an Account of the
+  Origin of the Quarrel between CIBBER,
+  POPE, and GAY.
+
+  _DUBLIN:_
+  Printed for W. WHITESTONE, opposite _Dick's
+  Coffee-House_, in _Skinner-Row_.
+  M.DCC.LVIII.
+
+
+
+
+_Three Hours after_
+
+MARRIAGE:
+
+A
+
+COMEDY.
+
+
+_Rumpatur, quisquis rumpitur invidia._ MART.
+
+
+
+
+ADVERTISEMENT.
+
+
+It may be necessary to acquaint the reader, that this play is printed
+exactly as it is acted.
+
+I must farther own the assistance I have receiv'd in this piece from two
+of my friends; who, tho' they will not allow me the honour of having
+their names join'd with mine, cannot deprive me of the pleasure of
+making this acknowledgment.
+
+JOHN GAY.
+
+
+
+
+PROLOGUE
+
+Spoke by MR. WILKS.
+
+
+  _Authors are judg'd by strange capricious rules,
+  The great ones are thought mad, the small ones fools.
+  Yet sure the best are most severely fated,
+  For fools are only laugh'd at, wits are hated,
+  Blockheads with reason, men of sense abhor;
+  But fool 'gainst fool is barb'rous civil war.
+  Why on all authors then should critics fall?
+  Since some have writ, and shewn no wit at all.
+  Condemn a play of theirs, and they evade it,
+  Cry, damn not us, but damn the French that made it;
+  By running goods, these graceless owlers gain,
+  Theirs are the rules of France, the plots of Spain:
+  But wit, like wine, from happier climates brought,
+  Dash'd by these rogues, turns English common draught:
+  They pall Moliere's and Lopez sprightly strain,
+  And teach dull Harlequins to grin in vain.
+  How shall our author hope a gentle fate,
+  Who dares most impudently----not translate.
+  It had been civil in these ticklish times,
+  To fetch his fools and knaves from foreign climes;_
+  Spaniards and French abuse to the worlds' end
+  But spare old England, lest you hurt a friend.
+  If any fool is by your satire bit,
+  Let him hiss loud, to show you all--he's hit.
+  Poets make characters as salesmen cloaths,
+  We take no measure of your fops and beaus.
+  But here all sizes and all shapes ye meet,
+  And fit yourselves--like chaps in Monmouth-street._
+
+  _Gallants look here, this[B] fool's cap has an air--
+  Goodly and smart,--with ears of Issachar.
+  Let no one fool engross it, or confine:
+  A common blessing! now 'tis your's, now mine.
+  But poets in all ages, had the Care
+  To keep this cap, for such as will, to wear;
+  Our author has it now, for ev'ry wit
+  Of course resign'd it to the next that writ:
+  And thus upon the stage 'tis fairly[C] thrown,
+  Let him that takes it, wear it for his own._
+
+  [B] Shews a cap with ears.
+
+  [C] Flings down the cap and
+
+    _Exit._
+
+
+
+
+Dramatis Personæ.
+
+
+MEN.
+
+  FOSSILE,  }               Mr. _Johnson_.
+  POSSUM,   }   Doctors.    Mr. _Corey_.
+  NAUTILUS, }               Mr. _Cross_.
+  PTISAN,    Apothecary.    Mr. _Wright_.
+  PLOTWELL,                 Mr. _Cibber_.
+  UNDERPLOT,                Mr. _Penkethman_.
+  Sir TREMENDOUS,           Mr. _Bowman_.
+  First PLAYER,             Mr. _Diggs_.
+  Second PLAYER,            Mr. _Watson_.
+  SAILOR.                   Mr. _Bickerstaff_.
+
+  Footmen, Servants, _&c._
+
+
+WOMEN.
+
+  Mrs. TOWNLEY,             Mrs. _Oldfield_.
+  Mrs. PHOEBE CLINKET,      Mrs. _Bicknet_.
+  SARSNET,                  Mrs. _Garnet_.
+  PRUE.                     Miss _Willis_.
+
+
+
+
+_Three Hours after_
+
+MARRIAGE:
+
+A
+
+COMEDY.
+
+
+
+ACT I.
+
+
+    Enter FOSSILE, leading TOWNLEY.
+
+_Fos._ Welcome, my bride, into the habitation of thy husband. The
+scruples of the parson----
+
+_Town._ And the fatigue of the ceremony----
+
+_Foss._ Are at last well over.
+
+_Town._ These blank licences are wonderful commodious.----The clergy
+have a noble command, in being rangers of the park of matrimony; produce
+but a warrant, and they deliver a lady into your possession: but I have
+no quarrel with them, since they have put me into so good hands.
+
+_Foss._ I now proclaim a solemn suspension of arms between medicine and
+diseases. Let distempers suspend their malignant influence, and powders,
+pills, and potions their operations. Be this day sacred to my love. I
+had rather hold this hand of thine, than a dutchess by the pulse.
+
+_Town._ And I this, than a hand of matadores.
+
+_Foss._ Who knows but your relations may dispute my title to your
+person? come, my dear, the seal of the matrimonial bond is consummation.
+
+_Town._ Alas! what will become of me!
+
+_Foss._ Why are thy eyes fix'd on the ground? why so slow? and why this
+trembling?
+
+_Town._ Ah! heedless creature that I was, to quit all my relations, and
+trust myself alone in the hands of a strange man.
+
+_Foss._ Courage, thou best of my curiosities. Know that in husband, is
+comprehended all relations; in me thou seest a fond father.
+
+_Town._ Old enough o' my conscience.
+
+    [_Aside._
+
+_Foss._ You may, you must trust yourself with me.
+
+_Town._ Do with me as you please: Yet sure you cannot so soon forget the
+office of the church. Marriage is not to be undertaken wantonly, like
+brute beasts. If you will transgress, the sin be upon your own head.
+
+_Foss._ Great indeed is thy virtue, and laudable is thy modesty. Thou
+art a virgin, and I a philosopher; but learn, that no animal action,
+_quatenus animal_, is unbecoming of either of us. But hold! where am I
+going? Prithee, my dear, of what age art thou?
+
+_Town._ Almost three and twenty.
+
+_Foss._ And I almost at my grand climacterick. What occasion have I for
+a double-night at these years? She may be an Alcmena, but alas! I am no
+thunderer.
+
+    [_Aside_
+
+_Town._ You seem somewhat disturb'd; I hope you are well, Mr. Fossile.
+
+_Foss._ What business have I in the bed-chamber, when the symptoms of
+age are upon me? Yet hold, this is the famous corroborative of Crollius;
+in this vial are included sons and daughters. Oh, for a draught of the
+_aqua magnanimitatis_ for a vehicle! fifty drops of _liquid laudanum_
+for her dose would but just put us upon a _par_. _Laudanum_ would settle
+the present ataxy of her animal spirits, and prevent her being too
+watchful.
+
+    [_aside_
+
+
+    Enter a Servant.
+
+_Serv._ Sir, your pistachoe-porridge is ready.
+
+    [_Exit._
+
+_Foss._ Now I think of it, my dear; Venus, which is in the first degree
+of Capricorn, does not culminate till ten; an hour if astrology is not
+fallible, successful in generation.
+
+_Town._ I am all obedience, Sir.
+
+_Foss._ How shall I reward thee for so much Goodness? let our wedding as
+yet be a secret in the family. In the mean time I'll introduce my niece
+Phoebe Clinket to your acquaintance: but alas, the poor girl has a
+procidence of the pineal gland, which has occasioned a rupture in her
+understanding. I took her into my house to regulate my oeconomy; but
+instead of puddings, she makes pastorals; or when she should be raising
+paste, is raising some ghost in a new tragedy. In short, my house is
+haunted by all the underling players, broken booksellers, half-voic'd
+singing-masters, and disabled dancing-masters in town. In a former will
+I had left her my estate; but I now resolve that heirs of my own
+begetting shall inherit. Yonder she comes in her usual occupation. Let
+us mark her a while.
+
+
+    _Enter Clinket and her maid bearing a writing-desk on her back.
+      Clinket writing, her head dress stain'd with ink, and pens
+      stuck in her hair._
+
+_Maid._ I had as good carry a raree-show about the streets. Oh! how my
+back akes!
+
+_Clink._ What are the labours of the back to those of the brain? thou
+scandal to the muses. I have now lost a thought worth a folio, by thy
+impertinance.
+
+_Maid._ Have not I got a crick in my back already, that will make me
+good for nothing, with lifting your great books?
+
+_Clink._ Folio's, call them, and not great books, thou monster of
+impropriety: But have patience, and I will remember the three
+gallery-tickets I promis'd thee at my new tragedy.
+
+_Maid._ I shall never get my head-cloaths clear-starch'd at this rate.
+
+_Clink._ Thou destroyer of learning, thou worse than a book-worm; thou
+hast put me beyond all patience. Remember how my lyrick ode bound about
+a tallow-candle; thy wrapping up snuff in an epigram; nay, the unworthy
+usage of my hymn to Apollo, filthy creature! read me the last lines I
+writ upon the deluge, and take care to pronounce them as I taught you.
+
+_Maid._
+
+  Swell'd with a dropsy, sickly nature lies,
+  And melting in a diabetes, dies.
+
+    [_Reads with an affected tone._
+
+_Clink._ Still without cadence!
+
+_Maid._ Swell'd with a dropsy----
+
+_Clink._ Hold. I conceive----
+
+  The roaring seas o'er the tall woods have broke,
+  And whales now perch upon the sturdy oak.
+
+Roaring? stay. Rumbling, roaring, rustling, no; raging seas.
+
+    [_Writing._
+
+  The raging seas o'er the tall woods have broke,
+  Now perch, thou whale, upon the sturdy oak.
+
+Sturdy oak? no; steady, strong, strapping, stiff. Stiff? no, stiff is
+too short.
+
+
+    FOSSILE and TOWNLEY come forward.
+
+  What feast for fish! Oh too luxurious treat!
+  When hungry dolphins feed on butchers meat.
+
+_Foss._ Niece, why niece, niece? oh, Melpomene, thou goddess of tragedy,
+suspend thy influence for a moment, and suffer my niece to give me a
+rational answer. This lady is a friend of mine; her present
+circumstances oblige her to take sanctuary in my house; treat her with
+the utmost civility. Let the tea-table be made ready.
+
+_Clink._ Madam, excuse this absence of mind; my animal spirits had
+deserted the avenues of my senses, and retired to the recesses of the
+brain, to contemplate a beautiful idea. I could not force the vagrant
+creatures back again into their posts, to move those parts of the body
+that express civility.
+
+_Town._ A rare affected creature this! if I mistake not, flattery will
+make her an useful tool for my purpose.
+
+    [_Aside._
+
+    [_Exeunt_ Townley, Clinket, _and_ Maid.
+
+_Foss._ Her jewels, her strong box, and all her things left behind! if
+her uncle should discover her marriage, he may lay an embargo upon her
+goods.----I'll send for them.
+
+
+    Enter a boy with a letter.
+
+_Boy._ This is the ho-ho-house.
+
+_Foss._ Child, whom dost thou want?
+
+_Boy._ Mistress Townley's ma-ma-maid.
+
+_Foss._ What is your business?
+
+_Boy._ A l-l-letter.
+
+_Foss._ Who sent this letter?
+
+_Boy._ O-o-one.
+
+_Foss._ Give it me, child. An honest boy. Give it me, and I'll deliver
+it myself. A very honest boy.
+
+_Boy._ So.
+
+    [_Exit boy._
+
+_Foss._ There are now no more secrets between us. Man and wife are one.
+
+  'Madam, either I mistake the encouragement I have had, or I am to
+  be happy to-night. I hope the same person will compleat her good
+  offices: I stand to articles. The ring is a fine one; and I shall
+  have the pleasure of putting it on the first time.'
+
+  This from your impatient, R. P.
+
+In the name of Beelzebub, what is this? encouragement! happy to-night!
+same person! good offices! whom hast thou married, poor Fossile? couldst
+thou not still divert thyself with the spoils of quarries and coal-pits,
+thy serpents and thy salamanders, but thou must have a living monster
+too! 'sdeath! what a jest shall I be to our club! is there no rope among
+my curiosities? shall I turn her out of doors, and proclaim my infamy;
+or lock her up and bear my misfortunes? lock her up! impossible. One may
+shut up volatile spirits, pen up the air, confine bears, lyons and
+tygers, nay, keep even your gold: but a wanton wife, who can keep?
+
+
+    Enter TOWNLEY.
+
+_Town._ Mrs. Clinket's play is to be read this morning at the tea-table:
+will you come and divert yourself, Sir?
+
+_Foss._ No: I want to be alone.
+
+_Town._ I hope my company is not troublesome already. I am as yet a
+bride; not a wife. [_sighs._] What means this sudden change? [_Aside._]
+Consider, Mr. Fossile, you want your natural rest: the bed would refresh
+you. Let me sit by you.
+
+_Foss._ My head akes, and the bed always makes it worse.
+
+_Town._ Is it hereabouts?
+
+    [_rubbing his temples._
+
+_Foss._ Too sure.
+
+    [_Turns from her._
+
+_Town._ Why so fretful, Mr. Fossile?
+
+_Foss._ No, I'll dissemble my passion, and pump her. [_Aside._] Excess
+of joy, my dear, for my good fortune overcomes me. I am somewhat
+vertiginous, I can hardly stand.
+
+_Town._ I hope I was ordain'd for thy support.
+
+_Foss._ My disorder now begins to dissipate: it was only a little
+flatulency, occasion'd by something hard of digestion. But pray, my
+dear, did your uncle shut you up so close from the conversation of
+mankind?
+
+_Town._ Sarsnet and Shock were my only company.
+
+_Foss._ A very prudent young woman this Sarsnet; she was undoubtedly a
+good and faithful friend in your solitude.
+
+_Town._ When it was her interest; but I made no intimacies with my
+chamber-maid.
+
+_Foss._ But was there no lover offer'd his service to a lady in
+distress.
+
+_Town._ Tongue, be upon thy guard: these questions must be design'd to
+trap me. [_Aside._] A woman of my condition can't well escape
+importunity.
+
+_Foss._ What was the name of that disagreeable fellow, who, you told me,
+teaz'd you so?
+
+_Town._ His name? I think he had a thousand names. In one letter he was
+Myrtillo, in another Corydon, Alexis, and I don't know what.
+
+
+    Enter SARSNET in haste to her mistress: He runs and embraces her
+      with great earnestness.
+
+_Foss._ Dear Mrs. Sarsnet, how am I oblig'd to thee for thy services:
+thou hast made me happy beyond expression.----I shall find another
+letter upon her.
+
+    [_Aside._
+
+    [_He gets his hand into Sarsnet's pocket, as searching for
+      a letter._
+
+    [_Whenever Sarsnet goes to whisper her mistress, he gets
+      between them._
+
+
+    Enter PTISAN.
+
+_Ptis._ Mrs. Colloquintida complains still of a dejection of appetite;
+she says that the genevre is too cold for her stomach.
+
+_Foss._ Give her a quieting draught; but let us not interrupt one
+another. Good Mr. Ptisan, we are upon business.
+
+    [_Fossile gets between Sarsnet and Townley._
+
+_Ptis._ The colonel's spitting is quite suppress'd.
+
+_Foss._ Give him a quieting draught. Come to morrow, Mr. Ptisan; I can
+see no body till then.
+
+_Ptis._ Lady Varnish finds no benefit of the waters; for the pimple on
+the tip of her nose still continues.
+
+_Foss._ Give her a quieting draught.
+
+_Ptis._ Mrs. Prudentia's tympany grows bigger and bigger. What, no pearl
+cordial! must I quiet them all?
+
+_Foss._ Give them all quieting draughts, I say, or blister them all, as
+you please. Your servant Mr. Ptisan.
+
+_Ptis._ But then lady Giddy's vapours. She calls her chamber-maids
+nymphs; for she fancies herself Diana, and her husband Acteon.
+
+_Foss._ I can attend no patient till to morrow. Give her a quieting
+draught, I say.
+
+    [_Whenever Fossile goes to conduct Ptisan to the door, Sarsnet and
+      Townley attempt to whisper; Fossile gets between them, and Ptisan
+      takes that opportunity of coming back._
+
+_Ptis._ Then, sir, there is miss Chitty of the boarding-school has taken
+in no natural sustenance for this week, but a halfpeny worth of
+charcoal, and one of her mittens.
+
+_Foss._ Sarsnet, do you wait on Mr Ptisan to the door. To morrow let my
+patients know I'll visit round.
+
+    [_A knocking at the door._
+
+_Ptis._ Oh, Sir; here is a servant of the countess of Hippokekoana. The
+emetick has over-wrought and she is in convulsions.
+
+_Foss._ This is unfortunate. Then I must go. Mr. Ptisan, my dear, has
+some business with me in private. Retire into my closet a moment, and
+divert yourself with the pictures. There lies your way, madam.
+
+    [_To Sarsnet._
+
+    [_Exit Townley at one door and Sarsnet at the other._
+
+Mr. Ptisan, pray, do you run before, and tell them I am just coming.
+
+    [_Exit Ptisan._
+
+All my distresses come on the neck of one another. Should this fellow
+get to my bride before I have bedded her, in a collection of cuckolds,
+what a rarity should I make! what shall I do? I'll lock her up. Lock up
+my bride? my pace and my honour demand it, and it shall be so. [_Locks
+the door._] Thomas, Thomas!
+
+
+    Enter footman.
+
+I dream't last night I was robb'd. The town is over-run with rogues. Who
+knows but the rascal that sent the letter may be now in the house?
+[_Aside._] Look up the chimney, search all the dark closets, the coal
+hole, the flower-pots, and forget not the empty butt in the cellar. Keep
+a strict watch at the door, and let no body in till my return.
+
+    [_Exit footman. A noise at the closet-door._
+
+(_within._) Who's there?----I'm lock'd in. Murder! fire!
+
+_Foss._ Dear madam, I beg your pardon.
+
+
+    [_Unlocks the door._ Enter TOWNLEY.]
+
+'Tis well you call'd. I am so apt to lock this door; an action meerly
+mechanical, not spontaneous.
+
+_Town._ Your conduct, Mr. Fossile, for this quarter of an hour has been
+somewhat mysterious. It has suggested to me what I almost blush to name;
+your locking me up, confirms this suspicion. Pray speak plainly, what
+has caused this alteration?
+
+    [_Fossile shews her the letter._
+
+Is this all?
+
+    [_Gives him the letter back._
+
+_Foss._ (reads) Either I mistake the encouragement I have had. What
+encouragement?
+
+_Town._ From my uncle,----if I must be your interpreter.
+
+_Foss._ Or I am to be happy to night.
+
+_Town._ To be married.----If there can be happiness in that state.
+
+_Foss._ I hope the same person.
+
+_Town._ Parson. Only a word mis-pell'd.----Here's jealousy for you!
+
+_Foss._ Will compleat her good offices. A she-parson, I find!
+
+_Town._ He is a Welshman. And the Welsh always say her instead of his.
+
+_Foss._ I stand to articles.
+
+_Town._ Of jointure.
+
+_Foss._ The ring is a fine one, and I shall have the pleasure of putting
+it on my self.
+
+_Town._ Who should put on the wedding-ring but the bridegroom.
+
+_Foss._ I beseech thee, pardon thy dear husband. Love and jealousy are
+often companions, and excess of both had quite obnubilated the eyes of
+my understanding.
+
+_Town._ Barbarous man! I could forgive thee, if thou hadst poison'd my
+father, debauch'd my sister, kill'd my lapdog; but to murder my
+reputation!
+
+    [_Weeps._
+
+_Foss._ Nay, I beseech thee, forgive me.
+
+    [_Kneels._
+
+_Town._ I do: but upon condition your jealous fit never returns. To a
+jealous man a whisper is evidence, and a dream demonstration. A civil
+letter makes him thoughtful, an innocent visit mad. I shall try you,
+Mr. Fossile; for don't think I'll be deny'd company.
+
+_Foss._ Nay, prithee, my dear; I own I have abused thee. But lest my
+marriage, and this simple story should take air in the neighbourhood, to
+morrow we will retire into the country together, till the secret is
+blown over. I am call'd to a patient. In less than half an hour I'll be
+with you again, my dear.
+
+    [_Exit Fossile._
+
+_Town._ Plotwell's letter had like to have ruin'd me. 'Twas a neglect in
+me, not to intrust him with the secret of my marriage. A jealous
+bridegroom! every poison has its antidote; as credulity is the cause, so
+it shall be the cure of his jealousy. To morrow I must be spirited away
+into the country; I'll immediately let Plotwell know of my distress: and
+this little time with opportunity, even on his wedding-day, shall finish
+him a compleat husband. Intrigue assist me! and I'll act a revenge that
+might have been worthy the most celebrated wife in Boccace.
+
+
+    Enter PLOTWELL and CLINKET.
+
+Hah! Plotwell! which way got he hither? I must caution him to be upon
+his guard.
+
+_Plot._ Madam, I am agreeably surpriz'd to find you here.
+
+_Town._ Me, Sir? you are certainly mistaken, for I don't remember I ever
+saw you before.
+
+_Plot._ Madam, I beg your pardon. How like a truth sounds a lye from the
+tongue of a fine woman.
+
+    [_Aside._
+
+_Clink._ This, Madam, is Mr. Plotwell; a Gentleman who is so infinitely
+obliging, as to introduce my play on the theatre, by fathering the
+unworthy issue of my muse, at the reading it this morning.
+
+_Plot._ I should be proud, madam, to be a real father to any of your
+productions.
+
+_Clink._ Mighty just. Ha, ha, ha. You know, Mr. Plotwell, that both a
+parrot and a player can utter human sounds, but we allow neither of them
+to be a judge of wit. Yet some of those people have had the assurance to
+deny almost all my performances the privilege of being acted. Ah! what a
+_Goût de travers_ rules the understanding of the illiterate!
+
+_Plot._ There are some, madam, that nauseate the smell of a rose.
+
+    [_Whenever Plotwell and Townley endeavour to talk, she interrupts
+      them._
+
+_Clink._ If this piece be not rais'd to the sublime, let me henceforth
+be stigmatiz'd as a reptile in the dust of mediocrity. I am persuaded,
+Sir, your adopted child will do you no dishonour.
+
+_Town._ Pray, madam, what is the subject?
+
+_Clink._ Oh! beyond every thing. So adapted for tragical machines! so
+proper to excite the passions! not in the least encumber'd with
+episodes! the vraysemblance and the miraculous are linkt together with
+such propriety.
+
+_Town._ But the subject, madam?
+
+_Clink._ The universal Deluge, I chose that of Deucalion and Pyrrha,
+because neither our stage nor actors are hallow'd enough for sacred
+story.
+
+_Plot._ But, madam----
+
+    [_To Townley._
+
+_Clink._ What just occasion for noble description! these players are
+exceeding dilatory.
+
+--In the mean time, Sir, shall I be oblig'd to you and this lady for the
+rehearsal of a scene that I have been just touching up with some lively
+strokes.
+
+_Town._ I dare assure you, madam, it will be a pleasure to us both. I'll
+take this occasion to inform you of my present circumstances.
+
+    [_To Plotwell._
+
+_Clink._ Imagine Deucalion and Pyrrha in their boat. They pass by a
+promontory, where stands prince Hæmon a former lover of Pyrrah's, ready
+to be swallowed up by the devouring flood. She presses her husband to
+take him into the boat. Your part, Sir, is Hæmon; the lady personates
+Pyrrha; and I represent Deucalion. To you, Sir.
+
+    [_Gives Plotwell the manuscript._
+
+_Plot._ What ho, there sculler!
+
+    [_reads._
+
+_Town._ ----Hæmon!
+
+_Plot._ ----Yes, 'tis Hæmon!
+
+_Town._
+
+  Thou seest me now sail'd from my former lodgings,
+  Beneath a husband's ark; yet fain I would reward
+  Thy proffer'd love. But Hæmon, ah, I fear
+  Tomorrow's eve will hide me in the country.
+
+_Clink._ Not a syllable in the part! wrong, all wrong!
+
+_Plot._
+
+  Through all the town, with diligent enquiries,
+  I sought my Pyrrha----
+
+_Clink._ Beyond all patience! the part, Sir, lies before you; you are
+never to perplex the drama with speeches extempore.
+
+_Plot._ Madam, 'tis what the top players often do.
+
+_Town._ Though love denies, companion bids me save thee.
+
+    [_Plotwell kisses her._
+
+_Clink._ Fye, Mr. Plotwell; this is against all the decorum of the
+stage; I will no more allow the libertinism of lip-embraces than the
+barbarity of killing on the stage; your best tragedians, like the ladies
+of quality in a visit, never turn beyond the back-part of the cheek to a
+salute, as thus Mr. Plotwell.
+
+    [_Kisses Plotwell._
+
+_Plot._ I don't find in Aristotle any precept against killing.
+
+_Clink._ Yet I would not stand upon the brink of an indecorum.
+
+_Plot._ True, madam, the finishing stroke of love and revenge should
+never shock the eyes of an audience. But I look upon a kiss in a comedy
+to be upon a par with a box on the ear in a tragedy, which is frequently
+given and taken by your best authors.
+
+_Clink._ Mighty just! for a lady can no more put up a kiss than a
+gentleman a box on the ear. Take my muse, Sir, into your protection
+[_Gives him her play_] the players I see are here. Your personating the
+author will infallibly introduce my play on the stage, and spite of
+their prejudice, make the theatre ring with applause, and teach even
+that injudicious Canaille to know their own interest.
+
+    _Exit._
+
+
+
+ACT II.
+
+
+    PLOTWELL, TOWNLEY, CLINKET, with Sir TREMENDOUS and two Players,
+      discovered seated round a Table.
+
+_Plot._ Gentlemen, this lady who smiles on my performances, has
+permitted me to introduce you and my tragedy to her tea-table.
+
+_Clink._ Gentlemen, you do me honour.
+
+1st _Play._ Suffer us, Sir, to recommend to your acquaintance, the
+famous Sir Tremendous, the greatest critick of our age.
+
+_Plot._ Sir Tremendous, I rejoice at your presence; though no lady that
+has an antipathy, so sweats at a cat as some authors at a critick. Sir
+Tremendous, madam, is a Gentleman who can instruct the town to dislike
+what has pleased them, and to be pleased with what they disliked.
+
+Sir _Trem._ Alas! what signifies one good palate when the taste of the
+whole town is viciated. There is not in all this Sodom of ignorance ten
+righteous criticks, who do not judge things backward,
+
+_Clink._ I perfectly agree with Sir Tremendous: your modern tragedies
+are such egregious stuff, they neither move terror nor pity.
+
+_Plot._ Yes, madam, the pity of the audience on the first night, and the
+terror of the author for the third. Sir Tremendous's plays indeed have
+rais'd a sublimer passion, astonishment.
+
+_Clink._ I perceive here will be a wit-combat between these
+beaux-esprits. Prue, be sure you set down all the similes.
+
+
+    _Prue retires to the back part of the stage with pen and ink._
+
+Sir _Trem._ The subjects of most modern plays are as ill chosen as----
+
+_Plotw._ The patrons of their dedications.
+
+    [_Clink. makes signs to Prue._
+
+Sir _Trem._ Their plots as shallow----
+
+_Plotw._ As those of bad poets against new plays
+
+Sir _Trem._ Their episodes as little of a piece to the main action,
+as----
+
+_Clink._ A black gown with a pink-colour'd petticoat. Mark that, Prue.
+
+    [_Aside._
+
+Sir _Trem._ Their sentiments are so very delicate--
+
+_Plotw._ That like whipt syllabub they are lost before they are tasted.
+
+Sir _Trem._ Their diction so low, that--that--
+
+_Plotw._ Why, that their friends are forced to call it simplicity.
+
+1st _Play._ Sir to the play if you please.
+
+2d _Play._ We have a rehearsal this morning.
+
+Sir _Trem._ And then their thefts are so open----
+
+_Plotw._ that the very French taylors can discover them.
+
+Sir _Trem._ O what felony from the ancients! what petty larceny from the
+moderns! there is the famous Ephigenia of Racine, he stole his Agamemnon
+from Seneca, who stole it from Euripides, who stole it from Homer, who
+stole it from all the ancients before him. In short there is nothing so
+execrable as our most taking tragedies.
+
+1st _Play._ O! but the immortal Shakespeare, Sir.
+
+Sir _Trem._ He had no judgnent.
+
+2d _Play._ The famous ben Johmson!
+
+_Clink._ Dry.
+
+1st _Play._ The tender Otway!
+
+Sir _Trem._ Incorrect.
+
+2d _Play._ Etheridge!
+
+_Clink._ Mere chit-chat.
+
+1st _Play._ Dryden!
+
+Sir _Trem._ Nothing but a knack of versifying.
+
+_Clink._ Ah! dear Sir Tremendous, there is that delicatesse in your
+sentiments!
+
+Sir _Trem._ Ah madam! there is that justness in your notions!
+
+_Clink._ I am so much charm'd with your manly penetration!
+
+Sir _Trem._ I with your profound capacity!
+
+_Clink._ That I am not able--
+
+Sir _Trem._ That it is impossible--
+
+_Clink._ To conceive--
+
+Sir _Trem._ To express--
+
+_Clink._ With what delight I embrace--
+
+Sir _Trem._ With what pleasure I enter into--
+
+_Clink._ Your ideas, most learned Sir Tremendous!
+
+Sir _Trem._ Your sentiments, most divine Mrs. Clinket.
+
+2d _Play._ The play, for heaven's sake, the play.
+
+
+    [_A tea-table brought in._]
+
+_Clink._ This finish'd drama is too good for an age like this.
+
+_Plotw._ The Universal Deluge, or the tragedy of Deucalion and Pyrrha.
+
+    [_Reads_
+
+_Clink._ Mr. Plotwell, I will not be deny'd the pleasure of reading it,
+you will pardon me.
+
+1st _Play._ The deluge! the subject seems to be too recherche.
+
+_Clink._ A subject untouch'd either by ancients or moderns, in which are
+terror and pity in perfection.
+
+1st _Play._ The stage will never bear it. Can you suppose, Sir, that a
+box of ladies will sit three hours to see a rainy day, and a feather in
+a storm; make your best of it, I know it can be nothing else.
+
+2d _Play._ If you please, madam, let us hear how it opens.
+
+_Clink._ [_reads._] The scene opens and discovers the heavens cloudy. A
+prodigious shower of rain. At a distance appears the top of the mountain
+Parnassus; all the fields beneath are over-flowed; there are seen cattle
+and men swimming. The tops of steeples rise above the flood, with men
+and women perching on their weathercocks----
+
+Sir _Trem._ Begging your pardon, Sir, I believe it can be proved, that
+weather-cocks are of a modern invention. Besides, if stones were
+dissolved, as a late philosopher hath proved, how could steeples stand?
+
+_Plot._ I don't insist upon trifles. Strike it out.
+
+_Clink._ Strike it out! consider what you do. In this they strike at the
+very foundation of the drama. Don't almost all the persons of your
+second act start out of stones that Deucalion and Pyrrha threw behind
+them? This cavil is levell'd at the whole system of the reparation of
+human race.
+
+1st _Play._ Then the shower is absurd.
+
+_Clink._ Why should not this gentleman rain, as well as other authors
+snow and thunder?---- ---- [_reads._] Enter Deucalion in a sort of
+waterman's habit, leading his wife Pyrrha to a boat--Her first distress
+is about her going back to fetch a casket of jewels. Mind, how he
+imitates your great authors. The first speech has all the fire of Lee.
+
+  Tho' heav'n wrings all the sponges of the sky,
+  And pours down clouds, at once each cloud a sea.
+  Not the spring tides----
+
+Sir _Trem._ There were no spring tides in the Mediteranean, and
+consequently Deucalion could not make that simile.
+
+_Clink._ A man of Deucalion's quality might have travelled beyond the
+Mediteranean, and so your objection is answered. Observe, Sir
+Tremendous, the tenderness of Otway, in this answer of Pyrrha.
+
+      --------------------Why do the stays
+  Taper my waist, but for thy circling arms?
+
+Sir _Trem._ Ah! Anachronisms! Stays are a modern habit, and the whole
+scene is monstrous, and against the rules of tragedy.
+
+_Plot._ I submit Sir,--out with it.
+
+_Clink._ Were the play mine, you should gash my flesh, mangle my face,
+any thing sooner than scratch my play.
+
+_Plot._ Blot and insert wherever you please----I submit myself to your
+judgment.
+
+
+    _Plotwell rises and discourses apart with Townley._
+
+Sir _Trem._ Madam, nonsense and I have been at variance from my cradle,
+it sets my understanding on edge.
+
+2d _Play._ Indeed, madam, with submission, and I think I have some
+experience of the stage, this play will hardly take.
+
+_Clink._ The worst lines of it would be sufficiently clapt, if it had
+been writ by a known author, or recommended by one.
+
+Sir _Trem._ Between you and I, madam, who understand better things, this
+gentleman knows nothing of poetry.
+
+1st _Play._ The gentleman may be an honest man, but he is a damn'd
+writer, and it neither can take, nor ought to take.
+
+Sir _Trem._ If you are the gentleman's friend, and value his reputation,
+advise him to burn it.
+
+_Clink._ What struggles has an unknown author to vanquish prejudice!
+Suppose this play acts but six nights, his next may play twenty.
+Encourage a young author, I know it will be your interest.
+
+2d _Play._ I would sooner give five hundred pounds than bring some plays
+on the stage; an audience little considers whether 'tis the author or
+the actor that is hiss'd, our character suffers.
+
+1st _Play._ Damn our character--We shall lose money by it.
+
+_Clink._ I'll deposit a sum myself upon the success of it. Well, since
+it is to be play'd--I will prevail upon him to strike out some few
+things.--Take the play, Sir Tremendous.
+
+
+    _Sir Tremendous reads in a muttering tone._
+
+Sir _Trem._ Absurd to the last degree [_strikes out._] palpable
+nonsense! [_strikes out._]
+
+_Clink._ What all those lines! spare those for a lady's sake, for those
+indeed, I gave him.
+
+Sir _Trem._ Such stuff! [_strikes out._] abominable! [_strikes out._]
+most execrable!
+
+1st _Play._ This thought must out.
+
+2d _Play._ Madam, with submission, this metaphor.
+
+1st _Play._ This whole speech.
+
+Sir _Trem._ The Fable!
+
+_Clink._ To you I answer,--
+
+1st _Play._ The characters!
+
+_Clink._ To you I answer--
+
+Sir _Trem._ The diction!
+
+_Clink._ And to you--Ah, hold, hold,--I'm butcher'd, I'm massacred. For
+mercy's sake! murder, murder! ah!
+
+    [_faints._
+
+
+    _Enter Fossile peeping at the door._
+
+_Foss._ My house turn'd to a stage! and my bride playing her part too!
+What will become of me? but I'll know the bottom of all this, [_aside._]
+I am surprized to see so many patients here so early. What is your
+distemper, Sir?
+
+1st _Play._ The cholic, Sir, by a surfeit of green tea and damn'd
+verses.
+
+_Foss._ Your pulse is very high, madam. [_To Townley._] You sympathize,
+I perceive, for yours is somewhat feverish. [_To Plotwell._] But I
+believe I shall be able to put off the fit for this time. And as for
+you, niece, you have got the poetical itch, and are possess'd with nine
+devils, your nine muses; and thus I commit them and their works to the
+flames. [_Takes up a heap of papers and flings them into the fire._]
+
+_Clink._ Ah! I am an undone woman.
+
+_Plot._ Has he burnt any bank-bills, or a new Mechlin head-dress?
+
+_Clink._ My works! my works!
+
+1st _Play._ Has he destroyed the writings of an estate, or your billet
+doux?
+
+_Clink._ A Pindarick ode! five similes! and half an epilogue!
+
+2d _Play._ Has he thrown a new fan or your pearl necklace into the
+flames?
+
+_Clink._ Worse, worse! The tag of the acts of a new comedy! a prologue
+sent by a person of quality three copies of recommendatory verses! and
+two Greek mottos!
+
+_Foss._ Gentlemen, if you please to walk out.
+
+2d _Play._ You shall have our positive answer concerning your tragedy,
+madam, in an hour or two.
+
+    [_Exit Sir Tremendous, Plotwell and Players._
+
+_Foss._ Though this affair looks but ill; yet I will not be over-rash:
+What says Lybanius? 'A false accusation often recoils upon the accuser;'
+and I have suffered already by too great precipitation.
+
+    [_Exit Fossile._
+
+
+    Enter SARSNET.
+
+_Town._ A narrow escape, Sarsnet! Plotwells letter was intercepted and
+read by my husband.
+
+_Sars._ I tremble every joint of me. How came you off?
+
+_Town._ Invention flow'd, I ly'd, he believ'd. True wife, true husband!
+
+_Sars._ I have often warned you, madam, against this superfluity of
+gallants; you ought at least to have clear'd all mortgages upon your
+person before you leas'd it out for life. Then, besides Plotwell, you
+are every moment in danger of Underplot, who attends on Plotwell like
+his shadow; he is unlucky enough to stumble upon your husband, and then
+I'm sure his shatterbrains would undo us at once.
+
+_Town._ Thy wit and industry, Sarsnet, must help me out. To day is mine,
+to morrow is my husband's.
+
+_Sars._ But some speedy method must be thought of, to prevent your
+letters from falling into his hands.
+
+_Town._ I can put no confidence in my landlady Mrs. Chambers, since our
+quarrel at parting. So I have given orders to her maid to direct all
+letters and messages hither, and I have plac'd my own trusty servant
+Hugh at the door to receive them--but see, yonder comes my husband, I'll
+retire to my closet.
+
+    [_Exit Townley and Sarsnet._
+
+
+    Enter FOSSILE.
+
+_Foss._ O marriage, thou bitterest of potions, and thou strongest of
+astringents. This Plotwell that I found talking with her must certainly
+be the person that sent the letter. But if I have a Bristol stone put
+upon me instead of a diamond, why should I by experiments spoil its
+lustre? She is handsome, that is certain. Could I but keep her to myself
+for the future! Cuckoldom is an accute case, it is quickly over; when it
+takes place, it admits of no remedy but palliatives.----Be it how it
+will, while my marriage is a secret----
+
+_Within._ Bless the noble doctor Fossile and his honourable lady. The
+city musick are come to wish him much joy of his marriage. [_A flourish
+of fiddles._
+
+_Foss._ Joy and marriage; never were two words so coupled.
+
+_Within._ Much happiness attend the learned doctor Fossile and his
+worthy and virtuous lady. The drums and trumpets of his majesty's guards
+are come to salute him----
+
+    [_A flourish of Drums and Trumpets._
+
+_Foss._ Ah, Fossile! wretched Fossile! into what state hast thou brought
+thy self! thy disgrace proclaim'd by beat of drum! New married men are
+treated like those bit by a Tarantula, both must have musick: But where
+are the notes that can expell a wife!
+
+    _Exit._
+
+
+
+ACT III.
+
+
+    Enter FOSSILE in a footman's cloaths,
+
+_Foss._ A Special dog; this footman of my wife's! as mercenary as the
+porter of a first minister! Why should she place him as a centinal at my
+door? unquestionably, to carry on her intrigues. Why did I bribe him to
+lend me his livery? to discover those intrigues. And now, O wretched
+Fossile, thou hast debas'd thyself into the low character of a footman.
+What then? gods and demi gods have assum'd viler shapes: they, to make a
+cuckold; I, to prove myself one. Why then should my metamorphosis be
+more shameful, when my purpose is more honest?
+
+
+    [_Knocking at the door, enter footman._]
+
+_Foot._ Ay, this is her livery. Friend, give this to your mistress.
+
+    [_Gives a letter to Fossile and exit._]
+
+_Fossile._ [_reads_]
+
+  'Madam, you have jilted me. What I gave you cost me dear; what you
+  might have given me, would have cost you nothing. You shall use my
+  next present with more respect. I presented you a fine snuff-box;
+  you gave it to that coxcomb Underplot, and Underplot gave it to my
+  wife. Judge of my surprise.
+
+  'Freeman.'
+
+A fine circulation of a snuff-box! in time I shall have the rarest of my
+shells set off with gold hinges, to make presents to all the fops about
+town. My _Conchæ Veneris_; and perhaps, even my _Nautilus_.
+
+
+    _A knocking at the door. Enter an old woman._
+
+_Old Wom._ Can I speak with your good mistress, honest friend?
+
+_Fos._ No, she's busy.
+
+_Old Wom._ Madam Wyburn presents her service and has sent this letter.
+
+    [_Exit._
+
+_Fossile._ [_reads_]
+
+  'Being taken up with waiting upon merchants ladies this morning, I
+  have sent to acquaint you, my dear sweet Mrs. Townley, that the
+  alderman agrees to every thing but putting away his wife, which he
+  says is not decent at that end of the town. He desires a meeting
+  this evening.'
+
+Postscript.
+
+  'He does not like the grocer's wife at all.'
+
+Bless me! what a libidinous age we live in! neither his own wife! nor
+the grocer's wife! Will people like nobody's wife but mine!
+
+
+    [_Knocking at the door. Enter footman, gives a letter, and exit._]
+
+
+    _Enter another footman gives a letter, and exit._
+
+_Foss._ [_reads_]
+
+  'Sincerely, madam, I cannot spare that sum; especially in monthly
+  payments. My good friend and neighbour Pinch, a quiet sober man, is
+  content to go a third part, only for leave to visit upon sabbath
+  days.
+
+  'Habakkuk Plumb.'
+
+Well, frugallity is laudable even in iniquity! Now for this other.
+
+
+    _Opens the second letter._
+
+_Foss._ [_reads_]
+
+  'Madam, I can't make you rich, but I can make you immortal.
+
+Verses on Mrs. Susanna Townley, in the front box dress'd in green.
+
+  In you the beauties of the spring are seen,
+  Your cheeks are roses, and your dress is green.
+
+A poor dog of a poet! I fear him not.
+
+
+    _Enter a ragged fellow with a letter._
+
+_Foot._ My master is at present under a cloud----He begs you will
+deliver this letter to your lady.
+
+    [_Exit._
+
+_Foss._ [_reads_]
+
+  'I am reduced by your favours to ask the thing I formerly deny'd;
+  that you would entertain me as a husband, who can no longer keep
+  you as a mistress.
+
+  'Charles Bat.'
+
+Why did I part with this fellow? This was a proposal indeed, to make
+both me and himself happy at once! He shall have her, and a
+twelve-month's fees into the bargain. Where shall I find him?--Why was
+the mistress of all mankind unknown to thee alone? Why is nature so dark
+in our greatest concerns? Why are there no external symptoms of
+defloration, nor any pathognomick of the loss of virginity but a big
+belly? Why has not lewdness its tokens like the plague? Why must a man
+know rain by the aking of his corns, and have no prognostick of what is
+of infinitely greater moment, cuckoldom? Or if there are any marks of
+chastity, why is the enquiry allowed only to Turks and Jews, and denyed
+to Christians? O Townley, Townley! once to me the fragrant rose; now
+aloes, wormwood and snake-root! but I must not be seen.
+
+
+    _As Townley and Sarsnet enter, Fossile sneaks off._
+
+_Town._ Sarsnet, we are betray'd. I have discovered my husband posted at
+the door in Hugh's livery, he has intercepted all my letters. I
+immediately writ this, which is the only thing that can bring us off.
+Run this moment to Plotwell, get him to copy it, and send it directed to
+me by his own servant with the utmost expedition. He is now at the
+chocolate-house in the next street.
+
+_Sars._ I fly, madam; but how will you disengage yourself from the
+affair with Underplot?
+
+_Town._ Leave it to me. Though he wants sense, he's handsome, and I like
+the fellow; and if he is lucky enough to come in my husband's
+absence.----But prithee Sarsenet make haste.
+
+
+    [_Exit Townley and Sarsenet, upon which Fossile re-enters, to him
+      Underplot._]
+
+_Underp._ Harke'e, friend. I never talk with one of your coat, but I
+first tip him.
+
+_Foss._ Behold the lucre of a pimp! Between the pox abroad, and my
+plague at home, I find a man may never want fees. [_aside._] Your
+honour's commands, I pray. I long to serve you.
+
+_Underp._ Ah, boy! thou hast a rare mistress for vails. Come I know thou
+art a sly dog; can'st thou introduce me to her for a moment's
+conversation?
+
+_Foss._ Impossible.
+
+_Underp._ What, still impossible?
+
+    [_Gives more money._
+
+_Foss._ Still impossible.
+
+_Underp._ Poh, pox. But prithee, friend, by the by, is there any thing
+in this report that she is marry'd to the doctor here?
+
+_Foss._ I am afraid there is something in it.
+
+_Underp._ What a spirit does a jealous husband give to an intrigue!
+Pray, is he not a most egregious silly animal?
+
+_Foss._ Not exceeding wise indeed,
+
+_Underp,_ Rich?
+
+_Foss._ He has money.
+
+_Underp._ That will save the expence of her gallants. Old?
+
+_Foss._ Ay, too old, heaven knows.
+
+_Underp._ How came it into the puppy's head to marry?
+
+_Foss._ By the instigation of Satan.
+
+_Underp._ I'll help the old fool to an heir.
+
+_Foss._ No doubt on't. If the whole town can do it, he will not want
+one.
+
+    [_Aside._
+
+_Underp._ Come, prithee deal freely with me, Has Plotwell been here
+since the wedding?
+
+_Foss._ He has! too sure: [_aside._] He's a dangerous rival to you; if
+you have a mind to succeed, keep a strict watch upon him, that he may
+not get admittance before you.
+
+_Underp._ Well since thou hast shown thyself so much my friend, I'll let
+thee into a secret. Plotwell and I no sooner heard of the wedding, but
+we made a bett of a hundred guineas, who should dub the doctor first.
+Remember you go twenty pieces with me.
+
+_Foss._ But here is some body coming. Away you are sure of my interest.
+
+    [_Exit Underplot._
+
+_Foss._ This was well judg'd. I have a small territory coveted by two
+rival potentates. It is profound policy to make them watch one the
+other, and so keep the ballance of power in my own hands. Certainly
+nothing so improves one's politicks, as to have a coquet to on'es wife,
+
+
+    Enter a footman with a letter,
+
+_Foot._ This is for your lady, Deliver it safe into her own hands.
+
+    [_Exit Footman._
+
+_Fos._ [_reads._]
+
+  'Know, cruel woman, I have discovered the secret of your marriage;
+  you shall have all the plague of a jealous husband, without the
+  pleasure of giving him cause. I have this morning counterfeited
+  billetdoux and letters from bawds; nay, I have sent pimps; some of
+  which, I hope, are fallen into your old coxcomb's hands. If you deny
+  me the pleasure of tipping him a real cuckold, at least, I'll have
+  the resentment to make him an imaginary one. Know that this is not
+  the hundredth part of the revenge that shall be executed upon thee,
+  by R. P.'
+
+_Town._ [_peeping._] So. The letter works as I would have it.
+
+    [_Aside._
+
+_Foss._ How true is that saying of the philosopher! 'We only know, that
+we know nothing.' The eruption of those horns which seem'd to make so
+strong a push is now suppress'd. Is the mystery of all these letters
+nothing but the revenge of a disappointed lover? The hand and seal are
+just the same with the Welchman's that I intercepted a while ago. Truly,
+these Welch are a hot revengeful people. My wife may be virtuous; she
+may not. Prevention is the safest method with diseases and intrigues.
+Women are wanton, husbands weak, bawds busy, opportunities dangerous,
+gallants eager; therefore it behoves honest men to be watchful. But here
+comes my Wife, I must hide myself; for should I be detected, she might
+have a just cause of complaint for my impertinent curiosity.
+
+    _Exit Fossi._
+
+
+    Enter TOWNLEY; and to her SARSNET at the other door.
+
+_Sars._ Your orders, madam, have been executed to a tittle, and I hope
+with success.
+
+_Town._ Extremely well. Just as we could have wish'd. But I can't
+forgive that rascal Hugh. To turn him away would be dangerous. We will
+rather take the advantage of the confidence my husband has in him. Leave
+the husband to me, and do you discipline the footman. Such early
+curiosity must be crush'd in the bud. Hugh, Hugh, Hugh. [_calls aloud,
+and rings._] What is become of the rogue?
+
+    [_Townley runs in, and drags out Fossile changing his cloaths
+      with Hugh._
+
+Why sirrah! must one call all day for you?
+
+    [_cuffs him._
+
+_Sars._ This is not Hugh, madam; a rouge in disguise, got in to rob the
+house! thieves, thieves!
+
+
+    Enter CLINKET, PRUE with the writing-desk, and servants
+
+_Foss._ St. St--no noise. Prithee, dearee, look upon me. See, see, thy
+own dear husband. It is I.
+
+_Town._ What an unfortunate woman am I! Could not you pass one day
+without an intrigue? and with a cookwench too! for you could put on a
+livery for no other end. You wicked man.
+
+_Sars._ His coldness, madam, is now no longer a mystery. Filthy monster!
+wer't not thou provided with my mistress as a remedy for thy rampant
+unchastity?
+
+_Town._ Was all your indeffierence to me for this! you brute you.
+
+    [_weeps._
+
+_Foss._ Nay, prithee, dearee, judge not rashly. My character is
+establish'd in the world. There lives not a more sober, chaste, and
+virtuous person than doctor Fossile.
+
+_Town._ Then why this disguise?
+
+_Foss,_ Since it must come out; ha, ha, ha, only a frolick on my
+wedding day between Hugh and I. We had a mind to exhibit a little
+mummery.
+
+_Clink._ What joy arises in my soul to see my uncle in a dramatick
+character! Since your humour lead you to the drama, uncle, why would you
+not consult a relative muse in your own family? I have always used you
+as my physician; and why should not you use me as your poet?
+
+_Foss,_ Prithee, dear, leave me a moment. This is a scandal to my
+gravity. I'll be with you, as my self, immediately.
+
+    [_Exeunt omnes, except Fossile and Hugh. As they are changing
+      habits, Fossile says,_
+
+As a mark of my confidence in thee, I leave thee guardian of my house
+while I go my rounds. Let none in but patients; wan sickly fellows, no
+person in the least degree of bodily strength.
+
+_Hugh._ Worthy doctor, you may rely upon my honour.
+
+    _Exit Fos._
+
+I have betray'd my mistress. My conscience flies in my face, and I can
+ease it noway but by betraying my master.
+
+    _Knocking at the door._
+
+This is not the doctor; but he is dress'd like him, and that shall be my
+excuse.
+
+    [_He lets Plotwell in, Townley meets him, they embrace._
+
+_Town._ Hugh, go, wait at the door.
+
+    [_Exit Hugh._
+
+_Plotw._ This disguise gives spirit to my intrigue. Certainly I am the
+first person that ever enjoy'd a bride without the scandal of matrimony.
+
+_Town._ I have a different relish, Mr. Plotwell, for now I can't abide
+you, you are so like my husband.
+
+_Plotw._ Underplot, I defy thee. I have laid the wager, and now I hold
+the stakes.
+
+_Town._ Opportunity Mr. Potwell, has been the downfall of much virtue.
+
+    [_As he is leading her off, enter Hugh._
+
+_Hugh._ Ah, madam! the doctor! the doctor!
+
+    _Exit Hugh._
+
+_Plot._ Fear nothing. I'll stand it. I have my part ready.
+
+    [_Exit Townley._
+
+
+    Enter FOSSILE.
+
+_Foss._ I promised lady _Langfort_ my eagle-stone. The poor lady is like
+to miscarry, and 'tis well I thought on't. Ha! who is here! I do not
+like the aspect of the fellow. But I will not be over censorious.
+
+    [_They make many bows and cringes in advancing to each other._
+
+_Plot._ _Illustrissime domine, huc adveni_--
+
+_Foss._ _Illustrissime domine----non usus, sum loquere Latinum_----If
+you cannot speak English, we can have no lingual conversation.
+
+_Plot._ I can speak but a little Englise. Me ave great deal heard of de
+fame of de great luminary of all arts and sciences, de illustrious
+doctor Fossile. I would make commutation (what do you call it) I would
+exchange some of my tings for some of his tings.
+
+_Foss._ Pray, Sir, what university are you of?
+
+_Plot._ De famous university of Cracow in Polonia minor. I have cured de
+king of Sweden of de wound. My name be doctor Cornelius Lubomirski.
+
+_Foss._ Your Lubomirskis are a great family. But what Arcana are you
+master of, Sir?
+
+_Plot._ [_Shows a large snuff-box._] See dere, Sir, dat box de snuff.
+
+_Foss._ Snuff-box.
+
+_Plot._ Right. Snuff-box. Dat be de very true gold.
+
+_Foss._ What of that?
+
+_Plot._ Vat of dat? me make dat gold my own self, of de lead of de great
+church of Crawcow.
+
+_Foss._ By what operations?
+
+_Plot._ By calcination; reverberation; purification; sublimation;
+amalgamation; precipitation; volitilization.
+
+_Foss._ Have a care what you assert. The volitilization of gold is not
+an obvious process. It is by great elegance of speech called, _fortitudo
+fortitudinis fortissima_.
+
+_Plot._ I need not acquaint de illustrious doctor Fossile, dat all de
+metals be but unripe gold.
+
+_Foss._ Spoken like a philosopher, And therefore there should be an act
+of parliament against digging of lead mines, as against felling young
+timber. But inform me, Sir, what might be your menstruum, snow-water, or
+May-dew?
+
+_Plot._ Snow-vater.
+
+_Foss._ Right. Snow is the universal pickle of nature for the
+preservation of her productions in the hyemal season.
+
+_Plot._ If you will go your self, and not trust de servant, to fetch
+some of de right Thames sand dat be below de bridge, I will show you de
+naked Diana in your study before I go hence.
+
+_Foss._ Perhaps you might. I am not at present dispos'd for experiments.
+
+_Plot._ This bite wont take to send him out of the way, I'll change my
+subject. [_Aside._] Do you deal in longitudes, Sir?
+
+_Foss._ I deal not in impossibilities. I search only for the grand
+elixir.
+
+_Plot._ Vat do you tink of de new metode of fluxion?
+
+_Foss._ I know no other but my mercury.
+
+_Plot._ Ha, ha. Me mean de fluxion of de quantity.
+
+_Foss._ The greatest quantity I ever knew, was three quarts a day.
+
+_Plot._ Be dere any secret in the hydrology, zoology, minerology,
+hydraulicks, acausticks, pneumaticks, logarithmatechny, dat you do want
+de explanation of?
+
+_Foss._ This is all out of my way. Do you know of any hermaphrodites,
+monstrous twins, antediluvivian shells, bones, and vegetables?
+
+_Plot._ Vat tink you of an antediluvian knife, spoon, and fork, with the
+mark of Tubal Cain in Hebrew, dug out of the mine of Babylon?
+
+_Foss._ Of what dimensions, I pray, Sir?
+
+_Plot._ De spoon be bigger dan de modern ladle; de fork, like de great
+fire-fork; and de knife, like de cleaver.
+
+_Foss._ Bless me! this shows the stature and magnitude of those
+antidiluvians!
+
+_Plot._ To make you convinced that I tell not de lie, dey are in de
+Turkey ship at Vapping, just going to be disposed of. Me would go there
+vid you, but de businss vil not let me.
+
+_Foss._ An extraordinary man this! I'll examine him further. [_Aside._]
+How could your country lose so great a man as you?
+
+_Plot._ Dat be de secret. But because me vil have de fair correspondence
+with de illustrious doctor Fossile, me vil not deny dat Orpheus and me
+had near run de same fate for different reason. I was hunted out of my
+country by de general insurrection of de women.
+
+_Foss._ How so pray?
+
+_Plot._ Because me have prepare a certain liquor which discover whether
+a woman be a virgin or no.
+
+_Foss._ A curious discovery! have you any of it still?
+
+_Plot._ Dere it is, Sir. It be commonly called de _Lapis Lydius
+Virginitatis_, or touch-stone of virginity.
+
+    [_gives him a vial._
+
+_Foss._ It has the smell of your common hart's-horn. But all your
+volatile spirits have a near resemblance.
+
+_Plot._ Right, Sir. De distillation be made from the _Hippomanes_ of a
+young mare. When a deflower'd virgin take ten drops, she will faint and
+sneeze, and de large red spot appear on the cheek; which we call
+de spot of infamy. All de young bridegroom make de experiment. De
+archbishop did make obligation to de nun to take it every ninth month.
+And I fly for the hurlyburly it make.
+
+
+    Enter HUGH.
+
+_Hugh._ Sir here is a patient in a chair.
+
+_Foss._ Doctor Lubomirski, let me conduct you into my study, where we
+will farther discuss the wonderful virtues of this liquor. Tell the
+patient I will attend him this instant.
+
+    [_Exeunt Plotwell and Fossile._
+
+
+    Enter UNDERPLOT in a chair like a sick man.
+
+_Hugh._ The doctor will wait upon you immediately.
+
+    [_Exit Hugh._
+
+_Underp._ I dogg'd Plotwell to this door in a doctor's habit. If he has
+admittance as a doctor, why not I as a patient? Now for a lucky decision
+of our wager! If I can't succeed myself, I will at least spoil his
+intrigue.
+
+
+    Enter FOSSILE.
+
+_Underp._ Ah! ah! have you no place? Ah! where can I repose a little? I
+was taken suddenly. Ah! ah! 'tis happy I was so near the house of an
+eminent physician.
+
+_Foss._ Rest yourself upon that couch.
+
+_Underp._ If I lay a few minutes cover'd up warm in a bed, I believe I
+might recover.
+
+    [_Fossile feels his pulse. Plotwell peeps._
+
+_Plot._ Underplot in disguise! I'll be his doctor, and cure him of these
+frolicks.
+
+    [_aside._
+
+_Foss._ What are your symptoms, Sir? a very tempestuous pulse, I
+profess!
+
+_Underp._ Violent head-ach, ah! ah!
+
+_Foss._ All this proceeds from the fumes of the kitchen, the stomachic
+digester wants reparation for the better concoction of your aliment:
+But, Sir, is your pain pungitive, tensive, gravitive, or pulsatory?
+
+_Plot._ All together, ah!
+
+_Foss._ Impossible Sir; but I have an eminent physician now in the
+house, he shall consult. Doctor Lubomirski, here is a person in a most
+violent cephalalgy, a terrible case!
+
+
+    Enter PLOTWELL.
+
+_Foss._ Feel his pulse. [_Plotwell feels it._] You feel it, Sir, strong,
+hard and labouring.
+
+_Plot._ Great plenitude, Sir.
+
+_Foss._ Feel his belly, Sir; a great tension and heat of the abdomen--A
+hearty man, his muscles are torose; how soon are the strongest humbled
+by diseases! let us retire, and consult.
+
+
+    Enter SARSNET in haste.
+
+_Sars._ My mistress approves your design, bear it out bravely, perhaps I
+shall have a sudden opportunity of conveying you into her bed-chamber,
+counterfeit a fainting fit and rely upon me.
+
+    [_Exit._
+
+_Underp._ As yet I find I am undiscover'd by Plotwell; neither is his
+intrigue in such forwardness as mine, though he made a fair push for it
+before me.
+
+    [_aside._
+
+    [_Fossile and Plotwell come forward._
+
+_Foss._ I am entirely for a glister.
+
+_Plot._ My opinion is for de strong vomit.
+
+_Foss._ Bleed him.
+
+_Plot._ Make de searrification, give me de lancet, me will do it myself,
+and after dat will put de blister to de sole of de feet,
+
+_Foss._ Your dolor proceeds from a frigid _intemperies_ of the brain, a
+strong disease! the enemy has invaded the very citadel of your
+microcosm, the magazine of your vital functions; he has set down before
+it; yet there seems to be a good garrison of vital spirits, and we don't
+question to be able to defend it.
+
+_Plot._ Ve will cannonade de enemy with pills, bombard him wid de bolus,
+blow him up with volatiles, fill up the trenches wid de large
+innundation of apozems, and dislodge him wid de stink pot; let de
+apotecary bring up de artillery of medicine immediately.
+
+_Foss._ True, we might unload the stomach by gentle emeticks, and the
+intestines by clysters stimulative, carminative, and emollient, with
+strong hydroticks, quiet the spasms of the viscera by paregoricks, draw
+off the stagnant blood by deep scarrifications, and depurate its
+fæculencies by volatiles; after this, let there be numerous blisters and
+potential cauteries--I consult my patient's ease; I am against much
+physick--He faints, he is apoplectic, bleed him this moment.
+
+_Plot._ Hoy de servant dere, make hast, bring de pan of hot coals; or de
+red hot iron to make application to de temples.
+
+
+    Enter HUGH.
+
+_Hugh._ Here's the poker red hot from the fire.
+
+_Plot._ Very well make de burn dere, exactly dere.
+
+    [_putting the poker near his head._
+
+_Underp._ Hold, hold, am I to be murder'd? [_starts up._] I know you,
+Plotwell, and was I not oblig'd by honour and friendship, I'd expose you
+to the doctor.
+
+    [_aside to Plotwell._
+
+_Plot._ Very lunatick, mad, fetch me de cord to make de tie upon de leg
+and de arm, take off thirty ounces of blood, and den plunge him into de
+cold bath.
+
+_Foss._ Your judgment, doctor Lubomirski, is excellent, I will call my
+servants to assist us.
+
+_Underp._ Hearke'e, old put; I came to take your advice, and not that
+French son of a whore's scarrifications; and so plague take you both.
+
+    [_Exit Underplot and Hugh._
+
+
+
+ACT IV.
+
+
+    Enter Dr. FOSSILE, and PLOTWELL.
+
+_Foss._ Doctor Lubomirski, this vial that you have intrusted into my
+custody, shall be with acknowledgment return'd after a few experiments;
+I must crave your indulgence; diseases, you know, Sir, are impertinent,
+and will tie themselves to no hours, poor lady Hyppokekoana!
+
+_Plot._ Ah Sir! I beg your pardon, if you make visit to de patient, me
+will divert myself in your study till you make return.
+
+_Foss._ That cannot be, I have a lady just coming to consult me in a
+case of secrecy.
+
+_Plot._ Have you not de wife? me will make conversation wid de ladies
+till you come.
+
+_Foss._ They see no company in the morning, they are all in
+_deshabilleé_; most learned doctor Lubomirski, your humble servant.
+
+_Plot._ Most illustrious doctor Fossile, me be, with de profoundest
+adoration
+
+_Foss._ With the greatest admiration
+
+_Plot._ Your most humble
+
+_Foss._ Most obedient servant.
+
+_Plot._ Ah, Monsieur, point de ceremonie.
+
+    [_Exit Plotwell._
+
+
+    Enter HUGH.
+
+_Foss._ Hugh, bring me a pint of sack; let your mistress know I want to
+see her. Take care that her orders be obey'd, and that her trunks and
+boxes be immediately brought hither. Sarset will give you directions.
+
+    [_Exit Hugh. Fossile sits down on a couch._
+
+Ah Fossile! if the cares of two hours of a married life have so reduc'd
+thee, how long can'st thou hold out! to watch a wife all day, and have
+her wake thee all night! 'twill never do. The fitigue of three fevers,
+six small poxes, and five great ones, is nothing to that of one wife.
+Now for my touch-stone; I will try it upon her presently. If she bear it
+to day--I am afraid she will bear it to morrow too.
+
+
+    _Enter Hugh with a bottle of sack, and after him Townley. Hugh gives
+      the bottle and glass to Fossile and exit._
+
+Sit down by me, my dear, I was going to refresh myself with a glass of
+canary. You look pale. It will do you good.
+
+_Town._ Faugh. Wine in the morning!
+
+
+    [_Fossile drinks and fills again, and drops some of the liquor into
+      the glass._]
+
+What is the meaning of this? am I to be poison'd.
+
+    [_aside._
+
+_Foss._ You must drink it. Sack is sacred to Hymen; of it is made the
+nuptial posset.
+
+_Town._ Don't press me, Mr. Fossile, I nauseate it. It smells strangely.
+There is something in it.
+
+_Foss._ An ill symptom! she can't bear the smell. [_aside._] Pray, my
+dear, oblige me.
+
+_Town._ I'm for none of your flops. I'll fill myself.
+
+_Foss._ I must own, I have put some restorative drops in it, which are
+excellent. I may drink it safely. [_aside._] [_drinks._] The next glass
+I prepare for you.
+
+    [_Fills, and powers some drops in._
+
+    [_Townley drinks. Fossile runs behind to support her; then pores
+      upon her cheek, and touches it with his finger._
+
+_Town._ Your insolence is insupportable. 'Twas but this moment you
+suspected my virtue; and now my complexion. Put on your spectacles. No
+red was ever laid upon these cheeks. I'll fly thee, and die a maid,
+rather than live under the same roof with jealousy and caprice.
+
+_Foss._ O thou spotless innocence! I cannot refrain tears of joy.
+Forgive me, and I'll tell thee all. These drops have been a secret in
+our family for many years. They are call'd the touch-stone of virginity.
+The males administer it to the brides on their wedding-day; and by its
+virtue have ascertain'd the honour of the Fossiles from generation to
+generation. There are family customs, which it is almost impious to
+neglect.
+
+_Town._ Had you married a person of doubtful reputation----But me, Mr.
+Fossile!
+
+_Foss._ I did not indeed suspect thee. But my mother obliged me to this
+experiment with her dying words--My wife is chaste: And to preserve her
+so, 'tis necessary that I have none but chaste servants about her. I'll
+make the experiment on all my female domesticks. [_aside._] I will now,
+my dear, in thy presence, put all my family to the trial. Here! bid my
+niece, and all the maid-servants come before me.
+
+    [_Calling out._
+
+
+    _Enter Clinket, Prue, and Servants._
+
+Give ear, all ye virgins: We make proclamation in the name of the chaste
+Diana, being resolv'd to make a solemn essay of the virtue, virginity,
+and chastity of all within our walls. We therefore advise, warn and
+precaution all spinsters, who know themselves blemish'd, not on any
+pretence whatsoever to taste these our drops, which will manifest their
+shame to the world by visible tokens.
+
+_Clink._ I abominate all kind of drops. They interrupt the series of
+ideas. But have the any power over the virgin's dreams, thoughts, and
+private meditations?
+
+_Foss._ No. They do not affect the _motus Primo-primi_, or intentions;
+only actualities, niece.
+
+_Clink._ Then give it me. I can drink as freely of it as of the waters
+of Helicon. My love was always Platonick.
+
+    [_drinks._
+
+_Foss._ Yet I have known a Platonick lady lodge at a mid wife's.
+
+
+    [_Fossile offers it round._]
+
+1st _Wom._ I never take physick.
+
+_Foss._ That's one. Stand there. My niece professes herself a Platonick.
+You are rather a Cartesian.
+
+_Clink._ Ah dear uncle! how do the Platonicks and Cartesians differ.
+
+_Foss._ The Platonicks are for idea's, the Cartesians for matter and
+motion.
+
+_Town._ Mr. Fossile, you are too severe.
+
+2d _Wom._ I am not a-dry.
+
+    [_curtsies._
+
+_Foss._ There's two. Stand there.
+
+_Prue._ My mistress can answer for me. She has taken it.
+
+_Foss._ She has. But however stand there, among the Cartesians.
+
+3d _Wom._ My innocence would protect me, though I trod over red-hot
+iron. Give me a brimmer.
+
+
+    [_She takes a mouthful and spits it out again._]
+
+_Foss._ 'Twas a presumptuous thing to gargle with it: but however,
+madam, if you please----walk among the Cartesians.
+
+    [_Two young wenches run away._
+
+_Clink._ Prue, follow me. I have just found a rhime for my Pindarick.
+
+    [_They all sneak off._
+
+_Fos._ All gone! what no more ladies here? no more ladies! [_looking to
+the audience,_] O that I had but a boarding-school, or a middle gallery!
+
+
+    _Enter Sarsnet, follow'd by two porters bearing a chest._
+
+Set down the things here: there is no occasion for carrying them up
+stairs, since they are to be sent into the country to morrow.
+
+    [_Exit porters._
+
+What have I done? My marriage, these confounded whimsies, and doctor
+Lubomirski, have made me quite forget poor lady Hippokekoana. She was in
+convulsions, and I am afraid dead by this time.
+
+    [_Exit Fossile._
+
+_Sars._ I have brought you a present, madam, make good use of it. So I
+leave you together.
+
+    [_Exit Sarsnet._
+
+
+    [_Townley opens the chest: Plotwell, who was cover'd with a gown and
+      petticoat, gets out._]
+
+_Town._ Never was any thing so lucky. The doctor is just this minute
+gone to a patient.
+
+_Plot._ I tempt dangers enough in your service. I am almost crippled in
+this chest-adventure. Oh my knees! Prithee, my dear, lead me to a bed
+where I may strech myself out.
+
+    [_Leading her off._
+
+
+    Enter SARSNET.
+
+_Sars._ Oh madam! yonder is the doctor in deep discourse with Underplot:
+I fear he has dogg'd me, and betray'd us. The are both coming back
+together.
+
+    [_Exit Sarsnet._
+
+_Plot._ I'll shrink snug into my shell again.
+
+_Town._ That he may directly pop upon you. The trunk will be the first
+place he will examine, have you no presence of mind? You sit for an
+intrigue!
+
+_Plot._ What shall I do?
+
+_Town._ Fear not, you shall be invisible i th is very spot.
+
+_Plot._ What do you mean? he's just at the door. You intend to discover
+me.
+
+_Town._ Mistrust me not: You shall walk out before his face at that very
+door, though he bring in a hundred spies, and not one of them shall
+perceive you.
+
+_Plot._ Don't trifle. Are you mad? [_knocking at the door._] Nay, now
+'tis too late.
+
+_Town._ Arm thyself with flounces, and fortify thyself with whalebone;
+enter beneath the cupulo of this petticoat.
+
+_Plot._ The best security in the world! an old fellow has seldom any
+thing to do beneath that circumferance.
+
+_Town._ No more but under it immediately.
+
+    [_Plotwell goes under it._
+
+  Thus Venus, when approaching foes assail,
+  Shields her Æneas with a silken veil.
+
+
+    Enter FOSSILE.
+
+_Town._ O my dear you come opportunely. How do you like my fancy in this
+new petticoat? there is something in it so odd!
+
+_Fos._ You have another in your chest much odder. I want to see that.
+
+_Town._ How jaunty the flounces!
+
+_Fos._ Ay, 'tis plain she would lure me from the chest; there I shall
+find him.
+
+    [_aside._
+
+_Town._ The lace! the fringe!
+
+_Fos._ All this is nothing to the embroider'd sattin. Prithee, my dear,
+give me the key.
+
+_Town._ Sure never was any thing so prettily disposed. Observe but the
+air of it: So _degagee_! But the lining is so charming.
+
+    [_She walks to the door, and Fossile to the trunk. Plotwell kisses
+      her out of the top of the petticoat, and then goes off._]
+
+    [_As Fossile is cautiously opening the trunk with his sword drawn,
+      Townley comes up to him._]
+
+What, more of your frolicks, Mr. Fossile. What time of the moon is this?
+
+_Fos._ This Underplot is a confounded villain, he would make me jealous
+of an honest civil gentleman, only for an opportunity to cuckold me
+himself. [_aside._] Come, my dear, forget all that is past. I know----I
+have proved thee virtuous. But prithee, love, leave me a moment; I
+expect some Egyptian rarities.
+
+    [_Exeunt severally._
+
+
+
+
+ACT V.
+
+
+    Enter FOSSILE with a vial in his hand.
+
+_Fos._ This is all we have for the flying dragon so celebrated by
+antiquity. A cheap purchase! It cost me but fifteen guineas. But the Jew
+made it up in the butterfly and the spider.
+
+
+    Enter two porters bearing a Mummy.
+
+Oh! here's my mummy. Set him down. I am in haste. Tell captain Bantam,
+I'll talk with him at the coffee-house.
+
+    [_Exit porters._
+
+
+    Enter two porters bearing an Alligator.
+
+A most stupendous animal! set him down.
+
+    [_Exit porters._
+
+Poor lady Hippokekoana's convulsions! I believe there is fatality in it,
+that I can never get to her. Who can I trust my house to in my absence?
+Were my wife as chaste as Lucretia, who knows what an unlucky minute may
+bring forth! In cuckoldom, the art of attack is prodigiously improved
+beyond the art of defence. So far it is manifest, Underplot has a design
+upon my honour. For the ease of my mind, I will lock up my wife in this
+my musæum, 'till my return.
+
+
+    Enter TOWNLEY, and SARSNET.
+
+You will find something here, my dear, to divert yourself.
+
+_Town._ I hate the sight of these strange creatures; but since I am Mr.
+Fossiles wife, I shall endeavour to conquer my aversion.
+
+_Foss._ Thou may'st safely be here to day, my dear; to-morrow thou
+shouldst no more enter this room than a pest-house. 'Tis dangerous for
+women that are impregnated. But poor lady Hippokekoana suffers all this
+while.
+
+    [_Exit Fossile with a key in his hand._
+
+_Town._ Since he has lock'd me in, to be even with him, I'll bolt him
+out.
+
+    [_Plotwell dress'd like a Mummy, comes forward._
+
+_Plot._
+
+  Thus trav'ling far from his Egyptian tomb,
+  Thy Anthony salutes his Cleopatra.
+
+_Town._
+
+  Thus Cleopatra, in desiring arms,
+  Receives her Anthony----But prithee dear pickled Hieroglyphic, who so
+      suddenly could assist thee with this shape.
+
+_Plot._ The play-house can dress mummies, bears, lions, crocodiles,
+and all the monsters of Lybia. My arms madam are ready to break their
+past-board prison to embrace you.
+
+_Town._ Not so hasty. Stay till the jealous fool is out of sight.
+
+_Plot._ Our ill stars, and the devil, have brought him back so often
+
+_Town._ He can never parry this blow, nor grow jealous of his mummy. A
+mummy is his intimate friend.
+
+_Plot._ And a man cannot easily be cuckolded by any body else.
+
+_Town._ Here may'st thou remain the ornament of his study, and the
+support of his old age. Thou shalt divert his company and be a father
+to his children. I will bring thee legs of pullets, remnants of tarts,
+and fragments of desarts. Thou shalt be fed like Bell and the Dragon.
+
+_Plot._ But madam; before you entertain me as your mummy in ordinary,
+you ought to be acquainted with my abilities to discharge that office.
+Let me slip off this habit of death, you shall find I have some symptoms
+of life.----Thus Jove within the milk-white swan compress'd his Leda.
+
+
+    [_Underplot in the Alligator crawls forward, then rises up and
+      embraces her._]
+
+_Underp._
+
+  Thus Jove within the serpents scaly folds,
+  Twin'd round the Macedonian queen,
+
+_Town._ Ah!
+
+    [_shrieks._
+
+_Plot._ Fear not, madam. This is my evil genius Underplot that still
+haunts me. How the devil got you here?
+
+_Underp._ Why should not the play-house lend me a crocodile as well as
+you a mummy?
+
+_Town._ How unlucky is this! [_Aside._] Nay, I don't know but I may have
+twenty lovers in this collection. You snakes, sharks, monkeys, and
+mantygers, speak, and put in your claim before it is too late.
+
+_Underp._ Mr. Mummy, your humble servant; the lady is pre-engag'd.
+
+_Plot._ Pray, Mr. Crocodile, let the lady make her own choice.
+
+_Underp._ Crocodile as I am, I must be treated with common humanity. You
+can't, madam, disown the message you sent me.
+
+_Town._ Well! ye pair of Egyptian lovers, agree this matter between you,
+and I will acquit myself like a person of honour to you both.
+
+_Plot._ Madam! If I don't love you above all your sex, may I be banish'd
+the studies of virtuoso's; and smoak'd like dutch beef in a chimney----
+
+_Underp._ If I don't love you more than that stale mummy, may I never
+more be proclaim'd at a show of monsters, by the sound of a
+glass-trumpet.
+
+_Plot._ May I be sent to 'Pothecary's-hall, and beat up into venice
+treacle for the fleet and the army, if this heart----
+
+_Underp._ May I be stuff'd with straw, and given to a mountebank, if
+this soul----
+
+_Plot._ Madam I am a human creature. Taste my balsamick kiss.
+
+_Underp._ A lover in swadling-clouts! What is his kiss, to my embrace?
+
+_Plot._ Look upon me, madam. See how I am embroider'd with
+hieroglyphicks.
+
+_Underp._ Consider my beautiful row of teeth.
+
+_Plot._ My balmy breath.
+
+_Underp._ The strong joints of my back.
+
+_Plot._ My erect stature.
+
+_Underp._ My long tail.
+
+_Town._ Such a contest of beauty! How shall I decide it?
+
+_Plot._ Take me out of my shell, madam, and I'll make you a present of
+the kernel.
+
+_Underp._ Then I must be upon a level with him, and be uncrocodil'd.
+
+_Town._ Keep both of you your shapes, and we are in no fear of a
+surprize from the doctor: If you uncase, his presence would undo us.
+Sure never was any thing so unlucky--I hear his foot-steps; quick to
+your posts.
+
+    [_Mummy and Crocodile run to their places._
+
+
+    Enter FOSSILE, Dr. _Nautilus_, and Dr. _Possum_.
+
+_Naut._ Much joy to the learned Dr. Fossile. To have a mummy, an
+alligator, and a wife, all in one day, is too great happiness for mortal
+man!
+
+_Poss._ This an alligator! Alack a day, brother Nautilus, this is a mere
+lizard, an eft, a shrimp to mine.
+
+_Naut._ How improving would it be to the female understanding, if the
+closets of the ladies were furnish'd, or, as I may say, ornamented and
+embellish'd with preserv'd butterflies, and beautiful shells, instead of
+China jars, and absurd Indian pictures.
+
+_Town._ Now for a stratagem to bring off my unsuccessful pair of
+gallants.
+
+    [_Aside._
+
+    [_Exit Townley._
+
+_Foss._ Ah, Dr. Nautilus, how have I languish'd for your feather of the
+bird Porphyrion!
+
+_Naut._ But your dart of the Mantichora!
+
+_Foss._ Your haft of the antediluvian trowel, unquestionably the tool of
+one of the Babel masons!
+
+_Naut._ What's that to your fragment of Seth's pillar?
+
+_Poss._ Gentlemen, I affirm I have a greater curiosity than all of them.
+I have an entire leaf of Noah's journal aboard the ark, that was hewen
+out of a porphyry pillar in Palmyra.
+
+    [_Fossile opens the case of the mummy._
+
+_Naut._ By the formation of the muscular parts of the visage, I
+conjecture that this mummy is male.
+
+_Pos._ Male, brother! I am sorry to observe your ignorance of the
+symetry of a human body. Do but observe the projection of the hip;
+besides, the bloom upon the face; 'tis a female beyond all
+contradiction.
+
+_Fos._ Let us have no rash dispute, brothers; but proceed
+methodically----Behold the vanity of mankind! [_pointing to the mummy._]
+Some Ptolemy perhaps!----
+
+_Naut._ Who by his pyramid and pickle thought to secure to himself death
+immortal.
+
+_Fos._ His pyramid, alas! is now but a wainscot case.
+
+_Pos._ And his pickle can scarce raise him to the dignity of a collar of
+brawn.
+
+_Fos._ Pardon me, Dr. Possum: The musæum of the curious is a lasting
+monument. And I think it no degradation to a dead person of quality, to
+bear the rank of an anatomy in the learned world.
+
+_Naut._ By your favour, Dr. Possum, a collar of brawn! I affirm, he is
+better to be taken inwardly than a collar of brawn.
+
+_Fos._ An excellent medicine! he is hot in the first-degree, and
+exceeding powerful in some diseases of women.
+
+_Naut._ Right, Dr. Fossile; for your Asphaltion.
+
+_Pos._ Pice-Asphaltus, by your leave.
+
+_Naut._ By your leave, doctor Possum, I say, Asphaltion.
+
+_Pos._ And I positively say, Pice-Asphaltus.
+
+_Naut._ If you had read Dioscorides or Pliny--
+
+_Poss._ I have read Dioscorides. And I do affirm Pice-Asphaltus.
+
+_Foss._ Be calm, Gentlemen. Both of you handle this argument with great
+learning, judgment, and perspicuity. For the present, I beseech you to
+concord, and turn your speculations on my alligator.
+
+_Poss._ The skin is impenetrable even to a sword.
+
+_Naut._ Dr. Possum I will show you the contrary.
+
+    [_Draws his sword._
+
+_Poss._ In the mean time I will try the mummy with this knife, on the
+point of which you shall smell the pitch, and be convinc'd that it is
+the Pice-Asphaltus.
+
+    [_Takes up a rusty knife._
+
+_Foss._ Hold, Sir: You will not only deface my mummy, but spoil my Roman
+sacrificing-knife.
+
+
+    Enter TOWNLEY.
+
+_Town._ I must lure them from this experiment, or we are discover'd.
+
+    [_Aside._
+
+    [_She looks through a telescope._
+
+What do I see! most prodigious! a star as broad as the moon in the
+day-time!
+
+    [_The doctors go to her._
+
+_Poss._ Only a halo about the sun, I suppose.
+
+_Naut._ Your suppositions, doctor, seem to be groundless. Let me make my
+observation.
+
+    [_Nautilus and Possum struggle to look first._
+
+_Town._ Now for your escape:
+
+    [_To Plotwell and Underplot._
+
+    [_They run to the door, but find it lock'd._
+
+_Underp._ What an unlucky dog I am!
+
+_Town._ Quick. Back to your posts. Don't move, and rely upon me. I have
+still another artifice.
+
+    [_They run back to their places._
+
+    [_Exit Townley._
+
+_Naut._ I can espy no celestial body but the sun.
+
+_Poss._ Brother Nautilus, your eyes are somewhat dim; your sight is not
+fit for astronomical observations.
+
+_Foss._ Is the focus of the glass right? hold gentlemen, I see it; about
+the bigness of Jupiter.
+
+_Naut._ No phenomenon offers itself to my speculation.
+
+_Poss._ Point over yonder chimney. Directly south.
+
+_Naut._ Thitherward, begging your pardon, Dr. Possum, I affirm to be the
+north.
+
+_Foss._ East.
+
+_Poss._ South.
+
+_Naut._ North. Alas! what an ignorant thing is vanity! I was just making
+a reflection on the ignorance of my brother Possum, in the nature of
+the crocodile.
+
+_Poss._ First, brother Nautilus, convince yourself of the composition of
+the mummy.
+
+_Naut._ I will insure your alligator from any damage. His skin I affirm
+once more to be impenetrable.
+
+    [_draws his sword._
+
+_Poss._ I will not deface any hieroglyphick.
+
+    [_Goes to the mummy with the knife._
+
+_Foss._ I never oppose a luciferous experiment. It is the beaten highway
+to truth.
+
+
+    [_Plotwell and Underplot leap from their places; the doctors are
+      frighted._]
+
+_Foss._ Speak, I conjure thee. Art thou the ghost of some murder'd
+Egyptian monarch?
+
+_Naut._ A rational question to a mummy! But this monster can be no less
+than the devil himself, for crocodiles don't walk.
+
+
+    Enter TOWNLEY and CLINKET.
+
+    [_Townley whispers Clinket._
+
+_Foss._ Gentlemen, wonder at nothing within these walls; for ever since
+I was married, nothing has happen'd to me in the common course of human
+life.
+
+_Clink._ Madam, without a compliment, you have a fine imagination. The
+masquerade of the mummy and crocodile is extremely just; I would not rob
+you of the merit of the invention, yet since you make me the compliment,
+I shall be proud to take the whole contrivance of this masquerade upon
+myself. [_To Townley._] Sir, be acquainted with my masqueraders.
+
+    [_To Fossile._
+
+_Foss._ Thou female imp of Appollo, more mischievous than Circe, who fed
+gentlemen of the army in a hog's-stye! What mean you by these gambols?
+this mummy, this crocodile?
+
+_Clink._ Only a little mummery, uncle?
+
+_Fos._ What an outragious conceit is this! had you contented yourself
+with the metamorphosis of Jupiter, our skill in the classicks might have
+prevented our terror.
+
+_Clink._ I glory in the fertility of my invention the more, that it is
+beyond the imagination of a pagan deity. Besides, it is form'd upon the
+vraysemblance; for I know you had a mummy and a crocodile to be brought
+home.
+
+_Fos._ Dr. Nautilus is an infirm tender gentleman; I wish the sudden
+concussion of his animal spirits may not kindle him into a fever. I
+myself, I must confess, have an extreme palpitation.
+
+_Clink._ Dear uncle, be pacified. We are both of us the votaries of our
+great master Appollo. To you he has assign'd the art of healing: Me he
+has taught to sing; why then should we jangle in our kindred faculties?
+
+_Fos._ Appollo, for ought I know, may be a very fine person; but this I
+am very sure of, that the skill he has given all his physicians is not
+sufficient to cure the madness of his poets.
+
+_Pos._ Hark ye, brother Fossile? Your Crocodile has proved a human
+creature, I wish your wife may not prove a crocodile.
+
+_Naut._ Hark ye, brother Fossile! Your mummy, as you were saying,
+seemeth to be hot in the first degree, and is powerful in some diseases
+of women.
+
+    [_Exit Nautilus and Possum._
+
+_Fos._ You diabolical performers of my niece's masquerade, will it
+please you to follow those gentlemen?
+
+_Clink._ Nay, Sir, you shall see them dance first.
+
+_Fos._ Dance! the devil! bring me hither a spit, a fire-fork, I'll try
+whether the monsters are impenetrable or no.
+
+_Plotw._ I hope, Sir, you will not expose us to the fury of the mob,
+since we came here upon so courteous a design.
+
+_Foss._ Good courteous Mr. Mummy, without more ceremony, will it please
+you to retire to your subterraneous habitation. And you Mr. Crocodile,
+about your business this moment, or you shall change your Nile for the
+next horse-pond.
+
+_Clink._ Spare my masqueraders.
+
+_Underp._ Let it never be said that the famous Dr. Fossile, so renowned
+for his charity to monsters, should violate the laws of hospitality, and
+turn a poor alligator naked into the street.
+
+_Foss._ Deposite your _exuviæ_ then, and assume your human shape.
+
+_Underp._ For that I must beg your excuse. A gentleman would not chuse
+to be known in these frolicks.
+
+_Foss._ Then out of my doors, here footman, out with him; out, thou
+hypocrite, of an alligator.
+
+    [_Underplot is turn'd out._
+
+Sir, the respect I have for catacombs and pyramids, will not protect
+you.
+
+    [_A noise of mob within._
+
+
+    Enter PRUE.
+
+_Prue._ Sir, Sir, lock your doors, or else all your monsters will run
+home again to the Indies. Your crocodile yonder has made his escape; if
+he get but to Somerset water-gate, he is gone for ever.
+
+    [_Exit Prue._
+
+
+    Enter a Footman.
+
+_Foot._ The herbwoman swore she knew him to be the devil, for she had
+met him one dark night in St. Pulchre's church-yard; then the monster
+call'd a coach, methought with the voice of a christian; but a sailor
+that came by said he might be a crocodile for all that, for crocodiles
+could cry like children, and was for killing him outright, for they were
+good to eat in Egypt, but the constable cry'd take him alive, for what
+if he be an Egyptian, he is still the king's subject.
+
+    _Ex. footman._
+
+    [_A noise of mob within._
+
+
+    Enter PRUE
+
+_Prue._ Then he was hurry'd a way by the mob. A bull-dog ran away with
+fix joints of his tail, and the claw of his near foot before: At last by
+good fortune, to save his life, he fell in with the Hockley in the Hole
+bull and bear; the master claim'd him for his monster, and so he is now
+attended by a vast mob, very solemnly marching to Hockley in the Hole,
+with the bear in his front, the bull in his rear, and a monkey upon each
+shoulder.
+
+_Town._ Mr. Mummy, you had best draw the curtains of your chair, or the
+mob's respect for the dead will scarce protect you.
+
+    [_Exit Plotwell in a chair._
+
+_Clink._ My concern for him obliges me to go see that he gets off safe,
+lest any further mischief befalls the persons of our masque.
+
+    [_Exit Clinket._
+
+_Fos._ Sweetly, Horace. _Nunquam satis_, and so forth. A man can never
+be too cautious. Madam, sit down by me. Pray how long is it since you
+and I have been married?
+
+_Town._ Near three hours, Sir.
+
+_Fos._ And what anxieties has this time produc'd? the dangers of
+divorce! calumniatory letters! lewd fellows introduc'd by my niece!
+groundless jealousies on both sides! even thy virginity put to the
+touch-stone! but this last danger I plung'd thee in myself; to leave
+thee in the room with two such robust young fellows.
+
+_Town._ Ay, with two young fellows! but my dear, I know you did it
+ignorantly.
+
+_Fos._ This is the first blest minute of repose that I have enjoy'd in
+matrimony. Dost thou know the reason, my dear, why I have chosen thee
+of all womankind?
+
+_Town._ My face, perhaps.
+
+_Fos._ No.
+
+_Town._ My wit?
+
+_Fos._ No.
+
+_Town._ My virtue and good humour.
+
+_Fos._ No. But for the natural conformity of our constitutions. Because
+thou art hot and moist in the third degree, and I myself cold and dry in
+the first.
+
+_Town._ And so nature has coupled us like the elements.
+
+_Fos._ Thou hast nothing to do but to submit thy constitution to my
+regimen.
+
+_Town._ You shall find me obedient in all things.
+
+_Foss._ It is strange, yet certain, that the intellects of the infant
+depend upon the suppers of the parents. Diet must be prescrib'd.
+
+_Town._ So the wit of one's posterity is determin'd by the choice of
+one's cook.
+
+_Foss._ Right. You may observe how French cooks, with their high
+ragousts, have contaminated our plain English understandings. Our supper
+to night is extracted from the best authors. How delightful is this
+minute of tranquility! my soul is at ease. How happy shalt thou make me!
+thou shalt bring me the finest boy!
+
+    [_A knocking at the door,_
+
+No mortal shall enter these doors this day. [_knocking again._] Oh, it
+must be the news of poor lady Hippokekoana's death. Poor woman! such is
+the condition of life, some die, and some are born, and I shall now make
+some reparation for the mortality of my patients by the fecundity of my
+wife. My dear thou shalt bring me the finest boy!
+
+
+    Enter footman.
+
+_Foot._ Sir, here's a seaman from Deptford must needs speak with you.
+
+_Foss._ Let him come in. One of my retale Indian merchants, I suppose,
+that always brings me some odd thing.
+
+
+    Enter sailor with a child.
+
+What hast thou brought me, friend, a young drill?
+
+_Sail._ Look ye d'ye see, master, you know best whether a monkey begot
+him.
+
+_Foss._ A meer human child.
+
+_Town._ Thy carelessness, Sarsnet, has exposed me, I am lost and ruin'd.
+O heav'n! heav'n! No, impudence assist me.
+
+    [_Aside._
+
+_Foss._ Is the child monstrous? or dost thou bring him here to take
+physick?
+
+_Sail._ I care not what he takes so you take him.
+
+_Foss._ What does the fellow mean?
+
+_Sail._ Fellow me no fellows. My name is Jack Capstone of Deptford, and
+are not you the man that has the raree-show of oyster-shells and
+pebble-stones?
+
+_Fos._ What if I am?
+
+_Sail._ Why, then my invoice is right, I must leave my cargo here.
+
+_Town._ Miserable woman that I am! how shall I support this fight! thy
+bastard brought into thy family as soon as thy bride!
+
+_Fos._ Patience, patience, I beseech you. Indeed I have no posterity.
+
+_Town._ You lascivious brute you.
+
+_Fos._ Passion is but the tempestuous cloud that obscures reason; be
+calm and I'll convince you. Friend, how come you to bring the infant
+hither?
+
+_Sail._ My wife, poor woman, could give him suck no longer, for she died
+yesterday morning. There's a long account, master. It was hard to trace
+him to the fountain-head. I steer'd my course from lane to lane, I
+spoke to twenty old women, and at last was directed to a ribbon-shop in
+Covent-Garden, and they sent me hither, and so take the bantling and pay
+me his clearings.
+
+    [_Offers him the child._
+
+_Fos._ I shall find law for you, sirrah. Call my neighbour Possum, he is
+a justice of peace, as well as a physician.
+
+_Town._ Call the man back. If you have committed one folly, don't expose
+yourself by a second.
+
+_Sail._ The gentlewoman says well. Come, master, we all know that there
+is no boarding a pretty wench, without charges one way or other; you are
+a doctor, master, and have no surgeons bills to pay; and so can the
+better afford it.
+
+_Town._ Rather than you should bring a scandal on your character, I will
+submit to be a kind mother-in-law.
+
+
+    Enter Justice Possum, and Clerk.
+
+_Fos._ Mr. justice Possum, for now I must so call you, not brother
+Possum; here is a troublesome fellow with a child, which he would leave
+in my house.
+
+_Pos._ Another man's child? he cannot in law.
+
+_Fos._ It seemeth to me to be a child unlawfully begotten.
+
+_Pos._ A bastard! who does he lay it to?
+
+_Fos._ To our family.
+
+_Pos._ Your family, _quatenus_ a family, being a body collective, cannot
+get a bastard. Is this child a bastard, honest friend?
+
+_Sail._ I was neither by when his mother was show'd, nor when she was
+unladen; whether he belong to a fair trader, or be run goods, I cannot
+tell: In short here I was sent, and here I will leave him.
+
+_Pos._ Dost then know his mother, friend?
+
+_Sail._ I am no midwife, master; I did not see him born.
+
+_Pos._ You had best put up this matter, doctor. A man of your years,
+when he has been wanton, cannot be too cautious.
+
+_Fos._ This is all from the purpose. I was married this morning at
+seven; let any man in the least acquainted with the powers of nature,
+judge whether that human creature could be conceiv'd and brought to
+maturity in one forenoon.
+
+_Pos._ This is but talk, doctor Fossile. It is well for you, though I
+say it, that you have fallen into the hands of a person, who has study'd
+the civil and canon law in the point of bastardy. The child is either
+yours or not yours.
+
+_Foss._ My child, Mr. Justice!
+
+_Pos._ Look ye, doctor Fossile, you confound filiation with
+legitimation. Lawyers are of opinion, that filiation is necessary to
+legitimation, but not _è contra_.
+
+    [_The child cries_
+
+_Foss._ I would not starve any of my own species, get the infant some
+water-pap. But Mr. Justice----
+
+_Pos._ The proofs, I say, doctor, of filiation are five. Nomination
+enunciatively pronounc'd, strong presumptions, and circumstantial
+proofs--
+
+_Foss._ What is all this to me? I tell you I know nothing of the child.
+
+_Pos._ Signs of paternal piety, similitude of features, and commerce
+with the mother. And first of the first, nomination. Has the doctor ever
+been heard to call the infant, son?
+
+_Town._ He has call'd him child, since he came into this room. You have
+indeed, Mr. Fossile.
+
+_Pos._ Bring hither the doctor's great bible.----Let us examine in the
+blank leaf whether he be enroll'd among the rest of his children.
+
+_Foss._ I tell you, I never had any children. I shall grow distracted, I
+shall----
+
+_Pos._ But did you give any orders against registring the child by the
+name of Fossile?
+
+_Foss._ How was it possible?
+
+_Pos._ Set down that, clerk. He did not prohibit the registring the
+child in his own name. We our selves have observed one sign of fatherly
+tenderness; clerk, set down the water-pap he order'd just now. Come we
+may----
+
+_Foss._ What a jargon is this!
+
+_Pos._ Come we now, I say, to that which the lawyers call _magnum naturæ
+argumentum_, similitude of features. Bring hither the child, friend; Dr.
+Fossile, look upon me. The unequal circle of the infant's face, somewhat
+resembles the inequality of the circumference of your countenance; he
+has also the vituline or calf-like concavity of the profile of your
+visage.
+
+_Foss._ Pish.
+
+_Pos._ And he is somewhat beetle-brow'd, and his nose will rise with
+time to an equal prominence with the doctor's.
+
+_Town._ Indeed he has somewhat of your nose Mr. Fossile.
+
+_Foss._ Ridiculous!
+
+_Town._ The child is comely.
+
+_Pos._ Consider the large aperture of his mouth.
+
+_Sail._ Nay, the tokens are plain enough. I have the fellow of him at
+home; but my wife told me two days ago, that this with the wall-eye and
+splay-foot belong'd to you, Sir.
+
+    [_Prue runs a-cross the stage with a letter, which Fossile snatches
+      from her._
+
+_Fos._ Whither are you going so fast, hussy? I will examine every thing
+within these walls. [_Exit Prue._] [_reads._] 'For Richard Plotwell,
+esq;' This letter unravels the whole affair: As she is an unfortunate
+relation of mine, I must beg you would act with discretion.
+
+    [_Gives Possum the letter._
+
+_Pos._ [_reads_]
+
+  'Sir, the child which you father'd is return'd back upon my hands.
+  Your Drury-lane friends have treated me with such rudeness, that
+  they told me in plain terms I should be damn'd. How unfortunate
+  soever my offspring is, I hope you at least will defend the
+  reputation of the unhappy
+
+  'Phoebe Clinket.'
+
+----As you say, doctor, the case is too plain; every circumstance hits.
+
+
+    Enter CLINKET.
+
+_Clink._ 'Tis very uncivil, Sir, to break open one's letters.
+
+_Foss._ Would I had not; and that the contents of it had been a secret
+to me and all mankind for ever. Wretched creature, to what a miserable
+condition has thy poetry reduc'd thee!
+
+_Clink._ I am not in the least mortified with the accident. I know it
+has happen'd to many of the most famous daughters of Apollo; and to
+myself several times.
+
+_Foss._ I am thunderstruck at her impudence! several times!
+
+_Clink._ I have had one returned upon my hands every winter for these
+five years past. I may perhaps be excell'd by others in judgment and
+correctness of manners, but for fertility and readiness of conception, I
+will yield to nobody.
+
+_Foss._ Bless me, whence had she this luxuriant constitution!
+
+_Pos._ Patience, Sir. Perhaps the lady may be married.
+
+_Town._ Tis infamous, Mr. Fossile, to keep her in your house; yet though
+you turn her out of doors, use her with some humanity; I will take care
+of the child.
+
+_Clink._ I can find no _Denoüement_ of all this conversation. Where is
+the crime, I pray, of writing a tragedy? I sent it to Drury-Lane house
+to be acted; and here it is return'd by the wrong goùt of the actors.
+
+_Pos._ This incident has somewhat embarrassed us. But what mean you
+here, madam, by this expression? Your offspring.
+
+_Clink._ My tragedy, the offspring of my brain. One of his majesty's
+justices of the peace, and not understand the use of the metaphor!
+
+_Pos._ Doctor, you have used much artifice, and many demurrers; but the
+child must lie at your door at last. Friend, speak plain what thou
+knowest of this matter.
+
+_Foss._ Let me relate my story. This morning, I married this lady, and
+brought her from her lodgings, at Mrs. Chambers's, in King-street,
+Covent-Garden.
+
+_Sail._ Mrs. Chambers! To that place I was directed, where liv'd the
+maid that put the bantling out to be nurs'd by my wife for her lady; and
+who she was, 'tis none of our business to enquire.
+
+_Pos._ Dost thou know the name of this maid?
+
+_Sail._ Let me consider----Lutestring.
+
+_Foss._ Sarsnet, thou mean'st.
+
+_Sail._ Sarsnet, that's right.
+
+_Town._ I'll turn her out of my house this moment, Filthy creature!
+
+_Pos._ The evidence is plain. You have cohabitation with the mother,
+doctor, _currat lex_. And you must keep the child.
+
+_Foss._ Your decree is unjust, Sir, and I'll seek my remedy at law. As I
+never was espoused, I never had carnal knowledge of any woman; and my
+wife, Mrs. Susanna Townley, is a pure virgin at this hour for me.
+
+_Pos._ Susanna Townley! Susannah Townley! Look how runs the warrant you
+drew up this morning.
+
+    [_Clerk gives him a paper._
+
+Madam, a word in private with you. [_whispers her_] Doctor, my Lord
+Chief Justice has some business with this lady.
+
+_Foss._ My Lord Chief Justice business with my wife!
+
+_Pos._ To be plain with you, doctor Fossile, you have for these three
+hours entertain'd another man's wife. Her husband, lieutenant Bengal, is
+just returned from the Indies, and this morning took out a warrant from
+me for an elopement; it will be more for your credit to part with her
+privately, than to suffer her publickly to be carried off by a tipstaff.
+
+_Foss._ Surprizing have been the events of this day; but this, the
+strangest of all, settles my future repose. Let her go--I have not
+dishonoured the bed of lieutenant Bengal--Hark ye friend! Do you follow
+her with that badge of her infamy.
+
+_Pos._ By your favour, doctor, I never reverse my judgment. The child is
+yours: for it cannot belong to a man who has been three years absent in
+the East-Indies. Leave the child.
+
+_Sail._ I find you are out of humour, master. So I'll call to-morrow for
+his clearings.
+
+
+    [_Sailor lays down the child, and exit with Possum, Clerk, and
+      Townley._]
+
+_Clink._ Uncle, by this day's adventure, every one has got something.
+Lieutenant Bengal has got his wife again; you a fine child; and I a plot
+for a comedy; and I'll this moment set about it.
+
+    [_Exit Clinket._
+
+_Foss._ What must be, must be. [_takes up the child._] Fossile, thou
+didst want posterity: Here behold thou hast it. A wife thou didst not
+want; thou hast none. But thou art caressing a child that is not thy
+own. What then? a thousand, and a thousand husbands are doing the same
+thing this very instant; and the knowledge of truth is desirable, and
+makes thy case the better, What signifies whether a man beget his child
+or not? How rediculous is the act itself, said the great emperor
+Antoninus! I now look upon myself as a Roman citizen; it is better that
+the father should adopt the child, than that the wife should adopt the
+father.
+
+    [_Exit Fossile._
+
+
+
+
+EPILOGUE.
+
+Spoke by Mrs. OLDFIELD.
+
+
+  _The ancient Epilogue, as criticks write,
+  Was, Clap your hands, excuse us, and good-night.
+  The modern always was a kind essay
+  To reconcile the audience to the play:
+  More polish'd, we of late have learn'd to fly
+  At parties, treaties, nations, ministry.
+  Our author more genteelly leaves these brawls
+  To coffee-houses, and to coblers stalls.
+  His very monsters are of sweet condition,
+  None but the Crocodile's a politician;
+  He reaps the blessings of his double nature,
+  And, Trimmer like, can live on land or water:
+  Yet this same monster should be kindly treated,
+  He lik'd a lady's flesh----but not to eat it._
+
+  _As for my other spark, my favourite Mummy,
+  His feats were such, smart youths! as might become ye;
+  Dead as he seem'd, he had sure signs of life;
+  His hieroglyphicks pleas'd the doctor's wife._
+
+  _Whom can our well-bred poetess displease?
+  She writ like quality----with wond'rous ease:
+  All her offence was harmless want of wit;
+  Is that a crime?----ye powers, preserve the pit._
+
+  _My doctor too, to give the devil his due,
+  When every creature did his spouse pursue,
+  (Men sound in living, bury'd flesh, dry'd fish,)
+  Was e'en as civil as a wife could wish.
+  Yet he was somewhat saucy with his viol;
+  What! put young maids to that unnat'ral trial!
+  So hard a test! why, if you needs will make it,
+  Faith, let us marry first,----and then we'll take it._
+
+  _Who could be angry, though like Fossile teaz'd?
+  Consider, in three hours, the man was eas'd.
+  How many of you are for life beguil'd,
+  And keep as well the mother, as the child!
+  None but a Tar could be so tender-hearted,
+  To claim a wife that had been three years parted;
+  Would you do this, my friends?--believe me, never!
+  When modishly you part----you part for ever._
+
+  _Join then your voices, be the play excus'd
+  For once, though no one living is abus'd;
+  To that bright circle that commands our duties,
+  To you superior eighteen-penny beauties,
+  To the lac'd hat and cockard of the pit,       }
+  To all, in one word, we our cause submit,      }
+  Who think good breeding is a-kin to wit._      }
+
+
+
+
+The _Publisher_'s
+
+_Advertisement_ to this _Edition_.
+
+
+The following Key with the Letter annexed, was sent me from my
+Correspondent in _London_; which came too late to the English Editor, to
+be printed with that Edition. As the Squabble between _Cibber_ and _Gay_
+behind the Scenes of the Theatre-Royal in _Drury-Lane_, at that Time,
+was very well known; we imagine the reader will not be displeased to
+have a particular Account of it, now, first added to this _Dublin_
+Edition.
+
+
+  A
+  KEY
+  TO THE
+  NEW COMEDY;
+
+  CALL'D,
+
+  THREE HOURS AFTER
+  MARRIAGE.
+
+  Written by a Person of Distinction in
+  LONDON,
+
+  To his Friend in the County of _Cornwal_.
+
+  With a Letter, giving an Account of the Origin
+  of the Quarrel between CIBBER, POPE, and GAY.
+
+
+
+
+A
+
+KEY
+
+TO THE
+
+NEW COMEDY, _&c._
+
+
+To Sir H. M.
+
+My Friend,
+
+You have sent me a long letter to persuade me to an undertaking I cannot
+think myself capable of executing; therefore, I must call it worse to me
+than an Egyptian bondage! My frequenting the Theatre (you say) I make my
+favourite amusement--I confess it--I think it a rational, instructive,
+and most pleasurable one, of all those this great city affords: Where
+can a man pass three hours of his idle time better? however, I never
+enter the house as a critick, and therefore find myself unequal to the
+task you have imposed upon me; yet notwithstanding, I will venture. But
+as you make use of this old sentence in your letter,
+
+  _Ut clavis partam, sic pandit Epistolæ pectum._
+
+I shall divide (as parsons do their pulpit orations) my matter into
+three parts. First then I shall give you my own thoughts, which I
+believe concur with at least three parts of the audience. So I shall
+unlock (according to your motto) my breast, and tell you all I know or
+think concerning this affair.
+
+
+2dly. I intend to let you know as much as I do; at least, all the
+persons that are satiriz'd in this merry drama.
+
+
+3dly, And lastly, without the least favour, I shall discover according
+to my judgment, from whence they have borrowed, or bordered upon any
+likeness from any other dramatick piece within my knowledge.
+
+
+Now as to the FIRST article. The expectation of all lovers of the drama,
+were rais'd to the highest pitch, from the great reputation of the
+authors, (the Triumvir, as they were call'd) Pope, Gay, and Arbuthnot. I
+went to the Theatre the first night, but could not find the least room;
+every door that was opened to me, diffus'd more heat than a baker's
+oven, or the mouth of a glass-house. The next morning, I stroll'd to
+several coffee-houses, where I knew the wits and criticks met like
+surgeons, to dissect the body of any new piece; but I found more
+opinions among them, than there are sectaries in the world: So I
+resolv'd to venture a sweating the next evening, and be my own judge.
+When I came to the Theatre, I found it crowded as the night before, but
+fortunately got a seat in the boxes among some of my acquaintance.
+
+Wilk's spoke the prologue with his usual vivacity and applause! but he
+had no sooner ended, and thrown the fool's cap on the stage,[D] but
+the storm began, and the criticks musick of cat-calls join'd in the
+chorus.--The play was acted like a ship tost in a tempest; yet
+notwithstanding, through those clouds of confusion and uproar, I, as one
+of the neutral powers, could discover a great many passages that gave me
+much satisfaction; and while the inimitable Oldfield was speaking the
+epilogue, (who performed the character of Mrs. Townley, the doctor's
+wife) the storm subsided--And to speak poetically, my friend--
+
+The billows seem'd to slumber on the shore.
+
+  [D] See the two last lines of the prologue.
+
+But when the play was given out for the third night, (tho' the benefit
+of the author was not mention'd) the roar burst out again, like sudden
+thunder from two meeting clouds; but I with pleasure observ'd, the roar
+of applause overcame and triumph'd.
+
+I went the third night to the pit, where I saw the comedy perform'd to a
+numerous and polite audience with general applause! as for my own
+particular part, I was extremely delighted. Thus have I unlock'd my own
+sentiments concerning this three hours after marriage, and expos'd them
+naked before you. And so ends the first promised article of my Key--Now
+I shall proceed to the
+
+
+SECOND, _viz._ The persons that are struck at in this drama (which has
+opened so many mouths against it) and the cause which drew the satirical
+lash upon them.
+
+Poets, that are inspir'd by Apollo are so quickly fir'd, that the least
+touch sets them in a blaze. The Triumvir had been inform'd, that Dr.
+Fossile, or Dr. Woodward, which you please; (for Dr. Woodward they mean
+by Dr. Fossile) had very concisely affronted them all three in one
+speech, _viz._ Pope's essay on critiscism, was plundered from Vida--Gays
+pastoral lucubrations, were built upon Spencer, and Brown's
+Britania's-pastorals, published in the year 1613--and Arbuthnot could
+never be eminent in surgery, since he never study'd at Paris or Leyden;
+for in Scotland, he could learn nothing, but to cure the itch. So
+Fossile appears as the principal character in this ludicrous drama: He
+gain'd that title tis said, by asking a man digging in a gravel-pit--if
+he ever met with any Fossils? the man mistaking the Word, reply'd--no,
+nor Spiggot's master; for I believe this gravel-pit was never an
+ale-cellar yet. Thus have I given you all the intelligence I can, why Dr
+Woodward is Dr. Fossile in this comedy.
+
+The other two physicians next in the dramatis personæ, do not, I
+believe, mean any particular persons, only to satirize pretenders, and
+you know we have too many that kill without license.
+
+Sir Tremendous is meant for that snarling, ill-natur'd critick, Dennis,
+who fell so critically upon Addison, with his billingsgate remarks on
+Cato! a growler, who never yet lik'd any child of fancy but his own! and
+I must declare, all of his offspring that I have seen, are as
+ill-shap'd, and as hard-favour'd as the parent that begot 'em: He swells
+like an invenom'd reptile, at any thing that gives pleasure to the rest
+of the world, while he only torments himself; therefore he has truly
+gain'd the true name of Heautontimerumenos.
+
+The two extraordinary lovers, Plotwell, and Underplot; there are so many
+of their resemblance in this great town, that we may call them knights
+of the shires, who represent them all.
+
+The two players by their different manner of speaking, by those whoever
+convers'd with them, might be easily found to mean Wilk's and Booth.
+
+Now we have open'd our lock, and set to view all our men display'd in
+our three hours after marriage, I shall proceed to the women, which are
+but two pointed at in the drama, whatever may occur in the body of the
+play, which I shall refer to the last article of my discourse. (_do not
+I my friend talk like your chaplain in the country! on the day between
+saturday and monday_)?
+
+Mrs. Townley, the heroine of our play, I am inform'd, does not suit the
+character of Fossile's real wife in the least; for tis said they cannot
+slander that poor woman with any other failing, than that thing so much
+out of fashion call'd virtue; which seems as ridiculous as if a woman of
+quality should come to court to a ball on a birth day, with a
+black-bever high-crown-hat on: But they say another eminent physician's
+wife sat for that picture; and the painters have done her justice in all
+but the catastrophe; for the poor man has her still, nor feels he yet
+any pain in the forehead; therefore shall be nameless, for I think it
+hard, a man's head should be laden, for the lightness of his wife's
+heels.
+
+Phoebe Clinket; I am a little griev'd to say, reflects a little on a
+lady of your acquaintance, the Countess of W----sea, who is so much
+affected with that itch of versifying, that she has implements for
+writing, in every room in her house that she frequents. You and I know,
+Gay has many obligations to that lady, therefore, out of justice and
+good manners ought to have spar'd her. But poets provok'd, are as bad as
+hornets; they care not who they sting! and I think the motto to the
+thistle, (the arms of North-Britain) _Nemo me impune lacessit_, given by
+James V. of Scotland, is not an improper one for a poet--That unlucky
+lady was heard to say,--_Gays trivia show'd he was more proper to walk
+before a chair, than to ride in one_. This sarcasm was the cause, why
+the poor Countess is thrust among such a pack of motley figures on the
+stage. As Hamlet says by the players; "You had better have a poets good
+word, than a bad epitaph after your death." I must confess a poor
+revenge upon a woman; and a revenge of this kind on any of the soft sex,
+is below the dignity of man. I am of the poets opinion, who says--
+
+  "Too noble for revenge! which still we find
+  The weakest frailty of a feeble mind;
+  Ungenerous passion! and for man too base--
+
+Thus my friend have I finish'd my 2d article, and proceed to the THIRD
+and last, which shall be to consider the play, and remark every passage
+that borders on any other in the dramatic way, but not with the
+ill-natur'd design of a critick.
+
+The very first scene of the play, puts me in mind of the first entrance
+of Morose, with his epicæne in Ben Johnson's silent woman; and several
+other scenes in this _Three Hours after Marriage_, convinces me the
+authors had that celebrated comedy often in view. But Fossile in his
+first speech where he says--
+
+"_I now proclaim a solemn suspension of arms between medicine and
+diseases; Be this day sacred to my love._" Puts me strongly in mind of
+Jupiter's ending the first act of Dryden's amphytrion: and I doubt not,
+but the author had the same thought with me.
+
+    "Let human kind their sovereign's leisure wait,
+  Love is this night my great affair of state:
+  Let this one night on providence be void:
+  All Jove for once, is on himself employ'd.
+
+In the next page Mrs. Townley says--
+
+_Marriage, is not to be undertaken wantonly like brute beasts._ Do you
+not think this following speech of Truwits to Morose upon his sudden
+marriage, was not the father of Mrs. Townley's speech.
+
+"Wou'd you go to bed so soon? a man of your head and hair should owe
+more to the reverend ceremony, and not mount the marriage-bed like a
+town-bull, _&c._
+
+The messages from his patients, I like the least of any thing in the
+whole play, tho' it is a just satire on those people of rank, that dare
+not be well without the advice of their physician: Yet I am angry at the
+countess of Hippokekoana, who is no other than the good dutchess of
+M--n--th, who generally took an emetick once a week. This lady had the
+misfortune to break her thigh-bone by a fall, but her modesty was so
+great, she would not allow the surgeons to apply any remedy; but by
+their advice, women took their office upon them, but performed it so
+ill, that the poor lady must go lame to her tomb. The annual day, on
+which her illustrious husband lost his head, she fasts the four and
+twenty hours: a rare example of conjugal-love! But indeed something of
+this whole scene may be picked out of _Moliere_.
+
+In the scene between Tremendous, Clinket and the Players; that critick
+talks in the usual stile of _Dennis_--But in this speech of--
+
+_There is not in all this sodom of ignorance, ten righteous
+criticks_--The triumvir makes a little too free with the old testament.
+
+Those letters that are given to the doctor in disguise of his footman,
+are something like several passages in Molier's _Cecu imaginaire_. That
+sign'd _Wyburn_, I believe I need not inform you, is the most noted bawd
+in London. The character of Lubomirski, may be found (at least something
+like it) in _Lopez de Vega_; but his water of virginity, you may find
+something very like that in a play call'd the _Changeling_, written by
+Middleton and Rowley in conjunction, printed 1653.
+
+Their Mummy may be found in a little piece in the _Theatre Italien_,
+call'd the mummies of Egypt; and I believe the Nile furnish'd the
+Crocodile.
+
+I begin to be tir'd my friend, and, therefore let me tell you, Mrs.
+Townley proving no wife to Fossile, may put you in mind of _Ben
+Johnson's_ silent woman, and _Congreve's_ old batchelor.
+
+But what of all this! who would search for what I have done, but such a
+compliant puppy as myself, to please one who does not care what trouble
+I take; but for taking hints from the French, Spanish, or any of our own
+celebrated authors, especially if they are improved upon, as in justice
+these are. I will not esteem a crime--How many whole plays have we
+translated from the celebrated Moliere, that every winter gives pleasure
+to a British audience? I shall never ask my cook of what ingredients my
+dishes are compos'd, so my viands are wholsome and well relish'd: And
+this Three Hours after Marriage, in my opinion, had not the satire been
+pointed at particular people, might have furnis'd out a repast for many
+winters Theatric nights.
+
+
+
+
+A LETTER, _&c._
+
+To the Publisher.
+
+
+  SIR,
+
+  _I Desire you will publish this short account I send you, if you think
+  fit, since it cannot more properly be tacked to any other work--It
+  is wrote by a person who is still alive, and tho' a woman, intimate
+  with the poets of this century, and consequently with most of the
+  theatrical persons worthy notice; therefore I have sent you a careful
+  copy from the original, by the gentleman's consent it was wrote to._
+
+
+A LETTER, giving an Account of the Origin of the Quarrel between
+_Cibber_, _Pope_, and _Gay_.
+
+
+SIR,
+
+You tell me, it is matter of great surprize to you, that Pope like a
+vicious horse, has so often flung out at the Laureat, whose apology for
+his life and comedies you so much admire. Women, depend on it, Sir
+Thomas, keep up a little vanity, even in the decline of life, as well as
+you men; and you will certainly think so, when I tell you I can unravel
+all the true reasons, and sources of that affair.--I have often informed
+you, my intimacy with Mrs. Oldfield brought me the freedom of the
+theatre, as well at rehearsals in the morning, as the use of her box at
+night. I accompany'd her almost every morning to the _Three Hours after
+Marriage_. This comedy was the source of that bitterness, and
+keen-cutting satire that Pope expresses against Cibber in all his
+writings. At the rehearsal of this piece, no two could express more
+amity; and the former was often heard to say, with his other two
+associates, Arbuthnot and Gay: "Cibber, in teaching the comedians their
+parts, had struck out infinitely more humour than they themselves
+conceiv'd, or even meant; and I heard Gay say"--
+
+    "We dug the oar, but he refin'd the gold."
+
+Which was plainly owning, they all three had a hand in mixing the
+ingredients for this theatric pudding.
+
+We shall give the first appearance of Pope's resentment, in Mr. Cibber's
+own words, in his letter to Pope; and then relate another passage the
+laureat has omitted.
+
+"The play of the Rehearsal, which had lain some few years dormant, being
+by his present majesty (then Prince of Wales) commanded to be reviv'd,
+the part of Bayes fell to my share. To this character, there always had
+been allow'd such ludicrous liberties of observation, upon any thing new
+or remarkable in the state of the stage, as Mr. Bayes should think
+proper to take. Much about this time the Three Hours after Marriage had
+been acted, which Mr. Baye's as usual had a fling at, which in itself as
+no jest, unless the audience would please to make it one. In this play,
+two coxcombs being in love with a virtuoso's wife; to get unsuspected
+access to her, ingenuously sent themselves as two presented rarities to
+the husband, the one swath'd up like an Egyptian Mummy, and the other
+sllyly cover'd in the paste board skin of a Crocodile: Upon which
+poetical expedient, Mr. Bayes, when the two kings of Brentford came down
+from the clouds into the throne again; instead of what my part directed
+me to say, I made use of these words, _viz._ Now Sir, this revolution, I
+had some thoughts of introducing by a quite different contrivance; but
+my design taking air, some of your sharp wits I found, had made use of
+it before me; otherwise, I intended to have stolen one of them in, in
+the shape of a mummy, and the other, in that of a crocodile. The
+audience by their roar of applause, show'd their approbation: But why am
+I answerable for that? I did not lead them by any reflection of my own.
+But this it seems was so heinously taken by Mr. Pope, that in the
+swellings of his heart after the play was over, he came behind the
+scenes with his lips pale, and voice trembling, to call me to account
+for the insult, and, accordingly fell upon me with all the foul
+language, that a wit out of his senses, could be capable of--_How durst
+I have the impudence to treat any gentlemen in that_ _manner_? &c, &c,
+&c. Now let the reader judge by this concern, who was the true mother of
+the child--When he was almost choak'd with the foam of his passion, I
+was enough recovered to make him (as near as I can remember) this
+reply--_viz._ Mr. Pope, you _are so particular a man, that I must be
+asham'd to return your language as I ought to do; but since you have
+attacked me in so monstrous a manner, this you may depend upon, that as
+long as the play continues to be acted, I will never fail to repeat the
+same words over and over again_. Now, as he accordingly found I kept my
+word for several nights following, I am afraid he has since thought,
+that his pen was a sharper weapon than his tongue, to trust his revenge
+with; and, however just cause this may be for his doing so; it is, at
+least, the only cause my conscience can charge me with.
+
+So far has Mr. Cibber thought fit to relate of this affair, and no
+farther, which is strictly true: But the laureat in this account of the
+first failing of Mr. Popes friendship, makes no mention of what pass'd
+between him and Mr. Gay, the fourth evening, after his sparring with Mr.
+Pope: Perhaps, the death of Gay prevail'd on him to be silent, or
+perhaps, that author, never having publickly attack'd him, might be his
+motive for not mentioning the affair.
+
+Thus it was, Mr Pope's frail form not being cut out for a hero,
+spirited up Mr. Gay, as a party concerned in the suppos'd affront; and
+accordingly, the fourth night, after Pope's ill success, Gay, like a
+valiant champion, came behind the scenes to attack Bayes at the head of
+his new rais'd forces: A dangerous undertaking, since, he might have
+seen, if rage had not blinded him, several horse, rang'd on each side
+the field of battle, ready for the riders to mount, at the first call of
+the trumpet--most of the forces were in their tents, waiting the word of
+command. But _Bayes_, the general, already prepar'd, was gone from his
+pavilion, and reconnoitring the numerous spectators--that is without a
+metaphor: Cibber with his glove rais'd up to his eyes, (his usual
+custom) was observing the audience about half an hour after five o'clock
+(the play beginning in drury-lane axactly at six) when Gay accosted him.
+We shall wave the short dialogue; but only observe that great poets are
+as well vers'd in the vulgar language, as well as the sublime, and
+perhaps, in their anger show as little politeness, as those educated in
+the boarding school of billing's-gate. But at last Gays passion grew
+ungovernable; he with his arm rais'd high, was going to discharge a
+ponderous blow upon Baye's, but a stander by disarmed him, and prevented
+the ignominious blow. They then seiz'd each other, grappled hard, and a
+cuff or two were exchang'd on both sides--Gay having the advantage of
+youth, and strength, threw Bayes down, yet he bravely drag'd his foe
+down with him in his fall: But the affair growing a little too serious,
+the combatants were parted, without bloodshed, save that Bayes got a
+small scratch upon the nose, which the piece of wet brown paper, (a
+property of his part) decently conceal'd from the spectators. It is
+certain, one of those that endeavoured to part them, got a most severe
+broken shin from one of them; so that we may be assur'd they _kick'd_ as
+well as _cuff'd_. However this combat did not last so long as it takes
+up in the relation. Bayes's wig went once more under the correction of
+the barber, and the play began at the stated time. We cannot call this
+by the pompous name of Battle, but simply skirmishing; but as Gay was
+obliged to quit the field, _Bayes_ may in some sort be termed victor;
+however, he triumph'd with his mummy and crocodile that night, but dropt
+it afterwards, the jest growing stale. Mr. Pope's apparition to Mr.
+Cibber on this occasion was known to very few, but this of Mr. Gay was
+the common town and table-talk for some time, kept up by the grub-street
+wits that made many a hearty meal upon it, ('till something more in
+season threw it out of the bill of fare.) It is manifest, this truffing
+beginning put an end to Pope's friendship for Cibber if he realy had
+any; and the continuance of his enmity, for near thirty years, is no
+mark of humanity. It is accounted unmanly and mean, to give a person
+repeated strokes, when he has not spirit enough to resent the first; and
+yet that excellent poet, had so much bitterness in his sweet wit, (if we
+may be allowed to say so,) that to many it palls the taste. The reader
+in this supplement, will not find Cibber's name once mentioned: The
+reason is apparent; he had not done any thing to provoke; but since the
+year of the three Hours after Marriage, (1717) he has a dart at him in
+almost every thing he publishes--In his epistle to doctor Arbuthnot he
+plainly says--(mentioning a play he was desired to recommend to the
+stage)
+
+    There (thank my stars) my whole commission ends,
+    Cibber and I, are luckily no friends.
+
+And yet it is well known, Mr. Cibber never made the least return, till
+his letter to Pope 1742, and then, he declar'd to many of his friends,
+he did it, because he had no other business on his hands, and that he
+might not be forgot before he was dead. Of all the foibles Mr. Cibber
+might be guilty of, those that are conversant with him, know malice,
+envy or slander, are not in the composition.
+
+When a person informed him, Pope was no more; he seem'd much concern'd,
+and reply'd, I am griev'd for the loss of so great a man; I was never
+his enemy, and for those spots he seem'd to dash on me, his admirable
+wit made me overlook them all--and I am convinced, he sometimes wrote
+against the sentiments of his heart. Nay we are informed, Pope was heard
+to say in his last sickness--
+
+"My satires against Cibber, are not my last repented faults."
+
+But we are not willing to part with this Three Hours after Marriage,
+without relating an odd accident, that happened the 4th night of that
+play; it may be called a scene of distress, in a pantomime that befell
+an unlucky lover; for it was all in dumb show: We are sure, it created
+more vociferous mirth in the spectators, than any other passage of wit
+or satire; and the enemies to the Triumvir, declared it was the best
+thing in the whole piece. Had Hogarth been present (as he might have
+been) his inimitable pencil would, have stronger ideas, of the comic
+distress, than any description can do: But, perhaps, contemplating the
+scene may strengthen the readers imagination.
+
+Cibber, was the mummy, curiously wrapt and folded with proper bandages,
+painted with false Egyptian Hieroglyphics, but however false the
+heraldry, his arms were at liberty. The droll facetious Penkethman, was
+that amphibious devourer, the crocodile, where the painter, the tailor,
+with other artificers had us'd their utmost skill: The monster's two
+foremost legs, were fitted to his arms, and Penky's legs, serv'd for
+those of the monster. He made a formidable figure as he crawl'd in, with
+his great head, and long tail; for, tho' he was ordered to be carry'd as
+a stuff'd monster, he would creep, as crocodiles should do on dry land:
+When he stood upright, his face peep'd from the belly of the monster;
+form'd monstrously to charm indeed! The case that brought in the
+mummy-lover, was plac'd in the center of the stage behind, and the door,
+or, open part, stood facing the audience upright--While they were
+employ'd in their courtship, displaying their charms as lovers;
+Penkethman, the crocodile, boasting much in the beauty of his long tail,
+and, traversing the stage, unfortunately made such a parade with it,
+that he threw down Sarsnet (the attendant and confidant of Mrs. Townley)
+flat upon her back, where she discovered more linnen than other
+habitiments, and, more skin and flesh than linnen, this began the first
+uproar in the audience. The persons of the drama upon the stage, strove
+to screen the accident as much as they could, and the crocodile,
+Penkethman, (whose face was a farce) rising from giving his assistance
+_to the fallen maid_; unluckilly, his back encountered the case for the
+mummy, which stood upright, openmouth'd, to receive him, that case and
+crocodile fell backward with such violent noise, that the body of the
+crocodile lay intirely inhum'd in the case of the mummy, all absorb'd
+but the head and tail of the monster; and the rapidity of the fall, had
+so forcibly jamm'd all that appertain'd to Pinky's fair form, that all
+the strength and skill of twenty people running to the assistance of the
+monster, could not disengage him, till Pallas in the likeness of
+hammers, saws, chissels, and other implements in the hands of those that
+knew their use, releas'd him. This scene took more than half an hour in
+the action; with what roar of applause the reader must form in his own
+Imagination. Many of the audience the next night, made an interruption
+of some minutes, to have the scene repeated, which so much allarmed poor
+Sarsnet, that she run off the stage extremely frighted, which provok'd a
+peal of laughter from the spectators.
+
+You see sir, it is some danger, to give a woman room to talk; but I'll
+make an end with Bromias's last speech in the second act of Amphytrion,
+_viz._
+
+    "The tongue is the last moving thing about a woman.
+
+
+       *       *       *       *       *
+
+
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+
+=First Year (1946-47)=
+
+Numbers 1-6 out of print.
+
+
+=Second Year (1947-1948)=
+
+7. John Gay's _The Present State of Wit_ (1711); and a section on Wit
+from _The English Theophrastus_ (1702).
+
+8. Rapin's _De Carmine Pastorali_, translated by Creech (1684).
+
+9. T. Hanmer's (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+
+10. Corbyn Morris' _Essay towards Fixing the True Standards of Wit,
+etc_. (1744).
+
+11. Thomas Purney's _Discourse on the Pastoral_ (1717).
+
+12. Essays on the Stage, selected, with an Introduction by Joseph Wood
+Krutch.
+
+
+=Third Year (1948-1949)=
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720).
+
+14. Edward Moore's _The Gamester_ (1753).
+
+15. John Oldmixon's _Reflections on Dr. Swift's Letter to Harley_
+(1712); and Arthur Mainwaring's _The British Academy_ (1712).
+
+16. Nevil Payne's _Fatal Jealousy_ (1673).
+
+17. Nicholas Rowe's _Some Account of the Life of Mr. William
+Shakespeare_ (1709).
+
+18. "Of Genius," in _The Occasional Paper_, Vol. III, No. 10 (1719); and
+Aaron Hill's Preface to _The Creation_ (1720).
+
+
+=Fourth Year (1949-1950)=
+
+19. Susanna Centlivre's _The Busie Body_ (1709).
+
+20. Lewis Theobold's _Preface to The Works of Shakespeare_ (1734).
+
+21. Out of print.
+
+22. Samuel Johnson's _The Vanity of Human Wishes_ (1749) and Two
+_Rambler_ papers (1750).
+
+23. John Dryden's _His Majesties Declaration Defended_ (1681).
+
+24. Out of print.
+
+
+=Fifth Year (1950-1951)=
+
+25. Thomas Baker's _The Fine Lady's Airs_ (1709).
+
+26. Charles Macklin's _The Man of the World_ (1792).
+
+27. Out of print.
+
+28. John Evelyn's _An Apologie for the Royal Party_ (1659); and _A
+Panegyric to Charles the Second_ (1661).
+
+29. Daniel Defoe's _A Vindication of the Press_ (1718).
+
+30. Essays on Taste from John Gilbert Cooper's _Letters Concerning
+Taste_, 3rd edition (1757), & John Armstrong's _Miscellanies_ (1770).
+
+
+=Sixth Year (1951-1952)=
+
+31. Thomas Gray's _An Elegy Wrote in a Country Church Yard_ (1751); and
+_The Eton College Manuscript_.
+
+32. Prefaces to Fiction; Georges de Scudéry's Preface to _Ibrahim_
+(1674), etc.
+
+33. Henry Gally's _A Critical Essay_ on Characteristic-Writings (1725).
+
+34. Thomas Tyers' A Biographical Sketch of Dr. Samuel Johnson (1785).
+
+35. James Boswell, Andrew Erskine, and George Dempster. _Critical
+Strictures on the New Tragedy of Elvira, Written by Mr. David Mallock_
+(1763).
+
+36. Joseph Harris's _The City Bride_ (1696).
+
+
+=Seventh Year (1952-1953)=
+
+37. Thomas Morrison's _A Pindarick Ode on Painting_ (1767).
+
+38. John Phillips' _A Satyr Against Hypocrites_ (1655).
+
+39. Thomas Warton's _A History of English Poetry_.
+
+40. Edward Bysshe's _The Art of English Poetry_ (1708).
+
+41. Bernard Mandeville's _A Letter to Dion_ (1732).
+
+42. Prefaces to Four Seventeenth-Century Romances.
+
+
+=Eighth Year (1953-1954)=
+
+43. John Baillie's _An Essay on the Sublime_ (1747).
+
+44. Mathias Casimire Sarbiewski's _The Odes of Casimire_, Translated by
+G. Hils (1646).
+
+45. John Robert Scott's _Dissertation on the Progress of the Fine Arts_.
+
+46. Selections from Seventeenth Century Songbooks.
+
+47. Contemporaries of the _Tatler_ and _Spectator_.
+
+48. Samuel Richardson's Introduction to _Pamela_.
+
+
+=Ninth Year (1954-1955)=
+
+49. Two St. Cecilia's Day Sermons (1696-1697).
+
+50. Hervey Aston's _A Sermon Before the Sons of the Clergy_, (1745).
+
+51. Lewis Maidwell's _An Essay upon the Necessity and Excellency of
+Education_ (1705).
+
+52. Pappity Stampoy's _A Collection of Scotch Proverbs_ (1663).
+
+53. Urian Oakes' _The Soveraign Efficacy of Divine Providence_ (1682).
+
+54. Mary Davys' _Familiar Letters Betwixt a Gentleman and a Lady_
+(1725).
+
+
+=Tenth Year (1955-1956)=
+
+55. Samuel Say's _An Essay on the Harmony, Variety, and Power of
+Numbers_ (1745).
+
+56. _Theologia Ruris, sive Schola & Scala Naturae_ (1686).
+
+57. Out of print.
+
+58. Eighteenth-Century Book Illustrations.
+
+59. Samuel Johnson's _Notes to Shakespeare_. Vol. I, Comedies, Part I.
+
+60. Samuel Johnson's _Notes to Shakespeare_. Vol. I, Comedies, Part II.
+
+
+=Eleventh Year (1956-1957)=
+
+61. Elizabeth Elstob's _An Apology for the Study of Northern
+Antiquities_ (1715).
+
+62. _Two Funeral Sermons_ (1635).
+
+63. _Parodies of Ballad Criticism_ (1711-1787).
+
+64. _Prefaces to Three Eighteenth-Century Novels_ (1708, 1751, 1797).
+
+65. Samuel Johnson's _Notes to Shakespeare_. Vol. II, Histories, Part I.
+
+66. Samuel Johnson's _Notes to Shakespeare_. Vol. II, Histories, Part
+II.
+
+
+=Twelfth Year (1957-1958)=
+
+67. Henry Fielding's _The Voyages of Mr. Job Vinegar_ (1740).
+
+68. Elkanah Settle's _The Notorious Impostor_ (1692) and _Diego
+Redivivus_ (1692).
+
+69. _An Historical View of the ... Political Writers in Great Britain_
+(1740).
+
+70. G.W., _Magazine_, or _Animadversions on the English Spelling_
+(1703).
+
+71. Samuel Johnson's _Notes to Shakespeare_. Vol. III, Tragedies, Part
+I.
+
+72. Samuel Johnson's _Notes to Shakespeare._ Vol. III, Tragedies, Part
+II.
+
+
+=Thirteenth Year (1958-1959)=
+
+73. Samuel Johnson's _Notes to Shakespeare_. Vol. III, Tragedies, Part
+III.
+
+74. _Seventeenth-Century Tales of the Supernatural._
+
+75. John Joyne, _A Journal_ (1679).
+
+76. André Dacier. _Preface to Aristotle's Art of Poetry_ (1705).
+
+77-78. David Hartley, _Various Conjectures on the Perception, Motion,
+and Generation of Ideas_ (1746).
+
+
+=Fourteenth Year (1959-1960)=
+
+79. William Herbert, Third Earl of Pembroke's _Poems_ (1660).
+
+80. [P. Whalley's] _An Essay on the Manner of Writing History_ (1746).
+
+81. Two Burlesques of Lord Chesterfield's Letters _The Graces_ (1774)
+_The Fine Gentleman's Etiquette_ (1776).
+
+82. Henry Fuseli's _Remarks on the Writings and Conduct of J. J.
+Rousseau_ (1767).
+
+83. _Sawney and Colley_ (1742) and other Pope Pamphlets.
+
+84. Richard Savage's _An Author To Be Lett_ (1729).
+
+
+=Fifteenth Year (1960-1961)=
+
+85-86. _Essays on the Theatre from Eighteenth-Century Periodicals_.
+Selected, with an introduction, by John Loftis. [double issue]
+
+87. Daniel Defoe, _Of Captain Misson and his Crew_ (1728). Introduction
+by Maximillian E. Novak.
+
+88. Samuel Butler, _Poems_. Selected, with an introduction, by Alexander
+C. Spence.
+
+89. Henry Fielding, _Ovid's Art of Love_ (1760). Introduction by Claude
+E. Jones.
+
+90. Henry Needler, _Works_ (1728). Selected, with an introduction, by
+Marcia Allentuck.
+
+
+       *       *       *       *       *
+
+
+
+William Andrews Clark Memorial Library: University of California
+
+THE AUGUSTAN REPRINT SOCIETY
+
+
+_General Editors_
+
+  R. C. BOYS
+      University of Michigan
+
+  RALPH COHEN
+      University of California, Los Angeles
+
+  VINTON A. DEARING
+      University of California, Los Angeles
+
+  LAWRENCE CLARK POWELL
+      Wm. Andrews Clark Memorial Library
+
+
+_Corresponding Secretary_: Mrs. EDNA C. DAVIS, Wm. Andrews Clark
+Memorial Library
+
+
+The Society's purpose is to publish reprints (usually facsimile
+reproductions) of rare seventeenth and eighteenth century works. All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning subscriptions in the United States and Canada
+should be addressed to the William Andrews Clark Memorial Library, 2205
+West Adams Boulevard, Los Angeles 18, California. Correspondence
+concerning editorial matters may be addressed to any of the general
+editors. The membership fee is $4.00 a year for subscribers in the
+United States and Canada and 15/- for subscribers in Great Britain and
+Europe. British and European subscribers should address B.H. Blackwell,
+Broad Street, Oxford, England.
+
+
+Publications for 1961-1962
+
+John Gay, Alexander Pope, and John Arbuthnot, _Three Hours After
+Marriage_ (1717). Introduction by John Harrington Smith. [double issue]
+
+John Norris, _Cursory Reflections Upon a Book Call'd, An Essay
+Concerning Human Understanding_ (1690). Introduction by Gilbert D.
+McEwen.
+
+An. Collins, _Divine Songs and Meditacions_ (1653). Introduction by
+Stanley Stewart.
+
+An Essay on the _New Species of Writing Founded by_ Mr. _Fielding_
+(1751). Introduction by Alan D. McKillop.
+
+_Hanoverian Ballads._ Selected, with an Introduction, by John J.
+McAleer.
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_WILLIAM ANDREWS CLARK MEMORIAL LIBRARY_
+
+2205 WEST ADAMS BOULEVARD, LOS ANGELES 18, CALIFORNIA
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Three Hours after Marriage, by 
+John Gay and Alexander Pope and John Arbuthnot
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THREE HOURS AFTER MARRIAGE ***
+
+***** This file should be named 37667-8.txt or 37667-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/7/6/6/37667/
+
+Produced by Chris Curnow, Joseph Cooper and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

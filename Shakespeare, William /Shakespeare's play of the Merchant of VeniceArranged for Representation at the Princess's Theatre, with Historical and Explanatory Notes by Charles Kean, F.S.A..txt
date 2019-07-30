@@ -1,0 +1,4311 @@
+The Project Gutenberg eBook, The Merchant of Venice [liberally edited by
+Charles Kean], by William Shakespeare, Edited by Charles Kean
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+
+
+
+Title: The Merchant of Venice [liberally edited by Charles Kean]
+
+Author: William Shakespeare
+
+Release Date: June 10, 2004  [eBook #12578]
+Last updated: May 8, 2012
+
+Language: English
+
+Character set encoding: US-ASCII
+
+
+***START OF THE PROJECT GUTENBERG EBOOK THE MERCHANT OF VENICE [LIBERALLY
+EDITED BY CHARLES KEAN]***
+
+
+E-text prepared by Curtis Weyant, David Starner, Charles Aldarondo, and
+the Project Gutenberg Online Distributed Proofreading Team
+
+
+
+SHAKESPEARE'S PLAY OF THE MERCHANT OF VENICE
+
+Arranged for Representation at the Princess's Theatre,
+With Historical and Explanatory Notes
+by Charles Kean, F.S.A.,
+
+As First Performed on Saturday, June 12th, 1858
+
+Entered at Stationers' Hall
+
+
+
+
+
+
+DRAMATIS PERSONAE.
+
+AS FIRST PERFORMED, SATURDAY, JUNE 12, 1858.
+
+
+DUKE OF VENICE, ........................... Mr. H. MELLON.
+
+PRINCE OF MOROCCO, }                       {Mr. ROLLESTON.
+                   } (Suitors to Portia)   {
+PRINCE OF ARRAGON, }                       {Mr. RAYMOND.
+
+ANTONIO,      (_the Merchant of Venice_)... Mr. GRAHAM.
+
+BASSANIO,      (_his Friend_) ...........   Mr. RYDER.
+
+SALANIO,   }   (_Friends to Antonio and    {Mr. BRAZIER.
+                            Bassanio_.)    {
+
+SALARINO,  }                               {Mr. G. EVERETT.
+
+GRATIANO,  }                               {Mr. WALTER LACY.
+
+LORENZO,      (_in love with Jessica_)....  Mr. J.F. CATHCART.
+
+SHYLOCK,    (_a Jew_)   ..................  Mr. CHARLES KEAN.
+
+TUBAL,    (_a Jew, his Friend_)   ........  Mr. F. COOKE.
+
+LAUNCELOT GOBBO, }   (_a Clown, servant to {Mr. HARLEY
+                             Shylock_)     {
+
+OLD GOBBO,      (_Father to Launcelot_) ..  Mr. MEADOWS.
+
+LEONARDO,  }                                Mr. MORRIS.
+           }  (_Servants to Bassanio_)
+STEPHANO,  }                                Mr. STOAKES.
+
+BALTHAZAR,      (_Servant to Portia_) ....  Mr. DALY.
+
+HERALD, ..................................  Mr. J. COLLETT.
+
+PORTIA,      (_a rich Heiress_) ..........  Mrs. CHARLES KEAN.
+
+NELISSA,      (_her Waiting Maid_) .......  Miss CARLOTTA LECLERCQ.
+
+JESSICA,      (_Daughter to Shylock_) ....  Miss CHAPMAN
+                                            (Her First Appearance).
+
+THE INCIDENTAL MUSIC will be sung by Miss POOLE, Miss LEFFLER,
+Mr. J. COLLETT, Mr. T. YOUNG, and Mr. WALLWORTH.
+
+Magnificoes of Venice, Officers of the Court of Justice, Gaoler,
+Servants, and other Attendants.
+
+
+       *       *       *       *       *
+
+SCENE.--Partly at VENICE; and partly at BELMONT, the Seat of PORTIA, on
+the Continent.
+
+THE SCENERY Painted by Mr. GRIEVE and Mr. TELBIN, Assisted by Mr. W.
+GORDON, Mr. F. LLOYDS, Mr. CUTHBERT, Mr. DAYES, &c.
+
+THE MUSIC under the direction of Mr. J.L. HATTON.
+
+THE DECORATIONS & APPOINTMENTS by Mr. E.W. BRADWELL
+
+The DRESSES by Mrs. and Miss HOGGINS.
+
+THE MACHINERY by Mr. G. HODSDON.
+
+THE DANCES arranged by Mr. CORMACK.
+
+PERRUQUIER; Mr. ASPLIN, of No. 13, New Bond Street
+
+       *       *       *       *       *
+
+For reference to Historical Authorities, see end of each Act.
+
+
+
+
+PREFACE.
+
+
+Venice, "the famous city in the sea," rising like enchantment from the
+waves of the Adriatic, appeals to the imagination through a history
+replete with dramatic incident; wherein power and revolution--conquest
+and conspiracy--mystery and romance--dazzling splendour and judicial
+murder alternate in every page. Thirteen hundred years witnessed the
+growth, maturity, and fall of this once celebrated city; commencing in
+the fifth century, when thousands of terrified fugitives sought refuge
+in its numerous islands from the dreaded presence of Attila; and
+terminating when the last of the Doges, in 1797, lowered for ever the
+standard of St. Mark before the cannon of victorious Buonaparte. Venice
+was born and died in fear. To every English mind, the Queen of the
+Adriatic is endeared by the genius of our own Shakespeare. Who that has
+trod the great public square, with its mosque-like cathedral, has not
+pictured to himself the forms of the heroic Moor and the gentle
+Desdemona? Who that has landed from his gondola to pace the Rialto, has
+not brought before his "mind's eye," the scowling brow of Shylock, when
+proposing the bond of blood to his unsuspecting victim? Shakespeare may
+or may not have derived his plot of _The Merchant of Venice_, as some
+suppose, from two separate stories contained in Italian novels; but if
+such be the fact, he has so interwoven the double interest, that the two
+currents flow naturally into a stream of unity.
+
+In this play Shakespeare has bequeathed to posterity one of his most
+perfect works--powerful in its effect, and marvellous in its ingenuity.
+While the language of the Jew is characterized by an assumption of
+biblical phraseology, the appeal of Portia to the quality of mercy is
+invested with a heavenly eloquence elevating the poet to sublimity.
+
+From the opening to the closing scene,--from the moment when we hear of
+the sadness, prophetic of evil, which depresses the spirit of Antonio,
+till we listen at the last to the "playful prattling of two lovers in a
+summer's evening," whose soft cadences are breathed through strains of
+music,--all is a rapid succession of hope, fear, terror, and gladness;
+exciting our sympathies now for the result of the merchant's danger; now
+for the solution of a riddle on which hangs the fate of the wealthy
+heiress; and now for the fugitive Jessica, who resigns her creed at the
+shrine of womanly affection.
+
+In the production of _The Merchant of Venice_ it has been my object to
+combine with the poet's art a faithful representation of the picturesque
+city; to render it again palpable to the traveller who actually gazed
+upon the seat of its departed glory; and, at the same time, to exhibit
+it to the student, who has never visited this once
+
+    "--pleasant place of all festivity,
+    The revel of the earth, the masque of Italy."
+
+The far-famed place of St. Mark, with its ancient Church, the Rialto and
+its Bridge, the Canals and Gondolas, the Historic Columns, the Ducal
+Palace, and the Council Chamber, are successively presented to the
+spectator. Venice is re-peopled with the past, affording truth to the
+eye, and reflection to the mind.
+
+The introduction of the Princes of Morocco and Arragon at Belmont,
+hitherto omitted, is restored, for the purpose of more strictly adhering
+to the author's text, and of heightening the interest attached to the
+episode of the caskets.
+
+The costumes and customs are represented as existing about the year
+1600, when Shakespeare wrote the play. The dresses are chiefly selected
+from a work by Cesare Vecellio, entitled "Degli Habiti Antichi e Moderni
+di diverse Parti del Mondo. In Venetia, 1590;" as well as from other
+sources to be found in the British Museum, whence I derive my authority
+for the procession of the Doge in the first scene. If the stage is to
+be considered and upheld as an institution from which instructive and
+intellectual enjoyment may be derived, it is to Shakespeare we must look
+as the principal teacher, to inculcate its most valuable lessons. It is,
+therefore, a cause of self-gratulation, that I have on many occasions
+been able, successfully, to present some of the works of the greatest
+dramatic genius the world has known, to more of my countrymen than have
+ever witnessed them within the same space of time; and let me hope it
+will not be deemed presumptuous to record the pride I feel at having
+been so fortunate a medium between our national poet and the people of
+England.
+
+CHARLES KEAN.
+
+THE MERCHANT OF VENICE.
+
+
+
+
+
+ACT I.
+
+
+
+
+SCENE I.--VENICE.(A) SAINT MARK'S PLACE.(B)
+
+
+_Various groups of Nobles, Citizens, Merchants, Foreigners,
+Water-Carriers, Flower Girls, &c., pass and repass. Procession of the
+Doge, in state, across the square_.[1]
+
+ANTONIO, SALARINO, _and_ SALANIO _come forward_.
+
+_Ant_. In sooth, I know not why I am so sad;
+It wearies me; you say, it wearies you;
+But how I caught it, found it, or came by it,
+What stuff 'tis made of, whereof it is born,
+I am to learn;
+And such a want-wit sadness makes of me,
+That I have much ado to know myself.
+
+_Salar_. Your mind is tossing on the ocean;
+There, where your argosies[2] with portly sail,
+Like signiors and rich burghers on the flood,
+Do overpeer the petty traffickers,
+That curt'sy to them, do them reverence,
+As they fly by them with their woven wings.
+
+_Sal_. Believe me, Sir, had I such venture forth,
+The better part of my affections would
+Be with my hopes abroad. I should be still
+Plucking the grass,[3] to know where sits the wind;
+Peering in maps, for ports, and piers, and roads;
+And every object that might make me fear
+Misfortune to my ventures, out of doubt,
+Would make me sad.
+
+_Salar_. My wind, cooling my broth,
+Would blow me to an ague, when I thought
+What harm a wind too great might do at sea.
+I should not see the sandy hour-glass run,
+But I should think of shallows and of flats;
+And see my wealthy Andrew[4] dock'd in sand,
+Vailing her high-top[5] lower than her ribs,
+To kiss her burial.
+Shall I have the thought
+To think on this? and shall I lack the thought
+That such a thing, bechanc'd, would make me sad?
+But tell not me; I know Antonio
+Is sad to think upon his merchandize.
+
+_Ant_. Believe me, no: I thank my fortune for it,
+My ventures are not in one bottom trusted,
+Nor to one place; nor is my whole estate
+Upon the fortune of this present year:
+Therefore my merchandize makes me not sad.
+
+_Salar_. Why, then, you are in love.
+
+_Ant_. Fie, fie!
+
+_Salar_. Not in love, neither? Then let us say you are sad,
+Because you are not merry: an 'twere as easy
+For you to laugh and leap, and say you are merry,
+Because you are not sad.
+
+_Sal_. Here comes Bassanio, your most noble kinsman,
+Gratiano, and Lorenzo: Fare you well;
+We leave you now with better company.
+
+_Salar_. I would have staid till I had made you merry,
+If worthier friends had not prevented me.
+
+_Ant_. Your worth is very dear in my regard.
+I take it your own business calls on you,
+And you embrace the occasion to depart.
+
+_Enter_ BASSANIO, LORENZO, _and_ GRATIANO.
+
+_Salar_. Good morrow, my good lords.
+
+_Bas_. Good signiors, both, when shall we laugh? Say, when?
+You grow exceeding strange: Must it be so?
+
+_Salar_. We'll make our leisures to attend on yours.
+
+[_Exeunt_ SALARINO _and_ SALANIO.
+
+_Lor_. My lord Bassanio, since you have found Antonio,
+We two will leave you; but at dinner-time
+I pray you have in mind where we must meet.
+
+_Bas_. I will not fail you.
+
+_Gra_. You look not well, Signor Antonio;
+You have too much respect upon the world:
+They lose it that do buy it with much care.
+Believe me, you are marvellously chang'd.
+
+_Ant_. I hold the world but as the world, Gratiano;
+A stage, where every man must play a part,
+And mine a sad one.
+
+_Gra_. Let me play the fool:[6]
+With mirth and laughter let old wrinkles come;
+And let my liver rather heat with wine,
+Than my heart cool with mortifying groans.
+Why should a man, whose blood is warm within,
+Sit like his grandsire, cut in alabaster?
+Sleep when he wakes? and creep into the jaundice
+By being peevish? I tell thee what, Antonio,
+I love thee, and it is my love that speaks;--
+There are a sort of men, whose visages
+Do cream[7] and mantle like a standing pond:
+And do a wilful stillness entertain,[8]
+With purpose to be dress'd in an opinion
+Of wisdom, gravity, profound conceit;
+As who should say, '_I am Sir Oracle_,
+_And when I ope my lips let no dog bark!_'[9]
+O, my Antonio, I do know of these,
+That therefore only are reputed wise
+For saying nothing; when I am very sure,
+If they should speak, 'twould almost damn those ears[10]
+Which, hearing them, would call their brothers fools.
+I'll tell thee more of this another time:
+But fish not with this melancholy bait,
+For this fool gudgeon, this opinion.
+Come, good Lorenzo:--Fare ye well, a while;
+I'll end my exhortation after dinner.[11]
+
+_Lor_. Well, we will leave you, then, till dinner-time:
+I must be one of these same dumb wise men,
+For Gratiano never lets me speak.
+
+_Gra_. Well, keep me company but two years more,
+Thou shalt not know the sound of thine own tongue.
+
+_Ant_. Farewell: I'll grow a talker for this gear.[12]
+
+_Gra_. Thanks, i'faith; for silence is only commendable
+In a neat's tongue dried,[13] and a maid not vendible.
+
+[_Exeunt_ GRATIANO _and_ LORENZO.
+
+_Ant_. Is that any thing now?
+
+_Bas_. Gratiano speaks an infinite deal of nothing, more than any man
+in all Venice. His reasons are as two grains of wheat hid in two bushels
+of chaff; you shall seek all day ere you find them; and when you have
+them they are not worth the search.
+
+_Ant_. Well; tell me now, what lady is the same
+To whom you swore a secret pilgrimage,
+That you to-day promis'd to tell me of?
+
+_Bas_. 'Tis not unknown to you, Antonio,
+How much I have disabled mine estate,
+By something showing a more swelling port[14]
+Than my faint means would grant continuance.
+To you, Antonio, I owe the most in money and in love;
+And from your love I have a warranty
+To unburthen all my plots and purposes,
+How to get clear of all the debts I owe.
+
+_Ant_. I pray you, good Bassanio, let me know it;
+And, if it stand, as you yourself still do,
+Within the eye of honour, be assur'd
+My purse, my person, my extremest means,
+Lie all unlock'd to your occasions.
+
+_Bas_. In my school-days, when I had lost one shaft
+I shot his fellow of the self-same flight
+The self-same way, with more advised watch
+To find the other forth; and by adventuring both
+I oft found both. I urge this childhood proof,
+Because what follows is pure innocence.
+I owe you much; and, like a wasteful youth,
+That which I owe is lost: but if you please
+To shoot another arrow that self way
+Which you did shoot the first, I do not doubt,
+As I will watch the aim, or to find both,
+Or bring your latter hazard back again,
+And thankfully rest debtor for the first.
+
+_Ant_. You know me well; and herein spend but time,
+To wind about my love with circumstance;
+Then do but say to me what I should do,
+That in your knowledge may by me be done,
+And I am prest unto it:[15] therefore speak.
+
+_Bas_. In Belmont is a lady richly left,
+And she is fair, and, fairer than that word,
+Of wond'rous virtues. Sometimes[16] from her eyes
+I did receive fair speechless messages:
+Her name is Portia; nothing undervalued
+To Cato's daughter, Brutus' Portia.
+Nor is the wide world ignorant of her worth;
+For the four winds blow in from every coast
+Renowned suitors.
+O, my Antonio! had I but the means
+To hold a rival place with one of them,
+I have a mind presages me such thrift,
+That I should questionless be fortunate.
+
+_Ant_. Thou know'st that all my fortunes are at sea;
+Neither have I money, nor commodity
+To raise a present sum: therefore go forth,
+Try what my credit can in Venice do;
+That shall be rack'd, even to the uttermost,
+To furnish thee to Belmont, to fair Portia.
+Go, presently inquire, and so will I,
+Where money is; and I no question make,
+To have it of my trust, or for my sake.
+
+[_Exeunt_.
+
+FOOTNOTES:
+
+[Footnote 1: This procession is copied from a print in the British
+Museum, by Josse Amman, who died in 1591.]
+
+[Footnote 2: _--argosies_; A name given, in our author's time, to ships
+of great burthen. The name is supposed by some to be derived from the
+classical ship, Argo, as a vessel eminently famous.]
+
+[Footnote 3: _Plucking the_; By holding up the grass, or any light body
+that will bend by a gentle blast, the direction of the wind is found.]
+
+[Footnote 4: _--my wealthy Andrew_; The name of the ship.]
+
+[Footnote 5: Vailing _her high-top_; To _vail_ is "_to lower_," or "_let
+fall_."]
+
+[Footnote 6: _Let me play the fool_; Alluding to the common comparison
+of human life to a stage-play. So that he desires his may be the fool's
+or buffoon's part, which was a constant character in the old farces;
+from whence came the phrase, _to play the fool_.--WARBURTON.]
+
+[Footnote 7: _--whose visages do_ cream; The poet here alludes to the
+manner in which the film extends itself over milk in scalding; and he
+had the same appearance in his eye when writing a foregoing line: "_With
+mirth and laughter let old wrinkles come_."--HENLEY.]
+
+[Footnote 8: _--a wilful stillness entertain,; Id est_, an obstinate
+silence.]
+
+[Footnote 9: _let no dog bark_!; This seems to be a proverbial
+expression.]
+
+[Footnote 10: _--'twould almost damn those ears_; The author's meaning
+is this:--That some people are thought wise whilst they keep silence;
+who, when they open their mouths, are such stupid praters, that the
+hearers cannot help calling them _fools_, and so incur the judgment
+denounced in the Gospel.--THEOBALD.]
+
+[Footnote 11: _I'll end my exhortation after dinner_.'; The humour of
+this consists in its being an allusion to the practice of the Puritan
+preachers of those times, who being generally very long and tedious,
+were often forced to put off that part of their sermon called the
+_exhortation_, till after dinner.--WARBURTON.]
+
+[Footnote 12: _--for this gear_.; A colloquial expression, meaning _for
+this matter_.]
+
+[Footnote 13: _In a_ neat's _tongue dried_,; Neat, horned cattle of the
+Ox species.]
+
+[Footnote 14: _--a more swelling port; Port_, in the present instance,
+comprehends the idea of expensive equipage, and external pomp of
+appearance.]
+
+
+
+
+SCENE II.--BELMONT. A ROOM IN PORTIA'S HOUSE.
+
+
+_Enter_ PORTIA _and_ NERISSA.
+
+_Por_. By my troth, Nerissa, my little body is a-weary of this great
+world.
+
+_Ner_. You would be, sweet madam, if your miseries were in the same
+abundance as your good fortunes are. And yet, for aught I see, they are
+as sick that surfeit with too much, as they that starve with nothing. It
+is no small happiness, therefore, to be seated in the mean; superfluity
+comes sooner by white hairs,[17] but competency lives longer.
+
+_Por_. Good sentences, and well pronounced.
+
+_Ner_. They would be better, if well followed.
+
+_Por_. If to do were as easy as to know what were good to do, chapels
+had been churches, and poor men's cottages princes' palaces. It is a
+good divine that follows his own instructions: I can easier teach twenty
+what were good to be done, than be one of the twenty to follow mine own
+teaching. But this reasoning is not in the fashion to choose me a
+husband:--O me, the word choose! I may neither choose whom I would, nor
+refuse whom I dislike, so is the will of a living daughter curb'd by the
+will of a dead father:--Is it not hard, Nerissa, that I cannot choose
+one, nor refuse none?
+
+_Ner_. Your father was ever virtuous; and holy men at their death have
+good inspirations; therefore, the lottery that he hath devised in these
+three chests, of gold, silver, and lead (whereof who chooses his meaning
+chooses you), will, no doubt, never be chosen by any rightly, but one
+who you shall rightly love. But what warmth is there in your affection
+towards any of these princely suitors that are already come?
+
+_Por_. I pray thee, over-name them; and as thou namest them I will
+describe them; and according to my description level at my affection.
+
+_Ner_. First, there is the Neapolitan prince.[18]
+
+_Por_. Ay, that's a colt, indeed, for he doth nothing but talk of his
+horse,[19] and he makes it a great approbation of his own good parts
+that he can shoe him himself.
+
+_Ner_. Then, is there the county Palatine.[20]
+
+_Por_. He doth nothing but frown; as who should say, '_An you will not
+have me, choose;_' he hears merry tales, and smiles not: I fear he will
+prove the weeping philosopher when he grows old, being so full of
+unmannerly sadness in his youth. I had rather to be married to a death's
+head with a bone in his mouth, than to either of these. Heaven defend me
+from these two!
+
+_Ner_. How say you by the French lord, Monsieur Le Bon?
+
+_Por_. Heaven made him, and therefore let him pass for a man.
+
+_Ner_. How like you the young German, the Duke of Saxony's nephew?[21]
+
+_Por_. Very vilely in the morning, when he is sober; and most vilely in
+the afternoon, when he is drunk: when he is best he is a little worse
+than a man; and when he is worst he is little better than a beast: an
+the worst fall that ever fell, I hope I shall make shift to go without
+him.
+
+
+_Ner_. If he should offer to choose, and choose the right casket, you
+should refuse to perform your father's will if you should refuse to
+accept him.
+
+_Por_. Therefore, for fear of the worst, I pray thee set a deep glass of
+Rhenish wine on the contrary casket; for, if the devil be within, and
+that temptation without, I know he will choose it.
+
+_Ner_. You need not fear, lady, the having any of these lords; they have
+acquainted me with their determinations: which is, indeed, to return to
+their home and to trouble you with no more suit; unless you may be won
+by some other sort than your father's imposition, depending on the
+caskets.
+
+_Por_. I am glad this parcel of wooers are so reasonable; for there is
+not one among them but I dote on his very absence, and I wish them a
+fair departure.
+
+_Ner_. Do you not remember, lady, in your father's time, a Venetian, a
+scholar, and a soldier, that came hither in company of the Marquis of
+Montferrat?
+
+_Por_. Yes, yes, it was Bassanio; as I think so was he called.
+
+_Ner_. True, madam; he, of all the men that ever my foolish eyes looked
+upon was the best deserving a fair lady.
+
+_Por_. I remember him well; and I remember him worthy of thy
+praise.--How now?--What news?
+
+_Enter_ BALTHAZAR.
+
+_Ser_. The four strangers seek you, madam, to take their leave: and
+there is a fore-runner come from a fifth, the prince of Morocco; who
+brings word the prince, his master, will be here to-night.
+
+_Por_. If I could bid the fifth welcome with so good heart as I can bid
+the other four farewell, I should be glad of his approach.
+
+Come, Nerissa. Sirrah, go before.
+
+Whiles we shut the gate upon one wooer, another knocks at the door.
+
+[_Exeunt_.
+
+FOOTNOTES:
+
+[Footnote 15: _--I am prest unto it:_; Ready.]
+
+[Footnote 16: _--Sometimes from her eyes_; In old English, _sometimes_
+is synonymous with _formerly; id est_, some time ago, at a certain time.
+It appears by the subsequent scene, that Bassanio was at Belmont with
+the Marquis de Montferrat, and saw Portia in her father's lifetime.]
+
+[Footnote 17: _--superfluity comes sooner by white hairs,_; _Id est_,
+superfluity sooner _acquires_ white hairs--becomes old. We still say,
+how did he _come by it_--MALONE.]
+
+[Footnote 18: _--the Neapolitan prince_.; The Neapolitans in the time of
+Shakespeare were eminently skilled in all that belonged to
+horsemanship.]
+
+[Footnote 19: _--that's a_ colt, _indeed, for he doth nothing but talk
+of his horse,_; _Colt_ is used for a restless, heady, gay youngster,
+whence the phrase used of an old man too juvenile, that he still retains
+his _colt's tooth_.--JOHNSON.]
+
+[Footnote 20: _--the county Palatine_.; Shakespeare has more allusions
+to particular facts and persons than his readers commonly suppose. The
+Count here mentioned was, perhaps, Albertus Alasco, a Polish Palatine,
+who visited England in our author's lifetime, was eagerly caressed and
+splendidly entertained, but, running in debt, at last stole away, and
+endeavoured to repair his fortune by enchantment.--JOHNSON.
+
+County and Count in old language, were synonymous. The Count Albertus
+Alasco was in London in 1583.]
+
+[Footnote 21: _--the young German, the Duke of Saxony's nephew_.; In
+Shakespeare's time the Duke of Bavaria visited London, and was made
+Knight of the Garter. Perhaps in this enumeration of Portia's suitors,
+there may be some covert allusion to those of Queen Elizabeth.--JOHNSON]
+
+
+
+
+SCENE III.--THE MERCHANT'S EXCHANGE ON THE RIALTO ISLAND.(c) SAN
+JACOPO, THE MOST ANCIENT CHURCH IN VENICE, OCCUPIES ONE SIDE OF THE
+SQUARE.
+
+
+_Enter_ BASSANIO _and_ SHYLOCK. (D)
+
+_Shy_. Three thousand ducats,--well,
+
+_Bas_. Ay, sir, for three months.
+
+_Shy_. For three months,--well.
+
+_Bas_. For the which, as I told you, Antonio shall be bound.
+
+_Shy_. Antonio shall become bound,--well.
+
+_Bas_. May you stead me? Will you pleasure me? Shall I know your answer?
+
+_Shy_. Three thousand ducats, for three months, and Antonio bound.
+
+_Bas_. Your answer to that.
+
+_Shy_. Antonio is a good man.
+
+_Bas_. Have you heard any imputation to the contrary?
+
+_Shy_. Oh no, no, no, no;--my meaning in saying he is a good man is, to
+have you understand me that he is sufficient; yet his means are in
+supposition: he hath an argosy bound to Tripolis, another to the Indies;
+I understand, moreover, upon the Rialto, he hath a third at Mexico, a
+fourth for England; and other ventures he hath, squander'd abroad.[22]
+But ships are but boards, sailors but men: there be land rats and water
+rats, land thieves and water thieves; I mean, pirates; and then, there
+is the peril of waters, winds, and rocks: The man is, notwithstanding,
+sufficient;--three thousand ducats;--I think I may take his bond.
+
+_Bas_. Be assured you may.
+
+_Shy_. I will be assured I may; and that I may be assured I will bethink
+me: May I speak with Antonio?
+
+_Bas_. If it please you to dine with us.
+
+_Shy_. Yes, to smell pork; to eat of the habitation which your prophet,
+the Nazarite, conjured the devil into![23] I will buy with you, sell
+with you, talk with you, walk with you, and so following; but I will not
+eat with you, drink with you, nor pray with you.--What news on the
+Rialto?--Who is he comes here?
+
+_Bas_. This is signior Antonio.
+
+[Exit_ BASSANIO.
+
+_Shy. (aside.)_ How like a fawning publican he looks!
+I hate him, for he is a Christian:
+But more, for that, in low simplicity,
+He lends out money gratis, and brings down
+The rate of usance here with us in Venice. (E)
+If I can catch him once upon the hip,[24]
+I will feed fat the ancient grudge I bear him.
+He hates our sacred nation: and he rails
+Even there where merchants most do congregate,
+On me, my bargains, and my well-won thrift.
+Which he calls interest: Cursed be my tribe
+If I forgive him!
+
+_Re-enter_ BASSANIO _with_ ANTONIO.
+
+_Bas_. Shylock, do you hear?
+
+_Shy_. I am debating of my present store;
+And, by the near guess of my memory,
+I cannot instantly raise up the gross
+Of full three thousand ducats: What of that?
+Tubal, a wealthy Hebrew of my tribe,
+Will furnish me: But soft: How many months
+Do you desire?--Rest you fair, good signior:
+
+[To ANTONIO.
+
+Your worship was the last man in our mouths.
+
+_Ant_. Shylock, albeit, I neither lend nor borrow,
+By taking, nor by giving of excess.
+Yet, to supply the ripe wants of my friend,[25]
+I'll break a custom:---Is he yet possess'd[26]
+How much you would?
+
+_Shy_. Ay, ay, three thousand ducats.
+
+_Ant_. And for three months.
+
+_Shy_. I had forgot,--three months, you told me so.
+Well then, your bond; and, let me see. But hear you:
+Methought you said, you neither lend nor borrow,
+Upon advantage.
+
+_Ant_. I do never use it.
+
+_Shy_. When Jacob graz'd his uncle Laban's sheep,
+This Jacob from our holy Abraham was
+(As his wise mother wrought in his behalf)
+The third possessor; ay, he was the third.
+
+_Ant_. And what of him? did he take interest?
+
+_Shy_. No, not take interest; not, as you would say,
+Directly interest: mark what Jacob did.
+When Laban and himself were compromis'd
+That all the eanlings[27] which were streak'd and pied
+Should fall, as Jacob's hire;
+The skilful shepherd peel'd me certain wands,[28]
+And, in the doing of the deed of kind,[29]
+He stuck them up before the fulsome ewes;[30]
+Who, then conceiving, did in eaning-time
+Fall[31] party-coloured lambs, and those were Jacob's.[32]
+This was a way to thrive, and he was blest;
+And thrift is blessing, if men steal it not.
+
+_Ant_. This was a venture, Sir, that Jacob serv'd for;
+A thing not in his power to bring to pass,
+But sway'd and fashion'd by the hand of Heaven.
+Was this inserted to make interest good?
+Or is your gold and silver ewes and rams?
+
+_Shy_. I cannot tell; I make it breed as fast.
+
+_Ant_. Mark you this, Bassanio,
+The devil can cite scripture for his purpose.[33]
+An evil soul producing holy witness
+Is like a villain with a smiling cheek;
+A goodly apple rotten at the heart;
+O, what a goodly outside falsehood hath![34]
+
+_Shy_. Three thousand ducats,--'tis a good round sum.
+Three months from twelve, then let me see the rate.
+
+_Ant_. Well, Shylock, shall we be beholden to you?
+
+_Shy_. Signior Antonio, many a time and oft
+In the Rialto you have rated me
+About my monies, and my usances:[35]
+Still have I borne it with a patient shrug;
+For sufferance is the badge of all our tribe:
+You call me misbeliever, cut-throat dog,
+And spet upon my Jewish gaberdine,
+And all for use of that which is mine own.
+Well, then, it now appears you need my help:
+Go to, then; you come to me, and you say,
+'_Shylock, we would have monies_;' You say so;
+You, that did void your rheum upon my beard,
+And foot me, as you spurn a stranger cur
+Over your threshhold; monies is your suit,
+What should I say to you? Should I not say
+'_Hath a dog money? is it possible
+A cur can lend three thousand ducats?_' or
+Shall I bend low, and in a bondman's key,
+With 'bated breath, and whispering humbleness,
+Say this,--
+'_Fair Sir, you spet on me on Wednesday last;
+You spurn'd me such a day; another time
+You call'd me dog; and for these courtesies
+I'll lend you thus much monies?_'
+
+_Ant_. I am as like to call thee so again,
+To spet on thee again, to spurn thee too.
+If thou wilt lend this money, lend it not
+As to thy friends; (for when did friendship take
+A breed of barren metal of his friend?)[36]
+But lend it rather to thine enemy;
+Who, if he break, thou may'st with better face
+Exact the penalties.
+
+_Shy_. Why, look you, how you storm!
+I would be friends with you, and have your love;
+Forget the shames that you have stain'd me with;
+Supply your present wants, and take no doit
+Of usance for my monies, and you'll not hear me:
+This is kind I offer.
+
+_Ant_. This were kindness.
+
+_Shy_. This kindness will I show:
+Go with me to a notary: seal me there
+Your single bond; and, in a merry sport,
+If you repay me not on such a day,
+In such a place, such sum, or sums, as are
+Express'd in the condition, let the forfeit
+Be nominated for an equal pound
+Of your fair flesh, to be cut off and taken
+In what part of your body pleaseth me.
+
+_Ant_. Content, in faith; I'll seal to such a bond,
+And say, there is much kindness in the Jew.
+
+_Bas_. You shall not seal to such a bond for me
+I'll rather dwell[37] in my necessity.
+
+_Ant_. Why, fear not, man; I will not forfeit it;
+Within these two months, that's a month before
+This bond expires, I do expect return
+Of thrice three times the value of this bond.
+
+_Shy_. O father Abraham, what these Christians are.
+Whose own hard dealings teaches them suspect
+The thoughts of others! Pray you, tell me this
+If he should break his day, what should I gain
+By the exaction of the forfeiture?
+A pound of man's flesh, taken from a man,
+Is not so estimable, profitable neither,
+As flesh of muttons, beefs, or goats. I say,
+To buy his favour I extend this friendship;
+If he will take it, so; if not, adieu;
+And, for my love, I pray you wrong me not.
+
+_Ant_. Yes, Shylock, I will seal unto this bond.
+
+_Shy_. Then meet me forthwith at the notary's;
+Give him direction for this merry bond,
+And I will go and purse the ducats straight;
+See to my house, left in the fearful guard[38]
+Of an unthrifty knave; and presently
+I will be with you.
+
+[_Exit_.
+
+_Ant_. Hie thee, gentle Jew.
+This Hebrew will turn Christian; he grows kind.
+
+_Bas_. I like not fair terms[39] and a villain's mind.
+
+_Ant_. Come, on; in this there can be no dismay,
+My ships come home a month before the day.
+
+[_Exeunt_.
+
+FOOTNOTES:
+
+[Footnote 22: _--squander'd abroad_.; Scattered.]
+
+[Footnote 23: _to eat of the habitation which your prophet, the
+Nazarite, conjured the devil into!_; See 8th. c. St. Matthew, v. 30.]
+
+[Footnote 24: _catch him once upon the hip_,; Dr. Johnson says the
+expression is taken from the practice of wrestling.]
+
+[Footnote 25: _--ripe wants of my friend_,; Wants come to the
+height--wants that can have no longer delay.]
+
+[Footnote 26: _--Is he yet possess'd; Id est_, acquainted--informed.]
+
+[Footnote 27: _--eanlings_; Lambs just dropt.]
+
+[Footnote 28: _--certain wands_,; A _wand_ in Shakespeare's time was the
+usual term for what we now call a _switch_.--MALONE.]
+
+[Footnote 29: _--deed of kind,; Id est,_ of nature.]
+
+[Footnote 30: _--the fulsome ewes_; Lascivious--rank, obscene ewes.]
+
+[Footnote 31: _--Fall_; To let fall.]
+
+[Footnote 32: _--and those were Jacob's_.; See Genesis xxx. 37.]
+
+[Footnote 33: _The devil can cite scripture for his purpose_.; See St.
+Matthew iv. 6.]
+
+[Footnote 34: _O, what a goodly outside falsehood hath!_; _Falsehood_,
+which, as _truth_ means _honesty_, is taken here for _treachery_ and
+_knavery_, does not stand for _falsehood_ in general, but for the
+dishonesty now operating.--JOHNSON.]
+
+[Footnote 35: _--and my usances:_; _Usance_ in our author's time
+signified _interest of money_.]
+
+[Footnote 36: _A breed of barren metal of his friend?_; A _breed_, that
+is, interest money bred from the principal. The epithet _barren_ implies
+that money is a _barren_ thing, and cannot, like corn and cattle,
+multiply itself.]
+
+[Footnote 37: _Dwell_; Continue.]
+
+[Footnote 38: _--fearful guard_; A guard not to be trusted, but gives
+cause of fear.]
+
+[Footnote 39: _I like not fair terms_; Kind words--good language.]
+
+
+
+
+SCENE IV.--SALOON OF THE CASKETS IN PORTIA'S HOUSE, AT BELMONT.
+
+
+_Flourish of Cornets. Enter the_ PRINCE OF MOROCCO, _and his Train_;
+PORTIA, NERISSA, _and other of her Attendants_.
+
+_Mor_. Mislike me not for my complexion,
+The shadow'd livery of the burning sun,
+To whom I am a neighbour, and near bred.
+Bring me the fairest creature northward born,
+Where Phoebus' fire scarce thaws the icicles,
+And let us make incision for your love,
+To prove whose blood is reddest, his or mine.[40]
+By love, I swear, I would not change this hue,
+Except to steal your thoughts, my gentle queen.
+I'll try my fortune;
+E'en though I may (blind fortune leading me)
+Miss that which one unworthier may attain,
+And die with grieving.
+
+_Por_. You must take your chance;
+And either not attempt to choose at all,
+Or swear, before you choose,--if you choose wrong,
+Never to speak to lady afterward
+In way of marriage; therefore be advis'd.[41]
+
+_Mor_. Nor will not; come, bring me unto my chance.
+How shall I know if I do choose the right?
+
+_Por_. The one of them contains my picture, prince;
+If you choose that, then I am yours withal.
+
+_Mor_. Some god direct my judgment! Let me see.
+The first, of gold, who this inscription bears:
+
+    "Who chooseth me shall gain what many men desire."
+
+The second, silver, which this promise carries:
+
+    "Who chooseth me shall get as much as he deserves."
+
+The third, dull lead, with warning all as blunt:[42]
+
+    "Who chooseth me must give and hazard all he hath."
+
+One of these three contains her heavenly picture.
+Is't like that lead contains her? 'Twere perdition
+To think so base a thought;
+Or shall I think in silver she's immur'd,
+Being ten times undervalued to tried gold?
+O sinful thought. Never so rich a gem
+Was set in worse than gold.
+Deliver me the key;
+Here do I choose, and thrive I as I may!
+
+_Por_. There, take it prince, and if my form lie there,
+Then I am yours.
+
+[_He unlocks the golden casket_.
+
+_Mor_. What have we here?
+A carrion death, within whose empty eye
+There is a written scroll. I'll read the writing.
+
+    "All that glitters is not gold,
+    Often have you heard that told:
+
+    "Had you been as wise as bold,
+    Young in limbs, in judgment old,
+    Your answer had not been inscrol'd:
+    Fare you well; your suit is cold."
+
+Cold, indeed; and labour lost:
+Then, farewell, heat; and welcome frost--Portia,
+adieu! I have too griev'd a heart
+To take a tedious leave: thus losers part.
+
+[_Exit_.
+
+_Por_. A gentle riddance:--go:--
+Let all of his complexion choose me so.
+
+END OF ACT FIRST.
+
+FOOTNOTES:
+
+[Footnote 40: _--whose blood is reddest, his, or mine_.; _Red_ blood is
+a traditionary sign of courage, as cowards are said to have livers as
+white as milk. It is customary in the East for lovers to testify the
+violence of their passion by cutting themselves in the sight of their
+mistresses.--PICART'S RELIGIOUS CEREMONIES.]
+
+[Footnote 41: _--therefore be advis'd_.; Therefore be not precipitant;
+consider well what you are about to do.]
+
+[Footnote 42: _--with warning all as blunt:_; That is, as gross as the
+dull metal.]
+
+
+
+
+HISTORICAL NOTES TO ACT FIRST.
+
+
+(A) The foundation of Venice is attributed to the inhabitants of the
+surrounding districts, who fled from the cruelty of Attila, King of the
+Huns, and took refuge among the islets at the mouth of the Brenta. Here,
+about the middle of the fifth century, they founded two small towns,
+called Rivoalto and Malmocco, and, being in a manner shut out from all
+other modes of employment, naturally devoted themselves to commerce. In
+this way they soon became prosperous, and their numbers increased so
+rapidly, that in the year 697 they made application to the Emperor to be
+elected into a body politic, and obtained authority to elect a chief, to
+whom they gave the name of Duke or Doge. The town, continuing to
+increase, gradually extended its buildings to the adjacent islands, and,
+at the same time, acquired considerable tracts of territory on the
+mainland, then inhabited by the Veneti, from whence the rising city is
+supposed to have borrowed its name of Venetia or Venice.
+
+(B) This is the heart of Venice, and is one of the most imposing
+architectural objects in Europe. Three of the sides are occupied by
+ranges of lofty buildings, which are connected by a succession of
+covered walk; or arcades. The church of St Mark, founded in the year
+828, closes up the square on the east. The lofty Campanile, or
+Bell-tower, over 300 feet in height, was begun A.D. 902, and finished in
+1155.
+
+In the reign of Justiniani Participazio, A.D. 827, the son and
+Successor of Angelo, undistinguished by events of more important
+character, the Venetians became possessed of the relics of that saint to
+whom they ever afterwards appealed as the great patron of their state
+and city. These remains were obtained from Alexandria by a pious
+stratagem, at a time when the church wherein they were originally
+deposited was about to be destroyed, in order that its rich marbles
+might be applied to the decoration of a palace. At that fortunate
+season, some Venetian ships (it is said no less than ten, a fact proving
+the prosperous extent of their early commerce) happened to be trading in
+that port; and their captains, though not without much difficulty,
+succeeded in obtaining from the priests, who had the custody of the holy
+treasure, its deliverance into their hands, in order that it might
+escape profanation. It was necessary, however, that this transfer should
+be made in secrecy; for we are assured by Sabellico, who relates the
+occurrence minutely, that the miracles which had been daily wrought at
+the saint's shrine had strongly attached the populace to his memory. The
+priests carefully opened the cerements in which the body was enveloped;
+and considering, doubtless, that one dead saint possessed no less
+intrinsic virtue and value than another, they very adroitly substituted
+the corpse of a female, Sta. Claudia, in the folds which had been
+occupied by that of St. Mark. But they had widely erred in their
+graduation of the scale of beatitude. So great was the odour of superior
+sanctity, that a rich perfume diffused itself through the church at the
+moment at which the grave-clothes of the evangelist were disturbed; and
+the holy robbery was well nigh betrayed to the eager crowd of
+worshippers, who, attracted by the sweet smell, thronged to inspect the
+relics, and to ascertain their safety. After examination, they retired,
+satisfied that their favourite saint was inviolate; for the slit which
+the priests had made in his cerements was behind and out of sight. But
+the Venetians still had to protect the embarkation of their prize. For
+this purpose, effectually to prevent all chance of search, they placed
+the body in a large basket stuffed with herbs and covered with joints of
+pork. The porters who bore it were instructed to cry loudly '_Khanzri
+Khanzir!_[43] and every true Mussulman whom they met, carefully avoided
+the uncleanness with which he was threatened by contact with this
+forbidden flesh. Even when once on board, the body was not yet quite
+safe; for accident might reveal the contents of the basket; it was
+therefore wrapt in one of the sails, and hoisted to a yard-arm of the
+main-mast, till the moment of departure. Nor was this precaution
+unnecessary; for the unbelievers instituted a strict search for
+contraband goods before the vessel sailed. During the voyage, the ship
+was in danger from a violent storm; and but for the timely appearance of
+the saint, who warned the captain to furl his sails, she would
+inevitably have been lost. The joy of the Venetians, on the arrival of
+this precious cargo, was manifested by feasting, music, processions, and
+prayers. An ancient tradition was called to mind, that St. Mark, in his
+travels, had visited Aquileia; and having touched also at the Hundred
+Isles, at that time uninhabited, had been informed, in a prophetic
+vision, that his bones should one day repose upon their shores. Venice
+was solemnly consigned to his protection. The saint himself, or his
+lion, was blazoned on her standards and impressed on her coinage; and
+the shout of the populace, whether on occasions of sedition or of joy,
+and the gathering cry of the armies of the republic in battle was,
+henceforward, '_Viva San Marco!'--Sketches of Venetian History_.
+
+(C) This ancient Exchange "where merchants most do congregate," is
+situated on the Rialto Island, its name being derived from "_riva alta,"
+"high shore_." It is a square in the immediate vicinity of the Rialto
+Bridge, and contains the Church of San Jacopo, the first sacred edifice
+built in Venice. The original church was erected in the year 421, and
+the present building in 1194, and was restored in 1531. This island,
+being the largest and most elevated, became the first inhabited, and is,
+therefore, the most ancient part of Venice. The Exchange was held under
+the arcades, facing the church, and was daily crowded with those
+connected with trade and commerce. It is now occupied as a vegetable
+market.
+
+(D) Vecellio informs us that the Jews of Venice differed in nothing, as
+far as regarded dress, from Venetians of the same occupation, with the
+exception of a yellow, or orange tawney coloured bonnet, which they were
+compelled to wear by order of government.
+
+The women were distinguished from the Christian ladies by Wearing yellow
+veils.
+
+Shakespeare is supposed to have taken the name of his Jew from an old
+pamphlet, entitled "Caleb Shillocke, his prophesie; or the Jewes
+Prediction."
+
+(E)
+    "He lends out money gratis, and brings down
+     The rate of usance here with us in Venice."
+
+About the time that Shakespeare lived, Venice had commercial dealings
+with all the civilized nations of the world; and Cyprus, Candia, and the
+Morea were subject to her government. Merchants from all countries
+congregated in Venice, and received every possible encouragement from
+the authorities.
+
+The Jews, under the sanction of government, were the money lenders, and
+were, consequently, much disliked, as well as feared, by their
+mercantile creditors. They indulged in usury to an enormous extent, and
+were immensely rich.
+
+
+
+
+
+ACT II.
+
+
+
+
+SCENE I.--VENICE.(A) EXTERIOR OF SHYLOCK'S HOUSE.
+
+
+_Enter_ LAUNCELOT GOBBO.
+
+_Lau_. Certainly my conscience will serve me to run from this Jew, my
+master: The fiend is at mine elbow, and tempts me; saying to
+me,--_Gobbo, Launcelot Gobbo, good Launcelot, or good Gobbo, or good
+Launcelot Gobbo, use your legs, take the start, run away_:--My
+conscience says,--No: take heed, honest Launcelot; take heed, honest
+Gobbo:_ or (as aforesaid) _honest Launcelot Gobbo; do not run: scorn
+running with thy heels_. Well the most courageous fiend bids me pack.
+_Via_! says the fiend; _Away_! says the fiend, _for the heavens_;[44]
+_rouse up a brave mind_, says the fiend, _and run_. Well, my conscience,
+hanging about the neck of my heart, says very wisely to me, _my honest
+friend, Launcelot, being an honest man's son_, or rather an honest
+woman's son;--for, indeed, my father did something smack, something grow
+to, he had a kind of taste;--well, my conscience says, _Launcelot, budge
+not; budge_, says the fiend; _budge not_, says my conscience.
+Conscience, say I, you counsel well; fiend, say I, you counsel well; to
+be ruled by my conscience I should stay with the Jew, my master, who
+(Heaven bless the mark!) is a kind of devil; and to run away from the
+Jew I should be ruled by the fiend, who, saving your reverence, is the
+devil himself. Certainly, the Jew is the very devil incarnation; and in
+my conscience, my conscience is a kind of hard conscience, to offer to
+counsel me to stay with the Jew. The fiend gives the more friendly
+counsel: I will run, fiend; my heels are at your commandment, I will
+run.
+
+[_As he is going out in haste_
+
+_Enter_ OLD GOBBO, _with a basket_.
+
+_Gob_. Master, young man, you, I pray you; which is the way to master
+Jew's?
+
+_Lau. (aside.)_ O heavens, this is my true-begotten father! who, being
+more than sand-blind, high-gravel blind,[45] knows me not: I will try
+conclusions[46] with him.
+
+_Gob_. Master young gentleman, I pray you which is the way to master
+Jew's?
+
+_Lau_. Turn upon your right hand at the next turning, but, at the next
+turning of all, on your left; marry, at the very next turning, turn of
+no hand, but turn down indirectly to the Jew's house.[47]
+
+_Gob_. 'Twill be a hard way to hit. Can you tell me whether one
+Launcelot that dwells with him, dwell with him, or no?
+
+_Lau_, Talk you of young master Launcelot?--mark me,
+now--_(aside.)_--now will I raise the waters.[48] Talk you of young
+master Launcelot?
+
+_Gob_. No master, sir: but a poor man's son: his father, though I say
+it, is an honest exceeding poor man, and, Heaven be thanked, well to
+live.
+
+_Lau_, Well, let his father be what he will, we talk of young master
+Launcelot.
+
+_Gob_. Of Launcelot, an't please your mastership.[49]
+
+_Lau. Ergo_, master Launcelot; talk not of master Launcelot, father; for
+the young gentleman (according to fates and destinies, and such odd
+sayings, the sisters three, and such branches of learning), is, indeed,
+deceased; or, as you would say in plain terms, gone to heaven.
+
+_Gob_. Marry, Heaven forbid! the boy was the very staff of my age, my
+very prop.
+
+_Lau_. Do I look like a cudgel, or a hovel-post, a staff, or a prop?--Do
+you know me, father?
+
+_Gob_. Alack the day, I know you not, young gentleman; but, I pray you
+tell me, is my boy (rest his soul!) alive or dead?
+
+_Lau_. Do you not know me, father?
+
+_Gob_. Alack! sir, I am sand-blind, I know you not.
+
+_Lau_. Nay, indeed, if you had your eyes, you might fail of the knowing
+me: it is a wise father that knows his own child. Well, old man, I will
+tell you news of your son: Give me your blessing: _(kneels.)_ Truth will
+come to light; murder cannot be hid long; a man's son may; but, in the
+end, truth will out.
+
+_Gob_. Pray you, sir, stand up: I am sure you are not Launcelot, my boy.
+
+_Lau_. Pray you, let's have no more fooling about it, but give me your
+blessing; I am Launcelot, your boy that was, your son that is, your
+child that shall be.
+
+_Gob_. I cannot think you are my son.
+
+_Lau_. I know not what I shall think of that; but I am Launcelot, the
+Jew's man; and I am sure Margery, your wife, is my mother.
+
+_Gob_. Her name is Margery, indeed: I'll be sworn if thou be Launcelot,
+thou art mine own flesh and blood. What a beard hast thou got: thou hast
+got more hair on thy chin than Dobbin, my phill-horse,[50] has on his
+tail.
+
+_Lau_. It should seem, then, that Dobbin's tail grows backward; I am
+sure he had more hair of his tail than I have of my face, when I last
+saw him.
+
+_Gob_. Lord, how art thou changed! How dost thou and thy master agree? I
+have brought him a present.
+
+_Lau. (rises.)_ Give him a present! give him a halter: I am famished in
+his service; you may tell every finger I have with my ribs. Father, I am
+glad you are come: give me your present to one master Bassanio, who,
+indeed, gives rare new liveries; if I serve not him, I will run as far
+as Heaven has any ground.--O rare fortune! here comes the man;--to him,
+father; for I am a Jew if I serve the Jew any longer.
+
+_Enter_ BASSANIO, _with_ LEONARDO, _and_ STEPHANO.
+
+_Bas_. See these letters deliver'd; put the liveries to making; and
+desire Gratiano to come anon to my lodging.
+
+[_Exit a_ SERVANT.
+
+_Lau_. To him, father.
+
+_Gob_. Heaven bless your worship!
+
+_Bas_. Gramercy! Would'st thou aught with me?
+
+_Gob_. Here's my son, sir, a poor boy--
+
+_Lau_. Not a poor boy, sir; but the rich Jew's man; that would, sir, as
+my father shall specify.
+
+_Gob_. He hath a great infection, sir, as one would say, to serve----
+
+_Lau_. Indeed, the short and the long is, I serve the Jew, and have a
+desire as my father shall specify.
+
+_Gob_. His master and he (saving your worship's reverence) are scarce
+cater-cousins.
+
+_Lau_. To be brief, the very truth is, that the Jew having done me
+wrong, doth cause me, as my father, being I hope an old man, shall
+frutify unto you.
+
+_Gob_. I have here a dish of doves, that I would bestow upon your
+worship; and my suit is----
+
+_Lau_. In very brief, the suit is impertinent[51] to myself, as your
+worship shall know by this honest old man; and, though I say it, though
+old man, yet poor man, my father.
+
+_Bas_. One speak for both. What would you?
+
+_Lau_. Serve you, sir.
+
+_Gob_. That is the very defect of the matter, sir.
+
+_Bas_. I know thee well; thou hast obtain'd thy suit:
+Shylock, thy master, spoke with me this day,
+And hath preferr'd thee, if it be preferment,
+To leave a rich Jew's service, to become
+The follower of so poor a gentleman.
+
+_Lau_. The old proverb is very well parted between my master, Shylock,
+and you, sir; you have the grace of Heaven, sir, and he hath---- enough.
+
+_Bas_. Thou speak'st it well. Go, father, with thy son:--
+Take leave of thy old master, and inquire
+My lodging out:--give him a livery.  [_To his Followers_.
+More guarded[52] than his fellows': See it done.
+
+_Lau_. Father, in:--_(Exit_ OLD GOBBO.) I cannot get a service, no!--I
+have ne'er a tongue in my head!--Well; (_looking on his palm_) if any
+man in Italy have a fairer table;[53] which doth offer to swear upon a
+book I shall have good fortune![54] Go to, here's a simple line of
+life![55] here's a small trifle of wives: Alas, fifteen wives is
+nothing; eleven widows and nine maids, is a simple coming in for one
+man: and then, to 'scape drowning thrice; and to be in peril of my life
+with the edge of a feather-bed,[56] here are simple 'scapes! Well, if
+fortune be a woman she's a good wench for this gear.--I'll take my leave
+of the Jew in the twinkling of an eye.
+
+[_Exit_ LAUNCELOT.
+
+_Bas_. I pray thee, good Leonardo, think on this; 
+These things being bought and orderly bestow'd, 
+Return in haste, for I do feast to-night 
+My best-esteem'd acquaintance: hie thee, go.
+
+_Leo_. My best endeavours shall be done herein.
+
+_Enter_ GRATIANO.
+
+_Gra_. Where is your master?
+
+_Leo_. Yonder, sir, he walks.
+
+[_Exit_ LEONARDO
+
+_Gra_. Signior Bassanio,--
+
+_Bas_. Gratiano!
+
+_Gra_. I have a suit to you.
+
+_Bas_. You have obtained it.
+
+_Gra_. You must not deny me: I must go with you to Belmont.
+
+_Bas_. Why, then you must.--But hear thee, Gratiano;
+Thou art too wild, too rude, and bold of voice;
+Parts, that become thee happily enough,
+And in such eyes as ours appear not faults;
+But, where they are not known, why, there they show
+Something too liberal:[57]--pray thee take pain
+To allay with some cold drops of modesty
+Thy skipping spirit; lest, through thy wild behaviour,
+I be misconstrued in the place I go to,
+And lose my hopes.
+
+_Gra_. Signior Bassanio, hear me:
+If I do not put on a sober habit,
+Talk with respect, and swear but now and then,
+Wear prayer-books in my pocket, look demurely;
+Nay more, while grace is saying, hood mine eyes[58]
+Thus with my hat, and sigh, and say amen;
+Use all the observance of civility,
+Like one well studied in a sad ostent;[59]
+To please his grandam,--never trust me more.
+
+_Bas_, Well, we shall see your bearing.[60]
+
+_Gra_. Nay, but I bar to-night; you shall not gage me
+By what we do to-night.
+
+_Bas_. No, that were pity;
+I would entreat you rather to put on
+Your boldest suit of mirth, for we have friends
+That purpose merriment: But fare you well,
+I have some business.
+
+_Gra_. And I must to Lorenzo and the rest;
+But we will visit you at supper time.
+
+[_Exeunt_.
+
+_Enter_ JESSICA _and_ LAUNCELOT _from_ SHYLOCK'S _house_.
+
+_Jes_. I am sorry thou wilt leave my father so;
+Our house is hell, and thou, a merry devil,
+Didst rob it of some taste of tediousness:
+But fare thee well: there is a ducat for thee;
+And, Launcelot, soon at supper shall thou see
+Lorenzo, who is thy new master's guest:
+Give him this letter; do it secretly,
+And so farewell; I would not have my father
+See me in talk with thee.
+
+_Lau_. Adieu!--Tears exhibit my tongue. Most beautiful
+pagan,--most sweet Jew! Adieu! these foolish drops do
+somewhat drown my manly spirit: adieu.
+
+[_Exit_.
+
+_Jes_. Farewell, good Launcelot.
+Alack, what heinous sin is it in me,
+To be asham'd to be my father's child!
+But though I am a daughter to his blood,
+I am not to his manners: O Lorenzo,
+If thou keep promise, I shall end this strife;
+Become a Christian, and thy loving wife.
+
+[_Exit into house_.
+
+_Enter_ GRATIANO, LORENZO, SALARINO, _and_ SALANIO.
+
+_Lor_. Nay, we will slink away in supper time;
+Disguise us at my lodging, and return
+All in an hour.
+
+_Gra_. We have not made good preparation.
+
+_Salar_. We have not spoke us yet of torch-bearers.[61]
+
+_Sal_. 'Tis vile, unless it may be quaintly order'd;
+And better, in my mind, not undertook.
+
+_Lor_. 'Tis now but four o'clock; we have two hours
+To furnish us.--
+
+_Enter_ LAUNCELOT _with a letter_.
+
+Friend Launcelot, what's the news?
+
+_Lau_. An it shall please you to break up this,[62] it shall seem to
+signify.
+
+_Lor_. I know the hand: in faith, 'tis a fair hand;
+And whiter than the paper it writ on
+Is the fair hand that writ.
+
+_Gra_. Love-news, in faith.
+
+_Lau_. By your leave, sir.
+
+_Lor_. Whither goest thou?
+
+_Lau_. Marry, sir, to bid my old master the Jew to sup to-night with my
+new master the Christian.
+
+_Lor_. Hold here, take this:--tell gentle Jessica, I will not fail
+her;--speak it privately; go.
+
+[_Exit_ LAUNCELOT _into house_.
+
+Gentlemen,
+Will you prepare you for this masque to-night?
+I am provided of a torch-bearer.
+
+_Salar_. Ay, marry, I'll be gone about it straight.
+
+_Sal_. And so will I.
+
+_Lor_. Meet me and Gratiano
+At Gratiano's lodging some hour hence.
+
+_Salar_. 'Tis good we do so.
+
+[_Exeunt_ SALARINO _and_ SALANIO.
+
+_Gra_. Was not that letter from fair Jessica?
+
+_Lor_. I must needs tell thee all: She hath directed
+How I shall take her from her father's house;
+What gold and jewels she is furnish'd with;
+Come, go with me; peruse this as thou goest:
+Fair Jessica shall be my torch-bearer.
+
+[_Exeunt_.
+
+_Enter_ SHYLOCK _and_ LAUNCELOT _from House_.
+
+_Shy_. Well, thou shalt see, thy eyes shall be thy judge,
+The difference of old Shylock and Bassanio:
+What, Jessica!--thou shalt not gormandize,
+As thou hast done with me;--What, Jessica!--
+And sleep and snore, and rend apparel out;--
+Why, Jessica, I say!
+
+_Lau_. Why, Jessica!
+
+_Shy_. Who bids thee call? I do not bid thee call.
+
+_Lau_. Your worship was wont to tell me I could do nothing without
+bidding.
+
+_Enter_ JESSICA.
+
+_Jes_. Call you? What is your will?
+
+_Shy_. I am bid forth to supper,[63] Jessica;
+There are my keys:--But wherefore should I go?
+I am not bid for love: they flatter me:
+But yet I'll go in hate, to feed upon
+The prodigal Christian:[64]--Jessica, my girl,
+Look to my house:--I am right loath to go;
+There is some ill a brewing towards my rest,
+For I did dream of money-bags to night.
+
+_Lau_. I beseech you, sir, go; my young master doth expect your
+reproach.
+
+_Shy_. So do I his.
+
+_Lau_. And they have conspired together,--I will not say, you shall see
+a masque; but if you do, then it was not for nothing that my nose fell a
+bleeding[65] on Black Monday(B) last, at six o'clock i'the morning,
+falling out that year on Ash-Wednesday was four year in the afternoon.
+
+_Shy_. What! are there masques? Hear you me, Jessica:
+Lock up my doors; and when you hear the drum,
+And the vile squeaking of the wry-neck'd fife,[66]
+Clamber not you up to the casements then,
+Nor thrust your head into the public street,
+To gaze on Christian fools with varnish'd faces:
+But stop my house's ears, I mean my casements;
+Let not the sound of shallow foppery enter
+My sober house.--By Jacob's staff I swear,
+I have no mind of feasting forth to-night:
+But I will go.--Go you before me, sirrah;
+Say, I will come.
+
+_Lau_. I will go before, Sir.--
+Mistress, look out at window, for all this;
+     There will come a Christian by,
+     Will be worth a Jewess' eye.[67]
+
+[_Exit_ LAUNCELOT.
+
+_Shy_. What says that fool of Hagar's offspring, ha?
+
+_Jes_. His words were, Farewell, mistress; nothing else.
+
+_Shy_. The patch is kind enough;[68] but a huge feeder,
+Snail-slow in profit, and he sleeps by day
+More than the wild cat: drones hive not with me,
+Therefore I part with him; and part with him
+To one that I would have him help to waste
+His borrow'd purse.--Well, Jessica, go in;
+Perhaps, I will return immediately;
+Do as I bid you,
+Shut doors after you: Fast bind, fast find;
+A proverb never stale in thrifty mind.
+
+[_Exit_.
+
+_Jes_. Farewell; and if my fortune be not crost,
+I have a father, you a daughter, lost.
+
+[_Exit into house_.
+
+_Enter_ GRATIANO _and_ SALARINO, _masqued_.
+
+_Gra_. This is the pent-house, under which Lorenzo
+Desir'd us to make stand.
+
+_Sal_. His hour is almost past.
+
+_Gra_. And it is marvel he out-dwells his hour,
+For lovers ever run before the clock.
+
+_Sal_. O, ten times faster Venus' pigeons fly
+To seal love's bonds new made, than they are wont
+To keep obliged faith unforfeited!
+
+_Gra_. That ever holds: who riseth from a feast,
+With that keen appetite that he sits down?
+Where is the horse that doth untread again
+His tedious measures with the unbated fire
+That he did pace them first? All things that are,
+Are with more spirit chased than enjoy'd.
+
+_Enter_ LORENZO.
+
+_Sal_. Here comes Lorenzo.
+
+_Lor_. Sweet friends, your patience for my long abode:
+Not I, but my affairs, have made you wait:
+When you shall please to play the thieves for wives,
+I'll watch as long for you then.--
+Here dwells my father Jew:--
+
+    GLEE.[69]
+
+            O happy fair!
+        Your eyes are lode-stars, and your tongue sweet air!
+        More tuneable than lark to shepherd's ear
+        When wheat is green, when hawthorn buds appear![70]
+
+Ho! who's within?
+
+_Enter_ JESSICA, _above_.
+
+_Jes_. Who are you? Tell me, for more certainty,
+Albeit I'll swear that I do know your tongue.
+
+_Lor_. Lorenzo, and thy love.
+
+_Jes_. Lorenzo, certain; and my love, indeed;
+For who love I so much? And now who knows
+But you, Lorenzo, whether I am yours?
+
+_Lor_. Heaven, and thy thoughts, are witness that thou art.
+
+_Jes_. Here, catch this casket; it is worth the pains.
+
+_Lor_. Come, come at once;
+For the close night doth play the run-away,
+And we are staid for at Bassanio's feast.
+
+_Jes_. I will make fast the doors, and gild myself
+With some more ducats, and be with you straight.
+
+[_Exit from above_.
+
+_Gra_. Now, by my hood, a Gentile and no Jew.[71]
+
+_Lor_. Beshrew me, but I love her heartily:
+For she is wise, if I can judge of her;
+And fair she is, if that mine eyes be true;
+And true she is, as she hath prov'd herself;
+And therefore, like herself, wise, fair, and true,
+Shall she be placed in my constant soul.
+
+_Enter JESSICA, below_.
+
+What, art thou come?--On, gentlemen, away;
+Our masquing mates by this time for us stay.
+
+[_Exeunt_
+
+_Enter various parties of Maskers, Revellers, &c_.
+
+END OF SECOND ACT.
+
+
+
+
+HISTORICAL NOTES TO ACT SECOND.
+
+
+(A) Venice occupies 72 islands. There are 306 canals, traversed by
+innumerable gondolas. The gondolas introduced in this scene are copied
+from paintings of the same date as when the action of the play is
+supposed to occur, and are, consequently, rather varied in shape from
+those now seen in Venice. Besides the great squares of St. Mark, and the
+adjoining Piazetta before the Doge's Palace, the city has numerous
+narrow streets, or rather lanes, with small open spaces in front of the
+churches, or formed by the termination of several alleys, leading to a
+bridge. It is one of these spaces that is represented in the second act.
+
+(B) "Black Monday" is Easter Monday, and was so called on this occasion.
+In the 34th of Edward III. (1360), the 14th April, and the morrow after
+Easter Day, King Edward, with his host, lay before the City of Paris,
+which day was full dark of mist and hail, and so bitter cold that many
+men died on their horse's backs with the cold.--_Stowe_.
+
+FOOTNOTES:
+
+[Footnote 43: _Khanzir_, Arab, a hog. A cape on the coast of Syria is
+named _Ras el Khanzir;_ i.e., hog's-head.]
+
+[Footnote 44: _--for the heavens_; This expression is simply "a pretty
+oath." It occurs in Ben Jonson and Decker.]
+
+[Footnote 45: _--sand-blind, high-gravel blind_,; Having an imperfect
+sight, as if there was sand in the eye.--Gravel-blind, a coinage of
+Launcelot's, is the exaggeration of _sand-blind_.]
+
+[Footnote 46: _I will try_ conclusions; Experiments.]
+
+[Footnote 47: _--turn down indirectly to the Jew's house_.; This
+perplexed direction is given to puzzle the enquirer.]
+
+[Footnote 48: _--now will I raise the waters.; Id est_, make him weep.]
+
+[Footnote 49: --we talk of young master Launcelot. _Gobbo_. Of
+Launcelot, an't please your mastership. _Id est, plain_ Launcelot, and
+not, as you term him, _master_ Launcelot.]
+
+[Footnote 50: _--phill horse_,; The horse in the shafts of a cart or
+waggon. The term is best understood in the Midland Counties.]
+
+[Footnote 51: _--the suit is impertinent_; Launcelot is a blunderer, as
+well as one who can _"play upon a word;"_ here he means _pertinent_.]
+
+[Footnote 52: _--a livery more_ guarded; More ornamented.]
+
+[Footnote 53: _--a fairer table_; Table is the palm of the hand.]
+
+[Footnote 54: _--I shall have good fortune_!; The palm which offers to
+swear that the owner shall have good fortune, is a fair table to be
+proud of.]
+
+[Footnote 55: _--here's a simple line of life_!; In allusion to the
+lines on the palm of his hand.]
+
+[Footnote 56: _--in peril of my life with the edge of a feather-bed_,; A
+cant phrase to signify the danger of marrying.]
+
+[Footnote 57: _--something too_ liberal:--; Gross or coarse.]
+
+[Footnote 58: _--hood mine eyes_; Alluding to the manner of covering a
+hawk's eyes.]
+
+[Footnote 59: _--sad ostent;_ Grave appearance--show of staid and
+serious behaviour. _Ostent_ is a word very commonly used for _show_
+among the old dramatic writers.]
+
+[Footnote 60: _--we shall see your bearing_.; Bearing is
+carriage--deportment.]
+
+[Footnote 61: _We have not spoke us yet of torch-bearers_.; _Id est_, we
+have not yet bespoken the torch-bearers.]
+
+[Footnote 62: _--to break up this,_ To _break up_ was a term in
+carving.]
+
+[Footnote 63: _I am bid forth to supper,_; I am invited. To _bid_, in
+old language, meant to _pray_.]
+
+[Footnote 64: _to feed upon the prodigal Christian:_ The poet here means
+to heighten the malignity of Shylock's character, by making him depart
+from his settled resolve, of "neither to eat, drink nor pray with
+Christians," for the prosecution of his revenge.]
+
+[Footnote 65: _nose fell a bleeding_; Some superstitious belief was
+annexed to the accident of bleeding at the nose.]
+
+[Footnote 66: _wry-neck'd fife,_; The upper part or mouth-piece,
+resembling the beak of a bird.]
+
+[Footnote 67: _--worth a Jewess' eye_.; It's worth a Jews' eye is a
+proverbial phrase.]
+
+[Footnote 68: _The patch is kind enough;_ Patch is the name of a Fool,
+probably in allusion to his _patch'd_ or party colored dress.]
+
+[Footnote 69: Sung by Miss POOLE, Miss LEFFLER, and Mr. WALLWORTH.]
+
+[Footnote 70: The words are from _Midsummer Night's Dream_, Act i.,
+Scene 1.]
+
+[Footnote 71: _--a Gentile and no Jew_.; A jest arising from the
+ambiguity of _Gentile_, which signifies both a _Heathen_, and one
+well-born.]
+
+
+
+
+
+ACT III.
+
+
+
+
+SCENE I.--SALOON OF THE CASKETS IN PORTIA'S HOUSE AT BELMONT.
+
+
+_Enter_ NERISSA, _with_ SERVANTS.
+
+_Ner_. The prince of Arragon hath ta'en his oath,
+And comes to his election presently.
+
+_Flourish of Trumpets. Enter the_ PRINCE OF ARRAGON, PORTIA, _and their
+Trains_.
+
+_Por_. Behold, there stand the caskets, noble prince;
+If you choose that wherein I am contain'd,
+Straight shall our nuptial rites be solemniz'd;
+But if you fail, without more speech, my lord,
+You must be gone from hence immediately.
+
+_Arr_. I am enjoin'd by oath to observe three things:
+First, never to unfold to any one
+Which casket 'twas I chose; next, if I fail
+Of the right casket, never in my life
+To woo a maid in way of marriage; lastly,
+If I do fail in fortune of my choice,
+Immediately to leave you and be gone.
+
+_Por_. To these injunctions every one doth swear
+That comes to hazard for my worthless self.
+
+_Arr_. And so have I address'd me:[72] Fortune now
+To my heart's hope!--Gold, silver, and base lead.
+
+    'Who chooseth me must give and hazard all he hath.'
+
+What says the golden chest? ha! let me see:
+
+    'Who chooseth me shall gain what many men desire.'
+
+What many men desire.--That many may be meant[73]
+By the fool multitude,[74] that choose by show,
+Why, then, to thee, thou silver treasure-house;
+Tell me once more what title thou dost bear:
+
+    'Who chooseth me shall get as much as he deserves;'
+
+And well said too. For who shall go about
+To cozen fortune, and be honourable
+Without the stamp of merit!
+O, that estates, degrees, and offices,
+Were not deriv'd corruptly! and that clear honour
+Were purchas'd by the merit of the wearer!
+How many then should cover that stand bare?
+How many be commanded that command?
+And how much honour
+Pick'd from the chaff and ruin of the times,
+To be new varnish'd? Well, but to my choice:
+
+    'Who chooseth me shall get as much as he deserves:'
+
+I will assume desert:--Give me a key for this,
+And instantly unlock my fortunes here.
+
+_Por_. Too long a pause for that which you find there.
+
+_Arr_. What's here: the portrait of a blinking idiot,
+Presenting me a schedule? I will read it.
+
+        Some there be that shadows kiss;
+        Such have but a shadow's bliss:
+        There be fools alive, I wis,[75]
+        Silver'd o'er; and so was this.'
+
+    Still more fool I shall appear
+    By the time I linger here:
+    With one fool's head I came to woo,
+    But I go away with two.
+
+Sweet, adieu! I'll keep my oath,
+Patiently to bear my wroath.[76]
+
+[_Exeunt_ ARRAGON _and Train_.
+
+_Por_. Thus hath the candle sing'd the moth.
+O these deliberate fools! when they do choose,
+They have the wisdom by their wit to lose.
+
+_Ner_. The ancient saying is no heresy;--
+Hanging and wiving goes by destiny.
+
+_Enter_ BALTHAZAR.
+
+_Ser_. Madam, there is alighted at your gate
+A young Venetian, one that comes before
+To signify the approaching of his lord:
+From whom he bringeth sensible regreets;[77]
+To wit, besides commends and courteous breath,
+Gifts of rich value; yet I have not seen
+So likely an ambassador of love.
+
+_Por_. No more, I pray thee.
+Come, come, Nerissa; for I long to see
+Quick Cupid's post that comes so mannerly.
+
+_Ner_. Bassanio, lord love, if thy will it be!
+
+[_Exeunt_.
+
+FOOTNOTES:
+
+[Footnote 72: _--so have I address'd me_: To address is to prepare--_id
+est_ I have prepared myself by the same ceremonies.]
+
+[Footnote 73: _That many may be meant_; Many modes of speech were
+familiar in Shakespeare's age that are now no longer used. "May be
+meant," _id est_, meaning by that, &c.]
+
+[Footnote 74: _--the fool multitude_; The foolish multitude.]
+
+[Footnote 75: _--I wis_,; I know.]
+
+
+
+
+SCENE II.--RIALTO BRIDGE (A), AND GRAND CANAL.
+
+
+_Enter_ SALARINO _and_ SALANIO.
+
+_Salar_. Why, man, I saw Bassanio under sail;
+With him is Gratiano gone along;
+And in their ship, I am sure, Lorenzo is not.
+
+_Sal_. The villain Jew with outcries rais'd the duke;
+Who went with him to search Bassanio's ship.
+
+_Salar_. He came too late, the ship was under sail;
+But there the duke was given to understand,
+That in a gondola were seen together
+Lorenzo and his amorous Jessica;
+Besides, Antonio certified the duke,
+They were not with Bassanio in his ship.
+
+_Sal_. I never heard a passion so confus'd,
+So strange, outrageous, and so variable,
+As the dog Jew did utter in the streets;
+"_My daughter!--O, my ducats!--O, my daughter!
+Fled with a Christian!--O, my Christian ducats!--
+Justice! the law! my ducats, and my daughter.!"_
+Let good Antonio look he keep his day,
+Or he shall pay for this.
+
+_Salar_. Marry, well remember'd: I reason'd[78] with a Frenchman
+yesterday, who told me that Antonio hath a ship of rich lading wreck'd
+on the narrow seas that part the French and English,--the Goodwins, I
+think they call the place--a very dangerous flat and fatal, where the
+carcases of many a tall ship lie buried, as they say, if my gossip
+report be an honest woman of her word.
+
+_Sal_. I would she were as lying a gossip in that, as ever knapp'd
+ginger,[79] or made her neighbours believe she wept for the death of a
+third husband: But it is true, that the good Antonio, the honest
+Antonio,--O, that I had a title good enough to keep his name company!--
+
+_Salar_. Come, the full stop.
+
+_Sal_. Why, the end is, he hath lost a ship.
+
+_Salar_. I would it might prove the end of his losses!
+
+_Sal_. Let me say amen betimes, lest the devil cross my prayer; for here
+he comes in the likeness of a Jew.
+
+_Enter_ SHYLOCK.
+
+_Salar_. How now, Shylock? what news among the merchants?
+
+_Shy_. You knew, none so well, none so well as you, of my daughter's
+flight?
+
+_Sal_. That's certain. I, for my part, knew the tailor that made the
+wings she flew withal.
+
+_Salar_. And Shylock, for his own part, knew the bird was fledg'd; and
+then it is the complexion of them all to leave the dam.
+
+_Shy_. She is damn'd for it.
+
+_Sal_. That's certain, if the devil may be her judge.
+
+_Shy_. My own flesh and blood to rebel!
+
+_Salar_. But tell us, do you hear whether Antonio have had any loss at
+sea or no?
+
+_Shy_. There I have another bad match: a bankrupt, a prodigal, who dare
+scarce show his head on the Rialto; a beggar, that used to come so smug
+upon the mart.--Let him look to his bond: he was wont to call me
+usurer;--let him look to his bond: he was wont to lend money for a
+Christian courtesy;--let him look to his bond.
+
+_Sal_. Why, I am sure, if he forfeit, thou wilt not take his flesh?
+What's that good for?
+
+_Shy_. To bait fish withal: if it will feed nothing else it will feed my
+revenge. He hath disgraced me, and hindered me half a million; laughed
+at my losses, mocked at my gains, scorned my nation, thwarted my
+bargains, cooled my friends, heated mine enemies: and what's his reason?
+I am a Jew. Hath not a Jew eyes? hath not a Jew hands, organs,
+dimensions, senses, affections, passions? fed with the same food, hurt
+with the same weapons, subject to the same diseases, healed by the same
+means, warmed and cooled by the same winter and summer as a Christian
+is? If you prick us, do we not bleed? if you tickle us, do we not laugh?
+if you poison us, do we not die? and if you wrong us, shall we not
+revenge? If we are like you in the rest, we will resemble you in that.
+If a Jew wrong a Christian, what is his humility? revenge: If a
+Christian wrong a Jew, what should his sufferance be by Christian
+example? why, revenge. The villany you teach me I will execute: and it
+shall go hard but I will better the instruction.
+
+_Salar_. Here comes another of the tribe; a third cannot be matched,
+unless the devil himself turn Jew.
+
+[_Exeunt_ SALANIO, SALARINO, _and Servant_.
+
+_Enter_ TUBAL.
+
+_Shy_. How now, Tubal, what news from Genoa? hast thou found my
+daughter?
+
+_Tub_. I often came where I did hear of her, but cannot find her.
+
+_Shy_. Why, there, there, there, there! a diamond gone, cost me two
+thousand ducats in Frankfort! The curse never fell upon our nation till
+now; I never felt it till now:--two thousand ducats in that; and other
+precious, precious jewels.--I would my daughter were dead at my foot,
+and the jewels in her ear! 'would she were hears'd at my foot, and the
+ducats in her coffin! No news of them?--Why, so:--and I know not what's
+spent in the search: Why, thou loss upon loss! the thief gone with so
+much, and so much to find the thief; and no satisfaction, no revenge:
+nor no ill luck stirring but what lights o' my shoulders; no sighs but
+o' my breathing; no tears but o' my shedding.
+
+_Tub_. Yes, other men have ill luck, too. Antonio, as I heard in
+Genoa,--
+
+_Shy_. What, what, what? ill luck, ill luck?
+
+_Tub_. Hath an argosy cast away, coming from Tripolis.
+
+_Shy_. I thank God, I thank God:--Is it true? is it true?
+
+_Tub_. I spoke with some of the sailors that escaped the wreck.
+
+_Shy_. I thank thee, good Tubal;--Good news, good news: ha! ha!--Where?
+in Genoa?
+
+_Tub_. Your daughter spent in Genoa, as I heard, one night, fourscore
+ducats!
+
+_Shy_. Thou stick'st a dagger in me:--I shall never see my gold again:
+Fourscore ducats at a sitting! fourscore ducats!
+
+_Tub_. There came divers of Antonio's creditors in my company to Venice,
+that swear he cannot choose but break.
+
+_Shy_. I am very glad of it: I'll plague him; I'll torture him; I am
+glad of it.
+
+_Tub_. One of them showed me a ring, that he had of your daughter for a
+monkey.
+
+_Shy_. Out upon her! Thou torturest me, Tubal: it was my turquoise;[80]
+I had it of Leah, when I was a bachelor: I would not have given it for a
+wilderness of monkeys.
+
+_Tub_. But Antonio is certainly undone.
+
+_Shy_. Nay, that's true, that's very true: Go, Tubal, fee me an officer,
+bespeak him a fortnight before: I will have the heart of him, if he
+forfeit; for were he out of Venice, I can make what merchandize I will.
+Go, Tubal, and meet me at our synagogue: go, good Tubal; at our
+synagogue, Tubal.
+
+[_Exeunt_.
+
+FOOTNOTES:
+
+[Footnote 76: _--to bear my wroath_.; _Misfortune_.]
+
+[Footnote 77: _--regreets; i.s_., salutations.]
+
+[Footnote 78: _I reason'd; Id est_, I conversed.]
+
+[Footnote 79: _--knapp'd ginger,_; To knap is to break short. The word
+occurs in the common prayer--"_He knappeth the spear in sunder_."]
+
+[Footnote 80: _turquoise_; A precious stone found in the veins of the
+mountains on the confines of Persia to the east, subject to the Tartars.
+Many superstitious qualities were imputed to it, all of which were
+either monitory or preservative to the wearer.]
+
+
+
+
+SCENE III.--SALOON OF THE CASKETS, IN PORTIA'S HOUSE, AT BELMONT.
+
+
+
+BASSANIO, PORTIA, GRATIANO, NERISSA, _and Attendants_.
+
+_Por_. I pray you, tarry; pause a day or two,
+Before you hazard; for, in choosing wrong
+I lose your company; I could teach you
+How to choose right, but then I am forsworn;
+So will I never be: so may you miss me;
+But if you do, you'll make me wish a sin,
+That I had been forsworn.
+
+_Bas_. Let me choose;
+For, as I am, I live upon the rack.
+Come, let me to my fortune and the caskets.
+
+_Por_. Away then: I am lock'd in one of them;
+If you do love me, you will find me out.
+Let music sound, while he doth make his choice:
+Then, if he lose, he makes a swan-like end,
+Fading in music.(B)--That the comparison
+May stand more proper, my eye shall be the stream
+And wat'ry death-bed for him.
+
+[_Music, whilst_ BASSANIO _comments on the Caskets to himself_.
+
+    SONG.[81]
+
+        1. Tell me where is fancy bred.
+           Or in the heart, or in the head?
+           How begot, how nourished
+               Reply, reply.
+
+    2. It is engender'd in the eyes,
+       With gazing fed; and fancy dies
+       In the cradle where it lies:
+         Let us all ring fancy's knell;
+       I'll begin it.--Ding, dong, bell.
+    _All_. Ding, dong, bell.
+
+[_Exeunt all but_ PORTIA _and_ BASSANIO.
+
+_Bas_. So may the outward shows be least themselves;[82]
+The world is still deceiv'd with ornament.
+In law, what plea so tainted and corrupt,
+But, being season'd with a gracious voice,[83]
+Obscures the show of evil? In religion,
+What damned error, but some sober brow
+Will bless it and approve it[84] with a text,
+Hiding the grossness with fair ornament?
+There is no vice so simple, but assumes
+Some mark of virtue on his outward parts.
+Thus ornament is but the guiled[85] shore
+To a most dangerous sea; the beauteous scarf
+Veiling an Indian beauty. Therefore, thou gaudy gold,
+Hard food for Midas, I will none of thee:
+Nor none of thee, thou pale and common drudge
+'Tween man and man. But thou, thou meagre lead,
+Which rather threat'nest than dost promise aught,
+Thy plainness moves me more than eloquence,
+And here choose I. Joy be the consequence!
+
+_Por_. How all the other passions fleet to air!
+O love, be moderate, allay thy ecstacy,
+I feel too much thy blessing, make it less,
+For fear I surfeit!
+
+_Bas_. What find I here!
+
+[_Opening the leaden casket_.
+
+Fair Portia's counterfeit?[86]--Here's the scroll,
+The continent and summary of my fortune.
+
+    'You that choose not by the view,
+    Chance as felt, and choose as true!
+    Since this fortune falls to you,
+    Be content, and seek no new.
+    If you be well pleas'd with this,
+    And hold your fortune for your bliss.
+    Turn you where your lady is,
+    And claim her with a loving kiss.'
+
+A gentle scroll.--Fair lady, by your leave,
+I come by note, to give and to receive.
+Yet doubtful whether what I see be true,
+Until confirm'd, sign'd, ratified by you.
+
+_Por_. You see, my lord Bassanio, where I stand,
+Such as I am: though, for myself alone,
+I would not be ambitious in my wish,
+To wish myself much better; yet, for you,
+I would be trebled twenty times myself.
+But now I was the lord
+Of this fair mansion, master of my servants,
+Queen o'er myself; and even now, but now,
+This house, these servants, and this same myself.
+Are yours, my lord,--I give them with this ring;
+Which, when you part from, lose, or give away,
+Let it presage the ruin of your love,
+And be my vantage to exclaim on you.
+
+_Bas_. Madam, you have bereft me of all words;
+Only my blood speaks to you in my veins:
+But when this ring
+Parts from this finger, then parts life from hence;
+O, then be bold to say, Bassanio's dead.
+
+_Ner_. My lord and lady, it is now our time,
+That have stood by and seen our wishes prosper,
+To cry good joy; God joy, my lord and lady!
+
+_Gra_. My lord Bassanio, and my gentle lady,
+I wish you all the joy that you can wish;
+For I am sure you can wish none from me:
+And, when your honours mean to solemnize
+The bargain of your faith, I do beseech you
+Even at that time I may be married too.
+
+_Bas_. With all my heart, so thou canst get a wife.
+
+_Gra_. I thank your lordship; you have got me one.
+My eyes, my lord, can look as swift as yours:
+You saw the mistress, I beheld the maid;
+You lov'd, I lov'd; for intermission[87]
+No more pertains to me, my lord, than you.
+Your fortune stood upon the caskets there;
+And so did mine too, as the matter falls:
+For wooing here, until my roof was dry
+With oaths of love, at last,--if promise last,--
+I got a promise of this fair one here,
+To have her love, provided that your fortune
+Achiev'd her mistress.
+
+_Por_. Is this true, Nerissa?
+
+_Ner_. Madam, it is, so you stand pleas'd withal.
+
+_Bas_. And do you, Gratiano, mean good faith?
+
+_Gra_. Yes, faith, my lord.
+
+_Bas_. Our feast shall be much honour'd in your marriage.
+
+_Gra_. But who comes here? Lorenzo, and his infidel?
+What, and my old Venetian friend, Solanio.
+
+_Enter_ LORENZO, JESSICA, _and_ SALANIO.
+
+_Bas_. Lorenzo, and Solanio, welcome hither;
+If that the youth of my new interest here
+Have power to bid you welcome:--By your leave,
+I bid my very friends and countrymen,
+Sweet Portia, welcome.
+
+_Por_. So do I, my lord;
+They are entirely welcome.
+
+_Lor_. I thank your honour:--For my part, my lord,
+My purpose was not to have seen you here;
+But meeting with Solanio by the way,
+He did entreat me, past all saying nay,
+To come with him along.
+
+_Sal_. I did, my lord,
+And I have reason for it. Signior Antonio
+Commends him to you.
+
+[_Gives_ BASSANIO _a letter_.
+
+_Bas_. Ere I ope this letter,
+I pray you tell me how my good friend doth.
+
+_Sal_. Not sick, my lord, unless it be in mind:
+Nor well, unless in mind: his letter there
+Will show you his estate.
+
+_Gra_. Nerissa, cheer yon stranger; bid her welcome.
+Your hand, Solanio. What's the news from Venice?
+How doth that royal merchant, good Antonio?
+I know he will be glad of our success;
+We are the Jasons, we have won the fleece.
+
+_Sal_. 'Would you had won the fleece that he hath lost!
+
+_Por_. There are some shrewd contents in yon same paper,
+That steal the colour from Bassanio's cheek;
+Some dear friend dead; else nothing in the world
+Could turn so much the constitution
+Of any constant man.[88] What, worse and worse?--
+With leave, Bassanio; I am half yourself,
+And I must freely have the half of any thing
+That this same paper brings you.
+
+_Bas_. O sweet Portia,
+Here are a few of the unpleasant'st words
+That ever blotted paper! Gentle lady,
+When I did first impart my love to you,
+I freely told you, all the wealth I had
+Ran in my veins,--I was a gentleman:
+And then I told you true: and yet, dear lady,
+Rating myself at nothing, you shall see
+How much I was a braggart: When I told you
+My state was nothing, I should then have told you
+That I was worse than nothing; for, indeed,
+I have engag'd myself to a dear friend,
+Engag'd my friend to his mere enemy,
+To feed my means. Here is a letter, lady;
+The paper as the body of my friend,
+And every word in it a gaping wound,
+Issuing life-blood. But is it true, Solanio?
+Have all his ventures fail'd? What, not one hit?
+From Tripolis, from Mexico, and England,
+From Lisbon, Barbary, and India?
+And not one vessel 'scape the dreadful touch
+Of merchant-marring rocks?
+
+_Sal_. Not one, my lord.
+Besides, it should appear, that if he had
+The present money to discharge the Jew,
+He would not take it: Never did I know
+A creature that did bear the shape of man,
+So keen and greedy to confound a man.
+He plies the duke at morning, and at night;
+And doth impeach the freedom of the state
+If they deny him justice: twenty merchants,
+The duke himself, and the magnificoes
+Of greatest port, have all persuaded with him;
+But none can drive him from the envious plea
+Of forfeiture, of justice, and his bond.
+
+_Por_. Is it your dear friend that is thus in trouble?
+
+_Bas_. The dearest friend to me, the kindest man,
+The best condition'd and unwearied spirit
+In doing courtesies, and one in whom
+The ancient Roman honour more appears,
+Than any that draws breath in Italy.
+
+_Por_. What sum owes he the Jew?
+
+_Bas_. For me, three thousand ducats.
+
+_Por_. What, no more?
+Pay him six thousand, and deface the bond;
+Double six thousand, and then treble that,
+Before a friend of this description
+Shall lose a hair through Bassanio's fault.
+First, go with me to church, and call me wife:
+And then away to Venice to your friend!
+For never shall you stay by Portia's side
+With an unquiet soul. You shall have gold
+To pay the petty debt twenty times over;
+When it is paid, bring your true friend along:
+My maid Nerissa, and myself, mean time,
+Will live as maids and widows. Come, away;
+For you shall hence, upon my wedding-day:
+But let me hear the letter of your friend.
+
+_Bas. (reads.)_
+
+'Sweet Bassanio, my ships have all miscarried, my creditors grow cruel,
+my estate is very low, my bond to the Jew is forfeit; and since, in
+paying it, it is impossible I should live, all debts are cleared between
+you and me, if I might but see you at my death: notwithstanding, use
+your pleasure: if your love do not persuade you to come, let not my
+letter.'
+
+_Por_. O love, despatch all business, and be gone.
+
+_Bas_. Since I have your good leave to go away,
+I will make haste: but, till I come again,
+No bed shall e'er be guilty of my stay,
+Nor rest be interposer 'twixt us twain.
+
+[_Exeunt_.
+
+FOOTNOTES:
+
+[Footnote 81: Sung by Miss POOLE, and Chorus of Ladies.]
+
+[Footnote 82: _So may the outward shows be least themselves_; Bassanio
+begins abruptly; the first part of the argument having passed in his
+mind while the music was proceeding.]
+
+[Footnote 83: _--gracious voice_,; Pleasing--winning favour.]
+
+[Footnote 84: _--approve it_; _Id est_, justify it.]
+
+[Footnote 85: _--guiled_; Treacherous--deceitful.]
+
+[Footnote 86: _Fair Portia's counterfeit?_; Counterfeit, which is at
+present used only in a bad sense, anciently signified a _likeness_, a
+_resemblance_, without comprehending any idea of fraud.]
+
+[Footnote 87: _--intermission_; Intermission is pause--intervening
+time--delay.]
+
+[Footnote 88: _--any constant man_.; _Constant_, in the present instance
+signifies _grace_.]
+
+
+
+
+SCENE IV.--VENICE. THE COLUMNS OF ST. MARK. (c).
+
+
+_Enter_ SHYLOCK, SALARINO, ANTONIO, _and_ GAOLER.
+
+_Shy_, Gaoler, look to him. Tell not me of mercy;--
+This is the fool that lends out money gratis;--
+Gaoler, look to him.
+
+_Ant_. Hear me yet, good Shylock.
+
+_Shy_. I'll have my bond; speak not against my bond;
+I have sworn an oath that I will have my bond:
+Thou call'dst me dog, before thou had'st a cause:
+But, since I am a dog, beware my fangs:
+The duke shall grant me justice.--I do wonder,
+Thou naughty gaoler, that thou art so fond[89]
+To come abroad with him at his request.
+
+_Ant_. I pray thee, hear me speak.
+
+_Shy_. I'll have my bond; I will not hear thee speak:
+I'll have my bond; and therefore speak no more.
+I'll not be made a soft and dull-ey'd fool,
+To shake the head, relent, and sigh, and yield
+To Christian intercessors. Follow not;
+I'll have no speaking; I will have my bond.
+
+[_Exit_ SHYLOCK.
+
+_Salar_. It is the most impenetrable cur
+That ever kept with men.
+
+_Ant_. Let him alone;
+I'll follow him no more with bootless prayers.
+He seeks my life.
+
+_Salar_. I am sure the duke
+Will never grant this forfeiture to hold.
+
+_Ant_. The duke cannot deny the course of law,[90]
+For the commodity that strangers have
+With us in Venice, if it be denied,
+'Twill much impeach the justice of the state;[91]
+Since that the trade and profit of the city
+Consisteth of all nations.
+Well, gaoler, on:--Pray heaven, Bassanio come
+To see me pay his debt, and then I care not.
+
+[_Exeunt_.
+
+FOOTNOTES:
+
+[Footnote 89: _--fond_; _Id est_, foolish.]
+
+
+
+
+SCENE V.--SALOON OF THE CASKETS IN PORTIA'S HOUSE AT BELMONT.
+
+
+_Enter_ PORTIA, NERISSA, LORENZO, JESSICA, _and_ BALTHAZAR.
+
+_Lor_. Madam, although I speak it in your presence,
+You have a noble and a true conceit
+Of god-like amity; which appears most strongly
+In bearing thus the absence of your lord.
+But, if you knew to whom you show this honour,
+How true a gentleman you send relief,
+How dear a lover of my lord your husband,
+I know you would be prouder of the work,
+Than customary bounty can enforce you.
+
+_Por_. I never did repent for doing good,
+Nor shall not now.
+This comes too near the praising of myself;
+Therefore, no more of it: hear other things.[92]
+Lorenzo, I commit into your hands
+The husbandry and manage of my house,
+Until my lord's return: for mine own part,
+I have toward heaven breath'd a secret vow,
+To live in prayer and contemplation,
+Only attended by Nerissa here;
+There is a monastery two miles off,
+And there we will abide. I do desire you
+Not to deny this imposition;
+To which my love, and some necessity,
+Now lays upon you.
+
+_Lor_. Madam, with all my heart,
+I shall obey you in all fair commands.
+
+_Por_. My people do already know my mind,
+And will acknowledge you and Jessica
+In place of lord Bassanio and myself.
+So fare you well, till we shall meet again.
+
+_Lor_. Fair thoughts and happy hours attend on you!
+
+_Jes_. I wish your ladyship all heart's content.
+
+_Por_. I thank you for your wish, and am well pleas'd
+To wish it back on you: fare you well, Jessica!
+
+_Exeunt_ JESSICA _and_ LORENZO.
+
+Now, Balthazar,
+As I have ever found thee honest, true,
+So let me find thee still: Take this same letter;
+See thou render this
+Into my cousin's hand, doctor Bellario;
+And, look, what notes and garments he doth give thee
+Bring them, I pray thee, with imagin'd speed[93]
+Unto the tranect,[94] to the common ferry
+Which trades to Venice:--waste no time in words,
+But get thee gone; I shall be there before thee.
+
+_Bal_. Madam, I go with all convenient speed.
+
+[_Exit_.
+
+_Por_. Come on, Nerissa; I have work in hand,
+That you yet know not of: we'll see our husbands,
+Before they think of us.
+
+_Ner_. Shall they see us?
+
+_Por_. They shall, Nerissa:
+But come, I'll tell thee all my whole device
+When I am in my coach, which stays for us
+At the park gate; and therefore haste away,
+For we must measure twenty miles to-day.
+
+[_Exeunt_.
+
+END OF ACT THIRD.
+
+
+
+
+
+HISTORICAL NOTES TO ACT THIRD.
+
+
+(A) The present stone structure superseded an older one of wood. This
+celebrated edifice was commenced in 1588.
+
+(B) That the swan uttered musical sounds at the approach of death was
+credited by Plato, Chrysippus, Aristotle, Euripides, Philostratus,
+Cicero, Seneca, and Martial. Pliny, Aelian, and Athenaeus, among the
+ancients, and Sir Thomas More among the moderns, treat this opinion as a
+vulgar error. Luther believed in it. See his _Colloquia_, par. 2, p.
+125, edit. 1571, 8vo. Our countryman, Bartholomew Glanville, thus
+mentions the singing of the swan: "And whan she shal dye and that a
+fether is pyght in the brayn, then she syngeth, as Ambrose sayth," _De
+propr. rer_. 1. xii., c. 11. Monsieur Morin has written a dissertation
+on this subject in vol. v. of the _Mem. de l'acad. des inscript_. There
+are likewise some curious remarks on it in Weston's _Specimens of the
+conformity of the European languages with the Oriental_, p. 135; in
+Seelen _Miscellanea_, tom. 1. 298; and in Pinkerton's _Recollections of
+Paris_, ii. 336.--_Douce's illustrations_.
+
+(C) These two magnificent granite columns, which adorn the Piazzetta of
+St. Mark, on the Molo or Quay, near the Doge's Palace, were among the
+trophies brought by Dominico Michieli on his victorious return from
+Palestine in 1125; and it is believed that they were plundered from some
+island in the Archipelago. A third pillar, which accompanied them, was
+sunk while landing. It was long before any engineer could be found
+sufficiently enterprising to attempt to rear them, and they were left
+neglected on the quay for more than fifty years. In 1180, however,
+Nicolo Barattiero[A], a Lombard, undertook the task, and succeeded. Of
+the process which he employed, we are uninformed; for Sabellico records
+no more than that he took especial pains to keep the ropes continually
+wetted, while they were strained by the weight of the huge marbles. The
+Government, more in the lavish spirit of Oriental bounty, than in
+accordance with the calculating sobriety of European patronage, had
+promised to reward the architect by granting whatever boon, consistent
+with its honour, he might ask.
+
+It may be doubted whether he quite strictly adhered to the requisite
+condition, when he demanded that games of chance, hitherto forbidden
+throughout the capital, might be played in the space between the
+columns: perhaps with a reservation to himself of any profits accruing
+from them. His request was granted, and the disgraceful monopoly became
+established; but afterward, in order to render the spot infamous, and to
+deter the population from frequenting it, it was made the scene of
+capital executions; and the bodies of countless malefactors were thus
+gibbeted under the very windows of the palace of the chief magistrate. A
+winged lion in bronze, the emblem of St. Mark, was raised on the summit
+of one of these columns; and the other was crowned with a statue of St.
+Theodore, a yet earlier patron of the city, armed with a lance and
+shield, and trampling on a serpent. A blunder, made by the statuary in
+this group, has given occasion for a sarcastic comment from Amelot de la
+Houssaye. The saint is sculptured with the shield in his right hand, the
+lance in his left; a clear proof, says the French writer, of the
+unacquaintance of the Venetians with the use of arms; and symbolical
+that their great council never undertakes a war of its own accord, nor
+for any other object than to obtain a good and secure peace. The
+satirist has unintentionally given the republic the highest praise which
+could flow from his pen. Happy, indeed, would it have been for mankind,
+if Governments had never been actuated by any other policy. De la
+Houssaye informs us also that the Venetians exchanged the patronage of
+St. Theodore for that of St. Mark, from like pacific motives; because
+the first was a soldier and resembled St. George, the tutelary idol of
+Genoa.--_Sketches of Venetian History_.
+
+FOOTNOTES:
+
+[Footnote 90: _The Duke cannot deny_, &c.; As the reason here given
+seems a little perplex'd, it may be proper to explain it. If, says he,
+the duke stop the course of law, it will be attended with this
+inconvenience, that stranger merchants, by whom the wealth and power of
+this city is supported, will cry out of injustice. For the known stated
+law being their guide and security, they will never bear to have the
+current of it stopped on any pretence of equity whatsoever.--WARBURTON.]
+
+[Footnote 91: _For the commodity that strangers have With us in Venice,
+if it be denied_, &c.; _Id est_, for the denial of those rights to
+strangers, which render their abode at Venice so commodious and
+agreeable to them, would much impeach the justice of the state. The
+consequence would be, that strangers would not reside or carry on
+traffick here; and the wealth and strength of the state would be
+diminished. In the _Historye of Italye,_ by W. Thomas, quarto, 1567,
+there is a section _On the libertee of straungers_, at Venice--MALONE.]
+
+[Footnote 92: _--hear other things_.; _Id est_, she'll say no more in
+self-praise, but will refer to a new subject.]
+
+[Footnote 93: _--with imagin'd speed_; _Id est_, with celerity, like
+that of imagination.]
+
+[Footnote 94: _Unto the tranect_,; Probably this word means the tow-boat
+of the ferry.]
+
+[Footnote A: Doglioni fixes the erection of these columns in 1172,
+Sabellico in 1174, the common Venetian Guide-books, a few years later.
+The Abbate Garaccioli, writes the name of the engineer Starrattoni.]
+
+
+
+
+
+ACT IV.
+
+
+
+
+SCENE I.--VENICE. A COURT OF JUSTICE.(A)
+
+
+_The_ DUKE, (B) _the_ MAGNIFICOES[95] ANTONIO, BASSANIO, GRATIANO,
+SALARINO, SALANIO, _and others_.
+
+_Duke_. What is Antonio here?
+
+_Ant_. Ready, so please your grace.
+
+_Duke_, I am sorry for thee: them art come to answer
+A stony adversary, an inhuman wretch,
+Uncapable of pity, void and empty
+From any dram of mercy.
+
+_Ant_. I have heard
+Your grace hath ta'en great pains to qualify
+His rigorous course; but since he stands obdurate,
+And that no lawful means can carry me
+Out of his envy's reach,[96] I do oppose
+My patience to his fury; and am arm'd
+To suffer, with a quietness of spirit,
+The very tyranny and rage of his.
+
+_Duke_. Go one, and call the Jew into the court.
+
+_Grand Capt_. He's ready at the door: he comes, my lord.
+
+_Enter_ SHYLOCK.
+
+_Duke_. Make room, and let him stand before our face.
+Shylock, the world thinks, and I think so, too,
+That thou but lead'st this fashion of thy malice
+To the last hour of act: and then, 'tis thought
+Thou'lt show thy mercy and remorse,[97] more strange
+Than is thy strange apparent cruelty:[98]
+And where[99] thou now exact'st the penalty,
+(Which is a pound of this poor merchant's flesh),
+Thou wilt not only lose the forfeiture,
+But touch'd with human gentleness and love,
+Forgive a moiety of the principal;
+Glancing an eye of pity on his losses,
+That have of late so huddled on his back,
+Enough to press a royal merchant down, (c)
+And pluck commiseration of his state
+From brassy bosoms, and rough hearts of flint,
+From stubborn Turks and Tartars, never train'd
+To offices of tender courtesy.
+We all expect a gentle answer, Jew.
+
+_Shy_. I have possess'd your grace of what I purpose;
+And by our holy Sabbath have I sworn,
+To have the due and forfeit of my bond:
+If you deny it, let the danger light
+Upon your charter, and your city's freedom.
+You'll ask me, why I rather choose to have
+A weight of carrion flesh, than to receive
+Three thousand ducats: I'll not answer that:
+But, say, it is my humour:[100] Is it answer'd?
+What if my house be troubled with a rat,
+And I be pleas'd to give ten thousand ducats
+To have it ban'd? What, are you answer'd yet?
+Some men there are love not a gaping pig;[101]
+Some, that are mad if they behold a cat;
+Now for your answer.
+As there is no firm reason to be render'd
+Why he cannot abide a gaping pig;
+Why he a harmless necessary cat;
+So can I give no reason, nor I will not,
+More than a lodg'd hate, and a certain loathing,
+I bear Antonio, that I follow thus
+A losing suit against him. Are you answer'd?
+
+_Bas_. This is no answer, thou unfeeling man,
+To excuse the current of thy cruelty.
+
+_Shy_. I am not bound to please thee with my answer.
+
+_Bas_. Do all men kill the things they do not love?
+
+_Shy_. Hates any man the thing he would not kill?
+
+_Bas_. Every offence is not a hate at first.
+
+_Shy_. What, would'st thou have a serpent sting thee twice?
+
+_Ant_. I pray you, think you question with the Jew.[102]
+You may as well go stand upon the beach,
+And bid the main flood bate his usual height;
+Yon may as well use question with the wolf,
+Why he hath made the ewe bleat for the lamb;
+You may as well forbid the mountain pines
+To wag their high tops, and to make no noise,
+When they are fretted with the gusts of heaven;
+You may as well do anything most hard,
+As seek to soften that (than which what's harder?)
+His Jewish heart:--Therefore, I do beseech you,
+Make no more offers, use no further means,
+But, with all brief and plain conveniency,
+Let me have judgment, and the Jew his will.
+
+_Bas_. For thy three thousand ducats here are six.
+
+_Shy_. If every ducat in six thousand ducats
+Were in six parts, and every part a ducat,
+I would not draw them,--I would have my bond.
+
+_Duke_. How shall thou hope for mercy, rend'ring none?
+
+_Shy_. What judgment shall I dread, doing no wrong?
+You have among you many a purchas'd slave,
+Which, like your asses, and your dogs, and mules,
+You use in abject and in slavish parts,
+Because you bought them:--Shall I say to you,
+Let them be free, marry them to your heirs?
+Why sweat they under burthens? let their beds
+Be made as soft as yours, and let their palates
+Be season'd with such viands? You will answer,
+The slaves are ours:--So do I answer you.
+The pound of flesh, which I demand of him.
+Is dearly bought; 'tis mine, and I will have it;
+If you deny me, fie upon your law!
+There is no force in the decrees of Venice:
+I stand for judgment: answer; shall I have it?
+
+_Duke_. Upon my power, I may dismiss this court,
+Unless Bellario, a learned doctor,
+Whom I have sent for to determine this,
+Come here to day.
+
+_Grand Capt_. My lord, here stays without
+A messenger, with letters from the doctor,
+New come from Padua.[103]
+
+_Duke_. Bring us the letters:--Call the messenger.
+
+_Bas_. Good cheer, Antonio! What, man! courage yet!
+The Jew shall have my flesh, blood, bones, and all,
+Ere thou shall lose for me one drop of blood.
+
+_Ant_. I am a tainted wether of the flock,
+Meetest for death; the weakest kind of fruit
+Drops earliest to the ground, and so let me:
+You cannot better be employ'd, Bassanio,
+Than to live still, and write mine epitaph.
+
+_Enter_ NERISSA, _dressed like a lawyer's clerk_.
+
+_Duke_. Came you from Padua, from Bellario?
+
+_Ner_. From both, my lord; Bellario greets your grace.
+
+[_Presents a letter_.
+
+_Bas_. Why dost thou whet thy knife so earnestly?
+
+_Shy_. To cut the forfeit from that bankrupt there.
+
+_Gra_. Can no prayers pierce thee?
+
+_Shy_. No, none that thou hast wit enough to make.
+
+_Gra_. O, be thou damn'd inexorable dog!
+And for thy life let justice be accus'd.
+Thou almost makst me waver in my faith,
+To hold opinion with Pythagoras,
+That souls of animals infuse themselves
+Into the trunks of men: thy currish spirit
+Govern'd a wolf, who, hang'd for human slaughter,
+Even from the gallows did his fell soul fleet,
+And whilst thou lay'st in thy unhallow'd dam,
+Infus'd itself in thee; for thy desires
+Are wolfish, bloody, starv'd, and ravenous.
+
+_Shy_. Till thou can'st rail the seal from off my bond,
+Thou but offend'st thy lungs to speak so loud:
+Repair thy wit, good youth; or it will fall
+To cureless ruin.--I stand here for law.
+
+_Duke_. This letter from Bellario doth commend
+A young and learned doctor tax our court:--
+Where is he?
+
+_Ner_. He attendeth here hard by,
+To know your answer, whether you'll admit him.
+
+_Duke_. With all my heart:--some three or four of you
+Go give him courteous conduct to this place.--
+Meantime, the court shall hear Bellario's letter.
+
+[_Herald reads_] "Your grace shall understand, that, at the receipt of
+your letter, I am very sick; but that in the instant that your messenger
+came, in loving visitation was with me a young doctor of Home; his name
+is Balthasar: I acquainted him with the cause in controversy between the
+Jew and Antonio, the merchant: we turned o'er many books together; he is
+furnished with my opinion; which, better'd with his own learning (the
+greatness whereof I cannot enough commend), comes with him, at my
+importunity, to fill up your grace's request in my stead. I beseech you,
+let his lack of years be no impediment to let him lack a reverend
+estimation; for I never knew so young a body with so old a head. I leave
+him to your gracious acceptance, whose trial shall better publish his
+commendation."
+
+_Duke_. You hear the learn'd Bellario, what he writes:
+And here, I take it, is the doctor come.
+
+_Enter_ PORTIA, _dressed like a Doctor of Laws_.
+
+Give me your hand: Came you from old Bellario?
+
+_Por_. I did, my lord.
+
+_Duke_. You are welcome: take your place.
+Are you acquainted with the difference
+That holds this present question in the court?
+
+_Por_. I am informed throughly of the cause.
+Which is the merchant here, and which the Jew?
+
+_Duke_. Antonio and old Shylock, both stand forth.
+
+_Por_. Is your name Shylock?
+
+_Shy_. Shylock is my name.
+
+_Por_. Of a strange nature is the suit you follow;
+Yet in such rule that the Venetian law
+Cannot impugn you,[104] as you do proceed.--You
+stand within his danger,[105] do you not?
+
+[_To_ ANTONIO.
+
+_Ant_. Ay, so he says.
+
+_Por_. So you confess the bond?
+
+_Ant_. I do.
+
+_Por_. Then must the Jew be merciful.
+
+_Shy_. On what compulsion must I? Tell me that.
+
+_Por_. The quality of mercy is not strain'd;[106]
+It droppeth, as the gentle rain from heaven
+Upon the place beneath: it is twice bless'd;
+It blesseth him that gives, and him that takes;
+'Tis mightiest in the mightiest: it becomes
+The throned monarch better than his crown;
+His sceptre shows the force of temporal power,
+The attribute to awe and majesty,
+Wherein doth sit the dread and fear of kings;
+But mercy is above this sceptred sway,
+It is enthroned in the hearts of kings,
+It is an attribute to God himself;
+And earthly power doth then show likest God's
+When mercy seasons justice. Therefore, Jew,
+Though justice be thy plea, consider this---That
+in the course of justice, none of us
+Should see salvation: we do pray for mercy;
+And that same prayer doth teach us all to render
+The deeds of mercy. I have spoke thus much,
+To mitigate the justice of thy plea;
+Which if thou follow, this strict court of Venice
+Must needs give sentence 'gainst the merchant there.
+
+_Shy_., My deeds upon my head! I crave the law,
+The penalty and forfeit of my bond.
+
+_Por_. Is he not able to discharge the money?
+
+_Bas_. Yes, here I tender it for him in the court;
+Yea, thrice the sum: if that will not suffice,
+I will be bound to pay it ten times o'er,
+On forfeit of my hands, my head, my heart:
+If this will not suffice, it must appear
+That malice bears down truth.[107] And I beseech you,
+Wrest once the law to your authority:
+To do a great right to do a little wrong;
+And curb this cruel devil of his will.
+
+_Por_. It must not be; there is no power in Venice
+Can alter a decree established:
+'Twill be recorded for a precedent;
+And many an error, by the same example,
+Will rush into the state; it cannot be.
+
+_Shy_. A Daniel come to judgment! yea, a Daniel!
+O wise young judge, how do I honour thee!
+
+_Por_. I pray you, let me look upon the bond.
+
+_Shy_. Here 'tis, most reverend doctor, here it is.
+
+_Por_. Shylock, there's thrice thy money offer'd thee.
+
+_Shy_. An oath, an oath, I have an oath in heaven:
+Shall I lay perjury upon my soul?
+No, not for Venice.
+
+_Por_. Why, this bond is forfeit;
+And lawfully by this the Jew may claim
+A pound of flesh, to be by him cut off
+Nearest the merchant's heart:--Be merciful;
+Take thrice thy money; bid me tear the bond.
+
+_Shy_. When it is paid according to the tenour.
+It doth appear you are a worthy judge;
+You know the law, your exposition
+Hath been most sound: I charge you by the law,
+Whereof you are a well-deserving pillar,
+Proceed to judgment: by my soul I swear,
+There is no power in the tongue of man
+To alter me: I stay here on my bond.
+
+_Ant_. Most heartily I do beseech the court
+To give the judgment.
+
+_Por_. Why then, thus it is:
+You must prepare your bosom for his knife.
+
+_Shy_. O noble judge! O excellent young man!
+
+_Por_. For the intent and purpose of the law
+Hath full relation to the penalty,
+Which here appeareth due upon the bond.
+
+_Shy_. 'Tis very true: O wise and upright judge!
+How much more elder art thou than thy looks!
+
+_Por_. Therefore, lay bare your bosom.
+
+_Shy_. Ay, his breast:
+So says the bond;--Doth it not, noble judge?--Nearest
+his heart, those are the very words.
+
+_Por_. It is so. Are there balance here to weigh
+The flesh?
+
+_Shy_. I have them ready.
+
+_Por_. Have by some surgeon, Shylock, on your charge,
+To stop his wounds, lest he should bleed to death.
+
+_Shy_. Is it so nominated in the bond?
+
+_Por_. It is not so express'd; but what of that?
+'Twere good you do so much for charity.
+
+_Shy_. I cannot find it; 'tis not in the bond.
+
+_Por_. Come, merchant, have you anything to say?
+
+_Ant_. But little; I am arm'd and well prepar'd.--
+Give me your hand, Bassanio; fare you well!
+Grieve not that I am fallen to this for you;
+For herein fortune shows herself more kind
+Than is her custom: it is still her use,
+To let the wretched man outlive his wealth,
+To view with hollow eye and wrinkled brow,
+An age of poverty: from which lingering penance
+Of such a misery doth she cut me off.
+Commend me to your honorable wife:
+Tell her the process of Antonio's end;
+Say, how I lov'd you, speak me fair in death;
+And, when the tale is told, bid her be judge
+Whether Bassanio had not once a love.
+Repent not you that you shall lose your friend,
+And he repents not that he pays your debt;
+For, if the Jew do cut but deep enough,
+I'll pay it instantly with all my heart.
+
+_Bas_. Antonio, I am married to a wife,
+Which is as dear to me as life itself;
+But life itself, my wife, and all the world,
+Are not with me esteem'd above thy life;
+I would lose all, ay, sacrifice them all
+Here to this devil, to deliver you.
+
+_Gra_. I have a wife, whom I protest I love;
+I would she were in heaven, so she could
+Entreat some power to change this currish Jew.
+
+_Shy_. These be the Christian husbands: I have a daughter;
+Would any of the stock of Barrabas[108]
+Had been her husband, rather than a Christian!  [_Aside_.
+We trifle time; I pray thee pursue sentence.
+
+_Por_. A pound of that same merchant's flesh is thine;
+The court awards it, and the law doth give it.
+
+_Shy_. Most rightful judge!
+
+_Por_. And you must cut this flesh from off his breast!
+The law allows it, and the court awards it.
+
+_Shy_. Most learned judge!--A sentence; come, prepare.
+
+_Por_. Tarry a little;--there is something else.--
+This bond doth give thee here no jot of blood;
+The words expressly are a pound of flesh:
+Then take thy bond, take thou thy pound of flesh;
+But, in the cutting it, if thou dost shed
+One drop of Christian blood, thy lands and goods
+Are, by the laws of Venice, confiscate
+Unto the state of Venice.
+
+_Gra_. O upright judge!--Mark, Jew!--O learned judge!
+
+_Shy_. Is that the law?
+
+_Por_. Thyself shall see the act;
+For, as thou urgest justice, be assur'd
+Thou shalt have justice more than thou desir'st.
+
+_Gra_. O learned judge!--Mark Jew;--a learned judge!
+
+_Shy_. I take his offer, then,--pay the bond thrice,
+And let the Christian go.
+
+_Bas_. Here is the money.
+
+_Por_. Soft.
+The Jew shall have all justice;--soft;--no haste;--He
+shall have nothing but the penalty.
+
+_Gra_. O Jew! an upright judge, a learned judge!
+
+_Por_. Therefore, prepare thee to cut off the flesh.(D)
+Shed thou no blood; nor cut thou less, nor more,
+But just a pound of flesh: if thou tak'st more,
+Or less, than a just pound,--be it but so much
+As makes it light or heavy in the balance,
+Or the division of the twentieth part
+Of one poor scruple,--nay, if the scale do turn
+But in the estimation of a hair,--
+Thou diest, and all thy goods are confiscate.
+
+_Gra_. A second Daniel, a Daniel, Jew!
+Now, infidel, I have thee on the hip.
+
+_Por_. Why doth the Jew pause? take thy forfeiture.
+
+_Shy_. Give me my principal, and let me go.
+
+_Bas_. I have it ready for thee; here it is.
+
+_Por_. He hath refus'd it in the open court;
+He shall have merely justice, and his bond.
+
+_Gra_. A Daniel, still say I; a second Daniel!--
+thank thee, Jew, for teaching me that word.
+
+_Shy_. Shall I not barely have my principal?
+
+_Por_. Thou shalt have nothing but the forfeiture,
+To be so taken at thy peril, Jew.
+
+_Shy_. Why then the devil give him good of it!
+I'll stay no longer question.
+
+_Por_. Tarry, Jew;
+The law hath yet another hold on you.
+It is enacted in the laws of Venice,--If
+it be proved against an alien,
+That by direct or indirect attempts
+He seek the life of any citizen,
+The party 'gainst the which he doth contrive
+Shall seize one half his goods; the other half
+Comes to the privy coffer of the state;
+And the offender's life lies in the mercy
+Of the duke only, 'gainst all other voice.
+In which predicament, I say, thou stand'st:
+For it appears by manifest proceeding,
+That, indirectly, and directly, too,
+Thou hast contriv'd against the very life
+Of the defendant; and thou hast incurr'd
+The danger formerly by me rehears'd.
+Down, therefore, and beg mercy of the duke.
+
+_Gra_. Beg that thou may'st have leave to hang thyself:
+And yet, thy wealth being forfeit to the state,
+Thou hast not left the value of a cord;
+Therefore, thou must be hang'd at the state's charge.
+
+_Duke_. That thou shall see the difference of our spirit,
+I pardon thee thy life before thou ask it:
+For half thy wealth, it is Antonio's;
+The other half comes to the general state,
+Which humbleness may drive unto a fine.
+
+_Por_. Ay, for the state;[109] not for Antonio.
+
+_Shy_. Nay, take my life and all, pardon not that:
+You take my house, when you do take the prop
+That doth sustain my house; you take my life,
+When you do take the means whereby I live.
+
+_Por_. What mercy can you render him, Antonio?
+
+_Gra_. A halter gratis; nothing else, for Heaven's sake.
+
+_Ant_. So please my lord the duke, and all the court,
+To quit the fine for one half of his goods;
+I am content, so he will let me have
+The other half in use,[110] to render it,
+Upon his death, unto the gentleman
+That lately stole his daughter;
+Two things provided more,--That for this favour,
+He presently become a Christian;
+The other, that he do record a gift,
+Here in the court, of all he dies possess'd,
+Unto his son Lorenzo and his daughter.
+
+_Duke_. He shall do this; or else I do recant
+The pardon that I late pronounced here.
+
+_Por_. Art thou contented, Jew? What dost thou say?
+
+_Shy_. I am content.
+
+_Por_. Clerk, draw a deed of gift.
+
+_Shy_. I pray you give me leave to go from hence:
+I am not well; send the deed after me,
+And I will sign it.
+
+_Duke_. Get thee gone, but do it.
+
+_Gra_. In christening; thou shalt have two godfathers;
+Had I been judge, thou should'st have had ten more,[111]
+To bring thee to the gallows, not to the font.
+
+[_Exit_ SHYLOCK.
+
+_Duke_. Sir, I entreat you with me home to dinner.
+
+_Por_. I humbly do desire your grace of pardon.
+I must away this night toward Padua;
+And it is meet I presently set forth.
+
+_Duke_. I am sorry that your leisure serves you not:
+Antonio, gratify this gentleman;
+For, in my mind, you are much bound to him.
+
+[_Exeunt_ DUKE, _Magnificoes, and Train_.
+
+_Bas_. Most worthy gentleman, I and my friend,
+Have by your wisdom been this day acquitted
+Of grievous penalties; in lieu whereof,
+Three thousand ducats, due unto the Jew,
+We freely cope your courteous pains withal.
+
+_Ant_. And stand indebted, over and above,
+In love and service to you evermore.
+
+_Por_. He is well paid that is well satisfied:
+And I, delivering you, am satisfied,
+And therein do account myself well paid;
+My mind was never yet more mercenary.
+I pray you know me, when we meet again;
+I wish you well, and so I take my leave.
+
+_Bas_. Dear Sir, of force I must attempt you further;
+Take some remembrance of us, as a tribute,
+Not as a fee: grant me two things, I pray you,
+Not to deny me, and to pardon me.
+
+_Por_. You press me far, and therefore I will yield,
+Give me your gloves, I'll wear them for your sake;
+And, for your love, I'll take this ring from you:--Do
+not draw back your hand; I'll take no more;
+And you in love shall not deny me this.
+
+_Bas_. This ring, good Sir,--alas, it is a trifle;
+I will not shame myself to give you this.
+
+_Por_. I will have nothing else but only this;
+And now, methinks, I have a mind to it.
+
+_Bas_. There's more depends on this than on the value.
+The dearest ring in Venice will I give you,
+And find it out by proclamation;
+Only for this I pray you pardon me.
+
+_Por_. I see, Sir, you are liberal in offers:
+You taught me first to beg; and now, methinks,
+You teach me how a beggar should be answer'd.
+
+_Bas_. Good Sir, this ring was given me by my wife;
+And when she put it on, she made me vow
+That I should neither sell, nor give, nor lose it.
+
+_Por_. That 'scuse serves many men to save their gifts.
+An if your wife be not a mad woman,
+And know how well I have deserv'd this ring,
+She would not hold out enemy for ever,
+For giving it to me. Well, peace be with you!
+
+[_Exeunt_ PORTIA _and_ NERISSA.
+
+_Ant_. My lord Bassanio, let him have the ring;
+Let his deservings, and my love withal,
+Be valued 'gainst your wife's commandment.
+
+_Bas_. Go, Gratiano, run and overtake him;
+Give him the ring; and bring him, if thou can'st,
+Unto Antonio's house;--away, make haste.
+
+[_Exit_ GRATIANO.
+
+Come, you and I will thither presently;
+And in the morning early will we both
+Fly toward Belmont: Come, Antonio.
+
+[_Exeunt_.
+
+FOOTNOTES:
+
+[Footnote 95: _Magnificoes_,; Coryat calls the nobles of Venice
+_Clarissimoes_.]
+
+[Footnote 96: _--envy's reach_,; Envy, in this place, means hatred
+or malice.]
+
+[Footnote 97: _--remorse,; Id est_, pity:]
+
+[Footnote 98: _--apparent cruelly_: That is, seeming cruelty; not
+real.]
+
+[Footnote 99: _--where thou now_ where for whereas.]
+
+[Footnote 100: _--I'll not answer that_;
+
+_But, say, it is my humour_; The Jew being asked a question
+which the law does not require him to answer, stands upon his
+right, and refuses; but afterwards gratifies his own malignity by
+such answers as he knows will aggravate the pain of the enquirer.
+I will not answer, says he, as to a legal or serious question, but,
+since you want an answer, will this serve you?--JOHNSON.]
+
+[Footnote 101: _--a gaping pig_; By a _gaping_ pig, Shakespeare, I believe,
+meant a pig prepared for the table; for in that state is the epithet,
+_gaping_, most applicable to this animal. So, in Fletcher's _Elder
+Brother_--
+
+"And they stand _gaping_ like a _roasted pig_."
+
+A passage in one of Nashe's pamphlets (which perhaps furnished our
+author with his instance), may serve to confirm the observation: "The
+causes conducting unto wrath are as diverse as the actions of a man's
+life. Some will take on like a madman, if they see a _pig come to the
+table_. Sotericus, the surgeon, was cholerick at the sight of sturgeon,"
+&c. _Pierce Pennylesse his Supplication to the Devil_, 1592.--MALONE.]
+
+[Footnote 102: _--question with the Jew_.; To question is to converse.]
+
+[Footnote 103: Padua is the place of education for the civil law in
+Italy.]
+
+[Footnote 104: _Cannot impugn you_,; To impugn, is to oppose, to
+controvert.]
+
+[Footnote 105: _You stand within his danger,; Id est_, within his
+power--within his reach or control.]
+
+[Footnote 106: _The quality of mercy is not strain'd;_ "Mercy is
+seasonable in the time of affliction, as clouds of rain in the time of
+drought." --Ecclesiasticus xxxv., 20.]
+
+[Footnote 107: _--malice bears down truth_.; Malice oppresses honesty. A
+_true_ man in old language is an _honest_ man.]
+
+[Footnote 108: _--Barrabas_; Shakespeare seems to have followed the
+pronunciation of the name of this robber usual to the Theatre, Barrabas
+being sounded Barabas throughout Marlowe's _Jews of Malta_.]
+
+[Footnote 109: _Ay, for the state_; That is, the state's moiety may be
+commuted for a fine, but not Antonio's.]
+
+[Footnote 110: _The other half in use_,; Let him have it at interest
+during the Jew's life, to render it on his death to Lorenzo.]
+
+[Footnote 111: _thou should'st have had ten more,; Id est_, a jury of
+_twelve_ men, to condemn thee to be hanged.]
+
+
+
+
+SCENE II.--VENICE. THE FOSCARI GATE OF THE DUCAL PALACE, LEADING TO THE
+GIANT'S STAIRCASE.
+
+
+_Enter_ PORTIA _and_ NERISSA.
+
+_Por_. Inquire the Jew's house out, give him this deed, And let him sign
+it; we'll away to-night, And be a day before our husbands home: This
+deed will be well welcome to Lorenzo.
+
+_Enter_ GRATIANO.
+
+_Gra_. Fair Sir, you are well overtaken: My lord Bassanio, upon more
+advice,[112] Hath sent you here this ring; and doth entreat Your company
+at dinner.
+
+_Por_. That cannot be: This ring I do accept most thankfully, And so, I
+pray you, tell him: Furthermore, I pray you, show my youth old Shylock's
+house.
+
+_Gra_. That will I do.
+
+_Ner_. Sir, I would speak with you:--I'll see if I can get my husband's
+ring,
+
+[_To_ PORTIA.
+
+Which I did make him swear to keep for ever.
+
+_Por_. Thou may'st, I warrant. We shall have old swearing,[113] That
+they did give the rings away to men; But we'll outface them, and
+outswear them, too. Away, make haste; thou know'st where I will tarry.
+
+_Ner_. Come, good Sir, will you show me to this house?
+
+[_Exeunt_.
+
+END OF ACT FOURTH.
+
+FOOTNOTES:
+
+[Footnote 112: _upon more advice,; Id est_, upon more reflection.]
+
+[Footnote 113: _old swearing_; Of this once common augmentative in
+colloquial language there are various instances in our author.]
+
+
+
+
+
+HISTORICAL NOTES TO ACT FOURTH.
+
+
+(A) This scene represents the Sala dei Pregádi, or Hall of the Senators.
+In Venice the tribunal for criminal cases was composed of forty judges,
+ordinarily presided over by one of three selected from the Council of
+the Doge, and draughted for the most part, if not wholly, from the
+members of the Senate. The Doge, who on all occasions was attended by
+his particular officers, had the right of sitting in the councils, or on
+the tribunal. The authority for the six senators in red (in this scene)
+is taken from the picture at Hampton Court Palace, where the Doge of
+Venice, in state, is receiving Sir Henry Wootton, ambassador from James
+the First. The picture is by Odoardo Fialletti, better known as an
+engraver than as a painter, and who was living at Venice when Sir Henry
+Wootton was ambassador there.
+
+(B) The first Doge, or Duke of Venice, was Paolo Luca Anafesto, elected
+A.D. 697, and the last was Luigi Manini, who yielded the city, which had
+just completed the eleventh century of its sway, to the victorious arms
+of Buonaparte, in 1797.
+
+(C) We are not to imagine the word _royal_ to be only a ranting,
+sounding epithet. It is used with great propriety, and shows the poet
+well acquainted with the history of the people whom he here brings upon
+the stage. For when the French and Venetians, in the beginning of the
+thirteenth century, had won Constantinople, the French, under the
+Emperor Henry, endeavoured to extend their conquests into the provinces
+of the Grecian Empire on the _Terra firma_; while the Venetians, who
+were masters of the sea, gave liberty to any subjects of the republic,
+who would fit out vessels, to make themselves masters of the isles of
+the Archipelago, and other maritime places; and to enjoy their conquests
+in sovereignty: only doing homage to the republic for their several
+principalities. By virtue of this licence, the Sanudi, the Justinianii,
+the Grimaldi, the Summaripi, and others, all Venetian _merchants_,
+erected principalities in several places of the Archipelago (which their
+descendants enjoyed for many generations), and thereby became truly and
+properly _royal merchants_, which, indeed was the title generally given
+them all over Europe. Hence, the most eminent of our own merchants
+(while publick spirit resided amongst them, and before it was aped by
+faction), were called _royal merchants_.--_Warburton_.
+
+This epithet was in our poet's time more striking and better
+understood, because Gresham was then commonly dignified with the title
+of the _royal merchant.--Johnson_.
+
+(D) This judgment is related by _Gracian_, the celebrated Spanish
+Jesuit, in his _Hero_, with a reflection at the conclusion of it;--
+
+"The vivacity of that great Turke enters into competition with that of
+Solomon: a _Jew_ pretended to cut an ounce of the flesh of a Christian
+upon a penalty of usury; he urged it to the Prince, with as much
+obstinacy, as perfidiousness towards God. The great Judge commanded a
+pair of scales to be brought, threatening the _Jew_ with death if he cut
+either more or less: And this was to give a sharp decision to a
+malicious process, and to the world a miracle of subtilty."--_The Hero_,
+p. 24, &c.
+
+Gregorio Leti, in his _Life of Sixtus V_., has a similar story. The
+papacy of Sixtus began in 1583. He died Aug. 29, 1590.--_Steevens_
+
+
+
+
+
+ACT V.
+
+
+
+
+SCENE I.--BELMONT. AVENUE TO PORTIA'S HOUSE.
+
+
+_Enter_ LORENZO _and_ JESSICA.
+
+_Lor_. The moon shines bright:--In such a night as this,
+When the sweet wind did gently kiss the trees,
+And they did make no noise,--in such a night,
+Troilus, methinks, mounted the Trojan walls,
+And sigh'd his soul toward the Grecian tents,
+Where Cressid lay that night.
+
+_Jes_. In such a night
+Bid young Lorenzo swear he lov'd me well;
+Stealing my soul with many vows of faith,
+And ne'er a true one.
+
+_Lor_. In such a night,
+Did pretty Jessica, like a little shrew,
+Slander her love, and he forgave it her.
+
+_Jes_. I would out-night you, did no body come:
+But, hark, I hear the footing of a man.
+
+_Enter_ BALTHAZAR.
+
+_Lor_. Who comes so fast in silence of the night?
+
+_Bal_. A friend,
+
+_Lor_. A friend? what friend? your name, I pray you,
+friend.
+
+_Bal_. Balthazar is my name: and I bring word,
+My mistress will before the break of day
+Be here at Belmont.
+I pray you, is my master yet return'd?
+
+_Lor_. He is not, nor we have not heard from him.--
+But go we in, I pray thee, Jessica,
+And ceremoniously let us prepare
+Some welcome for the mistress of the house.
+
+_Enter_ LANCELOT.
+
+_Lau_. Sola, sola, we ha, ho, sola, sola.
+
+_Lor_. Who calls?
+
+_Lau_. Sola! Did you see master Lorenzo, and mistress Lorenzo? sola,
+sola
+
+_Lor_. Leave holloing, man; here.
+
+_Lau_. Sola! where? where?
+
+_Lor_. Here.
+
+_Lau_. Tell him, there's a post come from my master, with his horn full
+of good news; my master will be here ere morning.
+
+[_Exit_.
+
+_Lor_. My friend Balthazar, signify, I pray you,
+Within the house, your mistress is at hand:
+And bring your music forth into the air. [_Exit_ BALTHAZAR.
+How sweet the moon-light sleeps upon this bank!
+Here will we sit, and let the sounds of music
+Creep in our ears: soft stillness, and the night,
+Become the touches of sweet harmony.
+Sit, Jessica. Look how the floor of heaven
+Is thick inlaid with patines[114] of bright gold.
+There's not the smallest orb which thou behold'st
+But in his motion like an angel sings,
+Still quiring to the young-eyed cherubins:
+Such harmony is in immortal souls,
+But whilst this muddy vesture of decay
+Doth grossly close it in, we cannot hear it.--
+
+_Enter_ MUSICIANS.
+
+    GLEE.[115]
+
+        It was a lover and his lass,
+          With a hey and a ho, and a hey nonino;
+        That o'er the green corn fields did pass,
+          In the spring-time, the pretty spring time,
+        When birds do sing, hey ding-a-ding, ding:--
+        Sweet lovers love the spring.
+
+    And therefore take the present time,
+      With a hey and a ho, and a hey nonino;
+    For love is crowned with the prime
+    In the spring-time, the pretty spring time,
+    When birds do sing, hey ding-a-ding, ding:--
+    Sweet lovers love the spring.
+
+_Jes_. I am never merry when I hear sweet music.
+
+_Lor_. The reason is your spirits are attentive:
+For do but note a wild and wanton herd,
+If any air of music touch their ears,
+You shall perceive them make a mutual stand,
+Their savage eyes turn'd to a modest gaze,
+By the sweet power of music. Therefore, the poet
+Did feign that Orpheus drew trees, stones, and floods;
+Since nought so stockish, hard, and full of rage,
+But music for the time doth change his nature:
+The man that hath no music in himself,
+Nor is not mov'd with concord of sweet sounds,
+Is fit for treasons, stratagems, and spoils;
+The motions of his spirit are dull as night,
+And his affections dark as Erebus:
+Let no such man be trusted.--Mark the music.
+
+_Enter_ PORTIA _and_ NERISSA, _at a distance_.
+
+_Por_. That light we see is burning in my hall.
+How far that little candle throws his beams!
+So shines a good deed in a naughty world. Music! hark!
+
+_Ner_. It is your music, madam, of the house.
+
+_Por_. Nothing is good, I see, without respect;[116]
+Methinks it sounds much sweeter than by day.
+
+_Ner_. Silence bestows that virtue on it, madam.
+
+[_Music ceases_.
+
+_Por_. How many things by season season'd are
+To their light praise, and true-perfection!--
+
+_Lor_. That is the voice,
+Or I am much deceiv'd, of Portia.
+
+_Por_. He knows me, as the blind man knows the cuckoo,
+By the bad voice.
+
+_Lor_. Dear lady, welcome home.
+
+_Por_. We have been praying for our husbands' welfare,
+Which speed, we hope, the better for our words.
+Are they return'd?
+
+_Lor_. Madam, they are not yet;
+But there is come a messenger before,
+To signify their coming.
+
+_Por_. Go in, Nerissa;
+Give order to my servants, that they take
+No note at all of our being absent hence;
+Nor you, Lorenzo;--Jessica, nor you.
+
+[_A trumpet sounds_.
+
+_Lor_. Your husband is at hand; I hear his trumpet:
+We are no tell-tales, madam; fear you not.
+
+_Enter_ BASSANIO, ANTONIO, GRATIANO, _and their Followers_.
+
+_Por_. You are welcome home, my lord.
+
+_Bas_. I thank you, madam: give welcome to my friend.--
+This is the man, this is Antonio,
+To whom I am so infinitely bound.
+
+_Por_. You should in all sense be much bound to him,
+For, as I hear, he was much bound for you.
+
+_Ant_. No more than I am well acquitted of.
+
+_Por_. Sir, you are very welcome to our house:
+It must appear in other ways than words,
+Therefore, I scant this breathing courtesy.[117]
+
+[GRATIANO _and_ NERISSA _seem to talk apart_.
+
+_Gra_. By yonder moon, I swear you do me wrong;
+In faith, I gave it to the judge's clerk:
+Would he were hang'd that had it, for my part,
+Since you do take it, love, so much at heart.
+
+_Por_. A quarrel, ho, already? What's the matter?
+
+_Gra_. About a hoop of gold, a paltry ring
+That she did give to me; whose posy was
+For all the world, like cutler's poetry[118]
+Upon a knife,  '_Love me, and leave me not_.'
+
+_Ner_. What talk you of the posy, or the value?
+You swore to me, when I did give it you,
+That you would wear it till the hour of death:
+And that it should lie with you in your grave;
+Though not for me, yet for your vehement oaths,
+You should have been respective,[119] and have kept it.
+Gave it a judge's clerk!--but well I know,
+The clerk will ne'er wear hair on's face that had it.
+
+_Gra_. He will, an if he live to be a man.
+
+_Ner_. Ay, if a woman live to be a man.
+
+_Gra_. Now, by this hand, I gave it to a youth,--
+kind of boy; a little scrubbed boy,[120]
+No higher than thyself, the judge's clerk;
+A prating boy, that begg'd it as a fee;
+I could not for my heart deny it him.
+
+_Por_. You were to blame, I must be plain with you,
+To part so slightly with your wife's first gift:
+A thing stuck on with oaths upon your finger,
+And so riveted with faith unto your flesh.
+I gave my love a ring, and made him swear
+Never to part with it; and here he stands,--
+I dare be sworn for him, he would not leave it,
+Nor pluck it from his finger, for the wealth
+That the world masters. Now, in faith, Gratiano,
+You give your wife too unkind a cause of grief;
+An 'twere to me, I should be mad at it.
+
+_Bas_. Why, I were best to cut my left hand off,
+And swear, I lost the ring defending it.
+
+[_Aside_.
+
+_Gra_. My lord Bassanio gave his ring away
+Unto the judge that begg'd it, and, indeed,
+Deserv'd it, too; and then the boy, his clerk,
+That took some pains in writing, he begg'd mine:
+And neither man, nor master, would take aught
+But the two rings.
+
+_Por_. What ring gave you, my lord;
+Not that, I hope, which you receiv'd of me.
+
+_Bas_. If I could add a lie unto a fault,
+I would deny it; but you see, my finger
+Hath not the ring upon it, it is gone.
+
+_Por_. Even so void is your false heart of truth.
+By heaven, I will ne'er come in your sight
+Until I see the ring.
+
+_Ner_. Nor I in yours,
+Till I again see mine.
+
+_Bas_. Sweet Portia,
+If you did know to whom I gave the ring,
+If you did know for whom I gave the ring,
+And would conceive for what I gave the ring,
+And how unwillingly I left the ring,
+When nought would be accepted but the ring,
+You would abate the strength of your displeasure.
+
+_Por_. If you had known the virtue of the ring,
+Or half her worthiness that gave the ring,
+Or your own honour to contain the ring,
+You would not then have parted with the ring.
+What man is there so much unreasonable,
+If you had pleas'd to have defended it
+With any terms of zeal, wanted the modesty
+To urge the thing held as a ceremony?
+Nerissa teaches me what to believe;
+I'll die for't, but some woman had the ring.
+
+_Bas_. No, by mine honour, madam, by my soul,
+No woman had it, but a civil doctor,
+Which did refuse three thousand ducats of me,
+And begg'd the ring; the which I did deny him,
+And suffer'd him to go displeas'd away;
+Even he that had held up the very life
+Of my dear friend. What should I say, sweet lady?
+I was enforc'd to send it after him.
+Had you been there, I think you would have begg'd
+The ring of me to give the worthy doctor.
+
+_Por_. Let not that doctor e'er come near my house:
+Since he hath got the jewel that I lov'd,
+And that which you did swear to keep for me,
+I will become as liberal as you.
+
+_Ant_. I am the unhappy subject of these quarrels.
+
+_Por_. Sir, grieve not you; you are welcome notwithstanding.
+
+_Bas_. Portia, forgive me this enforced wrong;
+And in the hearing of these many friends,
+I swear to thee, even by thine own fair eyes,
+I never more will break an oath with thee.
+
+_Ant_. I once did lend my body for his wealth;[121]
+Which, but for him that had your husband's ring,
+
+[_To_ PORTIA.
+
+Had quite miscarried: I dare be bound again,
+My soul upon the forfeit, that your lord
+Will never more break faith advisedly.
+
+_Por_. Then you shall be his surety: give him this;
+And bid him keep it better than the other.
+
+_Ant_. Here, lord Bassanio; swear to keep this ring.
+
+_Bas_. By heaven it is the same I gave the doctor!
+
+_Por_. I had it of him: pardon me, Bassanio.
+
+_Ner_. And pardon me, my gentle Gratiano;
+For that same scrubbed boy, the doctor's clerk,
+Did give me this.
+
+_Gra_. Why this is like the mending of highways
+In summer, when the ways are fair enough.
+
+_Por_. You are all amaz'd:
+Here is a letter, read it at your leisure;
+It comes from Padua, from Bellario:
+There you shall find, that Portia was the doctor;
+Nerissa there, her clerk: Lorenzo here
+Shall witness, I set forth as soon as you,
+And but e'en now return'd; I have not yet
+Enter'd my house.--Antonio, you are welcome;
+And I have better news in store for you
+Than you expect: unseal this letter soon,
+There you shall find three of your argosies
+Are richly come to harbour suddenly:
+You shall not know by what strange accident
+I chanced on this letter.
+
+_Bas_. Were you the doctor, and I knew you not?
+
+_Gra_. Were you the clerk, and I knew you not?
+
+_Ant_. Sweet lady, you have given me life, and living;
+For here I read for certain, that my ships
+Are safely come to road.
+
+_Por_. How now, Lorenzo?
+My clerk has some good comforts too for you.
+
+_Ner_. Ay, and I'll give them him without a fee.--
+There do I give to you Jessica,
+From the rich Jew a special deed of gift,
+After his death, of all he dies possessed of.
+
+_Lor_. Fair ladies, you drop manna in the way of starved people.
+
+_Por_. It is almost morning,
+And yet I am sure you are not satisfied
+Of these events at full: Let us go in;
+And charge us there upon inter'gatories,[122]
+And we will answer all things faithfully.
+
+[_Exeunt_.
+
+FOOTNOTES:
+
+[Footnote 114: _--patines of bright gold.;_. A patine is the small flat
+dish or plate used with the chalice in the service of the altar. In the
+time of popery, and probably in the following Age, it was commonly made
+of gold.]
+
+[Footnote 115: Sung by Miss POOLE, Miss LEFFLEE, Mr. T. YOUNG, Mr. T.
+COLLETT, and Mr. WALLWORTH.--From _As You Like It_, Act v., Scene 3.]
+
+[Footnote 116: _Nothing is good, I see, without respect; Not absolutely
+good, but relatively good, as it is modified by circumstances.]
+
+[Footnote 117: _--this breathing courtesy_.; This verbal complimentary
+form, made up only of breath, _i_._e_., words.]
+
+[Footnote 118: _--like cutler's poetry_; Knives were formerly inscribed,
+by means of aqua fortis, with short sentences in distich.]
+
+[Footnote 119: _--respective,_; Regardful.]
+
+[Footnote 120: _--a little scrubbed boy,_; A stunted boy.]
+
+[Footnote 121: _I once did lend my body for his wealth;_] _Id est_., for
+his advantage--to obtain his happiness; _wealth_ was, at that time, the
+term opposed to _adversity_ or _calamity_.]
+
+[Footnote 122: _--inter'gatories,_; A contraction of interrogatories.]
+
+
+THE END.
+
+
+
+
+
+At a very early period, Venice had begun to trade with Constantinople
+and the Levant, and though subjected to formidable competition from the
+Pisans and Genoese, succeeded in engrossing the far largest share of the
+traffic of the East. The Crusades now commenced, and giving lucrative
+employment to their shipping in the conveyance of troops, and the
+munitions of war, greatly increased both their wealth and power, and
+enabled them to make large additions to their territory. In early times,
+the Doges had been elected by the popular voice, and held their office
+by a very precarious tenure; for, in the case of any reverse or general
+dissatisfaction from any other cause, they were not only deposed, but
+often lost their lives, either by open violence, or assassination. The
+disorders thus occasioned rose to such a height in the 12th century,
+that a change in the form of government became necessary. For this
+purpose the city was divided into six districts, each of which nominated
+two delegates, or twelve in all; these twelve nominated 470
+representatives, who concentrated in themselves all the powers which had
+been previously exercised by the popular assemblies. At the same time, a
+senate was appointed, and the Doge was provided with a council of six,
+who were nominally to assist, but, if so disposed, could easily find
+means to thwart him. The 470 representatives formed the grand council,
+and receiving their appointments annually from 12 delegates chosen by
+the popular voice, continued, in fact, notwithstanding the change in
+form, to be dependent upon it. The next change, however, set them free.
+After a severe struggle, the 470, in 1319, succeeded in making their
+office hereditary, and thus converted what had previously been a
+democracy into one of the most rigid forms of aristocracy. The evils of
+the system soon developed themselves. The 470, now hereditary nobles,
+became as jealous of each other as they had formerly been of the people,
+and while appropriating all the great offices of the state, had recourse
+to various methods, many of them of the most despotic nature, to prevent
+anyone of the great families from acquiring a preponderating influence.
+Among these arrangements was the institution of a council of 10,
+selected from the grand council, and subsequently, in 1454, the
+selection of three state inquisitors from the council of 10. These
+inquisitors, in whom all the powers of the state were absolutely vested,
+justified the name which the cruel bigotry of the Romish Church has
+established. This rigid despotism had, however, the effect of giving a
+stern unity of purpose to the proceedings of government, and doubtless
+contributed in some degree to consolidate the various accessions of
+territory which had been made into one whole. At this period the
+Venetians were masters of the coast of Dalmatia, and the islands of
+Cyprus, Candia, and a great part of the Morea, and had almost
+monopolized the trade of Egypt and the East. The first great attempt to
+humble Venice was made in the beginning of the 16th century, when the
+famous league of Cambrai, of which Pope Julius the Second was the real
+author, though the Emperor of Germany, and the kings of France and Spain
+were parties to it, was framed for the avowed purpose of completely
+subduing her, and partitioning her territories. Dissensions among the
+confederates more than her own valour saved her from destruction, but
+not before most of her possessions on the mainland had been wrested from
+her. A still heavier blow at her prosperity was struck, by the discovery
+of a new passage to the East, which carried its rich traffic into new
+channels, and dried up one of the main sources of her wealth and
+strength. The work of destruction was all but completed by the Turks,
+who engaged her in an expensive and ruinous warfare, during which she
+lost the Morea, the islands of Cyprus and Candia, and with them the
+ascendancy which she had long possessed in the Levant. From all these
+causes her decline proved as rapid as her rise had been, and though her
+position can hardly fail to give her a considerable coasting trade, all
+her maritime greatness has departed, and apparently the highest destiny
+to which she can now aspire, is that of being a valuable dependency to
+some superior power.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK THE MERCHANT OF VENICE [LIBERALLY
+EDITED BY CHARLES KEAN]***
+
+
+******* This file should be named 12578.txt or 12578.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.net/1/2/5/7/12578
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://gutenberg.net/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.net/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.net/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.net/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***

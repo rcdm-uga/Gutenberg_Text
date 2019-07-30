@@ -1,0 +1,993 @@
+The Project Gutenberg EBook of The Romantic Analogue, by W.W. Skupeldyckle
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Romantic Analogue
+
+Author: W.W. Skupeldyckle
+
+Illustrator: Ed Emsh
+
+Release Date: April 26, 2010 [EBook #32143]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ROMANTIC ANALOGUE ***
+
+
+
+
+Produced by Sankar Viswanathan, Greg Weeks, and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+                         Transcriber's Note:
+
+    This etext was produced from If Worlds of Science Fiction September
+    1953. Extensive research did not uncover any evidence that the U.S.
+    copyright on this publication was renewed.
+
+
+                                 THE
+
+                          Romantic Analogue
+
+
+                        By W. W. Skupeldyckle
+
+
+                        Illustrated by Ed Emsh
+
+
+     _Norm Venner's fancy was pretty well fixed on thoughts of
+      electronic calculators--until the invention started making
+      passes at the inventor!_
+
+       *       *       *       *       *
+
+
+
+
+Mathematicians are just like people: old, young, fat, thin, male,
+female. This one was male, thirty-five, with steady brown eyes and a
+nice smile when he remembered to use it. His name was Norman Venner,
+and besides being a mathematical whiz generally, he had designed and
+built an electronic brain, or calculator, which was in some ways
+smarter than himself--and a lot less diffident.
+
+Electronic calculators are invariably given acronymic names such as
+BINAC, SEAC, and MANIAC, and nine out of ten of them are of the
+digital type. This is a nice way of saying that they count on their
+fingers. They're nearly as big as yachts, and cost more, but can
+calculate a million times faster than any human.
+
+Norm's machine was of the analogue type, which is less flexible, less
+complex, and vastly smaller and cheaper. He called it the ICWEA
+(ICK-wee-ah), which stood for "I Can Work 'Em All!" It could, too! It
+was especially good at deriving equations from curves, which was
+really something.
+
+Charley Oglethorpe burst into the office one morning, catching Norm in
+a brown study. "Hi, Genius. How is she perking now?"
+
+"All right, except the pen skips a little sometimes and makes a messy
+curve."
+
+"Have to damp that arm better. When can I have her to work on?"
+
+"Soon as I finish these Mugu problems."
+
+Charley stared at him.
+
+"Mugu. Guided-missile center. It's nice business if we can get it--the
+digitals are all booked up months ahead, and the particular type of
+problem they send us is right up our alley."
+
+[Illustration]
+
+"I thought you were kidding me, like that Boolean Algebra stuff."
+
+"Wasn't kidding then, either."
+
+"I'll stick to instrument-making, thanks. You math guys never have any
+fun."
+
+Norm shrugged, turned to the telephone, and called an extension.
+
+"Hermosa." It was a rich, pleasant voice.
+
+"Vic? How about the rest of the Mugu cards? Ready yet?"
+
+"I'll send them up right away. Just finished them."
+
+"Who was that?" Charley inquired.
+
+"Vic Hermosa. Smart boy."
+
+Charley smiled a little.
+
+       *       *       *       *       *
+
+There was a knock at the door.
+
+"Come in," Norm called. The door opened, and a small, neat girl
+entered. Her long bob was dark and silky, but windblown. She tossed
+her head and her hair settled into place, as if she had just brushed
+it. She extended a pack of punched cards.
+
+"Thank you," Norm said, gravely.
+
+The girl looked up at him suddenly, and he stepped back a little. She
+had surprising, deep-violet eyes, and their glance seemed to have a
+tangible impact. She nodded grave acknowledgment and left.
+
+"Damn it, I wish I could do that!" Norm complained.
+
+"Make goo-goo eyes?"
+
+"No. Shake my head so my hair would automatically be combed like hers.
+I've been fighting this cowlick ever since I've been a kid--stocking
+caps, gunk, the works. Still got it. And the part moves around and I
+have to hunt for it."
+
+"Know who she is?"
+
+"Nope. Clerk, messenger, I guess. They're always hiring new ones."
+
+"Doesn't she ever speak?"
+
+"Of course she--come to think of it, I've never heard her. Must say
+it's a relief after the usual yackety-yack. Haven't anything to talk
+to her about, anyway. She's just a child."
+
+"A pretty one, though."
+
+"Yes, she is."
+
+"You sure don't know anything about women. If anyone made eyes at me
+that way, I'd do something about it."
+
+"What, for instance?" Norm inquired dryly.
+
+"Well, of course, I'm married. But I'd find out who she was, anyhow.
+Sometimes I think you're dead and don't know it."
+
+"Sometimes I agree with you," Norm said. He fed one of the punch cards
+into the transmitter head, which fingered the holes and told ICWEA
+what the problem was. ICWEA began drawing a curve on the curve tracer.
+It would have taken Norm or anyone else days to arrive at the answer.
+"See? Skips here and there, but I can ink in the gaps."
+
+"Looks like the pen catches on the paper a little. I'll grind the
+point while I'm at it. Say, that thing really thinks, doesn't it?"
+
+"In a way. Generally, the digitals have it all over the analogues when
+it comes to reasoning, but I built an extra brain into her."
+
+"Where?"
+
+"The 'Y' path. Remember? Tries several appropriate methods in
+succession. I analyzed my own methods of attack, and built the same
+methods into her. She's an electronic _me_, except faster and more
+accurate."
+
+"I bet. She's more alive than you are. Why don't you step out a
+little? First thing you know, you'll be getting old, and it'll be too
+late."
+
+"Leave the match-making to the women. I may be old, but I'm not an old
+fool. It's fall, not spring."
+
+"Yeah? All you need to be an old fool is just a little more time."
+
+       *       *       *       *       *
+
+Norm ignored him, and took a card from his desk. It seemed to be an
+extra, not with the pack. He put it in the machine. The curve-tracer
+began to draw a rather abrupt curve, which meandered half across the
+sheet before Norm realized what it was. Suddenly, an image leaped to
+his mind's eye and he watched with fascination while the pen traced
+this mathematical impossibility to the far end of the paper, and in
+obedience to several successive negative factors in the problem
+retraced in the opposite direction a little lower down.
+
+A head, a slightly lifted elbow, full rounded breast, a knee
+luxuriously drawn up, a dangling arm, all in one continuous line.
+There was nothing obvious about it; it was formalized, but with the
+individual style that is the artist's signature. Once seen, the image
+persisted.
+
+"Hey, Charley, look at this!"
+
+"Yeah. What about it?"
+
+"What about it! You ever see anything like it?"
+
+"Sure. It's a closed loop, like a hysteresis curve."
+
+"_An_ hysteresis curve. But this isn't one. Look closely."
+
+"Of course, it has harmonics and variables in it. Might be one of
+those gas-discharge curves, if the gas tube happened to be defective.
+I've seen some funny...."
+
+"Look! It's a reclining figure, with the head turned toward
+you--see?--and the forearm over the head--_here_. Breast, knee here,
+foot with the toe pointed, calf, thigh, and the near arm hanging.
+Remarkable, once you see it...."
+
+"You're crazy. All I can see is a closed loop with some wrinkles in
+it."
+
+"Why, it's nearly as plain as a photograph! I can't understand...."
+
+"Plain, my eye! If that's the arm hanging down, and this the hand,
+where are the fingers? That 'hand' is just an oval. You got some
+imagination if you can get a reclining figure out of that."
+
+"Not a nude of the beer-garden type, I grant you. This is real art.
+Know what this means? Have you any idea how complex a formula must be
+to trace a curve like this? Just a plain hyperbola is bad enough. This
+is a test of the machine. Those Mugu boys have worked out this formula
+to see if she could break it down and draw the equivalent curve,
+though I don't see how they did it. Even the larger digitals would
+find this a tough nut to crack, but our baby is a whiz at curves, see?
+I wonder how they justified the machine-time on it. Of course it is
+barely possible that they derived the equation themselves, but it
+must have taken weeks if they did."
+
+"Maybe it took us long as you say, but I still can't see any reclining
+figure in that curve. It's just a closed curve with some wiggles and
+bumps on it."
+
+"In any case, I'm going to send this to Mugu right away. They'll want
+to know how long it took."
+
+"I wouldn't, if I were you."
+
+"Why not?"
+
+"Maybe trouble developed in the machine. Better run some more cards
+through it first. But right now I'm going home. We're having a roast
+tonight. Say, why don't you come to supper with us? Alice would be
+delighted--she was just wondering what happened to you. I'll phone
+her...."
+
+"No, no! I have to--look, I got to find out what this means, you see?
+It isn't that--explain it to Alice, will you? We need this contract,
+need all the work we can get, you understand?"
+
+"Sure, sure. How about next week? OK? Well, see you in the morning."
+Charley left, grinning to himself as he closed the door behind him.
+
+       *       *       *       *       *
+
+Norm didn't see the grin. He was already puzzled enough; ICWEA behaved
+herself perfectly on the next five cards, and kept her mind on her
+business. Meanwhile, Norm studied the first curve again. Funny Charley
+couldn't see it--the figure was puzzling at first, until you got the
+idea, but then it was so clear. Or was it?
+
+Suddenly, he couldn't see it himself. He turned it upside down and
+sideways; it was just a funny closed curve, having neither
+mathematical nor structural significance. Maybe he was going crazy!
+
+He threw the curve down on his desk and, soothed by the whirring of
+the tracer motor, fell into a brown study. Suddenly, the image of the
+brunette with the violet eyes appeared. No reclining nude, she; she
+shook her head in that habitual gesture and her long bob fell
+perfectly in place. She turned, with demurely downcast lashes and
+looked up at him with her violet eyes, and Norm came out of his trance
+with a start.
+
+He removed the last curve--a simple hyperbolic curve, probably a
+problem in attenuation or decay of some kind--and put in the last
+punch-card. The machine started up immediately; the curve was
+elliptical. Then a vertical down-stroke, retraced and with a gentle
+half-loop added. It was writing! P-r-o-p-i-n-q.... What might this be?
+He watched, fascinated, as the letters continued. "Propinquity is the
+mother of love," it said, and stopped.
+
+His trained mathematical logic gave him an immediate solution to the
+enigma: he was cracking up. It was utterly impossible to derive the
+equation to write "propinquity" in Spencerian script in less than a
+hundred man-hours, nor could a mathematical calculator be hired for so
+frivolous a purpose. It was fantastic, impossible; therefore, it was
+not so, and he was either dreaming or crazy. Maybe thinking about that
+little brunette.... Surely not; still, he had been driving himself
+pretty hard. In the morning he would be fresh and alert. If it were a
+trick, he'd catch the trickster. And if it turned out to be a
+perfectly logical curve, he'd see a doctor.
+
+He left the curve in the machine, closed the ventilator in the wall
+over his desk, and turned on the burglar alarm. This was nothing so
+crude as a loose board with a switch, but a quite elaborate electronic
+circuit that produced a field near the door. It wouldn't work on
+ghosts, but if any material body entered that field, it would trip the
+alarm and start a regular Mardi Gras. Security required by government
+contracts hardly demanded so much, but for a small plant it was
+sufficiently cheap, and Charley had had a lot of fun with it. Charley!
+Have to keep him out, too; and being its daddy, he'd know how to
+disable the alarm. Of course, it would really be sufficient to tie a
+thread across the door which would break if anyone entered. He had no
+thread, but after a moment's thought, he pulled a three-cent stamp out
+of his bill-fold, and turned out the office-light. After glancing up
+and down the hall, he stuck the stamp on the door so that it would
+tear if the door opened.
+
+       *       *       *       *       *
+
+In the morning, the stamp was still intact, and it was hard to see,
+even in broad daylight. The paper in the curve-tracer was perfectly
+blank, and there was no punch-card in the transmitter head. It might
+still be an elaborate joke, but the chances were small. He might be
+cracking up, or may have imagined the whole thing. The best thing to
+do would be to put it entirely out of his mind.
+
+He succeeded in this until mid-morning, when ICWEA called him a
+"handsome devil." He jerked the punch-card out of the transmitter and
+called Vic.
+
+"Hermosa."
+
+That voice! It made chills run up and down his backbone. A man had no
+right to a voice like that. "Vic? Bring up the calculations for the
+last batch of punch-cards, will you? I want to check something. The
+card numbers are F-141 through F-152."
+
+"Right away."
+
+Vic wasn't especially gabby. A good-looking young Latin, who knew as
+much math as most, they'd probably lose him to the draft any day now.
+Presently, someone knocked on the door.
+
+"Come in."
+
+It wasn't Vic; it was the girl. She laid the pack of problems and
+their attached work-sheets on the desk, shook her hair into place--did
+she even have to comb it in the morning when she got up?--looked him
+briefly in the eye, and turned to go.
+
+"How is Vic these days?" Norm inquired, whimsically. "Is he able to
+get about?"
+
+The girl smiled politely at this obvious badinage and left.
+
+He checked the problems against cards as he came to them. He knew the
+punch code well enough to do this in his head, since the kind of
+operation indicated was quite obvious. But the problems ended with
+F-151, and the "handsome devil" card was F-152. He got on the phone
+again.
+
+"Vic? What's your next card number?"
+
+"F-153." One expected a little guy to have a high voice; this one was
+quite deep, but soft.
+
+"Are the cards numbered very far ahead?"
+
+"We usually number a couple of dozen cards, and assign the numbers to
+the problems as they come in, from a scratch sheet."
+
+"Any of the cards been lost?"
+
+"Oh yes, on occasion. So far, we've recovered them all--there are only
+two rooms where they could be. Up there or down here."
+
+_That voice!_ How could a man have a voice like that? And why should
+he care if one did? Why even notice it? Instead of going to the
+cafeteria for lunch, he drove downtown and consulted the family
+doctor, who laughed at him. Reassured, he returned to the plant and
+got a sandwich and milk before going to his office. Old Doc
+Heffelbauer might be wrong, but he usually wasn't. Norm liked several
+men, but he didn't dream about any of them; if he was off his rocker,
+it was in some other manner. Visual delusions, for instance.
+
+The thing to do was to see Vic face to face. He called the office
+manager. "Henry? Send Vic Hermosa up there, will you? I want to talk
+to him."
+
+"Vic Hermosa? He's in the Army. Didn't you know?"
+
+"No, I didn't. Who is the guy that answers the phone in that fruity
+voice?"
+
+Henry lowered his voice. "Guy? That's Vic's sister Virginia. She took
+Vic's place when he left. Simplified the security investigation, and
+she's good, too. About as good as Vic, I'd say."
+
+"You mean to tell me a little girl like her could have a voice that
+deep?"
+
+"Startling, isn't it? Of course, it's actually a low contralto or
+tenor, but you expect her to be a lyric soprano. Shall I send her up
+to see you?"
+
+"No, no. I want to think a bit first. Say, who interviewed her?"
+
+"Charley, I suppose. Just a formality, anyhow; the Hermosas and the
+Oglethorpes are neighbors, you know."
+
+       *       *       *       *       *
+
+Wonderful stuff! Esoteric phenomena in a sealed office! His very own
+calculating machine made calculated love to him; his best friend was
+evasive, and the junior mathematician he thought he had been talking
+to every day for a couple of weeks was in the army. He might hammer
+away at all concerned until all the cards were accounted for, but that
+would disrupt office routine. Strategy, that was the thing! Be mighty
+peculiar if he couldn't break up this business, now that he had an
+idea what was going on.
+
+But did he? Whoever punched the cards needed the proper equations
+derived first, and that called for a digital or an analogue computer.
+Preferably his own ICWEA, because she was especially good at curves.
+Deriving them by the old methods was just too much horse-work for any
+joke. And it didn't have to be a joke, either. The joke might be just
+the cover for a more sinister activity--_bosh!_ If that were the
+case, why call attention to it with funny-business?
+
+But what hurt was the girl's being mixed up in it. He could take a rib
+from Charley, for instance, but the girl was practically a
+stranger--unfortunately. Women could be cruel, as his mother had often
+warned him. He thought of his mother's last year in the hospital and
+winced. She had sacrificed so much for him; and yet, was it really
+better to be a free bachelor than an old family man like Charley?
+There wasn't anything the matter with Alice that he could see. Charley
+loved her; that was plain.
+
+Tonight should solve the thing, once and for all. He left the plant,
+speaking to everyone he met as he usually did. Then he sneaked back
+in, with the guard's help, and hid in his own office with the lights
+out.
+
+His phone rang and he almost answered it before he remembered that he
+was supposed to be gone. The building was by no means deserted;
+probably there was someone working overtime in more than one
+department, though the main business for the day was finished. After a
+bit, the phone rang again, and he ignored it.
+
+Waiting was hard. He couldn't read, so he let his mind wander: the
+next modification to ICWEA--what a romantic old thing she was! He
+needed a haircut: he'd have to get one tomorrow, before the hair grew
+down over his ears. What a voice that girl had--and those eyes! Would
+they get further work from Mugu? How could they contact other
+Government agencies? ICWEA was working out pretty good; would it be
+better to try to sell ICWEAs to anyone who wanted them, or to keep the
+old girl busy and work problems for others? Eventually, the former,
+though for the time being it might be better to continue as they were
+until the old girl was well known. Under present conditions, that
+shouldn't take--what was that hissing noise, a radiator?
+
+He listened closely. Hiss, hiss, hiss. No, it was a rubbing sound,
+with a scrape and an occasional hollow thump. Not loud, but close at
+hand. The ventilating system--how obvious, now! He watched a white
+hand disengage the catches and carefully lower the grill to his desk.
+A small figure in white cover-alls wormed its way out of the opening,
+landed on its hands on top of his desk, kicked feet clear and
+cartwheeled to the floor with disdainful ease. A head-shake settled a
+long bob in place; who could do that? Virginia Hermosa, and no one
+else!
+
+She couldn't see him against the shine of the window. She turned ICWEA
+on and let her warm up, meanwhile fastening a large sheet of paper on
+the bed of the curve-tracer with tape. She put a blank card in the
+punching head, opened the door of the patching-panel cabinet and
+rearranged the patch-cords there.
+
+What a lab assistant she would make! Wasted in Set-up; anyone could
+punch cards, with a little practice. Well, not anyone, but any
+mathematician could. How thoroughly she knew this machine! Charley
+must have told her, or her brother, plenty!
+
+With the curve-tracer running at slow speed, she held the stylus
+steadily on the words she had written on the paper; the coordinates
+and rates were fed into ICWEA's brain, she derived the horrible
+equations corresponding to the script, and obligingly translated these
+in turn to punchings on the card.
+
+So simple, when you saw it. But who would think of putting a burglar
+alarm on an air-duct? She could go all over the building through the
+walls if she chose. She was small enough to get through the ducts
+easily, though the vertical sections must be tough, even for so
+athletic a girl.
+
+The punching head stopped. Virginia restored everything to its
+original condition, stuck the card she had punched into a pile of
+them, folded the paper and stuffed it into her pocket, and turned to
+go. Norm put on the lights.
+
+       *       *       *       *       *
+
+Startled, she whirled, churning the air with her hands to keep her
+balance. He held his hand out for the paper.
+
+"No!" she said, her voice shrill with excitement.
+
+Wordlessly, he closed in on her, and after a brief struggle pulled the
+paper out of her pocket.
+
+It said, simply, "I love you." Norm looked at Virginia, who turned her
+head away.
+
+"I can't appreciate the joke just now, though I realize it must be
+very funny. Charley will enjoy it. But what a lot of trouble. Suppose
+you had got stuck in the duct, then what? Is it worth the risk? And
+the violation of security is very serious."
+
+"I'm going to quit anyway," she muttered.
+
+So deep a voice for such a small girl! "Why did you do it?"
+
+"Well, it all started as a joke. Charley said you were shy,
+and--and--well...."
+
+"I see. Natural enough, I suppose. And you pretended to be your
+brother on the phone."
+
+"No, I never said I was Vic," she denied, quickly.
+
+He was handling this all wrong; he wasn't getting anywhere. All this
+was just talk, evasive talk. "Charley hired you?"
+
+"Yes. When Vic left for basic training."
+
+"I see. Charley's quite a joker, and it was hard to refuse him."
+
+"It was kind of a joke at first, but you're overlooking something:
+he's very fond of you. He really is! He brags all the time about how
+smart you are, and what a nice guy."
+
+"Charley's married, and he wants to see me married, too."
+
+"And you don't like girls?"
+
+"Listen, you made that drawing, too, and all the other stuff?"
+
+"Yes."
+
+An idea raised its pretty head. "Listen, I've decided to be very angry
+about this. You've made a fool of me, and I'm not going to let you get
+away with it. Now, I know a place that's quiet, and has very good
+steaks; I'm going to take you to supper and bawl you out. Better get
+into street-clothes, and don't take all night."
+
+"Sorry, I couldn't possibly. Some other time, perhaps."
+
+"Tonight. Now. Get going."
+
+"No. I have a date."
+
+"Break it!"
+
+"No! You may be my boss, and I may be a forward hussy, but tonight I'm
+going home, and you can't stop me!"
+
+How silly could you get? Suddenly he understood the way of a man with
+a maid; love was older than conversation, and they both saw and
+understood through and beyond any silly words. In fact, the sillier
+the words, the better!
+
+"That's what you think! You're going with me, or you're going to jail.
+They'll put you in a dark cell with the rats. They have their own
+specially-bred rats, you know." He leered, slyly.
+
+"You wouldn't dare!"
+
+He shrugged, elaborately, and turned to the phone. She darted past him
+to the door and he caught her, pulled her back out of the hall. She
+was surprisingly strong and determined, and she ducked when he kissed
+her.
+
+"That one was a mess, wasn't it?" he complained.
+
+She relaxed and began to laugh, and he joined her. She looked into his
+eyes a long moment, and pulled his head down, kissed him tenderly.
+"You don't give a girl much choice--one big rat or a lot of little
+ones."
+
+"I'll give you no choice at all. I'll teach you to play tricks on me!
+Hurry up and change."
+
+"One of the girls keeps a semi-formal in her locker. I can borrow it
+and we could go dancing."
+
+"I don't dance. Never learned. Couldn't we just talk?"
+
+"We could, but we won't; you'll never learn any younger. You seem
+light enough on your feet. Come on, it'll be fun!"
+
+"Tonight I can do anything! You take too long to change, and I'll tear
+the building down brick by brick with my bare hands, hear me?"
+
+"No, please don't! I'll hurry, I promise!"
+
+He waited impatiently at the door of the locker room. Now that he knew
+how to talk to a girl, he wanted to talk, and talk, and talk some
+more. He planned extravagant things to say when she came out, but when
+she appeared, smiling, he was struck dumb. She took his arm and they
+half ran, half skipped out of the building to his car.
+
+THE END
+
+       *       *       *       *       *
+
+
+
+
+
+
+
+End of Project Gutenberg's The Romantic Analogue, by W.W. Skupeldyckle
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE ROMANTIC ANALOGUE ***
+
+***** This file should be named 32143.txt or 32143.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/2/1/4/32143/
+
+Produced by Sankar Viswanathan, Greg Weeks, and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

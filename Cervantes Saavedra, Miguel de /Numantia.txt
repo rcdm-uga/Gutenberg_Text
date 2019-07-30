@@ -1,0 +1,4689 @@
+The Project Gutenberg EBook of Numantia, by Miguel de Cervantes Saavedra
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Numantia
+
+Author: Miguel de Cervantes Saavedra
+
+Translator: James Y. Gibson
+
+Release Date: September 13, 2016 [EBook #53041]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK NUMANTIA ***
+
+
+
+
+Produced by Josep Cols Canals, John Campbell and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+
+
+
+
+
+
+
+  TRANSCRIBER'S NOTE
+
+  Italic text is denoted by _underscores_.
+
+  Obvious typographical errors and punctuation errors have been
+  corrected after careful comparison with other occurrences within
+  the text and consultation of external sources.
+
+  More detail can be found at the end of the book.
+
+
+
+
+NUMANTIA
+
+
+
+
+  _BY THE SAME TRANSLATOR._
+
+  _Uniform with this Volume._
+
+
+  JOURNEY TO PARNASSUS.
+
+  COMPOSED BY
+
+  MIGUEL DE CERVANTES SAAVEDRA.
+
+  IN ENGLISH TERCETS,
+
+  _WITH PREFACE AND ILLUSTRATIVE NOTES_.
+
+
+  LONDON: KEGAN PAUL, TRENCH & CO.
+
+
+
+
+  NUMANTIA
+
+  A TRAGEDY
+
+  BY
+
+  MIGUEL DE CERVANTES SAAVEDRA
+
+
+  _TRANSLATED FROM THE SPANISH_
+
+  WITH INTRODUCTION AND NOTES
+
+  BY
+
+  JAMES Y. GIBSON
+
+  TRANSLATOR OF THE "JOURNEY TO PARNASSUS"
+
+  [Illustration: (Publisher's colophon)]
+
+  LONDON
+
+  _KEGAN PAUL, TRENCH & CO_
+
+  MDCCCLXXXV
+
+
+
+
+      "A death with honour is supremest bliss,
+      No fate can be more excellent than this."
+
+                                  _Act_ ii. p.27.
+
+
+
+
+  To the Memory of
+
+  GENERAL GORDON,
+
+  THE HERO OF KHARTOUM, THE MODERN PALADIN, OUR CHRISTIAN
+  THEOGENES, WHOSE SUBLIME FAITH, FORTITUDE, AND SELF-SACRIFICE,
+  MATCHLESS IN THESE TIMES, HAVE MADE HIS NAME SACRED IN EVERY
+  HOUSEHOLD, THE TRANSLATOR HUMBLY DEDICATES THIS ENGLISH
+  VERSION OF ONE OF THE SADDEST TRAGEDIES EVER PENNED;
+  WHICH NEVERTHELESS IS INSTINCT WITH THAT TRAGIC
+  PAIN WHICH PURIFIES THE SOUL, AND INCITES TO
+  SUCH DEEDS OF SELF-DEVOTION AS DISTIN-
+  GUISHED THE HERO, WHOSE LOSS
+  BRITAIN MOURNS THIS DAY
+  WITH A PECULIAR SOR-
+  ROW, NOT UNMIXED
+  WITH SHAME.
+
+
+
+
+INTRODUCTION.
+
+
+This is an attempt to render for the first time into readable
+English verse the one great drama of Cervantes. It was presented on
+the Madrid stage about the year 1586, during the reign of Philip
+II., and was received with great applause as a work of national
+interest. It remained, however, unprinted and was supposed to
+be lost. In 1784, it was published for the first time by Sancha
+of Madrid, in a volume which contained also Cervantes' _Viaje
+del Parnaso_, and his _Trato de Argel_. The Editors, with a
+carelessness characteristic of the times, do not tell us how it
+was recovered or where they got it. The literary world, however,
+received it gladly as a work of peculiar original power, in every
+way worthy of the name of Cervantes. Strange to say, a number of
+years afterwards, it sprang to life as an acting drama during
+the memorable siege of Saragossa by the French, where it had a
+besieged city for its stage, and patriots and heroes for its
+actors and audience. A work that has such a history, and has shown
+such persistent vitality, must have something in it worthy of the
+study of all lovers of the Drama, and no apology seems needful
+for presenting it now in an English version, which preserves the
+original metres, and pays due regard to accuracy and idiomatic
+expression.
+
+Rightly to estimate such a production we must take into account the
+period during which it was written and the purpose for which it
+was invented. Cervantes was at this time about thirty-nine years
+of age. He returned from his captivity in Algiers in 1580. He was
+married in 1584, and with the gallantry peculiar to his nature he
+laid at the feet of his bride the first fruits of his genius, a
+pastoral romance known as _La Galatea_. The newly married pair, who
+lived at Esquivias, a few miles from Madrid, had the slenderest
+of fortunes, and as love would not fill the cupboard, Cervantes
+followed his natural inclination, went to Madrid, and took to
+writing for the stage. Though the pay was scanty it was better than
+could be got by writing sentimental romances. He remained at this
+occupation till he left for Seville in 1588, and wrote, as he tells
+us, between twenty and thirty plays.
+
+At this period, throughout Europe generally, dramatic art, and
+tragic art especially, was still in its infancy, and its laws and
+principles were as yet undetermined. In Italy Tasso had produced
+his "Aminta" at Ferrara, and Guarini his "Pastor Fido" at Milan
+(1585), but Italian Tragedy had yet to await the advent of Maffei,
+Metastasio, and Alfieri in long after years. In France Corneille
+and Racine were as yet unborn. In England such authors as Marlowe,
+Greene, and Peele were beginning their careers, and Shakespeare,
+a youth of twenty-two (he was seventeen years the junior of
+Cervantes) was perchance only brooding over his "Venus and Adonis."
+In Spain such writers as Juan del Encina, Torres del Naharro, Gil
+de Vicente, and the authors of the famous Tragi-Comedy, Celestina,
+at the beginning and middle of the sixteenth century, had done
+good service to Spanish Literature, but had settled nothing as to
+the form which the Spanish drama should take. Cervantes himself
+looked upon Lope de Rueda as the true originator of a genuine
+national theatre. He died in 1565, and was buried between the
+choirs of the Cathedral of Cordova (that wonderful Moorish Mosque),
+an unexampled honour in those days. A man of the people himself
+(he was a gold-beater by trade) he became the idol of the people
+both as actor and author. His _pasos_ (equivalent to the French
+_proverbes_), founded on national manners, and flavoured with true
+Spanish salt, were unrivalled, and wherever his booth-theatre was
+pitched, in town or country, he was received with acclamation.
+Cervantes, during his boyhood, was charmed with him, and the
+impressions he received were never effaced. But that homespun
+genius could teach him nothing in the highest walks of his art.
+
+When Cervantes, then, began to write for the Tragic stage he had
+no models before him, and very little critical light to guide
+him. He was the first genius of commanding power in modern times,
+whether in Spain or elsewhere, who attempted to compose Tragedies,
+and he was more or less a law to himself. His _Numantia_, which
+German critics declare to be the first work of real tragic power
+that had appeared in Europe since the extinction of the Greek and
+Roman drama, has therefore a historical value apart altogether
+from its artistic merit. The genius of Cervantes was Epic rather
+than Dramatic, and it is interesting to observe that in this play,
+almost his first and certainly his greatest effort, he adopts the
+construction of the earlier Greek drama in its severest form,
+rejecting, however, the Chorus, which he replaces by allegorical
+figures serving a similar purpose. In the main he is a follower,
+consciously or unconsciously, of Aeschylus, in such plays as the
+_Seven against Thebes_, or _The Persians_. Aeschylus (according to
+Aristophanes) says of his _Persians_ that it was the "taking of a
+theme for poetry of a glorious exploit (κοσμῆσαι ἔργον ἄριστον)."
+In like manner the _Numantia_ of Cervantes is simply a glorious
+page in Spanish history converted into sounding verse.
+
+Viewed then as a drama, according to modern ideas, it is manifestly
+defective. It has neither plot, passion, nor intrigue, and its
+subject is eminently non-dramatic. The general use, too, of the
+_Ottava rima_, with its ceaseless recurring rhymes, is more suited
+to epic description than to dramatic action. But viewed as an
+attempt to give form and body on the stage to a great national
+event, with the intent of inspiring patriotic feelings, its success
+is undoubted. Though the first act, which presents the motive
+of the play, drags somewhat, the interest deepens with every
+scene, and the tremendous catastrophe, with all its attendant
+accessories of mingled horror, despair, and indomitable resolve,
+is depicted with a skill, pathos, and concentrated power hitherto
+unattained. In such a pictorial representation even the despised
+Octave, supple, sonorous, and monotonous, seems not out of keeping.
+Each speech is uttered as it were to the beat of the drum, or
+to the prolonged wailings of the Dead March. When more vigorous
+description is required Cervantes uses the _Terza rima_ with great
+effect; and in almost the only bit of action represented (the
+scaling of the wall by Caius Marius) he employs blank verse with
+much fitness. If Cervantes had only invented for Spain a dramatic
+blank verse as fine and effective as that of Shakespeare for
+England, and had produced therein a series of plays showing such
+original power as the _Numantia_, then would the Spanish drama,
+perhaps, under his guidance have taken a different direction,
+and reached a higher grade of excellence than it ever attained.
+But this was not to be. The genius of the Spanish language was
+against the first effort, and the prevailing taste of the people
+was equally against the other. The great merit of Cervantes is not
+that he founded or perfected a national dramatic school. This was
+reserved for Lope de Vega, who submitted his genius to the taste of
+the people, and for Calderon de la Barca, who refined and exalted
+it to the utmost pitch of which it was capable. But this merit he
+may certainly claim, that he was the first to give a certain form
+and fulness to what before his time was formless and void. His
+_Numantia_, if not a perfect drama and a model for imitation, has
+an unwonted elevation and grandeur. It is free from that turgid
+declamation, triviality of incident, and presentation of horrors
+for horrors' sake, which were the curse of the contemporary tragic
+plays. For simplicity, directness, and truthfulness of delineation
+his drama was unique in its own age, and may, in regard to those
+peculiar qualities, prove of some service even in ours.
+
+Those of our readers who desire to pursue the subject further
+would do well to consult the higher dramatic critics. Hallam,
+in his succinct "History of the Literature of the Middle Ages,"
+devotes three pages to the analysis and elucidation of this
+remarkable drama, and his judgment both of its excellences and
+faults is at once shrewd, candid, and appreciative. Ticknor, while
+slightly protesting against the unmeasured praise bestowed upon
+it by the Germans, acknowledges its unique historical value, and
+praises especially its lighter portions, condemned by many as an
+excrescence, for their exquisite simplicity and truthfulness.
+Amongst the Germans, Bouterwek and Augustus W. Schlegel are
+especially enthusiastic in their eulogies. We extract from the
+latter's "History of Dramatic Literature" (Black's translation)
+the following passage, as just as it is elegantly expressed:
+"The _Destruction of Numantia_ has altogether the elevation of
+the tragical cothurnus; and, from its unconscious and unlaboured
+approximation to antique grandeur and purity, forms a remarkable
+phenomenon in the history of modern poetry.... There is, if I may
+so speak, a sort of Spartan pathos in the piece; every single
+and personal consideration is swallowed up in the feeling of
+patriotism, and by allusions to the warlike fame of his nation in
+modern times he has contrived to connect the ancient history with
+the interests of his own day.... When we consider the energetical
+pathos in this drama we are constrained to consider it as merely
+accidental that Cervantes did not devote himself to this species of
+writing, and find room in it for the complete development of his
+inventive mind."
+
+Sismondi and such acute critics as Schack and Lemcke corroborate
+Schlegel's judgment in almost every respect. Among French writers
+such authorities as M. Royer, who has written an admirable prose
+translation of the _Numantia_, and M. Emile Chasles, whose Life of
+Cervantes is the most graphic of all biographies, have given very
+valuable and laudatory criticism. The list of critics' names might
+easily be extended, but enough has already been given to justify
+the importance we have attached to this unique work of Cervantes.
+
+This is not the place to allude to any other of Cervantes'
+dramatic works, or to estimate their value. We hope yet to have
+an opportunity of doing so when we present a translation of his
+selected Comedies and Interludes for the approval of English
+Cervantistas. Meanwhile we prefer that this translation of his
+_Numantia_ should go forth alone. It was produced at first in
+stirring times when the Spanish power, that had hitherto held
+mastery in the world, was showing symptoms of declining vigour.
+This English translation comes forth in equally stirring times,
+when the power that supplanted the Spanish domination, and has
+so long ruled the seas, is called on to make a mighty effort to
+show that she can do so yet, despite of Teuton, Gaul, or Russ. The
+enemies of Old England are busily predicting for her a fate like
+that which overwhelmed Carthage or Numantia. We fear no such fate
+if England to herself be true. Still the call to patriotism is
+never out of place, and perhaps the British people who have taken
+Cervantes to their hearts as the genial, mirth-provoking humourist,
+may be disposed to show him like regard in his character of poet,
+soldier, and patriot. It is true the scene he presents, and the
+heroism he immortalizes are peculiarly Spanish; but Cervantes,
+though a Spaniard to the backbone, had thoughts that interest
+humanity, and the patriotic chord which he strikes in this drama
+may perchance find an echo even in our colder northern bosoms.
+
+At all events Cervantes was no dilettante soldier. If he talks
+of the horrors and glories of war and siege he talks of things
+he knew and had felt. In his early manhood he was one of those
+high-spirited youths (_Mozos de gran brio_), of good birth and
+breeding, who crowded the ranks of the Spanish army in Italy, to
+do service to their country and gain honour thereby. He had fought
+and bled at Lepanto, in the affair at Navarino, at the storming of
+Tunis and La Goleta. He was simply a private soldier and did his
+duty bravely as hundreds of his comrades did. Strange to say, it
+was only during his five years' captivity in Algiers that he was
+enabled to display his higher military qualities and especially
+his faculty of command. Amongst the 25,000 Spaniards in that den
+of horrors he at once took the foremost place. He was the leader
+in every daring plan of escape, and only failed at last through
+treachery. He was the originator of that desperate scheme for
+the seizure of Algiers by the uprising of the Christians, which
+was nipped in the bud by the faint-heartedness of Philip II.,
+who feared to risk his fleet in such a glorious enterprise. But
+successful or not he was idolized by his comrades, and feared by
+his enslavers, who nevertheless would not touch his life, such
+was the charm his heroic spirit exercised. But his bearing as
+a man was more heroic still than his daring as a soldier. The
+written testimony of his comrades, still preserved, tells us how
+gentle he was in manners, how brave in heart; how generous to
+his needier brethren even out of his poverty; how tender to the
+captive children and how mindful of their welfare; how proud of his
+honour as a Spaniard, and steadfast in his faith as a Christian,
+while hundreds surrendered both in the sheer agony of despair.
+Cervantes escaped, as by a miracle, from a life-long slavery in
+Constantinople; but only to wage a life-long battle with adverse
+fate, and at length to die with a smile on his lips.
+
+In the Dedication we have ventured to link the name of Gordon with
+that of Cervantes, and in so doing we feel we do no dishonour to
+the name of either. Though differing in language and creed, and
+separated by well-nigh three centuries, they are, nevertheless,
+kindred souls. In both the Quixotic spirit, in its noblest sense,
+is clearly displayed. Cervantes was the inventor of Quixotism
+because it lay deep in his nature. This Quixotism, what is it but
+the sublime of imprudence? To do what the enthusiasm of the soul
+prompts and compels; to do it with single-hearted unselfishness;
+without regard to the adequacy or inadequacy of means; without
+regard even to eventual success or non-success; but with simple
+regard to the inspired voice of duty within, come what may: that is
+Quixotism in supreme degree. Of this sublime imprudence Cervantes
+and Gordon were equally guilty in their day, and both reaped the
+reward of it, especially from their country's rulers. It was their
+joint fate during life to be an enigma to most, a wonder to many,
+and in death or after death to be beloved by all. It is not for us
+to say more of the noble man whose name is now a household word
+amongst us. It is to be hoped when his Diaries are brought to
+light, and the true story of his sufferings and death is known,
+that one of our gifted poets may do for the Hero of Khartoum what
+Cervantes has done for the heroes of Numantia, with a higher harp
+if not with loftier patriotism. Meanwhile we may be permitted to
+pay, with all humility, this little tribute to his memory.
+
+In conclusion, we have cordially to thank Don Pascual de Gayangos
+for the interest he has shown in this venture, and for the pains he
+has taken to elucidate the errors and imperfections of the original
+text. We have also to thank our dear Amanuensis, whose delicate
+taste, and skill in languages ancient and modern, have added
+materially to any worth this little work may have.
+
+  J. Y. G.
+
+  SWAYNESTHORPE,
+  LONG DITTON,
+  _April, 1885_.
+
+
+
+
+_PERSONS REPRESENTED._
+
+
+ROMANS.
+
+  SCIPIO, _the Roman General_.
+  QUINTUS FABIUS, _his Brother_.
+  JUGURTHA, _a Roman Officer_.
+  CAIUS MARIUS, _a Roman Soldier_.
+  Roman Soldiers.
+
+
+NUMANTINES.
+
+  THEOGENES, _Chief Governor of Numantia_.
+  CORABINO,        } _Governors of Numantia_.
+  FOUR NUMANTINES, }
+  MORANDRO, } _Numantine Soldiers_.
+  LEONCIO,  }
+  MARQUINO, _a Wizard_.
+  MILVIO, _his Attendant_.
+  VIRIATO, } _Numantine Youths_.
+  SERVIO,  }
+  A CORPSE.
+  LYRA, _affianced to Morandro_.
+  THE BROTHER OF LYRA.
+
+Numantine wives, priests _with their_ attendants, _two_
+ambassadors, soldiers, children, &c.
+
+
+ALLEGORICAL PERSONAGES.
+
+  SPAIN, _with mural crown_.
+  DOURO, _with its tributaries_.
+  WAR.
+  SICKNESS.
+  HUNGER.
+  FAME.
+
+_The Scene is laid alternately in the Roman Camp and within the
+walls of Numantia._
+
+
+
+
+NUMANTIA.
+
+
+
+
+ACT I.
+
+
+SCENE I.
+
+    _Enter_ SCIPIO[1] _and_ JUGURTHA.[2]
+
+SCIPIO.
+
+      This hard and heavy task, the brunt of which
+      The Roman Senate gave me to sustain,
+      Hath brought me stress and toil to such a pitch
+      As quite unhinges my o'erburdened brain.
+      A war so long,--in strange events so rich,--
+      Wherein so many Romans have been slain,
+      Who dares presume to bring it to a close?
+      Who would not tremble to renew its woes?
+
+JUGURTHA.
+
+      Who, Scipio? Who can boast the great success,
+      The untold valour, which in thee abound?
+      The two combined are equal to the stress,
+      Thine arms with glorious triumph shall be crowned.
+
+SCIPIO.
+
+      The strength, inspired by prudent manliness,
+      Will bring the loftiest summits to the ground;
+      While brutal force, moved by a hand insane,
+      Will change to rugged heaps the smoothest plain.
+      'Tis needful, then, and firstly, to repress
+      The flagrant madness of our soldiery,
+      Who, mindful not of glory and noblesse,
+      In gross consuming lust do sunken lie.
+      My sole desire is this, I wish no less,
+      To raise our men from their debauchery;
+      For if the friend will first amendment show,
+      More quickly then will I subdue the foe.
+      Marius!
+
+    _Enter_ CAIUS MARIUS.[3]
+
+      My Lord?
+
+SCIPIO.
+
+                       Let notice quick be sent,
+      To all our warriors let the mandate run,
+      That without sloth or hindrance to prevent,
+      They all appear within this place as one;
+      For I would make to them, with grave intent,
+      A brief harangue.
+
+CAIUS MARIUS.
+
+      At once it shall be done.
+
+SCIPIO.
+
+      Go quickly, for 'tis well that all be told
+      Our novel plans, although the means be old.
+
+            [_Exit_ CAIUS MARIUS.
+
+JUGURTHA.
+
+      Be sure, my Lord, there is no soldier here
+      Who fears not, loves thee not beyond compare;
+      And since thy valour, in its proud career,
+      Extends from Southern seas to Northern Bear,
+      Each man with daring heart, devoid of fear,
+      Soon as he hears the martial trumpet blare,
+      Will, in thy service, rush to deeds of glory,
+      Outstripping far the fabled deeds of story.
+
+SCIPIO.
+
+      Our first concern must be this rampant vice,
+      Which like a canker spreads, to curb and tame;
+      For should it run unfettered, in a trice
+      We bid farewell to good repute and fame.
+      This damage must be cured at any price;
+      For should we fail to quench its blazing flame,
+      Such vice alone would kindle fiercer war
+      Than all the foemen of this land by far.
+
+            [_Behind, they publish the edict, having first beat the
+                drum to assemble._
+
+      Order of our General:
+      Let the soldiers quartered here
+      Presently in arms appear
+      In the chief square, one and all.
+      And if any man resist
+      This our summons and decree,
+      Let his name, as penalty,
+      Be at once struck off the list.
+
+JUGURTHA.
+
+      No doubt, my Lord, but it is wise and sane
+      To curb thine army with an iron bit,
+      And hold the soldier back with tightened rein
+      When he would plunge into the loathsome pit.
+      Our army's force would be a thing in vain
+      If right and virtue do not go with it;
+      Although it march along in proud array,
+      With thousand squadrons, and with banners gay.
+
+            [_At this point there enter as many soldiers as may be,
+                and_ CAIUS MARIUS, _armed in antique fashion, without
+                arquebuses, and_ SCIPIO, _ascending a small eminence
+                on the stage, glances round at the soldiers and
+                says_:
+
+SCIPIO.
+
+      By that proud gesture, by the lusty swell
+      Of these rich trappings, with their martial sheen,
+      My friends, for Romans I do know you well--
+      Romans in build and gallant port, I mean;
+      But by the tale these soft white fingers tell,
+      And that rich bloom which on your cheeks is seen,
+      Ye seem to have been reared at British fires,
+      And drawn your parentage from Flemish sires.
+      My friends, this wide-spread languor and decay,
+      Which for yourselves hath borne such bitter fruit,
+      Nerves up your fallen foes to sterner fray,
+      And brings to nought your valour and repute.
+      This city's walls, that stand as firm to-day
+      As battled rock, are witnesses to boot
+      How all your native strength hath turned to shame,
+      And bears no stamp of Roman but the name.
+      Seems it, my sons, a manly thing to own,
+      That when the Roman name towers far and wide,
+      Within the land of Spain yourselves alone
+      Should humble it and level down its pride?
+      What feebleness is this, so strangely grown?
+      What feebleness? If I may now decide,
+      It is a feebleness loose living breeds--
+      The mortal enemy of manly deeds.
+      Soft Venus ne'er with savage Mars did start
+      A paction firm and stable at the core:
+      She follows pleasures; he pursues the art
+      That leads to hardships, and to fields of gore.
+      So let the Cyprian goddess now depart,
+      And let her son frequent this camp no more;
+      For he whose life in revelling is spent
+      Is badly lodged within a martial tent.
+      Think ye, the battering-ram with iron head
+      Will of itself break down the battled wall?
+      Or crowds of armèd men and armour dread
+      Suffice alone the foemen to appal?
+      If dauntless strength be not with prudence wed,
+      Which plans with wisdom and provides for all,
+      But little fruit will mighty squadrons yield,
+      Or heaps of warlike stores upon the field.
+      Let but the smallest army join as one
+      In bonds of martial law, as strict as pure,
+      Then will ye see it, radiant as the sun,
+      March where it will to victory secure.
+      But let an army manly courses shun,
+      Were it a world itself in miniature,
+      Soon will its mighty bulk be seen to reel
+      Before the iron hand, and breast of steel.
+      Ye well may be ashamed, ye men of might,
+      To see how these few Spaniards, sore distressed,
+      With haughty spirit, and to our despite,
+      Defend with vigour their Numantian nest.
+      Full sixteen years[4] and more have taken flight,
+      And still they struggle on, and well may jest
+      At having conquered with ferocious hands,
+      And kept at bay, our countless Roman bands.
+      Self-conquered are ye; for beneath the sway
+      Of base lascivious vice ye lose renown,
+      And while with love and wine ye sport and play,
+      Ye scarce have strength to take your armour down.
+      Blush then with all your might, as well ye may,
+      To see how this poor little Spanish town
+      Bids bold defiance to the Roman host,
+      And smites the hardest when beleaguered most.
+      At every hazard let our camp be freed,
+      And cleanly purged of that vile harlot race,
+      Which are the root and cause, in very deed,
+      Why ye have sunk into this foul disgrace.
+      One drinking-cup, no more, is all ye need;
+      And let your lecherous couches now give place
+      To those wherein of yore ye slept so sound--
+      The homely brushwood strewn upon the ground.
+      Why should a soldier reek of odours sweet,
+      When scent of pitch and resin is the best?
+      Or why have kitchen-things to cook his meat,
+      To give withal his squeamish stomach zest?
+      The warrior, who descends to such a treat,
+      Will hardly bear his buckler on the breast;
+      For me all sweets and dainties I disdain,
+      While in Numantia lives one son of Spain.
+      Let not, my men, this stern and just decree
+      Of mine appear to you as harshly meant;
+      For in the end its profit ye will see
+      When ye have followed it with good intent.
+      'Tis passing hard to do, I well agree,
+      To give your habits now another bent;
+      But if ye change them not, then look for war
+      More terrible than this affront by far.
+      From downy couches and from wine and play
+      Laborious Mars is ever wont to fly;
+      He seeks some other tools, some other way,
+      Some other arms to raise his standard high.
+      Not luck nor hazard here have any sway,
+      Each man is master of his destiny;
+      'Tis sloth alone that evil fortune breeds,
+      But patient toil to rule and empire leads.
+      Though this I say, so sure am I withal
+      That now at last ye'll act as Romans do,
+      That I do hold as nought the armèd wall
+      Of these rude Spaniards, a rebellious crew.
+      By this right hand I swear before you all,
+      That if your hands be to your spirits true,
+      Then mine with recompense will open wide,
+      And this my tongue shall tell your deeds with pride.
+
+            [_The soldiers glance at one another, and make signs to
+                one of them, CAIUS MARIUS, who replies for all, and
+                thus says_:
+
+CAIUS MARIUS.
+
+      If thou hast marked, and with attentive eye,
+      Illustrious Commander of this force,
+      The upturned faces of the standers-by,
+      While listening to thy brief and grave discourse,
+      From some must thou have seen the colour fly,
+      In others deepen, stung with quick remorse;
+      Plain proof that fear and shame have both combined
+      To trouble and perplex each soldier's mind.
+      Shame--to behold the abject, low estate
+      On which with self-abasement they must look,
+      Without one plea defensive to abate
+      The wholesome rigour of thy stern rebuke;
+      Fear--at the dire results of crimes so great;
+      And that vile sloth, whose sight they cannot brook,
+      Affects them so, that they would rather die
+      Than wallow longer in its misery.
+      But place and time remaineth to them still
+      To make some slight atonement for this wrong;
+      And this is reason why such flagrant ill
+      Doth twine around them with a bond less strong.
+      So from to-day, with prompt and ready will,
+      The very meanest of our warlike throng
+      Will place without reserve, as is most meet,
+      Their goods and life and honour at thy feet.
+      Receive with right good-will, O master mine,
+      This fitting gift their better minds supply,
+      And think them Romans of the ancient line,
+      In whom the manly spirit cannot die.
+      My comrades, raise your right hands as a sign
+      That ye approve this pledge as well as I.
+
+_Soldiers._
+
+      What thou hast said for us we all declare,
+      And swear to keep our promise.
+
+_All._
+
+      Yes, we swear.
+
+SCIPIO.
+
+      In such a pledge new confidence I find
+      This war with greater vigour to pursue,
+      While glowing ardour burns in every mind
+      To change the old life and begin the new.
+      Let not your promise whistle down the wind,
+      But let your lances prove it to be true,
+      For mine with truth and clearness shall be shown,
+      To match the worth and value of your own.
+
+_Soldier._
+
+      Two Numantines accredited are here,
+      With solemn message, Scipio, to thee.
+
+SCIPIO.
+
+      What keeps them back? Why do they not appear?
+
+_Soldier._
+
+      They wait behind for thy permission free.
+
+SCIPIO.
+
+      Be they ambassadors, their right is clear.
+
+_Soldier._
+
+      I judge them so.
+
+SCIPIO.
+
+                       Then let them come to me;
+      'Tis always good the enemy to know,
+      Whether a true heart or a false he show.
+      For Falsehood never cometh in such wise
+      Enwrapped in Truth, that we may not descry
+      Some little cranny in the close disguise,
+      Through which to gaze upon the secret lie.
+      To listen to the foe is always wise,
+      We profit more than we can lose thereby;
+      In things of war experience shows, in sooth,
+      That what I say is well-established truth.
+
+    _Enter the Numantine Ambassadors, First and Second._
+
+_First Ambassador._
+
+      If, good my lord, thou grant us without fear
+      To speak the message we have brought this day,
+      Where now we stand, or to thy private ear,
+      We shall deliver all we come to say.
+
+SCIPIO.
+
+      Speak freely, then, I grant you audience here.
+
+_First Ambassador._
+
+      With this permission, in such courteous way
+      Conceded to us by thy regal grace,
+      I shall proceed to state our urgent case.
+      Numantia, to whom my birth I owe,
+      Hath sent me, noble general, to thee,
+      As to the bravest Roman Scipio
+      The night e'er covered, or the day can see;
+      And begs of thee the friendly hand to show,
+      In token that thou graciously agree
+      To cease the struggle that hath raged so long,
+      And caused to thee and her such cruel wrong.
+      She says, that from the Roman Senate's law,
+      And rule, she never would have turned aside,
+      Had not some brutal Consuls, with their raw
+      And ruthless hands, done outrage to her pride.
+      With fiercer statutes than the world e'er saw,
+      With greedy lust, extending far and wide,
+      They placed upon our necks such grievous yoke,
+      As might the meekest citizens provoke.
+      Throughout the time, with such a lengthened bound,
+      Wherein both sides have made such cruel sport,
+      No brave commander have we ever found
+      Whose kindness or whose favour we could court.
+      But now, at length, that Fate hath brought it round
+      To guide our vessel to so good a port,
+      We joyfully haul in our warlike sails,
+      Prepared for any treaty--that avails.
+      Nor think, my lord, that it is fear alone
+      Which makes us sue for peace at such an hour;
+      By proofs unnumbered it is widely known
+      That still Numantia wields an arm of power.
+      It is thy worth and valour lure us on,
+      And give assurance that our luck will tower
+      Far higher than our highest hopes extend,
+      To have thee for our master and our friend.
+      On such an errand have we come to-day.
+      My lord, make answer as it pleaseth thee.
+
+SCIPIO.
+
+      Since but a late repentance ye display,
+      Your friendship is of small account to me.
+      Give, give anew the sturdy right arm play,
+      For what mine own is worth I fain would see;
+      Since in its might hath fortune deigned to place
+      My added glory, and your fell disgrace.
+      To sue for peace will hardly recompense
+      The shameless doings of so many years.
+      Let war and rapine come; and in defence
+      Bring out anew your files of valiant spears
+
+_Second Ambassador._
+
+      Take heed, my lord; for this false confidence
+      Brings in its train a thousand cheats and fears;
+      And this bold arrogance which thou dost show
+      But nerves our arms to strike a harder blow.
+      Our plea for peace, on which thou now hast frowned,
+      Although we urged it with the best intent,
+      Will make our righteous cause be wide renowned,
+      And Heaven itself will give its blest assent.
+      Mark, ere thou treadest on Numantian ground,
+      Oft wilt thou prove, and to thy heart's content,
+      What bolts of wrath the insulted foe can send,
+      Who wished to be thy vassal, and good friend.
+
+SCIPIO.
+
+      Hast thou aught more to say?
+
+_First Ambassador._
+
+                                   No, we have more
+      To do, since thou, my lord, will have it so.
+      Thou hast refused the just peace we implore,
+      And hast belied thy better self, I know;
+      Soon wilt thou see the power we have in store,
+      When thou hast showed us all thou hast to show,
+      For prating peace away is easier far
+      Than breaking through the serried ranks of war.
+
+SCIPIO.
+
+      Thou speakest truth; and now to make it plain
+      That I can treat in peace, in war command,
+      Your proffered friendship I do now disdain;
+      I here remain the sworn foe of your land,
+      And so with this ye may return again.
+
+_Second Ambassador._
+
+      Meanst thou, my lord, on this resolve to stand?
+
+SCIPIO.
+
+      Yes, I do mean it.
+
+_Second Ambassador._
+
+                         Then, To arms! I say,
+      And no Numantian voice will answer, Nay!
+
+            [_Exeunt the Ambassadors; and QUINTUS FABIUS, brother
+                of SCIPIO, says_:
+
+QUINTUS FABIUS.
+
+      Methinks our indolence, which now is past,
+      Hath made you bold within our midst to brawl;
+      But now the wished-for time hath come at last,
+      When ye will see our glory, and your fall.
+
+SCIPIO.
+
+      Vain boasting, Fabius, is beneath the caste
+      Of valiant men, with honour at their call;
+      So calm thy threats, to good persuasion yield,
+      And keep thy courage for the battle-field.
+      Though, sooth, I do not mean that this proud foe
+      Should meet us hand to hand in very deed.
+      Some other way to conquest will I go,
+      Which promises to bring me better speed.
+      I mean to curb their pride, their wits o'erthrow,
+      And on itself to let their fury feed;
+      For with a deep wide ditch I'll gird them round,
+      And hunger fierce will bear them to the ground.
+      No longer shall this soil be coloured red
+      With Roman blood. Sufficient for the State
+      Is what these Spaniards have already shed
+      In this long brutal war, and obstinate.
+      Now bare your arms for other work instead,--
+      This hard-bound earth to break and excavate;
+      They serve us better, foul with dust and mud,
+      Than when bedabbled with the foeman's blood.
+      Let no one in the ranks this duty shun,
+      But join in strife his neighbour to surpass.
+      Let officer and private work as one,
+      Without distinction, or respect of class.
+      Myself will seize the spade, and when begun
+      Will break the ground as deftly as the mass.
+      Do all as I, and let what will befall,
+      This scheme of mine will satisfy you all.
+
+QUINTUS FABIUS.
+
+      O valiant sir, my brother and my lord,
+      In this we recognize thy prudent care,
+      For it were folly, by the wise ignored,
+      And rash display of valour, past compare,
+      To face in arms the fury and the sword
+      Of these wild rebels, frantic with despair;
+      To shut them in will yield us better fruit,
+      And wither all their courage at the root.
+      'Tis easy to surround the city quite,
+      Save where the river shows an open line.
+
+SCIPIO.
+
+      Now let us go, and straightway bring to light
+      This little-used and novel plan of mine;
+      Then to the Roman Senate in its might,
+      (If Heaven's smiles but on our project shine,)
+      Will complete Spain be subject, far and wide,
+      By simple conquest of this people's pride.
+
+
+SCENE II.
+
+    _Enters a damsel, crowned with a mural crown, bearing heraldic
+    castles in her hand, signifying SPAIN, and says_:
+
+SPAIN.
+
+      Thou Heaven, the lofty, vast, serenely grand,
+      Who, with thy fructifying powers, hast crowned
+      With wealth the chiefest part of this my land,
+      And made it great above the realms around,
+      Let my sad dole excite thy pity bland;
+      And since thou giv'st the wretched calm profound,
+      To me be gracious in my throes of pain,
+      For I am she, the lonely, luckless Spain.
+      Let it suffice thee that, beneath thy care,
+      My powerful limbs in fiercest fires were tossed,
+      And through my heart thou to the sun laidst bare
+      The dark benighted kingdom of the lost.
+      My wealth 'midst thousand tyrants thou didst share;
+      Phœnicians, Greeks as well, in countless host
+      Did part my realms; for thou didst will it so,
+      Or else my wickedness deserved the blow.
+      Is't possible that I should always be
+      Of nations strange the meek and lowly slave,
+      Nor ever have one glimpse of Liberty,
+      Nor ever see my native banners wave?
+      And yet, perchance, it is a just decree,
+      That I should sink beneath a fate so grave,
+      Since my most valiant men and sons of fame
+      Are foes at heart, and brothers but in name.
+      For public ends they never will unite,
+      These brilliant spirits--a divided host;
+      Nay, rather will they stand apart, or fight,
+      When strength and unity are needed most;
+      And thus by fatal discords they invite
+      The wild barbarian hosts, at fearful cost,
+      Who sack their treasures with a greedy glee,
+      And shower their cruelties on them and me.
+      It is Numantia, and only she,
+      Who with her blood her life will dearly sell;
+      Who with her sword unsheathed, and flashing free,
+      Defends the Liberty she loves so well.
+      But now her race is over, woe is me!
+      The hour, the fated hour is on the knell,
+      When she must part with life, but not with fame,
+      Like Phœnix rising fresh from out the flame.
+      Those Romans there, a countless timid band,
+      Who in a thousand ways their conquests seek,
+      Decline to measure swords, and hand to hand,
+      With these brave Numantines, so few and weak.
+      O might their plans be buried in the sand,
+      And all their fancies turn to crazy freak,
+      And this Numantia, this little spot,
+      Regain once more its free and happy lot!
+      But now, alas! the foe hath girt it round,
+      Not with confronting arms, foreboding ill
+      To its weak walls, but with a wit profound
+      And ready hands hath laboured with such skill,
+      That with a trench deep-hollowed in the ground
+      The town is circled, over plain and hill--
+      And only on the side where runs the river
+      Is there defence against this strange endeavour.
+      So these poor Numantines are close confined
+      And rooted to the spot, as if by charms;
+      No man can leave, no man may entrance find;
+      They have no fear of stormings or alarms;
+      But as they gaze around, before, behind,
+      And see no labour for their powerful arms,
+      With fearful accents, and ferocious breath,
+      They cry aloud for war, or else for death!
+      And since the side the spacious Douro scours,
+      Laving the city in its onward way,
+      Is that alone which, in their evil hours,
+      May lend the prisoned Numantines some stay,
+      Before their grand machines or massive towers
+      Be founded in its stream, I fain would pray
+      The bounteous river, radiant with renown,
+      To aid and succour my beleaguered town.
+      Thou gentle Douro,[5] whose meand'ring stream
+      Doth lave my breast, and give it life untold,
+      As thou wouldst see thy rolling waters gleam,
+      Like pleasant Tagus, bright with sands of gold;
+      As thou wouldst have the nymphs, a merry team,
+      Light-footed bound from meads and groves of old,
+      To pay their homage to thy waters clear,
+      And lend thee bounteously their favours dear;
+      Then lend, I pray, to these my piteous cries
+      Attentive ear, and come to ease my woes.
+      Let nothing hinder thee in any wise,
+      Although thou leav'st awhile thy sweet repose;
+      For thou and all thy waters must arise
+      To give me vengeance on these Roman foes;
+      Else all is over, 'tis a hopeless case,
+      To save from ruin this Numantian race.
+
+    _Enter the river DOURO, with several boys attired as rivers
+    like himself, these being the tributary streams which flow into
+    the Douro._
+
+DOURO.
+
+      O Spain, my mother dear, thy piercing cries
+      Have struck upon mine ears for many an hour,
+      And if I did not haste me to arise,
+      It was that succour lay beyond my power.
+      That fatal day, that day of miseries,
+      Which seals Numantia's doom, begins to lower;
+      The stars have willed it so, and well I fear
+      No means remain to change a fate so drear.
+      Minuesa, Tera, Orvion as well,
+      Whose floods increase the volume of mine own,
+      Have caused my bosom so to rise and swell
+      That all its ancient banks are overflown.
+      But my swift current will not break their spell,
+      As if I were a brook, their pride has grown
+      To do what thou, O Spain, didst never dream,
+      To plant their dams and towers athwart my stream.
+      But since the course of stern, relentless Fate,
+      Brings round the final fall, without avail,
+      Of this thy well-beloved Numantian state,
+      And closes up its sad and wondrous tale,
+      One comfort still its sorrows may abate,
+      That never shall Oblivion's sombre veil
+      Obscure the bright sun of its splendid deeds,
+      Admired by all, while age to age succeeds.
+      But though this day the cruel Romans wave
+      Their banners o'er thy wide and fertile land,--
+      Here beat thee down, there treat thee as a slave,
+      With pride ambitious, and a haughty hand,--
+      The time will come (if I the knowledge grave
+      Which Heaven to Proteus taught do understand)
+      When these said Romans shall receive their fall
+      From those whom presently they hold in thrall.
+      I see them come, the peoples from afar,
+      Who on thy gentle breast will seek to dwell,
+      When, to thy heart's content, they have made war
+      Against the Romans, and have curbed them well.
+      Goths shall they be; who, bright with glory's star,
+      Leaving their fame through all the world to swell,
+      Will in thy bosom seek repose from strife,
+      And give their sturdy powers a higher life.
+      In coming years will Attila, that man
+      Of wrath, avenge thy wrongs with bloody hands;
+      Will place the hordes of Rome beneath the ban,
+      And make them subject to his stern commands;
+      And, forcing way into the Vatican,[6]
+      Thy gallant sons, with sons of other lands,
+      Will cause the Pilot of the sacred bark
+      Take speedy flight, and steer into the dark.
+      The time will also come, when one may stand
+      And see the Spaniard brandishing his knife
+      Above the Roman neck, and stay his hand
+      At bidding of his chief, from taking life.
+      The great Albano[7] he, who gives command
+      To draw the Spanish army from the strife,
+      In numbers weak, and yet in courage strong,
+      A match in valour for a mightier throng.
+      And when the rightful Lord of heaven and earth
+      Is recognized as such on every hand,
+      He, who shall then be stablished and set forth
+      As God's viceregent over every land,
+      Will on thy kings bestow a style of worth
+      As fitting to their zeal as it is grand;
+      They all shall bear of Catholic the name,
+      In true succession to the Goths of fame.
+      But he, whose hand of vigour best shall bind
+      In one thine honour, and thy realm's content,
+      And make the Spanish name, too long confined,
+      Hold place supreme by general assent,
+      A king shall be, whose sound and thoughtful mind
+      On grand affairs is well and wisely bent;
+      His name through all the world he rules shall run,
+      The second Philip,[8] second yet to none.
+      Beneath his fortunate imperial hand
+      Three kingdoms once divided under stress
+      Again beneath one single crown shall stand,
+      For common welfare, and thy happiness.
+      The Lusitanian banner, famed and grand,
+      Which once was severed from the flowing dress
+      Of fair Castile, will now be knit anew,
+      And in its ancient place have honour due.
+      What fear and envy, O beloved Spain,
+      Shall bear to thee the nations strange and brave;
+      Whose blood shall serve thy flashing sword to stain,
+      O'er whom thy banners shall triumphant wave!
+      Let hopes like these assuage the bitter pain,
+      Which wrings thy heart in this sad hour and grave,
+      For what the cruel Fates have willed must be,
+      Numantia must abide the stern decree.
+
+SPAIN.
+
+      Thy words, O famous Douro, have in part
+      Relieved the poignant anguish of my wrong;
+      There is no guile in thy prophetic heart,
+      And so my confidence in thee is strong.
+
+DOURO.
+
+      O Spain, thou mayst believe what I impart,
+      Although these happy days may tarry long.
+      My nymphs await me now, and so, farewell!
+
+SPAIN.
+
+      May heaven thy limpid waters bless and swell!
+
+
+
+
+ACT II.
+
+
+SCENE I.
+
+_Interlocutors._
+
+    _THEOGENES and CORABINO, with four other Numantines, Governors
+    of Numantia, MARQUINO, a wizard, and a Corpse which will appear
+    in due time. They are seated in council, and the four nameless
+    Numantines are distinguished by First, Second, Third, and
+    Fourth._
+
+THEOGENES.
+
+      Ye valiant men, it seems to me this day
+      That every adverse fate and direful sign
+      Conspire to crush us with their baleful sway,
+      And cause our force and fury to decline.
+      The Romans shut us in, do what we may,
+      With cruel craft our strength to undermine.
+      No vengeance comes to us by death in fight,
+      Nor, save with wings, can we escape by flight,
+      Not these alone would crush us to the ground,
+      Who oft have suffered at our hands defeat;
+      For Spaniards too, with them in paction bound,
+      Would cut our throats with treachery complete.
+      May Heaven such knavish villany confound!
+      May lightning flashes wound their nimble feet,
+      Who rush to give their friends a deadly blow,
+      And lend their succour to our wily foe!
+      See if ye cannot now devise some plan
+      To mend our fortunes, and our city save;
+      For this laborious siege, of lengthened span,
+      Prepares for us a sure and certain grave.
+      Across that fearful ditch no single man
+      May seek the fortune that awaits the brave;
+      Though valiant arms, at times, in close array
+      Will sweep a thousand obstacles away.
+
+CORABINO.
+
+      I would that mighty Jove, in sovereign grace,
+      Might grant our gallant youth this very day
+      To meet the Roman army face to face,
+      Where'er their arms might have the freest play.
+      Not death itself, in such a happy case,
+      Would keep their Spanish fortitude at bay;
+      They'd hew a pathway, beat the foemen down,
+      And succour bring to our Numantian town.
+      But since we find ourselves in this sad state,
+      Like women harboured and by force confined,
+      Then let us do our utmost in the strait,
+      And show a daring and determined mind;
+      Let us invite our foes to test their fate
+      By single combat; haply we shall find
+      That, worn out by this siege and lengthened fray,
+      They fain would end it in this simple way.
+      But if this remedy should not succeed,
+      And this our just demand should baffled be,
+      One other plan may bring us better speed,
+      Though more laborious, as it seems to me:
+      That ditch and battled trench, which now impede
+      Our passage to the foeman's camp ye see,
+      By sudden night assault let us break through,
+      And march for succour to good friends and true.
+
+_First Numantine._
+
+      Be it by ditch or death, we must, 'tis plain,
+      Free passage force, if we would still survive;
+      For death is most insufferable pain,
+      If it should come when life is most alive.
+      Death is the certain cure for woes that drain
+      The strength of life, and on it grow and thrive;
+      For death with honour is supremest bliss;
+      No fate can be more excellent than this.
+
+_Second Numantine._
+
+      Can higher honour crown our latest years,
+      If so our souls must from our bodies part,
+      Than thus to rush upon the Roman spears,
+      And dying, strike our foemen at the heart?
+      Let him who will display the coward's fears,
+      And stay within the city all apart;
+      For me, at least, my life I'd rather yield,
+      Within the ditch, or on the open field.
+
+_Third Numantine._
+
+      This cruel hunger, fearsome and malign,
+      Which tracks our path, and goads us bitterly,
+      Constrains me to consent to your design,
+      However rash and hair-brained it may be.
+      By death in fight this insult we decline;
+      Who would not die of hunger come with me,
+      To force the trenches, and with one accord
+      Cut out a path to safety with the sword.
+
+_Fourth Numantine._
+
+      It seemeth good to me, before we dare
+      The desperate act which promises relief,
+      That we should summon from the rampart there
+      Our haughty foe, and ask of him in brief:
+      That he will grant an open field and fair
+      To one Numantian, and one Roman chief,
+      And that the death of either in the fight
+      Shall end our quarrel and decide the right.
+      These Romans are a people of such pride
+      That they will sanction what we now propose;
+      And if by this our challenge they abide,
+      Then sure am I our griefs will have a close;
+      For here sits Corabino at our side,
+      Upon whose mighty valour I repose,
+      That he alone, in open fight with three,
+      Will from the Romans snatch the victory.
+      'Tis also fitting that Marquino here,
+      Whose fame as sage diviner is so great,
+      Should note what sign or planet in the sphere
+      Forbodeth death to us, or glorious fate;
+      And find some means perchance to make it clear,
+      If we shall issue from our present strait,
+      When once this doubtful cruel siege has passed,
+      The victors or the vanquished at the last.
+      Be it as well our first and chief concern
+      To make to Jove a solemn sacrifice;
+      It well may be that thereby we shall earn
+      A boon still higher than the proffered price.
+      If by such aid supernal we shall learn
+      To staunch the wounds of our deep-rooted vice,
+      Then haply may our rugged fates relent,
+      And change to brighter fortune and content.
+      There never lacketh opportunity to die,
+      The desperate may have it when inclined;
+      The fitting time and place are always nigh
+      To show in dying the determined mind.
+      But lest the passing hours in vain should fly,
+      Say if ye now approve what I've designed,
+      And if ye do not, then devise some plan
+      Will better suit, and pleasure every man.
+
+MARQUINO.
+
+      There is good reason in thy sage advice;
+      Its weighty counsel is approved by me;
+      Prepare the offering and the sacrifice,
+      And let the challenge quick delivered be.
+      As for myself, I'll hasten in a trice
+      To show my science in supreme degree;
+      For one I'll drag from out the heart of Hell
+      Our future, be it good or bad, to tell.
+
+THEOGENES.
+
+      I herewith offer me, if so indeed
+      Ye can but trust my valour and my might,
+      To sally forth, if it be so decreed,
+      And be your champion in the single fight.
+
+CORABINO.
+
+      Thy valour rare deserves a better meed;
+      We well may trust--it is thy patent right--
+      Affairs by far more difficult and grave
+      To him who is the bravest of the brave.
+      And since the chiefest place is at thy call,
+      Due to thy worth, by general assent,
+      I, who esteem myself the least of all,
+      Will act as herald of this tournament.
+
+_First Numantine._
+
+      Then I, with all the people, great and small,
+      Will do what gives to Jove the most content;
+      For prayers and sacrifice have mighty sway,
+      When purged and contrite hearts prepare the way.
+
+_Second Numantine._
+
+      Now let us go, with ready wills and free,
+      To do as we have sworn, whate'er befall,
+      Before pale hunger's gnawing misery
+      Hath brought us to the last extreme of all.
+
+_Third Numantine._
+
+      If Heaven already hath pronounced decree
+      That we are doomed in dire distress to fall,
+      May Heaven revoke it now, and aid us soon,
+      If our contrition meriteth the boon.
+
+
+SCENE II.
+
+    _Enter first two Numantine soldiers, MORANDRO and LEONCIO._
+
+LEONCIO.
+
+      Where, Morandro, dost thou go?
+      What strange errand hast thou got?
+
+MORANDRO.
+
+      If myself do know it not
+      Just as little wilt thou know.
+
+LEONCIO.
+
+      Would that amorous whim of thine
+      I could pluck from out thy pate!
+
+MORANDRO.
+
+      Nay, my reason hath more weight
+      Since I felt this flame of mine.
+
+LEONCIO.
+
+      'Tis a fact, undoubted lore,
+      That the love-devoted swain
+      Hath, by reason of his pain,
+      Weightier reason than before.
+
+MORANDRO.
+
+      What thou speakest thus to me,
+      Is it wit, or malice, friend?
+
+LEONCIO.
+
+      Thou my wit mayst apprehend,
+      I, thy pure simplicity.
+
+MORANDRO.
+
+      Am I simple, loving well?
+
+LEONCIO.
+
+      Yes, if love will not allow
+      For the whom, and when, and how;
+      Ask thy reason, it will tell.
+
+MORANDRO.
+
+      Who can bounds assign to love?
+
+LEONCIO.
+
+      Reason's self will show them thee.
+
+MORANDRO.
+
+      Reasonable will they be,
+      But of slender value prove.
+
+LEONCIO.
+
+      What of reason is there, pray,
+      In the amorous endeavour?
+
+MORANDRO.
+
+      Love 'gainst reason goeth never,
+      Though it go some other way.
+
+LEONCIO.
+
+      Is it not beyond all reason,
+      Gallant soldier as thou art,
+      Thus to show a lover's heart,
+      In this sad and straitened season?
+      At a time when thou art bound
+      Round the god of war to rally,
+      Is it meet with love to dally,
+      Scatt'ring thousand sweets around?
+      See thy country in a stir,
+      Enemies before, behind,
+      And wilt thou, with troubled mind,
+      Turn to love, and not to her?
+
+MORANDRO.
+
+      Thus to hear thee idly speak,
+      Makes my blood with fury dance.
+      When did love, by any chance,
+      Make the manly bosom weak?
+      Do I leave my post to fly
+      To my lady's side instead,
+      Or lie sleeping on my bed,
+      When my captain watches by?
+      Hast thou seen me fail to move
+      At the urgent call of duty,
+      Lured away by wanton beauty,
+      Or still less by honest love?
+      If with truth thou canst not tell
+      Any point wherein I fail,
+      Wherefore thus against me rail,
+      Just because I love so well?
+      If I shun the circles bright,
+      Brooding o'er my sad condition,
+      Put thyself in my position,
+      Thou wilt see that I have right.
+      Know'st thou not how many years
+      I was mad for Lyra's sake,
+      Till at length the clouds did break,
+      Scatt'ring all my doubts and fears?
+      For her father gave consent
+      That we twain should wedded be;
+      And my Lyra's love for me,
+      Mine for her, gave full content.
+      But, alas! thou art aware
+      How this brutal, cruel war
+      Came our happiness to mar,
+      Sunk my glory to despair.
+      For our marriage may not be
+      Till the din of war hath ceased;
+      'Tis no time to wed and feast
+      Till this land of ours be free.
+      Think what slender hope is here
+      That my bliss will ever be,
+      When our chance of victory
+      Rests upon the foeman's spear!
+      Here we are with ruin near us,
+      Fosse and trench around us lying,
+      All our men with hunger dying,
+      And no thought of war to cheer us!
+      Is it strange, that when I know
+      All my hopes are but as wind,
+      I should go with saddened mind,
+      Just as now thou seest me go?
+
+LEONCIO.
+
+      O Morandro, calm thy breast;
+      Let me see thine ancient glance;
+      For by hidden ways, perchance,
+      Help will reach us--and the best.
+      Sovereign Jove will doubtless show
+      To our brave Numantian folk
+      How to burst this Roman yoke
+      By some sharp and sudden blow.
+      Then in calm and sweet repose
+      Wilt thou seek thy wedded wife,
+      And in love's endearing strife
+      Soon forget thy present woes.
+      For this day, by sage advice,
+      Will Numantia, all astir,
+      Unto Jove, the Thunderer,
+      Make a solemn sacrifice.
+      See what crowds of people hie
+      With the victim and the fire!
+      Mighty Jove, all-powerful sire,
+      Look upon our misery!
+
+            [_There enter two Numantines, clad as ancient priests,
+                leading in between them, fastened by the horns,
+                a big lamb, crowned with olive or ivy and other
+                flowers; also a page with a silver salver and
+                a towel on his shoulder; another with a silver
+                goblet filled with water; another with one filled
+                with wine; another with a silver dish and a little
+                incense; another with fire and wood; another who
+                arranges a table with a coverlet, on which all the
+                aforesaid articles are placed. There enter on the
+                scene all those who have already appeared in the
+                comedy in the dress of Numantines, the priests
+                coming after; and one of them, letting go the lamb,
+                thus says_:
+
+_First Priest._
+
+      Most certain signs, foreboding woes unchecked,
+      Have shown their evil forms across my way,
+      And my hoar hairs are standing all erect.
+
+_Second Priest._
+
+      If my divinings lead me not astray,
+      No good will issue from this enterprise.
+      Alas, Numantia! Ah, luckless day!
+
+_First Priest._
+
+      Let us, despite these mournful auguries,
+      Perform our office with becoming speed.
+
+_Second Priest._
+
+      Bring hither, friends, this table, and likewise
+      The incense, wine, and water which we need
+      Arrange thereon. Now stand ye all apart;
+      Repent ye of your every evil deed;
+      The first and best oblation on your part
+      Is that which heaven regards with chiefest grace,
+      A chastened spirit and a guileless heart.
+
+_First Priest._
+
+      The fire upon the ground ye must not place.
+      There comes a brazier to receive it now,
+      For so our rites demand in such a case.
+
+_Second Priest._
+
+      Make clean your hands and necks, and keep your vow.
+
+_First Priest._
+
+      Bring water here! Is not the fire alight?
+
+_One._
+
+      No man can kindle it, my lords, I trow.
+
+_Second Priest._
+
+      O Jove! Will adverse Fate, to our despite,
+      Pursue us thus to ruin in its ire?
+      What keeps the kindle-wood from taking light?
+
+_One._
+
+      It seems, my lord, there is some little fire.
+
+_First Priest._
+
+      Away with thee, thou lurid flame and spare!
+      The sight of thee makes every hope expire.
+      Mark how the thickening smoke is curling there,
+      And to the western side directs its flight;
+      While that pale flame which quivers in the air
+      Darts to the east its points of yellow light;
+      A luckless sign, which hastens to proclaim
+      That total loss and ruin are in sight.
+
+_Second Priest._
+
+      Although our death may give the Romans fame,
+      Their victory, methinks, to smoke will turn,
+      Our death and glory change to vivid flame.
+
+_First Priest._
+
+      Since it is fitting, bring the hallowed urn,
+      And quick bedew the sacred fire with wine;
+      The incense also it behoves to burn.
+
+            [_They besprinkle the fire and its adjuncts with wine,
+                and then place incense on the fire._
+
+_Second Priest._
+
+      Great Jupiter, direct thy force benign
+      For good to sad Numantia in her woe,
+      And turn to naught the stern opposing sign.
+
+_First Priest._
+
+      As burns the sacred incense in the glow,
+      Forced into smoke by virtue of the fire,
+      So exercise thy virtue on the foe,
+      That all his wealth and glory, powerful Sire,
+      May pass away in clouds of murky air,
+      As thou canst do it, and as I desire.
+
+_Second Priest._
+
+      May Heaven restrain the foe with arm laid bare,
+      As now we hold this victim firmly bound,
+      And may he share the fate _she_ hath to share!
+
+_First Priest._
+
+      Ill bodes the augury; no hope is found
+      That our beleaguered town will e'er be free
+      To burst the tightening bonds that gird her round.
+
+            [_Under the stage they make a noise with a barrel full
+                of stones, and discharge a rocket._
+
+_Second Priest._
+
+      Didst thou not hear a noise, my friend, or see
+      That flaming bolt which passed with angry flight,
+      In speedy answer to thy prophecy?
+
+_First Priest._
+
+      I stand appalled; I quake with very fright;
+      What fearful signs are hovering in the sky,
+      Foreboding bitter end, disastrous fight!
+      Seest not that troop of eagles fierce on high,
+      Who fight these birds with cruel beak and bill,
+      And round their quivering prey in circles fly!
+
+_Second Priest._
+
+      They use alone their strength and cruel will
+      To drive these birds into some narrow spot,
+      Then close them in with wily art and skill.
+
+_First Priest._
+
+      That omen I denounce; I like it not:
+      Imperial eagles conquering as they go!
+      Numantia falls,--it is her certain lot.
+
+_Second Priest._
+
+      Eagles, the heralds of stupendous woe!
+      Thine augury is true; it fits the case:
+      Our hours are numbered,--it is time to go.
+
+_First Priest._
+
+      Not yet; the sacrifice must now take place
+      Of this pure victim, destined to appease
+      The deity who shows the fearful face.
+      O mighty Pluto, thou whom Fate did please
+      To grant a dwelling in the realms obscure,
+      And rule the infernal hosts with thy decrees;
+      As thou wouldst live in peace, and rest secure
+      That she, of sacred Ceres daughter fair,
+      Will greet thy love with an affection pure,
+      Then listen to this wretched people's prayer;
+      Do all that lies within thy proper sphere,
+      And make their welfare thy peculiar care.
+      Seal up that horrid cave profound and drear
+      Whence sally forth the direful Sisters three,
+      To do the damage we have cause to fear,
+      For much they revel in our misery.
+
+            [_He takes some flocks of hair from the lamb and throws
+                them into the air._
+
+      So may the wind make all their projects vain,
+      And as I now proceed to lave and stain
+      This shining knife with that pure victim's gore,
+      With guileless spirit and a purpose plain,
+      So may Numantia's soil be sprinkled o'er
+      With Roman blood; and may its reddened sands
+      Serve also for their grave, as oft before.
+
+            [_Here enters from under the stage a demon, from the
+                middle of his body upwards, who seizes the lamb
+                and carries it behind. He presently returns again,
+                and scatters and disperses the fire and all the
+                sacrifices._
+
+      But who hath snatched the victim from my hands?
+      Ye holy gods, what means this fearful thing?
+      What prodigies are raging in these lands?
+      Can nothing move your hearts, or pity bring?
+      Not the sad wailings of our wretched folk,
+      Or sweetness of the holy songs we sing?
+
+_Second Priest._
+
+      These rather seem their anger to provoke,
+      Else why these fearful signs of coming wrath
+      That press us downward like a hateful yoke!
+      Our schemes of life are but a passing breath;
+      Our hardest labour ends in quick decay;
+      The good of others hastens but our death.
+
+_One of the People._
+
+      Enough; since Heaven hath now decreed this day
+      Our bitter end, its misery profound,
+      Why need we more for pity's sake to pray?
+
+_Another._
+
+      Then let us wail with such a doleful sound
+      Our woeful lot, that coming ages may
+      Rehearse our hopeless valour round and round.
+      And let Marquino make a full display
+      Of all his lore; and tell the sum of fears
+      And horrors springing from this fateful day,
+      Which now hath turned our laughter into tears.
+
+            [_Exeunt omnes, save MORANDRO and LEONCIO, who remain
+                alone._
+
+MORANDRO.
+
+      What, Leoncio, dost thou say?
+      Shall my sorrows have their cure
+      'Neath these signs so good and sure,
+      Which the Heavens now display?
+      Shall I better fortune have,
+      When the din of war is o'er?
+      That will happen, not before,
+      When this ground becomes my grave.
+
+LEONCIO.
+
+      To the gallant soldier, friend,
+      Auguries can give no pain;
+      Sturdy heart and steady brain
+      Bring him fortune in the end.
+      Passing phantoms vain and dim
+      Cannot shake or do him harm;
+      Courage high and manly arm
+      Are the star and sign for him.
+      But if thou wouldst still believe
+      Such a palpable delusion,
+      We shall have them in profusion,
+      If my sight doth not deceive.
+      For Marquino now will show
+      All the best his lore can borrow,
+      And the end of all our sorrow,
+      Good or bad, we soon will know.
+      Seems to me he comes this way;
+      In what strange attire he sallies!
+
+MORANDRO.
+
+      Who with ugly beings dallies
+      Well may ugly be as they!
+      Shall we follow him, or fly?
+
+LEONCIO.
+
+      Better far to follow now,
+      For if fitting cause allow,
+      We may serve him by-and-by.
+
+            [_Here enters MARQUINO, clad with a black robe of wide
+                glazed buckram, and black flowing hair; his feet
+                unshod, and at his girdle he must carry, so as to
+                be seen, three phials full of water, one black,
+                another tinged with saffron, the last clear; in
+                the one hand a lance, black-lacquered, and in the
+                other a book. MILVIO accompanies him, and as they
+                advance, LEONCIO and MORANDRO stand at one side._
+
+MARQUINO.
+
+      Where say'st thou, Milvio, lies the luckless youth?
+
+MILVIO.
+
+      Within this sepulchre interred he lies.
+
+MARQUINO.
+
+      Thou know'st the spot; thou dost not err, in sooth?
+
+MILVIO.
+
+      No, for this stone, that stands before mine eyes,
+      I left to mark the place where now doth dwell
+      The lad we sepulchred with tears and sighs.
+
+MARQUINO.
+
+      What died he of?
+
+MILVIO.
+
+                       Of living not too well.
+      For withering, wasting hunger laid him low,
+      That cruel plague, the progeny of Hell.
+
+MARQUINO.
+
+      It was no wound, so far as thou dost know,
+      That pierced his heart and cut the vital thread,
+      No cancer, nay, nor homicidal blow?
+      I ask thee this, for to my science dread
+      It matters that this body be complete,
+      Entire in all its parts, from foot to head.
+
+MILVIO.
+
+      Three hours ago I paid him, as was meet,
+      The last respects, and bore him to his tomb.
+      He died of hunger; this I now repeat.
+
+MARQUINO.
+
+      'Tis well; the fitting season is in bloom,
+      Announced before by each propitious sign,
+      To summon from the nether realms of gloom
+      The fallen spirits, fearsome and malign.
+      Now to my verses give attentive ear:
+      Fierce Pluto, thou, whom Fate hath called to reign
+      Within the wide domain of darkness drear,
+      Amongst the ministers of souls in pain,
+      Cause that my wishes be respected here,
+      However much they go against the grain;
+      And in this dire extreme delay not long,
+      Nor wait a second summons from my tongue.
+      I wish that to the corpse, interred by us,
+      The soul that gave it life thou shouldst restore.
+      Though Charon yonder, fierce and rigorous,
+      Should hold it fast upon the blackened shore;
+      Though, in the triple throat of Cerberus
+      The grim, it lies ensconced in anguish sore;
+      Forth let it come to seek our world of light,
+      Then quick return unto thy realms of night.
+      Since come it must, let it instructed come,
+      Anent the issue of this bloody fray.
+      In _no_ point let the wretched soul be dumb,
+      Nor aught conceal, but in the plainest way,
+      Without ambiguous phrase, rehearse the sum,
+      Lest doubt and dim confusion win the day.
+      Now send it forth. Why keep me waiting here,
+      Or must I make my meaning still more clear?
+      Ye faithless ones, why turn ye not the stone?
+      Tell me, false ministers, what keeps ye back?
+      How? Have ye not sufficient portents shown,
+      That ye will aid me in the thing I lack?
+      Say, have ye mischievous designs alone?
+      Or wish ye I should put upon the track,
+      This very moment, my enchanting arts,
+      To soften down your fierce and stony hearts?
+      Well then, ye rabble vile, with falsehood rife,
+      Prepare yourselves for words of harder grain;
+      Know that my voice hath power upon your life,
+      To give you double fury, double pain!
+      Tell me, thou traitor, husband of the wife
+      Who six months yearly, to her sweetest gain,
+      Remains without thee, cuckold as thou art,
+      Why art thou dumb, when I speak out my heart?
+      This iron point, bedewed with water clear
+      Which never touched the ground in month of May,
+      Will strike this stone, and straightway will appear
+      The strength and potency of my assay.
+
+            [_With water of the clear phial he bathes the point
+                of the lance, and then strikes the board; below,
+                rockets are fired off, or a noise is made with the
+                barrel of stones._
+
+      Ye rabble, now it seems that ye have fear,
+      And show by stunning proofs your fell dismay.
+      What sounds are these, ye people vile and coarse?
+      Ye come at last, although ye come by force.
+      Lift up this stone, ye curs, whate'er betide,
+      And show the body that lies buried here.
+      What means this sluggishness? Where do ye hide?
+      Why at my mandate do ye not appear?
+      Ye infidels, ye put my threats aside,
+      Because ye think ye have no more to fear;
+      But this black water of the Stygian lake
+      Will give your tardiness a speedy shake!
+      Thou water, drawn upon a dismal night
+      Of darkness dread, from out the fatal lake,
+      By that dread power which doth with thee unite,
+      Before which any other power must quake,
+      Give forth thy diabolic strength aright!
+      And him who first the Serpent's form did take
+      I conjure, I constrain, beseech, command,
+      To come with speedy wings at my demand!
+
+            [_He sprinkles the sepulchre with water, and it opens._
+
+      Come forth, thou ill-starred youth, stay not behind,
+      Return to see the sun, serene and blest!
+      Forsake that realm, where thou shalt never find
+      One single happy day of cloudless rest!
+      And since thou canst, unbosom now thy mind,
+      Of all that thou hast seen in its dark breast;
+      I mean, regarding that which I demand,
+      And more, if it concerns the case in hand.
+
+            [_The body comes forth in its shroud, with masked face,
+                discoloured like a dead man's, and walks, dragging
+                itself by little and little, and at length falls
+                flat on the stage, without moving foot or hand,
+                till its time comes._
+
+      What! Dost not answer? Dost not live again,
+      Or haply hast thou tasted death once more?
+      Then will I quicken thee anew with pain,
+      And for thy good the gift of speech restore.
+      Since thou art one of us, do not disdain
+      To speak and answer, as I now implore;
+      If thou be dumb, then I'll use measures strong,
+      To loosen thy most timid, worthless tongue.
+
+            [_He sprinkles the body with the yellow water, and
+                whips it with a thong._
+
+      Ye spirits vile, it worketh not, ye trust!
+      But wait, for soon the enchanted water here
+      Will show my will to be as strong and just
+      As yours is treacherous and insincere.
+      And though this flesh were turned to very dust,
+      Yet being quickened by this lash austere,
+      Which cuts with cruel rigour like a knife,
+      It will regain a new though fleeting life.
+
+            [_At this point the body moves and shudders._
+
+      Thou rebel soul, seek now the home again
+      Thou leftest empty these few hours ago!
+
+_The Body._[9]
+
+      Restrain the fury of thy reckless pain;
+      Suffice it, O Marquino, man of woe,
+      What I do suffer in the realms obscure,
+      Nor give me pangs more fearful to endure.
+      Thou errest, if thou thinkest that I crave,
+      For greater pleasure and for less dismay,
+      This painful, pinched, and narrow life I have,
+      Which even now is ebbing fast away.
+      Nay, rather dost thou cause me dolour grave,
+      Since Death a second time, with bitter sway,
+      Will triumph over me in life and soul,
+      And gain a double palm, beyond control.
+      For he and others of the dismal band
+      Who do thy bidding, subject to thy spell,
+      Are raging round and round, and waiting stand,
+      Till I shall finish what I have to tell:
+      The woeful end, most terrible and grand,
+      Of our Numantia, since I know it well:
+      For she shall fall, and by the hands austere
+      Of those who are to her most near and dear.
+      The Romans ne'er shall victory obtain
+      O'er proud Numantia; still less shall she
+      A glorious triumph o'er her foemen gain;
+      Twixt friends and foes, both brave to a degree,
+      Think not that settled peace shall ever reign
+      Where rage meets rage in strife eternally.
+      The friendly hand, with homicidal knife,
+      Will slay Numantia, and will give her life.
+
+            [_He hurls himself into the sepulchre, and says_:
+
+      I say no more, Marquino, time is fleet;
+      The Fates will grant to me no more delay,
+      And though my words may seem to thee deceit,
+      Thou'lt find at last the truth of what I say.
+
+MARQUINO.
+
+      O fearful signs! O misery complete!
+      If such events, my friend, are on the way,
+      Before I gaze on this my people's doom
+      I'll end my wretched being in this tomb!
+
+            [_MARQUINO hurls himself into the sepulchre._
+
+MORANDRO.
+
+      Say, Leoncio, am I right,
+      Are not my forebodings true?
+      That my hopes and pleasures too
+      Change into the opposite?
+      Who can Fate and Fortune brave?
+      Shut and barred is every way,
+      Save, and let Marquino say,
+      Certain death and speedy grave.
+
+LEONCIO.
+
+      What are all these strange illusions?
+      Terrors grim and phantasies.
+      What are signs and witcheries?
+      Diabolical delusions.
+      Thinkest thou such things have worth?
+      Slender knowledge dost thou show;
+      Little care the dead below
+      For the living here on earth.
+
+MILVIO.
+
+      Such a monstrous sacrifice
+      Never had Marquino made,
+      Could our fate have been delayed,
+      Which he saw with prophet's eyes.
+      Let us tell this tale of woe
+      To the town whose end is near;
+      But on such an errand drear
+      Who will stir one step to go?
+
+            [_Exeunt._
+
+
+END OF ACT II.
+
+
+
+
+ACT III.
+
+
+SCENE I.
+
+    _Enter SCIPIO, QUINTUS FABIUS, and CAIUS MARIUS; afterwards
+    CORABINO._
+
+SCIPIO.
+
+      In very sooth, I am content to view
+      How Fortune's wishes tally with mine own;
+      For this free haughty nation I subdue
+      Without a struggle, by my wits alone.
+      The occasion comes, I seize it as my due,
+      For when it flits and runs, and once hath flown,
+      Full well I know in war we pay the cost,
+      Our credit vanishes, and life is lost.
+      It may be judged a foolish, monstrous thing,
+      To hold our enemies beleaguered there;
+      That shame on Roman chivalry we bring,
+      By using arts of conquest strange and rare.
+      If such be said, then to this hope I cling,
+      That shrewd and practised soldiers will declare
+      That victory to be of most repute,
+      Which yields with least of blood the most of fruit.
+      What glory more exalted can we know,
+      Within the range of war affairs, I mean,
+      Than thus to conquer and subdue the foe,
+      Nor let our naked weapons once be seen?
+      For when the blood of friends is forced to flow,
+      To gain a triumph when the fight is keen,
+      I wot the pleasure is not half so high
+      As that which springs from bloodless victory.
+
+            [_Here a trumpet sounds from the wall of Numantia._
+
+QUINTUS FABIUS.
+
+      Listen, my lord, there comes a trumpet's blast
+      From out Numantia's town, and sure am I
+      They mean to speak to thee from thence at last,
+      For this strong wall impedes their coming nigh.
+      See, Corabino to the tower hath passed,
+      And waves a peaceful banneret on high.
+      Let us advance a space.
+
+SCIPIO.
+
+      Well, be it so.
+
+CAIUS MARIUS.
+
+      This spot is good, we need no further go.
+
+            [_CORABINO stands on the battlement, having a white
+                banner on the point of his lance._
+
+CORABINO.
+
+      Ye Romans, say, from my position here
+      Is't possible my voice your ears can reach?
+
+CAIUS MARIUS.
+
+      Be pleased to lower it, speak slow and clear,
+      And then right well we'll understand your speech.
+
+CORABINO.
+
+      Entreat the General that he come near
+      The entrance of the fosse; I do beseech
+      That he will hear my message.
+
+SCIPIO.
+
+                                    Tell it now,
+      For I am Scipio.
+
+CORABINO.
+
+                       Then listen thou.
+      Numantia asks thee, prudent general,
+      To ponder well how many years have flown
+      Since war hath raged, with its commanding thrall,
+      Between thy Roman people and our own;
+      And haply to prevent that worse befall,
+      When once this warfare to a plague hath grown,
+      She much desires, if thou shouldst deem it right,
+      To end it with a short and single fight.
+      One soldier of her own she offers thee,
+      To combat in the lists in open fray
+      With one of yours, as stout and brave as he,
+      To show their prowess with a full display.
+      And if the evil Fates should so decree,
+      That one shall perish in this glorious way,
+      If it be ours, we shall resign our land;
+      If it be yours; the war is at a stand.
+      To make this solemn compact more secure,
+      We offer thee of hostages the best.
+      I know thou wilt consent; for thou art sure
+      Of all the soldiers under thy behest,
+      And knowest that the least thou canst procure
+      Will cause to sweat, in face and loins and breast,
+      Numantia's bravest, most determined son,
+      And thus thy crowning triumph shall be won.
+      Make answer now, my lord, if thou agree,
+      And presently to work we shall proceed.
+
+SCIPIO.
+
+      Your words are jest and mirth and mockery;
+      None but a fool would think of such a deed!
+      Employ the means of meek and humble plea,
+      If ye are eager that your necks be freed,
+      Nor feel the rigour of the Roman knife,
+      And from our powerful grip escape with life.
+      If that brute beast, shut up within its cage,
+      For savage wildness and ferocious will,
+      Can there be tamed by dint of cunning sage,
+      Through lapse of time, and means of crafty skill,
+      The man who lets him free to vent his rage
+      Will show himself a madman wilder still.
+      Wild beasts are ye, as such we hold ye fast,
+      And right or wrong, we'll tame ye at the last!
+      In spite of you Numantia shall be mine,
+      Nor cost me at the worst a single man;
+      So let the boldest-minded of your line
+      Break through the ditch and trenches if he can;
+      And if my valour shows some little sign
+      Of cowardice in working out this plan,
+      Let now the gusty wind bear off the shame,
+      And when I conquer, bear it back--as fame.
+
+    [_Exeunt SCIPIO and his men._
+
+CORABINO.
+
+      Coward! Wilt hear no more? Wilt hide thy shame?
+      The just and equal combat dost thou fear?
+      Thy conduct stamps contempt upon thy name,
+      By no such means wilt thou sustain it here,
+      Thine answer is so cowardly and tame.
+      Ye Romans, cowards are ye, it is clear,
+      Your trust is only in your teeming host,
+      Ye fear to raise the doughty arms ye boast!
+      O cruel, treacherous, of little worth,
+      Conspirators and tyrants are ye all!
+      Ungrateful, grasping, low in breed and birth,
+      Ferocious, obstinate and rustical!
+      Lascivious, base, renowned through all the earth
+      For toiling hands whose bravery is small!
+      What glory hope ye from our death and doom,
+      While thus ye hold us in a living tomb?
+      Ye squadrons close, or single files that scour
+      The open field, where neither ditch nor wall
+      Can offer hindrance to your rampant power,
+      Or check the fatal fierce assault at all,
+      'Twere well, instead of turning tail this hour,
+      And keeping these your useless blades in thrall,
+      That your vast army, boastful of its powers,
+      Should grapple with this feeble band of ours.
+      But as it is your long accustomed trade,
+      To conquer men with numbers and with guile,
+      These compacts, which for valiant men are made,
+      Are ill-adapted to your crafty style.
+      Ye timid hares, in savage skins arrayed,
+      Go, trumpet forth your deeds, for in a while,
+      I trust in mighty Jove to see you all
+      Beneath Numantia's sovereignty and thrall.
+
+            [_He descends from the wall, and presently enter the
+                Numantines who were present at the beginning of the
+                Second Act, except MARQUINO, who threw himself into
+                the sepulchre; and MORANDRO also enters._
+
+THEOGENES.
+
+      Our fate, dear friends, hath brought us to such stress,
+      Our woes hang o'er us with such deepening gloom,
+      That death would be supremest happiness.
+      Ye saw; prophetic of our coming doom,
+      The sacrifice with all its omens dread;
+      Ye saw Marquino swallowed in the tomb;
+      Our bold defiance hath to nothing led;
+      What more remains to do I cannot tell,
+      Except to speed our passage to the dead.
+      This night let each Numantian bosom swell
+      With ardour suited to our past renown,
+      And let our actions match our purpose well;
+      Let us with might the hostile wall break down,
+      And on the field die fighting with the foe,
+      And not like cowards in this straitened town.
+      This deed will only serve, full well I know,
+      To change the mode in which we have to die,
+      For Death will march with us where'er we go.
+
+CORABINO.
+
+      In this thy bold resolve agreed am I,
+      I fain would perish breaking down that wall,
+      And single-handed breach it manfully.
+      But one thing giveth me concern not small,
+      For if our wives should hear of our design,
+      Then sure am I that nothing will befall.
+      For once, of old we had a purpose fine
+      To sally forth and leave our wives behind.
+      We each were ready horsed, and all in line,
+      When they, who thought our purpose most unkind,
+      Within an instant snatched our reins away,
+      Nor left a single one. So, close confined,
+      We had perforce within the walls to stay.
+      So will it happen, and with ease, again,
+      If so their tears their inmost thoughts betray.
+
+MORANDRO.
+
+      Our present plan to every one is plain,
+      They all do know it, and in accents sad
+      They pour their wailings forth with bitter pain;
+      And cry: that be our fortunes good or bad,
+      They all will go with us in woe or weal,
+      Though of their company we be not glad.
+
+            [_Here enter four or more women of Numantia, and LYRA
+                with them. The women carry certain figures of
+                children in their arms, and some lead them by the
+                hand, with the exception of LYRA, who carries none._
+
+      See, how they come to make a fond appeal,
+      That ye will leave them not in this sad case,
+      And mean to soften down your hearts of steel.
+      Within their arms they bear, with tearful face,
+      Your tender sons; and to the loving breast
+      They press them close, and give them last embrace.
+
+_First Wife._
+
+      Sweet lords of ours, if 'mid the woes increased
+      Which shower their sorrows on Numantia's head--
+      Of which the mortal sufferings are the least--
+      Or in those better days which now are fled,
+      We ever showed ourselves your spouses true,
+      And ye our husbands kind and honourèd,
+      Why, at this mournful time, when we may view
+      The wrath of heaven poured out to our distress,
+      Are all your proofs of love so scant and few?
+      We long have known, what now your looks express,
+      That on the Roman spears ye mean to bound;
+      Because their cruelty affects you less
+      Than that fell hunger-plague which rages round;
+      From out whose lean and clutching hands, I say,
+      No refuge nor escape can now be found.
+      If so ye mean to die in open fray,
+      And leave us here forsaken in these lands,
+      To foul dishonour and to death a prey,
+      Then first within our bosoms sheathe your brands;
+      For this were better far in every wise,
+      Than see us outraged in the foemen's hands.
+      I am resolved, so far as in me lies,
+      And fixed in this resolve I mean to dwell:
+      To die at last where'er my husband dies.
+      The same plain tale each one of us will tell,
+      That not the fear of death, however great,
+      Will keep her from the man who loves her well,
+      In good or bad, in sweet or bitter fate.
+
+_Another._
+
+      Tell me, noble warriors, say,
+      Have ye still the thought unkind
+      Thus to leave us all behind,
+      And go forward to the fray?
+      Will ye leave, by any chance,
+      These, Numantia's virgins pure,
+      Keener anguish to endure
+      From the Roman arrogance?
+      And our sons, in freedom born,
+      Will ye leave them to be slaves?
+      Better far to find their graves
+      In your arms, than bear this scorn.
+      Will ye sate the Roman greed,
+      Pander to the Roman lust,
+      On our cherished rights and just
+      Let their rank injustice feed?
+      Shall our homes by villany
+      Be despoiled of every treasure,
+      And the Romans have the pleasure
+      Of the weddings yet to be?
+      Much and sorely have ye erred,
+      Thousand ills will travel faster,
+      If without a dog and master
+      Thus ye leave the helpless herd.
+      But if such a course ye try
+      Bear us with you to the strife;
+      Each will hold it as her life
+      By her husband's side to die.
+      Shorten not the road, I pray,
+      Leading onward to the dead;
+      Watchful hunger holds its thread,
+      Which it lessens every day.
+
+_Another._
+
+      Sons of mothers, sad in lot,[10]
+      What is this? Where is your speech?
+      Will ye not with tears beseech
+      These your sires to leave you not?
+      'Tis enough that hunger fell
+      With its pain should bring ye low;
+      Why await a rougher blow
+      From the Roman's hand as well?
+      Tell them they begot you free,
+      And in freedom were ye born;
+      And your mothers, now forlorn,
+      Brought ye up free men to be!
+      Tell them, with unbated breath,
+      All is over with the strife,
+      And that they who gave you life
+      Now are bound to give you death.
+      Walls, that form our city's lines,
+      If ye can, speak, I entreat,
+      And with thousand tongues repeat:
+      Liberty, ye Numantines!
+      By our homes and sacred fanes,
+      Reared in peace for happier lives,
+      These your tender sons and wives
+      Plead for pity in their pains!
+      Soften down, ye warriors bold,
+      These hard breasts, as well ye may,
+      And like Numantines display
+      Hearts as loving as of old!
+      Not by breaking down the wall
+      Will ye cure so great an ill;
+      Fate as stern, and nearer still,
+      Lies within for one and all.
+
+LYRA.
+
+      All the tender maids as well
+      Place their urgent case before ye,
+      And for pity's sake implore ye
+      All their rising fears to quell.
+      Do not leave so rich a prey
+      To the grasping hands ye see;
+      Think what all these Romans be,
+      Hungry wolves, and fierce are they.
+      'Tis an act most desperate
+      Thus to sally from the town;
+      Speedy death and wide renown--
+      That will be your certain fate.
+      But suppose your chivalry
+      Turn out better in the main,
+      Is there any town in Spain
+      Ready now to welcome ye?
+      My poor wit may waste its breath,
+      But the issue of this strife
+      Will but give the foemen life,
+      And to all Numantia death.
+      At your gallant deed and rare,
+      Think, the Romans will but mock;
+      Can three thousand stand the shock
+      Of the eighty thousand there?
+      Though these walls be overpassed,
+      Battered down, without a guard,
+      Still the issue will be hard,
+      Sorry vengeance, death at last.
+      Better take the fate we have,
+      Which the will of heaven gives;
+      Be it safety for our lives,
+      Or a summons to the grave.
+
+THEOGENES.
+
+      Assuage your grief, and dry your tearful eyes,
+      Ye tender wives, and let it now be known
+      That we do feel your anguish in such wise,
+      That love within our hearts hath overflown.
+      Whether your pain to higher pitch shall rise,
+      Or else be lessened by our kindly tone,
+      We ne'er shall leave you now in life or death,
+      But serve you truly to our latest breath.
+      We thought, indeed, to sally from the town
+      To meet with certain death, but not to fly;
+      Though death it would not be, but live renown,
+      To deal out glorious vengeance as we die.
+      But since our plan is subject to your frown,
+      And it were folly other plans to try,
+      O sons beloved, and ye, our honoured wives,
+      From this time forth we knit in one our lives.
+      One thing alone is needful, that the foe
+      Shall reap from us no triumph and no fame,
+      Nay, rather shall he serve, in this our woe,
+      As witness to immortalize our name.
+      If now with me ye hand in hand will go,
+      Through thousand ages shall your glory flame,
+      For nothing in Numantia shall remain
+      Which these proud foes can garner to their gain.
+      Make now a fire in middle of the square,
+      Whose tongues of flame shall to the heavens swell,
+      And hurl therein our goods, without a care,
+      The poorest and the richest things as well.
+      This will ye judge a simple, light affair,
+      When to your listening ears I have to tell
+      What ye must do, with honour to your names,
+      When once your wealth is swallowed in the flames.
+      Meanwhile to stay, but for a single hour,
+      The hunger which devours us as its prey,
+      Cause that these wretched Romans[11] in our power
+      Be slain and quartered without more delay,
+      And then distributed from hut to tower,
+      To all both great and small, this very day.
+      So shall our banquet through the country ring,
+      A cruel, strange, and necessary thing!
+      My friends, what think ye? Are ye all agreed?
+
+CORABINO.
+
+      For me, I hold myself as well content;
+      So let us put in action with due speed
+      This strange and just design with one consent.
+
+THEOGENES.
+
+      When ye have done what I have now decreed,
+      I shall disclose the rest of my intent.
+      So let us forth to do what all desire,
+      And kindle up the rich consuming fire.
+
+_First Wife._
+
+      With right good will we shall begin this day
+      To gather up our jewels for the fire;
+      And yield our lives, to use them as ye may,
+      As ye have yielded to our joint desire.
+
+LYRA.
+
+      Quick, let us hasten all! Away, away,
+      To burn our treasures, and our rich attire,
+      Which might the Romans' hands make rich indeed,
+      And fill to overflow their grasping greed.
+
+            [_Exeunt omnes, and as MORANDRO departs, he takes LYRA
+                by the arm, and detains her._
+
+MORANDRO.[12]
+
+      Lyra, why so swiftly fly?
+      Let me now enjoy the pleasure
+      Which within my heart I'll treasure
+      While I live, and when I die.
+      Let mine eyes with rapture rest
+      On thy beauty for a space;
+      Since my fortune, void of grace,
+      Turns my passion into jest.
+      Thou, sweet Lyra, art the dream
+      Ever to my fancy given,
+      With such music sweet of heaven,
+      That my pains like rapture seem.
+      Why so sad, with thought o'ercast,
+      Thou, my heart's delight and treasure?
+
+LYRA.
+
+      I am thinking how my pleasure
+      And thine own are fading fast.
+      Not the siege, and not the strife,
+      Give it homicidal blows;
+      For before the war shall close
+      I shall end my hapless life.
+
+MORANDRO.
+
+      What, my love, what dost thou say?
+
+LYRA.
+
+      That this hunger gnaws me so,
+      Dulls my strength and vital glow,
+      And my life ebbs fast away.
+      Canst thou bliss and marriage-bed
+      Seek from one in such extreme?
+      Much I fear it, 'tis no dream,
+      One short hour, and I am dead.
+      Yesterday my brother died,
+      With the pangs of hunger worn;
+      And my mother, left forlorn,
+      Died of hunger by his side.
+      If till now my health and life
+      Have not yielded to its rigour,
+      'Tis because my youthful vigour
+      Kept the mast'ry in the strife.
+      But these many days ago
+      All the weary strife is o'er,
+      I have strength and power no more
+      To contend with such a foe.
+
+MORANDRO.
+
+      Lyra, dry thy saddened eyes,
+      And let mine with tears of woe
+      Like to mighty rivers flow,
+      Swollen by thy griefs and sighs.
+      Though this hunger, raging high,
+      Grasp thee firm in deadly strife,
+      While I have one spark of life,
+      Thou shalt not of hunger die.
+      In an instant will I flee,
+      Leap the ditch, and break the wall,
+      And will Death himself appal,
+      Till he loose his grasp of thee.
+      From the Romans' mouth, alone,
+      If my vigour hath not fled,
+      I will snatch the very bread,
+      And will place it in thine own.
+      With my arm, in deadly fight,
+      From the jaws of Death I'll free thee
+      For it kills me more to see thee,
+      Lady dear, in such a plight.
+      Bread to eat I'll bring to thee,
+      Spite of all the Romans do,
+      If my hands are strong and true,
+      As of old they used to be.
+
+LYRA.
+
+      Thou dost speak like one distraught;
+      But, Morandro, 'tis not just
+      That I taste a single crust
+      With thy fearful peril bought.
+      Such a spoil, if gained by thee,
+      Would be little to my mind;
+      And more truly wilt thou find
+      Loss to thee, than gain to me.
+      In its freshness and its bloom
+      Still enjoy thy youth divine;
+      Better is thy life than mine,
+      To avert the city's doom.
+      Better will thine arm and blade
+      Shield it in its evil hour,
+      Than the weak and puny power
+      Of a tender, saddened maid.
+      Wert thou able to prolong
+      This my life a single day,
+      Hunger still would have its way,
+      And the strife will not be long.
+
+MORANDRO.
+
+      Lyra, all thy words are vain,
+      Nothing now my way can bar;
+      Steadfast will, and lucky star
+      Light my path and make it plain.
+      Meanwhile pray the gods divine
+      Now to bless my hardy toil,
+      Bring me back with fitting spoil
+      To assuage thy griefs and mine.
+
+LYRA.
+
+      O Morandro, sweet and good,
+      Do not go; I am afraid,
+      For I see the foeman's blade
+      Stained and reddened with thy blood.
+      O Morandro, dearest life,
+      Do not make this journey sad;
+      If the going-forth be bad,
+      Worse the issue from the strife.
+      If thine ardour I restrain,
+      I have witness there in Heaven,
+      That my heart with fear is riven,
+      For my loss, and not my gain.
+      But, dear friend, if it must be,
+      If this venture must take place,
+      Take as pledge this fond embrace,
+      That my spirit goes with thee.
+
+MORANDRO.
+
+      Heaven, sweet Lyra, be thy guard!
+      See, Leoncio comes to me.
+
+LYRA.
+
+      May'st thou be from danger free,
+      And thy hopes be thy reward!
+
+            [_LEONCIO has been listening to all that passed between
+                his friend MORANDRO and LYRA._
+
+LEONCIO.
+
+      Morandro, 'tis a fearful sacrifice
+      To make for her; and well dost thou declare
+      That lover's breast hath nought of cowardice.
+      Though from thy manliness and valour rare
+      Still more we hope to gain, yet much I fear
+      That Fate unkind will prove a miser there.
+      To Lyra's tale I gave a listening ear,
+      And know her dire extreme and dismal plight,
+      So foreign to the worth we all revere.
+      I heard thee pledge thine honour and thy might
+      To free her from her present strait, and brave
+      The cruel Roman spears in reckless fight.
+      In such an urgent case, dear friend, I crave
+      To be thy comrade, for it is my due,
+      And aid thee with the little strength I have.
+
+MORANDRO.
+
+      Half of my heart! O Friendship leal and true,
+      Unsevered in the hardships of the fray,
+      Or in the happiest days we ever knew!
+      Enjoy sweet life, Leoncio, whilst thou may;
+      Remain within the town, for I would spurn
+      By act of mine thy blooming youth to slay.
+      Alone I have to go, alone return,
+      Beladen with the richest spoil and rare,
+      Which constant faith and fervent love can earn.
+
+LEONCIO.
+
+      If so, Morandro, thou art well aware
+      How my desires, in good or evil fate,
+      Go hand in hand with thine in equal share,
+      Then wilt thou feel, no fears however great,
+      Not Death itself, nor other power malign,
+      Can keep me from thy fortunes separate.
+      With thee have I to go, with thee in fine
+      Return, unless the will of Heaven ordain
+      That I must lose my life in shielding thine.
+
+MORANDRO.
+
+      Remain, my friend, for pity's sake, remain!
+      For should I finish now my hapless life
+      In this emprise of peril and of pain,
+      Thou may'st, at ending of the fatal strife,
+      Console my weeping mother, sore distressed,
+      And her, so much beloved--my promised wife.
+
+LEONCIO.
+
+      It is, my friend, a very sorry jest,
+      To think that I, if haply thou be slain,
+      Would have such calm and quiet in my breast,
+      As to console, in this their urgent pain,
+      Thy grieving mother, and thy tearful bride.
+      Thy death and mine are linked, and it is plain
+      That I must follow thee, whate'er betide;
+      Morandro, friend, it is, it must be so,
+      No word of thine will keep me from thy side.
+
+MORANDRO.
+
+      If go thou must, let us together go,
+      And in the silence of the gloomy night
+      Make sudden fierce assault upon the foe.
+      Bear nothing with thee but thine armour light,
+      For lucky chance and daring will combined
+      Will serve us more than hardest mail in fight.
+      Bear also this fix'd purpose in thy mind,
+      To seize and carry off with daring hand
+      Whatever good provision thou canst find.
+
+LEONCIO.
+
+      Then let us go; I am at thy command.
+
+            [_Exeunt._
+
+
+SCENE II.
+
+_Two Numantines._
+
+_First._
+
+      Dear brother, let our spirits through our eyes
+      Pour forth their wailings changed to bitter tears;
+      Let Death approach, and bear away as prize
+      Our hapless life of misery and fears.
+
+_Second._
+
+      A little space will end our griefs and sighs,
+      For Death stands ready armed, and now appears
+      To bear on speedy wings as welcome spoil
+      Whatever dwells upon Numantian soil.
+      I see most truly what the tokens are
+      That our dear land must sink in awful gloom;
+      Nor need these Roman ministers of war
+      Decree our ruin and adjudge our doom:
+      Our own, who reckon it more fearful far
+      That we should drag out life within a tomb,
+      Have given sentence that we end our days,
+      A stern decree, but worthy of all praise.
+      They now have raised within the public square
+      A monstrous, greedy, all-consuming fire,
+      Whose flames, replenished by our riches rare,
+      Assail the very heavens in their ire.
+      To this, with quickened speed, pricked on by care,
+      Or else, with timid feet, which sufferings tire,
+      Come all, as to a holy sacrifice,
+      And feed its flames with all the wealth they prize.
+      The pearl of beauty from the rosy East,
+      The gold into a thousand vessels made,
+      The diamond and ruby bright, increased
+      With stores of purple fine and rich brocade,
+      Are hurled into the blazing fire, to feast
+      Its fierce luxurious flames, with grand parade;
+      Spoils these, which might have served the Roman bands
+      To fill their bosoms, and enrich their hands.
+
+            [_Here enter certain people laden with robes, who go in
+                by one door, and out by the other._
+
+      Turn thee to see a sight of misery!
+      See, how our swarming folk of every name
+      With quickened steps and eager faces fly
+      To feed the fury of the maddened flame!
+      And not with faggots green, or fodder dry,
+      Or any worthless fuel like the same,
+      But with their garnered wealth, and luckless treasure,
+      Which in its burning gives them greater pleasure.
+
+_First._
+
+      If such a deed as this would end our woe,
+      We well might see and bear it patiently,
+      But ah! it is decreed, as well I know,
+      O cruel sentence, that we all must die;
+      Before the barbarous rigour of the foe
+      Upon our necks with cruel grip shall lie,
+      Ourselves our executioners must be,
+      And not these Romans steeped in perfidy.
+      Think, every woman, child, and old man here,
+      By stern decree to death must straightway go,
+      Since in the end the pangs of hunger drear
+      Will take their lives, and with a fiercer blow.
+      But, brother, mark the woman drawing near,
+      Who, once upon a time, as thou dost know,
+      Was loved by me, and with a love as great
+      As is the sorrow which is now her fate.
+
+            [_A woman enters with a child in her arms, and leading
+                another by the hand, who carries robes to be
+                burned._
+
+_Mother._
+
+      O this life, so hard and dread,
+      Agony intense and drear!
+
+_Son._
+
+      Mother, is there no one here,
+      Who for this will give us bread?
+
+_Mother._
+
+      Neither bread, nor other thing
+      Fit for thee to eat, my son!
+
+_Son._
+
+      Then, indeed, am I undone,
+      Hunger kills me with its sting;
+      Give me bread, one little jot,
+      Mother, I will ask no more!
+
+_Mother._
+
+      Son, thy words do pain me sore!
+
+_Son._
+
+      Mother, then thou wishest not?
+
+_Mother._
+
+      Yes, I wish; but know not where
+      Bread to get, though oft I try it.
+
+_Son._
+
+      Mother, thou may'st surely buy it,
+      If not, let me buy it there.
+      Yet to quit me of my dread,
+      If on any one I fall,
+      I will give him clothes and all
+      For one little bit of bread.
+
+_Mother_ (_to her Infant_).
+
+      Suckest thou, thou hapless brood?
+      Feel'st not, that to my unrest
+      Thou from out my withered breast
+      Draw'st not milk, but simple blood?
+      Take the flesh, and bit by bit
+      May it give thee much content,
+      For my feeble arms and spent
+      Thee to carry are not fit!
+      O ye children of my heart,
+      Can I give ye life afresh,
+      If scarce with my very flesh
+      I can nourishment impart?
+      Hunger, with thy biting breath,
+      How thou cuttest short my life?
+      O thou hard and cruel strife,
+      Sent alone to cause me death!
+
+_Son._
+
+      Mother mine, I cannot stay,
+      Back and homeward let us go;
+      Hunger only seems to grow,
+      As we journey on the way.
+
+_Mother._
+
+      Here, my son, the house must be,
+      Whence we presently shall throw
+      Down into the fiery glow
+      All the load that presses thee!
+
+            [_Exeunt._
+
+
+
+
+ACT IV.
+
+
+SCENE I.
+
+    _They sound to arms with great vehemence, and at the alarm
+    there enter on the stage SCIPIO, JUGURTHA, and CAIUS MARIUS._
+
+SCIPIO.
+
+      What meaneth this? Who sounds the call to arm
+      At such a time, my captains? Have ye found
+      Some maddened straggling men, who to their harm
+      Would seek a sepulchre within this ground?
+      Or hath some mutiny the war alarm
+      Provoked with such an urgent, deafening sound?
+      For this proud foe I hold so firmly now
+      I have more terror of the friend, I vow.
+
+    _Enter QUINTUS FABIUS, with sword unsheathed._
+
+QUINTUS FABIUS.
+
+      Calm, prudent general, thine angry mood,
+      For this my blade doth know the cause right well,
+      Which now hath cost thee many a soldier good,
+      Of those who most in manliness excel.
+      Two Numantines, with pride and daring rude,
+      Whose deeds of courage my applause compel,
+      O'erleaping the wide ditch and battled height,
+      Have waged within thy camp a cruel fight.
+      They sallied through our guards and pickets first,
+      To face a thousand spears in open fray,
+      And dealt their blows with such a fury curst,
+      That to our very camp they hewed their way;
+      Into Fabricius' tent with rage they burst,
+      And made of strength and valour such display,
+      That in an instant six stout men and true
+      Were by their deadly steel pierced through and through.
+      Ne'er did the burning bolt with speedier flight
+      Cleave in its onward course the smitten air;
+      Ne'er did the meteor, with its stream of light,
+      More quickly pass athwart the heavens fair;
+      Than passed these two, exulting in their might,
+      Through middle of thy host, and soaked the bare
+      Hard ground with Roman blood, which forth did stream
+      Where'er their flashing swords were seen to gleam.
+      With breast pierced through the bold Fabricius lay;
+      Horatius fell with head cleft to the brain;
+      Olmida lost his right arm in the fray,
+      And little hope of life doth now remain;
+      Our brave Estatius made a full display
+      Of all his lithesome vigour, but in vain,
+      For as he ran the Numantine to meet,
+      His passage on to death was still more fleet.
+      With speed of lightning, hurrying where they may,
+      They ran from tent to tent, until they found
+      Some scraps of biscuit, which they seized as prey.
+      With fury, still unquenched, they turned them round;
+      The one escaped by flight and got away,
+      A thousand swords made t'other bite the ground;
+      Whence I infer that hunger made them bold,
+      And raised their daring to a pitch untold.
+
+SCIPIO.
+
+      If worn with hunger, shut in utterly,
+      They show such daring and such martial ire,
+      What would they not have done, remaining free,
+      With all their strength and ardour still entire?
+      Unvanquished now, yet vanquished shall ye be,
+      For all your reckless fury will expire,
+      When matched against our prudence and our skill,
+      Which have the power to crush the proudest will.
+
+            [_Exeunt SCIPIO and his men, and presently they sound
+                to arms in the town, and MORANDRO enters wounded
+                and streaming with blood, with a little white
+                basket on his left arm, containing a small piece of
+                biscuit stained with blood, and says_:
+
+MORANDRO.
+
+      Com'st them not, Leoncio, say?
+      Friend, what hath befallen thee?
+      If thou comest not with me,
+      How can I without thee stay?
+      Friend, where art thou, tell me, where?
+      Dying? dead? Alas! to grieve me,
+      Never, never wouldst thou leave me,
+      It was I who left thee there!
+      Can it be that thou art lost,
+      All thy flesh in pieces torn,
+      Tokens of the price forlorn
+      Which this bread of mine hath cost?
+      Why did not that fatal blow,
+      Which hath laid thee with the dead,
+      Rather fall upon my head,
+      Take my life, and end my woe?
+      But the Fates, in cruel mood,
+      Would not have me thus to die;
+      Gave me greater misery,
+      Gave to thee the higher good!
+      Thou wilt bear the palm for ever,
+      Of the lealest, truest friend;
+      And to thee my soul I'll send,
+      To excuse my rash endeavour;
+      Quickly, for a craving dread
+      Lures me on my death to meet
+      At my dearest Lyra's feet,
+      Giving her this bitter bread;
+      Bread, which from the foe was taken,--
+      Taken? 'Tis more precious food,
+      Purchased with the very blood
+      Of two friends, by luck forsaken.
+
+            [_LYRA enters with some robes, which she is taking to
+                be burned, and says_:
+
+LYRA.
+
+      What is this mine eyes behold?
+
+MORANDRO.
+
+      Him, whom soon no more thou'lt see,
+      For my pains are crushing me
+      With a speed I cannot hold.
+      Ended, Lyra, is the strife,
+      And my promise kept have I,
+      That thou shouldst not have to die
+      While I have one spark of life.
+      Even better might I say,
+      That thou soon wilt come to know,
+      How thy strength with food will grow,
+      And my life will pass away.
+
+LYRA.
+
+      What say'st thou, Morandro dear?
+
+MORANDRO.
+
+      Lyra, thou wilt lose thy hunger
+      While, by fate in cruel anger,
+      Life I lose, and end it here.
+      But my blood so freely poured,
+      Mingled with the bread ye eat,
+      Will, belovèd one and sweet,
+      But a bitter meal afford.
+      Here thou hast the bread well-guarded
+      By full eighty thousand fiends;
+      And which cost two faithful friends
+      Life, and all they most regarded.
+      Love, that so for thee hath bled,
+      Well, my lady, may'st thou cherish;
+      I, that love thee so, must perish,
+      And Leoncio lieth dead.
+      My affection pure and bright,
+      Take it with thy hand of love,
+      That is food all price above,
+      And will give thee most delight.
+      Since in hours of joy and dole
+      Thou hast been my love, I vow,
+      Take, O take my body now,
+      As thou hast received my soul.
+
+            [_He falls dead, and LYRA gathers him in the folds of
+                the robes._
+
+LYRA.
+
+      O Morandro, sweetest one,
+      How art thou, what dost thou feel?
+      How hath all thy strength of steel
+      Passed away, and been undone?
+      Woe is me, and is it true
+      That my spouse is lying dead?
+      O event of direst dread,
+      That misfortune ever knew!
+      Who hath made thee, sweetest friend,
+      Having excellence supreme,
+      Valiant lover to extreme,
+      Luckless soldier at the end?
+      Thou didst sally to the strife,
+      Husband mine, in such a way,
+      That to give my death delay
+      Thou hast robbed me of my life!
+      O thou bread, with blood bestained,
+      Which for me was freely shed,
+      I do not esteem thee bread,
+      It is poison I have gained!
+      To my mouth I'll carry thee,
+      Not to give me nourishment,
+      But to kiss, to my content,
+      That dear blood which flowed for me!
+
+            [_At this point there enters a youth, speaking in an
+                exhausted way, who is the brother of LYRA._
+
+_Brother._
+
+      Lyra, sister, pained am I,
+      For my sire is dead and gone,
+      And my mother, left alone,
+      Dieth now as I must die!
+      Hunger fell hath laid them low;
+      Sister mine, and hast thou bread?
+      Bread, how slowly hast thou sped,
+      For I cannot taste thee now!
+      Hunger makes my throat to shrink
+      With such rigour, though the bread
+      Were as water pure instead,
+      Not one droplet could I drink!
+      Take it to thee, sister dear,
+      For, my senses to confound,
+      Now I see the bread abound,
+      Whilst my life is ebbing here!
+
+            [_He falls down dead._
+
+LYRA.
+
+      Brother dear, and art thou gone?
+      Neither breath nor life hath he;
+      Ill is good in some degree
+      When it cometh all alone.
+      Fortune, wherefore dost thou grieve me,
+      With one loss and then another?
+      Wherefore at one time together
+      Orphan, widow, dost thou leave me?
+      O thou cruel Roman host!
+      How thy sword doth gird me round
+      With two corpses on the ground,
+      Spouse and brother, both are lost!
+      Sweetest husband, tender brother,
+      You I'll match in loving well,
+      For in heaven or in hell
+      Soon I'll see the one and other!
+      In the manner of my death
+      I to part from you am loath;
+      For the sword and hunger both
+      Have to take my latest breath.
+      Rather will I give my breast
+      Point of dagger, than this bread;
+      For to one who lives in dread
+      Death is gain and sweetest rest.
+      Am I coward, can it be?
+      Arm of mine, what dost thou fear?
+      Sweetest husband, brother dear,
+      I am coming, wait for me!
+
+            [_At this point there enters a woman flying, and behind
+                her a Numantian soldier with a short sword in his
+                hand to kill her._
+
+_Woman._
+
+      Eternal Sire! O Jove compassionate!
+      Protect me in this dire extremity!
+
+      _Soldier._
+
+      Although thou hurry with a speed more great,
+      Beneath my ruthless hand thou hast to die!
+
+            [_Exit the woman, and LYRA says_:
+
+LYRA.
+
+      Thy cutting sword, thy warlike arm of weight,
+      On _me_ their fatal power, good soldier, try;
+      Let her who prizes life with life remain,
+      And take mine own, for it is full of pain!
+
+_Soldier._
+
+      Although it is the Senate's stern command,
+      That not one woman shall in life abide,
+      Where shall we find the bold audacious hand
+      Who would not from thy beauty turn aside?
+      I, lady, am not one of such a band,
+      Nor do I wish to be thy homicide;
+      Some other hand and sword must strike for me,
+      For I was born alone to worship thee.
+
+LYRA.
+
+      This mercy which to me thou dost extend,
+      O valiant soldier, I do swear to thee,
+      And Heaven above its seal to this will lend,
+      That I esteem it harshest cruelty!
+      I would have held thee as a very friend,
+      If with a steady hand and courage free
+      Thou hadst transpierced my heart, so full of woes,
+      And brought my wretched being to a close.
+      But since thou wilt thy pity now bestow,
+      Against my wish, and to increase my gloom,
+      Then to my wretched spouse like pity show,
+      And help me now to bear him to his tomb:
+      Take thou my brother too, who lieth low
+      Upon the ground, cut off with life in bloom;
+      My husband went to death to save my life,
+      While hunger bore my brother from the strife.
+
+_Soldier._
+
+      To all that thou requirest I adhere,
+      Provided on the way thou wilt relate
+      What brought thy loving spouse, and brother dear,
+      To this the last extremity of fate.
+
+LYRA.
+
+      My friend, I have no strength to speak, I fear.
+
+_Soldier._
+
+      Art thou exhausted? Is thy pain so great?
+      Bear thou thy brother, for the load is less;
+      And I thy spouse; it giveth more distress.
+
+            [_Exeunt, bearing the two bodies._
+
+
+SCENE II.
+
+    _Here enters a woman armed with a shield on the left arm, and
+    a short lance in her hand, who represents WAR; along with her
+    comes SICKNESS, leaning on a crutch, her head swathed with
+    bandages, wearing a yellow mask; and HUNGER follows, clad in a
+    robe of yellow buckram, wearing a yellow or discoloured mask;
+    these figures may be represented by men, as they wear masks._
+
+WAR.
+
+      Hunger and Sickness, ministers most dire
+      Of my commands, which make the world to quail!
+      Of life and health devourers in your ire,
+      With whom nor cries, nor threats, nor rights avail!
+      Since ye are cognisant of my desire,
+      It needs not that again I tell the tale,
+      How pleasure and content will fill my breast,
+      If quickly ye fulfil my stern behest.
+      The Fates, with that inexorable might,
+      Whose energy none living can impair,
+      Constrain me now my forces to unite
+      With these sagacious Roman soldiers there,
+      Who for a time will rise to glory's height,
+      While those poor Spaniards perish in despair;
+      But time will come when I shall change it all,
+      Will smite the mighty, and assist the small.
+      For I, who am the great and powerful War,
+      (By countless mothers all in vain abhorred,
+      Though he who curses me at times errs far,
+      Unconscious of the worth that owns me lord)
+      Do know right well that through all lands that are
+      Shall flash the valour of the Spanish sword,
+      At that sweet season when shall rule the land
+      A Charles, a Philip, and a Ferdinand.
+
+SICKNESS.
+
+      If Hunger now, our true and trusty friend,
+      Had not so swiftly done her work and well,
+      And made her homicidal power extend
+      O'er all the folk that in Numantia dwell,
+      Thy will through me would have secured its end,
+      In such an easy manner as to swell
+      The rich reward the Roman will obtain,
+      Much better far than what he hopes to gain.
+      Though Hunger, in so far as she hath sway,
+      Now holds the Numantines in such a strait,
+      That shut and barred is every open way
+      Of happy exit from their adverse fate,
+      Yet Fury's falchion, with its fearful play,
+      The adverse sign with its tremendous weight,
+      Within their midst with such a rigour reign,
+      There is no need of hunger or of pain.
+      Fierce rage and madness, thy attendant brood,
+      Have taken foul possession of each breast,
+      And thirst with equal relish for their blood,
+      As if they did the Roman's grim behest.
+      Fire, fury, slaughter are their chiefest good,
+      To die--they reckon of all fates the best;
+      To snatch the triumph from the Roman bands,
+      Themselves will perish by their very hands.
+
+HUNGER.
+
+      Now turn your eyes, and see the flaming fire,
+      That blazes from the tall roofs of the town!
+      List to the fearful sighings that expire
+      From thousand breasts, while they their terror drown!
+      Hark to the wailings terrible and dire
+      Of beauteous women, who to death go down;
+      Their tender limbs in flame and ashes lie,
+      No father, friend, or love to heed their cry!
+      As timid sheep, upon their careless way,
+      Whom some ferocious wolf attacks and drives,
+      Go hurrying hither, thither, all astray,
+      With panting dread to lose their simple lives;
+      So, fleeing from the swords upraised to slay,
+      Do these poor children, and these tender wives,
+      Run on from street to street, O fate insane!
+      To lengthen out their certain death, in vain.
+      Within the breast of his belovèd bride
+      The husband sheathes his keen and glittering brand;
+      Devoid of pity, and of filial pride,
+      The son against the mother turns his hand;
+      The father, casting clemency aside,
+      Against his very offspring takes his stand,
+      And while with furious thrusts to death they bleed,
+      He finds a piteous pleasure in the deed!
+      No square, or street, or mansion can be found,
+      That is not filled with blood and with the dead;
+      The sword destroys, the fierce fire blazes round,
+      And Cruelty with fearsome step doth tread!
+      Soon will ye see upon the level ground
+      The strongest and the loftiest turrets spread,
+      The humble dwellings, and the temples high,
+      Shall turn to dust and ashes by and by!
+      Come, ye shall see how in the bosoms dear
+      Of tender children and belovèd wife
+      Theogenes, with courage all austere,
+      Doth prove the temper of his cruel knife;
+      And when the deadly work is over here,
+      So little recks he of his wearied life,
+      He seeks for Death, and by a mode unknown,
+      Which causes other ruin than his own!
+
+WAR.
+
+      Now let us go; and see that each prepare
+      To do his proper work within this spot;
+      To what I say give undivided care,
+      Nor swerve from my intention by one jot.
+
+            [_Exeunt._
+
+
+SCENE III.
+
+            [_THEOGENES enters with two young SONS and a daughter
+                and their MOTHER._
+
+THEOGENES.
+
+      If love paternal hath no longer sway
+      To check the fearful deed which I intend;
+      Think, O my sons, if I can now give way,
+      When thoughts of honour with my purpose blend!
+      O poignant is the grief, the sore dismay,
+      We feel when Life must have a sudden end;
+      But mine is more, since I by Fate's decree
+      Your cruel executioner must be!
+      Ye shall not live, O children of my soul,
+      To be the Romans' slaves, nor shall their power,
+      However much it rage beyond control,
+      Above our lives and yours in triumph tower.
+      The shortest road which leadeth to the goal
+      Of our dear Liberty in this sad hour,
+      Which Heaven offers us with piteous breath,
+      Conducts us only to the arms of Death.
+      Nor thou, dear consort, sweetest of thy race,
+      Shalt suffer peril from the Roman bands;
+      Nor shall they soil thy modesty and grace
+      With eyes lascivious, or with ruthless hands!
+      My sword shall snatch thee from this foul disgrace,
+      Their schemes shall baffled be by my commands,
+      And this shall be the guerdon of their lust,
+      To triumph o'er Numantia in the dust!
+      Thou, dear, belovèd consort, it was I
+      Who first advised that we, with one accord,
+      Should rather perish than as cravens lie
+      Beneath the terror of the Roman sword;
+      I will not therefore be the last to die,
+      Nor shall my children here.
+
+_Wife._
+
+                                  If, good my lord,
+      There were some other way to set us free,
+      Then Heaven knows how happy I should be!
+      But since it cannot be, to my regret,
+      And since my road to death is near and plain,
+      Keep back the brutal Roman sword, and let
+      The trophy of our lives with thee remain.
+      Though death be sure, it is my pleasure yet
+      To die within Diana's sacred fane;
+      Good husband, lead us, and in loving ire
+      Consign us to the sword, the rope, the fire!
+
+THEOGENES.
+
+      So may it be, nor let our steps be slow,
+      For cruel Fate doth urge me on to death.
+
+_Son._
+
+      Why weepest, mother? Whither do we go?
+      Stay, stay, I am so faint, I have no breath!
+      My mother, let us eat, 'tis better so,
+      For me this bitter hunger wearyeth.
+
+_Mother._
+
+      Come to my arms, my darling sweet and good,
+      And I to thee will give thy death for food!
+
+            [_Exeunt, and two lads enter flying, one of whom is
+                he who will hurl himself from the tower, called
+                VIRIATO, the other SERVIO._
+
+VIRIATO.
+
+      Servio, whither shall we fly?
+
+SERVIO.
+
+      I will go the way thou shewest.
+
+VIRIATO.
+
+      Come, how lazily thou goest!
+      Dost thou wish that both should die?
+      Sad one, look behind, before,
+      Thousand swords pursue to slay!
+
+SERVIO.
+
+      Never can we get away,
+      'Tis for us a task too sore.
+      Tell me, what dost thou desire?
+      Tell me, and I shall decide.
+
+VIRIATO.
+
+      I shall run, and straightway hide
+      In the turret of my sire.
+
+SERVIO.
+
+      Friend, 'tis well for thee to go,
+      But I cannot, worn and weary,
+      And the road so long and dreary,
+      Hunger gnaws and pains me so.
+
+VIRIATO.
+
+      Wilt thou not?
+
+SERVIO.
+
+      O leave me here.
+
+VIRIATO.
+
+      If thou canst no longer fly,
+      Here, alas, thou hast to die,
+      Slain by hunger, sword, or fear!
+      Go I must, for much I dread
+      All that robs me of my life;
+      Be it fire or cruel knife
+      Which would lay me with the dead!
+
+            [_Exit, and THEOGENES enters with two drawn swords, his
+                hands bloody, and as SERVIO sees him come he flees
+                and goes behind._
+
+THEOGENES.
+
+      O blood, that from my very bosom flows,
+      Since thou belongest to my children dear;
+      O hand, which wounds thyself with deadly blows,
+      Replete with honour and with might austere;
+      Thou Fortune, who art privy to our woes;
+      Ye Heavens, devoid of pity or of cheer,
+      Afford me now, in this my bitter lot,
+      Some glorious, speedy death upon the spot!
+      O valiant Numantines, take ye account
+      That some perfidious Roman foe am I,
+      Avenge within my bosom your affront,
+      And in its blood your hands and weapons dye!
+
+            [_He hurls one sword from his hand._
+
+      Of these two swords take one, and quick confront
+      My fury wild, my grief that rageth high;
+      For, dying in the fight, we will not know
+      The keenest rigour of the final blow!
+      And he who cuts the other's vital thread,
+      Let him, in token of the favour free,
+      Entomb within the flame the wretched dead,
+      A duty this of highest charity!
+      Come quick, come now! O whither have ye sped?
+      My life the highest sacrifice will be;
+      That sweet compassion, which to friends ye show,
+      Change now to rabid rage against the foe!
+
+_A Numantine._
+
+      Whom, brave Theogenes, dost thou invoke?
+      What novel mode of dying dost thou seek?
+      Why dost thou urge us onward, and provoke
+      To such a strange and lamentable freak?
+
+THEOGENES.
+
+      O valiant Numantine, if terror's yoke
+      Hath not unnerved thine arm and made it weak,
+      Take now this sword, and prove its point on me,
+      As if I were thy mortal enemy!
+      This mode of dying better pleaseth me,
+      Than any other in this time of woe.
+
+_Numantine._
+
+      It suits me too, and I will pleasure thee,
+      Since evil Fortune seems to will it so.
+      On to the square, where now the fire we see
+      Which burns to have our lives within its glow!
+      Who conquers there may, without fear or shame,
+      Consign the vanquished to the furious flame.
+
+THEOGENES.
+
+      Thou speakest well; make haste, for my desire
+      Outruns Fate's tardy step with panting breath;
+      Let sword devour me, or the furious fire,
+      I see our glory in whatever death!
+
+            [_Exeunt._
+
+
+SCENE IV.
+
+    _SCIPIO, JUGURTHA, QUINTUS FABIUS, CAIUS MARIUS, and some Roman
+    Soldiers._
+
+SCIPIO.
+
+      Unless my thoughts be guilty of deceit,
+      Or these be lying signs which ye have marked
+      Within Numantia's walls--the horrid din,
+      The lamentable cries, the blazing fires--
+      I fear and dread, and scarcely have a doubt,
+      That these our barbarous foemen, brought to bay,
+      Have turned their reckless rage against themselves.
+      There are no people seen to man the towers,
+      The watchmen give no customary calls,
+      A death-like silence reigns within the town,
+      As if these fierce and fiery Numantines
+      Were living there in peace, and at their ease.
+
+CAIUS MARIUS.
+
+      Thou may'st at once be quit of such a doubt,
+      For if thou wishest it, I offer me
+      To scale the battlements, although in sooth
+      It is a somewhat perilous risk to run;
+      And solely to observe what our proud foes
+      Are doing now within Numantia's walls.
+
+SCIPIO.
+
+      Plant then some ladder firm against the wall,
+      And, Marius, make thy present promise good!
+
+CAIUS MARIUS.
+
+      Go, bring the ladder, and, Ermilius, you
+      Give orders that my buckler quick be fetched,
+      And eke my helmet with the snow-white plume;
+      For, faith, I mean this day to lose my life,
+      Or end the doubtings which possess the camp.
+
+ERMILIUS.
+
+      Thy buckler and thy helmet both are brought;
+      And see, Olympius brings the ladder here.
+
+CAIUS MARIUS.
+
+      Commend me now to great and mighty Jove,
+      For I am ready to fulfil my pledge.
+
+            [_He ascends the ladder._
+
+SCIPIO.
+
+      Raise, Marius, raise the knee a little more,
+      Contract thy body, and protect thy head!
+      Courage! for thou hast reached the top at last.
+      What see'st thou?
+
+CAIUS MARIUS.
+
+      Holy gods! and what is this?
+
+JUGURTHA.
+
+      What startles thee?
+
+CAIUS MARIUS.
+
+                          It startles me to see
+      A ruddy lake of blood, and on the ground
+      In every street a thousand corpses lying!
+
+SCIPIO.
+
+      And is there none alive?
+
+CAIUS MARIUS.
+
+                               I reckon not;
+      So far, at least, as my own vision goes,
+      There is no living being in the town.
+
+SCIPIO.
+
+      Leap then within, and look thee well around!
+
+            [_CAIUS MARIUS leaps into the town._
+
+      My friend, Jugurtha, follow him as well;
+      We all shall follow thee.
+
+JUGURTHA.
+
+                                It doth not suit
+      Thy weighty office to take such a step;
+      Assuage thy feelings, good my lord, and wait
+      Till Marius or myself return to bring
+      The latest tidings of this haughty town.
+      Hold firm the ladder there! Ye righteous heavens!
+      O what a saddening spectacle and grim
+      Is offered to my sight! O strange event!
+      The smoking blood is bathing all the soil,
+      The square and streets are crowded with the dead!
+      I mean to leap within and see the whole.
+
+            [_JUGURTHA leaps into the city, and QUINTUS FABIUS
+                says_:
+
+QUINTUS FABIUS.
+
+      Without a doubt these fiery Numantines,
+      By their barbaric fury goaded on,
+      Have chosen rather to consign their lives
+      Unto the sharp edge of their very swords,
+      Than yield them up to our victorious hands,
+      Whose sight and touch are horrible to them.
+
+SCIPIO.
+
+      If but one living being had remained,
+      In Rome they had not me the triumph grudged
+      Of having curbed and crushed this haughty race,
+      The fierce and mortal foemen of our name;
+      In will determined, ready aye to face
+      The greatest peril and the direst risk;
+      Whom not a Roman here can ever boast
+      Of having challenged with the naked sword;
+      Whose valour, whose dexterity in arms,
+      Have forced me, and with reason, to surround
+      And pen them in like fierce untamèd beasts,
+      And gain that triumph with my art and skill
+      Which was impossible by dint of arms.
+      But Marius now returns, it seems to me.
+
+            [_MARIUS enters by descending from the wall, and says_:
+
+CAIUS MARIUS.
+
+      In vain, illustrious, prudent General,
+      Have we expended all our strength and might;
+      In vain hast thou been diligent withal;
+      Thy hopes of victory, that seemed so bright,
+      Assured thee by thy martial skill and lore,
+      Have changed to smoke, and vanished out of sight!
+      The mournful story, and the end full sore
+      Of proud Numantia's unconquered town,
+      Deserve to be remembered evermore.
+      Their loss and fall have gained them good renown;
+      Their dying, which displayed their firmness most,
+      Hath snatched from thee the triumph and the crown.
+      Our schemes are vain, and all our labour lost;
+      Their death with honour better issue shews
+      That all the power the Roman arms can boast.
+      This people, wearied with their countless woes,
+      Have snatched themselves from life and misery,
+      And given their long account a sudden close.
+      Numantia now is changed into a sea
+      Of ruby blood, encumbered with the slain,
+      Who fell by self-inflicted cruelty.
+      Escaped have they from slav'ry's grinding chain,
+      Whose load unequalled they declined to bear,
+      With swift audacity that feared no pain.
+      I saw within the middle of the square,[13]
+      Exposed to view, a fiercely blazing fire,
+      Fed with their corpses and their riches rare.
+      And as I gazed, there came with kindling ire
+      Theogenes, that valiant Numantine,
+      Intent on death with an insane desire;
+      And as he cursed his fate and luckless sign,
+      He sprang into the middle of the flame,
+      With fury suited to his mad design;
+      And as he sprang, he cried: "O brilliant Fame,
+      Come hither with thy countless tongues and eyes,
+      Behold a deed it fits thee to proclaim!
+      Approach, ye Romans, and receive the prize
+      Of this rich town, to dust and ashes changed,
+      Its fruits and flowers to thistles turned likewise!"
+      I went away, with steps and thoughts deranged,
+      And paced the chief part of the city round.
+      Through all the ruined streets and lanes I ranged,
+      But not one single Numantine I found,
+      Whom I could seize alive and bear away,
+      To bring thee tidings with a certain sound,
+      For what grave reason, in what fearful way,
+      They hurried on to ruin utterly,
+      With such a grand and terrible display.
+
+SCIPIO.
+
+      And was, mayhap, my breast filled full and high
+      With barbarous arrogance and deaths combined,
+      And clean devoid of righteous cruelty?
+      Is it, perchance, quite foreign to my mind
+      To treat the vanquished with the mercy due,
+      As fits the victor who is brave and kind?
+      Right badly in Numantia's town ye knew
+      The manly valour reigning in my breast,
+      Which burns to conquer and to pardon too!
+
+QUINTUS FABIUS.
+
+      My lord, Jugurtha may have news the best
+      Concerning that which thou desir'st to know,
+      For see, he now returns with much unrest.
+
+            [_JUGURTHA returns by the same wall._
+
+JUGURTHA.
+
+      O prudent General, 'tis vain to shew
+      Thy valour further here; some otherwhere
+      Thy matchless skill and industry bestow.
+      Thy work is over in Numantia there;
+      They all are dead and gone, save one, I ween,
+      Who still doth live to give thee triumph rare.
+      Within that very tower, as I have seen,
+      There right in front of us, doth lurk a youth,
+      Alarm'd and timid, but of gentle mien.
+
+SCIPIO.
+
+      This is enough to make, if it be truth,
+      In Rome my triumph o'er Numantia sure,
+      For more I do not now desire, in sooth.
+      Let us go straightway thither, and procure
+      Some means to get the youth within our hands,
+      Alive, for that is needful to secure.
+
+VIRIATO[14] [_from the tower_].
+
+      What come ye here to seek? Ye Roman bands,
+      If ye would fain within Numantia go,
+      There's nought to hinder ye in all these lands!
+      But with my tongue I give you here to know,
+      That I possess this city's ill-kept keys,
+      Which Death hath triumphed over as a foe!
+
+SCIPIO.
+
+      O youth, I come desirous to have these;
+      But more to let thee know what lies for thee
+      Of pity in this bosom, if thou please.
+
+VIRIATO.
+
+      Too late is all thy tardy clemency,
+      When there are none to claim it, since I go
+      To face the rigour of our stern decree;
+      For that resolve, so full of grief and woe,
+      Made by my kinsmen and my country dear,
+      Hath caused the fearful, final end ye know.
+
+QUINTUS FABIUS.
+
+      This rash endeavour dazzles thee, I fear;
+      Say, dost thou hold it as a dreadful fate
+      To keep thy life in all its bloom and cheer?
+
+SCIPIO.
+
+      Assuage, O tender youth, thine ardour great,
+      Subject the slender valour thou hast stored
+      To mine, which hath more honour and more weight;
+      For from this day I pledge my faith and word
+      That thou wilt be, what more canst thou require,
+      Thine only master, and thy proper lord;
+      And thou wilt jewels have and rich attire,
+      And live a life as happy and as free
+      As I can give thee, and thou canst desire,
+      If thou surrender with good-will to me!
+
+VIRIATO.
+
+      The complete fury of the countless dead
+      Within this city, now reduced to dust;
+      Their fear of pactions with the foeman made;
+      Their horror of subjection all unjust;
+      Numantia's hatreds and her rancours dread,
+      I hold them all within this heart as trust;
+      I am the heir of all her bravery:
+      What folly then to think of conquering me!
+      Belovèd land, O town unfortunate,
+      Fear not that I, reared in thy bosom dear,
+      Do rave about my duty in this strait,
+      Or e'er will flinch through promise or through fear!
+      Though country fail me now, and Heaven and Fate,
+      Though all the world conspire to crush me here,
+      It cannot be that I will ever do
+      What is not worthy of thy valour true!
+      If to this hiding-place I ran through fear,
+      The fear of speedy death and desperate,
+      I'll sally forth, with mind and courage clear,
+      Impelled to follow and to share thy fate.
+      Vile dread hath passed, and I will offer here
+      Amends as daring as the fault was great;
+      And this the error of my guileless age
+      I'll pay by dying with a manly rage!
+      O valiant citizens, I here maintain
+      That I do hold your grand resolve as trust,
+      That these base Romans shall no triumph gain,
+      Unless it be above our very dust!
+      Their scheming plans with me shall prove in vain,
+      If so they deal at me a deadly thrust,
+      Or wile me on, with promises of weight,
+      To life and pleasure, that wide-opened gate!
+      Hold, Romans, let your burning ardour cease,
+      To break the wall ye have no need to move;
+      For though your mighty power should more increase,
+      Ye shall not conquer me, as I shall prove!
+      My firm resolve ye now may view in peace,
+      And if ye doubt the pure and perfect love
+      Which I have cherished for my country dear,
+      This fall of mine will straightway make it clear!
+
+            [_He hurls himself from the tower._
+
+SCIPIO.
+
+      O matchless action, worthy of the meed
+      Which old and valiant soldiers love to gain!
+      Thou hast achieved a glory by thy deed
+      Not only for Numantia, but for Spain!
+      Thy valour strange, heroical indeed,
+      Hath robbed me of my rights, and made them vain,
+      For with thy fall thou hast upraised thy fame,
+      And levelled down my victories to shame!
+      O could Numantia gain what she hath lost,
+      I would rejoice, if but to see thee there!
+      For thou hast reaped the gain and honour most
+      Of this long siege, illustrious and rare!
+      Bear then, O stripling, bear away the boast,
+      Enjoy the glory which the Heavens prepare,
+      For thou hast conquered, by thy very fall,
+      Him who in rising falleth worst of all!
+
+            [_A trumpet sounds and FAME enters._
+
+FAME.
+
+      From land to land let my clear voice extend,
+      And, with its sweetest, most melodious sound,
+      To every soul an ardent longing lend
+      To make this deed eternally renowned!
+      Raise, Romans, raise your heads, which lowly bend,
+      Bear off this body, which such vigour found,
+      In green and tender age, to snatch from you
+      The glorious triumph which you thought your due!
+      For I, who am the far-resounding Fame,
+      For ever on, while moves the orb of light
+      With step majestic through the heavenly frame,
+      And gives this lower world new strength and might,
+      Will give good heed to publish and proclaim
+      With tongue of truth, with wingèd words and right,
+      Numantia's valiant worth, unique and sole,
+      From Nile to Baltic and from pole to pole.
+      This peerless deed hath given proofs most plain
+      What valour, in the ages yet to be,
+      Shall dwell within the sons of mighty Spain,
+      The heirs of such ancestral bravery!
+      The cruel scythe of death shall work in vain,
+      And eke the flight of time, to hinder me
+      From sounding forth in song, without control,
+      Numantia's powerful arm, and constant soul!
+      In her alone I find such worth extreme
+      As claims a record in the proudest lays;
+      Such wealth of matter for the poet's theme,
+      I That thousand ages may rehearse always
+      Her deathless courage, and her strength supreme,
+      Which claim in prose and verse the loftiest praise;
+      'Tis mine, in trust, to garner so much glory,
+      And so give happy ending to our story!
+
+
+END OF THE TRAGEDY.
+
+
+
+
+NOTES.
+
+
+NOTE 1, PAGE 1.
+
+_Scipio._ This general was the famous Publius Scipio Aemilianus
+Africanus Minor. His first campaign in Spain was in the year B.C.
+151, when he acted as "legatus" to the Consul Lucius Licinius
+Lucullus, who was then engaged in the conquest of the Celtiberians.
+He greatly distinguished himself at the siege of Intercacia, where
+he was the first to scale the battlements, and received for his
+exploit a mural crown. He also displayed his personal courage in
+fighting single-handed and slaying a mighty Spanish giant, who
+used to insult and defy the whole Roman camp. He was then about
+thirty-four years of age. In the year B.C. 147 he was elected
+Consul and sent to Africa, where he fulfilled the stern mandate of
+the Senate: "Delenda est Carthago!" and became the most renowned
+warrior of his age. In the year B.C. 134, when affairs in Spain
+were at the lowest ebb, and the Numantines had thoroughly cowed the
+Romans, Scipio was again made Consul, and sent to do what no one
+else was thought competent to do--to bring the siege of Numantia
+to a final end. The result is well-known, and details may be found
+in the pages of Floras, Appian, Plutarch, and Livy. A very graphic
+summary of these is given in the third book of Mariana's _Historia
+de España_. The vivid picture presented in this tragedy of
+Cervantes may suffice, however, for the present generation. Though
+Scipio is therein represented simply as the chief minister of
+Fate, yet his personality stands boldly out; and his character as
+accomplished scholar, stern disciplinarian, and cautious tactician,
+is very skilfully pourtrayed. His stirring address to the soldiers
+is a perfect epitome of his whole military creed. The fall of
+Numantia was the sensation of the day throughout the empire, and
+the last great military feat of Scipio. It settled the fate of
+Spain for many a long year. Scipio entered Rome in triumph, and the
+Senate added to his other titles that of "Numantinus."
+
+
+NOTE 2, PAGE 1.
+
+_Jugurtha._ This notorious Numidian prince, the illegitimate son
+of Manastabal, grandson of Masanissa, and the nephew of Mecipsa,
+king of Numidia, was sent by his uncle to give succour to Scipio
+during the siege of Numantia. He arrived there with a train of
+ten elephants, and a goodly array of horse and foot. His uncle's
+secret design, however, was to get rid of him, as a dangerous rival
+to his own sons, Adherbal and Hiempsal, in the succession to the
+crown. This, however, was not to be. Jugurtha not only survived
+the campaign, but so distinguished himself, that he became a prime
+favourite of Scipio, and returned to his native country with
+added lustre to his name, and stores of military experience. His
+after-career, adventurous, reckless, and unfortunate, which led him
+at last to the Mamertine prisons in Rome, does not concern us. It
+is to be found, as every schoolboy knows, in the brilliant pages of
+Sallustius, _De bello Jugurthino_.
+
+
+NOTE 3, PAGE 2.
+
+_Caius Marius._ This man, whom Cervantes represents as a bluff,
+quick-witted, daring soldier, was the celebrated Caius Marius, a
+plebeian by birth, and the cruel scourge of the patricians in after
+times. He was only twenty-three years of age at the date of the
+siege, and was still in the ranks. His peculiar military qualities
+gained him the good-will of Scipio, who used often to invite him
+to his table. On one occasion, when the question was asked where a
+similar general to Scipio could be found when he was gone, Scipio
+placed his hand on the shoulder of Marius and said smilingly,
+"There, perhaps!" The glory and experience he gained under Scipio's
+auspices were the foundation of his future fortunes. Strange to
+say, when twenty years afterwards he rode in triumphal procession
+through the streets of Rome on account of his victories in Africa,
+the principal captive who graced his triumph was his old Numantian
+comrade, Jugurtha, in chains. The prince and the peasant had met
+again, but under what altered circumstances!
+
+
+NOTE 4, PAGE 6.
+
+_Full sixteen years and more._ According to the Latin historians,
+the war with Numantia lasted fourteen years, and the close siege
+under Scipio, a year and three months. The ruins of Numantia are
+still to be seen at Puente de Garray, near the source of the Duero,
+about five miles from Soria, an ancient town of Old Castile. The
+present remains, however, are principally imperial, and prove
+that the town must afterwards have been rebuilt. Numantia was a
+stronghold by nature. It was situated on a little hill precipitous
+on three sides, and on the fourth, looking towards the north,
+sloping down to a spacious plain, covered with thick forests and
+fertile fields, watered by the Tera, a tributary of the Duero. From
+its commanding position in the centre of northern Spain, it served
+as a bulwark to check the advance of the Roman legions, and also as
+a city of refuge for the oppressed tribes. According to Cervantes
+its warriors amounted only to three thousand:--
+
+      "Can three thousand stand the shock
+      Of the eighty thousand there?"
+
+Some historians estimate the number at eight thousand, and even
+this seems too small for the grandeur of their achievements. On
+one occasion (three years before the advent of Scipio) when the
+Consul, Caius Hostilius Mancinus, raised the siege in despair,
+and attempted to escape through the defiles of the mountain by
+night, the Numantines sallied forth in force, slaughtered 20,000
+of the Roman troops, and allowed the rest to capitulate, under
+condition of signing a perpetual peace with Numantia, and retiring
+to Rome. The Roman Senate repudiated the transaction, and sent back
+the disgraced Consul to submit to the mercy of the Numantines.
+Thereafter it was found necessary to concentrate the whole military
+talent of Rome on the reduction of this proud city. The siege of
+Numantia, like that of Saguntum, displayed in a marvellous way the
+tenacity, vigour, and reckless heroism of the aboriginal tribes of
+Spain. It was, therefore, with a pardonable pride that Cervantes,
+intent on rousing the patriotic feeling of his countrymen,
+addressed them as:--
+
+      "Los hijos de la fuerte España,
+      Hijos de tales padres herederos."
+
+
+NOTE 5, PAGE 20.
+
+_Thou gentle Douro._ This passage in the original is admired for
+its exquisite sweetness. We give it as a specimen of the melodious
+octaves of Cervantes:--
+
+      "Duero gentil, que con torcidas vueltas
+      Humedeces gran parte de mi seno,
+      Ansi en tus aguas siempre veas envueltas
+      Arenas de oro qual el Tajo ameno,
+      Y ansi las ninfas fugitivas sueltas,
+      De que está el verde prado y bosque lleno,
+      Vengan humildes á tus aguas claras
+      Y en prestarte favor no sean avaras:
+
+      "Que prestes á mis asperos lamentos
+      Atento oido, ó que á escucharlas vengas,
+      Y aunque dexes un rato tus contentos,
+      Suplicote que en nada te detengas:
+      Si tu con tus continuos crecimientos
+      Destos fieros Romanes no me vengas,
+      Cerrado veo ya qualquier camino
+      A la salud del pueblo Numantino."
+
+This famous river (the _Durius_ of the Romans) we prefer calling,
+in Portuguese fashion, the Douro, as being a name more familiar to
+English ears, and more amenable, too, to the laws of rhythm.
+
+
+NOTE 6, PAGE 22.
+
+_And, forcing way into the Vatican._ The event here alluded to is
+the fearful sack of Rome, in 1527, perpetrated by a portion of the
+army of Charles V. under the command of the Constable de Bourbon,
+when the Pope took refuge, and was besieged, in the castle of St.
+Angelo. The "Pilot of the Sacred Bark" was Clement VII.
+
+
+NOTE 7, PAGE 23.
+
+_The great Albano he._ This is a poetical name for Fernando Alvarez
+de Toledo, the Duke of Alva, who was famous for many things and
+infamous for more. The exploit referred to is the siege of Rome
+by Alva, after the battle of St. Quentin, 1557, when the French,
+who were allies of Pope Paul IV. against the Spaniards, had to
+leave Italy to save their own capital and country. In the time
+of Cervantes, no doubt, this siege was looked upon with pride as
+a "brandishing of the Spanish knife above the Roman neck," but
+in the light of history we see nothing more than a mock siege, a
+mock defence, and a mock withdrawal. Alva's hands were thoroughly
+fettered by his devout master, Philip II., who feared to humiliate
+the Pope too much, lest he should lose his title of "Most Catholic
+Majesty." This event is narrated with sarcastic brevity by Motley
+in the third book of his "History of the Netherlands."
+
+
+NOTE 8, PAGE 23.
+
+_The second Philip, second yet to none._ No doubt Philip II., at
+this period, had more power in his hand than had ever been held
+by a purely Spanish king. Motley, in his characteristic way, thus
+sums up his many titles: "He was king of all the Spanish kingdoms,
+and of both the Sicilies. He was titular king of England, France,
+and Jerusalem. He was 'Absolute Dominator' in Asia, Africa,
+and America. He was Duke of Milan, and both the Burgundies,
+and Hereditary Sovereign of the Seventeen Netherlands." To all
+this mighty inheritance he himself added the crown of Portugal.
+Cervantes took a part, maimed as he was, in this conquest, and
+it is, therefore, with legitimate pride that he speaks of the
+"Lusitanian banner that had been knit anew to the stately robes of
+Castile." Sixty years, however, sufficed to tear it asunder again.
+What Cervantes thought of Philip as a man and a ruler we can only
+conjecture. Twelve years after, in 1598, when the life of this
+monster of cruel bigotry had come to an end, and pompous funeral
+rites were everywhere being celebrated, we find Cervantes standing
+in the cathedral of Seville gazing on the astounding catafalque
+raised in honour of the deceased, and reciting with a roguish air
+that famous sonnet of his, beginning, "_I vow to God this grandeur
+stuns my brain!_" This sonnet, which Cervantes prized as the prime
+honour of his writings (_honra principal de mis escritos_), and
+which his countrymen regard as a model of exquisite raillery, was
+certainly not intended to do honour to the dead. Philip was no
+friend of poets, players, or outspoken thinkers, and literature
+breathed again when he expired. For a translation of the sonnet,
+see Gibson's translation of the "Journey to Parnassus," p. 375.
+
+
+NOTE 9, PAGE 51.
+
+_The Body._ Ticknor, who is certainly not over-lavish at any
+time in his praise of Cervantes, declares that the incantations
+of Marquino surpass in dignity those of the Faustus of Marlowe,
+who was a contemporary of Cervantes. He also affirms, that not
+even Shakespeare, when he presents on the stage the armed head
+raised up, under constraint, to reply to the criminal enquiries of
+Macbeth, excites so much our sympathy and horror as does Cervantes
+with that tormented spirit, which returns to life only to suffer a
+second time the pangs of dissolution and death. We give here the
+original of the speech of the resuscitated corpse, which Bouterwek
+describes as terrific:--
+
+EL CUERPO.
+
+      Cese la furia del rigor violento
+      Tuyo, Marquino; baste, triste, baste
+      La que yo paso en la region escura,
+      Sin que tu crezcas mas mi desventura.
+      Engañaste si piensas que recibo
+      Contento de volver á esta penosa,
+      Misera y corta vida que ahora vivo,
+      Que ya me va faltando presurosa;
+      Antes me causas un dolor esquivo,
+      Pues otra vez la muerte rigurosa
+      Triunfará de mi vida y de mi alma
+      Mi enemigo tendrá doblada palma.
+      El cual, con otros del escuro bando
+      De los que son sujetos á aguardarte,
+      Está con rabia en torno aqui esperando
+      A que acabe, Marquino, de informarte
+      Del lamentable fin, del mal nefando
+      Que de Numancia puedo asegurarte,
+      La cual acabará a las mismas manos
+      De los que son á ella mas cercanos.
+
+Throughout this scene, the pompous solemnity of the regular priests
+and the mock-heroic fury of Marquino are cleverly contrasted.
+Cervantes, who from his readings was familiar with all sorts of
+wizards and enchanters, makes Marquino a kind of old-world Merlin,
+kept, however, under necessary tragic restraint. The time had not
+yet come for the humours of "Don Quixote."
+
+
+NOTE 10, PAGE 65.
+
+_Sons of mothers, sad in lot._ This spirited speech of one of the
+Numantine wives has the true Spartan ring in it, of which our
+translation is but a feeble echo. We give the most effective part
+of it in the original:--
+
+      Hijos destas tristes madres,
+      Qué es esto? Como no hablais?
+      Y con lagrimas rogais
+      Que no os dexen vuestros padres?
+      Basta, que la hambre insana
+      Os acabe con dolor,
+      Sin esperar el rigor
+      De la aspereza Romana.
+      Decildes que os engendraron
+      Libres, y libres nacistes,
+      Y que vuestras madres tristes
+      Tambien libres os criaron.
+      Decildes que pues la suerte
+      Nuestra va tan de caida,
+      Que como os dieron la vida,
+      Ansi mismo os den la muerte.
+      O muros desta ciudad,
+      Si podeis hablad, decid,
+      Y mil veces repetid:
+      Numantinos, libertad!
+
+
+NOTE 11, PAGE 69.
+
+_Cause that these wretched Romans._ The _morale_ of the tragedy
+as a whole is so perfect, and the character of Theogenes, as
+represented, is so noble and chivalrous, that this savage decree of
+his seems strange and out of keeping. There are, it is true, more
+brutal things presented in "Titus Andronicus," but that is hardly a
+model of tragic dignity and decorum. The Latin historians tell us
+that when the crisis arrived the Numantine citizens ate raw flesh,
+and drugged themselves with a liquor called _Celia_, to madden
+themselves for the unnatural slaughter; but, artistically speaking,
+there was no necessity to give such things prominence especially in
+the mouth of Theogenes.
+
+
+NOTE 12, PAGE 70.
+
+_Morandro._ Bouterwek says: "The transition into light
+_redondillas_, for the purpose of interweaving with the serious
+business of the fable the loves of a young Numantine, named
+Morandro, and his mistress, is certainly a fault in the composition
+of the tragedy. But to this fault we are indebted for some of the
+finest scenes in the drama." We agree with the latter assertion,
+but not with the former. Neither Nature nor Art forbids the
+combination; and if love was to be introduced at all into such a
+play, the redondilla measure, on the Spanish stage at least, was
+_de rigeur_. It seems to us that the little ray of sunshine let
+into the surrounding gloom, and then suddenly extinguished, gives
+a deeper intensity to the supervening darkness. These love-scenes,
+moreover, if such they may be called, for they are very saddening,
+lead up to some of the most tragic scenes of the drama. Ticknor
+has rendered the whole scene with much spirit, but not in the
+metre, nor with the simplicity, of the original. We give two short
+extracts. The first contains the opening stanzas:--
+
+MORANDRO.
+
+      No vayas tan de corrida,
+      Lira; déjame gozar
+      Del bien que me puede dar
+      En la muerte alegre vida;
+      Deja que miren mis ojos
+      Un rato tu hermosura
+      Pues tanto mi desventura
+      Se entretiene en mis enojos.
+      O dulce Lira, que sueñas
+      Contino en mi fantasía
+      Con tan suave harmonía
+      Que vuelve en gloria mis penas!
+      Qué tienes? Qué estás pensando,
+      Gloria de mi pensamiento?
+
+The second extract is the parting scene, which is justly praised
+for its pathetic tenderness:--
+
+LIRA.
+
+      Morandro, mi dulce amigo,
+      No vayas; que se me antoja
+      Que de tu sangre veo roja
+      La espada del enemigo.
+      No hagas esta jornada,
+      Morandro, bien de mi vida,
+      Que si es mala la salida
+      Es muy peor la tornada.
+      Si quiero aplacar tu brio,
+      Por testigo pongo al cielo,
+      Que de mi daño recelo
+      Y no del provecho mio.
+      Mas si acaso, amado amigo,
+      Prosigues esta contienda,
+      Lleva este abrazo por prenda
+      De que me llevas contigo.
+
+
+NOTE 13, PAGE 109.
+
+_I saw within the middle of the square._ This fine description
+of the end of Theogenes, as seen and described by Marius, may
+fitly wind up our extracts from the original. It is written in
+very vigorous Tercets, a form of verse in which Cervantes was more
+expert than in any other:--
+
+      En medio de la plaza levantado
+      Está un ardiente fuego temeroso,
+      De sus cuerpos y haciendas sustentado.
+      A tiempo llegué á verle, que el furioso
+      Teogenes, valiente Numantino,
+      De fenecer su vida deseoso,
+      Maldiciendo su corto amargo signo,
+      En medio se arrojaba de la llama
+      Lleno de temerario desatino.
+      Y al arrojarse dijo: O clara fama,
+      Ocupa aqui tus lenguas y tus ojos
+      En esta hazaña que a cantar te llama!
+      Venid, Romanos, ya por los despojos
+      Deste ciudad en polvo y humo envueltos,
+      Y sus floras y frutos en abrojos!
+
+
+NOTE 14, PAGE 112.
+
+_Viriato._ It is a touch of genius, on Cervantes' part, to give
+this youth, who concentrates at last in his own person all the
+heroism of his nation, the name of the illustrious Lusitanian hero,
+Viriatus, the William Wallace of his age and country, who for more
+than a decade was the terror of the Romans and the pride of his
+nation, and who, like the Scottish hero, was at last done to death
+by treachery.
+
+
+END OF THE NOTES.
+
+
+CHISWICK PRESS:--C. WHITTINGHAM AND CO., TOOKS COURT, CHANCERY LANE.
+
+
+
+
+  TRANSCRIBER'S NOTE
+
+  Italic text is denoted by _underscores_.
+
+  Obvious typographical errors and punctuation errors have been
+  corrected after careful comparison with other occurrences within
+  the text and consultation of external sources.
+
+  Footnotes are collected in a 'NOTES' section at the end of the play,
+  as in the original book.
+
+  Except for those changes noted below, all misspellings in the text,
+  and inconsistent or archaic usage, have been retained. For example,
+  good-will, good will; pourtrayed; energetical; fulness; leal.
+
+  Pg 23, 'vicegerent' replaced by 'viceregent'.
+  Pg 94, 'stern hehest' replaced by 'stern behest'.
+  Pg 95, 'who am the the great' replaced by 'who am the great'.
+  Pg 111, 'go straighway' replaced by 'go straightway'.
+  Pg 121, 'continos creciementos' replaced by 'continuos crecimientos'.
+
+
+
+
+
+End of Project Gutenberg's Numantia, by Miguel de Cervantes Saavedra
+
+*** END OF THIS PROJECT GUTENBERG EBOOK NUMANTIA ***
+
+***** This file should be named 53041-0.txt or 53041-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/3/0/4/53041/
+
+Produced by Josep Cols Canals, John Campbell and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

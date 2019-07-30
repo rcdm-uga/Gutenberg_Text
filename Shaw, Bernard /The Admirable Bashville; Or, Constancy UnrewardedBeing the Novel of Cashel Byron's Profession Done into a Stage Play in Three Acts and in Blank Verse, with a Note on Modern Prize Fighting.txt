@@ -1,0 +1,2857 @@
+The Project Gutenberg EBook of The Admirable Bashville, by Bernard Shaw
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Admirable Bashville
+       or, Constancy Unrewarded
+
+Author: Bernard Shaw
+
+Release Date: July 5, 2010 [EBook #33085]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ADMIRABLE BASHVILLE ***
+
+
+
+
+Produced by Chuck Greif, Fox in the Stars and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+    THE ADMIRABLE
+    BASHVILLE
+
+    OR, CONSTANCY UNREWARDED
+
+    BEING THE NOVEL OF CASHEL BYRON'S
+    PROFESSION DONE INTO A STAGE PLAY
+    IN THREE ACTS, AND IN BLANK VERSE,
+    WITH A NOTE ON MODERN PRIZE FIGHTING
+
+    By
+
+    BERNARD SHAW
+
+    [Illustration]
+
+    NEW YORK
+    BRENTANO'S
+    1913
+
+    Price 40 cents net
+
+
+
+
+    WORKS OF BERNARD SHAW
+
+    Dramatic Opinions and Essays.   2 vols.     _Net_, $2.50
+    Plays Pleasant and Unpleasant.  2 vols.     _Net_, $2.50
+    John Bull's Other Island and Major Barbara. _Net_, $1.50
+    Man and Superman                            _Net_, $1.25
+    Three Plays for Puritans                    _Net_, $1.25
+    The Doctor's Dilemma, Getting Married, and
+        The Shewing-Up of Blanco Posnet.        _Net_, $1.50
+    The Quintessence of Ibsenism                       $1.00
+    Cashel Byron's Profession                          $1.25
+    An Unsocial Socialist                              $1.25
+    The Irrational Knot                                $1.50
+    The Author's Apology                        _Net_,   .60
+    The Perfect Wagnerite                              $1.25
+    Love Among the Artists                             $1.50
+    The Admirable Bashville: A Play             _Net_,   .50
+
+    _Postage or Express, Extra_
+
+       *       *       *       *       *
+
+    BRENTANO'S
+
+    Fifth Avenue and 27th Street New York
+
+
+
+
+THE ADMIRABLE BASHVILLE
+
+     "Over Bashville the footman I howled with derision and delight. I
+     dote on Bashville: I could read of him for ever: _de Bashville je
+     suis le fervent_: there is only one Bashville; and I am his devoted
+     slave: Bashville est magnifique; mais il n'est guère possible."
+
+     ROBERT LOUIS STEVENSON.
+
+
+
+
+    THE ADMIRABLE BASHVILLE
+    OR, CONSTANCY UNREWARDED
+    BEING THE NOVEL OF CASHEL
+    BYRON'S PROFESSION DONE INTO A
+    STAGE PLAY IN THREE ACTS AND
+    IN BLANK VERSE · WITH A NOTE
+    ON MODERN PRIZEFIGHTING · BY
+    BERNARD SHAW
+
+    [Illustration]
+
+
+    BRENTANO'S · NEW YORK
+            MCMXIII
+
+
+
+
+This play has been publicly performed within the United Kingdom. It is
+entered at Stationers' Hall and The Library of Congress, U. S. A.
+
+_Copyright, 1901, by Herbert S. Stone and Company_
+
+_Copyright, 1907, by Bernard Shaw_
+
+All rights reserved
+
+
+
+
+PREFACE
+
+
+The Admirable Bashville is a product of the British law of copyright. As
+that law stands at present, the first person who patches up a stage
+version of a novel, however worthless and absurd that version may be,
+and has it read by himself and a few confederates to another confederate
+who has paid for admission in a hall licensed for theatrical
+performances, secures the stage rights of that novel, even as against
+the author himself; and the author must buy him out before he can touch
+his own work for the purposes of the stage.
+
+A famous case in point is the drama of East Lynne, adapted from the late
+Mrs. Henry Wood's novel of that name. It was enormously popular, and is
+still the surest refuge of touring companies in distress. Many authors
+feel that Mrs. Henry Wood was hardly used in not getting any of the
+money which was plentifully made in this way through her story. To my
+mind, since her literary copyright probably brought her a fair wage for
+the work of writing the book, her real grievance was, first, that her
+name and credit were attached to a play with which she had nothing to
+do, and which may quite possibly have been to her a detestable travesty
+and profanation of her story; and second, that the authors of that play
+had the legal power to prevent her from having any version of her own
+performed, if she had wished to make one.
+
+There is only one way in which the author can protect himself; and that
+is by making a version of his own and going through the same legal
+farce with it. But the legal farce involves the hire of a hall and the
+payment of a fee of two guineas to the King's Reader of Plays. When I
+wrote Cashel Byron's Profession I had no guineas to spare, a common
+disability of young authors. What is equally common, I did not know the
+law. A reasonable man may guess a reasonable law, but no man can guess a
+foolish anomaly. Fortunately, by the time my book so suddenly revived in
+America I was aware of the danger, and in a position to protect myself
+by writing and performing The Admirable Bashville. The prudence of doing
+so was soon demonstrated; for rumors soon reached me of several American
+stage versions; and one of these has actually been played in New York,
+with the boxing scenes under the management (so it is stated) of the
+eminent pugilist Mr. James J. Corbett. The New York press, in a somewhat
+derisive vein, conveyed the impression that in this version Cashel Byron
+sought to interest the public rather as the last of the noble race of
+the Byrons of Dorsetshire than as his unromantic self; but in justice to
+a play which I never read, and an actor whom I never saw, and who
+honorably offered to treat me as if I had legal rights in the matter, I
+must not accept the newspaper evidence as conclusive.
+
+As I write these words, I am promised by the King in his speech to
+Parliament a new Copyright Bill. I believe it embodies, in our British
+fashion, the recommendations of the book publishers as to the concerns
+of the authors, and the notions of the musical publishers as to the
+concerns of the playwrights. As author and playwright I am duly obliged
+to the Commission for saving me the trouble of speaking for myself, and
+to the witnesses for speaking for me. But unless Parliament takes the
+opportunity of giving the authors of all printed works of fiction,
+whether dramatic or narrative, both playwright and copyright (as in
+America), such to be independent of any insertions or omissions of
+formulas about "all rights reserved" or the like, I am afraid the new
+Copyright Bill will leave me with exactly the opinion both of the
+copyright law and the wisdom of Parliament I at present entertain. As a
+good Socialist I do not at all object to the limitation of my right of
+property in my own works to a comparatively brief period, followed by
+complete Communism: in fact, I cannot see why the same salutary
+limitation should not be applied to all property rights whatsoever; but
+a system which enables any alert sharper to acquire property rights in
+my stories as against myself and the rest of the community would, it
+seems to me, justify a rebellion if authors were numerous and warlike
+enough to make one.
+
+It may be asked why I have written The Admirable Bashville in blank
+verse. My answer is that I had but a week to write it in. Blank verse is
+so childishly easy and expeditious (hence, by the way, Shakespear's
+copious output), that by adopting it I was enabled to do within the week
+what would have cost me a month in prose.
+
+Besides, I am fond of blank verse. Not nineteenth century blank verse,
+of course, nor indeed, with a very few exceptions, any post-Shakespearean
+blank verse. Nay, not Shakespearean blank verse itself later than the
+histories. When an author can write the prose dialogue of the first
+scene in As You Like It, or Hamlet's colloquies with Rosencrantz and
+Guildenstern, there is really no excuse for The Seven Ages and "To be or
+not to be," except the excuse of a haste that made great facility
+indispensable. I am quite sure that any one who is to recover the charm
+of blank verse must frankly go back to its beginnings and start a
+literary pre-Raphaelite Brotherhood. I like the melodious sing-song, the
+clear simple one-line and two-line sayings, and the occasional rhymed
+tags, like the half closes in an eighteenth century symphony, in Peele,
+Kyd, Greene, and the histories of Shakespear. How any one with music in
+him can turn from Henry VI., John, and the two Richards to such a mess
+of verse half developed into rhetorical prose as Cymbeline, is to me
+explicable only by the uncivil hypothesis that the artistic qualities in
+the Elizabethan drama do not exist for most of its critics; so that they
+hang on to its purely prosaic content, and hypnotize themselves into
+absurd exaggerations of the value of that content. Even poets fall under
+the spell. Ben Jonson described Marlowe's line as "mighty"! As well put
+Michael Angelo's epitaph on the tombstone of Paolo Uccello. No wonder
+Jonson's blank verse is the most horribly disagreeable product in
+literature, and indicates his most prosaic mood as surely as his shorter
+rhymed measures indicate his poetic mood. Marlowe never wrote a mighty
+line in his life: Cowper's single phrase, "Toll for the brave," drowns
+all his mightinesses as Great Tom drowns a military band. But Marlowe
+took that very pleasant-sounding rigmarole of Peele and Greene, and
+added to its sunny daylight the insane splendors of night, and the cheap
+tragedy of crime. Because he had only a common sort of brain, he was
+hopelessly beaten by Shakespear; but he had a fine ear and a soaring
+spirit: in short, one does not forget "wanton Arethusa's azure arms"
+and the like. But the pleasant-sounding rigmarole was the basis of the
+whole thing; and as long as that rigmarole was practised frankly for the
+sake of its pleasantness, it was readable and speakable. It lasted until
+Shakespear did to it what Raphael did to Italian painting; that is,
+overcharged and burst it by making it the vehicle of a new order of
+thought, involving a mass of intellectual ferment and psychological
+research. The rigmarole could not stand the strain; and Shakespear's
+style ended in a chaos of half-shattered old forms, half-emancipated new
+ones, with occasional bursts of prose eloquence on the one hand,
+occasional delicious echoes of the rigmarole, mostly from Calibans and
+masque personages, on the other, with, alas! a great deal of filling up
+with formulary blank verse which had no purpose except to save the
+author's time and thought.
+
+When a great man destroys an art form in this way, its ruins make
+palaces for the clever would-be great. After Michael Angelo and Raphael,
+Giulio Romano and the Carracci. After Marlowe and Shakespear, Chapman
+and the Police News poet Webster. Webster's specialty was blood:
+Chapman's, balderdash. Many of us by this time find it difficult to
+believe that pre-Ruskinite art criticism used to prostrate itself before
+the works of Domenichino and Guido, and to patronize the modest little
+beginnings of those who came between Cimabue and Masaccio. But we have
+only to look at our own current criticism of Elizabethan drama to
+satisfy ourselves that in an art which has not yet found its Ruskin or
+its pre-Raphaelite Brotherhood, the same folly is still academically
+propagated. It is possible, and even usual, for men professing to have
+ears and a sense of poetry to snub Peele and Greene and grovel before
+Fletcher and Webster--Fletcher! a facile blank verse penny-a-liner:
+Webster! a turgid paper cut-throat. The subject is one which I really
+cannot pursue without intemperance of language. The man who thinks The
+Duchess of Malfi better than David and Bethsabe is outside the pale, not
+merely of literature, but almost of humanity.
+
+Yet some of the worst of these post-Shakespearean duffers, from Jonson
+to Heywood, suddenly became poets when they turned from the big drum of
+pseudo-Shakespearean drama to the pipe and tabor of the masque, exactly
+as Shakespear himself recovered the old charm of the rigmarole when he
+turned from Prospero to Ariel and Caliban. Cyril Tourneur and Heywood
+could certainly have produced very pretty rigmarole plays if they had
+begun where Shakespear began, instead of trying to begin where he left
+off. Jonson and Beaumont would very likely have done themselves credit
+on the same terms: Marston would have had at least a chance. Massinger
+was in his right place, such as it was; and one would not disturb the
+gentle Ford, who was never born to storm the footlights. Webster could
+have done no good anyhow or anywhere: the man was a fool. And Chapman
+would always have been a blathering unreadable pedant, like Landor, in
+spite of his classical amateurship and respectable strenuosity of
+character. But with these exceptions it may plausibly be held that if
+Marlowe and Shakespear could have been kept out of their way, the rest
+would have done well enough on the lines of Peele and Greene. However,
+they thought otherwise; and now that their freethinking paganism, so
+dazzling to the pupils of Paley and the converts of Wesley, offers
+itself in vain to the disciples of Darwin and Nietzsche, there is an
+end of them. And a good riddance, too.
+
+Accordingly, I have poetasted The Admirable Bashville in the rigmarole
+style. And lest the Webster worshippers should declare that there is not
+a single correct line in all my three acts, I have stolen or paraphrased
+a few from Marlowe and Shakespear (not to mention Henry Carey); so that
+if any man dares quote me derisively, he shall do so in peril of
+inadvertently lighting on a purple patch from Hamlet or Faustus.
+
+I have also endeavored in this little play to prove that I am not the
+heartless creature some of my critics take me for. I have strictly
+observed the established laws of stage popularity and probability. I
+have simplified the character of the heroine, and summed up her
+sweetness in the one sacred word: Love. I have given consistency to the
+heroism of Cashel. I have paid to Morality, in the final scene, the
+tribute of poetic justice. I have restored to Patriotism its usual place
+on the stage, and gracefully acknowledged The Throne as the fountain of
+social honor. I have paid particular attention to the construction of
+the play, which will be found equal in this respect to the best
+contemporary models.
+
+And I trust the result will be found satisfactory.
+
+
+
+    The Admirable Bashville; or, Constancy Unrewarded
+
+                            ACT I
+
+               _A glade in Wiltstoken Park_
+
+
+                  _Enter_ LYDIA
+
+    LYDIA. Ye leafy breasts and warm protecting wings
+    Of mother trees that hatch our tender souls,
+    And from the well of Nature in our hearts
+    Thaw the intolerable inch of ice
+    That bears the weight of all the stamping world.
+    Hear ye me sing to solitude that I,
+    Lydia Carew, the owner of these lands,
+    Albeit most rich, most learned, and most wise,
+    Am yet most lonely. What are riches worth
+    When wisdom with them comes to show the purse bearer
+    That life remains unpurchasable? Learning
+    Learns but one lesson: doubt! To excel all
+    Is, to be lonely. Oh, ye busy birds,
+    Engrossed with real needs, ye shameless trees
+    With arms outspread in welcome of the sun,
+    Your minds, bent singly to enlarge your lives,
+    Have given you wings and raised your delicate heads
+    High heavens above us crawlers.
+
+    [_A rook sets up a great cawing; and the other birds
+    chatter loudly as a gust of wind sets the branches
+    swaying. She makes as though she would shew them
+    her sleeves._
+
+                                      Lo, the leaves
+    That hide my drooping boughs! Mock me--poor maid!--
+    Deride with joyous comfortable chatter
+    These stolen feathers. Laugh at me, the clothed one.
+    Laugh at the mind fed on foul air and books.
+    Books! Art! And Culture! Oh, I shall go mad.
+    Give me a mate that never heard of these,
+    A sylvan god, tree born in heart and sap;
+    Or else, eternal maidhood be my hap.
+
+    [_Another gust of wind and bird-chatter. She sits on
+    the mossy root of an oak and buries her face in her
+    hands._ CASHEL BYRON, _in a white singlet and
+    breeches, comes through the trees_.
+
+    CASHEL. What's this? Whom have we here? A woman!
+
+    LYDIA [_looking up_].              Yes.
+
+    CASHEL. You have no business here. I have. Away!
+    Women distract me. Hence!
+
+    LYDIA.                Bid you me hence?
+    I am upon mine own ground. Who are you?
+    I take you for a god, a sylvan god.
+    This place is mine: I share it with the birds,
+    The trees, the sylvan gods, the lovely company
+    Of haunted solitudes.
+
+    CASHEL.           A sylvan god!
+    A goat-eared image! Do your statues speak?
+    Walk? heave the chest with breath? or like a feather
+    Lift you--like this?      [_He sets her on her feet._
+
+    LYDIA [_panting_]. You take away my breath!
+    You're strong. Your hands off, please. Thank you. Farewell.
+
+    CASHEL. Before you go: when shall we meet again?
+
+    LYDIA. Why should we meet again?
+
+    CASHEL.             Who knows? We _shall_.
+    That much I know by instinct. What's your name?
+
+    LYDIA. Lydia Carew.
+
+    CASHEL.            Lydia's a pretty name.
+    Where do you live?
+
+    LYDIA.    I' the castle.
+
+    CASHEL [_thunderstruck_].   Do not say
+    You are the lady of this great domain.
+
+    LYDIA. I am.
+
+    CASHEL.     Accursed luck! I took you for
+    The daughter of some farmer. Well, your pardon.
+    I came too close: I looked too deep. Farewell.
+
+    LYDIA. I pardon that. Now tell me who you are.
+
+    CASHEL. Ask me not whence I come, nor what I am.
+    You are the lady of the castle. I
+    Have but this hard and blackened hand to live by.
+
+    LYDIA. I have felt its strength and envied you. Your name?
+    I have told you mine.
+
+    CASHEL.            My name is Cashel Byron.
+
+    LYDIA. I never heard the name; and yet you utter it
+    As men announce a celebrated name.
+    Forgive my ignorance.
+
+    CASHEL.          I bless it, Lydia.
+    I have forgot your other name.
+
+    LYDIA.                     Carew.
+    Cashel's a pretty name, too.
+
+    MELLISH [_calling through the wood_]. Coo-ee! Byron!
+
+    CASHEL. A thousand curses! Oh, I beg you, go.
+    This is a man you must not meet.
+
+    MELLISH [_further off_].   Coo-ee!
+
+    LYDIA. He's losing us. What does he in my woods?
+
+    CASHEL. He is a part of what I am. What that is
+    You must not know. It would end all between us.
+    And yet there's no dishonor in't: your lawyer,
+    Who let your lodge to me, will vouch me honest.
+    I am ashamed to tell you what I am--
+    At least, as yet. Some day, perhaps.
+
+    MELLISH [_nearer_].                   Coo-ee!
+
+    LYDIA. His voice is nearer. Fare you well, my tenant.
+    When next your rent falls due, come to the castle.
+    Pay me in person. Sir: your most obedient.      [_She curtsies and goes._
+
+    CASHEL. Lives in this castle! Owns this park! A lady
+    Marry a prizefighter! Impossible.
+    And yet the prizefighter must marry her.
+
+                  _Enter_ MELLISH
+
+    Ensanguined swine, whelped by a doggish dam,
+    Is this thy park, that thou, with voice obscene,
+    Fillst it with yodeled yells, and screamst my name
+    For all the world to know that Cashel Byron
+    Is training here for combat.
+
+    MELLISH.                      Swine you me?
+    I've caught you, have I? You have found a woman.
+    Let her shew here again, I'll set the dog on her.
+    I will. I say it. And my name's Bob Mellish.
+
+    CASHEL. Change thy initial and be truly hight
+    Hellish. As for thy dog, why dost thou keep one
+    And bark thyself? Begone.
+
+    MELLISH.                 I'll not begone.
+    You shall come back with me and do your duty--
+    Your duty to your backers, do you hear?
+    You have not punched the bag this blessed day.
+
+    CASHEL. The putrid bag engirdled by thy belt
+    Invites my fist.
+
+    MELLISH [_weeping_]. Ingrate! O wretched lot!
+    Who would a trainer be? O Mellish, Mellish,
+    Trainer of heroes, builder-up of brawn,
+    Vicarious victor, thou createst champions
+    That quickly turn thy tyrants. But beware:
+    Without me thou art nothing. Disobey me,
+    And all thy boasted strength shall fall from thee.
+    With flaccid muscles and with failing breath
+    Facing the fist of thy more faithful foe,
+    I'll see thee on the grass cursing the day
+    Thou didst forswear thy training.
+
+    CASHEL.                          Noisome quack
+    That canst not from thine own abhorrent visage
+    Take one carbuncle, thou contaminat'st
+    Even with thy presence my untainted blood
+    Preach abstinence to rascals like thyself
+    Rotten with surfeiting. Leave me in peace.
+    This grove is sacred: thou profanest it.
+    Hence! I have business that concerns thee not.
+
+    MELLISH. Ay, with your woman. You will lose your fight.
+    Have you forgot your duty to your backers?
+    Oh, what a sacred thing your duty is!
+    What makes a man but duty? Where were we
+    Without our duty? Think of Nelson's words:
+    England expects that every man----
+
+    CASHEL.                            Shall twaddle
+    About his duty. Mellish: at no hour
+    Can I regard thee wholly without loathing;
+    But when thou play'st the moralist, by Heaven,
+    My soul flies to my fist, my fist to thee;
+    And never did the Cyclops' hammer fall
+    On Mars's armor--but enough of that.
+    It does remind me of my mother.
+
+    MELLISH.                        Ah,
+    Byron, let it remind thee. Once I heard
+    An old song: it ran thus. [_He clears his throat._] Ahem, Ahem!
+
+    [_Sings_]--They say there is no other
+             Can take the place of mother--
+
+    I am out o' voice: forgive me; but remember:
+    Thy mother--were that sainted woman here--
+    Would say, Obey thy trainer.
+
+    CASHEL.                     Now, by Heaven,
+    Some fate is pushing thee upon thy doom.
+    Canst thou not hear thy sands as they run out?
+    They thunder like an avalanche. Old man:
+    Two things I hate, my duty and my mother.
+    Why dost thou urge them both upon me now?
+    Presume not on thine age and on thy nastiness.
+    Vanish, and promptly.
+
+    MELLISH.             Can I leave thee here
+    Thus thinly clad, exposed to vernal dews?
+    Come back with me, my son, unto our lodge.
+
+    CASHEL. Within this breast a fire is newly lit
+    Whose glow shall sun the dew away, whose radiance
+    Shall make the orb of night hang in the heavens
+    Unnoticed, like a glow-worm at high noon.
+
+    MELLISH. Ah me, ah me, where wilt thou spend the night?
+
+    CASHEL. Wiltstoken's windows wandering beneath,
+    Wiltstoken's holy bell hearkening,
+    Wiltstoken's lady loving breathlessly.
+
+    MELLISH. The lady of the castle! Thou art mad.
+
+    CASHEL. 'Tis thou art mad to trifle in my path.
+    Thwart me no more. Begone.
+
+    MELLISH.                  My boy, my son,
+    I'd give my heart's blood for thy happiness.
+    Thwart thee, my son! Ah, no. I'll go with thee.
+    I'll brave the dews. I'll sacrifice my sleep.
+    I am old--no matter: ne'er shall it be said
+    Mellish deserted thee.
+
+    CASHEL.               You resolute gods
+    That will not spare this man, upon your knees
+    Take the disparity twixt his age and mine.
+    Now from the ring to the high judgment seat
+    I step at your behest. Bear you me witness
+    This is not Victory, but Execution.
+
+    [_He solemnly projects his fist with colossal force
+    against the waistcoat of_ MELLISH _who doubles up like
+    a folded towel, and lies without sense or motion_.
+
+    And now the night is beautiful again.
+
+    [_The castle clock strikes the hour in the distance._
+
+    Hark! Hark! Hark! Hark! Hark! Hark! Hark! Hark! Hark! Hark!
+    It strikes in poetry. 'Tis ten o'clock.
+    Lydia: to thee!
+
+    [_He steals off towards the castle._ MELLISH _stirs and groans_.
+
+
+
+
+                        ACT II
+
+
+                   SCENE I
+
+          _London. A room in Lydia's house_
+
+         _Enter_ LYDIA _and_ LUCIAN
+
+
+    LYDIA. Welcome, dear cousin, to my London house.
+    Of late you have been chary of your visits.
+
+    LUCIAN. I have been greatly occupied of late.
+    The minister to whom I act as scribe
+    In Downing Street was born in Birmingham,
+    And, like a thoroughbred commercial statesman,
+    Splits his infinities, which I, poor slave,
+    Must reunite, though all the time my heart
+    Yearns for my gentle coz's company.
+
+    LYDIA. Lucian: there is some other reason. Think!
+    Since England was a nation every mood
+    Her scribes have prepositionally split;
+    But thine avoidance dates from yestermonth.
+
+    LUCIAN. There is a man I like not haunts this house.
+
+    LYDIA. Thou speak'st of Cashel Byron?
+
+    LUCIAN.                               Aye, of him.
+    Hast thou forgotten that eventful night
+    When as we gathered were at Hoskyn House
+    To hear a lecture by Herr Abendgasse,
+    He placed a single finger on my chest,
+    And I, ensorceled, would have sunk supine
+    Had not a chair received my falling form.
+
+    LYDIA. Pooh! That was but by way of illustration.
+
+    LUCIAN. What right had he to illustrate his point
+    Upon my person? Was I his assistant
+    That he should try experiments on me
+    As Simpson did on his with chloroform?
+    Now, by the cannon balls of Galileo
+    He hath unmanned me: all my nerve is gone.
+    This very morning my official chief,
+    Tapping with friendly forefinger this button,
+    Levelled me like a thunderstricken elm
+    Flat upon the Colonial Office floor.
+
+    LYDIA. Fancies, coz.
+
+    LUCIAN.              Fancies! Fits! the chief said fits!
+    Delirium tremens! the chlorotic dance
+    Of Vitus! What could any one have thought?
+    Your ruffian friend hath ruined me. By Heaven,
+    I tremble at a thumbnail. Give me drink.
+
+    LYDIA. What ho, without there! Bashville.
+
+    BASHVILLE [_without_].                     Coming, madam.
+
+                  _Enter_ BASHVILLE
+
+    LYDIA. My cousin ails, Bashville. Procure some wet.    [_Exit_ BASHVILLE.
+
+    LUCIAN. Some wet!!! Where learnt _you_ that atrocious word?
+    This is the language of a flower-girl.
+
+    LYDIA. True. It is horrible. Said I "Some wet"?
+    I meant, some drink. Why did I say "Some wet"?
+    Am I ensorceled too? "Some wet"! Fie! fie!
+    I feel as though some hateful thing had stained me.
+    Oh, Lucian, how could I have said "Some wet"?
+
+    LUCIAN. The horrid conversation of this man
+    Hath numbed thy once unfailing sense of fitness.
+
+    LYDIA. Nay, he speaks very well: he's literate:
+    Shakespear he quotes unconsciously.
+
+    LUCIAN.                            And yet
+    Anon he talks pure pothouse.
+
+                  _Enter_ BASHVILLE
+
+    BASHVILLE.                   Sir: your potion.
+
+    LUCIAN. Thanks. [_He drinks._] I am better.
+
+    A NEWSBOY [_calling without_]. Extra special _Star_!
+    Result of the great fight! Name of the winner!
+
+    LYDIA. Who calls so loud?
+
+    BASHVILLE.                The papers, madam.
+
+    LYDIA.                                       Why?
+    Hath ought momentous happened?
+
+    BASHVILLE.                    Madam: yes.    [_He produces a newspaper._
+    All England for these thrilling paragraphs
+    A week has waited breathless.
+
+    LYDIA.                        Read them us.
+
+    BASHVILLE [_reading_]. "At noon to-day, unknown to the police,
+    Within a thousand miles of Wormwood Scrubbs,
+    Th' Australian Champion and his challenger,
+    The Flying Dutchman, formerly engaged
+    I' the mercantile marine, fought to a finish.
+    Lord Worthington, the well-known sporting peer
+    Acted as referee."
+
+    LYDIA.             Lord Worthington!
+
+    BASHVILLE. "The bold Ned Skene revisited the ropes
+    To hold the bottle for his quondam novice;
+    Whilst in the seaman's corner were assembled
+    Professor Palmer and the Chelsea Snob.
+    Mellish, whose epigastrium has been hurt,
+    'Tis said, by accident at Wiltstoken,
+    Looked none the worse in the Australian's corner.
+    The Flying Dutchman wore the Union Jack:
+    His colors freely sold amid the crowd;
+    But Cashel's well-known spot of white on blue----"
+
+    LYDIA. _Whose_, did you say?
+
+    BASHVILLE.                  Cashel's, my lady.
+
+    LYDIA.                                         Lucian:
+    Your hand--a chair--
+
+    BASHVILLE.           Madam: you're ill.
+
+    LYDIA.                                  Proceed.
+    What you have read I do not understand;
+    Yet I will hear it through. Proceed.
+
+    LUCIAN.                              Proceed.
+
+    BASHVILLE. "But Cashel's well-known spot of white on blue
+    Was fairly rushed for. Time was called at twelve,
+    When, with a smile of confidence upon
+    His ocean-beaten mug----"
+
+    LYDIA.                    His mug?
+
+    LUCIAN [_explaining_].              His face.
+
+    BASHVILLE [_continuing_]. "The Dutchman came undaunted to the scratch,
+    But found the champion there already. Both
+    Most heartily shook hands, amid the cheers
+    Of their encouraged backers. Two to one
+    Was offered on the Melbourne nonpareil;
+    And soon, so fit the Flying Dutchman seemed,
+    Found takers everywhere. No time was lost
+    In getting to the business of the day.
+    The Dutchman led at once, and seemed to land
+    On Byron's dicebox; but the seaman's reach,
+    Too short for execution at long shots,
+    Did not get fairly home upon the ivory;
+    And Byron had the best of the exchange."
+
+    LYDIA. I do not understand. What were they doing?
+
+    LUCIAN. Fighting with naked fists.
+
+    LYDIA.                             Oh, horrible!
+    I'll hear no more. Or stay: how did it end?
+    Was Cashel hurt?
+
+    LUCIAN [_to_ BASHVILLE]. Skip to the final round.
+
+    BASHVILLE. "Round Three: the rumors that had gone about
+    Of a breakdown in Byron's recent training
+    Seemed quite confirmed. Upon the call of time
+    He rose, and, looking anything but cheerful,
+    Proclaimed with every breath Bellows to Mend.
+    At this point six to one was freely offered
+    Upon the Dutchman; and Lord Worthington
+    Plunged at this figure till he stood to lose
+    A fortune should the Dutchman, as seemed certain,
+    Take down the number of the Panley boy.
+    The Dutchman, glutton as we know he is,
+    Seemed this time likely to go hungry. Cashel
+    Was clearly groggy as he slipped the sailor,
+    Who, not to be denied, followed him up,
+    Forcing the fighting mid tremendous cheers."
+
+    LYDIA. Oh stop--no more--or tell the worst at once.
+    I'll be revenged. Bashville: call the police.
+    This brutal sailor shall be made to know
+    There's law in England.
+
+    LUCIAN.                 Do not interrupt him:
+    Mine ears are thirsting. Finish, man. What next?
+
+    BASHVILLE. "Forty to one, the Dutchman's friends exclaimed.
+    Done, said Lord Worthington, who shewed himself
+    A sportsman every inch. Barely the bet
+    Was booked, when, at the reeling champion's jaw
+    The sailor, bent on winning out of hand,
+    Sent in his right. The issue seemed a cert,
+    When Cashel, ducking smartly to his left,
+    Cross-countered like a hundredweight of brick----"
+
+    LUCIAN. Death and damnation!
+
+    LYDIA.                       Oh, what does it mean?
+
+    BASHVILLE. "The Dutchman went to grass, a beaten man."
+
+    LYDIA. Hurrah! Hurrah! Hurrah! Oh, well done, Cashel!
+
+    BASHVILLE. "A scene of indescribable excitement
+    Ensued; for it was now quite evident
+    That Byron's grogginess had all along
+    Been feigned to make the market for his backers.
+    We trust this sample of colonial smartness
+    Will not find imitators on this side.
+    The losers settled up like gentlemen;
+    But many felt that Byron shewed bad taste
+    In taking old Ned Skene upon his back,
+    And, with Bob Mellish tucked beneath his oxter,
+    Sprinting a hundred yards to show the crowd
+    The perfect pink of his condition"--[_a knock_].
+
+    LYDIA [_turning pale_].                         Bashville
+    Didst hear? A knock.
+
+    BASHVILLE.           Madam: 'tis Byron's knock.
+    Shall I admit him?
+
+    LUCIAN.            Reeking from the ring!
+    Oh, monstrous! Say you're out.
+
+    LYDIA.                         Send him away.
+    I will not see the wretch. How dare he keep
+    Secrets from ME? I'll punish him. Pray say
+    I'm not at home. [BASHVILLE _turns to go_.] Yet stay. I am afraid
+    He will not come again.
+
+    LUCIAN.                A consummation
+    Devoutly to be wished by any lady.
+    Pray, do you _wish_ this man to come again?
+
+    LYDIA. No, Lucian. He hath used me very ill.
+    He should have told me. I will ne'er forgive him.
+    Say, Not at home.
+
+    BASHVILLE.      Yes, madam.      [_Exit._
+
+    LYDIA.                      Stay--
+
+    LUCIAN [_stopping her_].            No, Lydia:
+    You shall not countermand that proper order.
+    Oh, would you cast the treasure of your mind,
+    The thousands at your bank, and, above all,
+    Your unassailable social position
+    Before this soulless mass of beef and brawn?
+
+    LYDIA. Nay, coz: you're prejudiced.
+
+    CASHEL [_without_].                  Liar and slave!
+
+    LYDIA. What words were those?
+
+    LUCIAN.                       The man is drunk with slaughter.
+
+               _Enter_ BASHVILLE _running: he shuts the door and locks it_.
+
+    BASHVILLE. Save yourselves: at the staircase foot the champion
+    Sprawls on the mat, by trick of wrestler tripped;
+    But when he rises, woe betide us all!
+
+    LYDIA. Who bade you treat my visitor with violence?
+
+    BASHVILLE. He would not take my answer; thrust the door
+    Back in my face; gave me the lie i' the throat;
+    Averred he felt your presence in his bones.
+    I said he should feel mine there too, and felled him;
+    Then fled to bar your door.
+
+    LYDIA.                     O lover's instinct!
+    He felt my presence. Well, let him come in.
+    We must not fail in courage with a fighter.
+    Unlock the door.
+
+    LUCIAN.         Stop. Like all women, Lydia,
+    You have the courage of immunity.
+    To strike _you_ were against his code of honor;
+    But _me_, above the belt, he may perform on
+    T' th' height of his profession. Also Bashville.
+
+    BASHVILLE. Think not of me, sir. Let him do his worst.
+    Oh, if the valor of my heart could weigh
+    The fatal difference twixt his weight and mine,
+    A second battle should he do this day:
+    Nay, though outmatched I be, let but my mistress
+    Give me the word: instant I'll take him on
+    Here--now--at catchweight. Better bite the carpet
+    A man, than fly, a coward.
+
+    LUCIAN.                   Bravely said:
+    I will assist you with the poker.
+
+    LYDIA.                            No:
+    I will not have him touched. Open the door.
+
+    BASHVILLE. Destruction knocks thereat. I smile, and open.
+
+    [BASHVILLE _opens the door_. _Dead silence._ CASHEL
+    _enters, in tears_. _A solemn pause._
+
+    CASHEL. You know my secret?
+
+    LYDIA.                      Yes.
+
+    CASHEL.                          And thereupon
+    You bade your servant fling me from your door.
+
+    LYDIA. I bade my servant say I was not here.
+
+    CASHEL [_to_ BASHVILLE]. Why didst thou better thy instruction, man?
+    Hadst thou but said, "She bade me tell thee this,"
+    Thoudst burst my heart. I thank thee for thy mercy.
+
+    LYDIA. Oh, Lucian, didst thou call him "drunk with slaughter"?
+    Canst thou refrain from weeping at his woe?
+
+    CASHEL [_to_ LUCIAN]. The unwritten law that shields the amateur
+    Against professional resentment, saves thee.
+    O coward, to traduce behind their backs
+    Defenceless prizefighters!
+
+    LUCIAN.                   Thou dost avow
+    Thou art a prizefighter.
+
+    CASHEL.                 It was my glory.
+    I had hoped to offer to my lady there
+    My belts, my championships, my heaped-up stakes,
+    My undefeated record; but I knew
+    Behind their blaze a hateful secret lurked.
+
+    LYDIA. Another secret?
+
+    LUCIAN.                Is there worse to come?
+
+    CASHEL. Know ye not then my mother is an actress?
+
+    LUCIAN. How horrible!
+
+    LYDIA.                Nay, nay: how interesting!
+
+    CASHEL. A thousand victories cannot wipe out
+    That birthstain. Oh, my speech bewrayeth it:
+    My earliest lesson was the player's speech
+    In Hamlet; and to this day I express myself
+    More like a mobled queen than like a man
+    Of flesh and blood. Well may your cousin sneer!
+    What's Hecuba to him or he to Hecuba?
+
+    LUCIAN. Injurious upstart: if by Hecuba
+    Thou pointest darkly at my lovely cousin,
+    Know that she is to me, and I to her,
+    What never canst thou be. I do defy thee;
+    And maugre all the odds thy skill doth give,
+    Outside I will await thee.
+
+    LYDIA.                      I forbid
+    Expressly any such duello. Bashville:
+    The door. Put Mr. Webber in a hansom,
+    And bid the driver hie to Downing Street.
+    No answer: 'tis my will.      [_Exeunt_ LUCIAN _and_ BASHVILLE.
+    And now, farewell.
+    You must not come again, unless indeed
+    You can some day look in my eyes and say:
+    Lydia: my occupation's gone.
+
+    CASHEL.                     Ah, no:
+    It would remind you of my wretched mother.
+    O God, let me be natural a moment!
+    What other occupation can I try?
+    What would you have me be?
+
+    LYDIA.                     A gentleman.
+
+    CASHEL. A gentleman! I, Cashel Byron, stoop
+    To be the thing that bets on me! the fool
+    I flatter at so many coins a lesson!
+    The screaming creature who beside the ring
+    Gambles with basest wretches for my blood,
+    And pays with money that he never earned!
+    Let me die broken-hearted rather!
+
+    LYDIA.                            But
+    You need not be an idle gentleman.
+    I call you one of Nature's gentlemen.
+
+    CASHEL. That's the collection for the loser, Lydia.
+    I am not wont to need it. When your friends
+    Contest elections, and at foot o' th' poll
+    Rue their presumption, 'tis their wont to claim
+    A moral victory. In a sort they are
+    Nature's M. P.s. I am not yet so threadbare
+    As to accept these consolation stakes.
+
+    LYDIA. You are offended with me.
+
+    CASHEL.                          Yes, I am.
+    I can put up with much; but--"Nature's gentleman"!
+    I thank your ladyship of Lyons, but
+    Must beg to be excused.
+
+    LYDIA.                  But surely, surely,
+    To be a prizefighter, and maul poor mariners
+    With naked knuckles, is no work for you.
+
+    CASHEL. Thou dost arraign the inattentive Fates
+    That weave my thread of life in ruder patterns
+    Than these that lie, antimacassarly,
+    Asprent thy drawingroom. As well demand
+    Why I at birth chose to begin my life
+    A speechless babe, hairless, incontinent,
+    Hobbling upon all fours, a nurse's nuisance?
+    Or why I do propose to lose my strength,
+    To blanch my hair, to let the gums recede
+    Far up my yellowing teeth, and finally
+    Lie down and moulder in a rotten grave?
+    Only one thing more foolish could have been,
+    And that was to be born, not man, but woman.
+    This was thy folly, why rebuk'st thou mine?
+
+    LYDIA. These are not things of choice.
+
+    CASHEL.                                And did I choose
+    My quick divining eye, my lightning hand,
+    My springing muscle and untiring heart?
+    Did I implant the instinct in the race
+    That found a use for these, and said to me,
+    Fight for us, and be fame and fortune thine?
+
+    LYDIA. But there are other callings in the world.
+
+    CASHEL. Go tell thy painters to turn stockbrokers,
+    Thy poet friends to stoop o'er merchants' desks
+    And pen prose records of the gains of greed.
+    Tell bishops that religion is outworn,
+    And that the Pampa to the horsebreaker
+    Opes new careers. Bid the professor quit
+    His fraudulent pedantries, and do i' the world
+    The thing he would teach others. Then return
+    To me and say: Cashel: they have obeyed;
+    And on that pyre of sacrifice I, too,
+    Will throw my championship.
+
+    LYDIA.                      But 'tis so cruel.
+
+    CASHEL. Is it so? I have hardly noticed that,
+    So cruel are all callings. Yet this hand,
+    That many a two days' bruise hath ruthless given,
+    Hath kept no dungeon locked for twenty years,
+    Hath slain no sentient creature for my sport.
+    I am too squeamish for your dainty world,
+    That cowers behind the gallows and the lash,
+    The world that robs the poor, and with their spoil
+    Does what its tradesmen tell it. Oh, your ladies!
+    Sealskinned and egret-feathered; all defiance
+    To Nature; cowering if one say to them
+    "What will the servants think?" Your gentlemen!
+    Your tailor-tyrannized visitors of whom
+    Flutter of wing and singing in the wood
+    Make chickenbutchers. And your medicine men!
+    Groping for cures in the tormented entrails
+    Of friendly dogs. Pray have you asked all these
+    To change their occupations? Find you mine
+    So grimly crueller? I cannot breathe
+    An air so petty and so poisonous.
+
+    LYDIA. But find you not their manners very nice?
+
+    CASHEL. To me, perfection. Oh, they condescend
+    With a rare grace. Your duke, who condescends
+    Almost to the whole world, might for a Man
+    Pass in the eyes of those who never saw
+    The duke capped with a prince. See then, ye gods,
+    The duke turn footman, and his eager dame
+    Sink the great lady in the obsequious housemaid!
+    Oh, at such moments I could wish the Court
+    Had but one breadbasket, that with my fist
+    I could make all its windy vanity
+    Gasp itself out on the gravel. Fare you well.
+    I did not choose my calling; but at least
+    I can refrain from being a gentleman.
+
+    LYDIA. You say farewell to me without a pang.
+
+    CASHEL. My calling hath apprenticed me to pangs.
+    This is a rib-bender; but I can bear it.
+    It is a lonely thing to be a champion.
+
+    LYDIA. It is a lonelier thing to be a woman.
+
+    CASHEL. Be lonely then. Shall it be said of thee
+    That for his brawn thou misalliance mad'st
+    Wi' the Prince of Ruffians? Never. Go thy ways;
+    Or, if thou hast nostalgia of the mud,
+    Wed some bedoggéd wretch that on the slot
+    Of gilded snobbery, _ventre à terre_,
+    Will hunt through life with eager nose on earth
+    And hang thee thick with diamonds. I am rich;
+    But all my gold was fought for with my hands.
+
+    LYDIA. What dost thou mean by rich?
+
+    CASHEL.                           There is a man,
+    Hight Paradise, vaunted unconquerable,
+    Hath dared to say he will be glad to hear from me.
+    I have replied that none can hear from _me_
+    Until a thousand solid pounds be staked.
+    His friends have confidently found the money.
+    Ere fall of leaf that money shall be mine;
+    And then I shall possess ten thousand pounds.
+    I had hoped to tempt thee with that monstrous sum.
+
+    LYDIA. Thou silly Cashel, 'tis but a week's income.
+    I did propose to give thee three times that
+    For pocket money when we two were wed.
+
+    CASHEL. Give me my hat. I have been fooling here.
+    Now, by the Hebrew lawgiver, I thought
+    That only in America such revenues
+    Were decent deemed. Enough. My dream is dreamed.
+    Your gold weighs like a mountain on my chest.
+    Farewell.
+
+    LYDIA. The golden mountain shall be thine
+    The day thou quit'st thy horrible profession.
+
+    CASHEL. Tempt me not, woman. It is honor calls.
+    Slave to the Ring I rest until the face
+    Of Paradise be changed.
+
+                  _Enter_ BASHVILLE
+
+    BASHVILLE.              Madam, your carriage,
+    Ordered by you at two. 'Tis now half-past.
+
+    CASHEL. Sdeath! is it half-past two? The king! the king!
+
+    LYDIA. The king! What mean you?
+
+    CASHEL.                         I must meet a monarch
+    This very afternoon at Islington.
+
+    LYDIA. At Islington! You must be mad.
+
+    CASHEL.                               A cab!
+    Go call a cab; and let a cab be called;
+    And let the man that calls it be thy footman.
+
+    LYDIA. You are not well. You shall not go alone.
+    My carriage waits. I must accompany you.
+    I go to find my hat.      [_Exit._
+
+    CASHEL.             Like Paracelsus,
+    Who went to find his soul. [_To_ BASHVILLE.] And now, young man,
+    How comes it that a fellow of your inches,
+    So deft a wrestler and so bold a spirit,
+    Can stoop to be a flunkey? Call on me
+    On your next evening out. I'll make a man of you.
+    Surely you are ambitious and aspire----
+
+    BASHVILLE. To be a butler and draw corks; wherefore,
+    By Heaven, I will draw yours.
+
+    [_He hits_ CASHEL _on the nose, and runs out_.
+
+    CASHEL [_thoughtfully putting the side of his forefinger
+    to his nose_, _and studying the blood on it_].
+
+        Too quick for _me_!
+    There's money in this youth.
+
+    _Re-enter_ LYDIA, _hatted and gloved_.
+
+    LYDIA.                      O Heaven! you bleed.
+
+    CASHEL. Lend me a key or other frigid object,
+    That I may put it down my back, and staunch
+    The welling life stream.
+
+    LYDIA. [_giving him her keys_]. Oh, what _have_ you done?
+
+    CASHEL. Flush on the boko napped your footman's left.
+
+    LYDIA. I do not understand.
+
+    CASHEL.                     True. Pardon me.
+    I have received a blow upon the nose
+    In sport from Bashville. Next, ablution; else
+    I shall be total gules.      [_He hurries out._
+
+    LYDIA.                  How well he speaks!
+    There is a silver trumpet in his lips
+    That stirs me to the finger ends. His nose
+    Dropt lovely color: 'tis a perfect blood.
+    I would 'twere mingled with mine own!
+
+                  _Enter_ BASHVILLE
+
+                                          What now?
+
+    BASHVILLE. Madam, the coachman can no longer wait:
+    The horses will take cold.
+
+    LYDIA.                    I do beseech him
+    A moment's grace. Oh, mockery of wealth!
+    The third class passenger unchidden rides
+    Whither and when he will: obsequious trams
+    Await him hourly: subterranean tubes
+    With tireless coursers whisk him through the town;
+    But we, the rich, are slaves to Houyhnhnms:
+    We wait upon their colds, and frowst all day
+    Indoors, if they but cough or spurn their hay.
+
+    BASHVILLE. Madam, an omnibus to Euston Road,
+    And thence t' th' Angel--
+
+                  _Enter_ CASHEL
+
+    LYDIA.                    Let us haste, my love:
+    The coachman is impatient.
+
+    CASHEL.                    Did he guess
+    He stays for Cashel Byron, he'd outwait
+    Pompei's sentinel. Let us away.
+    This day of deeds, as yet but half begun,
+    Must ended be in merrie Islington.      [_Exeunt_ LYDIA _and_ CASHEL.
+
+    BASHVILLE. Gods! how she hangs on's arm! I am alone.
+    Now let me lift the cover from my soul.
+    O wasted humbleness! Deluded diffidence!
+    How often have I said, Lie down, poor footman:
+    She'll never stoop to thee, rear as thou wilt
+    Thy powder to the sky. And now, by Heaven,
+    She stoops below me; condescends upon
+    This hero of the pothouse, whose exploits,
+    Writ in my character from my last place,
+    Would damn me into ostlerdom. And yet
+    There's an eternal justice in it; for
+    By so much as the ne'er subduéd Indian
+    Excels the servile negro, doth this ruffian
+    Precedence take of me. "_Ich dien._" Damnation!
+    I serve. My motto should have been, "I scalp."
+    And yet I do not bear the yoke for gold.
+    Because I love her I have blacked her boots;
+    Because I love her I have cleaned her knives,
+    Doing in this the office of a boy,
+    Whilst, like the celebrated maid that milks
+    And does the meanest chares, I've shared the passions
+    Of Cleopatra. It has been my pride
+    To give her place the greater altitude
+    By lowering mine, and of her dignity
+    To be so jealous that my cheek has flamed
+    Even at the thought of such a deep disgrace
+    As love for such a one as I would be
+    For such a one as she; and now! and now!
+    A prizefighter! O irony! O bathos!
+    To have made way for this! Oh, Bashville, Bashville:
+    Why hast thou thought so lowly of thyself,
+    So heavenly high of her? Let what will come,
+    My love must speak: 'twas my respect was dumb.
+
+
+                       SCENE II
+
+    _The Agricultural Hall in Islington, crowded with spectators.
+    In the arena a throne, with a boxing ring
+    before it. A balcony above on the right_, _occupied
+    by persons of fashion_: _among others_, LYDIA _and_
+    LORD WORTHINGTON.
+
+    _Flourish._ _Enter_ LUCIAN _and_ CETEWAYO, _with Chiefs in attendance_.
+
+    CETEWAYO. Is this the Hall of Husbandmen?
+
+    LUCIAN.                                   It is.
+
+    CETEWAYO. Are these anæmic dogs the English people?
+
+    LUCIAN. Mislike us not for our complexions,
+    The pallid liveries of the pall of smoke
+    Belched by the mighty chimneys of our factories,
+    And by the million patent kitchen ranges
+    Of happy English homes.
+
+    CETEWAYO.               When first I came
+    I deemed those chimneys the fuliginous altars
+    Of some infernal god. I now perceive
+    The English dare not look upon the sky.
+    They are moles and owls: they call upon the soot
+    To cover them.
+
+    LUCIAN.       You cannot understand
+    The greatness of this people, Cetewayo.
+    You are a savage, reasoning like a child.
+    Each pallid English face conceals a brain
+    Whose powers are proven in the works of Newton
+    And in the plays of the immortal Shakespear.
+    There is not one of all the thousands here
+    But, if you placed him naked in the desert,
+    Would presently construct a steam engine,
+    And lay a cable t' th' Antipodes.
+
+    CETEWAYO. Have I been brought a million miles by sea
+    To learn how men can lie! Know, Father Webber,
+    Men become civilized through twin diseases,
+    Terror and Greed to wit: these two conjoined
+    Become the grisly parents of Invention.
+    Why does the trembling white with frantic toil
+    Of hand and brain produce the magic gun
+    That slays a mile off, whilst the manly Zulu
+    Dares look his foe i' the face; fights foot to foot;
+    Lives in the present; drains the Here and Now;
+    Makes life a long reality, and death
+    A moment only! whilst your Englishman
+    Glares on his burning candle's winding-sheets,
+    Counting the steps of his approaching doom.
+    And in the murky corners ever sees
+    Two horrid shadows, Death and Poverty:
+    In the which anguish an unnatural edge
+    Comes on his frighted brain, which straight devises
+    Strange frauds by which to filch unearnéd gold,
+    Mad crafts by which to slay unfacéd foes,
+    Until at last his agonized desire
+    Makes possibility its slave. And then--
+    Horrible climax! All-undoing spite!--
+    Th' importunate clutching of the coward's hand
+    From wearied Nature Devastation's secrets
+    Doth wrest; when straight the brave black-livered man
+    Is blown explosively from off the globe;
+    And Death and Dread, with their white-livered slaves
+    O'er-run the earth, and through their chattering teeth
+    Stammer the words "Survival of the Fittest."
+    Enough of this: I came not here to talk.
+    Thou say'st thou hast two white-faced ones who dare
+    Fight without guns, and spearless, to the death.
+    Let them be brought.
+
+    LUCIAN.             They fight not to the death,
+    But under strictest rules: as, for example,
+    Half of their persons shall not be attacked;
+    Nor shall they suffer blows when they fall down,
+    Nor stroke of foot at any time. And, further,
+    That frequent opportunities of rest
+    With succor and refreshment be secured them.
+
+    CETEWAYO. Ye gods, what cowards! Zululand, my Zululand:
+    Personified Pusillanimity
+    Hath ta'en thee from the bravest of the brave!
+
+    LUCIAN. Lo, the rude savage whose untutored mind
+    Cannot perceive  self-evidence, and doubts
+    That Brave and English mean the self-same thing!
+
+    CETEWAYO. Well, well, produce these heroes. I surmise
+    They will be carried by their nurses, lest
+    Some barking dog or bumbling bee should scare them.
+
+    CETEWAYO _takes his state_. _Enter_ PARADISE
+
+    LYDIA. What hateful wretch is this whose mighty thews
+    Presage destruction to his adversaries?
+
+    LORD WORTHINGTON. 'Tis Paradise.
+
+    LYDIA.                           He of whom Cashel spoke?
+    A dreadful thought ices my heart. Oh, why
+    Did Cashel leave us at the door?
+
+                  _Enter_ CASHEL
+
+    LORD WORTHINGTON. Behold!
+    The champion comes.
+
+    LYDIA.             Oh, I could kiss him now,
+    Here, before all the world. His boxing things
+    Render him most attractive. But I fear
+    Yon villain's fists may maul him.
+
+    WORTHINGTON.                      Have no fear.
+    Hark! the king speaks.
+
+    CETEWAYO.             Ye sons of the white queen:
+    Tell me your names and deeds ere ye fall to.
+
+    PARADISE. Your royal highness, you beholds a bloke
+    What gets his living honest by his fists.
+    I may not have the polish of some toffs
+    As I could mention on; but up to now
+    No man has took my number down. I scale
+    Close on twelve stun; my age is twenty-three;
+    And at Bill Richardson's Blue Anchor pub
+    Am to be heard of any day by such
+    As likes the job. I don't know, governor,
+    As ennythink remains for me to say.
+
+    CETEWAYO. Six wives and thirty oxen shalt thou have
+    If on the sand thou leave thy foeman dead.
+    Methinks he looks scornfully on thee.
+    [_To_ CASHEL] Ha! dost thou not so?
+
+    CASHEL.                          Sir, I do beseech you
+    To name the bone, or limb, or special place
+    Where you would have me hit him with this fist.
+
+    CETEWAYO. Thou hast a noble brow; but much I fear
+    Thine adversary will disfigure it.
+
+    CASHEL. There's a divinity that shapes our ends
+    Rough hew them how we will. Give me the gloves.
+
+    THE MASTER OF THE REVELS. Paradise, a professor.
+    Cashel Byron,
+    Also professor. Time!      [_They spar._
+
+    LYDIA.                Eternity
+    It seems to me until this fight be done.
+
+    CASHEL. Dread monarch: this is called the upper cut,
+    And this a hook-hit of mine own invention.
+    The hollow region where I plant this blow
+    Is called the mark. My left, you will observe,
+    I chiefly use for long shots: with my right
+    Aiming beside the angle of the jaw
+    And landing with a certain delicate screw
+    I without violence knock my foeman out.
+    Mark how he falls forward upon his face!
+    The rules allow ten seconds to get up;
+    And as the man is still quite silly, I
+    Might safely finish him; but my respect
+    For your most gracious majesty's desire
+    To see some further triumphs of the science
+    Of self-defence postpones awhile his doom.
+
+    PARADISE. How can a bloke do hisself proper justice
+    With pillows on his fists?
+
+    [_He tears off his gloves and attacks_ CASHEL _with his bare knuckles_.
+
+    THE CROWD.                  Unfair! The rules!
+
+    CETEWAYO. The joy of battle surges boiling up
+    And bids me join the mellay. Isandhlana
+    And Victory!      [_He falls on the bystanders._
+
+    THE CHIEFS. Victory and Isandhlana!
+
+    [_They run amok. General panic and stampede. The ring is swept away._
+
+    LUCIAN. Forbear these most irregular proceedings.
+    Police! Police!
+
+    [_He engages_ CETEWAYO _his umbrella_. _The balcony
+    comes down with a crash. Screams from its
+    occupants. Indescribable confusion._
+
+    CASHEL [_dragging_ LYDIA _from the struggling heap_].
+    My love, my love, art hurt?
+
+    LYDIA. No, no; but save my sore o'ermatchéd cousin.
+
+    A POLICEMAN. Give us a lead, sir. Save the English flag.
+    Africa tramples on it.
+
+    CASHEL.                Africa!
+    Not all the continents whose mighty shoulders
+    The dancing diamonds of the seas bedeck
+    Shall trample on the blue with spots of white.
+    Now, Lydia, mark thy lover.      [_He charges the Zulus._
+
+    LYDIA.                      Hercules
+    Cannot withstand him. See: the king is down;
+    The tallest chief is up, heels over head,
+    Tossed corklike o'er my Cashel's sinewy back;
+    And his lieutenant all deflated gasps
+    For breath upon the sand. The others fly
+    In vain: his fist o'er magic distances
+    Like a chameleon's tongue shoots to its mark;
+    And the last African upon his knees
+    Sues piteously for quarter. [_Rushing into_ CASHEL'S _arms_.]
+    Oh, my hero: Thou'st saved us all this day.
+
+    CASHEL.                       'Twas all for thee.
+
+    CETEWAYO. [_trying to rise_]. Have I been struck  by lightning?
+
+    LUCIAN.                                          Sir, your conduct
+    Can only be described as most ungentlemanly.
+
+    POLICEMAN. One of the prone is white.
+
+    CASHEL.                               'Tis Paradise.
+
+    POLICEMAN. He's choking: he has something in his mouth.
+
+    LYDIA [_to_ CASHEL]. Oh Heaven! there is blood upon your hip.
+    You're hurt.
+
+    CASHEL.     The morsel in yon wretch's mouth
+    Was bitten out of me.
+
+    [_Sensation._ LYDIA _screams and swoons in_ CASHEL'S _arms_.
+
+
+
+
+                          ACT III
+
+         _Wiltstoken. A room in the Warren Lodge_
+
+           LYDIA _at her writing table_
+
+
+    LYDIA. O Past and Present, how ye do conflict
+    As here I sit writing my father's life!
+    The autumn woodland woos me from without
+    With whispering of leaves and dainty airs
+    To leave this fruitless haunting of the past.
+    My father was a very learnéd man.
+    I sometimes think I shall oldmaided be
+    Ere I unlearn the things he taught to me.
+
+                  _Enter_ POLICEMAN
+
+    POLICEMAN. Asking your ladyship to pardon me
+    For this intrusion, might I be so bold
+    As ask a question of your people here
+    Concerning the Queen's peace?
+
+    LYDIA.                       My people here
+    Are but a footman and a simple maid;
+    And both have craved a holiday to join
+    Some local festival. But, sir, your helmet
+    Proclaims the Metropolitan Police.
+
+    POLICEMAN. Madam, it does; and I may now inform you
+    That what you term a local festival
+    Is a most hideous outrage 'gainst the law,
+    Which we to quell from London have come down:
+    In short, a prizefight. My sole purpose here
+    Is to inquire whether your ladyship
+    Any bad characters this afternoon
+    Has noted in the neighborhood.
+
+    LYDIA.                        No, none, sir.
+    I had not let my maid go forth to-day
+    Thought I the roads unsafe.
+
+    POLICEMAN.                  Fear nothing, madam:
+    The force protects the fair. My mission here
+    Is to wreak ultion for the broken law.
+    I wish your ladyship good afternoon.
+
+    LYDIA. Good afternoon.      [_Exit_ POLICEMAN.
+                          A prizefight! O my heart!
+    Cashel: hast thou deceived me? Can it be
+    Thou hast backslidden to the hateful calling
+    I asked thee to eschew?
+                            O wretched maid,
+    Why didst thou flee from London to this place
+    To write thy father's life, whenas in town
+    Thou might'st have kept a guardian eye on him--
+    What's that? A flying footstep--
+
+                  _Enter_ CASHEL
+
+    CASHEL.                           Sanctuary!
+    The law is on my track. What! Lydia here!
+
+    LYDIA. Ay: Lydia here. Hast thou done murder, then,
+    That in so horrible a guise thou comest?
+
+    CASHEL. Murder! I would I had. Yon cannibal
+    Hath forty thousand lives; and I have ta'en
+    But thousands thirty-nine. I tell thee, Lydia,
+    On the impenetrable sarcolobe
+    That holds his seedling brain these fists have pounded
+    By Shrewsb'ry clock an hour. This bruiséd grass
+    And cakéd mud adhering to my form
+    I have acquired in rolling on the sod
+    Clinched in his grip. This scanty reefer coat
+    For decency snatched up as fast I fled
+    When the police arrived, belongs to Mellish.
+    'Tis all too short; hence my display of rib
+    And forearm mother-naked. Be not wroth
+    Because I seem to wink at you: by Heaven,
+    'Twas Paradise that plugged me in the eye
+    Which I perforce keep closing. Pity me,
+    My training wasted and my blows unpaid,
+    Sans stakes, sans victory, sans everything
+    I had hoped to win. Oh, I could sit me down
+    And weep for bitterness.
+
+    LYDIA.                  Thou wretch, begone.
+
+    CASHEL. Begone!
+
+    LYDIA.          I say begone. Oh, tiger's heart
+    Wrapped in a young man's hide, canst thou not live
+    In love with Nature and at peace with Man?
+    Must thou, although thy hands were never made
+    To blacken others' eyes, still batter at
+    The image of Divinity? I loathe thee.
+    Hence from my house and never see me more.
+
+    CASHEL. I go. The meanest lad on thy estate
+    Would not betray me thus. But 'tis no matter.      [_He opens the door._
+    Ha! the police. I'm lost.      [_He shuts the door again._
+                              Now shalt thou see
+    My last fight fought. Exhausted as I am,
+    To capture me will cost the coppers dear.
+    Come one, come all!
+
+    LYDIA.              Oh, hide thee, I implore:
+    I cannot see thee hunted down like this.
+    There is my room. Conceal thyself therein.
+    Quick, I command.      [_He goes into the room._
+                      With horror I foresee,
+    Lydia, that never lied, must lie for thee.
+
+    _Enter_ POLICEMAN, _with_ PARADISE _and_ MELLISH _in
+    custody_, BASHVILLE, _constable_s, _and others_
+
+    POLICEMAN. Keep back your bruiséd prisoner lest he shock
+    This wellbred lady's nerves. Your pardon, ma'am;
+    But have you seen by chance the other one?
+    In this direction he was seen to run.
+
+    LYDIA. A man came here anon with bloody hands
+    And aspect that did turn my soul to snow.
+
+    POLICEMAN. 'Twas he. What said he?
+
+    LYDIA.                             Begged for sanctuary.
+    I bade the man begone.
+
+    POLICEMAN.            Most properly.
+    Saw you which way he went?
+
+    LYDIA.                     I cannot tell.
+
+    PARADISE. He seen me coming; and he done a bunk.
+
+    POLICEMAN. Peace, there. Excuse his damaged features, lady:
+    He's Paradise; and this one's Byron's trainer,
+    Mellish.
+
+    MELLISH. Injurious copper, in thy teeth
+    I hurl the lie. I am no trainer, I.
+    My father, a respected missionary,
+    Apprenticed me at fourteen years of age
+    T' the poetry writing. To these woods I came
+    With Nature to commune. My revery
+    Was by a sound of blows rudely dispelled.
+    Mindful of what my sainted parent taught,
+    I rushed to play the peacemaker, when lo!
+    These minions of the law laid hands on me.
+
+    BASHVILLE. A lovely woman, with distracted cries,
+    In most resplendent fashionable frock,
+    Approaches like a wounded antelope.
+
+                  _Enter_ ADELAIDE GISBORNE
+
+    ADELAIDE. Where is my Cashel? Hath he been arrested?
+
+    POLICEMAN. I would I had thy Cashel by the collar:
+    He hath escaped me.
+
+    ADELAIDE.           Praises be for ever!
+
+    LYDIA. Why dost thou call the missing man _thy_ Cashel?
+
+    ADELAIDE. He is mine only son.
+
+    ALL.                           Thy son!
+
+    ADELAIDE.                               My son.
+
+    LYDIA. I thought his mother hardly would have known him,
+    So crushed his countenance.
+
+    ADELAIDE.                   A ribald peer,
+    Lord Worthington by name, this morning came
+    With honeyed words beseeching me to mount
+    His four-in-hand, and to the country hie
+    To see some English sport. Being by nature
+    Frank as a child, I fell into the snare,
+    But took so long to dress that the design
+    Failed of its full effect; for not until
+    The final round we reached the horrid scene.
+    Be silent all; for now I do approach
+    My tragedy's catastrophe. Know, then,
+    That Heaven did bless me with an only son,
+    A boy devoted to his doting mother----
+
+    POLICEMAN. Hark! did you hear an oath from yonder room?
+
+    ADELAIDE. Respect a  broken-hearted mother's grief,
+    And do not interrupt me in my scene.
+    Ten years ago my darling disappeared
+    (Ten dreary twelvemonths of continuous tears,
+    Tears that have left me prematurely aged;
+    For I am younger far than I appear).
+    Judge of my anguish when to-day I saw
+    Stripped to the waist, and fighting like a demon
+    With one who, whatsoe'er his humble virtues,
+    Was clearly not a gentleman, my son!
+
+    ALL. O strange event! O passing tearful tale!
+
+    ADELAIDE. I thank you from the bottom of my heart
+    For the reception you have given my woe;
+    And now I ask, where is my wretched son?
+    He must at once come home with me, and quit
+    A course of life that cannot be allowed.
+
+                  _Enter_ CASHEL
+
+    CASHEL. Policeman: I do yield me to the law.
+
+    LYDIA. Oh, no.
+
+    ADELAIDE.      My son!
+
+    CASHEL.               My mother! Do not kiss me.
+    My visage is too sore.
+
+    POLICEMAN.             The lady hid him.
+    This is a regular plant. You cannot be
+    Up to that sex. [_To_ CASHEL] You come along with me.
+
+    LYDIA. Fear not, my Cashel: I will bail thee out.
+
+    CASHEL. Never. I do embrace my doom with joy.
+    With Paradise in Pentonville or Portland
+    I shall feel safe: there are no mothers there.
+
+    ADELAIDE. Ungracious boy--
+
+    CASHEL.                    Constable: bear me hence.
+
+    MELLISH. Oh, let me sweetest reconcilement make
+    By calling to thy mind that moving song:--
+
+        [_Sings_] They say there is no other--
+
+    CASHEL. Forbear at once, or the next note of music
+    That falls upon thine ear shall clang in thunder
+    From the last trumpet.
+
+    ADELAIDE.               A disgraceful threat
+    To level at this virtuous old man.
+
+    LYDIA. Oh, Cashel, if thou scorn'st thy mother thus,
+    How wilt thou treat thy wife?
+
+    CASHEL.                       There spake my fate:
+    I knew you would say that. Oh, mothers, mothers,
+    Would you but let your wretched sons alone
+    Life were worth living! Had I any choice
+    In this importunate relationship?
+    None. And until that high auspicious day
+    When the millennium on an orphaned world
+    Shall dawn, and man upon his fellow look,
+    Reckless of consanguinity, my mother
+    And I within the self-same hemisphere
+    Conjointly may not dwell.
+
+    ADELAIDE.                 Ungentlemanly!
+
+    CASHEL. I am no gentleman. I am a criminal,
+    Redhanded, baseborn--
+
+    ADELAIDE.             Baseborn! Who dares say it?
+    Thou art the son and heir of Bingley Bumpkin
+    FitzAlgernon de Courcy Cashel Byron,
+    Sieur of Park Lane and Overlord of Dorset,
+    Who after three months' wedded happiness
+    Rashly fordid himself with prussic acid,
+    Leaving a tearstained note to testify
+    That having sweetly honeymooned with me,
+    He now could say, O Death, where is thy sting?
+
+    POLICEMAN. Sir: had I known your quality, this cop
+    I had averted; but it is too late.
+    The law's above us both.
+
+                  _Enter_ LUCIAN, _with an Order in Council_
+
+    LUCIAN.                 Not so, policeman
+    I bear a message from The Throne itself
+    Of fullest amnesty for Byron's past.
+    Nay, more: of Dorset deputy lieutenant
+    He is proclaimed. Further, it is decreed,
+    In memory of his glorious victory
+    Over our country's foes at Islington,
+    The flag of England shall for ever bear
+    On azure field twelve swanlike spots of white;
+    And by an exercise of feudal right
+    Too long disused in this anarchic age
+    Our sovereign doth confer on him the hand
+    Of Miss Carew, Wiltstoken's wealthy heiress.      [_General acclamation._
+
+    POLICEMAN. Was anything, sir, said about me?
+
+    LUCIAN. Thy faithful services are not forgot:
+    In future call thyself Inspector Smith.      [_Renewed acclamation._
+
+    POLICEMAN. I thank you, sir. I thank you, gentlemen.
+
+    LUCIAN. My former opposition, valiant champion,
+    Was based on the supposed discrepancy
+    Betwixt your rank and Lydia's. Here's my hand.
+
+    BASHVILLE. And I do here unselfishly renounce
+    All my pretensions to my lady's favor.      [_Sensation._
+
+    LYDIA. What, Bashville! didst thou love me?
+
+    BASHVILLE.                                  Madam: yes.
+    'Tis said: now let me leave immediately.
+
+    LYDIA. In taking, Bashville, this most tasteful course
+    You are but acting as a gentleman
+    In the like case would act. I fully grant
+    Your perfect right to make a declaration
+    Which flatters me and honors your ambition.
+    Prior attachment bids me firmly say
+    That whilst my Cashel lives, and polyandry
+    Rests foreign to the British social scheme,
+    Your love is hopeless; still, your services,
+    Made zealous by disinterested passion,
+    Would greatly add to my domestic comfort;
+    And if----
+
+    CASHEL. Excuse me. I have other views.
+    I've noted in this man such aptitude
+    For art and exercise in his defence
+    That I prognosticate for him a future
+    More glorious than my past. Henceforth I dub him
+    The Admirable Bashville, Byron's Novice;
+    And to the utmost of my mended fortunes
+    Will back him 'gainst the world at ten stone six.
+
+    ALL. Hail, Byron's Novice, champion that shall be!
+
+    BASHVILLE. Must I renounce my lovely lady's service,
+    And mar the face of man?
+
+    CASHEL.                 'Tis Fate's decree.
+    For know, rash youth, that in this star crost world
+    Fate drives us all to find our chiefest good
+    In what we _can_, and not in what we _would_.
+
+    POLICEMAN. A post-horn--hark!
+
+    CASHEL.                      What noise of wheels is this?
+
+    LORD WORTHINGTON _drives upon the scene in his four-in-hand_,
+    _and descends_
+
+    ADELAIDE. Perfidious peer!
+
+    LORD WORTHINGTON.          Sweet Adelaide----
+
+    ADELAIDE.                                     Forbear,
+    Audacious one: my name is Mrs. Byron.
+
+    LORD WORTHINGTON. Oh, change that title for the sweeter one
+    Of Lady Worthington.
+
+    CASHEL.             Unhappy man,
+    You know not what you do.
+
+    LYDIA.                   Nay, 'tis a match
+    Of most auspicious promise. Dear Lord Worthington,
+    You tear from us our mother-in-law--
+
+    CASHEL.                              Ha! true.
+
+    LYDIA.--but we will make the sacrifice. She blushes:
+    At least she very prettily produces
+    Blushing's effect.
+
+    ADELAIDE.        My lord: I do accept you.  [_They embrace. Rejoicings._
+
+    CASHEL [_aside_]. It wrings my heart to see my noble backer
+    Lay waste his future thus. The world's a chessboard,
+    And we the merest pawns in fist of Fate.
+    [_Aloud._] And now, my friends, gentle and simple both,
+    Our scene draws to a close. In lawful course
+    As Dorset's deputy lieutenant I
+    Do pardon all concerned this afternoon
+    In the late gross and brutal exhibition
+    Of miscalled sport.
+
+    LYDIA [_throwing herself into his arms_]. Your boats
+    are burnt at last.
+
+    CASHEL. This is the face that burnt a thousand boats,
+    And ravished Cashel Byron from the ring.
+    But to conclude. Let William Paradise
+    Devote himself to science, and acquire,
+    By studying the player's speech in Hamlet,
+    A more refined address. You, Robert Mellish,
+    To the Blue Anchor hostelry attend him;
+    Assuage his hurts, and bid Bill Richardson
+    Limit his access to the fatal tap.
+    Now mount we on my backer's four-in-hand,
+    And to St. George's Church, whose portico
+    Hanover Square shuts off from Conduit Street,
+    Repair we all. Strike up the wedding march;
+    And, Mellish, let thy melodies trill forth
+    Broad o'er the wold as fast we bowl along.
+    Give me the post-horn. Loose the flowing rein;
+    And up to London drive with might and main.      [_Exeunt._
+
+
+
+
+NOTE ON MODERN PRIZEFIGHTING
+
+
+In 1882, when this book was written, prizefighting seemed to be dying
+out. Sparring matches with boxing gloves, under the Queensberry rules,
+kept pugilism faintly alive; but it was not popular, because the public,
+which cares only for the excitement of a strenuous fight, believed then
+that the boxing glove made sparring as harmless a contest of pure skill
+as a fencing match with buttoned foils. This delusion was supported by
+the limitation of the sparring match to boxing. In the prize-ring under
+the old rules a combatant might trip, hold, or throw his antagonist; so
+that each round finished either with a knockdown blow, which, except
+when it is really a liedown blow, is much commoner in fiction than it
+was in the ring, or with a visible body-to-body struggle ending in a
+fall. In a sparring match all that happens is that a man with a watch in
+his hand cries out "Time!" whereupon the two champions prosaically stop
+sparring and sit down for a minute's rest and refreshment. The
+unaccustomed and inexpert spectator in those days did not appreciate the
+severity of the exertion or the risk of getting hurt: he underrated them
+as ignorantly as he would have overrated the more dramatically obvious
+terrors of a prizefight. Consequently the interest in the annual
+sparrings for the Queensberry Championships was confined to the few
+amateurs who had some critical knowledge of the game of boxing, and to
+the survivors of the generation for which the fight between Sayers and
+Heenan had been described in The Times as solemnly as the University
+Boat Race. In short, pugilism was out of fashion because the police had
+suppressed the only form of it which fascinated the public by its
+undissembled pugnacity.
+
+All that was needed to rehabilitate it was the discovery that the glove
+fight is a more trying and dangerous form of contest than the old
+knuckle fight. Nobody knew that then: everybody knows it, or ought to
+know it, now. And, accordingly, pugilism is more prosperous to-day than
+it has ever been before.
+
+How far this result was foreseen by the author of the Queensberry Rules,
+which superseded those of the old prize-ring, will probably never be
+known. There is no doubt that they served their immediate turn
+admirably. That turn was, the keeping alive of boxing in the teeth of
+the law against prizefighting. Magistrates believed, as the public
+believed, that when men's knuckles were muffled in padded gloves; when
+they were forbidden to wrestle or hold one another; when the duration of
+a round was fixed by the clock, and the number of rounds limited to what
+seems (to those who have never tried) to be easily within the limits of
+ordinary endurance; and when the traditional interval for rest between
+the rounds was doubled, that then indeed violence must be checkmated, so
+that the worst the boxers could do was to "spar for points" before three
+gentlemanly members of the Stock Exchange, who would carefully note the
+said points on an examination paper at the ring side, awarding marks
+only for skill and elegance, and sternly discountenancing the claims of
+brute force. It may be that both the author of the rules and the
+"judges" who administered them in the earlier days really believed all
+this; for, as far as I know, the limit of an amateur pugilist's romantic
+credulity has never yet been reached and probably never will. But if so,
+their good intentions were upset by the operation of a single new rule.
+Thus.
+
+In the old prize-ring a round had no fixed duration. It was terminated
+by the fall of one of the combatants (in practice usually both of them),
+and was followed by an interval of half a minute for recuperation. The
+practical effect of this was that a combatant could always get a respite
+of half a minute whenever he wanted it by pretending to be knocked down:
+"finding the earth the safest place," as the old phrase went. For this
+the Marquess of Queensberry substituted a rule that a round with the
+gloves should last a specified time, usually three or four minutes, and
+that a combatant who did not stand up to his opponent continuously
+during that time (ten seconds being allowed for rising in the event of a
+knock-down) lost the battle. That unobtrusively slipped-in ten seconds
+limit has produced the modern glove fight. Its practical effect is that
+a man dazed by a blow or a fall for, say, twelve seconds, which would
+not have mattered in an old-fashioned fight with its thirty seconds
+interval,[1] has under the Queensberry rules either to lose or else
+stagger to his feet in a helpless condition and be eagerly battered into
+insensibility by his opponent before he can recover his powers of
+self-defence. The notion that such a battery cannot be inflicted with
+boxing gloves is only entertained by people who have never used them or
+seen them used. I may say that I have myself received, in an accident, a
+blow in the face, involving two macadamized holes in it, more violent
+than the most formidable pugilist could have given me with his bare
+knuckles. This blow did not stun or disable me even momentarily. On the
+other hand, I have seen a man knocked quite silly by a tap from the most
+luxurious sort of boxing glove made, wielded by a quite unathletic
+literary man sparring for the first time in his life. The human jaw,
+like the human elbow, is provided, as every boxer knows, with a "funny
+bone"; and the pugilist who is lucky enough to jar that funny bone with
+a blow practically has his opponent at his mercy for at least ten
+seconds. Such a blow is called a "knock-out." The funny bone and the
+ten-seconds rule explain the development of Queensberry sparring into
+the modern knocking-out match or glove fight.
+
+[1] In a treatise on boxing by Captain Edgeworth Johnstone,
+just published, I read, "In the days of the prize-ring, fights lasted
+for hours; and the knock-out blow was unknown." This statement is a
+little too sweeping. The blow was known well enough. A veteran
+prizefighter once described to me his first experience of its curious
+effect on the senses. Only, as he had thirty seconds to recover in
+instead of ten, it did not end the battle. The thirty seconds made the
+knock-out so unlikely that the old pugilists regarded it as a rare
+accident, not worth trying for. The glove fighter tries for nothing
+else. Nevertheless knock-outs, and very dramatic ones too (Mace by King,
+for example), did occur in the prize-ring from time to time. Captain
+Edgeworth Johnstone's treatise is noteworthy in comparison with the
+earlier Badminton handbook of sparring by Mr. E. B. Michell (one of the
+Queensberry champions) as throwing over the old teaching of prize-ring
+boxing with mufflers, and going in frankly for glove fighting, or, to
+put it classically, cestus boxing.
+
+This development got its first impulse from the discovery by sparring
+competitors that the only way in which a boxer, however skilful, could
+make sure of a verdict in his favor, was by knocking his opponent out.
+This will be easily understood by any one who remembers the pugilistic
+Bench of those days. The "judges" at the competitions were invariably
+ex-champions: that is, men who had themselves won former competitions.
+Now the judicial faculty, if it is not altogether a legal fiction, is at
+all events pretty rare even among men whose ordinary pursuits tend to
+cultivate it, and to train them in dispassionateness. Among pugilists it
+is quite certainly very often non-existent. The average pugilist is a
+violent partisan, who seldom witnesses a hot encounter without getting
+much more excited than the combatants themselves. Further, he is usually
+filled with a local patriotism which makes him, if a Londoner, deem it a
+duty to disparage a provincial, and, if a provincial, to support a
+provincial at all hazards against a cockney. He has, besides, personal
+favorites on whose success he bets wildly. On great occasions like the
+annual competitions, he is less judicial and more convivial after dinner
+(when the finals are sparred) than before it. Being seldom a fine boxer,
+he often regards skill and style as a reflection on his own
+deficiencies, and applauds all verdicts given for "game" alone. When he
+is a technically good boxer, he is all the less likely to be a good
+critic, as Providence seldom lavishes two rare gifts on the same
+individual. Even if we take the sanguine and patriotic view that when
+you appoint such a man a judge, and thus stop his betting, you may
+depend on his sense of honor and responsibility to neutralize all the
+other disqualifications, they are sure to be exhibited most extremely by
+the audience before which he has to deliver his verdict. Now it takes a
+good deal of strength of mind to give an unpopular verdict; and this
+strength of mind is not necessarily associated with the bodily hardihood
+of the champion boxer. Consequently, when the strength of mind is not
+forthcoming, the audience becomes the judge, and the popular competitor
+gets the verdict. And the shortest way to the heart of a big audience is
+to stick to your man; stop his blows bravely with your nose and return
+them with interest; cover yourself and him with your own gore; and
+outlast him in a hearty punching match.
+
+It was under these circumstances that the competitors for sparring
+championships concluded that they had better decide the bouts themselves
+by knocking their opponents out, and waste no time in cultivating a
+skill and style for which they got little credit, and which actually set
+some of the judges against them. The public instantly began to take an
+interest in the sport. And so, by a pretty rapid evolution, the
+dexterities which the boxing glove and the Queensberry rules were
+supposed to substitute for the old brutalities of Sayers and Heenan were
+really abolished by them.
+
+Let me describe the process as I saw it myself. Twenty years ago a poet
+friend of mine, who, like all poets, delighted in combats, insisted on
+my sharing his interest in pugilism, and took me about to all the boxing
+competitions of the day. I was nothing loth; for, my own share of
+original sin apart, any one with a sense of comedy must find the arts of
+self-defence delightful (for a time) through their pedantry, their
+quackery, and their action and reaction between amateur romantic
+illusion and professional eye to business.
+
+The fencing world, as Molière well knew, is perhaps a more exquisite
+example of a fool's paradise than the boxing world; but it is too
+restricted and expensive to allow play for popular character in a
+non-duelling country, as the boxing world (formerly called quite
+appropriately "the Fancy") does. At all events, it was the boxing world
+that came under my notice; and as I was amused and sceptically
+observant, whilst the true amateurs about me were, for the most part,
+merely excited and duped, my evidence may have a certain value when the
+question comes up again for legislative consideration, as it assuredly
+will some day.
+
+The first competitions I attended were at the beginning of the eighties,
+at Lillie Bridge, for the Queensberry championships. There were but few
+competitors, including a fair number of gentlemen; and the style of
+boxing aimed at was the "science" bequeathed from the old prize-ring by
+Ned Donnelly, a pupil of Nat Langham. Langham had once defeated Sayers,
+and thereby taught him the tactics by which he defeated Heenan. There
+was as yet no special technique of glove fighting: the traditions and
+influence of the old ring were unquestioned and supreme; and they
+distinctly made for brains, skill, quickness, and mobility, as against
+brute violence, not at all on moral grounds, but because experience had
+proved that giants did not succeed in the ring under the old rules, and
+that crafty middle-weights did.
+
+This did not last long. The spectators did not want to see skill
+defeating violence: they wanted to see violence drawing blood and
+pounding its way to a savage and exciting victory in the shortest
+possible time (the old prizefight usually dragged on for hours, and was
+ended by exhaustion rather than by victory). So did most of the judges.
+And the public and the judges naturally had their wish; for the
+competitors, as I have already explained, soon discovered that the only
+way to make sure of a favorable verdict was to "knock out" their
+adversary. All pretence of sparring "for points": that is, for marks on
+an examination paper filled up by the judges, and representing nothing
+but impracticable academic pedantry in its last ditch, was dropped; and
+the competitions became frank fights, with abundance of blood drawn, and
+"knock-outs" always imminent. Needless to add, the glove fight soon
+began to pay. The select and thinly attended spars on the turf at Lillie
+Bridge gave way to crowded exhibitions on the hard boards of St. James's
+Hall. These were organized by the Boxing Association; and to them the
+provinces, notably Birmingham, sent up a new race of boxers whose sole
+aim was to knock their opponent insensible by a right-hand blow on the
+jaw, knowing well that no Birmingham man could depend on a verdict
+before a London audience for any less undeniable achievement.
+
+The final step was taken by an American pugilist. He threw off the last
+shred of the old hypocrisy of the gloved hand by challenging the whole
+world to produce a man who could stand before him for a specified time
+without being knocked out. His brief but glorious career completely
+re-established pugilism by giving a world-wide advertisement to the fact
+that the boxing glove spares nothing but the public conscience, and that
+as much ferocity, bloodshed, pain, and risk of serious injury or death
+can be enjoyed at a glove fight as at an old-fashioned prizefight,
+whilst the strain on the combatants is much greater. It is true that
+these horrors are greatly exaggerated by the popular imagination, and
+that if boxing were really as dangerous as bicycling, a good many of its
+heroes would give it up from simple fright; but this only means that
+there is a maximum of damage to the spectator by demoralization,
+combined with the minimum of deterrent risk to the poor scrapper in the
+ring.
+
+Poor scrapper, though, is hardly the word for a modern fashionable
+American pugilist. To him the exploits of Cashel Byron will seem
+ludicrously obscure and low-lived. The contests in which he engages are
+like Handel Festivals: they take place in huge halls before enormous
+audiences, with cinematographs hard at work recording the scene for
+reproduction in London and elsewhere. The combatants divide thousands of
+dollars of gate-money between them: indeed, if an impecunious English
+curate were to go to America and challenge the premier pugilist, the
+spectacle of a match between the Church and the Ring would attract a
+colossal crowd; and the loser's share of the gate would be a fortune to
+a curate--assuming that the curate would be the loser, which is by no
+means a foregone conclusion. At all events, it would be well worth a
+bruise or two. So my story of the Agricultural Hall, where William
+Paradise sparred for half a guinea, and Cashel Byron stood out for ten
+guineas, is no doubt read by the profession in America with amused
+contempt. In 1882 it was, like most of my conceptions, a daring
+anticipation of coming social developments, though to-day it seems as
+far out of date as Slender pulling Sackerson's chain.
+
+Of these latter-day commercial developments of glove fighting I know
+nothing beyond what I gather from the newspapers. The banging matches of
+the eighties, in which not one competitor in twenty either exhibited
+artistic skill, or, in his efforts to knock out his adversary, succeeded
+in anything but tiring and disappointing himself, were for the most part
+tedious beyond human endurance. When, after wading through Boxiana and
+the files of Bell's Life at the British Museum, I had written Cashel
+Byron's Profession, I found I had exhausted the comedy of the subject;
+and as a game of patience or solitaire was decidedly superior to an
+average spar for a championship in point of excitement, I went no more
+to the competitions. Since then six or seven generations of boxers have
+passed into peaceful pursuits; and I have no doubt that my experience is
+in some respects out of date. The National Sporting Club has arisen; and
+though I have never attended its reunions, I take its record of three
+pugilists slain as proving and enormous multiplication of contests,
+since such accidents are very rare, and in fact do not happen to
+reasonably healthy men. I am prepared to admit also that the
+disappearance of the old prize-ring technique must by this time have
+been compensated by the importation from America of a new glove-fighting
+technique; for even in a knocking-out match, brains will try conclusions
+with brawn, and finally establish a standard of skill; but I notice that
+in the leading contests in America luck seems to be on the side of
+brawn, and brain frequently finishes in a state of concussion, a loser
+after performing miracles of "science." I use the word luck advisedly;
+for one of the fascinations of boxing to the gambler (who is the main
+pillar of the sporting world) is that it is a game of hardihood,
+pugnacity and skill, all at the mercy of chance. The knock-out itself is
+a pure chance. I have seen two powerful laborers batter one another's
+jaws with all their might for several rounds apparently without giving
+one another as much as a toothache. And I have seen a winning pugilist
+collapse at a trifling knock landed by a fluke at the fatal angle. I
+once asked an ancient prizefighter what a knock-out was like when it did
+happen. He was a man of limited descriptive powers; so he simply pointed
+to the heavens and said, "Up in a balloon." An amateur pugilist, with
+greater command of language, told me that "all the milk in his head
+suddenly boiled over." I am aware that some modern glove fighters of the
+American school profess to have reduced the knock-out to a science. But
+the results of the leading American combats conclusively discredit the
+pretension. When a boxer so superior to his opponent in skill as to be
+able practically to hit him where he pleases not only fails to knock him
+out, but finally gets knocked out himself, it is clear that the
+phenomenon is as complete a mystery pugilistically as it is
+physiologically, though every pugilist and every doctor may pretend to
+understand it. It is only fair to add that it has not been proved that
+any permanent injury to the brain results from it. In any case the
+brain, as English society is at present constituted, can hardly be
+considered a vital organ.
+
+This, to the best of my knowledge, is the technical history of the
+modern revival of pugilism. It is only one more example of the fact that
+legislators, like other people, must learn their business by their own
+mistakes, and that the first attempts to suppress an evil by law
+generally intensify it. Prizefighting, though often connived at, was
+never legal. Even in its palmiest days prizefights were banished from
+certain counties by hostile magistrates, just as they have been driven
+from the United States and England to Belgium on certain occasions in
+our own time. But as the exercise of sparring, conducted by a couple of
+gentlemen with boxing gloves on, was regarded as part of a manly
+physical education, a convention grew up by which it became practically
+legal to make a citizen's nose bleed by a punch from the gloved fist,
+and illegal to do the same thing with the naked knuckles. A code of
+glove-fighting rules was drawn up by a prominent patron of pugilism; and
+this code was practically legalized by the fact that even when a death
+resulted from a contest under these rules the accessaries were not
+punished. No question was raised as to whether the principals were paid
+to fight for the amusement of the spectators, or whether a prize for the
+winner was provided in stakes, share of the gate, or a belt with the
+title of champion. These, the true criteria of prizefighting, were
+ignored; and the sole issue raised was whether the famous dictum of Dr.
+Watts, "Your little hands were never made, etc.," had been duly
+considered by providing the said little hands with a larger hitting
+surface, a longer range, and four ounces extra weight.
+
+In short, then, what has happened has been the virtual legalization of
+prizefighting under cover of the boxing glove. And this is exactly what
+public opinion desires. We do not like fighting; but we like looking on
+at fights: therefore we require a law which will punish the prizefighter
+if he hits us, and secure us the protection of the police whilst we sit
+in a comfortable hall and watch him hitting another prizefighter. And
+that is just the law we have got at present.
+
+Thus Cashel Byron's plea for a share of the legal toleration accorded to
+the vivisector has been virtually granted since he made it. The
+legalization of cruelty to domestic animals under cover of the
+anesthetic is only the extreme instance of the same social phenomenon as
+the legalization of prizefighting under cover of the boxing glove. The
+same passion explains the fascination of both practices; and in both,
+the professors--pugilists and physiologists alike--have to persuade the
+Home Office that their pursuits are painless and beneficial. But there
+is also between them the remarkable difference that the pugilist, who
+has to suffer as much as he inflicts, wants his work to be as painless
+and harmless as possible whilst persuading the public that it is
+thrillingly dangerous and destructive, whilst the vivisector wants to
+enjoy a total exemption from humane restrictions in his laboratory
+whilst persuading the public that pain is unknown there. Consequently
+the vivisector is not only crueller than the prizefighter, but, through
+the pressure of public opinion, a much more resolute and uncompromising
+liar. For this no one but a Pharisee will single him out for special
+blame. All public men lie, as a matter of good taste, on subjects which
+are considered serious (in England a serious occasion means simply an
+occasion on which nobody tells the truth); and however illogical or
+capricious the point of honor may be in man, it is too absurd to assume
+that the doctors who, from among innumerable methods of research,
+select that of tormenting animals hideously, will hesitate to come on a
+platform and tell a soothing fib to prevent the public from punishing
+them. No criminal is expected to plead guilty, or to refrain from
+pleading not guilty with all the plausibility at his command. In
+prizefighting such mendacity is not necessary: on the contrary, if a
+famous pugilist were to assure the public that a blow delivered with a
+boxing glove could do no injury and cause no pain, and the public
+believed him, the sport would instantly lose its following. It is the
+prizefighter's interest to abolish the real cruelties of the ring and to
+exaggerate the imaginary cruelties of it. It is the vivisector's
+interest to refine upon the cruelties of the laboratory, whilst
+persuading the public that his victims pass into a delicious euthanasia
+and leave behind them a row of bottles containing infallible cures for
+all the diseases. Just so, too, does the trainer of performing animals
+assure us that his dogs and cats and elephants and lions are taught
+their senseless feats by pure kindness.
+
+The public, as Julius Cæsar remarked nearly 2000 years ago, believes on
+the whole, just what it wants to believe. The laboring masses do not
+believe the false excuses of the vivisector, because they know that the
+vivisector experiments on hospital patients; and the masses belong to
+the hospital patient class. The well-to-do people who do not go to
+hospitals, and who think they benefit by the experiments made there,
+believe the vivisectors' excuses, and angrily abuse and denounce the
+anti-vivisectors. The people who "love animals," who keep pets, and
+stick pins through butterflies, support the performing dog people, and
+are sure that kindness will teach a horse to waltz. And the people who
+enjoy a fight will persuade themselves that boxing gloves do not hurt,
+and that sparring is an exercise which teaches self-control and
+exercises all the muscles in the body more efficiently than any other.
+
+My own view of prizefighting may be gathered from Cashel Byron's
+Profession, and from the play written by me more than ten years later,
+entitled Mrs. Warren's Profession. As long as society is so organized
+that the destitute athlete and the destitute beauty are forced to choose
+between underpaid drudgery as industrial producers, and comparative
+self-respect, plenty, and popularity as prizefighters and mercenary
+brides, licit or illicit, it is idle to affect virtuous indignation at
+their expense. The word prostitute should either not be used at all, or
+else applied impartially to all persons who do things for money that
+they would not do if they had any other assured means of livelihood. The
+evil caused by the prostitution of the Press and the Pulpit is so
+gigantic that the prostitution of the prize-ring, which at least makes
+no serious moral pretensions, is comparatively negligible by comparison.
+Let us not forget, however, that the throwing of a hard word such as
+prostitution does not help the persons thus vituperated out of their
+difficulty. If the soldier and gladiator fight for money, if men and
+women marry for money, if the journalist and novelist write for money,
+and the parson preaches for money, it must be remembered that it is an
+exceedingly difficult and doubtful thing for an individual to set up his
+own scruples or fancies (he cannot himself be sure which they are)
+against the demand of the community when it says, Do thus and thus, or
+starve. It was easy for Ruskin to lay down the rule of dying rather than
+doing unjustly; but death is a plain thing: justice a very obscure
+thing. How is an ordinary man to draw the line between right and wrong
+otherwise than by accepting public opinion on the subject; and what more
+conclusive expression of sincere public opinion can there be than market
+demand? Even when we repudiate that and fall back on our private
+judgment, the matter gathers doubt instead of clearness. The popular
+notion of morality and piety is to simply beg all the most important
+questions in life for other people; but when these questions come home
+to ourselves, we suddenly discover that the devil's advocate has a
+stronger case than we thought: we remember that the way of righteousness
+or death was the way of the Inquisition; that hell is paved, not with
+bad intentions, but with good ones; that the deeper seers have suggested
+that the way to save your soul is perhaps to give it away, casting your
+spiritual bread on the waters, so to speak. No doubt, if you are a man
+of genius, a Ruskin or an Ibsen, you can divine your way and finally
+force your passage. If you have the conceit of fanaticism you can die a
+martyr like Charles I. If you are a criminal, or a gentleman of
+independent means, you can leave society out of the question and prey on
+it. But if you are an ordinary person you take your bread as it comes to
+you, doing whatever you can make most money by doing. And you are really
+shewing yourself a disciplined citizen and acting with perfect social
+propriety in so doing. Society may be, and generally is, grossly wrong
+in its offer to you; and you may be, and generally are, grossly wrong
+in supporting the existing political structure; but this only means, to
+the successful modern prizefighter, that he must reform society before
+he can reform himself. A conclusion which I recommend to the
+consideration of those foolish misers of personal righteousness who
+think they can dispose of social problems by bidding reformers of
+society reform themselves first.
+
+Practically, then, the question raised is whether fighting with gloves
+shall be brought, like cockfighting, bear-baiting, and gloveless fist
+fighting, explicitly under the ban of the law. I do not propose to argue
+that question out here. But of two things I am certain. First, that
+glove fighting is quite as fierce a sport as fist fighting. Second, that
+if an application were made to the Borough Council of which I am a
+member, to hire the Town Hall for a boxing competition, I should vote
+against the applicants.
+
+This second point being evidently the practical one, I had better give
+my reason. Exhibition pugilism is essentially a branch of Art: that is
+to say, it acts and attracts by propagating feeling. The feeling it
+propagates is pugnacity. Sense of danger, dread of danger, impulse to
+batter and destroy what threatens and opposes, triumphant delight in
+succeeding: this is pugnacity, the great adversary of the social impulse
+to live and let live; to establish our rights by shouldering our share
+of the social burden; to face and examine danger instead of striking at
+it; to understand everything to the point of pardoning (and righting)
+everything; to conclude an amnesty with Nature wide enough to include
+even those we know the worst of: namely, ourselves. If two men
+quarrelled, and asked the Borough Council to lend them a room to fight
+it out in with their fists, on the ground that a few minutes' hearty
+punching of one another's heads would work off their bad blood and leave
+them better friends, each desiring, not victory, but _satisfaction_, I
+am not sure that I should not vote for compliance. But if a syndicate of
+showmen came and said, Here we have two men who have no quarrel, but who
+will, if you pay them, fight before your constituency and thereby make a
+great propaganda of pugnacity in it, sharing the profits with us and
+with you, I should indignantly oppose the proposition. And if the
+majority were against me, I should try to persuade them to at least
+impose the condition that the fight should be with naked fists under the
+old rules, so that the combatants should, like Sayers and Langham,
+depend on bunging up each other's eyes rather than, like the modern
+knocker-out, giving one another concussion of the brain.
+
+I may add, finally, that the present halting between the legal
+toleration and suppression of commercial pugilism is much worse than the
+extreme of either, because it takes away the healthy publicity and sense
+of responsibility which legality and respectability give, without
+suppressing the blackguardism which finds its opportunity in shady
+pursuits. I use the term commercial advisedly. Put a stop to boxing for
+money; and pugilism will give society no further trouble.
+
+
+LONDON, 1901.
+
+       *       *       *       *       *
+
+
+THREE PLAYS
+
+BY BRIEUX
+
+(Member of the French Academy)
+
+MATERNITY
+
+DAMAGED GOODS
+
+THE THREE DAUGHTERS OF
+MONSIEUR DUPONT
+
+WITH PREFACE BY BERNARD SHAW
+
+_Translated into English_
+
+By Mrs. BERNARD SHAW, ST. JOHN HANKIN
+and JOHN POLLOCK
+
+_12mo. Cloth, price $1.50 net_
+
+
+"In that kind of comedy," writes BERNARD SHAW, "which is so true to life
+that we have to call it tragi-comedy, and which is not only an
+entertainment but a history and a criticism of contemporary morals,
+BRIEUX is incomparably the greatest writer France has produced since
+Moliere."
+
+The three plays in this volume are a first instalment into English of
+the work of a man who has been admitted into the French Academy for his
+splendid achievements, and who is recognized by the best thinkers in
+Europe as one of the profoundest moral forces expressing itself as
+literature to-day.
+
+No earnest man or woman can read these plays without being deeply moved
+and deeply touched. One of the plays was read by Brieux himself, at the
+special invitation of the pastor, from the pulpit of a church in Geneva.
+
+
+BERNARD SHAW'S PLAYS
+
+The following Plays by Bernard Shaw are issued in separate volumes,
+bound in stiff paper wrappers.
+
+_Price 40 cents net per volume_
+
+
+WIDOWERS' HOUSES
+
+THE PHILANDERER
+
+MRS. WARREN'S PROFESSION
+
+ARMS AND THE MAN
+
+CANDIDA
+
+YOU NEVER CAN TELL
+
+THE ADMIRABLE BASHVILLE
+
+THE DEVIL'S DISCIPLE
+
+CÆSAR AND CLEOPATRA
+
+CAPTAIN BRASSBOUND'S CONVERSION
+
+MAN AND SUPERMAN
+
+JOHN BULL'S OTHER ISLAND
+
+MAJOR BARBARA
+
+THE MAN OF DESTINY, AND HOW HE LIED TO HER HUSBAND
+
+THE DOCTOR'S DILEMMA
+
+GETTING MARRIED
+
+THE SHEWING-UP OF BLANCO POSNET
+
+PRESS CUTTINGS
+
+
+BRENTANO'S
+
+Fifth Avenue and 27th Street New York
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Admirable Bashville, by Bernard Shaw
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE ADMIRABLE BASHVILLE ***
+
+***** This file should be named 33085-8.txt or 33085-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/3/0/8/33085/
+
+Produced by Chuck Greif, Fox in the Stars and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,2 +1,2 @@
-# Gutenburg_Text_Dump
+# Gutenburg_Text
 Downloads from Project Gutenberg

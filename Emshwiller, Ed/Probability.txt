@@ -1,0 +1,784 @@
+The Project Gutenberg EBook of Probability, by Louis Trimble
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Probability
+
+Author: Louis Trimble
+
+Release Date: June 8, 2010 [EBook #32739]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PROBABILITY ***
+
+
+
+
+Produced by Greg Weeks and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+    Transcriber's Note:
+
+    This etext was produced from If Worlds of Science Fiction April 1954.
+    Extensive research did not uncover any evidence that the U.S.
+    copyright on this publication was renewed.
+
+
+
+
+    _If you ever get to drinking beer in your favorite saloon and meet
+    a scared little guy who wants to buy you the joint, supply you with
+    fur coats and dolls and run you for Congress--listen well! That is,
+    if you really want the joint, the fur coats, the dolls and a seat in
+    Congress. Just ask Mike Murphy...._
+
+                     Probability
+
+                     By Louis Trimble
+
+                     Illustration by Ed Emsh
+
+
+The first time this little guy comes in I'm new on the job. He looks
+around as if he's scared a prohibition agent will pop out of the walls
+and bite him. Then he gets up his nerve and sidles to the bar. His
+voice is as thin as the rest of him.
+
+"Glass of beer."
+
+I draw. He drinks and pays and goes out.
+
+That keeps on, Monday through Friday at five-ten p.m., year in and
+year out. He slips in, peers around, has his beer, and pops out. Even
+in '33, when we become legitimate, he acts the same way--scared of his
+shadow. Except he isn't big enough to have a shadow.
+
+During the war, when we're rationed, I save him his daily glass. He
+never fails to come in except for two weeks every summer when he's on
+vacation. From 1922 to 1953 he drinks one daily beer.
+
+In thirty-one years, he and I grow older together, and after the first
+ten he talks a little so that over a period of time I manage to learn
+something about him. That first day he'd come in, he was on his first
+job out of college. Well, so was I, only I went to bartending school
+to learn how to mix prohibition liquor. But even so, it gave us
+something in common, and when he learned we had started life
+together--as he put it--he talked a little more.
+
+His name is Pettis. Six months after I learn that, I get his first
+name. It's Rabelais, and I could see why he doesn't like it. But when
+he breaks down and tells me, he gets real bold and says:
+
+"And what's yours, my male Hebe?"
+
+"Mike Murphy."
+
+"Naturally," he said. He laughs. It is the only time I hear him laugh
+in thirty-one years. I can't see anything funny.
+
+He is a draftsman for those old skinflints Cartner and Dillson. When
+they die, their sons take over and are even worse. In the depression,
+Pettis gets a little shabby but he always has the price of a glass of
+beer. In '53 he's at the same desk and doing the same job he started
+on in '22.
+
+In '35 he gets married. He tells me so. Tasting his beer, he says,
+"I'll be married this time tomorrow." I often wonder what his wife
+looks like but I never see her. Not even when it gets decent for
+ladies to come in, she never shows. Marriage doesn't seem to change
+him; he never looks happier or less shabby or less browbeat.
+
+In '42 I heard his first complaint. By then we're both getting into
+our forties and, what with his lack of size and caved-in chest and my
+insides all busted up from pre-World War I football, the army doesn't
+want us. So he never misses a day except on his vacation.
+
+He says, "I can't get raw materials." About three months later, I
+understand what he means when he says, "My hobby is inventing."
+
+In '45 I ask him, "What do you invent?"
+
+It takes him two years to decide to tell me. By now we are pretty good
+pals. He never tells anyone else that I know of. He says, "I invent
+machines. Super machines."
+
+In '48 he says, "But they don't work. Someday...."
+
+       *       *       *       *       *
+
+And in '53, on the day of our thirty-first anniversary, you might say,
+he comes in and things are different. All different. I can feel it
+when he opens the door and comes in at five-o-nine instead of
+five-ten. There is plenty more different, too. He walks up to the bar
+like it's his and roars:
+
+"Two beers, Mike!"
+
+I drop a glass I'm so surprised, but I give him two beers like he
+wants. He gulps them both down, puts a foot on the rail and looks me
+straight in the eye. His eyes are a sort of washed blue. I've never
+noticed them before.
+
+"Beer for the house!" he yells at me.
+
+"Take it easy, Mr. Pettis," I says.
+
+"Easy, hell!" he shouts and slaps a roll as big as his hand on the
+bar. "And call me Rabelais, Mike. We're pals, aren't we?"
+
+"You bet," I assures him. And I mean it. Not because of the dough.
+That makes me sweat. I can't figure where this little guy gets such a
+wad. And good money, too.
+
+He sets them up three times. By now he's feeling fine. I suggest he
+get going before he misses the last train home.
+
+"I already missed it," he says proudly. "And I'm not going home. Let
+the old battle-axe really have something to complain about. Beer,
+Mike!"
+
+[Illustration]
+
+In a way I hate to see it, but then I figure a man has a right to let
+off a little steam once every thirty-one years. Even so, I get a
+little worried when he asks for the phone and calls up his wife.
+
+He says, "Myrtle, this Rabelais. Rabelais, your husband, you old sow."
+He takes a breath and says, "You're damned right I'm drunk. And I'm
+staying that way. Go home to your mother.... Oh yes, you are. You're
+leaving on the 12:05 tomorrow and you'll eat chicken a la king on the
+train and fall asleep at Holt's Corner and snore all the way home. And
+your mother will be mad because her left fender will get dented on the
+way to the station." Bang! He hangs up.
+
+"Beer, Mike."
+
+"Now look, Mr.--Rabelais--"
+
+He ignores me. "Mike, who owns this place?"
+
+I don't, but I'd like to. I tell him who my boss is and he hunts him
+up in the phone book and calls him. He says, "This is Rabelais Pettis.
+I want to buy your Fifth Avenue Tavern. How much?... Sold!"
+
+And so help me, the boss comes down and Rabelais hauls bills from
+every pocket and lays it on the bar in a great big pile. Then he has
+the boss sign the place over to me. Me, Mike Murphy. I figure tomorrow
+when he wakes up broke I'll have to give it back. But tonight I own
+it. I'm real proud.
+
+But I don't get to enjoy it. He says, "Mike, let's do the town." Can
+you refuse a guy who just gives you a thirty thousand dollar property?
+We do the town. We do the girl shows, and he yells at all the dames
+and tries to date the usherettes until we finally get pitched out. We
+get pitched out of five before I steer him to a hash house.
+
+"Phooey," he says. "We'll go to the Buster for a steak." That's our
+fanciest place where the food starts at ten dollars. We have two of
+the biggest steaks I ever saw with champagne and stuff, and so help
+me, when Rabelais tries to date the floor show girls, instead of
+getting pitched out, we walk out with two of the cutest kids I ever
+hope to see. Only they're young enough to be our daughters or maybe
+grand-daughters even.
+
+Rabelais is big hearted if not big in any other way. He says to his
+kid, a redhead a foot taller than he, "Do you have a fur coat?"
+
+"No, Rabelais." She learns fast that he likes the name now.
+
+"Ha," he says. "Then we'll get some."
+
+"In the summer?" I asks.
+
+"We'll make it winter," Rabelais says. "I'm tired of summer. Besides
+in '56 there's a new bar in town and it's a pip."
+
+Now the three of us are halfway sober and we just look at each other
+and shrug. But Rabelais acts and talks normal enough. He calls a cab
+and has us hauled to an old cottage in the suburbs. He waves the cabby
+off with a twenty dollar bill. When we go inside, he points across the
+way. "I live there. This is my secret laboratory."
+
+We think he is kidding us some more because there isn't anything but
+dust and cobwebs in the place. But he takes us to the basement and
+there is a whole mess of junk lying around. There are bars and gears
+and wires and some stuff that doesn't make any sense at all. It has
+cobwebs and dust on it too.
+
+"My super machines," he says. "They don't work."
+
+The redhead looks a little as if she thinks he's nuts. But what can
+she do? Already he's given her a hundred dollar bill just for fun.
+
+"But," he says, leading us into another room, "this one does work."
+
+There isn't anything in the room but a big metal plate on the floor
+with a wooden bench on it and levers and rods in front of the bench.
+"Climb on," Rabelais says.
+
+We sit on the bench to humor him and he pulls one lever as far left as
+he can, then another a little ways, then another, and a fourth. Then
+he twists a rod to the right. The lights go out and a cold draft of
+air comes in through a window. When the lights come on the air is
+still cold. The girls are shivering.
+
+"Three p.m., January 12, 1956," says Rabelais. "Let's go get fur
+coats."
+
+So we go out the way we came in and it's daylight. And there's snow on
+the ground. The cottage is the same but the street is a highway now.
+Rabalais hails the fanciest looking cab I ever see and we get driven
+to town where he buys all of us fur coats in a store I never heard of.
+Then we go to a dinner club that makes the Buster look like a greasy
+spoon. None of us can say a word.
+
+After he pays the check, Rabelais says, "I'm short of cash. Let's go
+to the bank."
+
+"Banks ain't open," I remind him.
+
+"Mine is," he says and makes a phone call. Pretty soon a big fancy
+limousine with a chauffeur drives up and we all pile in. I manage to
+balk long enough to buy a newspaper. Sure enough, the date is January
+12, 1956.
+
+We go to the financial section and right past my tavern. It's all
+lighted up and fancy looking and there's a big sign saying, "MIKE'S"
+outside.
+
+Rabelais says, "You're making a mint, Mike."
+
+"I see," I agrees, dazed. Rabelais flicks the paper with a silly grin
+and tells me to look on page four. I do and there's an editorial
+beside a cartoon of me, pot belly and all, and it says, "Mayor Mike
+Murphy agrees to run for Congress...."
+
+"Me?"
+
+"You," says Rabelais. "You make it, too, Mike."
+
+Before I can answer, we stop at a building lighted up. Over the door
+it says, "Pettis." That's all. It's his, the whole building. And it's
+full of offices. He shows me one where his former bosses are slaving
+over drafting boards. The bank part is closed but some slavies are
+working late as people in banks always do and we go in and Rabelais
+gets a wad of money and we leave.
+
+It goes on like that. I'm ashamed to say we get sort of looped and the
+next thing we know we're in Paris and having a fine time. Then we take
+another flier on his machine and it's summer. We enjoy that for a
+while and then try another season. It goes on that way for a couple
+weeks. Once we accept the fact that we're traveling in time, it's
+easy.
+
+But Rabelais, even when he's looped, won't take us into the past or
+far into the future. He just says, "We have to watch probability,
+Mike."
+
+I don't get the idea but it doesn't seem to matter much. We're having
+too good a time kicking around in the near future. Finally when we all
+feel ready for a Keeley cure, Rabelais takes us home. We land in the
+basement at the very moment we left it but with our fur coats and
+fancy luggage and souvenirs. Rabelais looks over all the gadgets we
+have and those that are too much ahead of our time, he throws away.
+
+In a taxi heading for town, I smoke my dollar cigar. I'm happy. The
+girls are quiet, a little sad.
+
+"It was fun," the redhead sighs. "Kicking won't seem the same."
+
+"Quit that kind of work," Rabelais says. "Go to college or something."
+And he hands each of them a big wad of money.
+
+Downtown we split up, each of us going off somewhere to get the rest
+we need. I sleep around the clock and a little more. When I wake up
+I'm the owner of a tavern still, so I figure I'm to be mayor in '54
+and congressman in '56. It's a wonderful life for a while. The only
+thing is that I miss Rabelais coming in at five-ten for his beer.
+
+In '54 I get elected Mayor like he said. My business gets remodelled
+and all is swell.
+
+       *       *       *       *       *
+
+Then one night I go to sleep in my new house and I wake up in the
+middle of the night feeling a cold draft. When I turn over I roll onto
+a lump in the mattress and I know it was all a dream and I'm Mike
+Murphy, bartender, again.
+
+The next a.m. I pick up the paper and it's the summer of '53, the day
+of Rabelais and my thirty-first anniversary and I'm back at the old
+stand. It was a fine dream, I says, and go to work.
+
+At five-o-nine, though, I can't help looking at the clock. And sure
+enough, Rabelais comes in, walks up to the bar like he owns it and
+roars at me, "Two beers, Mike!"
+
+I can't help saying, "Look, haven't we done this before?"
+
+He grins at me. "And we may have to do it again a few times," he says.
+
+By now I know him pretty well, I think--or maybe I dreamed I know him;
+I'm not sure. Anyway, I give him the two beers and wait for him to get
+around to telling me whatever is on his mind.
+
+He goes through the same act as before--only I can't be sure he did go
+through the act or I dreamed he did. "Beer for the house," he yells.
+
+"Take it easy," I cautions. "Take it easy, Rabelais."
+
+"You never called me by my first name before, did you, Mike?"
+
+I open my mouth to remind him that he told me to back in 1953 and then
+I remember it is 1953. That confuses me because I remember, too, that
+in 1954 I was--or maybe it's that I'm going to be--mayor. I just close
+my mouth and wait.
+
+Rabelais takes his time. When the early rush clears out, he gets me
+off to one end of the bar and says, "Sorry to keep you waiting, Mike,
+but we have to do it all over again."
+
+"Then it wasn't a dream?"
+
+"No dream," he says.
+
+"But everything was going fine."
+
+"Up to a point," he says. "Up to the sixties."
+
+Then he explains the way his machine works. But all I get out of what
+he says is that there's a law of probability so he can't go back and
+shoot his grandfather when the old man is a boy or juggle stocks in
+'47 to pay off and make him rich in '53 and things like that. That is
+why he wouldn't let us go back into the past. He was afraid we would
+do something to change history and--bingo.
+
+And he wouldn't let us go into the future very far because up a way
+the atom bomb gets loose and it is awfully sad to see and dangerous
+besides.
+
+"That was in the sixties," he says. "Or will be in the sixties. Only I
+got it figured out so it won't be, Mike."
+
+It's over my head; I just keep on waiting.
+
+He explains that he made a pile of dough in the near future by betting
+on horse races and cleaning out a few bookies and investing his
+winnings in stocks he knew were going up (and in fact they wouldn't
+have gone up if he hadn't looked into the future and known they would
+so he could go back and buy them) and anyway, he figured the exact day
+it would be safe to start and so he did.
+
+"Only," he says, "we made a mistake by making you mayor and then
+congressman. I have it figured out for you to be congressman right
+from the start--in fifty-four. That gives you two extra years of
+seniority on Congress and so when the chips are down you have a little
+more pull."
+
+"Fine," I says and start to take off my apron.
+
+"The thing is," he explains, "there are a couple of lunkheads in
+Congress that get super-patriotic and they're the ones who cause the
+trouble with the bomb getting loose." He leans over the bar and looks
+real serious at me. "And you," he goes on, "are the one who stops them
+before they get started."
+
+"Me? Me, Mike Murphy?"
+
+"You," he says. "We just go on a different time track from the one we
+tried before. And this one ought to work." He gives me his grin. "You
+should see the history books about the year 2000. You're a real
+national hero, Mike."
+
+I throw my apron into a corner and roll down my sleeves. I'm ready.
+
+And it goes just like Rabelais says. I pass up the mayor's job and go
+straight to Congress. In my third term I get a chance to cool those
+two excitable characters--cool them politically, that is, and I do.
+
+The only thing wrong is that Rabelais never lets me go into the future
+to read the history books that tell what a great guy I was and the
+things I did. So I'm never sure I'm doing the right thing. Like I tell
+him, how can I be sure what to do if he won't let me read about what I
+did?
+
+                    ... THE END
+
+
+
+
+
+End of the Project Gutenberg EBook of Probability, by Louis Trimble
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PROBABILITY ***
+
+***** This file should be named 32739.txt or 32739.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/2/7/3/32739/
+
+Produced by Greg Weeks and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

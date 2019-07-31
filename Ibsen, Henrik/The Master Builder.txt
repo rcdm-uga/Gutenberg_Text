@@ -1,0 +1,9807 @@
+The Project Gutenberg EBook of The Master Builder, by Henrik Ibsen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Master Builder
+
+Author: Henrik Ibsen
+
+Commentator: William Archer
+
+Translator: Edmund Gosse and William Archer
+
+Release Date: May, 2003  [Etext #4070]
+Posting Date: January 9, 2010
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE MASTER BUILDER ***
+
+
+
+
+Produced by Douglas E. Levy
+
+
+
+
+
+THE MASTER BUILDER
+
+
+By Henrik Ibsen
+
+
+Translated by Edmund Gosse and William Archer
+
+
+Introduction by William Archer
+
+
+
+
+INTRODUCTION.
+
+
+With _The Master Builder_--or _Master Builder Solness_, as the title
+runs in the original--we enter upon the final stage in Ibsen's career.
+"You are essentially right," the poet wrote to Count Prozor in March
+1900, "when you say that the series which closes with the Epilogue
+(_When We Dead Awaken_) began with _Master Builder Solness_."
+
+"Ibsen," says Dr. Brahm, "wrote in Christiania all the four works which
+he thus seems to bracket together--_Solness_, _Eyolf_, _Borkman_, and
+_When We Dead Awaken_. He returned to Norway in July 1891, for a stay of
+indefinite length; but the restless wanderer over Europe was destined
+to leave his home no more.... He had not returned, however, to throw
+himself, as of old, into the battle of the passing day. Polemics are
+entirely absent from the poetry of his old age. He leaves the State and
+Society at peace. He who had departed as the creator of Falk [in _Love's
+Comedy_] now, on his return, gazes into the secret places of human
+nature and the wonder of his own soul."
+
+Dr. Brahm, however, seems to be mistaken in thinking that Ibsen returned
+to Norway with no definite intention of settling down. Dr. Julius Elias
+(an excellent authority) reports that shortly before Ibsen left Munich
+in 1891, he remarked one day, "I must get back to the North!" "Is that
+a sudden impulse?" asked Elias. "Oh no," was the reply; "I want to be
+a good head of a household and have my affairs in order. To that end I
+must consolidate may property, lay it down in good securities, and
+get it under control--and that one can best do where one has rights of
+citizenship." Some critics will no doubt be shocked to find the poet
+whom they have written down an "anarchist" confessing such bourgeois
+motives.
+
+After his return to Norway, Ibsen's correspondence became very scant,
+and we have no letters dating from the period when he was at work on
+_The Master Builder_. On the other hand, we possess a curious lyrical
+prelude to the play, which he put on paper on March 16, 1892. It is
+said to have been his habit, before setting to work on a play, to
+"crystallise in a poem the mood which then possessed him;" but the
+following is the only one of these keynote poems which has been
+published. I give it in the original language, with a literal
+translation:
+
+
+DE SAD DER, DE TO--
+
+     De sad der, de to, i saa lunt et hus
+     ved host og i venterdage,
+     Saa braendte huset.  Alt ligger i grus.
+     De to faar i asken rage.
+
+     For nede id en er et smykke gemt,--
+     et smykke, som aldrig kan braende.
+     Og leder de trofast, haender det nemt
+     at det findes af ham eller hende.
+
+     Men finder de end, brandlidte to,
+     det dyre, ildfaste smykke,--
+     aldrig han finder sin braendte tro,
+     han aldrig sin braendte lykke.
+
+
+THEY SAT THERE, THE TWO--
+
+  They sat there, the two, in so cosy a house, through autumn
+  and winter days.  Then the house burned down.  Everything
+  lies in ruins.  The two must grope among the ashes.
+
+  For among them is hidden a jewel--a jewel that never can burn.
+  And if they search faithfully, it may easily happen that he
+  or she may find it.
+
+  But even should they find it, the burnt-out two--find this
+  precious unburnable jewel--never will she find her burnt faith,
+  he never his burnt happiness.
+
+
+This is the latest piece of Ibsen's verse that has been given to the
+world; but one of his earliest poems--first printed in 1858--was also,
+in some sort, a prelude to _The Master Builder_. Of this a literal
+translation may suffice. It is called,
+
+
+BUILDING-PLANS
+
+  I remember as clearly as if it had been to-day the evening
+  when, in the paper, I saw my first poem in print.  There I
+  sat in my den, and, with long-drawn puffs, I smoked and I
+  dreamed in blissful self-complacency.
+
+  "I will build a cloud-castle.  It shall shine all over the
+  North.  It shall have two wings: one little and one great.
+  The great wing shall shelter a deathless poet; the little
+  wing shall serve as a young girl's bower."
+
+  The plan seemed to me nobly harmonious; but as time went on
+  it fell into confusion.  When the master grew reasonable, the
+  castle turned utterly crazy; the great wing became too little,
+  the little wing fell to ruin.
+
+
+Thus we see that, thirty-five years before the date of _The Master
+Builder_, Ibsen's imagination was preoccupied with a symbol of a master
+building a castle in the air, and a young girl in one of its towers.
+
+There has been some competition among the poet's young lady friends for
+the honour of having served as his model for Hilda. Several, no doubt,
+are entitled to some share in it. One is not surprised to learn that
+among the papers he left behind were sheaves upon sheaves of letters
+from women. "All these ladies," says Dr. Julius Elias, "demanded
+something of him--some cure for their agonies of soul, or for the
+incomprehension from which they suffered; some solution of the riddle of
+their nature. Almost every one of them regarded herself as a problem
+to which Ibsen could not but have the time and the interest to apply
+himself. They all thought they had a claim on the creator of Nora....
+Of this chapter of his experience, Fru Ibsen spoke with ironic
+humour. 'Ibsen (I have often said to him), Ibsen, keep these swarms of
+over-strained womenfolk at arm's length.' 'Oh no (he would reply), let
+them alone. I want to observe them more closely.' His observations would
+take a longer or shorter time as the case might be, and would always
+contribute to some work of art."
+
+The principal model for Hilda was doubtless Fraulein Emilie Bardach,
+of Vienna, whom he met at Gossensass in the autumn of 1889. He was then
+sixty-one years of age; she is said to have been seventeen. As the lady
+herself handed his letters to Dr. Brandes for publication, there can be
+no indiscretion in speaking of them freely. Some passages from them I
+have quoted in the introduction to _Hedda Gabler_--passages which show
+that at first the poet deliberately put aside his Gossensass impressions
+for use when he should stand at a greater distance from them, and
+meanwhile devoted himself to work in a totally different key. On October
+15, 1889, he writes, in his second letter to Fraulein Bardach: "I
+cannot repress my summer memories, nor do I want to. I live through my
+experiences again and again. To transmute it all into a poem I find, in
+the meantime, impossible. In the meantime? Shall I succeed in doing
+so some time in the future? And do I really wish to succeed? In the
+meantime, at any rate, I do not.... And yet it must come in time." The
+letters number twelve in all, and are couched in a tone of sentimental
+regret for the brief, bright summer days of their acquaintanceship. The
+keynote is struck in the inscription on the back of a photograph
+which he gave her before they parted: _An die Maisonne eines
+Septemberlebens--in Tirol_,(1) 27/9/89. In her album he had written the
+words:
+
+
+     Hohes, schmerzliches Gluck--
+     um das Unerreichbare zu ringen!(2)
+
+
+in which we may, if we like, see a foreshadowing of the Solness frame
+of mind. In the fifth letter of the series he refers to her as "an
+enigmatic Princess"; in the sixth he twice calls her "my dear Princess";
+but this is the only point at which the letters quite definitely and
+unmistakably point forward to _The Master Builder_. In the ninth letter
+(February 6, 1890) he says: "I feel it a matter of conscience to end,
+or at any rate, to restrict, our correspondence." The tenth letter,
+six months later, is one of kindly condolence on the death of the young
+lady's father. In the eleventh (very short) note, dated December 30,
+1890, he acknowledges some small gift, but says: "Please, for the
+present, do not write me again.... I will soon send you my new play
+[_Hedda Gabler_]. Receive it in friendship, but in silence!" This
+injunction she apparently obeyed. When _The Master Builder_ appeared, it
+would seem that Ibsen did not even send her a copy of the play; and we
+gather that he was rather annoyed when she sent him a photograph
+signed "Princess of Orangia." On his seventieth birthday, however, she
+telegraphed her congratulations, to which he returned a very cordial
+reply. And here their relations ended.
+
+That she was right, however, in regarding herself as his principal model
+for Hilda appears from an anecdote related by Dr. Elias.(3) It is not
+an altogether pleasing anecdote, but Dr. Elias is an unexceptionable
+witness, and it can by no means be omitted from an examination into the
+origins of _The Master Builder_. Ibsen had come to Berlin in February
+1891 for the first performance of _Hedda Gabler_. Such experiences were
+always a trial to him, and he felt greatly relieved when they were over.
+Packing, too, he detested; and Elias having helped him through this
+terrible ordeal, the two sat down to lunch together, while awaiting the
+train. An expansive mood descended upon Ibsen, and chuckling over his
+champagne glass, he said: "Do you know, my next play is already hovering
+before me--of course in vague outline. But of one thing I have got
+firm hold. An experience: a woman's figure. Very interesting, very
+interesting indeed. Again a spice of the devilry in it." Then he
+related how he had met in the Tyrol a Viennese girl of very remarkable
+character. She had at once made him her confidant. The gist of her
+confessions was that she did not care a bit about one day marrying
+a well brought-up young man--most likely she would never marry. What
+tempted and charmed and delighted her was to lure other women's husbands
+away from them. She was a little daemonic wrecker; she often appeared to
+him like a little bird of prey, that would fain have made him, too, her
+booty. He had studied her very, very closely. For the rest, she had had
+no great success with him. "She did not get hold of me, but I got
+hold of her--for my play. Then I fancy" (here he chuckled again) "she
+consoled herself with some one else." Love seemed to mean for her only
+a sort of morbid imagination. This, however, was only one side of her
+nature. His little model had had a great deal of heart and of womanly
+understanding; and thanks to the spontaneous power she could gain over
+him, every woman might, if she wished it, guide some man towards the
+good. "Thus Ibsen spoke," says Elias, "calmly and coolly, gazing as it
+were into the far distance, like an artist taking an objective view of
+some experience--like Lubek speaking of his soul-thefts. He had stolen
+a soul, and put it to a double employment. Thea Elvsted and Hilda Wangel
+are intimately related--are, indeed only different expressions of the
+same nature." If Ibsen actually declared Thea and Hilda to be drawn from
+one model, we must of course take his word for it; but the relationship
+is hard to discern.
+
+There can be no reasonable doubt, then, that the Gossensass episode gave
+the primary impulse to _The Master Builder_. But it seems pretty well
+established, too, that another lady, whom he met in Christiania after
+his return in 1891, also contributed largely to the character of
+Hilda. This may have been the reason why he resented Fraulein Bardach's
+appropriating to herself the title of "Princess of Orangia."
+
+The play was published in the middle of December 1892. It was acted both
+in Germany and England before it was seen in the Scandinavian capitals.
+Its first performance took place at the Lessing Theatre, Berlin, January
+19, 1893, with Emanuel Reicher as Solness and Frl. Reisenhofer as Hilda.
+In London it was first performed at the Trafalgar Square Theatre (now
+the Duke of York's) on February 20, 1893, under the direction of Mr.
+Herbert Waring and Miss Elizabeth Robins, who played Solness and Hilda.
+This was one of the most brilliant and successful of English Ibsen
+productions. Miss Robins was almost an ideal Hilda, and Mr. Waring's
+Solness was exceedingly able. Some thirty performances were give in all,
+and the play was reproduced at the Opera Comique later in the season,
+with Mr. Lewis Waller as Solness. In the following year Miss Robins
+acted Hilda in Manchester. In Christiania and Copenhagen the play was
+produced on the same evening, March 8, 1893; the Copenhagen Solness
+and Hilda were Emil Poulsen and Fru Hennings. A Swedish production,
+by Lindberg, soon followed, both in Stockholm and Gothenburg. In Paris
+_Solness le constructeur_ was not seen until April 3, 1894, when it
+was produced by "L'OEuvre" with M. Lugne-Poe as Solness. The company,
+sometimes with Mme. Suzanne Despres and sometimes with Mme. Berthe
+Bady as Hilda, in 1894 and 1895 presented the play in London, Brussels,
+Amsterdam, Milan, and other cities. In October 1894 they visited
+Christiania, where Ibsen was present at one of their performances, and
+is reported by Herman Bang to have been so enraptured with it that he
+exclaimed, "This is the resurrection of my play!" On this occasion Mme.
+Bady was the Hilda. The first performance of the play in America took
+place at the Carnegie Lyceum, New York, on January 16, 1900, with
+Mr. William H. Pascoe as Solness and Miss Florence Kahn as Hilda.
+The performance was repeated in the course of the same month, both at
+Washington and Boston.
+
+In England, and probably elsewhere as well, _The Master Builder_
+produced a curious double effect. It alienated many of the poet's
+staunchest admirers, and it powerfully attracted many people who had
+hitherto been hostile to him. Looking back, it is easy to see why this
+should have been so; for here was certainly a new thing in drama, which
+could not but set up many novel reactions. A greater contrast could
+scarcely be imagined than that between the hard, cold, precise outlines
+of _Hedda Gabler_ and the vague mysterious atmosphere of _The Master
+Builder_, in which, though the dialogue is sternly restrained within
+the limits of prose, the art of drama seems for ever on the point of
+floating away to blend with the art of music. Substantially, the play
+is one long dialogue between Solness and Hilda; and it would be quite
+possible to analyse this dialogue in terms of music, noting (for
+example) the announcement first of this theme and then of that, the
+resumption and reinforcement of a theme which seemed to have been
+dropped, the contrapuntal interweaving of two or more motives, a scherzo
+here, a fugal passage there. Leaving this exercise to some one more
+skilled in music (or less unskilled) than myself, I may note that in
+_The Master Builder_ Ibsen resumes his favourite retrospective method,
+from which in _Hedda Gabler_ he had in great measure departed. But the
+retrospect with which we are here concerned is purely psychological. The
+external events involved in it are few and simple in comparison with
+the external events which are successively unveiled in retrospective
+passages of _The Wild Duck_ or _Rosmersholm_. The matter of the play
+is the soul-history of Halvard Solness, recounted to an impassioned
+listener--so impassioned, indeed, that the soul-changes it begets in her
+form an absorbing and thrilling drama. The graduations, retardations,
+accelerations of Solness's self-revealment are managed with the subtlest
+art, so as to keep the interest of the spectator ever on the stretch.
+The technical method was not new; it was simply that which Ibsen had
+been perfecting from _Pillars of Society_ onward; but it was applied to
+a subject of a nature not only new to him, but new to literature.
+
+That the play is full of symbolism it would be futile to deny; and the
+symbolism is mainly autobiographic. The churches which Solness sets out
+building doubtless represent Ibsen's early romantic plays, the "homes
+for human beings" his social drama; while the houses with high towers,
+merging into "castles in the air," stand for those spiritual dramas,
+with a wide outlook over the metaphysical environment of humanity, on
+which he was henceforth to be engaged. Perhaps it is not altogether
+fanciful to read a personal reference into Solness's refusal to call
+himself an architect, on the ground that his training has not been
+systematic--that he is a self-taught man. Ibsen too was in all
+essentials self-taught; his philosophy was entirely unsystematic; and,
+like Solness, he was no student of books. There may be an introspective
+note also in that dread of the younger generation to which Solness
+confesses. It is certain that the old Master-Builder was not lavish
+of his certificates of competence to young aspirants, though there is
+nothing to show that his reticence ever depressed or quenched any rising
+genius.
+
+On the whole, then, it cannot be doubted that several symbolic motives
+are inwoven into the iridescent fabric of the play. But it is a
+great mistake to regard it as essentially and inseparably a piece of
+symbolism. Essentially it is a history of a sickly conscience, worked
+out in terms of pure psychology. Or rather, it is a study of a
+sickly and a robust conscience side by side. "The conscience is very
+conservative," Ibsen has somewhere said; and here Solness's conservatism
+is contrasted with Hilda's radicalism--or rather would-be radicalism,
+for we are led to suspect, towards the close, that the radical too is a
+conservative in spite or herself. The fact that Solness cannot climb as
+high as he builds implies, I take it, that he cannot act as freely as
+he thinks, or as Hilda would goad him into thinking. At such an altitude
+his conscience would turn dizzy, and life would become impossible to
+him. But here I am straying back to the interpretation of symbols. My
+present purpose is to insist that there is nothing in the play which has
+no meaning on the natural-psychological plane, and absolutely requires
+a symbolic interpretation to make it comprehensible. The symbols are
+harmonic undertones; the psychological melody is clear and consistent
+without any reference to them.(4) It is true that, in order to accept
+the action on what we may call the realistic level, we must suppose
+Solness to possess and to exercise, sometimes unconsciously, a
+considerable measure of hypnotic power. But time is surely past when
+we could reckon hypnotism among "supernatural" phenomena. Whether the
+particular forms of hypnotic influence attributed to Solness do actually
+exist is a question we need not determine. The poet does not demand our
+absolute credence, as though he were giving evidence in the witness-box.
+What he requires is our imaginative acceptance of certain incidents
+which he purposely leaves hovering on the border between the natural and
+the preternatural, the explained and the unexplained. In this play, as
+in _The Lady from the Sea_ and _Little Eyolf_, he shows a delicacy of
+art in his dalliance with the occult which irresistibly recalls the
+exquisite genius of Nathaniel Hawthorne.(5)
+
+The critics who insist on finding nothing but symbolism in the play have
+fastened on Mrs. Solness's "nine lovely dolls," and provided the most
+amazing interpretations for them. A letter which I contributed in 1893
+to the _Westminster Gazette_ records an incident which throws a curious
+light on the subject and may be worth preserving. "At a recent first
+night," I wrote, "I happened to be seated just behind a well-known
+critic. He turned round to me and said, 'I want you to tell me what is
+YOUR theory of those "nine lovely dolls." Of course one can see that
+they are entirely symbolical.' 'I am not so sure of that,' I replied,
+remembering a Norwegian cousin of my own who treasured a favourite doll
+until she was nearer thirty than twenty. 'They of course symbolise the
+unsatisfied passion of motherhood in Mrs. Solness's heart, but I have
+very little doubt that Ibsen makes use of this "symbol" because he has
+observed a similar case, or cases, in real life.' 'What!' cried the
+critic. 'He has seen a grown-up, a middle-aged woman continuing to "live
+with" her dolls!' I was about to say that it did not seem to me so very
+improbable, when a lady who was seated next me, a total stranger to both
+of us, leant forward and said, 'Excuse my interrupting you, but it
+may perhaps interest you to know that I HAVE THREE DOLLS TO WHICH I AM
+DEEPLY ATTACHED!' I will not be so rude as to conjecture this lady's
+age, but we may be sure that a very young woman would not have had the
+courage to make such an avowal. Does it not seem that Ibsen knows a
+thing or two about human nature--English as well as Norwegian--which
+we dramatic critics, though bound by our calling to be subtle
+psychologists, have not yet fathomed?" In the course of the
+correspondence which followed, one very apposite anecdote was quoted
+from an American paper, the _Argonaut_: "An old Virginia lady said to
+a friend, on finding a treasured old cup cracked by a careless maid,
+'I know of nothing to compare with the affliction of losing a handsome
+piece of old china.' 'Surely,' said the friend, 'it is not so bad as
+losing one's children.' 'Yes, it is,' replied the old lady, 'for when
+your children die, you do have the consolations of religion, you know.'"
+
+It would be a paradox to call _The Master Builder_ Ibsen's greatest
+work, but one of his three or four greatest it assuredly is. Of all his
+writings, it is probably the most original, the most individual, the
+most unlike any other drama by any other writer. The form of _Brand_ and
+_Peer Gynt_ was doubtless suggested by other dramatic poems--notably by
+_Faust_. In _The Wild Duck_, in _Rosmersholm_, in _Hedda Gabler_, even
+in _Little Eyolf_ and _John Gabriel Borkman_, there remain faint traces
+of the French leaven which is so strong in the earlier plays. But _The
+Master Builder_ had no model and has no parallel. It shows no slightest
+vestige of outside influence. It is Ibsen, and nothing but Ibsen.
+
+W.A.
+
+
+
+*FOOTNOTES.
+
+ (1)"To the May-sun of a September life--in Tyrol."
+
+ (2)"High, painful happiness--to struggle for the unattainable!"
+
+ (3)_Neus deutsche Rundschau_, December, 1906, p.1462.
+
+ (4)This conception I have worked out at much greater length in an
+   essay entitled _The Melody of the Master Builder_, appended to
+   the shilling edition of the play, published in 1893.  I there
+   retell the story, transplanting it to England and making the hero
+   a journalist instead of an architect, in order to show that (if
+   we grant the reality of certain commonly-accepted phenomena of
+   hypnotism) there is nothing incredible or even extravagantly
+   improbable about it.  The argument is far too long to be included
+   here, but the reader who is interested in the subject may find it
+   worth referring to.
+
+ (5)For an instance of the technical methods by which he suggested
+   the supernormal element in the atmosphere of the play, see
+   Introduction to _A Doll's House_, p. xiv.
+
+
+
+
+
+THE MASTER BUILDER.
+
+PLAY IN THREE ACTS.
+
+
+
+CHARACTERS.
+
+
+  HALVARD SOLNESS, Master Builder.
+  ALINE SOLNESS, his wife.
+  DOCTOR HERDAL, physician.
+  KNUT BROVIK, formerly an architect, now in SOLNESS'S employment.
+  RAGNAR BROVIK, his son, draughtsman.
+  KAIA BROVIK, his niece, book-keeper.
+  MISS HILDA WANGEL.
+  Some Ladies.
+  A Crowd in the street.
+
+
+  The action passes in and about SOLNESS'S house.
+
+
+
+
+ACT FIRST.
+
+  A plainly-furnished work-room in the house of HALVARD SOLNESS.
+  Folding doors on the left lead out to the hall.  On the right
+  is the door leading to the inner rooms of the house.  At the
+  back is an open door into the draughtsmen's office.  In front,
+  on the left, a desk with books, papers and writing materials.
+  Further back than the folding door, a stove.  In the right-
+  hand corner, a sofa, a table, and one or two chairs.  On the
+  table a water-bottle and glass.  A smaller table, with a
+  rocking-chair and arm-chair, in front on the right.  Lighted
+  lamps, with shades, on the table in the draughtmen's office,
+  on the table in the corner, and on the desk.
+
+  In the draughtsmen's office sit KNUT BROVIK and his son RAGNAR,
+  occupied with plans and calculations.  At the desk in the outer
+  office stands KAIA FOSLI, writing in the ledger.  KNUT BROVICK
+  is a spare old man with white hair and beard.  He wears a
+  rather threadbare but well-brushed black coat, with spectacles,
+  and a somewhat discoloured white neckcloth.  RAGNAR BROVIK is
+  a well-dressed, light-haired man in his thirties, with a
+  slight stoop.  KAIA FOSLI is a slightly built girl, a little
+  over twenty, carefully dressed, and delicate-looking.  She has
+  a green shade over her eyes.--All three go on working for some
+  time in silence.
+
+
+KNUT BROVIK.
+
+[Rises suddenly, as if in distress, from the table; breathes heavily and
+laboriously as he comes forward into the doorway.] No, I can't bear it
+much longer!
+
+KAIA.
+
+[Going up to him.] You are feeling very ill this evening, are you not,
+Uncle?
+
+
+BROVIK.
+
+Oh, I seem to get worse every day.
+
+
+RAGNAR.
+
+[Has risen and advances.] You ought to go home, father. Try to get a
+little sleep--
+
+
+BROVIK.
+
+[Impatiently.] Go to bed, I suppose? Would you have me stifled outright?
+
+
+KAIA.
+
+Then take a little walk.
+
+
+RAGNAR.
+
+Yes, do. I will come with you.
+
+
+BROVIK.
+
+[With warmth.] I will not go till he comes! I and determined to have
+it out this evening with--[in a tone of suppressed bitterness]--with
+him--with the chief.
+
+
+KAIA.
+
+[Anxiously.] Oh no, uncle,--do wait awhile before doing that!
+
+
+RAGNAR.
+
+Yes, better wait, father!
+
+
+BROVIK.
+
+[Draws is breath laboriously.] Ha--ha--! _I_ haven't much time for
+waiting.
+
+
+KAIA.
+
+[Listening.] Hush! I hear him on the stairs.
+
+     [All three go back to their work.  A short silence.
+
+
+  HALVARD SOLNESS comes in through the hall door.  He is a man no
+  longer young, but healthy and vigorous, with close-cut curly
+  hair, dark moustache and dark thick eyebrows.  He wears a
+  greyish-green buttoned jacket with an upstanding collar and
+  broad lapels.  On his head he wears a soft grey felt hat,
+  and he has one or two light portfolios under his arm.
+
+
+SOLNESS.
+
+[Near the door, points towards the draughtsmen's office, and asks in a
+whisper:] Are they gone?
+
+
+KAIA.
+
+[Softly, shaking her] No.
+
+     [She takes the shade off her eyes.  SOLNESS crosses the room,
+       throws his hat on a chair, places the portfolios on the table
+       by the sofa, and approaches the desk again.  KAIA goes on
+       writing without intermission, but seems nervous and uneasy.
+
+
+SOLNESS.
+
+[Aloud.] What is that you are entering, Miss Fosli?
+
+
+KAIA.
+
+[Starts.] Oh, it is only something that--
+
+
+SOLNESS.
+
+Let me look at it, Miss Fosli. [Bends over her, pretends to be looking
+into the ledger, and whispers:] Kaia!
+
+
+KAIA.
+
+[Softly, still writing.] Well?
+
+
+SOLNESS.
+
+Why do you always take that shade off when I come?
+
+
+KAIA.
+
+[As before.] I look so ugly with it on.
+
+
+SOLNESS.
+
+[Smiling.] Then you don't like to look ugly, Kaia?
+
+
+KAIA.
+
+[Half glancing up at him.] Not for all the world. Not in your eyes.
+
+
+SOLNESS.
+
+[Strokes her hair gently.] Poor, poor little Kaia--
+
+
+KAIA.
+
+[Bending her head.] Hush--they can hear you!
+
+     [SOLNESS strolls across the room to the right, turns and pauses
+       at the door of the draughtsmen's office.
+
+
+SOLNESS.
+
+Has any one been here for me?
+
+
+RAGNAR.
+
+[Rising.] Yes, the young couple who want a villa built, out at
+Lovstrand.
+
+
+SOLNESS.
+
+[Growling.] Oh, those two! They must wait. I am not quite clear about
+the plans yet.
+
+
+RAGNAR.
+
+[Advancing, with some hesitation.] They were very anxious to have the
+drawings at once.
+
+
+SOLNESS.
+
+[As before.] Yes, of course--so they all are.
+
+
+BROVIK.
+
+[Looks up.] They say they are longing so to get into a house of their
+own.
+
+
+SOLNESS.
+
+Yes, yes--we know all that! And so they are content to take whatever
+is offered them. They get a--a roof over their heads--an address--but
+nothing to call a home. No thank you! In that case, let them apply to
+somebody else. Tell them that, the next time they call.
+
+
+BROVIK.
+
+[Pushes his glasses up on to his forehead and looks in astonishment at
+him.] To somebody else? Are you prepared to give up the commission?
+
+
+SOLNESS.
+
+[Impatiently.] Yes, yes, yes, devil take it! If that is to be the way of
+it--. Rather that, than build away at random. [Vehemently.] Besides, I
+know very little about these people as yet.
+
+
+BROVIK.
+
+The people are safe enough. Ragnar knows them. He is a friend of the
+family.
+
+
+SOLNESS.
+
+Oh, safe--safe enough! That is not at all what I mean. Good lord--don't
+you understand me either? [Angrily.] I won't have anything to do with
+these strangers. They may apply to whom they please, so far as I am
+concerned.
+
+
+BROVIK.
+
+[Rising.] Do you really mean that?
+
+
+SOLNESS.
+
+[Sulkily.] Yes I do.--For once in a way. [He comes forward.
+
+     [BROVIK exchanges a glance with RAGNAR, who makes a warning
+       gesture.  Then BROVIK comes into the front room.
+
+
+BROVIK.
+
+May I have a few words with you?
+
+
+SOLNESS.
+
+Certainly.
+
+
+BROVIK.
+
+[To KAIA.] Just go in there for moment, Kaia.
+
+
+KAIA.
+
+[Uneasily.] Oh, but uncle--
+
+
+BROVIK.
+
+Do as I say, child. And shut the door after you.
+
+     [KAIA goes reluctantly into the draughtsmen's office, glances
+       anxiously and imploringly at SOLNESS, and shuts the door.
+
+
+BROVIK.
+
+[Lowering his voice a little.] I don't want the poor children to know
+how I am.
+
+
+SOLNESS.
+
+Yes, you have been looking very poorly of late.
+
+
+BROVIK.
+
+It will soon be all over with me. My strength is ebbing--from day to
+day.
+
+
+SOLNESS.
+
+Won't you sit down?
+
+
+BROVIK.
+
+Thanks--may I?
+
+
+SOLNESS.
+
+[Placing the arm-chair more conveniently.] Here--take this chair.--And
+now?
+
+
+BROVIK.
+
+[Has seated himself with difficulty.] Well, you see, it's about Ragnar.
+That is what weighs most upon me. What is to become of him?
+
+
+SOLNESS.
+
+Of course your son will stay with me as long as ever he likes.
+
+
+BROVIK.
+
+But that is just what he does not like. He feels that he cannot stay
+here any longer.
+
+
+SOLNESS.
+
+Why, I should say he was very well off here. But if he wants more money,
+I should not mind--
+
+
+BROVIK.
+
+No, no! It is not that. [Impatiently.] But sooner or later he, too, must
+have a chance of doing something on his own account.
+
+
+SOLNESS.
+
+[Without looking at him.] Do you think that Ragnar has quite talent
+enough to stand alone?
+
+
+BROVIK.
+
+No, that is just the heartbreaking part of it--I have begun to have
+my doubts about the boy. For you have never said so much as--as one
+encouraging word about him. And yet I cannot but think there must be
+something in him--he can't be without talent.
+
+
+SOLNESS.
+
+Well, but he has learnt nothing--nothing thoroughly, I mean. Except, of
+course, to draw.
+
+
+BROVIK.
+
+[Looks at him with covert hatred, and says hoarsely.] You had learned
+little enough of the business when you were in my employment. But
+that did not prevent you from setting to work--[breathing with
+difficulty]--and pushing your way up, and taking the wind out of my
+sails--mine, and so may other people's.
+
+
+SOLNESS.
+
+Yes, you see--circumstances favoured me.
+
+
+BROVIK.
+
+You are right there. Everything favoured you. But then how can you have
+the heart to let me go to my grave--without having seen what Ragnar is
+fit for? And of course I am anxious to see them married, too--before I
+go.
+
+
+SOLNESS.
+
+[Sharply.] Is it she who wishes it?
+
+
+BROVIK.
+
+Not Kaia so much as Ragnar--he talks about it every day. [Appealingly.]
+You must help him to get some independent work now! I must see something
+that the lad has done. Do you hear?
+
+
+SOLNESS.
+
+[Peevishly.] Hang it, man, you can't expect me to drag commissions down
+from the moon for him!
+
+
+BROVIK.
+
+He has the chance of a capital commission at this very moment. A big bit
+of work.
+
+
+SOLNESS.
+
+[Uneasily, startled.] Has he?
+
+
+BROVIK.
+
+I you would give your consent.
+
+
+SOLNESS.
+
+What sort of work do you mean?
+
+
+BROVIK.
+
+[With some hesitation.] He can have the building of that villa out at
+Lovstrand.
+
+
+SOLNESS.
+
+That! Why I am going to build that myself.
+
+
+BROVIK.
+
+Oh you don't much care about doing it.
+
+
+SOLNESS.
+
+[Flaring up.] Don't care! Who dares to say that?
+
+
+BROVIK.
+
+You said so yourself just now.
+
+
+SOLNESS.
+
+Oh, never mind what I say.--Would they give Ragnar the building of that
+villa?
+
+
+BROVIK.
+
+Yes. You see, he knows the family. And then--just for the fun of the
+thing--he has made drawings and estimates and so forth--
+
+
+SOLNESS.
+
+Are they pleased with the drawings? The people who will have to live in
+the house?
+
+
+BROVIK.
+
+Yes. If you would only look through them and approve of them--
+
+
+SOLNESS.
+
+Then they would let Ragnar build their home for them?
+
+
+BROVIK.
+
+They were immensely pleased with his idea. They thought it exceedingly
+original, they said.
+
+
+SOLNESS.
+
+Oho! Original! Not the old-fashioned stuff that _I_ am in the habit of
+turning out!
+
+
+BROVIK.
+
+It seemed to them different.
+
+
+SOLNESS.
+
+[With suppressed irritation.] So it was to see Ragnar that they came
+here--whilst I was out!
+
+
+BROVIK.
+
+They came to call upon you--and at the same time to ask whether you
+would mind retiring--
+
+
+SOLNESS.
+
+[Angrily.] Retire? I?
+
+
+BROVIK.
+
+In case you thought that Ragnar's drawings--
+
+
+SOLNESS.
+
+I! Retire in favour of your son!
+
+
+BROVIK.
+
+Retire from the agreement, they meant.
+
+
+SOLNESS.
+
+Oh, it comes to the same thing. [Laughs angrily.] So that is it, is it?
+Halvard Solness is to see about retiring now! To make room for younger
+men! For the very youngest, perhaps! He must make room! Room! Room!
+
+
+BROVIK.
+
+Why, good heavens! there is surely room for more than one single man--
+
+
+SOLNESS.
+
+Oh, there's not so very much room to spare either. But, be that as it
+may--I will never retire! I will never give way to anybody! Never of my
+own free will. Never in this world will I do that!
+
+
+BROVIK.
+
+[Rise with difficulty.] Then I am to pass out of life without any
+certainty? Without a gleam of happiness? Without any faith or trust in
+Ragnar? Without having seen a single piece of work of his doing? Is that
+to be the way of it?
+
+
+SOLNESS.
+
+[Turns half aside, and mutters.] H'm--don't ask more just now.
+
+
+BROVIK.
+
+I must have an answer to this one question. Am I to pass out of life in
+such utter poverty?
+
+
+SOLNESS.
+
+[Seems to struggle with himself; finally he says, in a low but firm
+voice:] You must pass out of life as best you can.
+
+
+BROVIK.
+
+Then be it so. [He goes up the room.
+
+
+SOLNESS.
+
+[Following him, half is desperation.] Don't you understand that I cannot
+help it? I am what I am, and I cannot change my nature!
+
+
+BROVIK.
+
+No; I suppose that you can't. [Reels and supports himself against the
+sofa-table.] May I have a glass of water?
+
+
+SOLNESS.
+
+By all means. [Fills a glass and hands it to him.
+
+
+BROVIK.
+
+Thanks. [Drinks and puts the glass down again.
+
+     [SOLNESS goes up and opens the door of the draughtsmen's office.
+
+
+SOLNESS.
+
+Ragnar--you must come and take your father home.
+
+
+  Ragnar rises quickly.  He and KAIA come into the work-room.
+
+
+RAGNAR.
+
+What is the matter, father?
+
+
+BROVIK.
+
+Give me your arm. Now let us go.
+
+
+RAGNAR.
+
+Very well. You had better put your things on, too, Kaia.
+
+
+SOLNESS.
+
+Miss Fosli must stay--just for a moment. There is a letter I want
+written.
+
+
+BROVIK.
+
+[Looks at SOLNESS.] Good night. Sleep well--if you can.
+
+
+SOLNESS.
+
+Good night.
+
+     [BROVIK and RAGNAR go out by the hall-door.  KAIA goes to the
+       desk.  SOLNESS stands with bent head, to the right, by the
+       arm-chair.
+
+
+KAIA.
+
+[Dubiously.] Is there any letter?
+
+
+SOLNESS.
+
+[Curtly.] No, of course not. [Looks sternly at her.] Kaia!
+
+
+KAIA.
+
+[Anxiously, in a low voice.] Yes!
+
+
+SOLNESS.
+
+[Points imperatively to a spot on the floor.] Come here! At once!
+
+
+KAIA.
+
+[Hesitatingly.] Yes.
+
+
+SOLNESS.
+
+[As before.] Nearer!
+
+
+KAIA.
+
+[Obeying.] What do you want with me?
+
+
+SOLNESS.
+
+[Looks at her for a while.] Is it you I have to thank for all this?
+
+
+KAIA.
+
+No, no, don't think that!
+
+
+SOLNESS.
+
+But confess now--you want to get married!
+
+
+KAIA.
+
+[Softly.] Ragnar and I have been engaged for four or five years, and
+so--
+
+
+SOLNESS.
+
+And so you think it time there were an end of it. Is not that so?
+
+
+KAIA.
+
+Ragnar and Uncle say I must. So I suppose I shall have to give in.
+
+
+SOLNESS.
+
+[More gently.] Kaia, don't you really care a little bit for Ragnar, too?
+
+
+KAIA.
+
+I cared very much for Ragnar once--before I came here to you.
+
+
+SOLNESS.
+
+But you don't now? Not in the least?
+
+
+KAIA.
+
+[Passionately, clasping hands and holding them out towards him.] Oh, you
+know very well there is only one person I care for now! I shall never
+care for any one else.
+
+
+SOLNESS.
+
+Yes, you say that. And yet you go away from me--leave me alone here with
+everything on my hands.
+
+
+KAIA.
+
+But could I not stay with you, even if Ragnar--?
+
+
+SOLNESS.
+
+[Repudiating the idea.] No, no, that is quite impossible. If Ragnar
+leaves me and starts work on his own account, then of course he will
+need you himself.
+
+
+KAIA.
+
+[Wringing her hands.] Oh, I feel as if I could not be separated from
+you! It's quite, quite impossible!
+
+
+SOLNESS.
+
+Then be sure you get those foolish notions out of Ragnar's head. Marry
+him as much as you please--[Alters his tone.] I mean--don't let him
+throw up his good situation with me. For then I can keep you too, my
+dear Kaia.
+
+
+KAIA.
+
+Oh yes, how lovely that would be, if it could only be managed!
+
+
+SOLNESS.
+
+[Clasps her head with his two hands and whispers.] For I cannot get on
+without you, you see. I must have you with me every single day.
+
+
+KAIA.
+
+[In nervous exaltation.] My God! My God!
+
+
+SOLNESS.
+
+[Kisses her hair.] Kaia--Kaia!
+
+
+KAIA.
+
+[Sinks down before him.] Oh, how good you are to me! How unspeakably
+good you are!
+
+
+SOLNESS.
+
+[Vehemently.] Get up! For goodness' sake get up! I think I hear some
+one.
+
+     [He helps her to rise.  She staggers over to the desk.
+
+
+  MRS. SOLNESS enters by the door on the right.  She looks thin
+  and wasted with grief, but shows traces of bygone beauty.
+  Blonde ringlets.  Dressed with good taste, wholly in black.
+  Speaks some-what slowly and in a plaintive voice.
+
+
+MRS. SOLNESS.
+
+[In the doorway.] Halvard!
+
+
+SOLNESS.
+
+[Turns.] Oh, are you there, my dear--?
+
+
+MRS. SOLNESS.
+
+[With a glance at KAIA.] I am afraid I am disturbing you.
+
+
+SOLNESS.
+
+Not in the least. Miss Fosli has only a short letter to write.
+
+
+MRS. SOLNESS.
+
+Yes, so I see.
+
+
+SOLNESS.
+
+What do you want with me, Aline?
+
+
+MRS. SOLNESS.
+
+I merely wanted to tell you that Dr. Herdal is in the drawing-room.
+Won't you come and see him, Halvard?
+
+
+SOLNESS.
+
+[Looks suspiciously at her.]. H'm--is the doctor so very anxious to see
+me?
+
+
+MRS. SOLNESS.
+
+Well, not exactly anxious. He really came to see me; but he would like
+to say how-do-you-do to you at the same time.
+
+
+SOLNESS.
+
+[Laughs to himself.] Yes, I daresay. Well, you must ask him to wait a
+little.
+
+
+MRS. SOLNESS.
+
+Then you will come in presently?
+
+
+SOLNESS.
+
+Perhaps I will. Presently, presently, dear. In a little while.
+
+
+MRS. SOLNESS.
+
+[Glancing again at KAIA.] Well now, don't forget, Halvard.
+
+     [Withdraws and closes the door behind her.
+
+
+KAIA.
+
+[Softly.] Oh dear, oh dear--I am sure Mrs. Solness thinks ill of me in
+some way!
+
+
+SOLNESS.
+
+Oh, not in the least. Not more than usual at any rate. But all the same,
+you had better go now, Kaia.
+
+
+KAIA.
+
+Yes, yes, now I must go.
+
+
+SOLNESS.
+
+[Severely.] And mind you get that matter settled for me. Do you hear?
+
+
+KAIA.
+
+Oh, if it only depended on me--
+
+
+SOLNESS.
+
+I will have it settled, I say! And to-morrow too--not a day later!
+
+
+KAIA.
+
+[Terrified.] If there's nothing else for it, I am quite willing to break
+off the engagement.
+
+
+SOLNESS.
+
+[Angrily.] Break it off. Are you mad? Would you think of breaking it
+off?
+
+
+KAIA.
+
+[Distracted.] Yes, if necessary. For I must--I must stay here with you!
+I can't leave you! That is utterly--utterly impossible!
+
+
+SOLNESS.
+
+[With a sudden outburst.] But deuce take it--how about Ragnar then! It's
+Ragnar that I--
+
+
+KAIA.
+
+[Looks at him with terrified eyes.] It is chiefly on Ragnar's account,
+that--that you--?
+
+
+SOLNESS.
+
+[Collecting himself.] No, no, of course not! You don't understand me
+either. [Gently and softly.] Of course it is you I want to keep.--you
+above everything, Kaia. But for that very reason, you must prevent
+Ragnar, too, from throwing up his situation. There, there,--now go home.
+
+
+KAIA.
+
+Yes, yes--good-night, then.
+
+
+SOLNESS.
+
+Good night. [As she is going.] Oh, stop a moment! Are Ragnar's drawings
+in there?
+
+
+KAIA.
+
+I did not see him take them with him.
+
+
+SOLNESS.
+
+Then just go and find them for me. I might perhaps glance over them,
+after all.
+
+
+KAIA.
+
+[Happy.] Oh yes, please do!
+
+
+SOLNESS.
+
+For your sake, Kaia dear. Now, let me have them at once, please.
+
+     [KAIA hurries into the draughtsmen's office, searches anxiously
+       in the table-drawer, finds a portfolio and brings it with her.
+
+
+KAIA.
+
+Here are all the drawings.
+
+
+SOLNESS.
+
+Good. Put them down there on the table.
+
+
+KAIA.
+
+[Putting down the portfolio.] Good night, then. [Beseechingly.] And
+please, please think kindly of me.
+
+
+SOLNESS.
+
+Oh, that I always do. Good-night, my dear little Kaia. [Glances to the
+right.] Go, go now!
+
+
+  MRS. SOLNESS and DR. HERDAL enter by the door on the right.
+  He is a stoutish, elderly man, with a round, good-humoured
+  face, clean shaven, with thin, light hair, and gold spectacles.
+
+
+MRS. SOLNESS.
+
+[Still in the doorway.] Halvard, I cannot keep the doctor any longer.
+
+
+SOLNESS.
+
+Well then, come in here.
+
+
+MRS. SOLNESS.
+
+[To KAIA, who is turning down the desk-lamp.] Have you finished the
+letter already, Miss Fosli?
+
+
+KAIA.
+
+[In confusion.] The letter--?
+
+
+SOLNESS.
+
+Yes, it was quite a short one.
+
+
+MRS. SOLNESS.
+
+It must have been very short.
+
+
+SOLNESS.
+
+You may go now, Miss Fosli. And please come in good time to-morrow
+morning.
+
+
+KAIA.
+
+I will be sure to. Good-night, Mrs. Solness.
+
+     [She goes out by the hall door.
+
+
+SOLNESS.
+
+Are you in a hurry, doctor?
+
+
+DR. HERDAL.
+
+No, not at all.
+
+
+SOLNESS.
+
+May I have a little chat with you?
+
+
+DR. HERDAL.
+
+With the greatest of pleasure.
+
+
+SOLNESS.
+
+Then let us sit down. [He motions the doctor to take the rocking-chair,
+and sits down himself in the arm-chair. Looks searchingly at him.] Tell
+me--did you notice anything odd about Aline?
+
+
+DR. HERDAL.
+
+Do you mean just now, when she was here?
+
+
+SOLNESS.
+
+Yes, in her manner to me. Did you notice anything?
+
+
+DR. HERDAL.
+
+[Smiling.] Well, I admit--one couldn't well avoid noticing that your
+wife--h'm--
+
+
+DR. HERDAL. --that your wife is not particularly fond of this Miss
+Fosli.
+
+
+SOLNESS.
+
+Is that all? I have noticed that myself.
+
+
+DR. HERDAL.
+
+And I must say I am scarcely surprised at it.
+
+
+SOLNESS.
+
+At what?
+
+
+DR. HERDAL.
+
+That she should not exactly approve of your seeing so much of another
+woman, all day and every day.
+
+
+SOLNESS.
+
+No, no, I suppose you are right there--and Aline too. But it's
+impossible to make any change.
+
+
+DR. HERDAL.
+
+Could you not engage a clerk?
+
+
+SOLNESS.
+
+The first man that came to hand? No, thank you--that would never do for
+me.
+
+
+DR. HERDAL.
+
+But now, if your wife--? Suppose, with her delicate health, all this
+tries her too much?
+
+
+SOLNESS.
+
+Even then--I might almost say--it can make no difference. I must keep
+Kaia Fosli. No one else could fill her place.
+
+
+DR. HERDAL.
+
+No one else?
+
+
+SOLNESS.
+
+[Curtly.] No, no one.
+
+
+DR. HERDAL.
+
+[Drawing his chair closer.] Now listen to me, my dear Mr. Solness. May I
+ask you a question, quite between ourselves?
+
+
+SOLNESS.
+
+By all means.
+
+
+DR. HERDAL.
+
+Women, you see--in certain matters, they have a deucedly keen
+intuition--
+
+
+SOLNESS.
+
+They have, indeed. There is not the least doubt of that. But--?
+
+
+DR. HERDAL.
+
+Well, tell me now--if your wife can't endure this Kaia Fosli--?
+
+
+SOLNESS.
+
+Well, what then?
+
+
+DR. HERDAL. --may she not have just--just the least little bit of reason
+for this instinctive dislike?
+
+
+SOLNESS.
+
+[Looks at him and rises.] Oho!
+
+
+DR. HERDAL.
+
+Now don't be offended--but hasn't she?
+
+
+SOLNESS.
+
+[With curt decision.] No.
+
+
+DR. HERDAL.
+
+No reason of any sort?
+
+
+SOLNESS.
+
+No other than her own suspicious nature.
+
+
+DR. HERDAL.
+
+I know you have known a good many women in your time.
+
+
+SOLNESS.
+
+Yes, I have.
+
+
+DR. HERDAL.
+
+And have been a good deal taken with some of them, too.
+
+
+SOLNESS.
+
+Oh yes, I don't deny it.
+
+
+DR. HERDAL.
+
+But as regards Miss Fosli, then? There is nothing of that sort in this
+case?
+
+
+SOLNESS.
+
+No; nothing at all--on my side.
+
+
+DR. HERDAL.
+
+But on her side?
+
+
+SOLNESS.
+
+I don't think you have any right to ask that question, doctor.
+
+
+DR. HERDAL.
+
+Well, you know, we were discussing your wife's intuition.
+
+
+SOLNESS.
+
+So we were. And for that matter--[lowers his voice]--Aline's intuition,
+as you call it--in a certain sense, it has not been so far astray.
+
+
+DR. HERDAL.
+
+Aha! there we have it!
+
+
+SOLNESS.
+
+[Sits down.] Doctor Herdal--I am going to tell you a strange story--if
+you care to listen to it.
+
+
+DR. HERDAL.
+
+I like listening to strange stories.
+
+
+SOLNESS.
+
+Very well then. I daresay you recollect that I took Knut Brovik and his
+son into my employment--after the old man's business had gone to the
+dogs.
+
+
+DR. HERDAL.
+
+Yes, so I have understood.
+
+
+SOLNESS.
+
+You see, they really are clever fellows, these two. Each of them has
+talent in his own way. But then the son took it into his head to get
+engaged; and the next thing, of course, was that he wanted to get
+married--and begin to build on his own account. That is the way with all
+these young people.
+
+
+DR. HERDAL.
+
+[Laughing.] Yes, they have a bad habit of wanting to marry.
+
+
+SOLNESS.
+
+Just so. But of course that did not suit my plans; for I needed Ragnar
+myself--and the old man too. He is exceedingly good at calculating
+bearing strains and cubic contents--and all that sort of devilry, you
+know.
+
+
+DR. HERDAL.
+
+Oh yes, no doubt that's indispensable.
+
+
+SOLNESS.
+
+Yes, it is. But Ragnar was absolutely bent on setting to work for
+himself. He would hear of nothing else.
+
+
+DR. HERDAL.
+
+But he has stayed with you all the same.
+
+
+SOLNESS.
+
+Yes, I'll tell you how that came about. One day this girl, Kaia Fosli,
+came to see them on some errand or other. She had never been here
+before. And when I saw how utterly infatuated they were with each other,
+the thought occurred to me: if I cold only get her into the office here,
+then perhaps Ragnar too would stay where he is.
+
+
+DR. HERDAL.
+
+That was not at all a bad idea.
+
+
+SOLNESS.
+
+Yes, but at the time I did not breathe a word of what was in my mind.
+I merely stood and looked at her--and kept on wishing intently that
+I could have her here. Then I talked to her a little, in a friendly
+way--about one thing and another. And then she went away.
+
+
+DR. HERDAL.
+
+Well?
+
+
+SOLNESS.
+
+Well then, next day, pretty late in the evening, when old Brovik and
+Ragnar had gone home, she came here again, and behaved as if I had made
+an arrangement with her.
+
+
+DR. HERDAL.
+
+An arrangement? What about?
+
+
+SOLNESS.
+
+About the very thing my mind had been fixed on. But I hadn't said one
+single word about it.
+
+
+DR. HERDAL.
+
+That was most extraordinary.
+
+
+SOLNESS.
+
+Yes, was it not? And now she wanted to know what she was to do
+here--whether she could begin the very next morning, and so forth.
+
+
+DR. HERDAL.
+
+Don't you think she did it in order to be with her sweetheart?
+
+
+SOLNESS.
+
+That was what occurred to me at first. But no, that was not it. She
+seemed to drift quite away from him--when once she had come here to me.
+
+
+DR. HERDAL.
+
+She drifted over to you, then?
+
+
+SOLNESS.
+
+Yes, entirely. If I happen to look at her when her back is turned, I can
+tell that she feels it. She quivers and trembles the moment I come near
+her. What do you think of that?
+
+
+DR. HERDAL.
+
+H'm--that's not very hard to explain.
+
+
+SOLNESS.
+
+Well, but what about the other thing? That she believed I had said to
+her what I had only wished and willed--silently--inwardly--to myself?
+What do you say to that? Can you explain that, Dr. Herdal?
+
+
+DR. HERDAL.
+
+No, I won't undertake to do that.
+
+
+SOLNESS.
+
+I felt sure you would not; and so I have never cared to talk about
+it till now.--But it's a cursed nuisance to me in the long run, you
+understand. Here have I got to go on day after day, pretending--. And
+it's a shame to treat her so, too, poor girl. [Vehemently.] But I cannot
+do anything else. For if she runs away from me--then Ragnar will be off
+too.
+
+
+DR. HERDAL.
+
+And you have not told your wife the rights of the story?
+
+
+SOLNESS.
+
+No.
+
+
+DR. HERDAL.
+
+The why on earth don't you?
+
+
+SOLNESS.
+
+[Looks fixedly at him, and says in a low voice:] Because I seem to
+find a sort of--of salutary self-torture in allowing Aline to do me an
+injustice.
+
+
+DR. HERDAL.
+
+[Shakes his head.] I don't in the least understand what you mean.
+
+
+SOLNESS.
+
+Well, you see--it is like paying off a little bit of a huge,
+immeasurable debt--
+
+
+DR. HERDAL.
+
+To your wife?
+
+
+SOLNESS.
+
+Yes; and that always helps to relieve one's mind a little. One can
+breathe more freely for a while, you understand.
+
+
+DR. HERDAL.
+
+No, goodness knows, I don't understand at all--
+
+
+SOLNESS.
+
+[Breaking off, rises again.] Well, well, well--then we won't talk any
+more about it. [He saunters across the room, returns, and stops beside
+the table. Looks at the doctor with a sly smile.] I suppose you think
+you have drawn me out nicely now, doctor?
+
+
+DR. HERDAL.
+
+[With some irritation.] Drawn you out? Again I have not the faintest
+notion of what you mean, Mr. Solness.
+
+
+SOLNESS.
+
+Oh come, out with it; I have seen it quite clearly, you know.
+
+
+DR. HERDAL.
+
+What have you seen?
+
+
+SOLNESS.
+
+[In a low voice, slowly.] That you have been quietly keeping an eye upon
+me.
+
+
+DR. HERDAL.
+
+That _I_ have! And why in all the world should I do that?
+
+
+SOLNESS.
+
+Because you think that I----  [Passionately.]  Well devil take it--you
+think the same of me as Aline does.
+
+
+DR. HERDAL.
+
+And what does she think about you?
+
+
+SOLNESS.
+
+[Having recovered his self-control.] She has begun to think that I
+am--that I am--ill.
+
+
+DR. HERDAL.
+
+Ill! You! She has never hinted such a thing to me. Why, what can she
+think is the matter with you?
+
+
+SOLNESS.
+
+[Leans over the back of the chair and whispers.] Aline has made up her
+mind that I am mad. That is what she thinks.
+
+
+DR. HERDAL.
+
+[Rising.] Why, my dear fellow--!
+
+
+SOLNESS.
+
+Yes, on my soul she does! I tell you it is so. And she has got you to
+think the same! Oh, I can assure you, doctor, I see it in your face as
+clearly as possible. You don't take me in so easily, I can tell you.
+
+
+DR. HERDAL.
+
+[Looks at him in amazement.] Never, Mr. Solness--never has such a
+thought entered my mind.
+
+
+SOLNESS.
+
+[With and incredulous smile.] Really? Has it not?
+
+
+DR. HERDAL.
+
+No, never! Nor your wife's mind either, I am convinced. I could almost
+swear to that.
+
+
+SOLNESS.
+
+Well, I wouldn't advise you to. For, in a certain sense, you see,
+perhaps--perhaps she is not so far wrong in thinking something of the
+kind.
+
+
+DR. HERDAL.
+
+Come now, I really must say--
+
+
+SOLNESS.
+
+[Interrupting, with a sweep of his hand.] Well, well, my dear
+doctor--don't let us discuss this any further. We had better agree
+to differ. [Changes to a tone of quiet amusement.] But look here now,
+doctor--h'm--
+
+
+DR. HERDAL.
+
+Well?
+
+
+SOLNESS.
+
+Since you don't believe that I am--ill--and crazy--and mad, and so
+forth--
+
+
+DR. HERDAL.
+
+What then?
+
+
+SOLNESS.
+
+Then I daresay you fancy that I am an extremely happy man.
+
+
+DR. HERDAL.
+
+Is that mere fancy?
+
+
+SOLNESS.
+
+[Laughs.] No, no--of course not! Heaven forbid! Only think--to be
+Solness the master builder! Halvard Solness! What could be more
+delightful?
+
+
+DR. HERDAL.
+
+Yes, I must say it seems to me you have had the luck on your side to an
+astounding degree.
+
+
+SOLNESS.
+
+[Suppresses a gloomy smile.] So I have. I can't complain on that score.
+
+
+DR. HERDAL.
+
+First of all that grim old robbers' castle was burnt down for you. And
+that was certainly a great piece of luck.
+
+
+SOLNESS.
+
+[Seriously.] It was the home of Aline's family. Remember that.
+
+
+DR. HERDAL.
+
+Yes, it must have been a great grief to her.
+
+
+SOLNESS.
+
+She has not got over it to this day--not in all these twelve or thirteen
+years.
+
+
+DR. HERDAL.
+
+But you--yourself--you rose upon the ruins. You began as a poor boy from
+a country village--and now you are at the head of your profession. Ah,
+yes, Mr. Solness, you have undoubtedly had the luck on your side.
+
+
+SOLNESS.
+
+[Looking at him with embarrassment.] Yes, but that is just what makes me
+so horribly afraid.
+
+
+DR. HERDAL.
+
+Afraid? Because you have the luck on your side!
+
+
+SOLNESS.
+
+It terrifies me--terrifies me every hour of the day. For sooner or later
+the luck must turn, you see.
+
+
+DR. HERDAL.
+
+Oh nonsense! What should make the luck turn?
+
+
+SOLNESS.
+
+[With firm assurance.] The younger generation!
+
+
+DR. HERDAL.
+
+Pooh! The younger generation! You are not laid on the shelf yet, I
+should hope. Oh no--your position here is probably firmer now than it
+has ever been.
+
+
+SOLNESS.
+
+The luck will turn. I know it--I feel the day approaching. Some one or
+other will take it into his head to say: Give me a chance! And then all
+the rest will come clamouring after him, and shake their fists at me and
+shout: Make room--make room--! Yes, just you see, doctor--presently the
+younger generation will come knocking at my door--
+
+
+DR. HERDAL.
+
+[Laughing.] Well, and what if they do?
+
+
+SOLNESS.
+
+What if they do? Then there's an end of Halvard Solness.
+
+     [There is a knock at the door on the left.
+
+
+SOLNESS.
+
+[Starts.] What's that? Did you not hear something?
+
+
+DR. HERDAL.
+
+Some one is knocking at the door.
+
+
+SOLNESS.
+
+[Loudly.] Come in.
+
+
+  HILDA WANGEL enters by the hall door.  She is of middle height,
+  supple, and delicately built.  Somewhat sunburnt.  Dressed in
+  a tourist costume, with skirt caught up for walking, a sailor's
+  collar open at the throat, and a small sailor hat on her head.
+  Knapsack on back, plaid in strap, and alpenstock.
+
+
+HILDA.
+
+[Goes straight up to SOLNESS, her eyes sparkling with happiness.] Good
+evening!
+
+
+SOLNESS.
+
+[Looks doubtfully at her.] Good evening--
+
+
+HILDA.
+
+[Laughs.] I almost believe you don't recognise me!
+
+
+SOLNESS.
+
+No--I must admit that--just for the moment--
+
+
+DR. HERDAL.
+
+[Approaching.] But _I_ recognise you, my dear young lady--
+
+
+HILDA.
+
+[Pleased.] Oh, is it you that--
+
+
+DR. HERDAL.
+
+Of course it is. [To SOLNESS.] We met at one of the mountain stations
+this summer. [To HILDA.] What became of the other ladies?
+
+
+HILDA.
+
+Oh, they went westward.
+
+
+DR. HERDAL.
+
+They didn't much like all the fun we used to have in the evenings.
+
+
+HILDA.
+
+No, I believe they didn't.
+
+
+DR. HERDAL.
+
+[Holds up his finger at her.] And I am afraid it can't be denied that
+you flirted a little with us.
+
+
+HILDA.
+
+Well, that was better fun than to sit there knitting stockings with all
+those old women.
+
+
+DR. HERDAL.
+
+[Laughs.] There I entirely agree with you!
+
+
+SOLNESS.
+
+Have you come to town this evening?
+
+
+HILDA.
+
+Yes, I have just arrived.
+
+
+DR. HERDAL.
+
+Quite alone, Miss Wangel?
+
+
+HILDA.
+
+Oh yes!
+
+
+SOLNESS.
+
+Wangel? Is your name Wangel?
+
+
+HILDA.
+
+[Looks in amused surprise at him.] Yes, of course it is.
+
+
+SOLNESS.
+
+Then you must be a daughter of the district doctor up at Lysanger?
+
+
+HILDA.
+
+[As before.] Yes, who else's daughter should I be?
+
+
+SOLNESS.
+
+Oh, then I suppose we met up there, that summer when I was building a
+tower on the old church.
+
+
+HILDA.
+
+[More seriously.] Yes, of course it was then we met.
+
+
+SOLNESS.
+
+Well, that is a long time ago.
+
+
+HILDA.
+
+[Looks hard at him.] It is exactly ten years.
+
+
+SOLNESS.
+
+You must have been a mere child then, I should think.
+
+
+HILDA.
+
+[Carelessly.] Well, I was twelve or thirteen.
+
+
+DR. HERDAL.
+
+Is this the first time you have ever been up to town, Miss Wangel?
+
+
+HILDA.
+
+Yes, it is indeed.
+
+
+SOLNESS.
+
+And don't you know any one here?
+
+
+HILDA.
+
+Nobody but you. And of course, your wife.
+
+
+SOLNESS.
+
+So you know her, too?
+
+
+HILDA.
+
+Only a little. We spent a few days together at the sanatorium.
+
+
+SOLNESS.
+
+Ah, up there?
+
+
+HILDA.
+
+She said I might come and pay her a visit if ever I came up to town.
+[Smiles.] Not that that was necessary.
+
+
+SOLNESS.
+
+Odd that she should never have mentioned it.
+
+     [HILDA puts her stick down by the stove, takes off the knapsack
+       and lays it and the plaid on the sofa.  DR. HERDAL offers to
+       help her.  SOLNESS stands and gazes at her.
+
+
+HILDA.
+
+[Going towards him.] Well, now I must ask you to let me stay the night
+here.
+
+
+SOLNESS.
+
+I am sure there will be no difficulty about that.
+
+
+HILDA.
+
+For I have no other clothes than those I stand in, except a change of
+linen in my knapsack. And that has to go to the wash, for it's very
+dirty.
+
+
+SOLNESS.
+
+Oh yes, that can be managed. Now I'll just let my wife know--
+
+
+DR. HERDAL.
+
+Meanwhile I will go and see my patient.
+
+
+SOLNESS.
+
+Yes, do; and come again later on.
+
+
+DR. HERDAL.
+
+[Playfully, with a glance at HILDA.] Oh that I will, you may be very
+certain! [Laughs.] So your prediction has come true, Mr. Solness!
+
+
+SOLNESS.
+
+How so?
+
+
+DR. HERDAL.
+
+The younger generation did come knocking at your door.
+
+
+SOLNESS.
+
+[Cheerfully.] Yes, but in a very different way from what I meant.
+
+
+DR. HERDAL.
+
+Very different, yes. That's undeniable.
+
+     [He goes out by the hall-door.  SOLNESS opens the door on the
+       right and speaks into the side room.
+
+
+SOLNESS.
+
+Aline! Will you come in here, please. Here is a friend of yours--Miss
+Wangel.
+
+
+MRS. SOLNESS.
+
+[Appears in the doorway.] Who do you say it is? [Sees HILDA.]. Oh, is it
+you, Miss Wangel?
+
+
+SOLNESS.
+
+Miss Wangel has this moment arrived; and she would like to stay the
+night here.
+
+
+MRS. SOLNESS.
+
+Here with us? Oh yes, certainly.
+
+
+SOLNESS.
+
+Till she can get her things a little in order, you know.
+
+
+MRS. SOLNESS.
+
+I will do the best I can for you. It's no more than my duty. I suppose
+your trunk is coming on later?
+
+
+HILDA.
+
+I have no trunk.
+
+
+MRS. SOLNESS.
+
+Well, it will be all right, I daresay. In the meantime, you must excuse
+my leaving you here with my husband, until I can get a room made a
+little more comfortable for you.
+
+
+SOLNESS.
+
+Can we not give her one of the nurseries? They are all ready as it is.
+
+
+MRS. SOLNESS.
+
+Oh yes. There we have room and to spare. [To HILDA.] Sit down now, and
+rest a little. [She goes out to the right.
+
+     [HILDA, with her hands behind her back, strolls about the room
+       and looks at various objects.  SOLNESS stands in front, beside
+       the table, also with his hands behind his back, and follows
+       her with his eyes.
+
+
+HILDA.
+
+[Stops and looks at him.] Have you several nurseries?
+
+
+SOLNESS.
+
+There are three nurseries in the house.
+
+
+HILDA.
+
+That's a lot. Then I suppose you have a great many children?
+
+
+SOLNESS.
+
+No. We have no child. But now you can be the child here, for the time
+being.
+
+
+HILDA.
+
+For to-night, yes. I shall not cry. I mean to sleep as sound as a stone.
+
+
+SOLNESS.
+
+Yes, you must be very tired, I should think.
+
+
+HILDA.
+
+Oh no! But all the same--. It's so delicious to lie and dream.
+
+
+SOLNESS.
+
+Do you dream much of nights?
+
+
+HILDA.
+
+Oh yes! Almost always.
+
+
+SOLNESS.
+
+What do you dream about most?
+
+
+HILDA.
+
+I sha'n't tell you to-night. Another time perhaps.
+
+     [She again strolls about the room, stops at the desk and turns
+       over the books and papers a little.
+
+
+SOLNESS.
+
+[Approaching.] Are you searching for anything?
+
+
+HILDA.
+
+No, I am merely looking at all these things. [Turns.] Perhaps I mustn't?
+
+
+SOLNESS.
+
+Oh, by all means.
+
+
+HILDA.
+
+Is it you that writes in this great ledger?
+
+
+SOLNESS.
+
+No, it's my book-keeper.
+
+
+HILDA.
+
+Is it a woman?
+
+
+SOLNESS.
+
+[Smiles.] Yes.
+
+
+HILDA.
+
+One you employ here, in your office?
+
+
+SOLNESS.
+
+Yes.
+
+
+HILDA.
+
+Is she married?
+
+
+SOLNESS.
+
+No, she is single.
+
+HILDA.
+
+Oh, indeed!
+
+
+SOLNESS.
+
+But I believe she is soon going to be married.
+
+
+HILDA.
+
+That's a good thing for her.
+
+
+SOLNESS.
+
+But not such a good thing for me. For then I shall have nobody to help
+me.
+
+
+HILDA.
+
+Can't you get hold of some one else who will do just as well?
+
+
+SOLNESS.
+
+Perhaps you would stay here and--and write in the ledger?
+
+
+HILDA.
+
+[Measures him with a glance.] Yes, I daresay! No, thank you--nothing of
+that sort for me.
+
+     [She again strolls across the room, and sits down on the
+       rocking-chair.  SOLNESS too goes to the table.
+
+
+HILDA.
+
+[Continuing.] For there must surely be plenty of other thing to be done
+here. [Looks smilingly at him.] Don't you think so, too?
+
+
+SOLNESS.
+
+Of course. First of all, I suppose, you want to make a round of the
+shops, and get yourself up in the height of fashion.
+
+
+HILDA.
+
+[Amused.] No, I think I shall let that alone!
+
+
+SOLNESS.
+
+Indeed?
+
+
+HILDA.
+
+For you must know I have run through all my money.
+
+
+SOLNESS.
+
+[Laughs.] Neither trunk nor money, then?
+
+
+HILDA.
+
+Neither one nor the other. But never mind--it doesn't matter now.
+
+
+SOLNESS.
+
+Come now, I like you for that.
+
+
+HILDA.
+
+Only for that?
+
+
+SOLNESS.
+
+For that among other things. [Sits in the arm-chair.] Is your father
+alive still?
+
+
+HILDA.
+
+Yes, father's alive.
+
+
+SOLNESS.
+
+Perhaps you are thinking of studying here?
+
+
+HILDA.
+
+No, that hadn't occurred to me.
+
+
+SOLNESS.
+
+But I suppose you will be staying for some time?
+
+
+HILDA.
+
+That must depend upon circumstances.
+
+     [She sits awhile rocking herself and looking at him, half
+       seriously, half with a suppressed smile.  Then she takes
+       off her hat and puts it on the table in front of her.
+
+
+HILDA.
+
+Mr. Solness!
+
+
+SOLNESS.
+
+Well?
+
+
+HILDA.
+
+Have you a very bad memory?
+
+
+SOLNESS.
+
+A bad memory? No, not that I am aware of.
+
+
+HILDA.
+
+Then have you nothing to say to me about what happened up there?
+
+
+SOLNESS.
+
+[In momentary surprise.] Up at Lysanger? [Indifferently.] Why, it was
+nothing much to talk about it seems to me.
+
+
+HILDA.
+
+[Looks reproachfully at him.] How can you sit there and say such things?
+
+
+SOLNESS.
+
+Well, then, you talk to me about it.
+
+
+HILDA.
+
+When the tower was finished, we had grand doings in the town.
+
+
+SOLNESS.
+
+Yes, I shall not easily forget that day.
+
+
+HILDA.
+
+[Smiles.] Will you not? That comes well from you.
+
+
+SOLNESS.
+
+Comes well?
+
+
+HILDA.
+
+There was music in the churchyard--and many, many hundreds of people. We
+school-girls were dressed in white; and we all carried flags.
+
+
+SOLNESS.
+
+Ah yes, those flags--I can tell you I remember them!
+
+
+HILDA.
+
+Then you climbed right up the scaffolding, straight to the very top; and
+you had a great wreath with you; and you hung that wreath right away up
+on the weather-vane.
+
+
+SOLNESS.
+
+[Curtly interrupting.] I always did that in those days. It is an old
+custom.
+
+
+HILDA.
+
+It was so wonderfully thrilling to stand below and look up at you.
+Fancy, if he should fall over! He--the master builder himself!
+
+
+SOLNESS.
+
+[As if to divert her from the subject.] Yes, yes, yes, that might
+very will have happened, too. For one of those white-frocked little
+devils,--she went on in such a way, and screamed up at me so--
+
+
+HILDA.
+
+[Sparkling with pleasure.] "Hurrah for Master Builder Solness!" Yes!
+
+
+SOLNESS. --and waved and flourished with her flag, so that I--so that it
+almost made me giddy to look at it.
+
+
+HILDA.
+
+[In a lower voice, seriously.] That little devil--that was _I_.
+
+
+SOLNESS.
+
+[Fixes his eyes steadily upon her.] I am sure of that now. It must have
+been you.
+
+
+HILDA.
+
+[Lively again.] Oh, it was so gloriously thrilling! I could not have
+believed there was a builder in the whole world that could build such a
+tremendously high tower. And then, that you yourself should stand at the
+very top of it, as large as life! And that you should not be the least
+bit dizzy! It was that above everything that made one--made one dizzy to
+think of.
+
+
+SOLNESS.
+
+How could you be so certain that I was not?
+
+
+HILDA.
+
+[Scouting the idea.] No indeed! Oh no! I knew that instinctively. For if
+you had been, you could never have stood up there and sung.
+
+
+SOLNESS.
+
+[Looks at her in astonishment.] Sung? Did _I_ sing?
+
+
+HILDA.
+
+Yes, I should think you did.
+
+
+SOLNESS.
+
+
+[Shakes his head.] I have never sung a note in my life.
+
+
+HILDA.
+
+Yes, indeed, you sang then. It sounded like harps in the air.
+
+
+SOLNESS.
+
+[Thoughtfully.] This is very strange--all this.
+
+
+HILDA.
+
+[Is silent awhile, looks at him and says in a low voice:] But then,--it
+was after that--that the real thing happened.
+
+
+SOLNESS.
+
+The real thing?
+
+
+HILDA.
+
+[Sparking with vivacity.] Yes, I surely don't need to remind you of
+that?
+
+
+SOLNESS.
+
+Oh yes do remind me a little of that, too.
+
+
+HILDA.
+
+Don't you remember that a great dinner was given in your honour at the
+Club?
+
+
+SOLNESS.
+
+Yes, to be sure. It must have been the same afternoon, for I left the
+place next morning.
+
+
+HILDA.
+
+And from the Club you were invited to come round to our house to supper.
+
+
+SOLNESS.
+
+Quite right, Miss Wangel. It is wonderful how all these trifles have
+impressed themselves on your mind.
+
+
+HILDA.
+
+Trifles! I like that! Perhaps it was a trifle, too, that I was alone in
+the room when you came in?
+
+
+SOLNESS.
+
+Were you alone?
+
+
+HILDA.
+
+[Without answering him.] You didn't call me a little devil then?
+
+
+SOLNESS.
+
+No, I suppose I did not.
+
+
+HILDA.
+
+You said I was lovely in my white dress, and that I looked like a little
+princess.
+
+
+SOLNESS.
+
+I have no doubt you did, Miss Wangel.--And besides--I was feeling so
+buoyant and free that day--
+
+
+HILDA.
+
+And then you said that when I grew up I should be your princess.
+
+
+SOLNESS.
+
+[Laughing a little.] Dear, dear--did I say that too?
+
+
+HILDA.
+
+Yes, you did. And when I asked how long I should have to wait, you
+said that you would come again in ten years--like a troll--and carry me
+off--to Spain or some such place. And you promised you would buy me a
+kingdom there.
+
+
+SOLNESS.
+
+[As before.] Yes, after a good dinner one doesn't haggle about the
+halfpence. But did I really say all that?
+
+
+HILDA.
+
+[Laughs to herself.] Yes. And you told me, too, what the kingdom was to
+be called.
+
+
+SOLNESS.
+
+Well, what was it?
+
+
+HILDA.
+
+It was to be called the kingdom of Orangia,* you said.
+
+  *In the original "Appelsinia," "appelsin" meaning "orange."
+
+
+SOLNESS.
+
+Well, that was an appetising name.
+
+
+HILDA.
+
+No, I didn't like it a bit; for it seemed as though you wanted to make
+game of me.
+
+
+SOLNESS.
+
+I am sure that cannot have been my intention.
+
+
+HILDA.
+
+No, I should hope not--considering what you did next--
+
+
+SOLNESS.
+
+What in the world did I do next?
+
+
+HILDA.
+
+Well, that's the finishing touch, if you have forgotten that too. I
+should have thought no one could help remembering such a thing as that.
+
+
+SOLNESS.
+
+Yes, yes, just give me a hint, and then perhaps---- Well?
+
+
+HILDA.
+
+[Looks fixedly at him.] You came and kissed me, Mr. Solness.
+
+
+SOLNESS.
+
+[Open-mouthed.] _I_ did!
+
+
+HILDA.
+
+Yes, indeed you did. You took me in both your arms, and bent my head
+back, and kissed me--many times.
+
+
+SOLNESS.
+
+Now really, my dear Miss Wangel--!
+
+
+HILDA.
+
+[Rises.] You surely cannot mean to deny it?
+
+
+SOLNESS.
+
+Yes, I do. I deny it altogether!
+
+
+HILDA.
+
+[Looks scornfully at him.] Oh, indeed!
+
+       [She turns and goes slowly up to the stove, where she remains
+       standing motionless, her face averted from him, her hands
+       behind her back.  Short pause.
+
+
+SOLNESS.
+
+[Goes cautiously up behind her.] Miss Wangel--!
+
+
+HILDA.
+
+[Is silent and does not move.]
+
+
+SOLNESS.
+
+Don't stand there like a statue. You must have dreamt all this. [Lays
+his hand on her arm.] Now just listen--
+
+
+HILDA.
+
+[Makes an impatient movement with her arm.]
+
+
+SOLNESS.
+
+[As a thought flashes upon him.] Or--! Wait a moment! There is something
+under all this, you may depend!
+
+
+HILDA.
+
+[Does not move.]
+
+
+SOLNESS.
+
+[In a low voice, but with emphasis.] I must have thought all that. I
+must have wished it--have willed it--have longed to do it. And then--.
+May not that be the explanation.
+
+
+HILDA.
+
+[Is still silent.]
+
+
+SOLNESS.
+
+[Impatiently.] Oh very well, deuce take it all--then I did do it, I
+suppose.
+
+
+HILDA.
+
+[Turns her head a little, but without looking at him.] Then you admit it
+now?
+
+
+SOLNESS.
+
+Yes--whatever you like.
+
+
+HILDA.
+
+You came and put your arms round me?
+
+
+SOLNESS.
+
+Oh yes!
+
+
+HILDA.
+
+And bent my head back?
+
+SOLNESS.
+
+Very far back.
+
+
+HILDA.
+
+And kissed me?
+
+
+SOLNESS.
+
+Yes, I did.
+
+
+HILDA.
+
+Many times?
+
+
+SOLNESS.
+
+As many as ever you like.
+
+
+HILDA.
+
+[Turns quickly toward him and has once more the sparkling expression of
+gladness in her eyes.] Well, you see, I got it out of you at last!
+
+
+SOLNESS.
+
+[With a slight smile.] Yes--just think of my forgetting such a thing as
+that.
+
+
+HILDA.
+
+[Again a little sulky, retreats from him.] Oh, you have kissed so many
+people in your time, I suppose.
+
+
+SOLNESS.
+
+No, you mustn't think that of me. [HILDA seats herself in the arm-chair.
+SOLNESS stands and leans against the rocking-chair. Looks observantly at
+her.] Miss Wangel!
+
+
+HILDA.
+
+Yes!
+
+
+SOLNESS.
+
+How was it now? What came of all this--between us two.
+
+
+HILDA.
+
+Why, nothing more came of it. You know that quite well. For then the
+other guests came in, and then--bah!
+
+
+SOLNESS.
+
+Quite so! The others came in. To think of my forgetting that too!
+
+
+HILDA.
+
+Oh, you haven't really forgotten anything: you are only a little ashamed
+of it all. I am sure one doesn't forget things of that kind.
+
+
+SOLNESS.
+
+No, one would suppose not.
+
+
+HILDA.
+
+[Lively again, looks at him.] Perhaps you have even forgotten what day
+it was?
+
+
+SOLNESS.
+
+What day--?
+
+
+HILDA.
+
+Yes, on what day did you hang the wreath on the tower? Well? Tell me at
+once!
+
+
+SOLNESS.
+
+H'm--I confess I have forgotten the particular day. I only know it was
+ten years ago. Some time in autumn.
+
+
+HILDA.
+
+[Nods her head slowly several times.] It was ten years ago--on the 19th
+of September.
+
+
+SOLNESS.
+
+Yes, it must have been about that time. Fancy your remembering that too!
+[Stops.] But wait a moment--! Yes--it's the 19th of September today.
+
+
+HILDA.
+
+Yes, it is; and the ten years are gone. And you didn't come--as you had
+promised me.
+
+
+SOLNESS.
+
+Promised you? Threatened, I suppose you mean?
+
+
+HILDA.
+
+I don't think there was any sort of threat in that.
+
+
+SOLNESS.
+
+Well then, a little bit of fun.
+
+
+HILDA.
+
+Was that all you wanted? To make fun of me?
+
+
+SOLNESS.
+
+Well, or to have a little joke with you. Upon my soul, I don't
+recollect. But it must have been something of that kind; for you were a
+mere child then.
+
+
+HILDA.
+
+Oh, perhaps I wasn't quite such a child either. Not such a mere chit as
+you imagine.
+
+
+SOLNESS.
+
+[Looks searchingly at her.] Did you really and seriously expect me to
+come again?
+
+
+HILDA.
+
+[Conceals a half-teasing smile.] Yes, indeed! I did expect that of you.
+
+
+SOLNESS.
+
+That I should come back to your home, and take you away with me?
+
+
+HILDA.
+
+Just like a troll--yes.
+
+
+SOLNESS.
+
+And make a princess of you?
+
+
+HILDA.
+
+That's what you promised.
+
+
+SOLNESS.
+
+And give you a kingdom as well?
+
+
+HILDA.
+
+[Looks up at the ceiling.] Why not? Of course it need not have been an
+actual, every-day sort of a kingdom.
+
+
+SOLNESS.
+
+But something else just as good?
+
+
+HILDA.
+
+Yes, at least as good. [Looks at him a moment.] I thought, if you could
+build the highest church-towers in the world, you could surely manage to
+raise a kingdom of one sort or another as well.
+
+
+SOLNESS.
+
+[Shakes his head.] I can't quite make you out, Miss Wangel.
+
+
+HILDA.
+
+Can you not? To me it seems all so simple.
+
+
+SOLNESS.
+
+No, I can't make up my mind whether you mean all you say, or are simply
+having a joke with me.
+
+
+HILDA.
+
+[Smiles.] Making fun of you, perhaps? I, too?
+
+
+SOLNESS.
+
+Yes, exactly. Making fun--of both of us. [Looks at her.] Is it long
+since you found out that I was married?
+
+
+HILDA.
+
+I have know it all along. Why do you ask me that?
+
+
+SOLNESS.
+
+[Lightly.] Oh, well, it just occurred to me. [Looks earnestly at her,
+and says in a low voice.] What have you come for?
+
+
+HILDA.
+
+I want my kingdom. The time is up.
+
+
+SOLNESS.
+
+[Laughs involuntarily.] What a girl you are!
+
+
+HILDA.
+
+[Gaily.] Out with my kingdom, Mr. Solness! [Raps with her fingers.] The
+kingdom on the table!
+
+
+SOLNESS.
+
+[Pushing the rocking-chair nearer and sitting down.] Now, seriously
+speaking--what have you come for? What do you really want to do here?
+
+
+HILDA.
+
+Oh, first of all, I want to go round and look at all the things that you
+have built.
+
+
+SOLNESS.
+
+That will give you plenty of exercise.
+
+
+HILDA.
+
+Yes, I know you have built a tremendous lot.
+
+
+SOLNESS.
+
+I have indeed--especially of late years.
+
+
+HILDA.
+
+Many church-towers among the rest? Immensely high ones?
+
+
+SOLNESS.
+
+No. I build no more church-towers now. Nor churches either.
+
+
+HILDA.
+
+What do you build then?
+
+
+SOLNESS.
+
+Homes for human beings.
+
+
+HILDA.
+
+[Reflectively.] Couldn't you build a little--a little bit of a
+church-tower over these homes as well?
+
+
+SOLNESS.
+
+[Starting.] What do you mean by that?
+
+
+HILDA.
+
+I mean--something that points--points up into the free air. With the
+vane at a dizzy height.
+
+
+SOLNESS.
+
+[Pondering a little.] Strange that you should say that--for that is just
+what I am most anxious to do.
+
+
+HILDA.
+
+[Impatiently.] Why don't you do it, then?
+
+
+SOLNESS.
+
+[Shakes his head.] No, the people will not have it.
+
+
+HILDA.
+
+Fancy their not wanting it!
+
+
+SOLNESS.
+
+[More lightly.] But now I am building a new home for myself--just
+opposite here.
+
+
+HILDA.
+
+For yourself?
+
+
+SOLNESS.
+
+Yes. It is almost finished. And on that there is a tower.
+
+
+HILDA.
+
+A high tower?
+
+
+SOLNESS.
+
+Yes.
+
+
+HILDA.
+
+Very high?
+
+
+SOLNESS.
+
+No doubt people will say it is too high--too high for a dwelling-house.
+
+
+HILDA.
+
+I'll go out to look at that tower first thing to-morrow morning.
+
+
+SOLNESS.
+
+[Sits resting his cheek on his hand, and gazes at her.] Tell me, Miss
+Wangel--what is your name? Your Christian name, I mean.
+
+
+HILDA.
+
+Why, Hilda, of course.
+
+
+SOLNESS.
+
+[As before.] Hilda? Indeed?
+
+
+HILDA.
+
+Don't you remember that? You called me Hilda yourself--that day when you
+misbehaved.
+
+
+SOLNESS.
+
+Did I really.
+
+
+HILDA.
+
+But then you said "little Hilda"; and I didn't like that.
+
+
+SOLNESS.
+
+Oh, you didn't like that, Miss Hilda?
+
+
+HILDA.
+
+No, not at such a time as that. But--"Princess Hilda"--that will sound
+very well, I think.
+
+
+SOLNESS.
+
+Very well indeed. Princess Hilda of--of--what was to be the name of the
+kingdom?
+
+
+HILDA.
+
+Pooh! I won't have anything to do with that stupid kingdom. I have set
+my heart upon quite a different one!
+
+
+SOLNESS.
+
+[Has leaned back in the chair, still gazing at her.] Isn't it strange--?
+The more I think of it now, the more it seems to me as though I had gone
+about all these years torturing myself with--h'm--
+
+
+HILDA.
+
+With what?
+
+
+SOLNESS.
+
+With the effort to recover something--some experience, which I seemed to
+have forgotten. But I never had the least inkling of what it could be.
+
+
+HILDA.
+
+You should have tied a knot in your pocket-handkerchief, Mr. Solness.
+
+
+SOLNESS.
+
+In that case, I should simply have had to go racking my brains to
+discover what the knot could mean.
+
+
+HILDA.
+
+Oh yes, I suppose there are trolls of that kind in the world, too.
+
+
+SOLNESS.
+
+[Rises slowly.] What a good thing it is that you have come to me now.
+
+
+HILDA.
+
+[Looks deeply into his eyes.] Is it a good thing!
+
+
+SOLNESS.
+
+For I have been so lonely here. I have been gazing so helplessly at it
+all. [In a lower voice.] I must tell you--I have begun to be afraid of
+the younger generation.
+
+
+HILDA.
+
+[With a little snort of contempt.] Pooh--is the younger generation
+something to be afraid of?
+
+
+SOLNESS.
+
+It is indeed. And that is why I have locked and barred myself in.
+[Mysteriously.] I tell you the younger generation will one day come and
+thunder at my door! They will break in upon me!
+
+
+HILDA.
+
+Then I should say you ought to go out and open the door to the younger
+generation.
+
+
+SOLNESS.
+
+Open the door?
+
+
+HILDA.
+
+Yes. Let them come in to you on friendly terms, as it were.
+
+
+SOLNESS.
+
+No, no, no! The younger generation--it means retribution, you see. It
+comes, as if under a new banner, heralding the turn of fortune.
+
+
+HILDA.
+
+[Rises, looks at him, and says with a quivering twitch of her lips.] Can
+_I_ be of any use to you, Mr. Solness?
+
+
+SOLNESS.
+
+Yes, you can indeed! For you, too, come--under a new banner it seems to
+me. You marshalled against youth--!
+
+
+  DR. HERDAL comes in by the hall-door.
+
+
+DR. HERDAL.
+
+What--you and Miss Wangel here still?
+
+
+SOLNESS.
+
+Yes. We have had no end of things to talk about.
+
+
+HILDA.
+
+Both old and new.
+
+
+DR. HERDAL.
+
+Have you really?
+
+
+HILDA.
+
+Oh, it has been the greatest fun. For Mr. Solness--he has such a
+miraculous memory. All the least little details he remembers instantly.
+
+
+  MRS. SOLNESS enters by the door on the right.
+
+
+MRS. SOLNESS.
+
+Well, Miss Wangel, your room is quite ready for you now.
+
+
+HILDA.
+
+Oh, how kind you are to me!
+
+
+SOLNESS.
+
+[To MRS. SOLNESS.] The nursery?
+
+
+MRS. SOLNESS.
+
+Yes, the middle one. But first let us go in to supper.
+
+
+SOLNESS.
+
+[Nods to HILDA.] Hilda shall sleep in the nursery, she shall.
+
+
+MRS. SOLNESS.
+
+[Looks at him.] Hilda?
+
+
+SOLNESS.
+
+Yes, Miss Wangel's name is Hilda. I knew her when she was a child.
+
+
+MRS. SOLNESS.
+
+Did you really, Halvard? Well, shall we go?
+
+     [She takes DR. HERDAL's arm and goes out with him to the
+       right.  HILDA has meanwhile been collecting her travelling
+       things.
+
+
+HILDA.
+
+[Softly and rapidly to SOLNESS.] Is it true, what you said? Can I be of
+use to you?
+
+
+SOLNESS.
+
+[Takes the things from her.] You are the very being I have needed most.
+
+
+HILDA.
+
+[Looks at him with happy, wondering eyes and clasps her hands.] But
+then, great heavens--!
+
+
+SOLNESS.
+
+[Eagerly.] What--?
+
+
+HILDA.
+
+Then I have my kingdom!
+
+
+SOLNESS.
+
+[Involuntarily.] Hilda--!
+
+
+HILDA.
+
+[Again with the quivering twitch of her lips.] Almost--I was going to
+say.
+
+     [She goes out to the right, SOLNESS follows her.
+
+
+
+
+ACT SECOND.
+
+  A prettily furnished small drawing-room in SOLNESS'S house.
+  In the back, a glass-door leading out to the verandah and
+  garden.  The right-hand corner is cut off transversely by
+  a large bay-window, in which are flower-stands.  The left-
+  hand corner is similarly cut off by a transverse wall, in
+  which is a small door papered like the wall.  On each side,
+  an ordinary door.  In front, on the right, a console table
+  with a large mirror over it.  Well-filled stands of plants
+  and flowers.  In front, on the left, a sofa with a table
+  and chairs.  Further back, a bookcase.  Well forward in the
+  room, before the bay window, a small table and some chairs.
+  It is early in the day.
+
+  SOLNESS sits by the little table with RAGNAR BROVIK'S
+  portfolio open in front of him.  He is turning the drawings
+  over and closely examining some of them.  MRS. SOLNESS moves
+  about noiselessly with a small watering-pot, attending to her
+  flowers.  She is dressed in black as before.  Her hat, cloak
+  and parasol lie on a chair near the mirror.  Unobserved by her,
+  SOLNESS now and again follows her with his eyes.  Neither of
+  them speaks.
+
+  KAIA FOSLI enters quietly by the door on the left.
+
+
+SOLNESS.
+
+[Turns his head, and says in an off-hand tone of indifference:] Well, is
+that you?
+
+
+KAIA.
+
+I merely wished to let you know that I have come.
+
+
+SOLNESS.
+
+Yes, yes, that's all right. Hasn't Ragnar come too?
+
+
+KAIA.
+
+No, not yet. He had to wait a little while to see the doctor. But he is
+coming presently to hear--
+
+
+SOLNESS.
+
+How is the old man to-day?
+
+
+KAIA.
+
+Not well. He begs you to excuse him; he is obliged to keep his bed
+to-day.
+
+
+SOLNESS.
+
+Why, of course; by all means let him rest. But now, get to your work.
+
+
+KAIA.
+
+Yes. [Pauses at the door.] Do you wish to speak to Ragnar when he comes?
+
+
+SOLNESS.
+
+No--I don't know that I have anything particular to say to him.
+
+     [KAIA goes out again to the left.  SOLNESS remains seated,
+       turning over the drawings.
+
+
+MRS. SOLNESS.
+
+[Over beside the plants.] I wonder if he isn't going to die now, as
+well?
+
+
+SOLNESS.
+
+[Looks up at her.] As well as who?
+
+
+MRS. SOLNESS.
+
+[Without answering.] Yes, yes--depend upon it, Halvard, old Brovik is
+going to die too. You'll see that he will.
+
+
+SOLNESS.
+
+My dear Aline, ought you not to go out for a little walk?
+
+
+MRS. SOLNESS.
+
+Yes, I suppose I ought to.
+
+     [She continues to attend the flowers.
+
+
+SOLNESS.
+
+[Bending over the drawings.] Is she still asleep?
+
+
+MRS. SOLNESS.
+
+[Looking at him.] Is it Miss Wangel you are sitting there thinking
+about?
+
+
+SOLNESS.
+
+[Indifferently.] I just happened to recollect her.
+
+
+MRS. SOLNESS.
+
+Miss Wangle was up long ago.
+
+
+SOLNESS.
+
+Oh, was she?
+
+
+MRS. SOLNESS.
+
+When I went in to see her, she was busy putting her things in order.
+
+     [She goes in front of the mirror and slowly begins to put on
+       her hat.
+
+
+SOLNESS.
+
+[After a short pause.] So we have found a use for one our nurseries
+after all, Aline.
+
+
+MRS. SOLNESS.
+
+Yes, we have.
+
+
+SOLNESS.
+
+That seems to me better than to have them all standing empty.
+
+
+MRS. SOLNESS.
+
+That emptiness is dreadful; you are right there.
+
+
+SOLNESS.
+
+[Closes the portfolio, rises and approaches her.] You will find that
+we shall get on far better after this, Aline. Things will be more
+comfortable. Life will be easier--especially for you.
+
+
+MRS. SOLNESS.
+
+[Looks at him.] After this?
+
+
+SOLNESS.
+
+Yes, believe me, Aline--
+
+
+MRS. SOLNESS.
+
+Do you mean--because she has come here?
+
+
+SOLNESS.
+
+[Checking himself.] I mean, of course--when once we have moved into the
+new home.
+
+MRS. SOLNESS.
+
+[Takes her cloak.] Ah, do you think so, Halvard? Will it be better then?
+
+
+SOLNESS.
+
+I can't think otherwise. And surely you think so too?
+
+
+MRS. SOLNESS.
+
+I think nothing at all about the new house.
+
+
+SOLNESS.
+
+[Cast down.] It's hard for me to hear you say that; for you know it is
+mainly for your sake that I have built it.
+
+     [He offers to help her on with her cloak.
+
+
+MRS. SOLNESS.
+
+[Evades him.] The fact is, you do far too much for my sake.
+
+
+SOLNESS.
+
+[With a certain vehemence.] No, no, you really mustn't say that, Aline!
+I cannot bear to hear you say such things!
+
+
+MRS. SOLNESS.
+
+Very well, then I won't say it, Halvard.
+
+
+SOLNESS.
+
+But I stick to what _I_ said. You'll see that things will be easier for
+you in the new place.
+
+
+MRS. SOLNESS.
+
+Oh, heavens--easier for me--!
+
+
+SOLNESS.
+
+[Eagerly.] Yes, indeed they will! You may be quite sure of that! For you
+see--there will be so very, very much there that will remind you of your
+own home--
+
+
+MRS. SOLNESS.
+
+The home that used to be father's and mother's--and that was burnt to
+the ground--
+
+
+SOLNESS.
+
+[In a low voice.] Yes, yes, my poor Aline. That was a terrible blow for
+you.
+
+
+MRS. SOLNESS.
+
+[Breaking out in lamentation.] You may build as much as ever you like,
+Halvard--you can never build up again a real home for me!
+
+
+SOLNESS.
+
+[Crosses the room.] Well, in Heaven's name, let us talk no more about it
+then.
+
+
+MRS. SOLNESS.
+
+We are not in the habit of talking about it. For you always put the
+thought away from you--
+
+
+SOLNESS.
+
+[Stops suddenly and looks at her.] Do I? And why should I do that? Put
+the thought away from me?
+
+
+MRS. SOLNESS.
+
+Oh yes, Halvard, I understand you very well. You are so anxious to spare
+me--and to find excuses for me too--as much as ever you can.
+
+
+SOLNESS.
+
+[With astonishment in his eyes.] You! Is it you--yourself, that your are
+talking about, Aline?
+
+
+MRS. SOLNESS.
+
+Yes, who else should it be but myself?
+
+
+SOLNESS.
+
+[Involuntarily to himself.] That too!
+
+
+MRS. SOLNESS.
+
+As for the old house, I wouldn't mind so much about that. When once
+misfortune was in the air--why--
+
+
+SOLNESS.
+
+Ah, you are right there. Misfortune will have its way--as the saying
+goes.
+
+
+MRS. SOLNESS.
+
+But it's what came of the fire--the dreadful thing that followed--! That
+is the thing! That, that, that!
+
+
+SOLNESS.
+
+[Vehemently.] Don't think about that, Aline!
+
+
+MRS. SOLNESS.
+
+Ah, that is exactly what I cannot help thinking about. And now, at last,
+I must speak about it, too; for I don't seem to be able to bear it any
+longer. And then never to be able to forgive myself--
+
+
+SOLNESS.
+
+[Exclaiming.] Yourself--!
+
+
+MRS. SOLNESS.
+
+Yes, for I had duties on both sides--both towards you and towards the
+little ones. I ought to have hardened myself--not to have let the
+horror take such hold upon me--nor the grief for the burning of my home.
+[Wrings her hands.] Oh, Halvard, if I had only had the strength!
+
+
+SOLNESS.
+
+[Softly, much moved, comes closer.] Aline--you must promise me never to
+think these thoughts any more.--Promise me that, dear!
+
+
+MRS. SOLNESS.
+
+Oh, promise, promise! One can promise anything.
+
+
+SOLNESS.
+
+[Clenches his hands and crosses the room.] Oh, but this is hopeless,
+hopeless! Never a ray of sunlight! Not so much as a gleam of brightness
+to light up our home!
+
+
+MRS. SOLNESS.
+
+This is no home, Halvard.
+
+
+SOLNESS.
+
+Oh no, you may well say that. [Gloomily.] And God knows whether you are
+not right in saying that it will be no better for us in the new house,
+either.
+
+
+MRS. SOLNESS.
+
+It will never be any better. Just as empty--just as desolate--there as
+here.
+
+
+SOLNESS.
+
+[Vehemently.] Why in all the world have we built it then? Can you tell
+me that?
+
+
+MRS. SOLNESS.
+
+No; you must answer that question for yourself.
+
+
+SOLNESS.
+
+[Glances suspiciously at her.] What do you mean by that, Aline?
+
+
+MRS. SOLNESS.
+
+What do I mean?
+
+
+SOLNESS.
+
+Yes, in the devil's name! You said it so strangely--as if you had some
+hidden meaning in it.
+
+
+MRS. SOLNESS.
+
+No, indeed, I assure you--
+
+
+SOLNESS.
+
+[Comes closer.] Oh, come now--I know what I know. I have both my eyes
+and my ears about me, Aline--you may depend upon that!
+
+
+MRS. SOLNESS.
+
+Why, what are you talking about? What is it?
+
+
+SOLNESS.
+
+[Places himself in front of her.] Do you mean to say you don't find a
+kind of lurking, hidden meaning in the most innocent word I happen to
+say?
+
+
+MRS. SOLNESS.
+
+_I_ do you say? _I_ do that?
+
+
+SOLNESS.
+
+[Laughs.] Ho-ho-ho! It's natural enough, Aline! When you have a sick man
+on your hands--
+
+
+MRS. SOLNESS.
+
+[Anxiously.] Sick? Are you ill, Halvard?
+
+
+SOLNESS.
+
+[Violently.] A half-mad man then! A crazy man! Call me what you will.
+
+
+MRS. SOLNESS.
+
+[Feels blindly for a chair and sits down.] Halvard--for God's sake--
+
+
+SOLNESS.
+
+But you are wrong, both you and the doctor. I am not in the state that
+you imagine.
+
+     [He walks up and down the room.  MRS. SOLNESS follows him
+       anxiously with her eyes.  Finally he goes up to her.
+
+
+SOLNESS.
+
+[Calmly.] In reality there is nothing whatever the matter with me.
+
+
+MRS. SOLNESS.
+
+No, there isn't, is there? But then what is it that troubles you so?
+
+
+SOLNESS.
+
+Why this, that I often feel ready to sink under this terrible burden of
+debt--
+
+
+MRS. SOLNESS.
+
+Debt, do you say? But you owe no one anything, Halvard!
+
+
+SOLNESS.
+
+[Softly, with emotion.] I owe a boundless debt to you--to you--to you,
+Aline.
+
+
+MRS. SOLNESS.
+
+[Rises slowly.] What is behind all this? You may just as well tell me at
+once.
+
+
+SOLNESS.
+
+But there is nothing behind it! I have never done you any wrong--not
+wittingly and willfully, at any rate. And yet--and yet it seems as
+though a crushing debt rested upon me and weighed me down.
+
+
+MRS. SOLNESS.
+
+A debt to me?
+
+
+SOLNESS.
+
+Chiefly to you.
+
+
+MRS. SOLNESS.
+
+Then you are--ill after all, Halvard.
+
+
+SOLNESS.
+
+[Gloomily.] I suppose I must be--or not far from it. [Looks towards the
+door to the right, which is opened at this moment.] Ah! now it grows
+light.
+
+
+  HILDA WANGEL comes in.  She has made some alteration in her
+  dress, and let down her skirt.
+
+
+HILDA.
+
+Good morning, Mr. Solness!
+
+
+SOLNESS.
+
+[Nods.] Slept well?
+
+
+HILDA.
+
+Quite deliciously! Like a child in a cradle. Oh--I lay and stretched
+myself like--like a princess!
+
+
+SOLNESS.
+
+[Smiles a little.] You were thoroughly comfortable then?
+
+
+HILDA.
+
+I should think so.
+
+
+SOLNESS.
+
+And no doubt you dreamed, too.
+
+
+HILDA.
+
+Yes, I did. But that was horrid.
+
+
+SOLNESS.
+
+Was it?
+
+
+HILDA.
+
+Yes, for I dreamed I was falling over a frightfully high, sheer
+precipice. Do you never have that kind of dream?
+
+
+SOLNESS.
+
+Oh yes--now and then--
+
+
+HILDA.
+
+It's tremendously thrilling--when you fall and fall--
+
+
+SOLNESS.
+
+It seems to make one's blood run cold.
+
+
+HILDA.
+
+Do you draw your legs up under you while you are falling?
+
+
+SOLNESS.
+
+Yes, as high as ever I can.
+
+
+HILDA.
+
+So do I.
+
+
+MRS. SOLNESS.
+
+[Takes her parasol.] I must go into town now, Halvard. [To HILDA.] And
+I'll try to get one or two things that you may require.
+
+
+HILDA.
+
+[Making a motion to throw her arms round her neck.] Oh, you dear, Mrs.
+Solness! You are really much too kind to me! Frightfully kind--
+
+
+MRS. SOLNESS.
+
+[Deprecatingly, freeing herself.] Oh, not at all. It's only my duty, so
+I am very glad to do it.
+
+
+HILDA.
+
+[Offended, pouts.] But really, I think I am quite fit to be seen in the
+streets--now that I've put my dress to rights. Or do you think I am not?
+
+
+MRS. SOLNESS.
+
+To tell you the truth, I think people would stare at you a little.
+
+
+HILDA.
+
+[Contemptuously.] Pooh! Is that all? That only amuses me.
+
+
+SOLNESS.
+
+[With suppressed ill-humour.] Yes, but people might take it into their
+heads that you were mad too, you see.
+
+
+HILDA.
+
+Mad? Are there so many mad people here in town, then?
+
+
+SOLNESS.
+
+[Points to his own forehead.] Here you see one at all events.
+
+
+HILDA.
+
+You--Mr. Solness!
+
+
+SOLNESS.
+
+Have you not noticed that yet?
+
+
+HILDA.
+
+No, I certainly have not. [Reflects and laughs a little.] And
+yet--perhaps in one single thing.
+
+
+SOLNESS.
+
+Ah, do you hear that, Aline?
+
+
+MRS. SOLNESS.
+
+What is that one single thing, Miss Wangel?
+
+
+HILDA.
+
+No, I won't say.
+
+
+SOLNESS.
+
+Oh yes, do!
+
+
+HILDA.
+
+No thank you--I am not so mad as that.
+
+
+MRS. SOLNESS.
+
+When you and Miss Wangel are alone, I daresay she will tell you,
+Halvard.
+
+
+SOLNESS.
+
+Ah--you think she will?
+
+
+MRS. SOLNESS.
+
+Oh yes, certainly. For you have known her so well in the past. Ever
+since she was a child--you tell me.
+
+     [She goes out by the door on the left.
+
+
+HILDA.
+
+[After a little while.] Does your wife dislike me very much?
+
+
+SOLNESS.
+
+Did you think you noticed anything of the kind?
+
+
+HILDA.
+
+Did you notice it yourself?
+
+
+SOLNESS.
+
+[Evasively.] Aline has become exceedingly shy with strangers of late
+years.
+
+
+HILDA.
+
+Has she really?
+
+
+SOLNESS.
+
+But if only you could get to know her thoroughly--! Ah, she is so
+good--so kind--so excellent a creature--
+
+
+HILDA.
+
+[Impatiently.] But if she is all that--what made her say that about her
+duty?
+
+
+SOLNESS.
+
+Her duty?
+
+
+HILDA.
+
+She said that she would go out and buy something for me, because it was
+her duty. Oh, I can't bear that ugly, horrid word!
+
+
+SOLNESS.
+
+Why not?
+
+
+HILDA.
+
+It sounds so could and sharp, and stinging. Duty--duty--duty. Don't you
+think so, too? Doesn't it seem to sting you?
+
+
+SOLNESS.
+
+H'm--haven't thought much about it.
+
+
+HILDA.
+
+Yes, it does. And if she is so good--as you say she is--why should she
+talk in that way?
+
+
+SOLNESS.
+
+But, good Lord, what would you have had her say, then?
+
+
+HILDA.
+
+She might have said she would do it because she had taken a tremendous
+fancy to me. She might have said something like that--something really
+warm and cordial, you understand.
+
+
+SOLNESS.
+
+[Looks at her.] Is that how you would like to have it?
+
+
+HILDA.
+
+Yes, precisely. [She wanders about the room, stops at the bookcase and
+looks at the books.] What a lot of books you have.
+
+
+SOLNESS.
+
+Yes, I have got together a good many.
+
+
+HILDA.
+
+Do you read them all, too?
+
+
+SOLNESS.
+
+I used to try to. Do you read much?
+
+
+HILDA.
+
+No, never! I have given it up. For it all seems so irrelevant.
+
+
+SOLNESS.
+
+That is just my feeling.
+
+     [HILDA wanders about a little, stops at the small table, opens
+       the portfolio and turns over the contents.
+
+
+HILDA.
+
+Are all these your drawings yours?
+
+
+SOLNESS.
+
+No, they are drawn by a young man whom I employ to help me.
+
+
+HILDA.
+
+Some one you have taught?
+
+
+SOLNESS.
+
+Oh yes, no doubt he has learnt something from me, too.
+
+
+HILDA.
+
+[Sits down.] Then I suppose he is very clever. [Looks at a drawing.]
+Isn't he?
+
+
+SOLNESS.
+
+Oh, he might be worse. For my purpose--
+
+
+HILDA.
+
+Oh yes--I'm sure he is frightfully clever.
+
+
+SOLNESS.
+
+Do you think you can see that in the drawings?
+
+
+HILDA.
+
+Pooh--these scrawlings! But if he has been learning from you--
+
+
+SOLNESS.
+
+Oh, so far as that goes--there are plenty of people here that have
+learnt from me, and have come to little enough for all that.
+
+
+HILDA.
+
+[Looks at him and shakes her head.] No, I can't for the life of me
+understand how you can be so stupid.
+
+
+SOLNESS.
+
+Stupid? Do you think I am so very stupid?
+
+
+HILDA.
+
+Yes, I do indeed. If you are content to go about here teaching all these
+people--
+
+
+SOLNESS.
+
+[With a slight start.] Well, and why not?
+
+
+HILDA.
+
+[Rises, half serious, half laughing.] No indeed, Mr. Solness! What can
+be the good of that? No one but you should be allowed to build. You
+should stand quite alone--do it all yourself. Now you know it.
+
+
+SOLNESS.
+
+[Involuntarily.] Hilda--!
+
+
+HILDA.
+
+Well!
+
+
+SOLNESS.
+
+How in the world did that come into your head?
+
+
+HILDA.
+
+Do you think I am so very far wrong then?
+
+
+SOLNESS.
+
+No, that's not what I mean. But now I'll tell you something.
+
+
+HILDA.
+
+Well?
+
+
+SOLNESS.
+
+I keep on--incessantly--in silence and alone--brooding on that very
+thought.
+
+
+HILDA.
+
+Yes, that seems to me perfectly natural.
+
+
+SOLNESS.
+
+[Looks somewhat searchingly at her.] Perhaps you have noticed it
+already?
+
+
+HILDA.
+
+No, indeed I haven't.
+
+
+SOLNESS.
+
+But just now--when you said you thought I was--off my balance? In one
+thing, you said--
+
+
+HILDA.
+
+Oh, I was thinking of something quite different.
+
+
+SOLNESS.
+
+What was it?
+
+
+HILDA.
+
+I am not going to tell you.
+
+
+SOLNESS.
+
+[Crosses the room.] Well, well--as you please. [Stops at the
+bow-window.] Come here, and I will show you something.
+
+
+HILDA.
+
+[Approaching.] What is it?
+
+
+SOLNESS.
+
+Do you see over here in the garden--?
+
+
+HILDA.
+
+Yes?
+
+
+SOLNESS.
+
+[Points.] Right above the great quarry--?
+
+
+HILDA.
+
+That new house, you mean?
+
+
+SOLNESS.
+
+The one that is being built, yes. Almost finished.
+
+
+HILDA.
+
+It seems to have a very high tower.
+
+
+SOLNESS.
+
+The scaffolding is still up.
+
+
+HILDA.
+
+Is that your new house?
+
+
+SOLNESS.
+
+Yes.
+
+
+HILDA.
+
+The house you are soon going to move into?
+
+
+SOLNESS.
+
+Yes.
+
+
+HILDA.
+
+[Looks at him.] Are there nurseries in that house, too?
+
+
+SOLNESS.
+
+Three, as there are here.
+
+
+HILDA.
+
+And no child.
+
+
+SOLNESS.
+
+And there never will be one.
+
+
+HILDA.
+
+[With a half-smile.] Well, isn't it just as I said--?
+
+
+SOLNESS.
+
+That--?
+
+
+HILDA.
+
+That you are a little--a little mad after all.
+
+
+SOLNESS.
+
+Was that what you were thinking of?
+
+
+HILDA.
+
+Yes, of all the empty nurseries I slept in.
+
+
+SOLNESS.
+
+[Lowers his voice.] We have had children--Aline and I.
+
+
+HILDA.
+
+[Looks eagerly at him.] Have you--?
+
+
+SOLNESS.
+
+Two little boys. They were of the same age.
+
+
+HILDA.
+
+Twins, then.
+
+
+SOLNESS.
+
+Yes, twins. It's eleven or twelve years ago now.
+
+
+HILDA.
+
+[Cautiously.] And so both of them--? You have lost both the twins, then?
+
+
+SOLNESS.
+
+[With quiet emotion.] We kept them only about three weeks. Or scarcely
+so much. [Bursts forth.] Oh, Hilda, I can't tell you what a good thing
+it is for me that you have come! For now at last I have some one to talk
+to!
+
+
+HILDA.
+
+Can you not talk to--her, too?
+
+
+SOLNESS.
+
+Not about this. Not as I want to talk and must talk. [Gloomily.] And not
+about so many other things, either.
+
+
+HILDA.
+
+[In a subdued voice.] Was that all you meant when you said you need me?
+
+
+SOLNESS.
+
+That was mainly what I meant--at all events, yesterday. For to-day I am
+not so sure--[Breaking off.] Come here and let us sit down, Hilda. Sit
+there on the sofa--so that you can look into the garden. [HILDA seats
+herself in the corner of the sofa. SOLNESS brings a chair closer.]
+Should you like to hear about it?
+
+
+HILDA.
+
+Yes, I shall love to sit and listen to you.
+
+
+SOLNESS.
+
+[Sits down.] Then I will tell you all about it.
+
+
+HILDA.
+
+Now I can see both the garden and you, Mr. Solness. So now, tell away!
+Begin!
+
+
+SOLNESS.
+
+[Points towards the bow-window.] Out there on the rising ground--where
+you see the new house--
+
+
+HILDA.
+
+Yes?
+
+
+SOLNESS.
+
+Aline and I lived there in the first years of our married life. There
+was an old house up there that had belonged to her mother; and we
+inherited it, and the whole of the great garden with it.
+
+
+HILDA.
+
+Was there a tower on that house, too?
+
+
+SOLNESS.
+
+No, nothing of the kind. From the outside it looked like a great, dark,
+ugly wooden box; but all the same, it was snug and comfortable enough
+inside.
+
+
+HILDA.
+
+Then did you pull down the ramshackle old place?
+
+
+SOLNESS.
+
+No, it was burnt down.
+
+
+HILDA.
+
+The whole of it?
+
+
+SOLNESS.
+
+Yes.
+
+
+HILDA.
+
+Was that a great misfortune for you?
+
+
+SOLNESS.
+
+That depends on how you look at it. As a builder, the fire was the
+making of me--
+
+
+HILDA.
+
+Well, but--
+
+
+SOLNESS.
+
+It was just after the birth of the two little boys--
+
+
+HILDA.
+
+The poor little twins, yes.
+
+
+SOLNESS.
+
+They came healthy and bonny into the world. And they were growing
+too--you could see the difference day to day.
+
+
+HILDA.
+
+Little children do grow quickly at first.
+
+
+SOLNESS.
+
+It was the prettiest sight in the world to see Aline lying with the two
+of them in her arms.--But then came the night of the fire--
+
+
+HILDA.
+
+[Excitedly.] What happened? Do tell me! Was any one burnt?
+
+
+SOLNESS.
+
+No, not that. Every one got safe and sound out of the house--
+
+
+HILDA.
+
+Well, and what then--?
+
+
+SOLNESS.
+
+The fright had shaken Aline terribly. The alarm--the escape--the
+break-neck hurry--and then the ice-cold night air--for they had to be
+carried out just as they lay--both she and the little ones.
+
+
+HILDA.
+
+Was it too much for them?
+
+
+SOLNESS.
+
+Oh no, they stood it well enough. But Aline fell into a fever, and it
+affected her milk. She would insist on nursing them herself; because it
+was her duty, she said. And both our little boys, they--[Clenching his
+hands.]--they--oh!
+
+
+HILDA.
+
+They did not get over that?
+
+
+SOLNESS.
+
+No, that they did not get over. That was how we lost them.
+
+
+HILDA.
+
+It must have been terribly hard for you.
+
+
+SOLNESS.
+
+Hard enough for me; but ten time harder for Aline. [Clenching his hands
+in suppressed fury.] Oh, that such things should be allowed to happen
+here the world! [Shortly and firmly.] From the day I lost them, I had no
+heart for building churches.
+
+
+HILDA.
+
+Did you not like building the church-tower in our town?
+
+
+SOLNESS.
+
+I didn't like it. I know how free and happy I felt when that tower was
+finished.
+
+
+HILDA.
+
+_I_ know that, too.
+
+
+SOLNESS.
+
+And now I shall never--never build anything of that sort again! Neither
+churches nor church-towers.
+
+
+HILDA.
+
+[Nods slowly.] Nothing but houses for people to live in.
+
+
+SOLNESS.
+
+Homes for human beings, Hilda.
+
+
+HILDA.
+
+But homes with high towers and pinnacles upon them.
+
+
+SOLNESS.
+
+If possible. [Adopts a lighter tone.] But, as I said before, that fire
+was the making of me--as a builder, I mean.
+
+
+HILDA.
+
+Why don't you call yourself an architect, like the others?
+
+
+SOLNESS.
+
+I have not been systematically enough taught for that. Most of what I
+know I have found out for myself.
+
+
+HILDA.
+
+But you succeeded all the same.
+
+
+SOLNESS.
+
+Yes, thanks to the fire. I laid out almost the whole of the garden in
+villa lots; and there I was able to build after my own heart. So I came
+to the front with a rush.
+
+
+HILDA.
+
+[Looks keenly at him.] You must surely be a very happy man, as matters
+stand with you.
+
+
+SOLNESS.
+
+[Gloomily.] Happy? Do you say that, too--like all the rest of them?
+
+
+HILDA.
+
+Yes, I should say you must be. If you could only cease thing about the
+two little children--
+
+
+SOLNESS.
+
+[Slowly.] The two little children--they are not so easy to forget,
+Hilda.
+
+
+HILDA.
+
+[Somewhat uncertainly.] Do you still feel their loss so much--after all
+these years?
+
+
+SOLNESS.
+
+[Looks fixedly at her, without replying.] A happy man you said--
+
+
+HILDA.
+
+Well, now, are you not happy--in other respects?
+
+
+SOLNESS.
+
+[Continues to look at her.] When I told you all this about the
+fire--h'm--
+
+
+HILDA.
+
+Well?
+
+
+SOLNESS.
+
+Was there not one special thought that you--that you seized upon?
+
+
+HILDA.
+
+[Reflects in vain.] No. What thought should that be?
+
+
+SOLNESS.
+
+[With subdued emphasis.] It was simply and solely by that fire that I
+was enabled to build homes for human beings. Cosy, comfortable, bright
+homes, where father and mother and the whole troop of children can live
+in safety and gladness, feeling what a happy thing it is to be alive in
+the world--and most of all to belong to each other--in great things and
+in small.
+
+
+HILDA.
+
+[Ardently.] Well, and is it not a great happiness for you to be able to
+build such beautiful homes?
+
+
+SOLNESS.
+
+The price, Hilda! The terrible price I had to pay for the opportunity!
+
+
+HILDA.
+
+But can you never get over that?
+
+
+SOLNESS.
+
+No. That I might build homes for others, I had to forego--to forego
+for all time--the home that might have been my own. I mean a home for a
+troop of children--and for father and mother, too.
+
+
+HILDA.
+
+[Cautiously.] But need you have done that? For all time, you say?
+
+
+SOLNESS.
+
+[Nods slowly.] That was the price of this happiness that people talk
+about. [Breathes heavily.] This happiness--h'm--this happiness was not
+to be bought any cheaper, Hilda.
+
+
+HILDA.
+
+[As before.] But may it not come right even yet?
+
+
+SOLNESS.
+
+Never in this world--never. That is another consequence of the fire--and
+of Aline's illness afterwards.
+
+
+HILDA.
+
+[Looks at him with an indefinable expression.] And yet you build all
+these nurseries.
+
+
+SOLNESS.
+
+[Seriously.] Have you never noticed, Hilda, how the impossible--how it
+seems to beckon and cry aloud to one?
+
+
+HILDA.
+
+[Reflecting.] The impossible? [With animation.] Yes, indeed! Is that how
+you feel too?
+
+
+SOLNESS.
+
+Yes, I do.
+
+
+HILDA.
+
+Then there must be--a little of the troll in you too.
+
+
+SOLNESS.
+
+Why of the troll?
+
+
+HILDA.
+
+What would you call it, then?
+
+
+SOLNESS.
+
+[Rises.] Well, well, perhaps you are right. [Vehemently.] But how can
+I help turning into a troll, when this is how it always goes with me in
+everything--in everything!
+
+
+HILDA.
+
+How do you mean?
+
+
+SOLNESS.
+
+[Speaking low, with inward emotion.] Mark what I say to you, Hilda.
+All that I have succeeded in doing, building, creating--all the beauty,
+security, cheerful comfort--ay, and magnificence too--[Clenches his
+hands.] Oh, is it not terrible even to think of--?
+
+
+HILDA.
+
+What is so terrible?
+
+
+SOLNESS.
+
+That all this I have to make up for, to pay for--not in money, but in
+human happiness. And not with my own happiness only, but with other
+people's too. Yes, yes, do you see that, Hilda? That is the price which
+my position as an artist has cost me--and others. And every single day
+I have to look on while the price is paid for me anew. Over again, and
+over again--and over again for ever!
+
+
+HILDA.
+
+[Rises and looks steadily at him.] Now I can see that you are thinking
+of--of her.
+
+
+SOLNESS.
+
+Yes, mainly of Aline. For Aline--she, too, had her vocation in life,
+just as much as I had mine. [His voice quivers.] But her vocation has
+had to be stunted, and crushed, and shattered--in order that mine might
+force its way to--to a sort of great victory. For you must know that
+Aline--she, too, had a talent for building.
+
+
+HILDA.
+
+She! For building?
+
+
+SOLNESS.
+
+[Shakes his head.] Not houses and towers, and spires--not such things as
+I work away at--
+
+
+HILDA.
+
+Well, but what then?
+
+
+SOLNESS.
+
+[Softly, with emotion.] For building up the souls of little children,
+Hilda. For building up children's souls in perfect balance, and in
+noble and beautiful forms. For enabling them to soar up into erect and
+full-grown human souls. That was Aline's talent. And there it all
+lies now--unused and unusable for ever--of no earthly service to any
+one--just like the ruins left by a fire.
+
+
+HILDA.
+
+Yes, but even if this were so--?
+
+
+SOLNESS.
+
+It is so! It is so! I know it!
+
+
+HILDA.
+
+Well, but in any case it is not your fault.
+
+
+SOLNESS.
+
+[Fixes his eyes on her, and nods slowly.] Ah, that is the great, the
+terrible question. That is the doubt that is gnawing me--night and day.
+
+
+HILDA.
+
+That?
+
+
+SOLNESS.
+
+Yes. Suppose the fault was mine--in a certain sense.
+
+
+HILDA.
+
+Your fault! The fire!
+
+
+SOLNESS.
+
+All of it; the whole thing. And yet, perhaps--I may not have had
+anything to do with it.
+
+
+HILDA.
+
+[Looks at him with a troubled expression.] Oh, Mr. Solness--if you can
+talk like that, I am afraid you must be--ill after all.
+
+
+SOLNESS.
+
+H'm--I don't think I shall ever be of quite sound mind on that point.
+
+
+  RAGNAR BROVIK cautiously opens the little door in the left-
+  hand corner.  HILDA comes forward.
+
+
+RAGNAR.
+
+[When he sees Hilda.] Oh. I beg pardon, Mr. Solness---- [He makes a
+movement to withdraw.
+
+
+SOLNESS.
+
+No, no, don't go. Let us get it over.
+
+
+RAGNAR.
+
+Oh, yes--if only we could.
+
+
+SOLNESS.
+
+I hear your father is no better?
+
+
+RAGNAR.
+
+Father is fast growing weaker--and therefore I beg and implore you to
+write a few kind words for me on one of the plans! Something for father
+to read before he--
+
+
+SOLNESS.
+
+[Vehemently.] I won't hear anything more about those drawings of yours!
+
+
+RAGNAR.
+
+Have you looked at them?
+
+
+SOLNESS.
+
+Yes--I have.
+
+
+RAGNAR.
+
+And they are good for nothing? And _I_ am good for nothing, too?
+
+
+SOLNESS.
+
+[Evasively.] Stay here with me, Ragnar. You shall have everything your
+own way. And then you can marry Kaia, and live at your ease--and happily
+too, who knows? Only don't think of building on your own account.
+
+
+RAGNAR.
+
+Well, well, then I must go home and tell father what you say--I promised
+I would.--Is this what I am to tell father--before he dies?
+
+
+SOLNESS.
+
+[With a groan.] Oh tell him--tell him what you will, for me. Best to say
+nothing at all to him! [With a sudden outburst.] I cannot do anything
+else, Ragnar!
+
+
+RAGNAR.
+
+May I have the drawings to take with me?
+
+
+SOLNESS.
+
+Yes, take them--take them by all means! They are lying there on the
+table.
+
+
+RAGNAR.
+
+[Goes to the table.] Thanks.
+
+
+HILDA.
+
+[Puts her hand on the portfolio.] No, no; leave them here.
+
+
+SOLNESS.
+
+Why?
+
+
+HILDA.
+
+Because I want to look at them, too.
+
+
+SOLNESS.
+
+But you have been---- [To RAGNAR.] Well, leave them here, then.
+
+
+RAGNAR.
+
+Very well.
+
+
+SOLNESS.
+
+And go home at once to your father.
+
+
+RAGNAR.
+
+Yes, I suppose I must.
+
+
+SOLNESS.
+
+[As if in desperation.] Ragnar--you must not ask me to do what is beyond
+my power! Do you hear, Ragnar? You must not!
+
+
+RAGNAR.
+
+No, no. I beg you pardon--
+
+     [He bows, and goes out by the corner door.  HILDA goes over and
+       sits down on a chair near the mirror.
+
+
+HILDA.
+
+[Looks angrily at SOLNESS.] That was a very ugly thing to do.
+
+
+SOLNESS.
+
+Do you think so, too?
+
+
+HILDA.
+
+Yes, it was horribly ugly--and hard and bad and cruel as well.
+
+
+SOLNESS.
+
+Oh, you don't understand my position.
+
+
+HILDA.
+
+No matter--. I say you ought not to be like that.
+
+
+SOLNESS.
+
+You said yourself, only just now, that no one but _I_ ought to be
+allowed to build.
+
+
+HILDA.
+
+_I_ may say such things--but you must not.
+
+
+SOLNESS.
+
+I most of all, surely, who have paid so dear for my position.
+
+
+HILDA.
+
+Oh yes--with what you call domestic comfort--and that sort of thing.
+
+
+SOLNESS.
+
+And with my peace of soul into the bargain.
+
+
+HILDA.
+
+[Rising.] Peace of soul! [With feeling.] Yes, yes, you are right in
+that! Poor Mr. Solness--you fancy that--
+
+
+SOLNESS.
+
+[With a quiet, chuckling laugh.] Just sit down again, Hilda, and I'll
+tell you something funny.
+
+
+HILDA.
+
+[Sits down; with intent interest.] Well?
+
+
+SOLNESS.
+
+It sounds such a ludicrous little thing; for, you see, the whole story
+turns upon nothing but a crack in the chimney.
+
+
+HILDA.
+
+No more than that?
+
+
+SOLNESS.
+
+No, not to begin with.
+
+     [He moves a chair nearer to HILDA and sits down.
+
+
+HILDA.
+
+[Impatiently, taps on her knee.] Well, now for the crack in the chimney!
+
+
+SOLNESS.
+
+I had noticed the split in the flue long, long before the fire. Every
+time I went up into the attic, I looked to see if it was still there.
+
+
+HILDA.
+
+And it was?
+
+
+SOLNESS.
+
+Yes; for no one else knew about it.
+
+
+HILDA.
+
+And you said nothing?
+
+
+SOLNESS.
+
+Nothing.
+
+
+HILDA.
+
+And did not think of repairing the flue either?
+
+
+SOLNESS.
+
+Oh yes, I thought about it--but never got any further. Every time I
+intended to set to work, it seemed just as if a hand held me back. Not
+to-day, I thought--to-morrow; and nothing ever came of it.
+
+
+HILDA.
+
+But why did you keep putting it off like that?
+
+
+SOLNESS.
+
+Because I was revolving something in my mind. [Slowly, and in a low
+voice.] Through that little black crack in the chimney, I might,
+perhaps, force my way upwards--as a builder.
+
+
+HILDA.
+
+[Looking straight in front of her.] That must have been thrilling.
+
+
+SOLNESS.
+
+Almost irresistible--quite irresistible. For at that time it appeared
+to me a perfectly simple and straightforward matter. I would have had
+it happen in the winter-time--a little before midday. I was to be out
+driving Aline in the sleigh. The servants at home would have made huge
+fires in the stoves.
+
+
+HILDA.
+
+For, of course, it was to be bitterly cold that day?
+
+
+SOLNESS.
+
+Rather biting, yes--and they would want Aline to find it thoroughly snug
+and warm when she came home.
+
+
+HILDA.
+
+I suppose she is very chilly by nature?
+
+
+SOLNESS.
+
+She is. And as we drove home, we were to see the smoke.
+
+
+HILDA.
+
+Only the smoke?
+
+
+SOLNESS.
+
+The smoke first. But when we came up to the garden gate, the whole of
+the old timber-box was to be a rolling mass of flames.--That is how I
+wanted it to be, you see.
+
+
+HILDA.
+
+Oh, why, why could it not have happened so!
+
+
+SOLNESS.
+
+You may well say that, Hilda.
+
+
+HILDA.
+
+Well, but now listen, Mr. Solness. Are you perfectly certain that the
+fire was caused by that little crack in the chimney!
+
+
+SOLNESS.
+
+No, on the contrary--I am perfectly certain that the crack in the
+chimney had nothing whatever to do with the fire.
+
+
+HILDA.
+
+What!
+
+
+SOLNESS.
+
+It has been clearly ascertained that the fire broke out in a
+clothes-cupboard--in a totally different part of the house.
+
+
+HILDA.
+
+Then what is all this nonsense you are talking about the crack in the
+chimney!
+
+
+SOLNESS.
+
+May I go on talking to you a little, Hilda?
+
+
+HILDA.
+
+Yes, if you'll only talk sensibly--
+
+
+SOLNESS.
+
+I will try to. [He moves his chair nearer.
+
+
+HILDA.
+
+Out with it, then, Mr. Solness.
+
+
+SOLNESS.
+
+[Confidentially.] Don't you agree with me, Hilda, that there exist
+special, chosen people who have been endowed with the power and
+faculty if desiring a thing, craving for a thing, willing a thing--so
+persistently and so--so inexorably--that at last it has to happen? Don't
+you believe that?
+
+
+HILDA.
+
+[With an indefinable expression in her eyes.] If that is so, we shall
+see, one of these days, whether _I_ am one of the chosen.
+
+
+SOLNESS.
+
+It is not one's self alone that can do such great things. Oh, no--the
+helpers and the servers--they must do their part too, if it is to be of
+any good. But they never come of themselves. One has to call upon them
+very persistently--inwardly, you understand.
+
+
+HILDA.
+
+What are these helpers and servers?
+
+
+SOLNESS.
+
+Oh, we can talk about that some other time. For the present, let us keep
+to this business of the fire.
+
+
+HILDA.
+
+Don't you think that fire would have happened all the same--even without
+your wishing for it?
+
+
+SOLNESS.
+
+If the house had been old Knut Brovik's, it would never have burnt down
+so conveniently for him. I am sure of that; for he does not know how
+to call for the helpers--no, nor for the servers, either. [Rises in
+unrest.] So you see, Hilda--it is my fault, after all, that the lives of
+the two little boys had to be sacrificed. And do you think it is not
+my fault, too, that Aline has never been the woman she should and might
+have been--and that she most longed to be?
+
+
+HILDA.
+
+Yes, but if it is all the work of these helpers and servers--?
+
+
+SOLNESS.
+
+Who called for the helpers and servers? It was I! And they came and
+obeyed my will. [In increasing excitement.] That is what people call
+having the luck on your side; but I must tell you what this sort of luck
+feels like! It feels like a great raw place here on my breast. And the
+helpers and servers keep on flaying pieces of skin off other people in
+order to close my sore!--But still the sore is not healed--never, never!
+Oh, if you knew how it can sometimes gnaw and burn!
+
+
+HILDA.
+
+[Looks attentively at him.] You are ill, Mr. Solness. Very ill, I almost
+think.
+
+
+SOLNESS.
+
+Say mad; for that is what you mean.
+
+
+HILDA.
+
+No, I don't think there is much amiss with your intellect.
+
+
+SOLNESS.
+
+With what then? Out with it!
+
+
+HILDA.
+
+I wonder whether you were not sent into the world with a sickly
+conscience.
+
+
+SOLNESS.
+
+A sickly conscience? What devilry is that?
+
+
+HILDA.
+
+I mean that your conscience is feeble--too delicately built, as it
+were--hasn't strength to take a grip of things--to lift and bear what is
+heavy.
+
+
+SOLNESS.
+
+[Growls.] H'm! May I ask, then, what sort of a conscience one ought to
+have?
+
+
+HILDA.
+
+I should like your conscience to be--to be thoroughly robust.
+
+
+SOLNESS.
+
+Indeed? Robust, eh? Is your own conscience robust, may I ask?
+
+
+HILDA.
+
+Yes, I think it is. I have never noticed that it wasn't.
+
+
+SOLNESS.
+
+It has not been put very severely to the test, I should think.
+
+
+HILDA.
+
+[With a quivering of the lips.] Oh, it was no such simple matter to
+leave father--I am so awfully fond of him.
+
+
+SOLNESS.
+
+Dear me! for a month or two--
+
+
+HILDA.
+
+I think I shall never go home again.
+
+
+SOLNESS.
+
+Never? Then why did you leave him?
+
+
+HILDA.
+
+[Half-seriously, half-banteringly.] Have you forgotten again that the
+ten year are up?
+
+
+SOLNESS.
+
+Oh nonsense. Was anything wrong at home? Eh?
+
+
+HILDA.
+
+[Quite seriously.] It was this impulse within me that urged and goaded
+me to come--and lured and drew me on, as well.
+
+
+SOLNESS.
+
+[Eagerly.] There we have it! There we have it, Hilda! There is the troll
+in you too, as in me. For it's the troll in one, you see--it is that
+that calls to the powers outside us. And then you must give in--whether
+you will or no.
+
+
+HILDA.
+
+I almost think you are right, Mr. Solness.
+
+
+SOLNESS.
+
+[Walks about the room.] Oh, there are devils innumerable abroad in the
+world, Hilda, that one never sees.
+
+
+HILDA.
+
+Devils, too?
+
+
+SOLNESS.
+
+[Stops.] Good devils and bad devils; light-haired devils and
+black-haired devils. If only you could always tell whether it is the
+light or dark ones that have got hold of you! [Paces about.] Ho-ho! Then
+it would be simple enough!
+
+
+HILDA.
+
+[Follows him with her eyes.] Or if one had a really vigorous, radiantly
+healthy conscience--so that one dared to do what one would.
+
+
+SOLNESS.
+
+[Stops beside the console table.] I believe, now, that most people are
+just as puny creatures as I am in that respect.
+
+
+HILDA.
+
+I shouldn't wonder.
+
+
+SOLNESS.
+
+[Leaning against the table.] In the sagas--. Have you read any of the
+old sagas?
+
+
+HILDA.
+
+Oh yes! When I used to read books, I--
+
+
+SOLNESS.
+
+In the sagas you read about vikings, who sailed to foreign lands, and
+plundered and burned and killed men--
+
+
+HILDA.
+
+And carried off women--
+
+
+SOLNESS. --and kept them in captivity--
+
+
+HILDA. --took them home in their ships--
+
+
+SOLNESS. --and behaved to them like--like the very worst of trolls.
+
+
+HILDA.
+
+[Looks straight before her, with a half-veiled look.] I think that must
+have been thrilling.
+
+
+SOLNESS.
+
+[With a short, deep laugh.] To carry off women, eh?
+
+
+HILDA.
+
+To be carried off.
+
+
+SOLNESS.
+
+[Looks at her a moment.] Oh, indeed.
+
+
+HILDA.
+
+[As if breaking the thread of the conversation.] But what made you speak
+of these vikings, Mr. Solness?
+
+
+SOLNESS.
+
+Why, those fellows must have had robust consciences, if you like!
+When they got home again, they could eat and drink, and be as happy as
+children. And the women, too! They often would not leave them on any
+account. Can you understand that, Hilda?
+
+
+HILDA.
+
+Those women I can understand exceedingly well.
+
+
+SOLNESS.
+
+Oho! Perhaps you could do the same yourself?
+
+
+HILDA.
+
+Why not?
+
+
+SOLNESS.
+
+Live--of your own free will--with a ruffian like that?
+
+
+HILDA.
+
+If it was a ruffian I had come to love--
+
+
+SOLNESS.
+
+Could you come to love a man like that?
+
+
+HILDA.
+
+Good heavens, you know very well one can't choose whom one is going to
+love.
+
+
+SOLNESS.
+
+[Looks meditatively at her.] Oh no, I suppose it is the troll within one
+that's responsible for that.
+
+
+HILDA.
+
+[Half-laughing.] And all those blessed devils, that you know so
+well--both the light-haired and the dark-haired ones.
+
+
+SOLNESS.
+
+[Quietly and warmly.] Then I hope with all my heart that the devils will
+choose carefully for you, Hilda.
+
+
+HILDA.
+
+For me they have chosen already--once and for all.
+
+
+SOLNESS.
+
+[Looks earnestly at her.] Hilda--you are like a wild bird of the woods.
+
+
+HILDA.
+
+Far from it. I don't hide myself away under the bushes.
+
+
+SOLNESS.
+
+No, no. There is rather something of the bird of prey in you.
+
+
+HILDA.
+
+That is nearer it--perhaps. [Very vehemently.] And why not a bird of
+prey? Why should not _I_ go a-hunting--I, as well as the rest? Carry off
+the prey I want--if only I can get my claws into it, and do with it as I
+will.
+
+
+SOLNESS.
+
+Hilda--do you know what you are?
+
+
+HILDA.
+
+Yes, I suppose I am a strange sort of bird.
+
+
+SOLNESS.
+
+No. You are like a dawning day. When I look at you--I seem to be looking
+towards the sunrise.
+
+
+HILDA.
+
+Tell me, Mr. Solness--are you certain that you have never called me to
+you? Inwardly, you know?
+
+
+SOLNESS.
+
+[Softly and slowly.] I almost think I must have.
+
+
+HILDA.
+
+What did you want with me?
+
+
+SOLNESS.
+
+You are the younger generation, Hilda.
+
+
+HILDA.
+
+[Smiles.] That younger generation that you are so afraid of?
+
+
+SOLNESS.
+
+[Nods slowly.] And which, in my heart, I yearn towards so deeply.
+
+     [HILDA rises, goes to the little table, and fetches RAGNAR
+       BROVIK'S portfolio.
+
+
+HILDA.
+
+[Holds out the portfolio to him.] We were talking of these drawings--
+
+
+SOLNESS.
+
+[Shortly, waving them away.] Put those things away! I have seen enough
+of them.
+
+
+HILDA.
+
+Yes, but you have to write your approval on them.
+
+
+SOLNESS.
+
+Write my approval on them? Never!
+
+
+HILDA.
+
+But the poor old man is lying at death's door! Can't you give him and
+his son this pleasure before they are parted? And perhaps he might get
+the commission to carry them out, too.
+
+
+SOLNESS.
+
+Yes, that is just what he would get. He has made sure of that--has my
+fine gentleman!
+
+
+HILDA.
+
+Then, good heavens--if that is so--can't you tell the least little bit
+of a lie for once in a way?
+
+
+SOLNESS.
+
+A lie? [Raging.] Hilda--take those devil's drawings out of my sight!
+
+
+HILDA.
+
+[Draws the portfolio a little nearer to herself.] Well, well,
+well--don't bite me.--You talk of trolls--but I think you go on like a
+troll yourself. [Looks round.] Where do you keep your pen and ink?
+
+
+SOLNESS.
+
+There is nothing of the sort in here.
+
+
+HILDA.
+
+[Goes towards the door.] But in the office where that young lady is--
+
+
+SOLNESS.
+
+Stay where you are, Hilda!--I ought to tell a lie, you say. Oh yes, for
+the sake of his old father I might well do that--for in my time I have
+crushed him, trodden him under foot--
+
+
+HILDA.
+
+Him, too?
+
+
+SOLNESS.
+
+I needed room for myself. But this Ragnar--he must on no account be
+allowed to come to the front.
+
+
+HILDA.
+
+Poor fellow, there is surely no fear of that. If he has nothing in him--
+
+
+SOLNESS.
+
+[Comes closer, looks at her, and whispers.] If Ragnar Brovik gets his
+chance, he will strike me to the earth. Crush me--as I crushed his
+father.
+
+
+HILDA.
+
+Crush you? Has he the ability for that?
+
+
+SOLNESS.
+
+Yes, you may depend upon it he has the ability! He is the younger
+generation that stands ready to knock at my door--to make an end of
+Halvard Solness.
+
+
+HILDA.
+
+[Looks at him with quiet reproach.] And yet you would bar him out. Fie,
+Mr. Solness!
+
+
+SOLNESS.
+
+The fight I have been fighting has cost heart's blood enough.--And I am
+afraid, too, that the helpers and servers will not obey me any longer.
+
+
+HILDA.
+
+Then you must go ahead without them. There is nothing else for it.
+
+
+SOLNESS.
+
+It is hopeless, Hilda. The luck is bound to turn. A little sooner or a
+little later. Retribution is inexorable.
+
+
+HILDA.
+
+[In distress, putting her hands over her ears.] Don't talk like that! Do
+you want to kill me? To take from me what is more than my life?
+
+
+SOLNESS.
+
+And what is that?
+
+
+HILDA.
+
+The longing to see you great. To see you, with a wreath in your hand,
+high, high up upon a church-tower. [Calm again.] Come, out with your
+pencil now. You must have a pencil about you?
+
+
+SOLNESS.
+
+[Takes out his pocket-book.] I have one here.
+
+
+HILDA.
+
+[Lays the portfolio on the sofa-table.] Very well. Now let us two sit
+down here, Mr. Solness. [SOLNESS seats himself at the table. HILDA
+stands behind him, leaning over the back of the chair.] And now we
+well write on the drawings. We must write very, very nicely and
+cordially--for this horrid Ruar--or whatever his name is.
+
+
+SOLNESS.
+
+[Writes a few words, turns his head and looks at her.] Tell me one
+thing, Hilda.
+
+
+HILDA.
+
+Yes!
+
+
+SOLNESS.
+
+If you have been waiting for me all these ten years--
+
+
+HILDA.
+
+What then?
+
+
+SOLNESS.
+
+Why have you never written to me? Then I could have answered you.
+
+
+HILDA.
+
+[Hastily.] No, no, no! That was just what I did not want.
+
+
+SOLNESS.
+
+Why not?
+
+
+HILDA.
+
+I was afraid the whole thing might fall to pieces.--But we were going to
+write on the drawings, Mr. Solness.
+
+
+SOLNESS.
+
+So we were.
+
+
+HILDA.
+
+[Bends forward and looks over his shoulder while he writes.] Mind now,
+kindly and cordially! Oh how I hate--how I hate this Ruald--
+
+
+SOLNESS.
+
+[Writing.] Have you never really cared for any one, Hilda?
+
+
+HILDA.
+
+For any one else, I suppose you mean?
+
+
+SOLNESS.
+
+[Looks up at her.] For any one else, yes. Have you never? In all these
+ten years? Never?
+
+
+HILDA.
+
+Oh yes, now and then. When I was perfectly furious with you for not
+coming.
+
+
+SOLNESS.
+
+Then you did take an interest in other people, too?
+
+
+HILDA.
+
+A little bit--for a week or so. Good heavens, Mr. Solness, you surely
+know how such things come about.
+
+
+SOLNESS.
+
+Hilda--what is it you have come for?
+
+
+HILDA.
+
+Don't waste time talking. The poor old man might go and die in the
+meantime.
+
+
+SOLNESS.
+
+Answer me, Hilda. What do you want of me?
+
+
+HILDA.
+
+I want my kingdom.
+
+
+SOLNESS.
+
+H'm--
+
+
+  He gives a rapid glance toward the door on the left, and
+  then goes on writing on the drawings.  At the same moment
+  MRS. SOLNESS enters.
+
+
+MRS. SOLNESS.
+
+Here are a few things I have got for you, Miss Wangel. The large parcels
+will be sent later on.
+
+
+HILDA.
+
+Oh, how very, very kind of you!
+
+
+MRS. SOLNESS.
+
+Only my simple duty. Nothing more than that.
+
+
+SOLNESS.
+
+[Reading over what he has written.] Aline!
+
+
+MRS. SOLNESS.
+
+Yes?
+
+
+SOLNESS.
+
+Did you notice whether the--the book-keeper was out there?
+
+
+MRS. SOLNESS.
+
+Yes, of course, she was there.
+
+
+SOLNESS.
+
+[Puts the drawings in the portfolio.] H'm--
+
+
+MRS. SOLNESS.
+
+She was standing at the desk, as she always is--when _I_ go through the
+room.
+
+
+SOLNESS.
+
+[Rises.] Then I'll give this to her and tell her that--
+
+
+HILDA.
+
+[Takes the portfolio from him.] Oh, no, let me have the pleasure of
+doing that! [Goes to the door, but turns.] What is her name?
+
+
+SOLNESS.
+
+Her name is Miss Fosli.
+
+
+HILDA.
+
+Pooh, that sounds so cold! Her Christian name, I mean?
+
+
+SOLNESS.
+
+Kaia--I believe.
+
+
+HILDA.
+
+[Opens the door and calls out.] Kaia, come in here! Make haste! Mr.
+Solness wants to speak to you.
+
+
+  KAIA FOSLI appears at the door.
+
+
+KAIA.
+
+[Looking at him in alarm.] Here I am--?
+
+
+
+HILDA.
+
+[Handing her the portfolio.] See her, Kaia! You can take this home; Mr.
+Solness was written on them now.
+
+
+KAIA.
+
+Oh, at last!
+
+
+SOLNESS.
+
+Give them to the old man as soon as you can.
+
+
+KAIA.
+
+I will go straight home with them.
+
+
+SOLNESS.
+
+Yes, do. Now Ragnar will have a chance of building for himself.
+
+
+KAIA.
+
+Oh, may he come and thank you for all--?
+
+
+SOLNESS.
+
+[Harshly.] I won't have any thanks! Tell him that from me.
+
+
+KAIA.
+
+Yes, I will--
+
+
+SOLNESS.
+
+And tell him at the same time that henceforward I do not require his
+services--nor yours either.
+
+
+KAIA.
+
+[Softly and quiveringly.] Not mine either?
+
+
+SOLNESS.
+
+You will have other things to think of now, and to attend to; and that
+is a very good thing for you. Well, go home with the drawings now, Miss
+Fosli. At once! Do you hear?
+
+
+KAIA.
+
+[As before.] Yes, Mr. Solness. [She goes out.
+
+
+MRS. SOLNESS.
+
+Heavens! what deceitful eyes she has.
+
+
+SOLNESS.
+
+She? That poor little creature?
+
+
+MRS. SOLNESS.
+
+Oh--I can see what I can see, Halvard.----Are you really dismissing
+them?
+
+
+SOLNESS.
+
+Yes.
+
+
+MRS. SOLNESS.
+
+Her as well?
+
+
+SOLNESS.
+
+Was not that what you wished?
+
+
+MRS. SOLNESS.
+
+But how can you get on without her--? Oh well, no doubt you have some
+one else in reserve, Halvard.
+
+
+HILDA.
+
+[Playfully.] Well, _I_ for one am not the person to stand at a desk.
+
+
+SOLNESS.
+
+Never mind, never mind--it will be all right, Aline. Now all you have to
+do is think about moving into our new home--as quickly as you can. This
+evening we will hang up the wreath--[Turns to HILDA.] What do you say to
+that, Miss Hilda?
+
+
+HILDA.
+
+[Looks at him with sparkling eyes.] It will be splendid to see you so
+high up once more.
+
+
+SOLNESS.
+
+Me!
+
+
+MRS. SOLNESS.
+
+For Heaven's sake, Miss Wangel, don't imagine such a thing! My
+husband!--when he always gets so dizzy!
+
+
+HILDA.
+
+He get dizzy! No, I know quite well he does not!
+
+
+MRS. SOLNESS.
+
+Oh yes, indeed he does.
+
+
+HILDA.
+
+But I have seen him with my own eyes right up at the top of a high
+church-tower!
+
+
+MRS. SOLNESS.
+
+Yes, I hear people talk of that; but it is utterly impossible--
+
+
+SOLNESS.
+
+[Vehemently.] Impossible--impossible, yes! But there I stood all the
+same!
+
+
+MRS. SOLNESS.
+
+O, how can you say so, Halvard? Why, you can't even bear to go out on
+the second-storey balcony here. You have always been like that.
+
+
+SOLNESS.
+
+You may perhaps see something different this evening.
+
+
+MRS. SOLNESS.
+
+[In alarm.] No, no, no! Please God I shall never see that. I will write
+at once to the doctor--and I am sure he won't let you do it.
+
+
+SOLNESS.
+
+Why, Aline--!
+
+
+MRS. SOLNESS.
+
+Oh, you know you're ill, Halvard. This proves it! Oh God--Oh God!
+
+     [She goes hastily out to the right.
+
+
+HILDA.
+
+[Looks intently at him.] Is it so, or is it not?
+
+
+SOLNESS.
+
+That I turn dizzy?
+
+
+HILDA.
+
+That my master builder dares not--cannot--climb as high as he builds?
+
+
+SOLNESS.
+
+Is that the way you look at it?
+
+
+HILDA.
+
+Yes.
+
+
+SOLNESS.
+
+I believe there is scarcely a corner in me that is safe from you.
+
+
+HILDA.
+
+[Looks towards the bow-window.] Up there, then. Right up there--
+
+
+SOLNESS.
+
+[Approaches her.] You might have the topmost room in the tower,
+Hilda--there you might live like a princess.
+
+
+HILDA.
+
+[Indefinably, between earnest and jest.] Yes, that is what you promised
+me.
+
+
+SOLNESS.
+
+Did I really?
+
+
+HILDA.
+
+Fie, Mr. Solness! You said I should be a princess, and that you would
+give me a kingdom. And then you went and--Well!
+
+
+SOLNESS.
+
+[Cautiously.] Are you quite certain that this is not a dream--a fancy,
+that has fixed itself in your mind?
+
+
+HILDA.
+
+[Sharply.] Do you mean that you did not do it?
+
+
+SOLNESS.
+
+I scarcely know myself. [More softly.] But now I know so much for
+certain, that I--
+
+
+HILDA.
+
+That you--? Say it at once!
+
+
+SOLNESS. --that I ought to have done it.
+
+
+HILDA.
+
+[Exclaims with animation.] Don't tell me you can ever be dizzy!
+
+
+SOLNESS.
+
+This evening, then, we will hang up the wreath--Princess Hilda.
+
+
+HILDA.
+
+[With a bitter curve of the lips.] Over your new home, yes.
+
+
+SOLNESS.
+
+Over the new house, which will never be a home for me.
+
+     [He goes out through the garden door.
+
+
+HILDA.
+
+[Looks straight in front of her with a far-away expression, and whispers
+to herself. The only words audible are:]--frightfully thrilling--
+
+
+
+
+ACT THIRD.
+
+  The large broad verandah of SOLNESS'S dwelling-house.  Part
+  of the house, with outer door leading to the verandah, is
+  seen to the left.  A railing along the verandah to the right.
+  At the back, from the end of the verandah, a flight of steps
+  leads down to the garden below.  Tall old trees in the
+  garden spread their branches over the verandah and towards
+  the house.  Far to the right, in among the trees, a glimpse
+  is caught of the lower part of the new villa, with scaffolding
+  round so much as is seen of the tower.  In the background
+  the garden is bounded by an old wooden fence.  Outside the
+  fence, a street with low, tumble-down cottages.
+
+  Evening sky with sun-lit clouds.
+
+  On the verandah, a garden bench stands along the wall of the
+  house, and in front of the bench a long table.  On the other
+  side of the table, an arm-chair and some stools.  All the
+  furniture is of wicker-work.
+
+  MRS. SOLNESS, wrapped in a large white crepe shawl, sits
+  resting in the arm-chair and gazes over to the right.
+  Shortly after, HILDA WANGEL comes up the flight of steps
+  from the garden.  She is dressed as in the last act, and
+  wears her hat.  She has in her bodice a little nosegay of
+  small common flowers.
+
+
+MRS. SOLNESS.
+
+[Turning her head a little.] Have you been round the garden, Miss
+Wangel?
+
+
+HILDA.
+
+Yes, I have been taking a look at it.
+
+
+MRS. SOLNESS.
+
+And found some flowers too, I see.
+
+
+HILDA.
+
+Yes, indeed! There are such heaps of them in among the bushes.
+
+
+MRS. SOLNESS.
+
+Are there, really? Still? You see I scarcely ever go there.
+
+
+HILDA.
+
+[Closer.] What! Don't you take a run down into the garden every day,
+then?
+
+
+MRS. SOLNESS.
+
+[With a faint smile.] I don't "run" anywhere, nowadays.
+
+
+HILDA.
+
+Well, but do you not go down now and then to look at all the lovely
+things there?
+
+
+MRS. SOLNESS.
+
+It has all become so strange to me. I am almost afraid to see it again.
+
+
+HILDA.
+
+Your own garden!
+
+
+MRS. SOLNESS.
+
+I don't feel that it is mine any longer.
+
+
+HILDA.
+
+What do you mean--?
+
+
+MRS. SOLNESS.
+
+No, no, it is not--not as it was in my mother's and father's time. They
+have taken away so much--so much of the garden, Miss Wangel. Fancy--they
+have parcelled it out--and built houses for strangers--people that I
+don't know. And they can sit and look in upon me from their windows.
+
+
+HILDA.
+
+[With a bright expression.] Mrs. Solness!
+
+
+MRS. SOLNESS.
+
+Yes?
+
+
+HILDA.
+
+May I stay here with you a little?
+
+
+MRS. SOLNESS.
+
+Yes, by all means, if you care to.
+
+     [HILDA moves a stool close to the arm-chair and sits down.
+
+
+HILDA.
+
+Ah--here one can sit and sun oneself like a cat.
+
+
+MRS. SOLNESS.
+
+[Lays her hand softly on HILDA'S neck.] It is nice of you to be willing
+to sit with me. I thought you wanted to go in to my husband.
+
+
+HILDA.
+
+What should I want with him?
+
+
+MRS. SOLNESS.
+
+To help him, I thought.
+
+
+HILDA.
+
+No, thank you. And besides, he is not in. He is over there with his
+workmen. But he looked so fierce that I did not dare to talk to him.
+
+
+MRS. SOLNESS.
+
+He is so kind and gentle in reality.
+
+
+HILDA.
+
+He!
+
+
+MRS. SOLNESS.
+
+You do not really know him yet, Miss Wangel.
+
+
+HILDA.
+
+[Looks affectionately at her.] Are you pleased at the thought of moving
+over to the new house?
+
+
+MRS. SOLNESS.
+
+I ought to be pleased; for it is what Halvard wants--
+
+
+HILDA.
+
+Oh, not just on that account, surely?
+
+
+MRS. SOLNESS.
+
+Yes, yes, Miss Wangel; for it is only my duty to submit myself to
+him. But very often it is dreadfully difficult to force one's mind to
+obedience.
+
+
+HILDA.
+
+Yes, that must be difficult indeed.
+
+
+MRS. SOLNESS.
+
+I can tell you it is--when one has so many faults as I have--
+
+
+HILDA.
+
+When one has gone through so much trouble as you have--
+
+
+MRS. SOLNESS.
+
+How do you know about that?
+
+
+HILDA.
+
+Your husband told me.
+
+
+MRS. SOLNESS.
+
+To me he very seldom mentions these things.--Yes, I can tell you I have
+gone through more than enough trouble in my life, Miss Wangel.
+
+
+HILDA.
+
+[Looks sympathetically at her and nods slowly.] Poor Mrs. Solness. First
+of all there was the fire--
+
+
+MRS. SOLNESS.
+
+[With a sigh.] Yes, everything that was mine was burnt.
+
+
+HILDA.
+
+And then came what was worse.
+
+
+MRS. SOLNESS.
+
+[Looking inquiringly at her.] Worse?
+
+
+HILDA.
+
+The worst of all.
+
+
+MRS. SOLNESS.
+
+What do you mean?
+
+
+HILDA.
+
+[Softly.] You lost the two little boys.
+
+
+MRS. SOLNESS.
+
+Oh, yes, the boys. But, you see, that was a thing apart. That was a
+dispensation of Providence; and in such things one can only bow in
+submission--yes, and be thankful, too.
+
+
+HILDA.
+
+Then you are so?
+
+
+MRS. SOLNESS.
+
+Not always, I am sorry to say. I know well enough that it is my
+duty--but all the same I cannot.
+
+
+HILDA.
+
+No, no, I think that is only natural.
+
+
+MRS. SOLNESS.
+
+And often and often I have to remind myself that it was a righteous
+punishment for me--
+
+
+HILDA.
+
+Why?
+
+
+MRS. SOLNESS.
+
+Because I had not fortitude enough in misfortune.
+
+
+HILDA.
+
+But I don't see that--
+
+
+MRS. SOLNESS.
+
+Oh, no, no, Miss Wangel--do not talk to me any more about the two little
+boys. We ought to feel nothing but joy in thinking of them; for they are
+so happy--so happy now. No, it is the small losses in life that cut
+one to the heart--the loss of all that other people look upon as almost
+nothing.
+
+
+HILDA.
+
+[Lays her arms on MRS. SOLNESS'S knees, and looks up at her
+affectionately.] Dear Mrs. Solness--tell me what things you mean!
+
+
+MRS. SOLNESS.
+
+As I say, only little things. All the old portraits were burnt on the
+walls. And all the old silk dresses were burnt, what had belonged to
+the family for generations and generations. And all mother's and
+grandmother's lace--that was burnt, too. And only think--the jewels,
+too! [Sadly.] And then all the dolls.
+
+
+HILDA.
+
+The dolls?
+
+
+MRS. SOLNESS.
+
+[Choking with tears.] I had nine lovely dolls.
+
+
+HILDA.
+
+And they were burnt too?
+
+
+MRS. SOLNESS.
+
+All of them. Oh, it was hard--so hard for me.
+
+
+HILDA.
+
+Had you put by all these dolls, then? Ever since you were little?
+
+
+MRS. SOLNESS.
+
+I had not put them by. The dolls and I had gone on living together.
+
+
+HILDA.
+
+After you were grown up?
+
+
+MRS. SOLNESS.
+
+Yes, long after that.
+
+
+HILDA.
+
+After you were married, too?
+
+
+MRS. SOLNESS.
+
+Oh yes, indeed. So long as he did not see it--. But they were all burnt
+up, poor things. No one thought of saving them. Oh, it is so miserable
+to think of. You mustn't laugh at me, Miss Wangel.
+
+
+HILDA.
+
+I am not laughing in the least.
+
+
+MRS. SOLNESS.
+
+For you see, in a certain sense, there was life in them, too. I carried
+them under my heart--like little unborn children.
+
+
+  DR. HERDAL, with his hat in his hand, comes out through the
+  door, and observes MRS. SOLNESS. and HILDA.
+
+
+DR. HERDAL.
+
+Well, Mrs. Solness, so you are sitting out here catching cold?
+
+
+MRS. SOLNESS.
+
+I find it so pleasant and warm here to-day.
+
+
+DR. HERDAL.
+
+Yes, yes. But is there anything going on here? I got a note from you.
+
+
+MRS. SOLNESS.
+
+[Rises.] Yes, there is something I must talk to you about.
+
+
+DR. HERDAL.
+
+Very well; then perhaps we better go in. [To HILDA.] Still in your
+mountaineering dress, Miss Wangel?
+
+
+HILDA.
+
+[Gaily, rising.] Yes--in full uniform! But to-day I am not going
+climbing and breaking my neck. We two will stop quietly below and look
+on, doctor.
+
+
+DR. HERDAL.
+
+What are we to look on at?
+
+
+MRS. SOLNESS.
+
+[Softly, in alarm, to HILDA.] Hush, hush--for God's sake! He is coming!
+Try to get that idea out of his head. And let us be friends, Miss
+Wangel. Don't you think we can?
+
+
+HILDA.
+
+[Throws her arms impetuously round MRS. SOLNESS'S neck.] Oh, if we only
+could!
+
+
+MRS. SOLNESS.
+
+[Gently disengages herself.] There, there, there! There he comes,
+doctor. Let me have a word with you.
+
+
+DR. HERDAL.
+
+Is it about him?
+
+
+MRS. SOLNESS.
+
+Yes, to be sure it's about him. Do come in.
+
+
+  She and the doctor enter the house.  Next moment SOLNESS
+  comes up from the garden by the flight of steps.  A serious
+  look comes over HILDA'S face.
+
+
+SOLNESS.
+
+[Glances at the house-door, which is closed cautiously from within.]
+Have you noticed, Hilda, that as soon as I come, she goes?
+
+
+HILDA.
+
+I have noticed that as soon as you come, you make her go.
+
+
+SOLNESS.
+
+Perhaps so. But I cannot help it. [Looks observantly at her.] Are you
+cold, Hilda? I think you look cold.
+
+
+HILDA.
+
+I have just come up out of a tomb.
+
+
+SOLNESS.
+
+What do you mean by that?
+
+
+HILDA.
+
+That I have got chilled through and through, Mr. Solness.
+
+
+SOLNESS.
+
+[Slowly.] I believe I understand--
+
+
+HILDA.
+
+What brings you up here just now?
+
+
+SOLNESS.
+
+I caught sight of you from over there.
+
+
+HILDA.
+
+But then you must have seen her too?
+
+
+SOLNESS.
+
+I knew she would go at once if I came.
+
+
+HILDA.
+
+Is it very painful for you that she should avoid you in this way?
+
+
+SOLNESS.
+
+In one sense, it's a relief as well.
+
+
+HILDA.
+
+Not to have her before your eyes?
+
+
+SOLNESS.
+
+Yes.
+
+
+HILDA.
+
+Not to be always seeing how heavily the loss of the little boys weighs
+upon her?
+
+
+SOLNESS.
+
+Yes. Chiefly that.
+
+     [HILDA drifts across the verandah with her hands behind her
+       back, stops at the railing and looks out over the garden.
+
+
+SOLNESS.
+
+[After a short pause.] Did you have a long talk with her?
+
+     [HILDA stands motionless and does not answer.
+
+
+SOLNESS.
+
+Had you a long talk, I asked? [HILDA is silent as before.
+
+
+SOLNESS.
+
+What was she talking about, Hilda? [HILDA continues silent.
+
+
+SOLNESS.
+
+Poor Aline! I suppose it was about the little boys.
+
+
+HILDA.
+
+
+
+     [A nervous shudder runs through her; then she nods hurriedly
+       once or twice.
+
+
+SOLNESS.
+
+She will never get over it--never in this world. [Approaches her.]
+Now you are standing there again like a statue; just as you stood last
+night.
+
+
+HILDA.
+
+[Turns and looks at him, with great serious eyes.] I am going away.
+
+
+SOLNESS.
+
+[Sharply.] Going away!
+
+
+HILDA.
+
+Yes.
+
+
+SOLNESS.
+
+But I won't allow you to!
+
+
+HILDA.
+
+What am I to do here now?
+
+
+SOLNESS.
+
+Simply to be here, Hilda!
+
+
+HILDA.
+
+[Measures him with a look.] Oh, thank you. You know it wouldn't end
+there.
+
+
+SOLNESS.
+
+[Heedlessly.] So much the better!
+
+
+HILDA.
+
+[Vehemently.] I cannot do any harm to one whom I know! I can't take away
+anything that belongs to her.
+
+
+SOLNESS.
+
+Who wants you to do that?
+
+
+HILDA.
+
+[Continuing.] A stranger, yes! for that is quite a different thing! A
+person I have never set eyes on. But one that I have come into close
+contact with--! Oh no! Oh no! Ugh!
+
+
+SOLNESS.
+
+Yes, but I never proposed you should.
+
+
+HILDA.
+
+Oh, Mr. Solness, you know quite well what the end of it would be. And
+that is why I am going away.
+
+
+SOLNESS.
+
+And what is to become of me when you are gone? What shall I have to live
+for then?--After that?
+
+
+HILDA.
+
+[With the indefinable look in her eyes.] It is surely not so hard for
+you. You have your duties to her. Live for those duties.
+
+
+SOLNESS.
+
+Too late. These powers--these--these--
+
+
+HILDA. --devils--
+
+
+SOLNESS.
+
+Yes, these devils! And the troll within me as well--they have drawn all
+the life-blood out of her. [Laughs in desperation.] They did it for my
+happiness! Yes, yes! [Sadly.] And now she is dead--for my sake. And I
+am chained alive to a dead woman. [In wild anguish.] _I_--_I_ who cannot
+live without joy in life!
+
+     [HILDA moves round the table and seats herself on the bench,
+       with her elbows on the table, and her head supported by her
+       hands.
+
+
+HILDA.
+
+[Sits and looks at him awhile.] What will you build next?
+
+
+SOLNESS.
+
+[Shakes his head.] I don't believe I shall build much more.
+
+
+HILDA.
+
+Not those cosy, happy homes for mother and father, and for the troop of
+children?
+
+
+SOLNESS.
+
+I wonder whether there will be any use for such homes in the coming
+time.
+
+
+HILDA.
+
+Poor Mr. Solness! And you have gone all these ten years--and staked your
+whole life--on that alone.
+
+
+SOLNESS.
+
+Yes, you may well say so, Hilda.
+
+
+HILDA.
+
+[With an outburst.] Oh, it all seems to me so foolish--so foolish!
+
+
+SOLNESS.
+
+All what?
+
+
+HILDA.
+
+Not to be able to grasp at your own happiness--at your own life! Merely
+because some one you know happens to stand in the way!
+
+
+SOLNESS.
+
+One whom you have no right to set aside.
+
+
+HILDA.
+
+I wonder whether one really has not the right! And yet, and yet--. Oh!
+if one could only sleep the whole thing away!
+
+     [She lays her arms flat don on the table, rests the left side of
+       her head on her hands, and shuts her eyes.
+
+
+
+SOLNESS.
+
+[Turns the arm-chair and sits down at the table.] Had you a cosy, happy
+home--up there with your father, Hilda?
+
+
+HILDA.
+
+[Without stirring, answers as if half asleep.] I had only a cage.
+
+
+SOLNESS.
+
+And you are determined not to go back to it?
+
+
+HILDA.
+
+[As before.] The wild bird never wants to go back to the cage.
+
+
+SOLNESS.
+
+Rather range through the free air--
+
+
+HILDA.
+
+[Still as before.] The bird of prey loves to range--
+
+
+SOLNESS.
+
+[Lets his eyes rest on her.] If only one had the viking-spirit in life--
+
+
+HILDA.
+
+[In her usual voice; opens her eyes but does not move.] And the other
+thing? Say what that was!
+
+
+SOLNESS.
+
+A robust conscience.
+
+     [HILDA sits erect on the bench, with animation.  Her eyes have
+       once more the sparkling expression of gladness.
+
+
+HILDA.
+
+[Nods to him.] _I_ know what you are going to build next!
+
+
+SOLNESS.
+
+Then you know more than I do, Hilda.
+
+
+HILDA.
+
+Yes, builders are such stupid people.
+
+
+SOLNESS.
+
+What is it to be then?
+
+
+HILDA.
+
+[Nods again.] The castle.
+
+
+SOLNESS.
+
+What castle?
+
+
+HILDA.
+
+My castle, of course.
+
+
+SOLNESS.
+
+Do you want a castle now?
+
+
+HILDA.
+
+Don't you owe me a kingdom, I should like to know?
+
+
+SOLNESS.
+
+You say I do.
+
+
+HILDA.
+
+Well--you admit you owe me this kingdom. And you can't have a kingdom
+without a royal castle, I should think.
+
+
+SOLNESS.
+
+[More and more animated.] Yes, they usually go together.
+
+
+HILDA.
+
+Good! Then build it for me! This moment!
+
+
+SOLNESS.
+
+[Laughing.] Must you have that on the instant, too?
+
+
+HILDA.
+
+Yes, to be sure! For the ten years are up now, and I am not going to
+wait any longer. So--out with the castle, Mr. Solness!
+
+
+SOLNESS.
+
+It's no light matter to owe you anything, Hilda.
+
+
+HILDA.
+
+You should have thought of that before. It is too late now. So--[tapping
+the table]--the castle on the table! It is my castle! I will have it at
+once!
+
+
+SOLNESS.
+
+[More seriously, leans over towards her, with his arms on the table.]
+What sort of castle have you imagined, Hilda?
+
+     [Her expression becomes more and more veiled.  She seems gazing
+       inwards at herself.
+
+
+HILDA.
+
+[Slowly.] My castle shall stand on a height--on a very great
+height--with a clear outlook on all sides, so that I can see far--far
+around.
+
+
+SOLNESS.
+
+And no doubt it is to have a high tower!
+
+
+HILDA.
+
+A tremendously high tower. And at the very top of the tower there shall
+be a balcony. And I will stand out upon it--
+
+
+SOLNESS.
+
+[Involuntarily clutches at his forehead.] How can you like to stand at
+such a dizzy height--?
+
+
+HILDA.
+
+Yes, I will! Right up there will I stand and look down on the other
+people--on those that are building churches, and homes for mother and
+father and the troop of children. And you may come up and look on at it,
+too.
+
+
+SOLNESS.
+
+[In a low tone.] Is the builder to be allowed to come up beside the
+princess?
+
+
+HILDA.
+
+If the builder will.
+
+
+SOLNESS.
+
+[More softly.] Then I think the builder will come.
+
+
+HILDA.
+
+[Nods.] The builder--he will come.
+
+
+SOLNESS.
+
+But he will never be able to build any more. Poor builder!
+
+
+HILDA.
+
+[Animated.] Oh, yes, he will! We two will set to work together. And then
+we will build the loveliest--the very loveliest--thing in all the world.
+
+
+SOLNESS.
+
+[Intently.] Hilda--tell me what that is!
+
+
+HILDA.
+
+[Looks smilingly at him, shakes her head a little, pouts, and speaks as
+if to a child.] Builders--they are such very--very stupid people.
+
+
+SOLNESS.
+
+Yes, no doubt they are stupid. But now tell me what it is--the loveliest
+thing in the world--that we two are to build together?
+
+
+HILDA.
+
+[Is silent a little while, then says with an indefinable expression in
+her eyes.] Castles in the air.
+
+
+SOLNESS.
+
+Castles in the air?
+
+
+HILDA.
+
+[Nods.] Castles in the air, yes! Do you know what sort of thing a castle
+in the air is?
+
+
+SOLNESS.
+
+It is the loveliest thing in the world, you say.
+
+
+HILDA.
+
+[Rises with vehemence, and makes a gesture of repulsion with her hand.]
+Yes, to be sure it is! Castles in the air--they are so easy to build,
+too--[looks scornfully at him]--especially for the builders who have
+a--a dizzy conscience.
+
+
+SOLNESS.
+
+[Rises.] After this day we two will build together, Hilda.
+
+
+HILDA.
+
+[With a half-dubious smile.] A real castle in the air?
+
+
+SOLNESS.
+
+Yes. One with a firm foundation under it.
+
+
+  RAGNAR BROVIK comes out from the house.  He is carrying a
+  large green wreath with flowers and silk ribbons.
+
+
+HILDA.
+
+[With an outburst of pleasure.] The wreath! Oh, that will be glorious!
+
+
+SOLNESS.
+
+[In surprise.] Have you brought the wreath Ragnar?
+
+
+RAGNAR.
+
+I promised the foreman I would.
+
+
+SOLNESS.
+
+[Relieved.] Ah, then I suppose you father is better?
+
+
+RAGNAR.
+
+No.
+
+
+SOLNESS.
+
+Was he not cheered by what I wrote?
+
+
+RAGNAR.
+
+It came too late.
+
+
+SOLNESS.
+
+Too late!
+
+
+RAGNAR.
+
+When she came with it he was unconscious. He had had a stroke.
+
+
+SOLNESS.
+
+Why, then, you must go home to him! You must attend to your father!
+
+
+RAGNAR.
+
+He does not need me any more.
+
+
+SOLNESS.
+
+But surely you ought to be with him.
+
+
+RAGNAR.
+
+She is sitting by his bed.
+
+
+SOLNESS.
+
+[Rather uncertainly.] Kaia?
+
+
+RAGNAR.
+
+[Looking darkly at him.] Yes--Kaia.
+
+
+SOLNESS.
+
+Go home, Ragnar--both to him and to her. Give me the wreath.
+
+
+RAGNAR.
+
+[Suppresses a mocking smile.] You don't mean that you yourself--?
+
+
+SOLNESS.
+
+I will take it down to them myself [Takes the wreath from him.] And now
+you go home; we don't require you to-day.
+
+
+RAGNAR.
+
+I know you do not require me any more; but to-day I shall remain.
+
+
+SOLNESS.
+
+Well, remain then, since you are bent upon it.
+
+
+HILDA.
+
+[At the railing.] Mr. Solness, I will stand here and look on at you.
+
+
+SOLNESS.
+
+At me!
+
+
+HILDA.
+
+It will be fearfully thrilling.
+
+
+SOLNESS.
+
+[In a low tone.] We will talk about that presently, Hilda.
+
+     [He goes down the flight of steps with the wreath, and away
+       through the garden.
+
+
+HILDA.
+
+[Looks after him, then turns to RAGNAR.] I think you might at least have
+thanked him
+
+
+RAGNAR.
+
+Thanked him? Ought I to have thanked him?
+
+
+HILDA.
+
+Yes, of course you ought!
+
+
+RAGNAR.
+
+I think it is rather you I ought to thank.
+
+
+HILDA.
+
+How can you say such a thing?
+
+
+RAGNAR.
+
+[Without answering her.] But I advise you to take care, Miss Wangel! For
+you don't know him rightly yet.
+
+
+HILDA.
+
+[Ardently.] Oh, no one knows him as I do!
+
+
+RAGNAR.
+
+[Laughs in exasperation.] Thank him, when he has held me down year
+after year! When he made father disbelieve in me--made me disbelieve in
+myself! And all merely that he might--!
+
+
+HILDA.
+
+[As if divining something.] That he might--? Tell me at once!
+
+
+RAGNAR.
+
+That he might keep her with him.
+
+
+HILDA.
+
+[With a start towards him.] The girl at the desk.
+
+
+RAGNAR.
+
+Yes.
+
+
+HILDA.
+
+[Threateningly, clenching her hands.] That is not true! You are telling
+falsehoods about him!
+
+
+RAGNAR.
+
+I would not believe it either until to-day--when she said so herself.
+
+
+HILDA.
+
+[As if beside herself.] What did she say? I will know! At once! at once!
+
+
+RAGNAR.
+
+She said that he had taken possession of her mind--her whole
+mind--centred all her thoughts upon himself alone. She says that she can
+never leave him--that she will remain here, where he is--
+
+
+HILDA.
+
+[With flashing eyes.] She will not be allowed to!
+
+
+RAGNAR.
+
+[As if feeling his way.] Who will not allow her?
+
+
+HILDA.
+
+[Rapidly.] He will not either!
+
+
+RAGNAR.
+
+Oh no--I understand the whole thing now. After this, she would merely
+be--in the way.
+
+
+HILDA.
+
+You understand nothing--since you can talk like that! No, _I_ will tell
+you why he kept hold of her.
+
+
+RAGNAR.
+
+Well then, why?
+
+
+HILDA.
+
+In order to keep hold of you.
+
+
+RAGNAR.
+
+Has he told you so?
+
+
+HILDA.
+
+No, but it is so. It must be so! [Wildly.] I will--I will have it so!
+
+
+RAGNAR.
+
+And at the very moment when you came--he let her go.
+
+
+HILDA.
+
+It was you--you that he let go! What do you suppose he cares about
+strange women like her?
+
+
+RAGNAR.
+
+[Reflects.] Is it possible that all this time he has been afraid of me?
+
+
+HILDA.
+
+He afraid! I would not be so conceited if I were you.
+
+
+RAGNAR.
+
+Oh, he must have seen long ago that I had something in me, too.
+Besides--cowardly--that is just what he is, you see.
+
+
+HILDA.
+
+He! Oh yes, I am likely to believe that!
+
+
+RAGNAR.
+
+In a certain sense he is cowardly--he, the great master builder. He is
+not afraid of robbing others of their happiness--as he has done both
+for my father and me. But when it comes to climbing up a paltry bit of
+scaffolding--he will do anything rather than that.
+
+
+HILDA.
+
+Oh, you should just have seen him high, high up--at the dizzy height
+where I once saw him.
+
+
+RAGNAR.
+
+Did you see that?
+
+
+HILDA.
+
+Yes, indeed I did. How free and great he looked as he stood and fastened
+the wreath to the church vane!
+
+
+RAGNAR.
+
+I know that he ventured that, once in his life--one solitary time. It is
+a legend among us younger men. But no power on earth would induce him to
+do it again.
+
+
+HILDA.
+
+To-day he will do it again!
+
+
+RAGNAR.
+
+[Scornfully.] Yes, I daresay!
+
+
+HILDA.
+
+We shall see it!
+
+
+RAGNAR.
+
+That neither you nor I will see.
+
+
+HILDA.
+
+[With uncontrollable vehemence.] I will se it! I will and I must see it!
+
+
+RAGNAR.
+
+But he will not do it. He simply dare not do it. For you see he cannot
+get over this infirmity--master builder though he be.
+
+
+  MRS. SOLNESS comes from the house on to the verandah.
+
+
+MRS. SOLNESS.
+
+[Looks around.] Is he not here? Where has he gone to?
+
+
+RAGNAR.
+
+Mr. Solness is down with the men.
+
+
+HILDA.
+
+He took the wreath with him.
+
+
+MRS. SOLNESS.
+
+[Terrified.] Took the wreath with him! Oh God! oh God! Brovik--you must
+go down to him! Get him to come back here!
+
+
+RAGNAR.
+
+Shall I say you want to speak to him, Mrs. Solness?
+
+
+MRS. SOLNESS.
+
+Oh yes, do!--No, no--don't say that _I_ want anything! You can say that
+somebody is here, and that he must come at once.
+
+
+RAGNAR.
+
+Good. I will do so, Mrs. Solness.
+
+     [He goes down the flight of steps and away through the garden.
+
+
+MRS. SOLNESS.
+
+Oh, Miss Wangel, you can't think how anxious I feel about him.
+
+
+HILDA.
+
+Is there anything in this to be terribly frightened about?
+
+
+MRS. SOLNESS.
+
+Oh yes; surely you can understand. Just think, if he were really to do
+it! If he should take it into his head to climb up the scaffolding!
+
+
+HILDA.
+
+[Eagerly.] Do you think he will?
+
+
+MRS. SOLNESS.
+
+Oh, one can never tell what he might take into his head. I am afraid
+there is nothing he mightn't think of doing.
+
+
+HILDA.
+
+Aha! Perhaps you too think he is--well--?
+
+
+MRS. SOLNESS.
+
+Oh, I don't know what to think about him now. The doctor has been
+telling me all sorts of things; and putting it all together with several
+things I have heard him say--
+
+
+  DR. HERDAL looks out, at the door.
+
+
+DR. HERDAL.
+
+Is he not coming soon?
+
+
+MRS. SOLNESS.
+
+Yes, I think so. I have sent for him at any rate.
+
+
+DR. HERDAL.
+
+[Advancing.] I am afraid you will have to go in, my dear lady--
+
+
+MRS. SOLNESS.
+
+Oh no! Oh no! I shall stay out here and wait for Halvard.
+
+
+DR. HERDAL.
+
+But some ladies have just come to call on you--
+
+
+MRS. SOLNESS.
+
+Good heavens, that too! And just at this moment!
+
+
+DR. HERDAL.
+
+They say they positively must see the ceremony.
+
+
+MRS. SOLNESS.
+
+Well, well, I suppose I must go to them after all. It is my duty.
+
+
+HILDA.
+
+Can't you ask the ladies to go away?
+
+
+MRS. SOLNESS.
+
+No, that would never do. Now that they are here, it is my duty to see
+them. But do you stay out here in the meantime--and receive him when he
+comes.
+
+
+DR. HERDAL.
+
+And try to occupy his attention as long as possible--
+
+
+MRS. SOLNESS.
+
+Yes, do, dear Miss Wangel. Keep as firm hold of him as ever you can.
+
+
+HILDA.
+
+Would it not be best for you to do that?
+
+
+MRS. SOLNESS.
+
+Yes; God knows that is my duty. But when one has duties in so many
+directions--
+
+
+DR. HERDAL.
+
+[Looks towards the garden.] There he is coming.
+
+
+MRS. SOLNESS.
+
+And I have to go in!
+
+
+DR. HERDAL.
+
+[To HILDA.] Don't say anything about my being here.
+
+
+HILDA.
+
+Oh no! I daresay I shall find something else to talk to Mr. Solness
+about.
+
+
+MRS. SOLNESS.
+
+And be sure you keep firm hold of him. I believe you can do it best.
+
+     [MRS. SOLNESS and DR. HERDAL go into the house.  HILDA remains
+       standing on the verandah.  SOLNESS comes from the garden, up
+       the flight of steps.
+
+
+SOLNESS.
+
+Somebody wants me, I hear.
+
+
+HILDA.
+
+Yes; it is I, Mr. Solness.
+
+
+SOLNESS.
+
+Oh, is it you, Hilda? I was afraid it might be Aline or the Doctor.
+
+
+HILDA.
+
+You are very easily frightened, it seems!
+
+
+SOLNESS.
+
+Do you think so?
+
+
+HILDA.
+
+Yes; people say that you are afraid to climb about--on the scaffoldings,
+you know.
+
+
+SOLNESS.
+
+Well, that is quite a special thing.
+
+
+HILDA.
+
+Then it is true that you are afraid to do it?
+
+
+SOLNESS.
+
+Yes, I am.
+
+
+HILDA.
+
+Afraid of falling down and killing yourself?
+
+
+SOLNESS.
+
+No, not of that.
+
+
+HILDA.
+
+Of what, then?
+
+
+SOLNESS.
+
+I am afraid of retribution, Hilda.
+
+
+HILDA.
+
+Of retribution? [Shakes her head.] I don't understand that.
+
+
+SOLNESS.
+
+Sit down, and I will tell you something.
+
+
+HILDA.
+
+Yes, do! At once!
+
+     [She sits on a stool by the railing, and looks expectantly
+       at him.
+
+
+SOLNESS.
+
+[Throws his hat on the table.] You know that I began by building
+churches.
+
+
+HILDA.
+
+[Nods.] I know that well.
+
+
+SOLNESS.
+
+For, you see, I came as a boy from a pious home in the country; and so
+it seemed to me that this church-building was the noblest task I could
+set myself.
+
+
+HILDA.
+
+Yes, yes.
+
+
+SOLNESS.
+
+And I venture to say that I built those poor little churches with such
+honest and warm and heartfelt devotion that--that--
+
+
+HILDA.
+
+That--? Well?
+
+
+SOLNESS.
+
+Well, that I think that he ought to have been pleased with me.
+
+
+HILDA.
+
+He? What he?
+
+
+SOLNESS.
+
+He who was to have the churches, of course! He to whose honour and glory
+they were dedicated.
+
+
+HILDA.
+
+Oh, indeed! But are you certain, then, that--that he was not--pleased
+with you?
+
+
+SOLNESS.
+
+[Scornfully.] He pleased with me! How can you talk so, Hilda? He who
+gave the troll in me leave to lord it just as it pleased. He who bade
+them be at hand to serve me, both day and might--all these--all these--
+
+
+HILDA.
+
+Devils--
+
+
+SOLNESS.
+
+Yes, of both kinds. Oh no, he made me feel clearly enough that he was not
+pleased with me. [Mysteriously.] You see, that was really the reason why
+he made the old house burn down.
+
+
+HILDA.
+
+Was that why?
+
+
+SOLNESS.
+
+Yes, don't you understand? He wanted to give me the chance of becoming
+an accomplished master in my own sphere--so that I might build all the
+more glorious churches for him. At first I did not understand what he
+was driving at; but all of a sudden it flashed upon me.
+
+
+HILDA.
+
+When was that?
+
+
+SOLNESS.
+
+It was when I was building the church-tower up at Lysanger.
+
+
+HILDA.
+
+I thought so.
+
+
+SOLNESS.
+
+For you see, Hilda--up there, amidst those new surroundings, I used to
+go about musing and pondering within myself. Then I saw plainly why he
+had taken my little children from me. It was that I should have nothing
+else to attach myself to. No such thing as love and happiness, you
+understand. I was to be only a master builder--nothing else, and all my
+life long I was to go on building for him. [Laughs.] But I can tell you
+nothing came of that!
+
+
+HILDA.
+
+What did you do then?
+
+
+SOLNESS.
+
+First of all, I searched and tried my own heart--
+
+
+HILDA.
+
+And then?
+
+
+SOLNESS.
+
+The I did the impossible--I, no less than he.
+
+
+HILDA.
+
+The impossible?
+
+
+SOLNESS.
+
+I had never before been able to climb up to a great, free height. But
+that day I did it.
+
+
+HILDA.
+
+[Leaping up.] Yes, yes, you did!
+
+
+SOLNESS.
+
+And when I stood there, high over everything, and was hanging the wreath
+over the vane, I said to him: Hear me now, thou Mighty One! From this
+day forward I will be a free builder--I too, in my sphere--just as thou
+in thine. I will never more build churches for thee--only homes for
+human beings.
+
+
+HILDA.
+
+[With great sparkling eyes.] That was the song that I heard through the
+air!
+
+
+SOLNESS.
+
+But afterwards his turn came.
+
+
+HILDA.
+
+What do you mean by that?
+
+
+SOLNESS.
+
+[Looks despondently at her.] Building homes for human beings--is not
+worth a rap, Hilda.
+
+
+HILDA.
+
+Do you say that now?
+
+
+SOLNESS.
+
+Yes, for now I see it. Men have no use for these homes of theirs--to be
+happy in. And I should not have had any use for such a home, if I had
+had one. [With a quiet, bitter laugh.] See, that is the upshot of
+the whole affair, however far back I look. Nothing really built; nor
+anything sacrificed for the chance of building. Nothing, nothing! the
+whole is nothing!
+
+
+HILDA.
+
+Then you will never build anything more?
+
+
+SOLNESS.
+
+[With animation.] On the contrary, I am just going to begin!
+
+
+HILDA.
+
+What, then? What will you build? Tell me at once!
+
+
+SOLNESS.
+
+I believe there is only one possible dwelling-place for human
+happiness--and that is what I am going to build now.
+
+
+HILDA.
+
+[Looks fixedly at him.] Mr. Solness--you mean our castles in the air.
+
+
+SOLNESS.
+
+The castles in the air--yes.
+
+
+HILDA.
+
+I am afraid you would turn dizzy before we got half-way up.
+
+
+SOLNESS.
+
+Not if I can mount hand in hand with you, Hilda.
+
+
+HILDA.
+
+[With an expression of suppressed resentment.] Only with me? Will there
+be no others of the party?
+
+
+SOLNESS.
+
+Who else should there be?
+
+
+HILDA.
+
+Oh--that girl--that Kaia at the desk. Poor thing--don't you want to take
+her with you too?
+
+
+SOLNESS.
+
+Oho! Was it about her that Aline was talking to you?
+
+
+HILDA.
+
+Is it so--or is it not?
+
+
+SOLNESS.
+
+[Vehemently.] I will not answer such a question. You must believe in me,
+wholly and entirely!
+
+
+HILDA.
+
+All these ten years I have believed in you so utterly--so utterly.
+
+
+SOLNESS.
+
+You must go on believing in me!
+
+
+HILDA.
+
+Then let me see you stand free and high up!
+
+
+SOLNESS.
+
+[Sadly.] Oh Hilda--it is not every day that I can do that.
+
+
+HILDA.
+
+[Passionately.] I will have you do it! I will have it! [Imploringly.]
+Just once more, Mr. Solness! Do the impossible once again!
+
+
+SOLNESS.
+
+[Stands and looks deep into her eyes.] If I try it, Hilda, I will stand
+up there and talk to him as I did that time before.
+
+
+HILDA.
+
+[In rising excitement.] What will you say to him?
+
+
+SOLNESS.
+
+I will say to him: Hear me, Mighty Lord--thou may'st judge me as seems
+best to thee. But hereafter I will build nothing but the loveliest thing
+in the world--
+
+
+HILDA.
+
+[Carried away.] Yes--yes--yes!
+
+
+SOLNESS. --build it together with a princess, whom I love--
+
+
+HILDA.
+
+Yes, tell him that! Tell him that!
+
+
+SOLNESS.
+
+Yes. And then I will say to him: Now I shall go down and throw my arms
+round her and kiss her--
+
+
+HILDA. --many times! Say that!
+
+
+SOLNESS. --many, many times, I will say it!
+
+
+HILDA.
+
+And then--?
+
+
+SOLNESS.
+
+Then I will wave my hat--and come down to the earth--and do as I said to
+him.
+
+
+HILDA.
+
+[With outstretched arms.] Now I see you again as I did when there was
+song in the air!
+
+
+SOLNESS.
+
+[Looks at here with his head bowed.] How have you become what you are,
+Hilda?
+
+
+HILDA.
+
+How have you made me what I am?
+
+
+SOLNESS.
+
+[Shortly and firmly.] The princess shall have her castle.
+
+
+HILDA.
+
+[Jubilant, clapping her hands.] Oh, Mr. Solness--! My lovely, lovely
+castle. Our castle in the air!
+
+
+SOLNESS.
+
+On a firm foundation.
+
+     [In the street a crowd of people has assembled, vaguely seen
+       through the trees.  Music of wind-instruments is heard far
+       away behind the new house.
+
+
+  MRS. SOLNESS, with a fur collar round her neck, DOCTOR HERDAL
+  with her white shawl on his arm, and some ladies, come out
+  on the verandah.  RAGNAR BROVIK comes at the same time up
+  from the garden.
+
+
+MRS. SOLNESS.
+
+[To RAGNAR.] Are we to have music, too?
+
+
+RAGNAR.
+
+Yes. It's the band of the Mason's Union. [To SOLNESS.] The foreman asked
+me to tell you that he is ready now to go up with the wreath.
+
+
+SOLNESS.
+
+[Takes his hat.] Good. I will go down to him myself.
+
+
+MRS. SOLNESS.
+
+[Anxiously.] What have you to do down there, Halvard?
+
+
+SOLNESS.
+
+[Curtly.] I must be down below with the men.
+
+
+MRS. SOLNESS.
+
+Yes, down below--only down below.
+
+
+SOLNESS.
+
+That is where I always stand--on everyday occasions.
+
+     [He goes down the flight of steps and away through the garden.
+
+
+MRS. SOLNESS.
+
+[Calls after him over the railing.] But do beg the man to be careful
+when he goes up! Promise me that, Halvard!
+
+
+DR. HERDAL.
+
+[To MRS. SOLNESS.] Don't you see that I was right? He has given up all
+thought of that folly.
+
+
+MRS. SOLNESS.
+
+Oh, what a relief! Twice workmen have fallen, and each time they were
+killed on the spot. [Turns to HILDA.] Thank you, Miss Wangel, for having
+kept such a firm hold upon him. I should never have been able to manage
+him.
+
+
+DR. HERDAL.
+
+[Playfully.] Yes, yes, Miss Wangel, you know how to keep firm hold on a
+man, when you give your mind to it.
+
+     [MRS. SOLNESS and DR. HERDAL go up to the ladies, who are
+       standing nearer to the steps and looking over the garden.
+       HILDA remains standing beside the railing in the foreground.
+       RAGNAR goes up to her.
+
+
+RAGNAR.
+
+[With suppressed laughter, half whispering.] Miss Wangel--do you see all
+those young fellows down in the street?
+
+
+HILDA.
+
+Yes.
+
+
+RAGNAR.
+
+They are my fellow students, come to look at the master.
+
+
+HILDA.
+
+What do they want to look at him for?
+
+
+RAGNAR.
+
+They want to see how he daren't climb to the top of his own house.
+
+
+HILDA.
+
+Oh, that is what those boys want, is it?
+
+
+RAGNAR.
+
+[Spitefully and scornfully.] He has kept us down so long--now we are
+going to see him keep quietly down below himself.
+
+
+HILDA.
+
+You will not see that--not this time.
+
+
+RAGNAR.
+
+[Smiles.] Indeed! Then where shall we see him?
+
+
+HILDA.
+
+High--high up by the vane! That is where you will see him!
+
+
+RAGNAR.
+
+[Laughs.] Him! Oh yes, I daresay!
+
+
+HILDA.
+
+His will is to reach the top--so at the top you shall see him.
+
+
+RAGNAR.
+
+His will, yes; that I can easily believe. But he simply cannot do it.
+His head would swim round, long, long before he got half-way. He would
+have to crawl down again on his hands and knees.
+
+
+DR. HERDAL.
+
+[Points across.] Look! There goes the foreman up the ladders.
+
+
+MRS. SOLNESS.
+
+And of course he has the wreath to carry too. Oh, I do hope he will be
+careful!
+
+
+RAGNAR.
+
+[Stares incredulously and shouts.] Why, but it's--
+
+
+HILDA.
+
+[Breaking out in jubilation.] It is the master builder himself?
+
+
+MRS. SOLNESS.
+
+[Screams with terror.] Yes, it is Halvard! Oh my great God--! Halvard!
+Halvard!
+
+
+DR. HERDAL.
+
+Hush! Don't shout to him!
+
+
+MRS. SOLNESS.
+
+[Half beside herself.] I must go to him! I must get him to come down
+again!
+
+
+DR. HERDAL.
+
+[Holds her.] Don't move, any of you! Not a sound!
+
+
+HILDA.
+
+[Immovable, follows SOLNESS with her eyes.] He climbs and climbs. Higher
+and higher! Higher and higher! Look! Just look!
+
+
+RAGNAR.
+
+[Breathless.] He must turn now. He can't possibly help it.
+
+
+HILDA.
+
+He climbs and climbs. He will soon be at the top now.
+
+
+MRS. SOLNESS.
+
+Oh, I shall die of terror. I cannot bear to see it.
+
+
+DR. HERDAL.
+
+Then don't look up at him.
+
+
+HILDA.
+
+There he is standing on the topmost planks! Right at the top!
+
+
+DR. HERDAL.
+
+Nobody must move! Do you dear?
+
+
+HILDA.
+
+[Exulting, with quiet intensity.] At last! At last! Now I see him great
+and free again!
+
+
+RAGNAR.
+
+[Almost voiceless.] But this is im--
+
+
+HILDA.
+
+So I have seen him all through these ten years. How secure he stands!
+Frightfully thrilling all the same. Look at him! Now he is hanging the
+wreath round the vane!
+
+
+RAGNAR.
+
+I feel as if I were looking at something utterly impossible.
+
+
+HILDA.
+
+Yes, it is the impossible that he is doing now! [With the indefinable
+expression in her eyes.] Can you see any one else up there with him?
+
+
+RAGNAR.
+
+There is no one else.
+
+
+HILDA.
+
+Yes, there is one he is striving with.
+
+
+RAGNAR.
+
+You are mistaken.
+
+
+HILDA.
+
+Then do you hear no song in the air, either?
+
+
+RAGNAR.
+
+It must be the wind in the tree-tops.
+
+
+HILDA.
+
+_I_ hear a song--a mighty song! [Shouts in wild jubilation and glee.]
+Look, look! Now he is waving his hat! He is waving it to us down here!
+Oh, wave, wave back to him! For now it is finished! [Snatches the white
+shawl from the Doctor, waves it, and shouts up to SOLNESS.] Hurrah for
+Master Builder Solness!
+
+
+DR. HERDAL.
+
+Stop! Stop! For God's sake--!
+
+     [The ladies on the verandah wave their pocket-handkerchiefs, and
+       the shouts of "Hurrah" are taken up in the street.  Then they
+       are suddenly silenced, and the crowd bursts out into a shriek
+       of horror.  A human body, with planks and fragments of wood,
+       is vaguely perceived crashing down behind the trees.
+
+
+MRS. SOLNESS AND THE LADIES.
+
+[At the same time.] He is falling! He is falling!
+
+     [MRS. SOLNESS totters, falls backwards, swooning, and is caught,
+       amid cries and confusion, by the ladies.  The crowd in the
+       street breaks down the fence and storms into the garden.  At
+       the same time DR. HERDAL, too, rushes down thither.  A short
+       pause.
+
+
+HILDA.
+
+[Stares fixedly upwards and says, as if petrified.] My Master Builder.
+
+
+RAGNAR.
+
+[Supports himself, trembling, against the railing.] He must be dashed to
+pieces--killed on the spot.
+
+
+ONE OF THE LADIES.
+
+[Whilst MRS. SOLNESS is carried into the house.] Run down for the
+doctor--
+
+
+RAGNAR.
+
+I can't stir a root--
+
+
+ANOTHER LADY.
+
+Then call to some one!
+
+
+RAGNAR.
+
+[Tries to call out.] How is it? Is he alive?
+
+
+A VOICE.
+
+[Below, in the garden.] Mr. Solness is dead!
+
+
+OTHER VOICES.
+
+[Nearer.] The head is all crushed.--he fell right into the quarry.
+
+
+HILDA.
+
+[Turns to RAGNAR, and says quietly.] I can't see him up there now.
+
+
+RAGNAR.
+
+This is terrible. So, after all, he could not do it.
+
+
+HILDA.
+
+[As if in quiet spell-bound triumph.] But he mounted right to the top.
+And I heard harps in the air. [Waves her shawl in the air, and shrieks
+with wild intensity.] My--my Master Builder!
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Master Builder, by Henrik Ibsen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE MASTER BUILDER ***
+
+***** This file should be named 4070.txt or 4070.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/0/7/4070/
+
+Produced by Douglas E. Levy
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,0 +1,2011 @@
+The Project Gutenberg EBook of Human Error, by Raymond F. Jones
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Human Error
+
+Author: Raymond F. Jones
+
+Illustrator: Paul Orbin
+
+Release Date: May 17, 2010 [EBook #32403]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HUMAN ERROR ***
+
+
+
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+HUMAN ERROR
+
+BY RAYMOND F. JONES
+
+_Illustrated by Paul Orban_
+
+[Transcriber Note: This etext was produced from If Worlds of Science
+Fiction April 1956. Extensive research did not uncover any evidence that
+the U.S. copyright on this publication was renewed.]
+
+
+[Sidenote: _The government was spending a billion dollars to convince
+the human race that men ought to be ashamed to be men--instead of
+errorless, cybernetics machines. But they forgot that an errorless man
+is a dead man...._]
+
+
+During its three years' existence, the first Wheel was probably the
+subject of more amateur astronomical observations than any other single
+object in the heavens. Over three hundred reports came in when a call
+was issued for witnesses to the accident that destroyed the space
+station.
+
+It was fortunately on the night side of Earth at the time, and in a
+position of bright illumination by the sun. Two of the observers had
+movie cameras attached to their ten-inch mirrors. The film in one of
+these was inadequate, but the other carried a complete record of the
+incident from the moment of the _Griseda's_ first approach, through the
+pilot's fumbling attempt to correct course, and the final collision.
+
+The scene was lost for a few seconds as the wreckage drifted out of the
+field. The observer had been watching through a small pilot scope,
+however, and had wits enough to pan by hand so that he got most of the
+remaining fall that was visible above his horizon as the locked remnants
+of the Wheel and the _Griseda_ began their slow, spiral course to Earth.
+
+By the time this scene was finished, word of the disaster was already
+flashing to Government centers. Joe McCauley, radio operator aboard the
+Wheel, had been talking with Ed Harris on the _Griseda_. As a matter of
+routine, all their conversation was taped, and some of this was
+recovered from the crash and played back at the investigation.
+
+"--and get this," Ed was saying, "my kid had his fifth birthday just
+last week, and I've got him working through quadratic equations already.
+You've got to go some to beat that one."
+
+"Doesn't mean a thing," said Joe. "You know how these infant brain boxes
+burn out. Better take him fishing and forget that stuff for a while.
+Hey--what the devil's going on? You got a truck driver in the control
+room? I just saw you out the port and it looks like you're right on top
+of us!"
+
+"Jeez, I dunno. It's been like that ever since we cleared Lunaport.
+Sometimes I think this guy Cummins trained in a truck the way he--Hell,
+he's comin' up on the wrong side of the Wheel! I relayed the orders to
+go to the east turret. Acknowledged them himself--"
+
+"Ed! I can see you outside the port--we're going to hit!"
+
+The words were ripped by the shattering, grinding roar of colliding
+metal. Then a moment later the blast of an exploding fuel tank.
+
+"Ed!"
+
+"Joe--yeah, I'm here. Lights gone. Emergency power still on. Take the
+emergency band if you've still got a rig. I'll stand by--"
+
+Joe switched over without comment and called Space Command Base on the
+emergency channel, which was always monitored. "Wheel just rammed by
+_Griseda_," he said. "Possible loss of orbital velocity. Extent of
+damage unknown."
+
+Lieutenant James, on duty at the Base, had just returned from a three
+day leave and was scarcely settled in the routine of his post once more.
+He glanced automatically at the radar tracking screen and his face paled
+at the sight of the irregular figure there, slightly out of the
+centering circle. It was no gag.
+
+"You're dropping," he said. "Orbital velocity must be down. Can you
+correct?"
+
+"I haven't been able to contact the bridge," said Joe. "Alert all
+Command and have crash point computed. Stand by."
+
+It developed that the bridge was entirely gone, along with a full thirty
+percent of the station. Captain West had been spared, however, being on
+inspection in the other sector of the station. He came on at once as Joe
+McCauley managed to get the communication lines repatched.
+
+"Emergency red!" he called. "All stations report!"
+
+One by one, the surviving crew chiefs reported conditions in their
+sectors. And when they were finished, they all knew their chance of
+survival was microscopic. Captain West ordered: "Communicate with Base.
+Request plotting of crash point."
+
+"Done, sir," Joe answered.
+
+"Command post will be established in the radio room. Emergency steering
+procedure will be started on command. Man all taxi craft."
+
+It was all on the tapes that were salvaged. Everything was done that
+desperate men could humanly do.
+
+       *       *       *       *       *
+
+At Base, its Commander, General Oglethorpe, was in the communications
+and tracking room by the time Joe McCauley had established contact with
+Captain West.
+
+He picked up the mike at the table. "Plug me in to the station," he
+commanded the Lieutenant.
+
+He got Joe first, but the radio operator put Captain West on as soon as
+he arrived in the radio room. "Hello, Frank," said General Oglethorpe in
+a quiet voice.
+
+"Yes, Jack--" Captain West answered. "I'm glad you're there. Does it
+look pretty bad?"
+
+"Orbital velocity is down two percent. You've been falling for eight
+minutes."
+
+"That's pretty bad. I've got all steering stations manned, but only
+thirty percent of them are still operable. We're using the taxis to give
+a push too. But we haven't been able to dislodge the _Griseda_. Its
+inertia takes almost half our available energy."
+
+"Couldn't you get a blast from the _Griseda's_ tubes to put you in
+orbit?"
+
+"Adler's got a crew out there working on it. But his controls are gone,
+besides his fuel tanks being opened. And even if we could get their
+rockets operating it's doubtful we could get the right direction of
+thrust. Our hope is in our own rockets, and in breaking the ship away
+from the station."
+
+But the closer the massed wreckage dropped toward Earth, the higher were
+its requirements for orbital velocity. While the crews worked at their
+desperate tasks General Oglethorpe sat with his eyes on the tracking
+scope, and the voice of his friend in his ear. He listened to Captain
+West's measured commands to the men in the station and to those working
+to free the ship. General Oglethorpe heard the repeated reports of
+failure to free the _Griseda_. He listened to West's orders to transfer
+fuel from the ship to the station as the latter's supply ran low. He
+watched the continued deviation of the spot on the tracking scope.
+
+Then he turned as a lieutenant came up behind him with a sheet of
+calculations. "Present rate of fall indicates a crash point in the San
+Francisco Bay region, sir."
+
+The General gripped the paper, his face tightening. West said, "Did I
+hear correctly, Jack? The San Francisco area?"
+
+"Yes."
+
+"We'll have to try to keep it from happening there. I'll order the
+rockets shut off now. We'll save enough fuel to try to do some last
+minute steering as we approach Earth."
+
+"No!" General Oglethorpe cried. "Use it now! Its effect will be the same
+as later. Blow the chambers apart! Get back in orbit!"
+
+"We can't make it," West said quietly. "We've gained forward velocity,
+but I'll bet your computers will show us better than four percent below
+requirements at this orbit. Spot our crash as accurately as possible on
+free fall from our present position. We'll save remaining fuel for last
+minute steering in case we're near a city."
+
+The General was silent then as he heard the responses come back from the
+men who manned the rockets and who knew that with the closing of their
+fuel valves their own lives had also come to an end.
+
+"We'll want testimony account for the investigation," Oglethorpe said
+finally. "Get the responsible officers on the circuit--but you first,
+Frank--"
+
+There was a moment of silence before Captain Frank West began speaking
+in changed tones. "What is there to say?" he asked, finally. "You won't
+need to hold an investigation. I can tell you all you need to know--all
+you'll ever find out at least,--right now. Your decision will be the
+same one so many hundreds and thousands of investigating boards have
+made in the past: Pilot Error.
+
+"_Human_ error! That's what killed the first Wheel, and the _Griseda_. I
+don't know why it happened. Adler doesn't. Neither does any other man up
+here with us. Those who were with Cummins in the control room are dead,
+but they didn't know any more than we do.
+
+"We spent a million dollars training that man, Cummins. We believed he
+was the best we could produce. We measured his reflexes and his
+intelligence and his blood composition until we thought we knew the
+function and capability of every molecule in his body. And then, in just
+one split second, he makes the decision of a moron, fumbling when he
+needed to be precise."
+
+"Just what did he do?" Oglethorpe asked gently.
+
+"Our customary approach is to the west turret. This time he had been
+ordered to go to the east side because of repairs on the other end of
+the hub. Cummins had seen and acknowledged the orders. Apparently, they
+slipped his mind during approach to the Wheel and he came up on the west
+side. Then he remembered and tried to correct his position.
+
+"Everything must have gone wrong then. The decision was a blunder to
+begin with. Wrong approach, yes. But it was suicide to attempt such a
+detailed maneuver that close to the station. He used his side jets and
+slammed the _Griseda_ into the Wheel at a forty-five degree angle,
+locking the ship in the wreckage of the rim and in the girders of the
+spokes."
+
+"Was there any previous indication of instability in the pilot that you
+know of? We'll get a better answer on that from Adler, but we need to
+know if you were aware of anything."
+
+"The answer is no! Cummins was checked out before the start of the
+flight just three days ago. He was all right as far as any of our means
+of evaluation go. As right as any man will ever be--
+
+"Jack, listen to me. Remember when we were back at White Sands and
+talked of the days when there would be a Wheel up here, and ships taking
+off for the Moon and for Mars?"
+
+"I remember," said General Oglethorpe softly.
+
+"Well, we've got a piece of that dream. But there'll never be any more,
+and what we've got is going to go smash unless we correct the one
+weakness we've never tackled properly. You'll fail again and again as
+long as men like Cummins can destroy twenty years' work and billions of
+dollars worth of engineering construction. One man's stupid, moronic
+error, and all of this goes to destruction, just as if it had never
+been.
+
+"On the ground, a plane crashes--the board puts it down as pilot error
+and planes go on flying. You can't do that out here! The cost is too
+great. It's a sheer gamble putting this mountain of machinery and effort
+into the hands of men we can never be sure of. You think you know them;
+you do everything possible to find out about them. But you just don't
+_know_.
+
+"We've solved every other technical problem that has stood in our way.
+Why haven't we solved this one? We've learned how to make a machine that
+will perform in a predictable manner, and when it fails to do so we can
+provide adequate feedback alarms and correctors, and we can find the
+cause of error.
+
+"With a man, we can do nothing. We have to accept him, in the final
+analysis, on little more than faith.
+
+"A couple of hundred men are going to die because of a human error. Give
+us a monument! Find out why men make errors. Produce a means of keeping
+them from it. Do that, and our deaths will be a small price to pay!"
+
+       *       *       *       *       *
+
+These were the words of a dead man. They were heard again and again in
+the committee rooms and investigation chambers. They were printed and
+broadcast around the world, and they enabled General Oglethorpe to do
+the thing that became a burning crusade with him.
+
+He would probably have failed in his effort if those words hadn't been
+spoken by a dying man while a shrieking, white-hot mass plunged through
+the atmosphere to land, finally, in the waters of the Pacific.
+
+The wreckage missed the city of San Francisco without the necessity of
+guidance by the rocket fuel so preciously hoarded by West. The Wheel and
+the _Griseda_ were doomed the moment the pilot, Cummins, decided to
+shift the position of the ship with respect to the station.
+
+       *       *       *       *       *
+
+In the anteroom of the Base Commander's office, Dr. Paul Medick rubbed
+the palms of his hands against his trouser legs when the secretary
+wasn't watching, and licked the dryness that burned the membrane of his
+lips.
+
+The secretary remembered him. She probably had been the one to make out
+his severance papers and knew all about Oglethorpe's firing him.
+
+Now she was no doubt wondering about the General's calling him back
+after that bitter occasion--just as Paul himself was wondering.
+
+But he was pretty sure he knew. If he were right it was the opportunity
+of a lifetime, and he couldn't afford to muff it.
+
+The girl turned at the sound of a buzz on the intercom. She smiled and
+said, "You may go in now."
+
+"Thanks." He stood up and told his nerves to quit remembering the last
+time he passed through the door he was now entering. General Oglethorpe
+was nobody but the Base Commander, and if Paul Medick got thrown out
+once more he would be no worse off than he now was.
+
+Oglethorpe looked up, a grim trace of a smile at the corners of his
+mouth. He shook hands and indicated a chair by the desk, resuming his
+own seat behind it. "You know why I called you--in spite of our past
+differences."
+
+Paul hesitated. He didn't want to show his anxiety--and hopefulness--He
+weighed the answers that might be expected of him, and said, "It's this
+crash thing--and the appeal of Captain West?"
+
+"Would there be anything else?"
+
+"I'm flattered that you thought of me."
+
+"There's nothing personal involved, believe me! I'd a thousand times
+rather have called somebody else--anybody else--but there's nobody that
+can do the job you can."
+
+"Thanks."
+
+"Don't bother thanking me. I expect there'll still be a great deal of
+difference between us about the basic goals of this project. But once we
+start I don't want to have to fire you again."
+
+"Just what is the nature of this project," said Paul, "its goals? Fill
+me in on the details."
+
+"There are no details--beyond what you've read and heard--you're going
+to provide them. The objective is to find a kind of man that will keep
+the Frank Wests of the future from dying, as those men aboard the Wheel
+did."
+
+"What kind of man do you expect that to be?" Paul asked.
+
+"One who will eliminate, for all time, the damning verdict that has been
+handed down in tens of thousands of investigations of accident and
+disaster: _human error_.
+
+"We're going to find a kind of man who can be depended on to function
+without error. One who can undertake a complicated task of known
+procedure and perform it an infinite number of times, if necessary,
+without a single deviation from standard."
+
+Paul Medick regarded the General through narrowed eyes. In spite of his
+almost agonizing desire to possess the appointment to head up this
+Project he had to have a clear understanding with Oglethorpe now. He had
+to risk his chances, if necessary, to make himself absolutely clear.
+
+He said, "For untold thousands of years the human race has spent its
+best efforts to reach the goal of perfection without achieving it. Now
+you propose to assemble all the money in the world, and all the brains
+and say: give us a perfect man! The United States Space Command demands
+him!"
+
+"Exactly." General Oglethorpe's face hardened as he returned Paul's
+steady gaze. "No other technical problem has been able to stand before
+such an attack. There is no reason why this one should. And the problem
+_must_ be solved, or we're going to have to abandon space just as we
+stand on the frontier, getting our first real glimpse of it."
+
+"Your world is such a simple, uncomplicated place, General," said Paul
+slowly. "You want a man with two heads, four arms, and a tail? Order it!
+Coming up!
+
+"That's the way you operated when I set up your basic personnel program
+five years ago. It didn't work then; it won't work now."
+
+The General's face darkened. "It _will_ work. Because it has to. Men are
+going to the stars--because they have to. And they're going to change
+themselves to whatever form or shape or ability is required by that
+goal. They've done everything else they've ever set themselves to
+do--life came up out of the sea because it had courage. Men left their
+caves and struck out across the plains and seas, and took up the whole
+Earth and made it what it is--because they had courage.
+
+"But to go to space, courage is not enough. We need a new kind of man
+that we've never seen before. He's a man of iron, who's forgotten he was
+ever flesh and blood. He's a machine, who can perform over and over the
+same kind of complicated procedure and never make an error. He's more
+reliable and endurable than the best machines we've ever made.
+
+"I don't know where we'll find him, but he can be found, and you _will_
+do it, because you believe, as I do, that Man's frontier must not be
+closed. And because, in spite of your cynicism, you still understand the
+meaning of duty to your society and your race. There is no possibility
+of your refusal, so I have taken steps already to make your appointment
+official."
+
+"You must also have prepared yourself," said Paul, "to accept me with
+the basic philosophy that must guide me in this matter. And my
+philosophy is that this Project _must_ fail. It has no possibility of
+success. The man you seek does not exist. An errorless man would be a
+dead man.
+
+"Any living man is going to make errors. That's the process of learning:
+make an approach, correct for error, approach again, correct once more.
+It's the only way there is to learn."
+
+The General inhaled deeply and hesitated. "I know nothing about that,"
+he said finally. "You know what I want. Even if what you say were
+partially true, there remains no reason why that which has been learned
+cannot be performed without error. I may have to put up with it, but
+you'll save yourself and all of us a lot of time if you don't spend
+three months digging up reasons why the Project can't succeed."
+
+He stood up as if everything had been said that could possibly be said.
+"Let's go and have a look at your laboratory quarters."
+
+       *       *       *       *       *
+
+In the hot sunlight of the Southwest desert, they walked across the yard
+from the administration building to a large laboratory which had been
+cleared to the bare floor and walls. Paul felt a sense of instability
+returning. But only for an instant. He'd all but insulted the General
+and told him he had no intention of producing the iron superman the
+Space Command contemplated. And still he had not been thrown out. They
+must want him very badly, indeed!
+
+He had no qualms of conscience about taking the post now. General
+Oglethorpe had been forewarned and knew what Paul Medick's hopes and
+intentions were.
+
+"You can build your staff as big as you need it," the General was
+saying. "This Project has crash priority over everything else. We've got
+the machines to go to space. The machines need the men.
+
+"You can have anybody you want and do anything you like to them. We hope
+you can put them back together again in reasonable shape, but that
+doesn't matter too much."
+
+Paul turned about the bare room that would serve adequately as office
+space. "All right," he said. "Consider Project Superman begun. Remember,
+I have no hope of finding a solution in an errorless human being. I'll
+find whatever answer there is to be found. If you have any objections to
+my working of those terms, say so now. I don't intend to get fired again
+with a Project in the middle of its course."
+
+"You won't be. You'll find the way to give us what we need. I want you
+to come down to the other end of the building and meet a man who will be
+working closely with you."
+
+There had been sounds of activity in the distance, and General
+Oglethorpe led Paul towards them. They entered a large area in which
+instrumental equipment was being set up. A tall, thin, dark-haired man
+came up as they entered.
+
+"Dr. Nat Holt," said the General, "instrument and electronics expert.
+This is Dr. Medick, the country's foremost man in psychology and
+psychometric analysis.
+
+"Dr. Holt will be your instrument man. He will design and build whatever
+special equipment your researches call for. Let me know soon what you'll
+need in the way of furniture and assistants."
+
+He left them standing in the nearly bare room. Through the window they
+watched his stiff form march back to his own office.
+
+Nat Holt shifted position and grinned at Paul. "I may as well tell you
+that the General has briefed me thoroughly on what he considered your
+probable reaction to the Project. I'm just curious enough to want to
+know if he was right."
+
+"The General and I understand each other--I think," said Paul. "He knows
+I'm contemptuous of his approach to a problem of human behavior by
+ordering it solved. But he knows I'll take his money and spend it on the
+biggest, deepest investigation of human behavior via psychometrical
+analysis that has ever been conducted."
+
+"It ought to be enough to buy gold fringed couches for all the analysts
+in the country."
+
+Paul raised his brows. "If it's that way with you, then why are you
+joining me?" he asked.
+
+"Because I have a stake in this, too! I want to see the problem solved
+just as much as the General does. And I think it _can_ be solved. But
+not this way!
+
+"There's only one way to produce men of superior abilities. The method
+of adequate training. Hard, brutal discipline and training of oneself.
+I'm going to convince Oglethorpe of it after he's seen the failure you
+intend to produce for him."
+
+"That shouldn't be hard," said Paul. "It's the General's own view. The
+Project is simply to implement that view.
+
+"But let's not have any misunderstanding about my intentions. I expect
+to give honest value in research for every dollar spent. I expect to
+turn up data that will go a long way toward providing better spacemen
+for the Command--and to give Captain West the monument he asked for!"
+
+       *       *       *       *       *
+
+Alone in his hotel room that night, Paul stood at the window overlooking
+the desert. Beyond the distant hills a faint glow in the sky marked the
+location of Space Command Base. He regarded it, and considered the
+enormity of the thing that was being brewed for the world in that
+isolated outpost. Now the chance was his to prove that manhood was a
+quality to be proud of, that machines could be built and junked and
+built again, but that a man's life was unique in the universe and could
+never be replaced once it was crushed.
+
+For years he'd struggled to probe the basic nature of Man and find out
+what divorces him from the merely mechanical. He'd known there would
+probably never be enough money to reach his goal. And then Oglethorpe
+had come, offering him all the money in the world to reach a nebulous
+objective that Space Command did not know was unobtainable.
+
+_Somebody_ was going to spend that money. With clear conscience, Paul
+rationalized that it might as well be him. He'd see that the country got
+value for what it spent, even if this was not quite what the Space
+Command expected.
+
+Nat Holt was going to be a most difficult obstacle. Paul wished the
+General had let him pick his own technical director, but obviously the
+two men understood each other. In their separate fields, they were alike
+in their approach to human performance. Whip a man into line, make him
+come to heel like a reluctant hound. Beat him, shape him, twist him to
+the form you want him to bear.
+
+_Discipline_ him. That was the magic word, the answer to all things.
+
+Paul turned from the window in revulsion, drawing the curtains on the
+skyglow of the Base.
+
+Human error!
+
+When would Man cease to indulge in this most monumental of all errors?
+When would he cease to regard himself and his fellows as brute creatures
+to be beaten into line?
+
+He had to find the right answer before Oglethorpe and his kind found
+some flimsy validation for the one they had already chosen long ago.
+
+He stood up and glanced at the clock, deciding he wanted dinner, after
+all. Tomorrow he'd wire Betty and the kids to get packed and be on their
+way. No--he'd phone tonight. She had a right to know immediately the
+outcome of his interview.
+
+The dining room was almost empty. He ordered absently and clipped the
+speaker of his small personal radio behind his ear while waiting. He
+seldom used it, but here in the desert was a sense of isolation that
+made him seize almost compulsively upon any contact with the bright,
+distant world. The music was dull, and the news uninspiring. He was
+about to turn it off when his order arrived.
+
+The wine was very bad; the steak, however, was good, so Paul considered
+it about even. His finger touched the radio switch once more. The
+newscaster's voice changed its tone of pounding urgency. "Repercussions
+of the recent crash of the world's first space station are still being
+heard," he said. "Murmurs of protest against construction of a new Wheel
+are rising in many quarters. Today they approach the proportions of a
+roar.
+
+"The influential New England Times states that it is 'unqualifiedly
+opposed' to any restoration of the Wheel. 'In its three years' existence
+the structure proved beyond any question of doubt its utter lack of
+utility. Now its fall to Earth demonstrates the menace constituted by
+its presence over every city on the face of the globe.'
+
+"Senator Elbert echoes these sentiments. 'It was utter folly in the
+first place to spend billions of dollars to construct this Sword of
+Damocles in the sky of all the world. I propose that our Government go
+on record denying any further intention to rebuild such a threat to the
+peace and well-being of nations who stand now on the threshold of
+understanding and friendliness which they have sought for so long.'"
+
+Paul switched it off. He remembered the hours of world-wide tension
+while the Wheel was falling toward the city of San Francisco. In panic,
+the whole population of the Bay Area attempted evacuation, but there
+wasn't time. The bridges became clogged with traffic, and some
+hysterical drivers left their cars and jumped to the waters below.
+
+As the wreckage neared Earth, the computers narrowed their circle of
+error until it was certain at last that the city would not be struck.
+But the damage was done. The fear remained, and now was congealing in
+angry determination that another Wheel would not be built.
+
+Paul finished his meal, wondering what effect this would have on the
+plans to build a new Wheel--and on Project Superman. Maybe Congress
+would react in anger that would cut off all appropriations to the
+Project.
+
+He wondered, in sudden weariness, if this would not be an unmixed
+blessing, after all.
+
+       *       *       *       *       *
+
+The next three days were spent in telephone and telegraph communication
+with members of his profession as he proceeded to recruit a staff.
+
+On Friday, Betty arrived with the kids. By the end of the following
+week, laboratory furniture had been installed and the first trickle of
+potential staff members was coming in to see what Superman was all
+about. Nat, too, had been busy forming his own staff and setting up
+basic equipment.
+
+Paul had the feeling that they were opposing camps setting up on the
+same site of exploration. He tried to tell himself it was completely
+irrational, until Nat approached him a few days later.
+
+"Quite a crew you're getting in here," the technician said. "You'll have
+to take Oglethorpe up on his offer of new buildings if you expect to
+find couch space for all your boys."
+
+"That's what you're here for," Paul suggested mildly, "to do away with
+couches."
+
+"Right." Nat nodded. "Anything a couch can do, a meter can do twice as
+efficiently."
+
+"Sometimes both are necessary. You forget my specialty is psychometry."
+
+"No, I'm not forgetting," said Nat. "But that's what makes it so hard
+for me to figure out. You're attempting to span two completely
+incompatible fields: science and humanities. Man behaves either as a
+machine or as a creature of unstable emotion. To function as one you
+have to suppress the other."
+
+"Splitting Man in two has never produced an answer to anything. It has
+been tried even longer than couches--and with far less result."
+
+"I'll make you a small side bet. We're going to have to work together on
+Superman, and coordinate all our procedures and results. But I'll bet
+the final answer turns up on the side of a completely mechanistic man,
+shorn of all other responses and motivations."
+
+"I'll take that!" Paul said with a grim smile. "I don't know how much of
+an answer we'll find, but I know _that_ won't be it!"
+
+"Let's say a small celebration feed for the whole crew when Superman is
+completed. Nothing chintzy, either!"
+
+They shook on it. And afterward Paul was glad the incident had occurred.
+It left no doubt about the direction Nat Holt would be traveling in his
+work.
+
+       *       *       *       *       *
+
+Four weeks to the day, from the time Paul had stepped into Oglethorpe's
+office, he called the first meeting of his staff leaders. Invitations to
+the General and to Nat Holt were deliberately omitted. He wanted this
+first get together to be a family affair.
+
+He felt just a little shaky in the knees as he got up before that group
+for the first time.
+
+"I won't repeat what you already know," Paul said carefully. "You all
+know the background events that produced Project Superman.
+
+"I am sure that each of you has also caught the two basic errors that
+have been assumed by the Space Command, first, that an errorless man is
+possible, and second, that genuine scientific discovery can be secured
+wholly upon command. General Oglethorpe recognizes that we consider
+these assumptions erroneous, but he also knows that our professional
+integrity demands that we pursue vigorously a course which he believes
+will result in success.
+
+"We recognize, too, that we are not here to invent or produce anything
+that does not already exist. But, in a sense, our superiors and some of
+our co-workers expect us to do exactly that.
+
+"We can agree, however, that most of Man's potential still remains to be
+discovered. And for us, who have hoped for a means of understanding that
+potential, this Project is the fulfillment of dreams. If we fail to take
+full advantage of it, we will win the condemnation of our profession for
+a century to come.
+
+"Space Command has already concluded that a man can be stripped of his
+humanity and driven to an utterly mechanistic state with the robotic
+responses of a machine. Let there be no mistake about it: we have been
+brought here to validate that conclusion.
+
+"We will validate it by default, so to speak, unless we can produce a
+clean-cut analysis and demonstrations of the thing that most of us
+believe: that the essence of Man is more than a piece of machinery or a
+collection of bio-chemical reactions.
+
+"Our science of mind and Man is on trial. If we fail, we give consent to
+a doctrine that will spread from space technology to all the rest of our
+society, and bind Man in an iron mold that will not be broken for
+generations. While we have been hired and will ostensibly work at the
+task of developing an errorless man, our basic purpose must be to
+validate the humanity of Man!"
+
+He waited for their reaction. Outside, far across the open desert at the
+station, a rocket screamed into the air. They waited until the sound
+died away.
+
+Professor Barker stood up. "There is scarcely a human being who has not
+by now read or heard the words of Captain West's appeal. They will be
+looking for the day when there will come marching from our laboratories,
+like a robot, the errorless man he asked for.
+
+"Do you mean we have to fight the stated objectives of this Project? Can
+we not discover sufficient understanding to establish some method of
+training which will accomplish, in another way, the things the Space
+Command needs?"
+
+"We are not fighting the Space Command's desire for more adequate men
+for its ships," said Paul. "We are fighting only against the false
+conclusions they have already formed concerning the nature of such men.
+
+"We must solve the problem of human error. We know its purpose in the
+learning process. We must discover the reason for its existence in a
+_learned_ process. We have to find out what training actually means.
+
+"We have to ask how we know when an error has been made. It is obvious,
+of course, when a spaceship rams a fixed orbit station. But what of the
+subtler situations, where results are less dramatic, or are postponed
+for a long time--?
+
+"The primary thing to remember at this point is that our basic goal is
+to prevent any false confirmation of the dogma that Man is no more than
+a badly functioning machine, which will gain value when he has been
+tinkered with sufficiently so that he can slip in beside the gears and
+vacuum tubes and be indistinguishable from them. And to reach this goal
+we must discover his true nature."
+
+       *       *       *       *       *
+
+It was two weeks later that General Oglethorpe made his first visit
+since Superman got under way. The soldier's face seemed more deeply
+lined and his eyes more tired than Paul remembered seeing them before.
+
+"You seem to have things well in hand," he said. "How soon can you give
+us some tangible results?"
+
+"Results! We've just started housekeeping. In a year, maybe two, we'll
+have an idea where to begin a concentrated search for what you want to
+know."
+
+The General shook his head slowly, his eyes remaining on Paul's face.
+"You aren't going to have anything like a year. You haven't got time to
+run down one line of research and then another. Run them all at once--a
+thousand of them if you want to. Why do you think you've got the budget
+you have!"
+
+"Some things," said Paul, "like threading a needle--or analysing a human
+being--don't go much faster when a thousand men work at it than when
+there's only one."
+
+"They do when there're a thousand needles to thread--or brains to pick.
+And that's what we're up against here. We need a volume of the kind of
+men we've been talking about, and we need them quick!"
+
+"We have to find out how to get the first one."
+
+"And you haven't got as much time now as we thought you had when
+Superman began. They're trying to close us up.
+
+"We hadn't planned to build another Wheel right away, not until some
+refinements of design had been worked out, and we had some results from
+Superman.
+
+"Now, all that's been scrapped. We've received orders from Washington
+that erection of a second Wheel is to begin at once, using the plans of
+the first one. Fabrication of structures is already under way."
+
+"I don't understand," said Paul.
+
+"If we don't get another one up there within a matter of weeks, this
+hysterical opposition among the public is liable to prevent us ever
+getting one there again. We have to act while we still have authority,
+before the crackpots persuade Congress to take it away. And by the time
+it's built, I want some men to put in it. Men who can be trusted to not
+jeopardize it the moment they put their clumsy feet aboard. I want them,
+Medick, and I intend to have them. That's by way of an order!"
+
+The General rose, but Paul remained seated. "You can't get them that
+way, and you know it," the latter said. "We'll do all we can, as I've
+told you before."
+
+"I think you'll do considerably more, now. That was quite a talk you
+delivered to your boys a couple of weeks ago. We will 'ostensibly work
+at the task of developing an errorless man', is the way I believe you
+put it. You're going to do a lot more than ostensibly work at it,
+Medick. Just how much do you think you can get away with?"
+
+Paul remained motionless in the chair. Only his lips moved. "So you had
+a report on our little meeting? I hope it was complete enough to give
+you the rest of the things I said, that my basic purpose was not to
+produce human robots, but to validate the humanity of man."
+
+Oglethorpe leaned closer, his fists resting on the top of the desk. "The
+humanity of man be damned! I told you before we want men who've
+forgotten they were ever human, men of metal and electrons. If I didn't
+think you were the man who could do it--probably the _only_ man in the
+whole country--you wouldn't last here another minute. But you _can_ do
+it, and you're going to.
+
+"Your little lecture was enough to ruin your career in any place you try
+to run to, if you undermine Superman. Who do you suppose would trust you
+with any kind of research after that expression of intent to sabotage
+the Project your Government entrusted you with, and which you agreed to
+carry out?
+
+"You're finished, Medick, washed up completely in your own profession,
+unless you give me what I've asked for! I won't take promises any more.
+The only assurance you can give me from here on out is results! I want
+those men, and I want them damn fast!"
+
+       *       *       *       *       *
+
+Professor Barker listened attentively as Paul sat across from him in the
+administration office and reported Oglethorpe's visit and demands.
+
+"We're caught in a squeeze, and we've got to push both ways," Paul said.
+"If the Base goes down, Superman goes with it, and we've lost an
+opportunity that will never come again in our lifetimes. So we've got to
+do two things: We've got to give active support to the rebuilding of the
+Wheel, and we've got to develop some kind of show that will convince
+Oglethorpe that Superman is giving him what he wants. It will mean
+detouring our basic objectives, but it's necessary in order to have a
+project at all. I'd like you to take charge of it."
+
+"It'll be a waste of time," Barker said slowly. "I wonder if we'll ever
+get back on the track."
+
+"We'll have to gamble on it," said Paul. "I don't want you to feel I'm
+deliberately pushing you up a blind alley, but I think you're the best
+man for bringing up something we can sell Oglethorpe--while we try to do
+some real research on some honest goals."
+
+"We can follow the usual lines of so-called training--brute conditioning
+through shock and fear and pain and discomfort. Most of the men here are
+already well anaesthetized in that respect. Their breakdown level is
+high."
+
+"Cummins' was the highest," said Paul, "and he cracked. But work along
+those lines anyway. Maybe we can find a way to thicken the conditioning
+armor. At the same time let's push a genuine investigation into the
+nature of error as hard as we can. For the moment we'll forget broader
+objectives, until we know the Project is safe."
+
+Barker agreed reluctantly, feeling that they would end up as mere
+personnel counselors before long. As soon as he left, Paul called
+Oglethorpe.
+
+"I've got a suggestion," he said. "Let's not get on the defensive about
+this thing. Why don't you propose a Senatorial investigation of Space
+Command?"
+
+"Are you crazy? Why would we want to have them come out here and pick
+our bones to pieces before making final burial?"
+
+"We've got a story to tell them--remember? We've got Superman, that's
+going to produce for the first time in the world's history a man
+adequate to go into the dangers of space. And there's that little story
+of yours about courage. I think that would go over with them. We'd be
+out in front if we took the initiative in this instead of just waiting
+until it rolled over us."
+
+There was a long pause before Oglethorpe spoke again. "I wonder just
+what you're trying to do," he said finally. "I know you don't mean a
+word of what you're saying at all--"
+
+"But I do mean it," Paul said earnestly. "I want Superman saved; you
+want the Wheel. It amounts to the same thing."
+
+"You could be right. You might even be telling the truth. I'll give it
+some thought."
+
+       *       *       *       *       *
+
+The officer in charge of the rocket crews and the take-off stand was a
+young engineer-soldier named Harper. Paul had met him during the first
+week at Base. His endorsement of Project Superman was enthusiastic.
+
+After talking with Oglethorpe, Paul took a jeep over to the stand and
+located Harper. The engineer was overseeing the fueling process on a big
+rocket.
+
+"Doc Medick!" Harper exclaimed. "How's your crew of head shrinkers
+coming along? We're just about ready for your new breed of pilots."
+
+"What do you mean?"
+
+"This is the nucleus ship. She's going out in orbit tonight with the
+first batch of supplies and instruments to get ready for the new Wheel.
+We're going to need your men awfully fast."
+
+"That's what I came to talk about. Can you spare a few minutes?"
+
+"Sure." Harper led him to the office, where the whining of fueling pumps
+was silenced. "What can we do for you?"
+
+"I wanted to ask about Cummins. You knew him pretty well, didn't you?"
+
+"Buddies. Just like that." Harper crossed his fingers.
+
+"What went wrong, do you think? I know it's all been hashed over in the
+investigations, but I'd like your personal feelings about him."
+
+Harper's face sobered and he looked away a moment. "Cummins was as good
+a guy as they come," he said. "But in a pinch he was just a weak sister.
+That doesn't mean he didn't have a lot on the ball," Harper added
+defensively. "He was a better pilot than most of us ever will be, but he
+was just human like the rest of us."
+
+"What do you mean, 'human'?"
+
+"Weak, soft, failure when the going gets rough--everything we have to be
+on guard against every minute we're alive."
+
+"I take it you don't think much of human beings, as such."
+
+Harper leaned forward earnestly. "Listen, Doc, when you've been around
+ships as long as I have, you'll know what Captain West really meant. The
+weakest link in any technological development has always been the men
+involved with its operation. In space flight our weakness is pilots and
+technicians. Set a machine on course and it'll go until it breaks
+down--and flash you a warning before it fails. With a man, you never
+know when he's going to fail, and you have to be on guard against _his_
+breakdown every minute because he won't give any warning.
+
+"Think what it's like to be in our shoes! We take the controls of a few
+hundred million dollars worth of machinery, and we know that every last
+man of us is booby-trapped with some weakness that can break out in a
+critical moment and destroy everything. We fight against it; we struggle
+to hold it in and act like responsible instruments. And we grow to hate
+ourselves because of the weak things that we are.
+
+"Cummins was like that. He fought himself every waking hour, knowing
+that he had a weakness of becoming confused in a tight spot. Oh, it was
+nothing that even showed up on the tests, and he was the best man of any
+of us on the Base. But he knew it was there, just as we all know our
+closets bulge with skeletons that we try to keep from breaking out."
+
+"Do you fight yourself the way Cummins did?" Paul asked.
+
+"Sure."
+
+"What would happen if you pulled a blunder that wrecked that ship out
+there on the stand."
+
+"I'd have had it, that's all. I'd never get within ten miles of a rocket
+base again as long as I lived. And there wouldn't be much worth living
+for--"
+
+"It would be pretty wonderful to feel you weren't constantly on the
+verge of some disastrous blunder, wouldn't it?"
+
+"It would be a rocket man's idea of heaven to handle these ships with
+that kind of a feeling inside him."
+
+"We're about ready to begin running tests on Superman, and I'd like you
+to be the first to help us out. Can you arrange it?"
+
+"We're tied up like a ball of string on getting the nucleus ship in
+orbit. I know Oglethorpe gave orders we were to jump when you called,
+but I'll have to check on replacements for those of us you take. What
+kind of test are you going to run on me?"
+
+"I want to find out how long it takes you to make a serious error, and
+what happens to you when you do!"
+
+       *       *       *       *       *
+
+Arrangements were made for initiating this series of tests two days
+later. Paul had designed them, and Nat Holt's crew had built the
+equipment.
+
+But before they were started, Paul grew increasingly aware of the clamor
+and public agitation against the Wheel. Instead of dying out after a
+small spurt of anger, it was accumulating momentum in every corner of
+the nation.
+
+A rabble rouser named Morgan in the middle-west had proposed a motor
+caravan to Space Command Base, where the participants would go on a
+sit-down strike until assurance was given that no Wheel would be built
+again. And on the heels of this came the demand by an increasing number
+of Senators for a full investigation of the Base.
+
+Paul met Barker after seeing the newscast of Morgan's revivalist type
+appeal for a caravan of protest against the Base. "This looks like it
+could get to be something that would be hard to handle," Barker said.
+"It doesn't seem reasonable that the near-crash of the first Wheel at
+San Francisco could be responsible for all this commotion."
+
+"I don't think it is," Paul answered reflectively. "The sinking of a big
+ocean liner doesn't produce hysterical demands that no more ships be
+built. The crash of an airship with a hundred people aboard is accepted
+for what it is, without this kind of reaction. I think these broadcasts
+and write-ups of Captain West's appeal have sunk in deeper than
+Oglethorpe or anyone else ever intended.
+
+"For a long time there has been building up a sense of man's inferiority
+to his machines. Now this incident of the Wheel and the world-wide
+broadcast of West's final words have triggered that inferiority into a
+genuine fear. They're afraid to have another Wheel up there over their
+heads. They're afraid that no man is capable of mastering such a piece
+of machinery."
+
+Not only the public was infected with this fear, but the very men on
+whom the operation of the ships depended. Harper was right, Paul
+thought, as he reached his own office again. It must be terrible to be
+in their shoes, fighting constantly the conviction that they were poor
+miserable creatures hardly fit to polish the shining hulls of their
+creations!
+
+They were trained in the best of military traditions, crushing their
+weaknesses by sheer force. And they had concluded their own breakdown
+was inevitable, in spite of their training and traditions. How could
+such men even hope for the stars!
+
+But where was the flaw in it all? If the answer was not in men who were
+more nearly like their own machines, where was it?
+
+They needed a year or two to even approach the problem properly, and
+some kind of answer was demanded within weeks!
+
+Oglethorpe came to the laboratory the morning Harper was to begin his
+test runs. "We're going on a complete crash-priority basis, with
+round-the-clock shifts," he said. "It's been a toss-up whether to close
+Superman and put everything we had on the new Wheel, or leave it open in
+the hope of getting something out of it.
+
+"For the time being I'm leaving it open, but remember that every hour
+Harper or one of his men spends here is an hour away from the job on the
+Wheel.
+
+"We didn't need your suggestion about an investigation. Plenty of other
+people thought of it first. The Senators will be here in four or five
+days. You're going to talk to them. You're going to tell them what you
+proposed to tell them."
+
+"Of course. And what are you going to do about Morgan's cavalcade?"
+
+Oglethorpe spat out an exclamation. "We'll set up barricades that they'd
+better not cross within ten miles of Base!"
+
+"That won't help," Paul warned. "I think you'd better let me prepare
+something for them, too."
+
+"Forget them! Take care of the Senators and the Project and you'll be
+doing enough."
+
+Harper arrived shortly, nervous in spite of his attempt to appear
+composed. But he was put at ease when they took him to the laboratory of
+complex testing equipment assembled by Nat Holt.
+
+Paul indicated a seat in the middle of the mass of equipment. "As near
+as we've been able to make it," he said, "this simulates the landing
+procedure of a rocket craft. There are a hundred and thirty-five
+distinct actions, observations and judgements involved. A taped voice
+will lead you through the sequence, asking you to press buttons and make
+adjustments to indicate your observations and responses. When you can do
+all this to your satisfaction, you will turn off the tape and continue
+for as many cycles as you can."
+
+"How long? A man could do that for a month, provided he didn't have to
+sleep."
+
+"I think you'll be a little surprised. You will continue until your
+accumulation of errors becomes so great that the entire procedure
+collapses."
+
+"It still looks like a kid's game to me," Harper said confidently.
+"Let's get started."
+
+Carefully, they fitted the multiple electrodes of the
+electro-encephalograph recorder to his skull. The tape instructor was
+turned on, and Harper began the first cycle.
+
+Behind the one-way glass of the observation room, Paul sat with Nat Holt
+and Professor Barker and two assistants, watching. The rocket engineer
+began jauntily, contemptuous of the simple actions required of him,
+impatient to have it over with and get back to his duties at the
+take-off stand.
+
+The instructions coming over the speaker had some variations from the
+normal handling of a ship, including the items necessary to record
+observations and responses. Harper listened to these for a half dozen
+cycles. Then, confident that he could breeze through the procedure for
+the rest of the day if he had to, he switched off the tape and settled
+back to take it easy.
+
+One by one, he watched the meters, noted their information, made the
+proper adjustments, added compensations, waited for results, checked and
+re-checked--
+
+"He'll go a long time," said Nat Holt confidently. "He's had top
+training. If it breaks down, we may find out a few things."
+
+"Cummins had top-drawer training, too," Paul said. "His break point
+seemed to have no adequate antecedents. I don't think we're going to
+find Harper holding out very long."
+
+After an hour, the attitude of contempt had left Harper's face, and he
+was proceeding with obvious boredom. He had made no error yet, but there
+was evident a faint trace of anxiety as he concentrated on the
+instruments and levers.
+
+At two hours and a half Harper reached for a button and withdrew his
+hand in abrupt hesitation. Then it darted out again and pressed
+decisively. At three hours he was making two such hesitations every
+cycle.
+
+"Not so good," Barker commented. "Not for a man who battles himself the
+way Harper does."
+
+Nat Holt remained silent, watching critically the wavering dials and
+graphs showing the engineer's physical condition and reaction.
+
+At four and a half hours, Harper's hand reached for a lever in the
+center of the board. But it didn't get more than a third of the way. In
+mid-air it froze, as if paralysis had suddenly struck it. Harper
+regarded it in seeming dumb astonishment. His face grew red, and sweat
+broke out upon his forehead as if from the physical exertion of trying
+to put his hand to the lever.
+
+Paul grabbed a microphone and switched it on. "Touch the lever," he
+commanded. "Draw it toward you."
+
+Harper looked around as if in panic, but he completed the motion. He sat
+staring at the panels for a full two minutes while alarm eyes went from
+green to yellow to red.
+
+"Alarm red!" Paul exclaimed into the microphone. "Correct course!"
+
+Harper turned and glared about with hate in his eyes as if to find the
+source of the sound. He began tearing at the wires and contacts fastened
+to his head and body. "To hell with the course!" he cried. "I'm getting
+out of here!"
+
+He hurled the wiring harness at the panels. Then, he stood in a moment's
+further paralysis and slumped finally into the chair. He put his arms
+and head down on the instrument desk and began sobbing deeply.
+
+Paul put away the microphone and moved to the door. "That's the end of
+that," he said. "I hope our record is good. Harper might not like to go
+through that again."
+
+Nat Holt was still staring through the window at the sobbing engineer.
+"I don't understand," he murmured. "What made him break down like that
+for no reason at all?"
+
+       *       *       *       *       *
+
+One by one, the top engineers of the Base went through the breakdown
+test. Some broke down with an emotional storm as Harper had, others
+simply ended in a swirl of confusion that put lights flashing all over
+the panels. But all of them had a breaking point of some kind that could
+be measured in a small number of hours.
+
+The test was a stab in the dark. It was based on an old and well-known
+principle that repeated tactile contact under command will break down
+the motor responses of the body in a matter of hours. Paul did not know
+whether it would actually provide a fertile lead to the problem of error
+or not, but it seemed the closest possible approach at present.
+
+Nat Holt, however, was astonished at the reaction of the men. He
+insisted on trying it himself, determined that he would not break down
+no matter what happened. He lasted six hours before the panel lit up
+like a Christmas tree.
+
+He subjected the resulting curves to an analyzer, and to his own he gave
+the most detailed attention. At the end of a full week of study on it,
+he called Paul with an excitement he could not suppress in his voice.
+
+"It looks like you owe that dinner," he said. "We've got what we were
+looking for!"
+
+"What are you talking about?" Paul demanded.
+
+"We've got proof that a human being is nothing more nor less than a
+simple cybernetic gadget. It's a laugh--people trying to build a
+mechanical man all these years. That's the only kind there is!"
+
+"You still aren't making sense."
+
+"Come on over and see for yourself."
+
+Puzzled and irritated, Paul left his office and went down to the
+analyzer laboratory. There he found Holt and his staff in a buzz of
+excitement.
+
+The multiple recorder sheets were laid out on long tables, being studied
+intensely. Paul followed Holt to one series that was separated from the
+rest.
+
+"We didn't know we had anything at first," said Holt. "The pulse was so
+low in amplitude that it was hard to pick out of the noise, but the
+analyzer showed it was consistently present under certain conditions of
+the subject."
+
+"What conditions?" said Paul.
+
+"At the exact moment of committing an error! I should say it occurs
+between the moment of making the decision to carry out an erroneous act
+and the triggering of the motor impulse that executes it."
+
+Paul frowned. "How can you be sure it doesn't occur at any other time as
+well?"
+
+"Because we've run every set of charts through the analyzer and this
+particular impulse comes out no other place."
+
+"It looks very interesting," Paul said. "But why did you say you've got
+proof that a human being is nothing but a cybernetic gadget? I don't see
+what this has got to do with it."
+
+"I didn't give you quite all the story," Holt said smugly. "I should
+have said that the pulse occurred every time there was an _intent_ to
+perform an error. Sometimes that intent was not carried out."
+
+"I don't understand."
+
+"That pulse is nothing more nor less than a feedback pulse indicating
+that an action matrix has been set up which is in non-conformity with
+the previously chosen pattern of learning or intent. It's a feedback
+alarm carrying the information that an error will result if the proposed
+action is carried out. When the feedback is successfully returned to the
+action matrix a change is made until there is no feedback and a correct
+action is taken. When the feedback is blocked or ignored, an error
+results. It's as simple as that! Your complex human being is nothing but
+a fairly elaborate cybernetic machine operating wholly on feedback
+principles. The only time he fails and breaks down is when he ceases to
+act like the cybernetic machine that he is!"
+
+       *       *       *       *       *
+
+Holt's eyes shone triumphantly as he patted the long strips of paper on
+the table. Paul followed the motion of his hand and remained staring at
+the graphs in a kind of stunned recognition. There must be some mistake,
+there _had_ to be. Holt's interpretation was wrong, even if the data
+were correct. Man, a feedback response mechanism--! If that were true a
+vacuum tube structure could eventually be devised to do _anything_ a man
+could do.
+
+"I think we'll hold off on that dinner a while yet," Paul said. "The
+data are interesting and, I'm sure, important--but I can hardly agree
+with your conclusions." Inwardly, he cursed the stiltedness he felt
+creeping into his voice, and his irrational resentment of Holt's
+continued smug grin.
+
+"Take all the time you want," Holt said, "but when you're through you'll
+come up with the same answers I've got. Man is a machine and nothing
+else. Our only job now is to discover why the feedback sometimes fails,
+and to set it back on the job."
+
+Paul took the recordings and the analyzer graphs back to his own office.
+
+He called Barker and showed the older man what Holt had found out. "If
+this is true," he said, "we don't need to worry about validating Space
+Command's pre-chosen conclusions. It has already been done."
+
+Dr. Barker looked puzzled and a little frightened as he sat down at the
+desk to examine the charts. After an hour, he looked up. "It's true," he
+said. "There's no escaping the fact. Look what we have here--" He
+pointed to a corresponding sector of the six charts he'd lined up.
+
+"After the first feedback impulse, there was no attempt to correct," he
+said, "or, rather, there was a deliberate effort to suppress the
+feedback. This created a second, larger feedback, which, in turn
+resulted in increased suppression and a simultaneous enlargement of the
+error. The result was a hunting effect in increasingly large amplitude,
+like the needle of an autosyn indicator with undamped positive feedback.
+
+"Now, here's another one with the opposite effect. In this case the
+hunting shows diminishing amplitude as correction of the effort results
+from application of the feedback pulses. One pulse is not sufficient,
+but they are applied in decreasing force as the intent is brought into
+alignment with the learned pattern. A purely mechanical response!"
+
+Paul turned from the window through which he had been staring toward the
+launchers. "Then Space Command is perfectly right," he said bitterly.
+"We _can_ give them their errorless, mechanical men--just as soon as we
+find ways of correcting the blockage of the feedback pulses!"
+
+Barker leaned back in his chair and folded his hands across his moderate
+paunch. "I'm afraid that's right. We've been wrong all along in bucking
+the mechanical concept of Man. The technologists saw it long ago in a
+sort of intuitive way, but they couldn't prove it. Now, they can!"
+
+"And the soul of Man is nothing but a feedback impulse!"
+
+Barker sighed heavily. "What else, Paul?"
+
+       *       *       *       *       *
+
+Morgan's Caravan appeared that evening and camped at the ten-mile limit
+imposed by the military police guards. They posted their signs of
+protest and began their picket lines. Oglethorpe sent out his sound
+trucks to try to scare them away, but they wouldn't scare.
+
+Paul watched at home the broadcast of the scene, but the fate of the
+Base and the Wheel had almost ceased to concern him. He told Betty of
+the discovery Holt had made on Superman.
+
+"It leaves nothing to account for the most valued acts of Man," he said.
+"It can't account for creativeness, because a cybernetic device cannot
+create; it can only follow a pattern. So where is the poetry, the art,
+the scientific invention if this is the essence of Man? It can't be, yet
+there's no way of getting around this thing."
+
+"Where does the pattern come from?" asked Betty. "Isn't that the created
+thing which the cybernetic system tries to follow?"
+
+Paul shook his head. "The pattern we're talking about is no more than a
+response to stimuli, a purely mechanical thing also. Holt claims this is
+all there ever is, that what we call art, poetry, music inspiration, and
+intuition are nothing more than the results of badly functioning
+cybernetic systems. The more or less irrational results of errors in
+accommodating to the real world. We find pleasure in them because they
+tend to excuse our badly malfunctioning circuits.
+
+"The ideal race of Man would be devoid of all this, a smoothly operating
+group of individuals unperturbed by emotional or artistic responses,
+completely capable of solving any problem in a purely cybernetic
+manner."
+
+"And do you agree with it?" Betty asked.
+
+"There's nothing else I can do! The evidence is there." He laughed
+shortly and moved to the window where he could see the nearby camp of
+Morgan's Caravan. "Human development has moved--is moving--in a
+completely different direction from anything I ever dreamed.
+Oglethorpe's iron-hard, emotionless machine-men are the only ones who'll
+get there. The rest of us who can't match the pace of a technological
+society will be shucked off as the waste part in the development of a
+species meant to inhabit galaxies instead of a single world."
+
+"If I had ever wondered how you'd sound when you were completely out of
+your mind I'd have the answer now," said Betty.
+
+In the morning he turned over to one of the units the task of further
+identifying and analyzing the feedback impulse they had discovered. In
+the middle of this he was called to Oglethorpe's office. The
+investigating Senators had arrived.
+
+They were favorably impressed by the day-long tour that General
+Oglethorpe provided for them around the entire Base. But they found in
+Paul's announcement the strongest single factor in favor of permitting
+Space Command to continue with its work.
+
+"We know now," he said, "and this is something I haven't even had time
+to present to General Oglethorpe--we know that a completely mechanical
+man is possible."
+
+The General's eyes narrowed as Paul's flat statement continued. "We know
+that it is possible to have men at the helm of our ships, who are
+incapable of error. We have hopes of producing them within a very short
+time if Project Superman is allowed to continue. And when this is done,
+there is no technical goal we cannot reach."
+
+This was the thing the Senators had come to find out, and they were
+satisfied. "But the public has got to be reassured of this," Senator
+Hart said. "We need to get this mob away from your gates for one thing.
+The news programs keep them constantly before the public eye and the
+whole country is stirred up."
+
+"We'll take care of it at once," General Oglethorpe said. "As Dr. Medick
+has indicated, this discovery is so new that even I had not been
+informed of it. Morgan's mob will go away as soon as they hear the news.
+And that, in turn, will reassure the entire country. We can arrange for
+a broadcast by Dr. Medick to the whole nation."
+
+Paul was swept along as arrangements were made to make a statement to
+Morgan and his group camped outside the Base, to the press, and to the
+public in general.
+
+Oglethorpe cornered him after the meeting with the Committee. "This is
+on the level," he said, "not something you cooked up on the spur of the
+moment?"
+
+"It's on the level," said Paul. "You were right all along."
+
+When he returned to his office an urgent message from Barker awaited
+him. He hurried down to the testing laboratory, where the older man
+greeted him in excitement and anxiety.
+
+"It looks like we've got something by the tail and can't let go of it.
+Come in and have a look."
+
+Paul followed him and found Captain Harper in an observation room,
+writhing on a cot in a storm of tears and emotional fury. He beat
+against the walls and the floor with his fists as his sobbing continued
+beyond control.
+
+"What happened to him?" Paul demanded.
+
+"We have three others in the same condition," said Barker. "We tried to
+determine the effect of a pure feedback impulse, and fed it back to each
+of them in amplified form as we found it on their charts. This is what
+happened. I'm afraid we may have cost them their sanity, and we don't
+know why."
+
+"How could their own feedback do such a thing to them?" he asked in
+wonder. "What part of the chart did you take it from?"
+
+"We used the impulse that didn't get through, the one that was blocked
+so that error resulted. Apparently this is the alternative to error." He
+nodded toward the writhing, sobbing man. "Harper reached a point where
+he _had_ to fail or else be subject to this psychic storm."
+
+Paul ran his long, bony fingers through his hair. "This makes less sense
+than ever! If that's true, then we've got to take back what we've told
+Oglethorpe. His errorless man isn't possible, after all."
+
+"I don't know." Barker shook his head thoughtfully. "Evidently the
+production of error is a protection against the admission of this
+intolerable feedback impulse. But the question remains: why is it
+intolerable, and why does it become so after numerous other feedback
+impulses have been passed?
+
+"Yesterday we thought we had it all wrapped up. Now it's blown open
+wider than ever before!"
+
+       *       *       *       *       *
+
+Oglethorpe's public relations man prepared a statement to the effect
+that further danger from pilot error in rocket ships and the second
+Wheel could be considered as completely eliminated with the new training
+processes that would make men incapable of technical errors.
+
+Paul knew it was as ineffectual as the average Government release, but
+he made no protest in his concern for Harper and the three other men. He
+signed the statement automatically.
+
+He was presented the following day, however, with arrangements to give
+it personally to the members of Morgan's Caravan from the top of one of
+the sound trucks. He did protest then that any flunky on the Base could
+read it to the crowd as well as he. But Oglethorpe insisted he do it
+personally.
+
+With official pompousness the big, olive-green truck rolled out from the
+Base. Paul rode beside the driver and Metcalf, the public relations man.
+He'd not told Oglethorpe about their latest development. If this psychic
+reaction to feedback proved an impenetrable barrier there'd be time
+enough to give Space Command the bad news. In the meantime a Wheel would
+be built, the public would be mollified, and Superman would continue
+on--to what unknown ends Paul didn't know.
+
+The massed camp of the fanatic followers of Morgan appeared in the
+distance like a discarded rag on either side of the road. Then as they
+approached it broke into individual knots of sand-scoured, unwashed
+people clustered about their tents. Morgan hadn't given much thought to
+adequate facilities before leading them out here.
+
+The truck rolled to a halt in the center of the camp. Morgan himself, a
+long, lanky figure in a dusty black suit, came at the head of a group of
+his people to meet them. "I hope you have the news we are waiting for,"
+he said cordially.
+
+"We have a statement," said Metcalf. "Dr. Medick here, who has made an
+important discovery that will enable all of you to return to your homes,
+will read it to you."
+
+Paul could have stayed in the cab, but he preferred to climb to the
+platform atop the truck to get a look at the crowd Morgan had assembled.
+He hesitated a moment with the paper in his hands, then took up the mike
+and read the statement Metcalf had prepared. "The United States Space
+Command wishes to announce that--"
+
+It fell utterly flat on completely non-understanding ears. Paul looked
+over the mass of faces and knew it had failed. Something far more than
+this was needed. A little feedback, he thought grimly. A little feedback
+of the idiocy of their present situation to correct their course and
+return it to normalcy.
+
+"Five hundred years ago there might have been a crowd of people just
+like you," he said suddenly in low tones. "There was a harbor, and some
+small ships, and a man who believed he could sail them over the edge of
+the world. On the shore were people who thought he was a fool and a
+blasphemer, and a few who thought he was right--or at least hoped he
+was.
+
+"Five hundred years ago was the beginning of a new freedom from the
+prison of a tiny, constricted world. Today, another freedom waits our
+successful conquest of space. And whenever a freedom has been won there
+have been more who jeered against it than have cheered for it. You are
+today making a choice--"
+
+He talked for ten minutes, and when he was through he knew that he'd
+accomplished his goal. Even before the sound truck pulled out, the cars
+of the Caravan were breaking away from the mass and disappearing in the
+distance.
+
+"Nice job," Metcalf congratulated, as if he'd been responsible for it
+himself.
+
+"Just a little feedback in the right place--" murmured Paul absently.
+
+"Feedback? What's that--new kind of propaganda technique--?"
+
+"Yeah, you might call it that. How could a guy have been so _blind_--?"
+he said fiercely, more to himself than to his companions.
+
+He hurried to the laboratory as soon as the truck got him back to Base.
+He rounded up Barker and Nat Holt and a dozen of his other top men. "The
+answer's been under our noses all the time," he said. "We've been too
+busy fighting each other for the sake of our own preconceived notions to
+have seen it!"
+
+"What are you talking about?" Holt demanded.
+
+"Feedback. Can't you guess what it is?"
+
+"No."
+
+"Are you willing to let us give you a small dose--something less than
+the level given Harper and his men--and then tell us what you find out
+about it?"
+
+Nat Holt looked hesitant. "If you think you know what you're talking
+about. There's no point in my getting in a condition like Harper's."
+
+"We'll pull you out before you get anywhere near that far."
+
+Still dubious, he took a seat amid the mass of pulse generating
+equipment and electro-encephalograph recorders. A single pair of
+feedback terminals were fitted to his skull. The generator was set to
+duplicate his own feedback impulse taken from a moment of failure.
+
+Paul switched on the circuits and advanced the controls carefully. A
+look of pain and regret crossed Holt's face. He cried out with a
+whimper. "Turn it off!"
+
+"A second more--," Paul said. He advanced the control a hair and waited.
+The technologist began to cry suddenly in a low, sobbing voice.
+
+Paul cut the switch.
+
+For a moment Holt continued to slump in the chair, his shoulders
+jerking. Then he looked up, half-bewildered, half-furious. "What did you
+do to me?" he demanded.
+
+"You did it to yourself," Paul reminded him. "That's your own feedback
+pulse just beefed up a little, remember. How did it feel?"
+
+"Terrible! No wonder a guy dodges that. It's enough to make him wreck a
+space station to avoid the full blast of it."
+
+"What would you call it?"
+
+"I don't know--," Holt hesitated. "Grief, maybe. Regret--anxiety. But
+regret, mostly, I guess."
+
+"That's your feedback," Paul said as he removed the terminals and turned
+to the others. "These feedback pulses we've isolated are nothing but
+stabs of pure emotion."
+
+He turned with a faint smile to Holt. "You and Harper and the rest of
+the iron-bowelled boys were so convinced that the pure mechanical man
+would be utterly devoid of all emotional responses and content! And I
+was so sure that a warm, responsive, emotional human being could never
+respond like a cold machine!
+
+"And we were both utterly wrong. The human being does both. He operates
+on true cybernetic principles. But the content of his feedback control
+pulses is sheer emotion!
+
+"A small error, a stab of regret. It's repeated, magnified, or
+diminished until the action gets back on the track that brings predicted
+results. Ignored, the error builds up until the whole structure goes
+smash.
+
+"And we're _taught_ to ignore it! It's the noble, brave and manly thing
+to ignore the human feelings that surge through us. Be steel, be glass,
+be electrons--anything but a responsive, emotional human being! That's
+the way to be a superman! We've tried to find the way to perfection and
+have fought tooth and nail against the only means of achieving it."
+
+Barker's face was glowing with excitement and Holt seemed to be
+remembering something afar off. "That _was_ it," he breathed softly. "I
+can feel it now--the way it was as I began to get jittery and make
+mistakes in the test procedures. I seemed to fight something within
+myself--something I thought was making me do it wrong. But it wasn't
+that, at all. I was fighting against the emotional feedback the errors
+were throwing at me."
+
+"Right," said Paul. "And your iron-hard, errorless Superman is going to
+be the most emotionally sensitive creature you can produce."
+
+"How did you catch on to this?" Barker asked.
+
+"We should have seen it in Harper. He's the original iron-man. He's
+bottled up and fought his emotions all his life. A concentrated dose of
+his own feedback simply shattered the dam.
+
+"But I didn't get it until I watched Morgan's mob reacting to the purely
+rational explanation Metcalf prepared to convince them they should go
+home. They were on a wrong tack and needed a generous amount of the
+right feedback to get them back where they belonged. The cold, logical
+approach was a dud. What does it take to move an intractible mob?
+Emotion--based on the projected consequences of what they're doing. A
+perfect feedback setup when correctly applied. And it worked."
+
+Holt shuddered faintly and moved away from the chair he had sat in to
+experience his own feedback. "I'm not quite sure who owes who that
+dinner," he said to Paul. "But I think somebody does."
+
+"We'll split it," Paul said. And then he was silent as they listened to
+the departure of another cargo ship carrying parts of the second Wheel
+to the thousand-mile orbit.
+
+He smiled to himself. Ye of little faith!--he thought. Frightened about
+the true nature of a race that had come through three billion years of
+the kind of torment that Man had survived!
+
+Man had everything that was needed to go to the stars or anywhere else
+he might want to go. He was safe. Man could never be turned into a
+robot. The basic mechanisms of his humanity were so interwoven with the
+structure of his being that they could never be separated.
+
+But they hadn't come very far, Paul knew. They had opened only a small
+crack in a door that had been irrationally closed from the beginning of
+time. They had to know fully why that door had never been opened before.
+And beyond it might lie a thousand others just as tightly closed and
+closely guarded.
+
+Yet they had reached a starting point, at last. Project Superman could
+get about its business of preparing men for the stars.
+
+
+
+
+
+End of the Project Gutenberg EBook of Human Error, by Raymond F. Jones
+
+*** END OF THIS PROJECT GUTENBERG EBOOK HUMAN ERROR ***
+
+***** This file should be named 32403.txt or 32403.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/2/4/0/32403/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

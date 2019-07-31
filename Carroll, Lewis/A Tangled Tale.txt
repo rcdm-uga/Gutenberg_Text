@@ -1,0 +1,4096 @@
+The Project Gutenberg EBook of A Tangled Tale, by Lewis Carroll
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: A Tangled Tale
+
+Author: Lewis Carroll
+
+Illustrator: Arthur B. Frost
+
+Release Date: June 5, 2009 [EBook #29042]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A TANGLED TALE ***
+
+
+
+
+Produced by Chris Curnow, Carla Foust, Lindy Walsh and the
+Online Distributed Proofreading Team at http://www.pgdp.net.
+Music transcribed by Linda Cantoni.
+
+
+
+
+
+Transcriber's note
+
+
+Minor punctuation errors have been changed without notice. Printer
+errors have been changed and are listed at the end. All other
+inconsistencies are as in the original.
+
+In this version the square root symbol is indicated by [** sqrt], the
+superscript by ^, and the therefore symbol by [** therefore].
+
+
+
+
+A TANGLED TALE
+
+[Decoration]
+
+[Illustration: "AT A PACE OF SIX MILES IN THE HOUR."
+
+_Frontispiece._]
+
+
+
+
+   A TANGLED TALE
+
+   BY
+
+   LEWIS CARROLL
+
+   _WITH SIX ILLUSTRATIONS_
+
+   BY
+
+   ARTHUR B. FROST
+
+   Hoc meum tale quale est accipe.
+
+   _SECOND THOUSAND._
+
+   London
+   MACMILLAN AND CO.
+   1885
+
+   [_All Rights Reserved_]
+
+
+
+
+   RICHARD CLAY & SONS,
+   BREAD STREET HILL, LONDON, E.C.
+
+   _And Bungay, Suffolk_.
+
+
+
+
+To My Pupil.
+
+
+   Beloved pupil! Tamed by thee,
+     Addish-, Subtrac-, Multiplica-tion,
+   Division, Fractions, Rule of Three,
+     Attest thy deft manipulation!
+
+   Then onward! Let the voice of Fame
+     From Age to Age repeat thy story,
+   Till thou hast won thyself a name
+     Exceeding even Euclid's glory!
+
+
+
+
+PREFACE.
+
+
+This Tale originally appeared as a serial in _The Monthly Packet_,
+beginning in April, 1880. The writer's intention was to embody in each
+Knot (like the medicine so dexterously, but ineffectually, concealed in
+the jam of our early childhood) one or more mathematical questions--in
+Arithmetic, Algebra, or Geometry, as the case might be--for the
+amusement, and possible edification, of the fair readers of that
+Magazine.
+
+                                                           L. C.
+
+   _October, 1885._
+
+
+
+
+CONTENTS.
+
+
+   KNOT                                  PAGE
+
+      I. EXCELSIOR                          1
+
+     II. ELIGIBLE APARTMENTS                4
+
+    III. MAD MATHESIS                      13
+
+     IV. THE DEAD RECKONING                19
+
+      V. OUGHTS AND CROSSES                27
+
+     VI. HER RADIANCY                      34
+
+    VII. PETTY CASH                        43
+
+   VIII. DE OMNIBUS REBUS                  52
+
+     IX. A SERPENT WITH CORNERS            58
+
+      X. CHELSEA BUNS                      66
+
+   ANSWERS TO KNOT    I.                   77
+
+      "        "     II.                   84
+
+      "        "    III.                   90
+
+      "        "     IV.                   96
+
+      "        "      V.                  102
+
+      "        "     VI.                  106
+
+      "        "    VII.                  112
+
+      "        "   VIII.                  132
+
+      "        "     IX.                  135
+
+      "        "      X.                  142
+
+
+
+
+A TANGLED TALE.
+
+
+
+
+KNOT I.
+
+EXCELSIOR.
+
+
+"Goblin, lead them up and down."
+
+
+The ruddy glow of sunset was already fading into the sombre shadows of
+night, when two travellers might have been observed swiftly--at a pace
+of six miles in the hour--descending the rugged side of a mountain; the
+younger bounding from crag to crag with the agility of a fawn, while his
+companion, whose aged limbs seemed ill at ease in the heavy chain armour
+habitually worn by tourists in that district, toiled on painfully at his
+side.
+
+As is always the case under such circumstances, the younger knight was
+the first to break the silence.
+
+"A goodly pace, I trow!" he exclaimed. "We sped not thus in the ascent!"
+
+"Goodly, indeed!" the other echoed with a groan. "We clomb it but at
+three miles in the hour."
+
+"And on the dead level our pace is----?" the younger suggested; for he
+was weak in statistics, and left all such details to his aged companion.
+
+"Four miles in the hour," the other wearily replied. "Not an ounce
+more," he added, with that love of metaphor so common in old age, "and
+not a farthing less!"
+
+"'Twas three hours past high noon when we left our hostelry," the young
+man said, musingly. "We shall scarce be back by supper-time. Perchance
+mine host will roundly deny us all food!"
+
+"He will chide our tardy return," was the grave reply, "and such a
+rebuke will be meet."
+
+"A brave conceit!" cried the other, with a merry laugh. "And should we
+bid him bring us yet another course, I trow his answer will be tart!"
+
+"We shall but get our deserts," sighed the elder knight, who had never
+seen a joke in his life, and was somewhat displeased at his companion's
+untimely levity. "'Twill be nine of the clock," he added in an
+undertone, "by the time we regain our hostelry. Full many a mile shall
+we have plodded this day!"
+
+"How many? How many?" cried the eager youth, ever athirst for knowledge.
+
+The old man was silent.
+
+"Tell me," he answered, after a moment's thought, "what time it was when
+we stood together on yonder peak. Not exact to the minute!" he added
+hastily, reading a protest in the young man's face. "An' thy guess be
+within one poor half-hour of the mark, 'tis all I ask of thy mother's
+son! Then will I tell thee, true to the last inch, how far we shall have
+trudged betwixt three and nine of the clock."
+
+A groan was the young man's only reply; while his convulsed features and
+the deep wrinkles that chased each other across his manly brow, revealed
+the abyss of arithmetical agony into which one chance question had
+plunged him.
+
+
+
+
+KNOT II.
+
+ELIGIBLE APARTMENTS.
+
+   "Straight down the crooked lane,
+   And all round the square."
+
+
+"Let's ask Balbus about it," said Hugh.
+
+"All right," said Lambert.
+
+"_He_ can guess it," said Hugh.
+
+"Rather," said Lambert.
+
+No more words were needed: the two brothers understood each other
+perfectly.
+
+[Illustration: "BALBUS WAS ASSISTING HIS MOTHER-IN-LAW TO CONVINCE THE
+DRAGON."]
+
+Balbus was waiting for them at the hotel: the journey down had tired
+him, he said: so his two pupils had been the round of the place, in
+search of lodgings, without the old tutor who had been their inseparable
+companion from their childhood. They had named him after the hero of
+their Latin exercise-book, which overflowed with anecdotes of that
+versatile genius--anecdotes whose vagueness in detail was more than
+compensated by their sensational brilliance. "Balbus has overcome all
+his enemies" had been marked by their tutor, in the margin of the book,
+"Successful Bravery." In this way he had tried to extract a moral from
+every anecdote about Balbus--sometimes one of warning, as in "Balbus had
+borrowed a healthy dragon," against which he had written "Rashness in
+Speculation"--sometimes of encouragement, as in the words "Influence of
+Sympathy in United Action," which stood opposite to the anecdote "Balbus
+was assisting his mother-in-law to convince the dragon"--and sometimes
+it dwindled down to a single word, such as "Prudence," which was all he
+could extract from the touching record that "Balbus, having scorched the
+tail of the dragon, went away." His pupils liked the short morals best,
+as it left them more room for marginal illustrations, and in this
+instance they required all the space they could get to exhibit the
+rapidity of the hero's departure.
+
+Their report of the state of things was discouraging. That most
+fashionable of watering-places, Little Mendip, was "chockfull" (as the
+boys expressed it) from end to end. But in one Square they had seen no
+less than four cards, in different houses, all announcing in flaming
+capitals "ELIGIBLE APARTMENTS." "So there's plenty of choice, after all,
+you see," said spokesman Hugh in conclusion.
+
+"That doesn't follow from the data," said Balbus, as he rose from the
+easy chair, where he had been dozing over _The Little Mendip Gazette_.
+"They may be all single rooms. However, we may as well see them. I shall
+be glad to stretch my legs a bit."
+
+An unprejudiced bystander might have objected that the operation was
+needless, and that this long, lank creature would have been all the
+better with even shorter legs: but no such thought occurred to his
+loving pupils. One on each side, they did their best to keep up with his
+gigantic strides, while Hugh repeated the sentence in their father's
+letter, just received from abroad, over which he and Lambert had been
+puzzling. "He says a friend of his, the Governor of----_what_ was that
+name again, Lambert?" ("Kgovjni," said Lambert.) "Well, yes. The
+Governor of----what-you-may-call-it----wants to give a _very_ small
+dinner-party, and he means to ask his father's brother-in-law, his
+brother's father-in-law, his father-in-law's brother, and his
+brother-in-law's father: and we're to guess how many guests there will
+be."
+
+There was an anxious pause. "_How_ large did he say the pudding was to
+be?" Balbus said at last. "Take its cubical contents, divide by the
+cubical contents of what each man can eat, and the quotient----"
+
+"He didn't say anything about pudding," said Hugh, "--and here's the
+Square," as they turned a corner and came into sight of the "eligible
+apartments."
+
+"It _is_ a Square!" was Balbus' first cry of delight, as he gazed around
+him. "Beautiful! Beau-ti-ful! Equilateral! _And_ rectangular!"
+
+The boys looked round with less enthusiasm. "Number nine is the first
+with a card," said prosaic Lambert; but Balbus would not so soon awake
+from his dream of beauty.
+
+"See, boys!" he cried. "Twenty doors on a side! What symmetry! Each side
+divided into twenty-one equal parts! It's delicious!"
+
+"Shall I knock, or ring?" said Hugh, looking in some perplexity at a
+square brass plate which bore the simple inscription "RING ALSO."
+
+"Both," said Balbus. "That's an Ellipsis, my boy. Did you never see an
+Ellipsis before?"
+
+"I couldn't hardly read it," said Hugh, evasively. "It's no good having
+an Ellipsis, if they don't keep it clean."
+
+"Which there is _one_ room, gentlemen," said the smiling landlady. "And
+a sweet room too! As snug a little back-room----"
+
+"We will see it," said Balbus gloomily, as they followed her in. "I knew
+how it would be! One room in each house! No view, I suppose?"
+
+"Which indeed there _is_, gentlemen!" the landlady indignantly
+protested, as she drew up the blind, and indicated the back garden.
+
+"Cabbages, I perceive," said Balbus. "Well, they're green, at any rate."
+
+"Which the greens at the shops," their hostess explained, "are by no
+means dependable upon. Here you has them on the premises, _and_ of the
+best."
+
+"Does the window open?" was always Balbus' first question in testing a
+lodging: and "Does the chimney smoke?" his second. Satisfied on all
+points, he secured the refusal of the room, and they moved on to Number
+Twenty-five.
+
+This landlady was grave and stern. "I've nobbut one room left," she
+told them: "and it gives on the back-gyardin."
+
+"But there are cabbages?" Balbus suggested.
+
+The landlady visibly relented. "There is, sir," she said: "and good
+ones, though I say it as shouldn't. We can't rely on the shops for
+greens. So we grows them ourselves."
+
+"A singular advantage," said Balbus: and, after the usual questions,
+they went on to Fifty-two.
+
+"And I'd gladly accommodate you all, if I could," was the greeting that
+met them. "We are but mortal," ("Irrelevant!" muttered Balbus) "and I've
+let all my rooms but one."
+
+"Which one is a back-room, I perceive," said Balbus: "and looking out
+on--on cabbages, I presume?"
+
+"Yes, indeed, sir!" said their hostess. "Whatever _other_ folks may do,
+_we_ grows our own. For the shops----"
+
+"An excellent arrangement!" Balbus interrupted. "Then one can really
+depend on their being good. Does the window open?"
+
+The usual questions were answered satisfactorily: but this time Hugh
+added one of his own invention--"Does the cat scratch?"
+
+The landlady looked round suspiciously, as if to make sure the cat was
+not listening, "I will not deceive you, gentlemen," she said. "It _do_
+scratch, but not without you pulls its whiskers! It'll never do it," she
+repeated slowly, with a visible effort to recall the exact words of some
+written agreement between herself and the cat, "without you pulls its
+whiskers!"
+
+"Much may be excused in a cat so treated," said Balbus, as they left the
+house and crossed to Number Seventy-three, leaving the landlady
+curtseying on the doorstep, and still murmuring to herself her parting
+words, as if they were a form of blessing, "---- not without you pulls
+its whiskers!"
+
+At Number Seventy-three they found only a small shy girl to show the
+house, who said "yes'm" in answer to all questions.
+
+"The usual room," said Balbus, as they marched in: "the usual
+back-garden, the usual cabbages. I suppose you can't get them good at
+the shops?"
+
+"Yes'm," said the girl.
+
+"Well, you may tell your mistress we will take the room, and that her
+plan of growing her own cabbages is simply _admirable_!"
+
+"Yes'm," said the girl, as she showed them out.
+
+"One day-room and three bed-rooms," said Balbus, as they returned to the
+hotel. "We will take as our day-room the one that gives us the least
+walking to do to get to it."
+
+"Must we walk from door to door, and count the steps?" said Lambert.
+
+"No, no! Figure it out, my boys, figure it out!" Balbus gaily exclaimed,
+as he put pens, ink, and paper before his hapless pupils, and left the
+room.
+
+"I say! It'll be a job!" said Hugh.
+
+"Rather!" said Lambert.
+
+
+
+
+KNOT III.
+
+MAD MATHESIS.
+
+   "I waited for the train."
+
+
+"Well, they call me so because I _am_ a little mad, I suppose," she
+said, good-humouredly, in answer to Clara's cautiously-worded question
+as to how she came by so strange a nick-name. "You see, I never do what
+sane people are expected to do now-a-days. I never wear long trains,
+(talking of trains, that's the Charing Cross Metropolitan Station--I've
+something to tell you about _that_), and I never play lawn-tennis. I
+can't cook an omelette. I can't even set a broken limb! _There's_ an
+ignoramus for you!"
+
+Clara was her niece, and full twenty years her junior; in fact, she was
+still attending a High School--an institution of which Mad Mathesis
+spoke with undisguised aversion. "Let a woman be meek and lowly!" she
+would say. "None of your High Schools for me!" But it was vacation-time
+just now, and Clara was her guest, and Mad Mathesis was showing her the
+sights of that Eighth Wonder of the world--London.
+
+"The Charing Cross Metropolitan Station!" she resumed, waving her hand
+towards the entrance as if she were introducing her niece to a friend.
+"The Bayswater and Birmingham Extension is just completed, and the
+trains now run round and round continuously--skirting the border of
+Wales, just touching at York, and so round by the east coast back to
+London. The way the trains run is _most_ peculiar. The westerly ones go
+round in two hours; the easterly ones take three; but they always manage
+to start two trains from here, opposite ways, punctually every
+quarter-of-an-hour."
+
+"They part to meet again," said Clara, her eyes filling with tears at
+the romantic thought.
+
+"No need to cry about it!" her aunt grimly remarked. "They don't meet on
+the same line of rails, you know. Talking of meeting, an idea strikes
+me!" she added, changing the subject with her usual abruptness. "Let's
+go opposite ways round, and see which can meet most trains. No need for
+a chaperon--ladies' saloon, you know. You shall go whichever way you
+like, and we'll have a bet about it!"
+
+"I never make bets," Clara said very gravely. "Our excellent preceptress
+has often warned us----"
+
+"You'd be none the worse if you did!" Mad Mathesis interrupted. "In
+fact, you'd be the better, I'm certain!"
+
+"Neither does our excellent preceptress approve of puns," said Clara.
+"But we'll have a match, if you like. Let me choose my train," she added
+after a brief mental calculation, "and I'll engage to meet exactly half
+as many again as you do."
+
+"Not if you count fair," Mad Mathesis bluntly interrupted. "Remember, we
+only count the trains we meet _on the way_. You mustn't count the one
+that starts as you start, nor the one that arrives as you arrive."
+
+"That will only make the difference of _one_ train," said Clara, as they
+turned and entered the station. "But I never travelled alone before.
+There'll be no one to help me to alight. However, I don't mind. Let's
+have a match."
+
+A ragged little boy overheard her remark, and came running after her.
+"Buy a box of cigar-lights, Miss!" he pleaded, pulling her shawl to
+attract her attention. Clara stopped to explain.
+
+"I never smoke cigars," she said in a meekly apologetic tone. "Our
+excellent preceptress----," but Mad Mathesis impatiently hurried her on,
+and the little boy was left gazing after her with round eyes of
+amazement.
+
+The two ladies bought their tickets and moved slowly down the central
+platform, Mad Mathesis prattling on as usual--Clara silent, anxiously
+reconsidering the calculation on which she rested her hopes of winning
+the match.
+
+"Mind where you go, dear!" cried her aunt, checking her just in time.
+"One step more, and you'd have been in that pail of cold water!"
+
+"I know, I know," Clara said, dreamily. "The pale, the cold, and the
+moony----"
+
+"Take your places on the spring-boards!" shouted a porter.
+
+"What are _they_ for!" Clara asked in a terrified whisper.
+
+"Merely to help us into the trains." The elder lady spoke with the
+nonchalance of one quite used to the process. "Very few people can get
+into a carriage without help in less than three seconds, and the trains
+only stop for one second." At this moment the whistle was heard, and two
+trains rushed into the station. A moment's pause, and they were gone
+again; but in that brief interval several hundred passengers had been
+shot into them, each flying straight to his place with the accuracy of a
+Minie bullet--while an equal number were showered out upon the
+side-platforms.
+
+Three hours had passed away, and the two friends met again on the
+Charing Cross platform, and eagerly compared notes. Then Clara turned
+away with a sigh. To young impulsive hearts, like hers, disappointment
+is always a bitter pill. Mad Mathesis followed her, full of kindly
+sympathy.
+
+"Try again, my love!" she said, cheerily. "Let us vary the experiment.
+We will start as we did before, but not to begin counting till our
+trains meet. When we see each other, we will say 'One!' and so count on
+till we come here again."
+
+Clara brightened up. "I shall win _that_," she exclaimed eagerly, "if I
+may choose my train!"
+
+Another shriek of engine whistles, another upheaving of spring-boards,
+another living avalanche plunging into two trains as they flashed by:
+and the travellers were off again.
+
+Each gazed eagerly from her carriage window, holding up her handkerchief
+as a signal to her friend. A rush and a roar. Two trains shot past each
+other in a tunnel, and two travellers leaned back in their corners with
+a sigh--or rather with _two_ sighs--of relief. "One!" Clara murmured to
+herself. "Won! It's a word of good omen. _This_ time, at any rate, the
+victory will be mine!"
+
+But _was_ it?
+
+
+
+
+KNOT IV.
+
+THE DEAD RECKONING.
+
+   "I did dream of money-bags to-night."
+
+
+Noonday on the open sea within a few degrees of the Equator is apt to be
+oppressively warm; and our two travellers were now airily clad in suits
+of dazzling white linen, having laid aside the chain-armour which they
+had found not only endurable in the cold mountain air they had lately
+been breathing, but a necessary precaution against the daggers of the
+banditti who infested the heights. Their holiday-trip was over, and they
+were now on their way home, in the monthly packet which plied between
+the two great ports of the island they had been exploring.
+
+Along with their armour, the tourists had laid aside the antiquated
+speech it had pleased them to affect while in knightly disguise, and
+had returned to the ordinary style of two country gentlemen of the
+Twentieth Century.
+
+Stretched on a pile of cushions, under the shade of a huge umbrella,
+they were lazily watching some native fishermen, who had come on board
+at the last landing-place, each carrying over his shoulder a small but
+heavy sack. A large weighing-machine, that had been used for cargo at
+the last port, stood on the deck; and round this the fishermen had
+gathered, and, with much unintelligible jabber, seemed to be weighing
+their sacks.
+
+"More like sparrows in a tree than human talk, isn't it?" the elder
+tourist remarked to his son, who smiled feebly, but would not exert
+himself so far as to speak. The old man tried another listener.
+
+"What have they got in those sacks, Captain?" he inquired, as that great
+being passed them in his never ending parade to and fro on the deck.
+
+The Captain paused in his march, and towered over the travellers--tall,
+grave, and serenely self-satisfied.
+
+"Fishermen," he explained, "are often passengers in My ship. These five
+are from Mhruxi--the place we last touched at--and that's the way they
+carry their money. The money of this island is heavy, gentlemen, but it
+costs little, as you may guess. We buy it from them by weight--about
+five shillings a pound. I fancy a ten pound-note would buy all those
+sacks."
+
+By this time the old man had closed his eyes--in order, no doubt, to
+concentrate his thoughts on these interesting facts; but the Captain
+failed to realise his motive, and with a grunt resumed his monotonous
+march.
+
+Meanwhile the fishermen were getting so noisy over the weighing-machine
+that one of the sailors took the precaution of carrying off all the
+weights, leaving them to amuse themselves with such substitutes in the
+form of winch-handles, belaying-pins, &c., as they could find. This
+brought their excitement to a speedy end: they carefully hid their sacks
+in the folds of the jib that lay on the deck near the tourists, and
+strolled away.
+
+When next the Captain's heavy footfall passed, the younger man roused
+himself to speak.
+
+"_What_ did you call the place those fellows came from, Captain?" he
+asked.
+
+"Mhruxi, sir."
+
+"And the one we are bound for?"
+
+The Captain took a long breath, plunged into the word, and came out of
+it nobly. "They call it Kgovjni, sir."
+
+"K--I give it up!" the young man faintly said.
+
+He stretched out his hand for a glass of iced water which the
+compassionate steward had brought him a minute ago, and had set down,
+unluckily, just outside the shadow of the umbrella. It was scalding hot,
+and he decided not to drink it. The effort of making this resolution,
+coming close on the fatiguing conversation he had just gone through, was
+too much for him: he sank back among the cushions in silence.
+
+His father courteously tried to make amends for his _nonchalance_.
+
+"Whereabouts are we now, Captain?" said he, "Have you any idea?"
+
+The Captain cast a pitying look on the ignorant landsman. "I could tell
+you _that_, sir," he said, in a tone of lofty condescension, "to an
+inch!"
+
+"You don't say so!" the old man remarked, in a tone of languid surprise.
+
+"And mean so," persisted the Captain. "Why, what do you suppose would
+become of My ship, if I were to lose My Longitude and My Latitude?
+Could _you_ make anything of My Dead Reckoning?"
+
+"Nobody could, I'm sure!" the other heartily rejoined.
+
+But he had overdone it.
+
+"It's _perfectly_ intelligible," the Captain said, in an offended tone,
+"to any one that understands such things." With these words he moved
+away, and began giving orders to the men, who were preparing to hoist
+the jib.
+
+Our tourists watched the operation with such interest that neither of
+them remembered the five money-bags, which in another moment, as the
+wind filled out the jib, were whirled overboard and fell heavily into
+the sea.
+
+But the poor fishermen had not so easily forgotten their property. In a
+moment they had rushed to the spot, and stood uttering cries of fury,
+and pointing, now to the sea, and now to the sailors who had caused the
+disaster.
+
+The old man explained it to the Captain.
+
+"Let us make it up among us," he added in conclusion. "Ten pounds will
+do it, I think you said?"
+
+[Illustration]
+
+But the Captain put aside the suggestion with a wave of the hand.
+
+"No, sir!" he said, in his grandest manner. "You will excuse Me, I am
+sure; but these are My passengers. The accident has happened on board My
+ship, and under My orders. It is for Me to make compensation." He
+turned to the angry fishermen. "Come here, my men!" he said, in the
+Mhruxian dialect. "Tell me the weight of each sack. I saw you weighing
+them just now."
+
+Then ensued a perfect Babel of noise, as the five natives explained, all
+screaming together, how the sailors had carried off the weights, and
+they had done what they could with whatever came handy.
+
+Two iron belaying-pins, three blocks, six holystones, four
+winch-handles, and a large hammer, were now carefully weighed, the
+Captain superintending and noting the results. But the matter did not
+seem to be settled, even then: an angry discussion followed, in which
+the sailors and the five natives all joined: and at last the Captain
+approached our tourists with a disconcerted look, which he tried to
+conceal under a laugh.
+
+"It's an absurd difficulty," he said. "Perhaps one of you gentlemen can
+suggest something. It seems they weighed the sacks two at a time!"
+
+"If they didn't have five separate weighings, of course you can't value
+them separately," the youth hastily decided.
+
+"Let's hear all about it," was the old man's more cautious remark.
+
+"They _did_ have five separate weighings," the Captain said, "but--Well,
+it beats _me_ entirely!" he added, in a sudden burst of candour. "Here's
+the result. First and second sack weighed twelve pounds; second and
+third, thirteen and a half; third and fourth, eleven and a half; fourth
+and fifth, eight: and then they say they had only the large hammer left,
+and it took _three_ sacks to weigh it down--that's the first, third and
+fifth--and _they_ weighed sixteen pounds. There, gentlemen! Did you ever
+hear anything like _that_?"
+
+The old man muttered under his breath "If only my sister were here!" and
+looked helplessly at his son. His son looked at the five natives. The
+five natives looked at the Captain. The Captain looked at nobody: his
+eyes were cast down, and he seemed to be saying softly to himself
+"Contemplate one another, gentlemen, if such be your good pleasure. _I_
+contemplate _Myself_!"
+
+
+
+
+KNOT V.
+
+OUGHTS AND CROSSES.
+
+   "Look here, upon this picture, and on this."
+
+
+"And what made you choose the first train, Goosey?" said Mad Mathesis,
+as they got into the cab. "Couldn't you count better than _that_?"
+
+"I took an extreme case," was the tearful reply. "Our excellent
+preceptress always says 'When in doubt, my dears, take an extreme case.'
+And I _was_ in doubt."
+
+"Does it always succeed?" her aunt enquired.
+
+Clara sighed. "Not _always_," she reluctantly admitted. "And I can't
+make out why. One day she was telling the little girls--they make such a
+noise at tea, you know--'The more noise you make, the less jam you will
+have, and _vice versâ_.' And I thought they wouldn't know what '_vice
+versâ_' meant: so I explained it to them. I said 'If you make an
+infinite noise, you'll get no jam: and if you make no noise, you'll get
+an infinite lot of jam.' But our excellent preceptress said that wasn't
+a good instance. _Why_ wasn't it?" she added plaintively.
+
+Her aunt evaded the question. "One sees certain objections to it," she
+said. "But how did you work it with the Metropolitan trains? None of
+them go infinitely fast, I believe."
+
+"I called them hares and tortoises," Clara said--a little timidly, for
+she dreaded being laughed at. "And I thought there couldn't be so many
+hares as tortoises on the Line: so I took an extreme case--one hare and
+an infinite number of tortoises."
+
+"An extreme case, indeed," her aunt remarked with admirable gravity:
+"and a most dangerous state of things!"
+
+"And I thought, if I went with a tortoise, there would be only _one_
+hare to meet: but if I went with the hare--you know there were _crowds_
+of tortoises!"
+
+"It wasn't a bad idea," said the elder lady, as they left the cab, at
+the entrance of Burlington House. "You shall have another chance to-day.
+We'll have a match in marking pictures."
+
+Clara brightened up. "I should like to try again, very much," she said.
+"I'll take more care this time. How are we to play?"
+
+To this question Mad Mathesis made no reply: she was busy drawing lines
+down the margins of the catalogue. "See," she said after a minute, "I've
+drawn three columns against the names of the pictures in the long room,
+and I want you to fill them with oughts and crosses--crosses for good
+marks and oughts for bad. The first column is for choice of subject, the
+second for arrangement, the third for colouring. And these are the
+conditions of the match. You must give three crosses to two or three
+pictures. You must give two crosses to four or five----"
+
+"Do you mean _only_ two crosses?" said Clara. "Or may I count the
+three-cross pictures among the two-cross pictures?"
+
+"Of course you may," said her aunt. "Any one, that has _three_ eyes, may
+be said to have _two_ eyes, I suppose?"
+
+Clara followed her aunt's dreamy gaze across the crowded gallery,
+half-dreading to find that there was a three-eyed person in sight.
+
+"And you must give one cross to nine or ten."
+
+"And which wins the match?" Clara asked, as she carefully entered these
+conditions on a blank leaf in her catalogue.
+
+"Whichever marks fewest pictures."
+
+"But suppose we marked the same number?"
+
+"Then whichever uses most marks."
+
+Clara considered. "I don't think it's much of a match," she said. "I
+shall mark nine pictures, and give three crosses to three of them, two
+crosses to two more, and one cross each to all the rest."
+
+"Will you, indeed?" said her aunt. "Wait till you've heard all the
+conditions, my impetuous child. You must give three oughts to one or two
+pictures, two oughts to three or four, and one ought to eight or nine. I
+don't want you to be _too_ hard on the R.A.'s."
+
+Clara quite gasped as she wrote down all these fresh conditions. "It's a
+great deal worse than Circulating Decimals!" she said. "But I'm
+determined to win, all the same!"
+
+Her aunt smiled grimly. "We can begin _here_," she said, as they paused
+before a gigantic picture, which the catalogue informed them was the
+"Portrait of Lieutenant Brown, mounted on his favorite elephant."
+
+"He looks awfully conceited!" said Clara. "I don't think he was the
+elephant's favorite Lieutenant. What a hideous picture it is! And it
+takes up room enough for twenty!"
+
+"Mind what you say, my dear!" her aunt interposed. "It's by an R.A.!"
+
+But Clara was quite reckless. "I don't care who it's by!" she cried.
+"And I shall give it three bad marks!"
+
+Aunt and niece soon drifted away from each other in the crowd, and for
+the next half-hour Clara was hard at work, putting in marks and rubbing
+them out again, and hunting up and down for suitable pictures. This she
+found the hardest part of all. "I _can't_ find the one I want!" she
+exclaimed at last, almost crying with vexation.
+
+"What is it you want to find, my dear?" The voice was strange to Clara,
+but so sweet and gentle that she felt attracted to the owner of it, even
+before she had seen her; and when she turned, and met the smiling looks
+of two little old ladies, whose round dimpled faces, exactly alike,
+seemed never to have known a care, it was as much as she could do--as
+she confessed to Aunt Mattie afterwards--to keep herself from hugging
+them both.
+
+"I was looking for a picture," she said, "that has a good subject--and
+that's well arranged--but badly coloured."
+
+The little old ladies glanced at each other in some alarm. "Calm
+yourself, my dear," said the one who had spoken first, "and try to
+remember which it was. What _was_ the subject?"
+
+"Was it an elephant, for instance?" the other sister suggested. They
+were still in sight of Lieutenant Brown.
+
+"I don't know, indeed!" Clara impetuously replied. "You know it doesn't
+matter a bit what the subject _is_, so long as it's a good one!"
+
+Once more the sisters exchanged looks of alarm, and one of them
+whispered something to the other, of which Clara caught only the one
+word "mad."
+
+"They mean Aunt Mattie, of course," she said to herself--fancying, in
+her innocence, that London was like her native town, where everybody
+knew everybody else. "If you mean my aunt," she added aloud, "she's
+_there_--just three pictures beyond Lieutenant Brown."
+
+"Ah, well! Then you'd better go to her, my dear!" her new friend said,
+soothingly. "_She'll_ find you the picture you want. Good-bye, dear!"
+
+"Good-bye, dear!" echoed the other sister, "Mind you don't lose sight of
+your aunt!" And the pair trotted off into another room, leaving Clara
+rather perplexed at their manner.
+
+"They're real darlings!" she soliloquised. "I wonder why they pity me
+so!" And she wandered on, murmuring to herself "It must have two good
+marks, and----"
+
+
+
+
+KNOT VI.
+
+HER RADIANCY.
+
+   "One piecee thing that my have got,
+     Maskee[A] that thing my no can do.
+   You talkee you no sabey what?
+               Bamboo."
+
+
+They landed, and were at once conducted to the Palace. About half way
+they were met by the Governor, who welcomed them in English--a great
+relief to our travellers, whose guide could speak nothing but Kgovjnian.
+
+"I don't half like the way they grin at us as we go by!" the old man
+whispered to his son. "And why do they say 'Bamboo!' so often?"
+
+"It alludes to a local custom," replied the Governor, who had overheard
+the question. "Such persons as happen in any way to displease Her
+Radiancy are usually beaten with rods."
+
+[Illustration: "WHY DO THEY SAY 'BAMBOO!' SO OFTEN?"]
+
+The old man shuddered. "A most objectional local custom!" he remarked
+with strong emphasis. "I wish we had never landed! Did you notice that
+black fellow, Norman, opening his great mouth at us? I verily believe he
+would like to eat us!"
+
+Norman appealed to the Governor, who was walking at his other side. "Do
+they often eat distinguished strangers here?" he said, in as indifferent
+a tone as he could assume.
+
+"Not often--not ever!" was the welcome reply. "They are not good for it.
+Pigs we eat, for they are fat. This old man is thin."
+
+"And thankful to be so!" muttered the elder traveller. "Beaten we shall
+be without a doubt. It's a comfort to know it won't be Beaten without
+the B! My dear boy, just look at the peacocks!"
+
+They were now walking between two unbroken lines of those gorgeous
+birds, each held in check, by means of a golden collar and chain, by a
+black slave, who stood well behind, so as not to interrupt the view of
+the glittering tail, with its network of rustling feathers and its
+hundred eyes.
+
+The Governor smiled proudly. "In your honour," he said, "Her Radiancy
+has ordered up ten thousand additional peacocks. She will, no doubt,
+decorate you, before you go, with the usual Star and Feathers."
+
+"It'll be Star without the S!" faltered one of his hearers.
+
+"Come, come! Don't lose heart!" said the other. "All this is full of
+charm for me."
+
+"You are young, Norman," sighed his father; "young and light-hearted.
+For me, it is Charm without the C."
+
+"The old one is sad," the Governor remarked with some anxiety. "He has,
+without doubt, effected some fearful crime?"
+
+"But I haven't!" the poor old gentleman hastily exclaimed. "Tell him I
+haven't, Norman!"
+
+"He has not, as yet," Norman gently explained. And the Governor
+repeated, in a satisfied tone, "Not as yet."
+
+"Yours is a wondrous country!" the Governor resumed, after a pause. "Now
+here is a letter from a friend of mine, a merchant, in London. He and
+his brother went there a year ago, with a thousand pounds apiece; and on
+New-Year's-day they had sixty thousand pounds between them!"
+
+"How did they do it?" Norman eagerly exclaimed. Even the elder traveller
+looked excited.
+
+The Governor handed him the open letter. "Anybody can do it, when once
+they know how," so ran this oracular document. "We borrowed nought: we
+stole nought. We began the year with only a thousand pounds apiece: and
+last New-Year's-day we had sixty thousand pounds between us--sixty
+thousand golden sovereigns!"
+
+Norman looked grave and thoughtful as he handed back the letter. His
+father hazarded one guess. "Was it by gambling?"
+
+"A Kgovjnian never gambles," said the Governor gravely, as he ushered
+them through the palace gates. They followed him in silence down a long
+passage, and soon found themselves in a lofty hall, lined entirely with
+peacocks' feathers. In the centre was a pile of crimson cushions, which
+almost concealed the figure of Her Radiancy--a plump little damsel, in a
+robe of green satin dotted with silver stars, whose pale round face lit
+up for a moment with a half-smile as the travellers bowed before her,
+and then relapsed into the exact expression of a wax doll, while she
+languidly murmured a word or two in the Kgovjnian dialect.
+
+The Governor interpreted. "Her Radiancy welcomes you. She notes the
+Impenetrable Placidity of the old one, and the Imperceptible Acuteness
+of the youth."
+
+Here the little potentate clapped her hands, and a troop of slaves
+instantly appeared, carrying trays of coffee and sweetmeats, which they
+offered to the guests, who had, at a signal from the Governor, seated
+themselves on the carpet.
+
+"Sugar-plums!" muttered the old man. "One might as well be at a
+confectioner's! Ask for a penny bun, Norman!"
+
+"Not so loud!" his son whispered. "Say something complimentary!" For the
+Governor was evidently expecting a speech.
+
+"We thank Her Exalted Potency," the old man timidly began. "We bask in
+the light of her smile, which----"
+
+"The words of old men are weak!" the Governor interrupted angrily. "Let
+the youth speak!"
+
+"Tell her," cried Norman, in a wild burst of eloquence, "that, like two
+grasshoppers in a volcano, we are shrivelled up in the presence of Her
+Spangled Vehemence!"
+
+"It is well," said the Governor, and translated this into Kgovjnian. "I
+am now to tell you," he proceeded, "what Her Radiancy requires of you
+before you go. The yearly competition for the post of Imperial
+Scarf-maker is just ended; you are the judges. You will take account of
+the rate of work, the lightness of the scarves, and their warmth.
+Usually the competitors differ in one point only. Thus, last year, Fifi
+and Gogo made the same number of scarves in the trial-week, and they
+were equally light; but Fifi's were twice as warm as Gogo's and she was
+pronounced twice as good. But this year, woe is me, who can judge it?
+Three competitors are here, and they differ in all points! While you
+settle their claims, you shall be lodged, Her Radiancy bids me say, free
+of expense--in the best dungeon, and abundantly fed on the best bread
+and water."
+
+The old man groaned. "All is lost!" he wildly exclaimed. But Norman
+heeded him not: he had taken out his note-book, and was calmly jotting
+down the particulars.
+
+"Three they be," the Governor proceeded, "Lolo, Mimi, and Zuzu. Lolo
+makes 5 scarves while Mimi makes 2; but Zuzu makes 4 while Lolo makes 3!
+Again, so fairylike is Zuzu's handiwork, 5 of her scarves weigh no more
+than one of Lolo's; yet Mimi's is lighter still--5 of hers will but
+balance 3 of Zuzu's! And for warmth one of Mimi's is equal to 4 of
+Zuzu's; yet one of Lolo's is as warm as 3 of Mimi's!"
+
+Here the little lady once more clapped her hands.
+
+"It is our signal of dismissal!" the Governor hastily said. "Pay Her
+Radiancy your farewell compliments--and walk out backwards."
+
+The walking part was all the elder tourist could manage. Norman simply
+said "Tell Her Radiancy we are transfixed by the spectacle of Her Serene
+Brilliance, and bid an agonized farewell to her Condensed Milkiness!"
+
+"Her Radiancy is pleased," the Governor reported, after duly translating
+this. "She casts on you a glance from Her Imperial Eyes, and is
+confident that you will catch it!"
+
+"That I warrant we shall!" the elder traveller moaned to himself
+distractedly.
+
+Once more they bowed low, and then followed the Governor down a winding
+staircase to the Imperial Dungeon, which they found to be lined with
+coloured marble, lighted from the roof, and splendidly though not
+luxuriously furnished with a bench of polished malachite. "I trust you
+will not delay the calculation," the Governor said, ushering them in
+with much ceremony. "I have known great inconvenience--great and serious
+inconvenience--result to those unhappy ones who have delayed to execute
+the commands of Her Radiancy! And on this occasion she is resolute: she
+says the thing must and shall be done: and she has ordered up ten
+thousand additional bamboos!" With these words he left them, and they
+heard him lock and bar the door on the outside.
+
+"I told you how it would end!" moaned the elder traveller, wringing his
+hands, and quite forgetting in his anguish that he had himself proposed
+the expedition, and had never predicted anything of the sort. "Oh that
+we were well out of this miserable business!"
+
+"Courage!" cried the younger cheerily. "_Hæc olim meminisse juvabit!_
+The end of all this will be glory!"
+
+"Glory without the L!" was all the poor old man could say, as he rocked
+himself to and fro on the malachite bench. "Glory without the L!"
+
+FOOTNOTE:
+
+[Footnote A: "_Maskee_," in Pigeon-English, means "_without_."]
+
+
+
+
+KNOT VII.
+
+PETTY CASH.
+
+   "Base is the slave that pays."
+
+
+"Aunt Mattie!"
+
+"My child?"
+
+"_Would_ you mind writing it down at once? I shall be quite _certain_ to
+forget it if you don't!"
+
+"My dear, we really must wait till the cab stops. How can I possibly
+write anything in the midst of all this jolting?"
+
+"But _really_ I shall be forgetting it!"
+
+Clara's voice took the plaintive tone that her aunt never knew how to
+resist, and with a sigh the old lady drew forth her ivory tablets and
+prepared to record the amount that Clara had just spent at the
+confectioner's shop. Her expenditure was always made out of her aunt's
+purse, but the poor girl knew, by bitter experience, that sooner or
+later "Mad Mathesis" would expect an exact account of every penny that
+had gone, and she waited, with ill-concealed impatience, while the old
+lady turned the tablets over and over, till she had found the one headed
+"PETTY CASH."
+
+"Here's the place," she said at last, "and here we have yesterday's
+luncheon duly entered. _One glass lemonade_ (Why can't you drink water,
+like me?) _three sandwiches_ (They never put in half mustard enough. I
+told the young woman so, to her face; and she tossed her head--like her
+impudence!) _and seven biscuits_. _Total one-and-two-pence._ Well, now
+for to-day's?"
+
+"One glass of lemonade----" Clara was beginning to say, when suddenly
+the cab drew up, and a courteous railway-porter was handing out the
+bewildered girl before she had had time to finish her sentence.
+
+Her aunt pocketed the tablets instantly. "Business first," she said:
+"petty cash--which is a form of pleasure, whatever _you_ may
+think--afterwards." And she proceeded to pay the driver, and to give
+voluminous orders about the luggage, quite deaf to the entreaties of her
+unhappy niece that she would enter the rest of the luncheon account.
+
+"My dear, you really must cultivate a more capacious mind!" was all the
+consolation she vouchsafed to the poor girl. "Are not the tablets of
+your memory wide enough to contain the record of one single luncheon?"
+
+"Not wide enough! Not half wide enough!" was the passionate reply.
+
+The words came in aptly enough, but the voice was not that of Clara, and
+both ladies turned in some surprise to see who it was that had so
+suddenly struck into their conversation. A fat little old lady was
+standing at the door of a cab, helping the driver to extricate what
+seemed an exact duplicate of herself: it would have been no easy task to
+decide which was the fatter, or which looked the more good-humoured of
+the two sisters.
+
+"I tell you the cab-door isn't half wide enough!" she repeated, as her
+sister finally emerged, somewhat after the fashion of a pellet from a
+pop-gun, and she turned to appeal to Clara. "Is it, dear?" she said,
+trying hard to bring a frown into a face that dimpled all over with
+smiles.
+
+"Some folks is too wide for 'em," growled the cab-driver.
+
+[Illustration: "I TELL YOU THE CAB-DOOR ISN'T HALF WIDE ENOUGH!"]
+
+"Don't provoke me, man!" cried the little old lady, in what she meant
+for a tempest of fury. "Say another word and I'll put you into the
+County Court, and sue you for a _Habeas Corpus_!" The cabman touched his
+hat, and marched off, grinning.
+
+"Nothing like a little Law to cow the ruffians, my dear!" she remarked
+confidentially to Clara. "You saw how he quailed when I mentioned the
+_Habeas Corpus_? Not that I've any idea what it means, but it sounds
+very grand, doesn't it?"
+
+"It's very provoking," Clara replied, a little vaguely.
+
+"Very!" the little old lady eagerly repeated. "And we're very much
+provoked indeed. Aren't we, sister?"
+
+"I never was so provoked in all my life!" the fatter sister assented,
+radiantly.
+
+By this time Clara had recognised her picture-gallery acquaintances,
+and, drawing her aunt aside, she hastily whispered her reminiscences. "I
+met them first in the Royal Academy--and they were very kind to me--and
+they were lunching at the next table to us, just now, you know--and they
+tried to help me to find the picture I wanted--and I'm sure they're dear
+old things!"
+
+"Friends of yours, are they?" said Mad Mathesis. "Well, I like their
+looks. You can be civil to them, while I get the tickets. But do try and
+arrange your ideas a little more chronologically!"
+
+And so it came to pass that the four ladies found themselves seated side
+by side on the same bench waiting for the train, and chatting as if they
+had known one another for years.
+
+"Now this I call quite a remarkable coincidence!" exclaimed the smaller
+and more talkative of the two sisters--the one whose legal knowledge had
+annihilated the cab-driver. "Not only that we should be waiting for the
+same train, and at the same station--_that_ would be curious enough--but
+actually on the same day, and the same hour of the day! That's what
+strikes _me_ so forcibly!" She glanced at the fatter and more silent
+sister, whose chief function in life seemed to be to support the family
+opinion, and who meekly responded--
+
+"And me too, sister!"
+
+"Those are not _independent_ coincidences----" Mad Mathesis was just
+beginning, when Clara ventured to interpose.
+
+"There's no jolting here," she pleaded meekly. "_Would_ you mind writing
+it down now?"
+
+Out came the ivory tablets once more. "What was it, then?" said her
+aunt.
+
+"One glass of lemonade, one sandwich, one biscuit--Oh dear me!" cried
+poor Clara, the historical tone suddenly changing to a wail of agony.
+
+"Toothache?" said her aunt calmly, as she wrote down the items. The two
+sisters instantly opened their reticules and produced two different
+remedies for neuralgia, each marked "unequalled."
+
+"It isn't that!" said poor Clara. "Thank you very much. It's only that I
+_can't_ remember how much I paid!"
+
+"Well, try and make it out, then," said her aunt. "You've got
+yesterday's luncheon to help you, you know. And here's the luncheon we
+had the day before--the first day we went to that shop--_one
+glass lemonade_, _four sandwiches_, _ten biscuits_. _Total,
+one-and-fivepence._" She handed the tablets to Clara, who gazed at them
+with eyes so dim with tears that she did not at first notice that she
+was holding them upside down.
+
+The two sisters had been listening to all this with the deepest
+interest, and at this juncture the smaller one softly laid her hand on
+Clara's arm.
+
+"Do you know, my dear," she said coaxingly, "my sister and I are in the
+very same predicament! Quite identically the very same predicament!
+Aren't we, sister?"
+
+"Quite identically and absolutely the very----" began the fatter sister,
+but she was constructing her sentence on too large a scale, and the
+little one would not wait for her to finish it.
+
+"Yes, my dear," she resumed; "we were lunching at the very same shop as
+you were--and we had two glasses of lemonade and three sandwiches and
+five biscuits--and neither of us has the least idea what we paid. Have
+we, sister?"
+
+"Quite identically and absolutely----" murmured the other, who evidently
+considered that she was now a whole sentence in arrears, and that she
+ought to discharge one obligation before contracting any fresh
+liabilities; but the little lady broke in again, and she retired from
+the conversation a bankrupt.
+
+"_Would_ you make it out for us, my dear?" pleaded the little old lady.
+
+"You can do Arithmetic, I trust?" her aunt said, a little anxiously, as
+Clara turned from one tablet to another, vainly trying to collect her
+thoughts. Her mind was a blank, and all human expression was rapidly
+fading out of her face.
+
+A gloomy silence ensued.
+
+
+
+
+KNOT VIII.
+
+DE OMNIBUS REBUS.
+
+   "This little pig went to market:
+   This little pig staid at home."
+
+
+"By Her Radiancy's express command," said the Governor, as he conducted
+the travellers, for the last time, from the Imperial presence, "I shall
+now have the ecstasy of escorting you as far as the outer gate of the
+Military Quarter, where the agony of parting--if indeed Nature can
+survive the shock--must be endured! From that gate grurmstipths start
+every quarter of an hour, both ways----"
+
+"Would you mind repeating that word?" said Norman. "Grurm----?"
+
+"Grurmstipths," the Governor repeated. "You call them omnibuses in
+England. They run both ways, and you can travel by one of them all the
+way down to the harbour."
+
+The old man breathed a sigh of relief; four hours of courtly ceremony
+had wearied him, and he had been in constant terror lest something
+should call into use the ten thousand additional bamboos.
+
+In another minute they were crossing a large quadrangle, paved with
+marble, and tastefully decorated with a pigsty in each corner. Soldiers,
+carrying pigs, were marching in all directions: and in the middle stood
+a gigantic officer giving orders in a voice of thunder, which made
+itself heard above all the uproar of the pigs.
+
+"It is the Commander-in-Chief!" the Governor hurriedly whispered to his
+companions, who at once followed his example in prostrating themselves
+before the great man. The Commander gravely bowed in return. He was
+covered with gold lace from head to foot: his face wore an expression of
+deep misery: and he had a little black pig under each arm. Still the
+gallant fellow did his best, in the midst of the orders he was every
+moment issuing to his men, to bid a courteous farewell to the departing
+guests.
+
+"Farewell, oh old one--carry these three to the South corner--and
+farewell to thee, thou young one--put this fat one on the top of the
+others in the Western sty--may your shadows never be less--woe is me, it
+is wrongly done! Empty out all the sties, and begin again!" And the
+soldier leant upon his sword, and wiped away a tear.
+
+"He is in distress," the Governor explained as they left the court. "Her
+Radiancy has commanded him to place twenty-four pigs in those four
+sties, so that, as she goes round the court, she may always find the
+number in each sty nearer to ten than the number in the last."
+
+"Does she call ten nearer to ten than nine is?" said Norman.
+
+"Surely," said the Governor. "Her Radiancy would admit that ten is
+nearer to ten than nine is--and also nearer than eleven is."
+
+"Then I think it can be done," said Norman.
+
+The Governor shook his head. "The Commander has been transferring them
+in vain for four months," he said. "What hope remains? And Her Radiancy
+has ordered up ten thousand additional----"
+
+"The pigs don't seem to enjoy being transferred," the old man hastily
+interrupted. He did not like the subject of bamboos.
+
+"They are only _provisionally_ transferred, you know," said the
+Governor. "In most cases they are immediately carried back again: so
+they need not mind it. And all is done with the greatest care, under the
+personal superintendence of the Commander-in-Chief."
+
+"Of course she would only go _once_ round?" said Norman.
+
+"Alas, no!" sighed their conductor. "Round and round. Round and round.
+These are Her Radiancy's own words. But oh, agony! Here is the outer
+gate, and we must part!" He sobbed as he shook hands with them, and the
+next moment was briskly walking away.
+
+"He _might_ have waited to see us off!" said the old man, piteously.
+
+"And he needn't have begun whistling the very _moment_ he left us!" said
+the young one, severely. "But look sharp--here are two what's-his-names
+in the act of starting!"
+
+Unluckily, the sea-bound omnibus was full. "Never mind!" said Norman,
+cheerily. "We'll walk on till the next one overtakes us."
+
+They trudged on in silence, both thinking over the military problem,
+till they met an omnibus coming from the sea. The elder traveller took
+out his watch. "Just twelve minutes and a half since we started," he
+remarked in an absent manner. Suddenly the vacant face brightened; the
+old man had an idea. "My boy!" he shouted, bringing his hand down upon
+Norman's shoulder so suddenly as for a moment to transfer his centre of
+gravity beyond the base of support.
+
+Thus taken off his guard, the young man wildly staggered forwards, and
+seemed about to plunge into space: but in another moment he had
+gracefully recovered himself. "Problem in Precession and Nutation," he
+remarked--in tones where filial respect only just managed to conceal a
+shade of annoyance. "What is it?" he hastily added, fearing his father
+might have been taken ill. "Will you have some brandy?"
+
+"When will the next omnibus overtake us? When? When?" the old man cried,
+growing more excited every moment.
+
+Norman looked gloomy. "Give me time," he said. "I must think it over."
+And once more the travellers passed on in silence--a silence only broken
+by the distant squeals of the unfortunate little pigs, who were still
+being provisionally transferred from sty to sty, under the personal
+superintendence of the Commander-in-Chief.
+
+
+
+
+KNOT IX.
+
+A SERPENT WITH CORNERS.
+
+   "Water, water, every where,
+   Nor any drop to drink."
+
+
+"It'll just take one more pebble."
+
+"What ever _are_ you doing with those buckets?"
+
+The speakers were Hugh and Lambert. Place, the beach of Little Mendip.
+Time, 1.30, P.M. Hugh was floating a bucket in another a size larger,
+and trying how many pebbles it would carry without sinking. Lambert was
+lying on his back, doing nothing.
+
+For the next minute or two Hugh was silent, evidently deep in thought.
+Suddenly he started. "I say, look here, Lambert!" he cried.
+
+"If it's alive, and slimy, and with legs, I don't care to," said
+Lambert.
+
+"Didn't Balbus say this morning that, if a body is immersed in liquid,
+it displaces as much liquid as is equal to its own bulk?" said Hugh.
+
+"He said things of that sort," Lambert vaguely replied.
+
+"Well, just look here a minute. Here's the little bucket almost quite
+immersed: so the water displaced ought to be just about the same bulk.
+And now just look at it!" He took out the little bucket as he spoke, and
+handed the big one to Lambert. "Why, there's hardly a teacupful! Do you
+mean to say _that_ water is the same bulk as the little bucket?"
+
+"Course it is," said Lambert.
+
+"Well, look here again!" cried Hugh, triumphantly, as he poured the
+water from the big bucket into the little one. "Why, it doesn't half
+fill it!"
+
+"That's _its_ business," said Lambert. "If Balbus says it's the same
+bulk, why, it _is_ the same bulk, you know."
+
+"Well, I don't believe it," said Hugh.
+
+"You needn't," said Lambert. "Besides, it's dinner-time. Come along."
+
+They found Balbus waiting dinner for them, and to him Hugh at once
+propounded his difficulty.
+
+"Let's get you helped first," said Balbus, briskly cutting away at the
+joint. "You know the old proverb 'Mutton first, mechanics afterwards'?"
+
+The boys did _not_ know the proverb, but they accepted it in perfect
+good faith, as they did every piece of information, however startling,
+that came from so infallible an authority as their tutor. They ate on
+steadily in silence, and, when dinner was over, Hugh set out the usual
+array of pens, ink, and paper, while Balbus repeated to them the problem
+he had prepared for their afternoon's task.
+
+"A friend of mine has a flower-garden--a very pretty one, though no
+great size--"
+
+"How big is it?" said Hugh.
+
+"That's what _you_ have to find out!" Balbus gaily replied. "All _I_
+tell you is that it is oblong in shape--just half a yard longer than its
+width--and that a gravel-walk, one yard wide, begins at one corner and
+runs all round it."
+
+"Joining into itself?" said Hugh.
+
+"_Not_ joining into itself, young man. Just before doing _that_, it
+turns a corner, and runs round the garden again, alongside of the first
+portion, and then inside that again, winding in and in, and each lap
+touching the last one, till it has used up the whole of the area."
+
+"Like a serpent with corners?" said Lambert.
+
+"Exactly so. And if you walk the whole length of it, to the last inch,
+keeping in the centre of the path, it's exactly two miles and half a
+furlong. Now, while you find out the length and breadth of the garden,
+I'll see if I can think out that sea-water puzzle."
+
+"You said it was a flower-garden?" Hugh inquired, as Balbus was leaving
+the room.
+
+"I did," said Balbus.
+
+"Where do the flowers grow?" said Hugh. But Balbus thought it best not
+to hear the question. He left the boys to their problem, and, in the
+silence of his own room, set himself to unravel Hugh's mechanical
+paradox.
+
+"To fix our thoughts," he murmured to himself, as, with hands
+deep-buried in his pockets, he paced up and down the room, "we will take
+a cylindrical glass jar, with a scale of inches marked up the side, and
+fill it with water up to the 10-inch mark: and we will assume that every
+inch depth of jar contains a pint of water. We will now take a solid
+cylinder, such that every inch of it is equal in bulk to _half_ a pint
+of water, and plunge 4 inches of it into the water, so that the end of
+the cylinder comes down to the 6-inch mark. Well, that displaces 2
+pints of water. What becomes of them? Why, if there were no more
+cylinder, they would lie comfortably on the top, and fill the jar up to
+the 12-inch mark. But unfortunately there _is_ more cylinder, occupying
+half the space between the 10-inch and the 12-inch marks, so that only
+_one_ pint of water can be accommodated there. What becomes of the other
+pint? Why, if there were no more cylinder, it would lie on the top, and
+fill the jar up to the 13-inch mark. But unfortunately----Shade of
+Newton!" he exclaimed, in sudden accents of terror. "When _does_ the
+water stop rising?"
+
+A bright idea struck him. "I'll write a little essay on it," he said.
+
+       *       *       *       *       *
+
+_Balbus's Essay._
+
+"When a solid is immersed in a liquid, it is well known that it
+displaces a portion of the liquid equal to itself in bulk, and that the
+level of the liquid rises just so much as it would rise if a quantity of
+liquid had been added to it, equal in bulk to the solid. Lardner says,
+precisely the same process occurs when a solid is _partially_ immersed:
+the quantity of liquid displaced, in this case, equalling the portion of
+the solid which is immersed, and the rise of the level being in
+proportion.
+
+"Suppose a solid held above the surface of a liquid and partially
+immersed: a portion of the liquid is displaced, and the level of the
+liquid rises. But, by this rise of level, a little bit more of the solid
+is of course immersed, and so there is a new displacement of a second
+portion of the liquid, and a consequent rise of level. Again, this
+second rise of level causes a yet further immersion, and by consequence
+another displacement of liquid and another rise. It is self-evident that
+this process must continue till the entire solid is immersed, and that
+the liquid will then begin to immerse whatever holds the solid, which,
+being connected with it, must for the time be considered a part of it.
+If you hold a stick, six feet long, with its end in a tumbler of water,
+and wait long enough, you must eventually be immersed. The question as
+to the source from which the water is supplied--which belongs to a high
+branch of mathematics, and is therefore beyond our present scope--does
+not apply to the sea. Let us therefore take the familiar instance of a
+man standing at the edge of the sea, at ebb-tide, with a solid in his
+hand, which he partially immerses: he remains steadfast and unmoved, and
+we all know that he must be drowned. The multitudes who daily perish in
+this manner to attest a philosophical truth, and whose bodies the
+unreasoning wave casts sullenly upon our thankless shores, have a truer
+claim to be called the martyrs of science than a Galileo or a Kepler. To
+use Kossuth's eloquent phrase, they are the unnamed demigods of the
+nineteenth century."[B]
+
+       *       *       *       *       *
+
+"There's a fallacy _somewhere_," he murmured drowsily, as he stretched
+his long legs upon the sofa. "I must think it over again." He closed his
+eyes, in order to concentrate his attention more perfectly, and for the
+next hour or so his slow and regular breathing bore witness to the
+careful deliberation with which he was investigating this new and
+perplexing view of the subject.
+
+[Illustration: "HE REMAINS STEADFAST AND UNMOVED."]
+
+FOOTNOTE:
+
+[Footnote B: _Note by the writer._--For the above Essay I am indebted to
+a dear friend, now deceased.]
+
+
+
+
+KNOT X.
+
+CHELSEA BUNS.
+
+   "Yea, buns, and buns, and buns!"
+
+                          OLD SONG.
+
+
+"How very, very sad!" exclaimed Clara; and the eyes of the gentle girl
+filled with tears as she spoke.
+
+"Sad--but very curious when you come to look at it arithmetically," was
+her aunt's less romantic reply. "Some of them have lost an arm in their
+country's service, some a leg, some an ear, some an eye----"
+
+"And some, perhaps, _all_!" Clara murmured dreamily, as they passed the
+long rows of weather-beaten heroes basking in the sun. "Did you notice
+that very old one, with a red face, who was drawing a map in the dust
+with his wooden leg, and all the others watching? I _think_ it was a
+plan of a battle----"
+
+"The battle of Trafalgar, no doubt," her aunt interrupted, briskly.
+
+"Hardly that, I think," Clara ventured to say. "You see, in that case,
+he couldn't well be alive----"
+
+"Couldn't well be alive!" the old lady contemptuously repeated. "He's as
+lively as you and me put together! Why, if drawing a map in the
+dust--with one's wooden leg--doesn't prove one to be alive, perhaps
+you'll kindly mention what _does_ prove it!"
+
+Clara did not see her way out of it. Logic had never been her _forte_.
+
+"To return to the arithmetic," Mad Mathesis resumed--the eccentric old
+lady never let slip an opportunity of driving her niece into a
+calculation--"what percentage do you suppose must have lost all four--a
+leg, an arm, an eye, and an ear?"
+
+"How _can_ I tell?" gasped the terrified girl. She knew well what was
+coming.
+
+"You can't, of course, without _data_," her aunt replied: "but I'm just
+going to give you----"
+
+"Give her a Chelsea bun, Miss! That's what most young ladies likes
+best!" The voice was rich and musical, and the speaker dexterously
+whipped back the snowy cloth that covered his basket, and disclosed a
+tempting array of the familiar square buns, joined together in rows,
+richly egged and browned, and glistening in the sun.
+
+"No, sir! I shall give her nothing so indigestible! Be off!" The old
+lady waved her parasol threateningly: but nothing seemed to disturb the
+good-humour of the jolly old man, who marched on, chanting his melodious
+refrain:--
+
+[Music: Chel-sea buns! Chel-sea buns hot! Chel-sea buns!
+
+Pi-ping hot! Chel-sea buns hot! Chel-sea buns!]
+
+"Far too indigestible, my love!" said the old lady. "Percentages will
+agree with you ever so much better!"
+
+Clara sighed, and there was a hungry look in her eyes as she watched the
+basket lessening in the distance: but she meekly listened to the
+relentless old lady, who at once proceeded to count off the _data_ on
+her fingers.
+
+"Say that 70 per cent. have lost an eye--75 per cent. an ear--80 per
+cent. an arm--85 per cent. a leg--that'll do it beautifully. Now, my
+dear, what percentage, _at least_, must have lost all four?"
+
+No more conversation occurred--unless a smothered exclamation of "Piping
+hot!" which escaped from Clara's lips as the basket vanished round a
+corner could be counted as such--until they reached the old Chelsea
+mansion, where Clara's father was then staying, with his three sons and
+their old tutor.
+
+Balbus, Lambert, and Hugh had entered the house only a few minutes
+before them. They had been out walking, and Hugh had been propounding a
+difficulty which had reduced Lambert to the depths of gloom, and had
+even puzzled Balbus.
+
+"It changes from Wednesday to Thursday at midnight, doesn't it?" Hugh
+had begun.
+
+"Sometimes," said Balbus, cautiously.
+
+"Always," said Lambert, decisively.
+
+"_Sometimes_," Balbus gently insisted. "Six midnights out of seven, it
+changes to some other name."
+
+"I meant, of course," Hugh corrected himself, "when it _does_ change
+from Wednesday to Thursday, it does it at midnight--and _only_ at
+midnight."
+
+"Surely," said Balbus. Lambert was silent.
+
+"Well, now, suppose it's midnight here in Chelsea. Then it's Wednesday
+_west_ of Chelsea (say in Ireland or America) where midnight hasn't
+arrived yet: and it's Thursday _east_ of Chelsea (say in Germany or
+Russia) where midnight has just passed by?"
+
+"Surely," Balbus said again. Even Lambert nodded this time.
+
+"But it isn't midnight, anywhere else; so it can't be changing from one
+day to another anywhere else. And yet, if Ireland and America and so on
+call it Wednesday, and Germany and Russia and so on call it Thursday,
+there _must_ be some place--not Chelsea--that has different days on the
+two sides of it. And the worst of it is, the people _there_ get their
+days in the wrong order: they've got Wednesday _east_ of them, and
+Thursday _west_--just as if their day had changed from Thursday to
+Wednesday!"
+
+"I've heard that puzzle before!" cried Lambert. "And I'll tell you the
+explanation. When a ship goes round the world from east to west, we
+know that it loses a day in its reckoning: so that when it gets home,
+and calls its day Wednesday, it finds people here calling it Thursday,
+because we've had one more midnight than the ship has had. And when you
+go the other way round you gain a day."
+
+"I know all that," said Hugh, in reply to this not very lucid
+explanation: "but it doesn't help me, because the ship hasn't proper
+days. One way round, you get more than twenty-four hours to the day, and
+the other way you get less: so of course the names get wrong: but people
+that live on in one place always get twenty-four hours to the day."
+
+"I suppose there _is_ such a place," Balbus said, meditatively, "though
+I never heard of it. And the people must find it very queer, as Hugh
+says, to have the old day _east_ of them, and the new one _west_:
+because, when midnight comes round to them, with the new day in front of
+it and the old one behind it, one doesn't see exactly what happens. I
+must think it over."
+
+So they had entered the house in the state I have described--Balbus
+puzzled, and Lambert buried in gloomy thought.
+
+"Yes, m'm, Master _is_ at home, m'm," said the stately old butler.
+(N.B.--It is only a butler of experience who can manage a series of
+three M's together, without any interjacent vowels.) "And the _ole_
+party is a-waiting for you in the libery."
+
+"I don't like his calling your father an _old_ party," Mad Mathesis
+whispered to her niece, as they crossed the hall. And Clara had only
+just time to whisper in reply "he meant the _whole_ party," before they
+were ushered into the library, and the sight of the five solemn faces
+there assembled chilled her into silence.
+
+Her father sat at the head of the table, and mutely signed to the ladies
+to take the two vacant chairs, one on each side of him. His three sons
+and Balbus completed the party. Writing materials had been arranged
+round the table, after the fashion of a ghostly banquet: the butler had
+evidently bestowed much thought on the grim device. Sheets of quarto
+paper, each flanked by a pen on one side and a pencil on the other,
+represented the plates--penwipers did duty for rolls of bread--while
+ink-bottles stood in the places usually occupied by wine-glasses. The
+_pièce de resistance_ was a large green baize bag, which gave forth, as
+the old man restlessly lifted it from side to side, a charming jingle,
+as of innumerable golden guineas.
+
+"Sister, daughter, sons--and Balbus--," the old man began, so nervously,
+that Balbus put in a gentle "Hear, hear!" while Hugh drummed on the
+table with his fists. This disconcerted the unpractised orator.
+"Sister--" he began again, then paused a moment, moved the bag to the
+other side, and went on with a rush, "I mean--this being--a critical
+occasion--more or less--being the year when one of my sons comes of
+age--" he paused again in some confusion, having evidently got into the
+middle of his speech sooner than he intended: but it was too late to go
+back. "Hear, hear!" cried Balbus. "Quite so," said the old gentleman,
+recovering his self-possession a little: "when first I began this annual
+custom--my friend Balbus will correct me if I am wrong--" (Hugh
+whispered "with a strap!" but nobody heard him except Lambert, who only
+frowned and shook his head at him) "--this annual custom of giving each
+of my sons as many guineas as would represent his age--it was a critical
+time--so Balbus informed me--as the ages of two of you were together
+equal to that of the third--so on that occasion I made a speech----" He
+paused so long that Balbus thought it well to come to the rescue with
+the words "It was a most----" but the old man checked him with a warning
+look: "yes, made a speech," he repeated. "A few years after that, Balbus
+pointed out--I say pointed out--" ("Hear, hear"! cried Balbus. "Quite
+so," said the grateful old man.) "--that it was _another_ critical
+occasion. The ages of two of you were together _double_ that of the
+third. So I made another speech--another speech. And now again it's a
+critical occasion--so Balbus says--and I am making----" (Here Mad
+Mathesis pointedly referred to her watch) "all the haste I can!" the old
+man cried, with wonderful presence of mind. "Indeed, sister, I'm coming
+to the point now! The number of years that have passed since that first
+occasion is just two-thirds of the number of guineas I then gave you.
+Now, my boys, calculate your ages from the _data_, and you shall have
+the money!"
+
+"But we _know_ our ages!" cried Hugh.
+
+"Silence, sir!" thundered the old man, rising to his full height (he was
+exactly five-foot five) in his indignation. "I say you must use the
+_data_ only! You mustn't even assume _which_ it is that comes of age!"
+He clutched the bag as he spoke, and with tottering steps (it was about
+as much as he could do to carry it) he left the room.
+
+"And _you_ shall have a similar _cadeau_," the old lady whispered to her
+niece, "when you've calculated that percentage!" And she followed her
+brother.
+
+Nothing could exceed the solemnity with which the old couple had risen
+from the table, and yet was it--was it a _grin_ with which the father
+turned away from his unhappy sons? Could it be--could it be a _wink_
+with which the aunt abandoned her despairing niece? And were those--were
+those sounds of suppressed _chuckling_ which floated into the room, just
+before Balbus (who had followed them out) closed the door? Surely not:
+and yet the butler told the cook--but no, that was merely idle gossip,
+and I will not repeat it.
+
+The shades of evening granted their unuttered petition, and "closed not
+o'er" them (for the butler brought in the lamp): the same obliging
+shades left them a "lonely bark" (the wail of a dog, in the back-yard,
+baying the moon) for "awhile": but neither "morn, alas," (nor any other
+epoch) seemed likely to "restore" them--to that peace of mind which had
+once been theirs ere ever these problems had swooped upon them, and
+crushed them with a load of unfathomable mystery!
+
+"It's hardly fair," muttered Hugh, "to give us such a jumble as this to
+work out!"
+
+"Fair?" Clara echoed, bitterly. "Well!"
+
+And to all my readers I can but repeat the last words of gentle Clara--
+
+   FARE-WELL!
+
+
+
+
+APPENDIX.
+
+     "A knot!" said Alice. "Oh, do let me help to undo it!"
+
+
+ANSWERS TO KNOT I.
+
+_Problem._--"Two travellers spend from 3 o'clock till 9 in walking along
+a level road, up a hill, and home again: their pace on the level being 4
+miles an hour, up hill 3, and down hill 6. Find distance walked: also
+(within half an hour) time of reaching top of hill."
+
+_Answer._--"24 miles: half-past 6."
+
+       *       *       *       *       *
+
+_Solution._--A level mile takes 1/4 of an hour, up hill 1/3, down hill
+1/6. Hence to go and return over the same mile, whether on the level or
+on the hill-side, takes 1/2 an hour. Hence in 6 hours they went 12 miles
+out and 12 back. If the 12 miles out had been nearly all level, they
+would have taken a little over 3 hours; if nearly all up hill, a little
+under 4. Hence 3-1/2 hours must be within 1/2 an hour of the time taken
+in reaching the peak; thus, as they started at 3, they got there within
+1/2 an hour of 1/2 past 6.
+
+       *       *       *       *       *
+
+Twenty-seven answers have come in. Of these, 9 are right, 16 partially
+right, and 2 wrong. The 16 give the _distance_ correctly, but they have
+failed to grasp the fact that the top of the hill might have been
+reached at _any_ moment between 6 o'clock and 7.
+
+The two wrong answers are from GERTY VERNON and A NIHILIST. The former
+makes the distance "23 miles," while her revolutionary companion puts it
+at "27." GERTY VERNON says "they had to go 4 miles along the plain, and
+got to the foot of the hill at 4 o'clock." They _might_ have done so, I
+grant; but you have no ground for saying they _did_ so. "It was 7-1/2
+miles to the top of the hill, and they reached that at 1/4 before 7
+o'clock." Here you go wrong in your arithmetic, and I must, however
+reluctantly, bid you farewell. 7-1/2 miles, at 3 miles an hour, would
+_not_ require 2-3/4 hours. A NIHILIST says "Let _x_ denote the whole
+number of miles; _y_ the number of hours to hill-top; [** therefore] 3_y_ =
+number of miles to hill-top, and _x_-3_y_ = number of miles on the other
+side." You bewilder me. The other side of _what_? "Of the hill," you
+say. But then, how did they get home again? However, to accommodate your
+views we will build a new hostelry at the foot of the hill on the
+opposite side, and also assume (what I grant you is _possible_, though
+it is not _necessarily_ true) that there was no level road at all. Even
+then you go wrong.
+
+You say
+
+   "_y_ = 6 - (_x_ - 3_y_)/6, ..... (i);
+
+   _x_/4-1/2 = 6              ..... (ii)."
+
+I grant you (i), but I deny (ii): it rests on the assumption that to go
+_part_ of the time at 3 miles an hour, and the rest at 6 miles an hour,
+comes to the same result as going the _whole_ time at 4-1/2 miles an
+hour. But this would only be true if the "_part_" were an exact _half_,
+i.e., if they went up hill for 3 hours, and down hill for the other 3:
+which they certainly did _not_ do.
+
+The sixteen, who are partially right, are AGNES BAILEY, F. K., FIFEE, G.
+E. B., H. P., KIT, M. E. T., MYSIE, A MOTHER'S SON, NAIRAM, A
+REDRUTHIAN, A SOCIALIST, SPEAR MAIDEN, T. B. C, VIS INERTIÆ, and YAK. Of
+these, F. K., FIFEE, T. B. C, and VIS INERTIÆ do not attempt the second
+part at all. F. K. and H. P. give no working. The rest make particular
+assumptions, such as that there was no level road--that there were 6
+miles of level road--and so on, all leading to _particular_ times being
+fixed for reaching the hill-top. The most curious assumption is that of
+AGNES BAILEY, who says "Let _x_ = number of hours occupied in ascent;
+then _x_/2 = hours occupied in descent; and 4_x_/3 = hours occupied on
+the level." I suppose you were thinking of the relative _rates_, up
+hill and on the level; which we might express by saying that, if they
+went x miles up hill in a certain time, they would go 4_x_/3 miles on
+the level _in the same time_. You have, in fact, assumed that they took
+_the same time_ on the level that they took in ascending the hill. FIFEE
+assumes that, when the aged knight said they had gone "four miles in the
+hour" on the level, he meant that four miles was the _distance_ gone,
+not merely the rate. This would have been--if FIFEE will excuse the
+slang expression--a "sell," ill-suited to the dignity of the hero.
+
+And now "descend, ye classic Nine!" who have solved the whole problem,
+and let me sing your praises. Your names are BLITHE, E. W., L. B., A
+MARLBOROUGH BOY, O. V. L., PUTNEY WALKER, ROSE, SEA BREEZE, SIMPLE
+SUSAN, and MONEY SPINNER. (These last two I count as one, as they send a
+joint answer.) ROSE and SIMPLE SUSAN and CO. do not actually state that
+the hill-top was reached some time between 6 and 7, but, as they have
+clearly grasped the fact that a mile, ascended and descended, took the
+same time as two level miles, I mark them as "right." A MARLBOROUGH BOY
+and PUTNEY WALKER deserve honourable mention for their algebraical
+solutions being the only two who have perceived that the question leads
+to _an indeterminate equation_. E. W. brings a charge of untruthfulness
+against the aged knight--a serious charge, for he was the very pink of
+chivalry! She says "According to the data given, the time at the summit
+affords no clue to the total distance. It does not enable us to state
+precisely to an inch how much level and how much hill there was on the
+road." "Fair damsel," the aged knight replies, "--if, as I surmise, thy
+initials denote Early Womanhood--bethink thee that the word 'enable' is
+thine, not mine. I did but ask the time of reaching the hill-top as my
+_condition_ for further parley. If _now_ thou wilt not grant that I am a
+truth-loving man, then will I affirm that those same initials denote
+Envenomed Wickedness!"
+
+
+CLASS LIST.
+
+I.
+
+   A MARLBOROUGH BOY.
+   PUTNEY WALKER.
+
+II.
+
+   BLITHE.
+   E. W.
+   L. B.
+   O. V. L.
+   ROSE.
+   SEA BREEZE.
+   {SIMPLE SUSAN.
+   {MONEY-SPINNER.
+
+BLITHE has made so ingenious an addition to the problem, and SIMPLE
+SUSAN and CO. have solved it in such tuneful verse, that I record both
+their answers in full. I have altered a word or two in BLITHE'S--which I
+trust she will excuse; it did not seem quite clear as it stood.
+
+       *       *       *       *       *
+
+"Yet stay," said the youth, as a gleam of inspiration lighted up the
+relaxing muscles of his quiescent features. "Stay. Methinks it matters
+little _when_ we reached that summit, the crown of our toil. For in the
+space of time wherein we clambered up one mile and bounded down the same
+on our return, we could have trudged the _twain_ on the level. We have
+plodded, then, four-and-twenty miles in these six mortal hours; for
+never a moment did we stop for catching of fleeting breath or for gazing
+on the scene around!"
+
+"Very good," said the old man. "Twelve miles out and twelve miles in.
+And we reached the top some time between six and seven of the clock. Now
+mark me! For every five minutes that had fled since six of the clock
+when we stood on yonder peak, so many miles had we toiled upwards on the
+dreary mountainside!"
+
+The youth moaned and rushed into the hostel.
+
+   BLITHE.
+
+   The elder and the younger knight,
+     They sallied forth at three;
+   How far they went on level ground
+     It matters not to me;
+   What time they reached the foot of hill,
+     When they began to mount,
+   Are problems which I hold to be
+     Of very small account.
+
+   The moment that each waved his hat
+     Upon the topmost peak--
+   To trivial query such as this
+     No answer will I seek.
+   Yet can I tell the distance well
+     They must have travelled o'er:
+   On hill and plain, 'twixt three and nine,
+     The miles were twenty-four.
+
+   Four miles an hour their steady pace
+     Along the level track,
+   Three when they climbed--but six when they
+     Came swiftly striding back
+   Adown the hill; and little skill
+     It needs, methinks, to show,
+   Up hill and down together told,
+     Four miles an hour they go.
+
+   For whether long or short the time
+     Upon the hill they spent,
+   Two thirds were passed in going up,
+     One third in the descent.
+   Two thirds at three, one third at six,
+     If rightly reckoned o'er,
+   Will make one whole at four--the tale
+     Is tangled now no more.
+
+                                SIMPLE SUSAN.
+                                MONEY SPINNER.
+
+
+ANSWERS TO KNOT II.
+
+§ 1. THE DINNER PARTY.
+
+_Problem._--"The Governor of Kgovjni wants to give a very small dinner
+party, and invites his father's brother-in-law, his brother's
+father-in-law, his father-in-law's brother, and his brother-in-law's
+father. Find the number of guests."
+
+_Answer._--"One."
+
+       *       *       *       *       *
+
+In this genealogy, males are denoted by capitals, and females by small
+letters.
+
+The Governor is E and his guest is C.
+
+            A = a
+              |
+       +------+-+----+
+       |        |    |
+   b = B    D = d    C = c
+     |        |        |
+     |   +---++--+   +-+-+
+     |   |   |   |   |   |
+     e = E   |   g = G   |
+             F ========= f
+
+Ten answers have been received. Of these, one is wrong, GALANTHUS
+NIVALIS MAJOR, who insists on inviting _two_ guests, one being the
+Governor's _wife's brother's father_. If she had taken his _sister's
+husband's father_ instead, she would have found it possible to reduce
+the guests to _one_.
+
+Of the nine who send right answers, SEA-BREEZE is the very faintest
+breath that ever bore the name! She simply states that the Governor's
+uncle might fulfill all the conditions "by intermarriages"! "Wind of the
+western sea," you have had a very narrow escape! Be thankful to appear
+in the Class-list at all! BOG-OAK and BRADSHAW OF THE FUTURE use
+genealogies which require 16 people instead of 14, by inviting the
+Governor's _father's sister's husband_ instead of his _father's wife's
+brother_. I cannot think this so good a solution as one that requires
+only 14. CAIUS and VALENTINE deserve special mention as the only two who
+have supplied genealogies.
+
+
+CLASS LIST.
+
+I.
+
+   BEE.
+   CAIUS.
+   M. M.
+   MATTHEW MATTICKS.
+   OLD CAT.
+   VALENTINE.
+
+II.
+
+   BOG-OAK.
+   BRADSHAW OF THE FUTURE.
+
+III.
+
+   SEA-BREEZE.
+
+
+§ 2. THE LODGINGS.
+
+_Problem._--"A Square has 20 doors on each side, which contains 21 equal
+parts. They are numbered all round, beginning at one corner. From which
+of the four, Nos. 9, 25, 52, 73, is the sum of the distances, to the
+other three, least?"
+
+_Answer._--"From No. 9."
+
+       *       *       *       *       *
+
+[Illustration]
+
+Let A be No. 9, B No. 25, C No. 52, and D No. 73.
+
+   Then AB = [** sqrt](12^{2} + 5^{2}) = [** sqrt]169 = 13;
+   AC = 21;
+   AD = [** sqrt](9^{2} + 8^{2}) = [** sqrt]145 = 12 +
+   (N.B. _i.e._ "between 12 and 13.")
+   BC = [** sqrt](16^{2} + 12^{2}) = [** sqrt]400 = 20;
+   BD = [** sqrt](3^{2} + 21^{2}) = [** sqrt]450 = 21+;
+   CD = [** sqrt](9^{2} + 13^{2}) = [** sqrt]250 = 15+;
+
+
+Hence sum of distances from A is between 46 and 47; from B, between 54
+and 55; from C, between 56 and 57; from D, between 48 and 51. (Why not
+"between 48 and 49"? Make this out for yourselves.) Hence the sum is
+least for A.
+
+       *       *       *       *       *
+
+Twenty-five solutions have been received. Of these, 15 must be marked
+"0," 5 are partly right, and 5 right. Of the 15, I may dismiss
+ALPHABETICAL PHANTOM, BOG-OAK, DINAH MITE, FIFEE, GALANTHUS NIVALIS
+MAJOR (I fear the cold spring has blighted our SNOWDROP), GUY, H.M.S.
+PINAFORE, JANET, and VALENTINE with the simple remark that they insist
+on the unfortunate lodgers _keeping to the pavement_. (I used the words
+"crossed to Number Seventy-three" for the special purpose of showing
+that _short cuts_ were possible.) SEA-BREEZE does the same, and adds
+that "the result would be the same" even if they crossed the Square, but
+gives no proof of this. M. M. draws a diagram, and says that No. 9 is
+the house, "as the diagram shows." I cannot see _how_ it does so. OLD
+CAT assumes that the house _must_ be No. 9 or No. 73. She does not
+explain how she estimates the distances. Bee's Arithmetic is faulty: she
+makes [** sqrt]169 + [** sqrt]442 + [** sqrt]130 = 741. (I suppose you
+mean [** sqrt]741, which would be a little nearer the truth. But roots
+cannot be added in this manner. Do you think [** sqrt]9 + [** sqrt]16 is
+25, or even [** sqrt]25?) But AYR'S state is more perilous still: she
+draws illogical conclusions with a frightful calmness. After pointing
+out (rightly) that AC is less than BD she says, "therefore the nearest
+house to the other three must be A or C." And again, after pointing out
+(rightly) that B and D are both within the half-square containing A,
+she says "therefore" AB + AD must be less than BC + CD. (There is no
+logical force in either "therefore." For the first, try Nos. 1, 21, 60,
+70: this will make your premiss true, and your conclusion false.
+Similarly, for the second, try Nos. 1, 30, 51, 71.)
+
+Of the five partly-right solutions, RAGS AND TATTERS and MAD HATTER (who
+send one answer between them) make No. 25 6 units from the corner
+instead of 5. CHEAM, E. R. D. L., and MEGGY POTTS leave openings at the
+corners of the Square, which are not in the _data_: moreover CHEAM gives
+values for the distances without any hint that they are only
+_approximations_. CROPHI AND MOPHI make the bold and unfounded
+assumption that there were really 21 houses on each side, instead of 20
+as stated by Balbus. "We may assume," they add, "that the doors of Nos.
+21, 42, 63, 84, are invisible from the centre of the Square"! What is
+there, I wonder, that CROPHI AND MOPHI would _not_ assume?
+
+Of the five who are wholly right, I think BRADSHAW OF THE FUTURE, CAIUS,
+CLIFTON C., and MARTREB deserve special praise for their full
+_analytical_ solutions. MATTHEW MATTICKS picks out No. 9, and proves it
+to be the right house in two ways, very neatly and ingeniously, but
+_why_ he picks it out does not appear. It is an excellent _synthetical_
+proof, but lacks the analysis which the other four supply.
+
+
+CLASS LIST.
+
+I.
+
+   BRADSHAW OF THE FUTURE
+   CAIUS.
+   CLIFTON C.
+   MARTREB.
+
+II.
+
+MATTHEW MATTICKS.
+
+III.
+
+   CHEAM.
+   CROPHI AND MOPHI.
+   E. R. D. L.
+   MEGGY POTTS.
+   {RAGS AND TATTERS.
+   {MAD HATTER.
+
+
+A remonstrance has reached me from SCRUTATOR on the subject of KNOT I.,
+which he declares was "no problem at all." "Two questions," he says,
+"are put. To solve one there is no data: the other answers itself." As
+to the first point, SCRUTATOR is mistaken; there _are_ (not "is") data
+sufficient to answer the question. As to the other, it is interesting to
+know that the question "answers itself," and I am sure it does the
+question great credit: still I fear I cannot enter it on the list of
+winners, as this competition is only open to human beings.
+
+
+ANSWERS TO KNOT III.
+
+_Problem._--(1) "Two travellers, starting at the same time, went
+opposite ways round a circular railway. Trains start each way every 15
+minutes, the easterly ones going round in 3 hours, the westerly in 2.
+How many trains did each meet on the way, not counting trains met at the
+terminus itself?" (2) "They went round, as before, each traveller
+counting as 'one' the train containing the other traveller. How many did
+each meet?"
+
+_Answers._--(1) 19. (2) The easterly traveller met 12; the other 8.
+
+       *       *       *       *       *
+
+The trains one way took 180 minutes, the other way 120. Let us take the
+L. C. M., 360, and divide the railway into 360 units. Then one set of
+trains went at the rate of 2 units a minute and at intervals of 30
+units; the other at the rate of 3 units a minute and at intervals of 45
+units. An easterly train starting has 45 units between it and the first
+train it will meet: it does 2-5ths of this while the other does 3-5ths,
+and thus meets it at the end of 18 units, and so all the way round. A
+westerly train starting has 30 units between it and the first train it
+will meet: it does 3-5ths of this while the other does 2-5ths, and thus
+meets it at the end of 18 units, and so all the way round. Hence if the
+railway be divided, by 19 posts, into 20 parts, each containing 18
+units, trains meet at every post, and, in (1), each traveller passes 19
+posts in going round, and so meets 19 trains. But, in (2), the easterly
+traveller only begins to count after traversing 2-5ths of the journey,
+_i.e._, on reaching the 8th post, and so counts 12 posts: similarly the
+other counts 8. They meet at the end of 2-5ths of 3 hours, or 3-5ths of
+2 hours, _i.e._, 72 minutes.
+
+       *       *       *       *       *
+
+Forty-five answers have been received. Of these 12 are beyond the reach
+of discussion, as they give no working. I can but enumerate their names.
+ARDMORE, E. A., F. A. D., L. D., MATTHEW MATTICKS, M. E. T., POO-POO,
+and THE RED QUEEN are all wrong. BETA and ROWENA have got (1) right and
+(2) wrong. CHEEKY BOB and NAIRAM give the right answers, but it may
+perhaps make the one less cheeky, and induce the other to take a less
+inverted view of things, to be informed that, if this had been a
+competition for a prize, they would have got no marks. [N.B.--I have
+not ventured to put E. A.'s name in full, as she only gave it
+provisionally, in case her answer should prove right.]
+
+Of the 33 answers for which the working is given, 10 are wrong; 11
+half-wrong and half-right; 3 right, except that they cherish the
+delusion that it was _Clara_ who travelled in the easterly train--a
+point which the data do not enable us to settle; and 9 wholly right.
+
+The 10 wrong answers are from BO-PEEP, FINANCIER, I. W. T., KATE B., M.
+A. H., Q. Y. Z., SEA-GULL, THISTLEDOWN, TOM-QUAD, and an unsigned one.
+BO-PEEP rightly says that the easterly traveller met all trains which
+started during the 3 hours of her trip, as well as all which started
+during the previous 2 hours, _i.e._, all which started at the
+commencements of 20 periods of 15 minutes each; and she is right in
+striking out the one she met at the moment of starting; but wrong in
+striking out the _last_ train, for she did not meet this at the
+terminus, but 15 minutes before she got there. She makes the same
+mistake in (2). FINANCIER thinks that any train, met for the second
+time, is not to be counted. I. W. T. finds, by a process which is not
+stated, that the travellers met at the end of 71 minutes and 26-1/2
+seconds. KATE B. thinks the trains which are met on starting and on
+arriving are _never_ to be counted, even when met elsewhere. Q. Y. Z.
+tries a rather complex algebraical solution, and succeeds in finding the
+time of meeting correctly: all else is wrong. SEA-GULL seems to think
+that, in (1), the easterly train _stood still_ for 3 hours; and says
+that, in (2), the travellers met at the end of 71 minutes 40 seconds.
+THISTLEDOWN nobly confesses to having tried no calculation, but merely
+having drawn a picture of the railway and counted the trains; in (1),
+she counts wrong; in (2) she makes them meet in 75 minutes. TOM-QUAD
+omits (1): in (2) he makes Clara count the train she met on her arrival.
+The unsigned one is also unintelligible; it states that the travellers
+go "1-24th more than the total distance to be traversed"! The "Clara"
+theory, already referred to, is adopted by 5 of these, viz., BO-PEEP,
+FINANCIER, KATE B., TOM-QUAD, and the nameless writer.
+
+The 11 half-right answers are from BOG-OAK, BRIDGET, CASTOR, CHESHIRE
+CAT, G. E. B., GUY, MARY, M. A. H., OLD MAID, R. W., and VENDREDI. All
+these adopt the "Clara" theory. CASTOR omits (1). VENDREDI gets (1)
+right, but in (2) makes the same mistake as BO-PEEP. I notice in your
+solution a marvellous proportion-sum:--"300 miles: 2 hours :: one mile:
+24 seconds." May I venture to advise your acquiring, as soon as
+possible, an utter disbelief in the possibility of a ratio existing
+between _miles_ and _hours_? Do not be disheartened by your two friends'
+sarcastic remarks on your "roundabout ways." Their short method, of
+adding 12 and 8, has the slight disadvantage of bringing the answer
+wrong: even a "roundabout" method is better than _that_! M. A. H., in
+(2), makes the travellers count "one" _after_ they met, not _when_ they
+met. CHESHIRE CAT and OLD MAID get "20" as answer for (1), by forgetting
+to strike out the train met on arrival. The others all get "18" in
+various ways. BOG-OAK, GUY, and R. W. divide the trains which the
+westerly traveller has to meet into 2 sets, viz., those already on the
+line, which they (rightly) make "11," and those which started during her
+2 hours' journey (exclusive of train met on arrival), which they
+(wrongly) make "7"; and they make a similar mistake with the easterly
+train. BRIDGET (rightly) says that the westerly traveller met a train
+every 6 minutes for 2 hours, but (wrongly) makes the number "20"; it
+should be "21." G. E. B. adopts BO-PEEP'S method, but (wrongly) strikes
+out (for the easterly traveller) the train which started at the
+_commencement_ of the previous 2 hours. MARY thinks a train, met on
+arrival, must not be counted, even when met on a _previous_ occasion.
+
+The 3, who are wholly right but for the unfortunate "Clara" theory, are
+F. LEE, G. S. C., and X. A. B.
+
+And now "descend, ye classic Ten!" who have solved the whole problem.
+Your names are AIX-LES-BAINS, ALGERNON BRAY (thanks for a friendly
+remark, which comes with a heart-warmth that not even the Atlantic could
+chill), ARVON, BRADSHAW OF THE FUTURE, FIFEE, H. L. R., J. L. O., OMEGA,
+S. S. G., and WAITING FOR THE TRAIN. Several of these have put Clara,
+provisionally, into the easterly train: but they seem to have understood
+that the data do not decide that point.
+
+
+CLASS LIST.
+
+I.
+
+   AIX-LES-BAINS.
+   ALGERNON BRAY.
+   BRADSHAW OF THE FUTURE.
+   FIFEE.
+   H. L. R.
+   OMEGA.
+   S. S. G.
+   WAITING FOR THE TRAIN.
+
+II.
+
+   ARVON.
+   J. L. O.
+
+III.
+
+   F. LEE.
+   G. S. C.
+   X. A. B.
+
+
+ANSWERS TO KNOT IV.
+
+_Problem._--"There are 5 sacks, of which Nos. 1, 2, weigh 12 lbs.; Nos.
+2, 3, 13-1/2 lbs.; Nos. 3, 4, 11-1/2 lbs.; Nos. 4, 5, 8 lbs.; Nos. 1, 3,
+5, 16 lbs. Required the weight of each sack."
+
+_Answer._--"5-1/2, 6-1/2, 7, 4-1/2, 3-1/2."
+
+       *       *       *       *       *
+
+The sum of all the weighings, 61 lbs., includes sack No. 3 _thrice_ and
+each other _twice_. Deducting twice the sum of the 1st and 4th
+weighings, we get 21 lbs. for _thrice_ No. 3, _i.e._, 7 lbs. for No. 3.
+Hence, the 2nd and 3rd weighings give 6-1/2 lbs., 4-1/2 lbs. for Nos. 2,
+4; and hence again, the 1st and 4th weighings give 5-1/2 lbs., 3-1/2
+lbs., for Nos. 1, 5.
+
+       *       *       *       *       *
+
+Ninety-seven answers have been received. Of these, 15 are beyond the
+reach of discussion, as they give no working. I can but enumerate their
+names, and I take this opportunity of saying that this is the last time
+I shall put on record the names of competitors who give no sort of clue
+to the process by which their answers were obtained. In guessing a
+conundrum, or in catching a flea, we do not expect the breathless victor
+to give us afterwards, in cold blood, a history of the mental or
+muscular efforts by which he achieved success; but a mathematical
+calculation is another thing. The names of this "mute inglorious" band
+are COMMON SENSE, D. E. R., DOUGLAS, E. L., ELLEN, I. M. T., J. M. C.,
+JOSEPH, KNOT I, LUCY, MEEK, M. F. C., PYRAMUS, SHAH, VERITAS.
+
+Of the eighty-two answers with which the working, or some approach to
+it, is supplied, one is wrong: seventeen have given solutions which are
+(from one cause or another) practically valueless: the remaining
+sixty-four I shall try to arrange in a Class-list, according to the
+varying degrees of shortness and neatness to which they seem to have
+attained.
+
+The solitary wrong answer is from NELL. To be thus "alone in the crowd"
+is a distinction--a painful one, no doubt, but still a distinction. I am
+sorry for you, my dear young lady, and I seem to hear your tearful
+exclamation, when you read these lines, "Ah! This is the knell of all my
+hopes!" Why, oh why, did you assume that the 4th and 5th bags weighed 4
+lbs. each? And why did you not test your answers? However, please try
+again: and please don't change your _nom-de-plume_: let us have NELL in
+the First Class next time!
+
+The seventeen whose solutions are practically valueless are ARDMORE, A
+READY RECKONER, ARTHUR, BOG-LARK, BOG-OAK, BRIDGET, FIRST ATTEMPT, J. L.
+C., M. E. T., ROSE, ROWENA, SEA-BREEZE, SYLVIA, THISTLEDOWN,
+THREE-FIFTHS ASLEEP, VENDREDI, and WINIFRED. BOG-LARK tries it by a sort
+of "rule of false," assuming experimentally that Nos. 1, 2, weigh 6 lbs.
+each, and having thus produced 17-1/2, instead of 16, as the weight of
+1, 3, and 5, she removes "the superfluous pound and a half," but does
+not explain how she knows from which to take it. THREE-FIFTHS ASLEEP
+says that (when in that peculiar state) "it seemed perfectly clear" to
+her that, "3 out of the 5 sacks being weighed twice over, 3/5 of 45 =
+27, must be the total weight of the 5 sacks." As to which I can only
+say, with the Captain, "it beats me entirely!" WINIFRED, on the plea
+that "one must have a starting-point," assumes (what I fear is a mere
+guess) that No. 1 weighed 5-1/2 lbs. The rest all do it, wholly or
+partly, by guess-work.
+
+The problem is of course (as any Algebraist sees at once) a case of
+"simultaneous simple equations." It is, however, easily soluble by
+Arithmetic only; and, when this is the case, I hold that it is bad
+workmanship to use the more complex method. I have not, this time, given
+more credit to arithmetical solutions; but in future problems I shall
+(other things being equal) give the highest marks to those who use the
+simplest machinery. I have put into Class I. those whose answers seemed
+specially short and neat, and into Class III. those that seemed
+specially long or clumsy. Of this last set, A. C. M., FURZE-BUSH, JAMES,
+PARTRIDGE, R. W., and WAITING FOR THE TRAIN, have sent long wandering
+solutions, the substitutions having no definite method, but seeming to
+have been made to see what would come of it. CHILPOME and DUBLIN BOY
+omit some of the working. ARVON MARLBOROUGH BOY only finds the weight of
+_one_ sack.
+
+
+CLASS LIST
+
+I.
+
+   B. E. D.
+   C. H.
+   CONSTANCE JOHNSON.
+   GREYSTEAD.
+   GUY.
+   HOOPOE.
+   J. F. A.
+   M. A. H.
+   NUMBER FIVE.
+   PEDRO.
+   R. E. X.
+   SEVEN OLD MEN.
+   VIS INERTIÆ.
+   WILLY B.
+   YAHOO.
+
+II.
+
+   AMERICAN SUBSCRIBER.
+   AN APPRECIATIVE SCHOOLMA'AM.
+   AYR.
+   BRADSHAW OF THE FUTURE.
+   CHEAM.
+   C. M. G.
+   DINAH MITE.
+   DUCKWING.
+   E. C. M.
+   E. N. Lowry.
+   ERA.
+   EUROCLYDON.
+   F. H. W.
+   FIFEE.
+   G. E. B.
+   HARLEQUIN.
+   HAWTHORN.
+   HOUGH GREEN.
+   J. A. B.
+   JACK TAR.
+   J. B. B.
+   KGOVJNI.
+   LAND LUBBER.
+   L. D.
+   MAGPIE.
+   MARY.
+   MHRUXI.
+   MINNIE.
+   MONEY-SPINNER.
+   NAIRAM.
+   OLD CAT.
+   POLICHINELLE.
+   SIMPLE SUSAN.
+   S. S. G.
+   THISBE.
+   VERENA.
+   WAMBA.
+   WOLFE.
+   WYKEHAMICUS.
+   Y. M. A. H.
+
+III.
+
+   A. C. M.
+   ARVON MARLBOROUGH BOY.
+   CHILPOME.
+   DUBLIN BOY.
+   FURZE-BUSH.
+   JAMES.
+   PARTRIDGE.
+   R. W.
+   WAITING FOR THE TRAIN.
+
+
+ANSWERS TO KNOT V.
+
+_Problem._--To mark pictures, giving 3 x's to 2 or 3, 2 to 4 or 5, and 1
+to 9 or 10; also giving 3 o's to 1 or 2, 2 to 3 or 4 and 1 to 8 or 9; so
+as to mark the smallest possible number of pictures, and to give them
+the largest possible number of marks.
+
+_Answer._--10 pictures; 29 marks; arranged thus:--
+
+   x  x  x  x  x  x  x  x  x  o
+   x  x  x  x  x     o  o  o  o
+   x  x  o  o  o  o  o  o  o  o
+
+_Solution._--By giving all the x's possible, putting into brackets the
+optional ones, we get 10 pictures marked thus:--
+
+   x  x  x  x  x  x  x  x  x (x)
+   x  x  x  x (x)
+   x  x (x)
+
+By then assigning o's in the same way, beginning at the other end, we
+get 9 pictures marked thus:--
+
+                        (o) o
+                  (o) o  o  o
+   (o) o  o  o  o  o  o  o  o
+
+All we have now to do is to run these two wedges as close together as
+they will go, so as to get the minimum number of pictures----erasing
+optional marks where by so doing we can run them closer, but otherwise
+letting them stand. There are 10 necessary marks in the 1st row, and in
+the 3rd; but only 7 in the 2nd. Hence we erase all optional marks in the
+1st and 3rd rows, but let them stand in the 2nd.
+
+       *       *       *       *       *
+
+Twenty-two answers have been received. Of these 11 give no working; so,
+in accordance with what I announced in my last review of answers, I
+leave them unnamed, merely mentioning that 5 are right and 6 wrong.
+
+Of the eleven answers with which some working is supplied, 3 are wrong.
+C. H. begins with the rash assertion that under the given conditions
+"the sum is impossible. For," he or she adds (these initialed
+correspondents are dismally vague beings to deal with: perhaps "it"
+would be a better pronoun), "10 is the least possible number of
+pictures" (granted): "therefore we must either give 2 x's to 6, or 2 o's
+to 5." Why "must," oh alphabetical phantom? It is nowhere ordained that
+every picture "must" have 3 marks! FIFEE sends a folio page of solution,
+which deserved a better fate: she offers 3 answers, in each of which 10
+pictures are marked, with 30 marks; in one she gives 2 x's to 6
+pictures; in another to 7; in the 3rd she gives 2 o's to 5; thus in
+every case ignoring the conditions. (I pause to remark that the
+condition "2 x's to 4 or 5 pictures" can only mean "_either_ to 4 _or
+else_ to 5": if, as one competitor holds, it might mean _any_ number not
+less than 4, the words "_or_ 5" would be superfluous.) I. E. A. (I am
+happy to say that none of these bloodless phantoms appear this time in
+the class-list. Is it IDEA with the "D" left out?) gives 2 x's to 6
+pictures. She then takes me to task for using the word "ought" instead
+of "nought." No doubt, to one who thus rebels against the rules laid
+down for her guidance, the word must be distasteful. But does not I. E.
+A. remember the parallel case of "adder"? That creature was originally
+"a nadder": then the two words took to bandying the poor "n" backwards
+and forwards like a shuttlecock, the final state of the game being "an
+adder." May not "a nought" have similarly become "an ought"? Anyhow,
+"oughts and crosses" is a very old game. I don't think I ever heard it
+called "noughts and crosses."
+
+In the following Class-list, I hope the solitary occupant of III. will
+sheathe her claws when she hears how narrow an escape she has had of not
+being named at all. Her account of the process by which she got the
+answer is so meagre that, like the nursery tale of "Jack-a-Minory" (I
+trust I. E. A. will be merciful to the spelling), it is scarcely to be
+distinguished from "zero."
+
+
+CLASS LIST.
+
+I.
+
+   GUY.
+   OLD CAT.
+   SEA-BREEZE.
+
+II.
+
+   AYR.
+   BRADSHAW OF THE FUTURE.
+   F. LEE.
+   H. VERNON.
+
+III.
+
+CAT.
+
+
+ANSWERS TO KNOT VI.
+
+_Problem 1._--_A_ and _B_ began the year with only 1,000_l._ a-piece.
+They borrowed nought; they stole nought. On the next New-Year's Day they
+had 60,000_l._ between them. How did they do it?
+
+_Solution._--They went that day to the Bank of England. _A_ stood in
+front of it, while _B_ went round and stood behind it.
+
+       *       *       *       *       *
+
+Two answers have been received, both worthy of much honour. ADDLEPATE
+makes them borrow "0" and steal "0," and uses both cyphers by putting
+them at the right-hand end of the 1,000_l._, thus producing 100,000_l._,
+which is well over the mark. But (or to express it in Latin) AT SPES
+INFRACTA has solved it even more ingeniously: with the first cypher she
+turns the "1" of the 1,000_l._ into a "9," and adds the result to the
+original sum, thus getting 10,000_l._: and in this, by means of the
+other "0," she turns the "1" into a "6," thus hitting the exact
+60,000_l._
+
+
+CLASS LIST
+
+I.
+
+AT SPES INFRACTA.
+
+II.
+
+ADDLEPATE.
+
+       *       *       *       *       *
+
+_Problem 2._--_L_ makes 5 scarves, while _M_ makes 2: _Z_ makes 4 while
+_L_ makes 3. Five scarves of _Z_'s weigh one of _L_'s; 5 of _M_'s weigh
+3 of _Z_'s. One of _M_'s is as warm as 4 of _Z_'s: and one of _L_'s as
+warm as 3 of _M_'s. Which is best, giving equal weight in the result to
+rapidity of work, lightness, and warmth?
+
+_Answer._--The order is _M_, _L_, _Z_.
+
+       *       *       *       *       *
+
+_Solution._--As to rapidity (other things being constant) _L_'s merit is
+to _M_'s in the ratio of 5 to 2: _Z_'s to _L_'s in the ratio of 4 to 3.
+In order to get one set of 3 numbers fulfilling these conditions, it is
+perhaps simplest to take the one that occurs _twice_ as unity, and
+reduce the others to fractions: this gives, for _L_, _M_, and _Z_, the
+marks 1, 2/5, 4/3. In estimating for _lightness_, we observe that the
+greater the weight, the less the merit, so that _Z_'s merit is to _L_'s
+as 5 to 1. Thus the marks for _lightness_ are 1/5, 5/3, 1. And
+similarly, the marks for warmth are 3, 1, 1/4. To get the total result,
+we must _multiply_ _L_'s 3 marks together, and do the same for _M_ and
+for _Z_. The final numbers are 1 × 1/5 × 3, 2/5 × 5/3 × 1, 4/3 × 1 ×
+1/4; _i.e._ 3/5, 2/3, 1/3; _i.e._ multiplying throughout by 15 (which
+will not alter the proportion), 9, 10, 5; showing the order of merit to
+be _M_, _L_, _Z_.
+
+       *       *       *       *       *
+
+Twenty-nine answers have been received, of which five are right, and
+twenty-four wrong. These hapless ones have all (with three exceptions)
+fallen into the error of _adding_ the proportional numbers together, for
+each candidate, instead of _multiplying_. _Why_ the latter is right,
+rather than the former, is fully proved in text-books, so I will not
+occupy space by stating it here: but it can be _illustrated_ very easily
+by the case of length, breadth, and depth. Suppose _A_ and _B_ are rival
+diggers of rectangular tanks: the amount of work done is evidently
+measured by the number of _cubical feet_ dug out. Let _A_ dig a tank 10
+feet long, 10 wide, 2 deep: let _B_ dig one 6 feet long, 5 wide, 10
+deep. The cubical contents are 200, 300; _i.e._ _B_ is best digger in
+the ratio of 3 to 2. Now try marking for length, width, and depth,
+separately; giving a maximum mark of 10 to the best in each contest, and
+then _adding_ the results!
+
+Of the twenty-four malefactors, one gives no working, and so has no real
+claim to be named; but I break the rule for once, in deference to its
+success in Problem 1: he, she, or it, is ADDLEPATE. The other
+twenty-three may be divided into five groups.
+
+First and worst are, I take it, those who put the rightful winner
+_last_; arranging them as "Lolo, Zuzu, Mimi." The names of these
+desperate wrong-doers are AYR, BRADSHAW OF THE FUTURE, FURZE-BUSH and
+POLLUX (who send a joint answer), GREYSTEAD, GUY, OLD HEN, and SIMPLE
+SUSAN. The latter was _once_ best of all; the Old Hen has taken
+advantage of her simplicity, and beguiled her with the chaff which was
+the bane of her own chickenhood.
+
+Secondly, I point the finger of scorn at those who have put the worst
+candidate at the top; arranging them as "Zuzu, Mimi, Lolo." They are
+GRAECIA, M. M., OLD CAT, and R. E. X. "'Tis Greece, but----."
+
+The third set have avoided both these enormities, and have even
+succeeded in putting the worst last, their answer being "Lolo, Mimi,
+Zuzu." Their names are AYR (who also appears among the "quite too too"),
+CLIFTON C., F. B., FIFEE, GRIG, JANET, and MRS. SAIREY GAMP. F. B. has
+not fallen into the common error; she _multiplies_ together the
+proportionate numbers she gets, but in getting them she goes wrong, by
+reckoning warmth as a _de_-merit. Possibly she is "Freshly Burnt," or
+comes "From Bombay." JANET and MRS. SAIREY GAMP have also avoided this
+error: the method they have adopted is shrouded in mystery--I scarcely
+feel competent to criticize it. MRS. GAMP says "if Zuzu makes 4 while
+Lolo makes 3, Zuzu makes 6 while Lolo makes 5 (bad reasoning), while
+Mimi makes 2." From this she concludes "therefore Zuzu excels in speed
+by 1" (_i.e._ when compared with Lolo; but what about Mimi?). She then
+compares the 3 kinds of excellence, measured on this mystic scale. JANET
+takes the statement, that "Lolo makes 5 while Mimi makes 2," to prove
+that "Lolo makes 3 while Mimi makes 1 and Zuzu 4" (worse reasoning than
+MRS. GAMP'S), and thence concludes that "Zuzu excels in speed by 1/8"!
+JANET should have been ADELINE, "mystery of mysteries!"
+
+The fourth set actually put Mimi at the top, arranging them as "Mimi,
+Zuzu, Lolo." They are MARQUIS AND CO., MARTREB, S. B. B. (first initial
+scarcely legible: _may_ be meant for "J"), and STANZA.
+
+The fifth set consist of AN ANCIENT FISH and CAMEL. These ill-assorted
+comrades, by dint of foot and fin, have scrambled into the right answer,
+but, as their method is wrong, of course it counts for nothing. Also AN
+ANCIENT FISH has very ancient and fishlike ideas as to _how_ numbers
+represent merit: she says "Lolo gains 2-1/2 on Mimi." Two and a half
+_what_? Fish, fish, art thou in thy duty?
+
+Of the five winners I put BALBUS and THE ELDER TRAVELLER slightly below
+the other three--BALBUS for defective reasoning, the other for scanty
+working. BALBUS gives two reasons for saying that _addition_ of marks is
+_not_ the right method, and then adds "it follows that the decision must
+be made by _multiplying_ the marks together." This is hardly more
+logical than to say "This is not Spring: _therefore_ it must be Autumn."
+
+
+CLASS LIST.
+
+I.
+
+   DINAH MITE.
+   E. B. D. L.
+   JORAM.
+
+II.
+
+   BALBUS.
+   THE ELDER TRAVELLER.
+
+       *       *       *       *       *
+
+With regard to Knot V., I beg to express to VIS INERTIÆ and to any
+others who, like her, understood the condition to be that _every_ marked
+picture must have _three_ marks, my sincere regret that the unfortunate
+phrase "_fill_ the columns with oughts and crosses" should have caused
+them to waste so much time and trouble. I can only repeat that a
+_literal_ interpretation of "fill" would seem to _me_ to require that
+_every_ picture in the gallery should be marked. VIS INERTIÆ would have
+been in the First Class if she had sent in the solution she now offers.
+
+
+ANSWERS TO KNOT VII.
+
+_Problem._--Given that one glass of lemonade, 3 sandwiches, and 7
+biscuits, cost 1_s._ 2_d._; and that one glass of lemonade, 4
+sandwiches, and 10 biscuits, cost 1_s._ 5_d._: find the cost of (1) a
+glass of lemonade, a sandwich, and a biscuit; and (2) 2 glasses of
+lemonade, 3 sandwiches, and 5 biscuits.
+
+_Answer._--(1) 8_d._; (2) 1_s._ 7_d._
+
+_Solution._--This is best treated algebraically. Let _x_ = the cost (in
+pence) of a glass of lemonade, _y_ of a sandwich, and _z_ of a biscuit.
+Then we have _x_ + 3_y_ + 7_z_ = 14, and _x_ + 4_y_ + 10_z_ = 17. And we
+require the values of _x_ + _y_ + _z_, and of 2_x_ + 3_y_ + 5_z_. Now,
+from _two_ equations only, we cannot find, _separately_, the values of
+_three_ unknowns: certain _combinations_ of them may, however, be found.
+Also we know that we can, by the help of the given equations, eliminate
+2 of the 3 unknowns from the quantity whose value is required, which
+will then contain one only. If, then, the required value is
+ascertainable at all, it can only be by the 3rd unknown vanishing of
+itself: otherwise the problem is impossible.
+
+Let us then eliminate lemonade and sandwiches, and reduce everything to
+biscuits--a state of things even more depressing than "if all the world
+were apple-pie"--by subtracting the 1st equation from the 2nd, which
+eliminates lemonade, and gives _y_ + 3_z_ = 3, or _y_ = 3-3_z_; and then
+substituting this value of _y_ in the 1st, which gives _x_-2_z_ = 5,
+_i.e._ _x_ = 5 + 2_z_. Now if we substitute these values of _x_, _y_, in
+the quantities whose values are required, the first becomes (5 + 2_z_) +
+(3-3_z_) + _z_, _i.e._ 8: and the second becomes 2(5 + 2_z_) + 3(3-3_z_)
++ 5_z_, _i.e._ 19. Hence the answers are (1) 8_d._, (2) 1_s._ 7_d._
+
+       *       *       *       *       *
+
+The above is a _universal_ method: that is, it is absolutely certain
+either to produce the answer, or to prove that no answer is possible.
+The question may also be solved by combining the quantities whose values
+are given, so as to form those whose values are required. This is merely
+a matter of ingenuity and good luck: and as it _may_ fail, even when the
+thing is possible, and is of no use in proving it _im_possible, I cannot
+rank this method as equal in value with the other. Even when it
+succeeds, it may prove a very tedious process. Suppose the 26
+competitors, who have sent in what I may call _accidental_ solutions,
+had had a question to deal with where every number contained 8 or 10
+digits! I suspect it would have been a case of "silvered is the raven
+hair" (see "Patience") before any solution would have been hit on by
+the most ingenious of them.
+
+Forty-five answers have come in, of which 44 give, I am happy to say,
+some sort of _working_, and therefore deserve to be mentioned by name,
+and to have their virtues, or vices as the case may be, discussed.
+Thirteen have made assumptions to which they have no right, and so
+cannot figure in the Class-list, even though, in 10 of the 13 cases, the
+answer is right. Of the remaining 28, no less than 26 have sent in
+_accidental_ solutions, and therefore fall short of the highest honours.
+
+I will now discuss individual cases, taking the worst first, as my
+custom is.
+
+FROGGY gives no working--at least this is all he gives: after stating
+the given equations, he says "therefore the difference, 1 sandwich + 3
+biscuits, = 3_d._": then follow the amounts of the unknown bills, with
+no further hint as to how he got them. FROGGY has had a _very_ narrow
+escape of not being named at all!
+
+Of those who are wrong, VIS INERTIÆ has sent in a piece of incorrect
+working. Peruse the horrid details, and shudder! She takes _x_ (call it
+"_y_") as the cost of a sandwich, and concludes (rightly enough) that a
+biscuit will cost (3-_y_)/3. She then subtracts the second equation from
+the first, and deduces 3_y_ + 7 × (3-_y_)/3-4_y_ + 10 × (3-_y_)/3 = 3.
+By making two mistakes in this line, she brings out _y_ = 3/2. Try it
+again, oh VIS INERTIÆ! Away with INERTIÆ: infuse a little more VIS: and
+you will bring out the correct (though uninteresting) result, 0 = 0!
+This will show you that it is hopeless to try to coax any one of these 3
+unknowns to reveal its _separate_ value. The other competitor, who is
+wrong throughout, is either J. M. C. or T. M. C.: but, whether he be a
+Juvenile Mis-Calculator or a True Mathematician Confused, he makes the
+answers 7_d._ and 1_s._ 5_d._ He assumes, with Too Much Confidence, that
+biscuits were 1/2_d._ each, and that Clara paid for 8, though she only
+ate 7!
+
+We will now consider the 13 whose working is wrong, though the answer is
+right: and, not to measure their demerits too exactly, I will take them
+in alphabetical order. ANITA finds (rightly) that "1 sandwich and 3
+biscuits cost 3_d._," and proceeds "therefore 1 sandwich = 1-1/2_d._, 3
+biscuits = 1-1/2_d._, 1 lemonade = 6_d._" DINAH MITE begins like ANITA:
+and thence proves (rightly) that a biscuit costs less than a 1_d._:
+whence she concludes (wrongly) that it _must_ cost 1/2_d._ F. C. W. is
+so beautifully resigned to the certainty of a verdict of "guilty," that
+I have hardly the heart to utter the word, without adding a "recommended
+to mercy owing to extenuating circumstances." But really, you know,
+where _are_ the extenuating circumstances? She begins by assuming that
+lemonade is 4_d._ a glass, and sandwiches 3_d._ each, (making with the 2
+given equations, _four_ conditions to be fulfilled by _three_ miserable
+unknowns!). And, having (naturally) developed this into a contradiction,
+she then tries 5_d._ and 2_d._ with a similar result. (N.B. _This_
+process might have been carried on through the whole of the Tertiary
+Period, without gratifying one single Megatherium.) She then, by a
+"happy thought," tries half-penny biscuits, and so obtains a consistent
+result. This may be a good solution, viewing the problem as a conundrum:
+but it is _not_ scientific. JANET identifies sandwiches with biscuits!
+"One sandwich + 3 biscuits" she makes equal to "4." Four _what_? MAYFAIR
+makes the astounding assertion that the equation, _s_ + 3_b_ = 3, "is
+evidently only satisfied by _s_ = 3/2, _b_ = 1/2"! OLD CAT believes that
+the assumption that a sandwich costs 1-1/2_d._ is "the only way to avoid
+unmanageable fractions." But _why_ avoid them? Is there not a certain
+glow of triumph in taming such a fraction? "Ladies and gentlemen, the
+fraction now before you is one that for years defied all efforts of a
+refining nature: it was, in a word, hopelessly vulgar. Treating it as a
+circulating decimal (the treadmill of fractions) only made matters
+worse. As a last resource, I reduced it to its lowest terms, and
+extracted its square root!" Joking apart, let me thank OLD CAT for some
+very kind words of sympathy, in reference to a correspondent (whose name
+I am happy to say I have now forgotten) who had found fault with me as a
+discourteous critic. O. V. L. is beyond my comprehension. He takes the
+given equations as (1) and (2): thence, by the process [(2)-(1)] deduces
+(rightly) equation (3) viz. _s_ + 3_b_ = 3: and thence again, by the
+process [x3] (a hopeless mystery), deduces 3_s_ + 4_b_ = 4. I have
+nothing to say about it: I give it up. SEA-BREEZE says "it is immaterial
+to the answer" (why?) "in what proportion 3_d._ is divided between the
+sandwich and the 3 biscuits": so she assumes _s_ = l-1/2_d._, _b_ =
+1/2_d._ STANZA is one of a very irregular metre. At first she (like
+JANET) identifies sandwiches with biscuits. She then tries two
+assumptions (_s_ = 1, _b_ = 2/3, and _s_ = 1/2 _b_ = 5/6), and
+(naturally) ends in contradictions. Then she returns to the first
+assumption, and finds the 3 unknowns separately: _quod est absurdum_.
+STILETTO identifies sandwiches and biscuits, as "articles." Is the word
+ever used by confectioners? I fancied "What is the next article, Ma'am?"
+was limited to linendrapers. TWO SISTERS first assume that biscuits are
+4 a penny, and then that they are 2 a penny, adding that "the answer
+will of course be the same in both cases." It is a dreamy remark,
+making one feel something like Macbeth grasping at the spectral dagger.
+"Is this a statement that I see before me?" If you were to say "we both
+walked the same way this morning," and _I_ were to say "_one_ of you
+walked the same way, but the other didn't," which of the three would be
+the most hopelessly confused? TURTLE PYATE (what _is_ a Turtle Pyate,
+please?) and OLD CROW, who send a joint answer, and Y. Y., adopt the
+same method. Y. Y. gets the equation _s_ + 3_b_ = 3: and then says "this
+sum must be apportioned in one of the three following ways." It _may_
+be, I grant you: but Y. Y. do you say "must"? I fear it is _possible_
+for Y. Y. to be _two_ Y's. The other two conspirators are less positive:
+they say it "can" be so divided: but they add "either of the three
+prices being right"! This is bad grammar and bad arithmetic at once, oh
+mysterious birds!
+
+Of those who win honours, THE SHETLAND SNARK must have the 3rd class all
+to himself. He has only answered half the question, viz. the amount of
+Clara's luncheon: the two little old ladies he pitilessly leaves in the
+midst of their "difficulty." I beg to assure him (with thanks for his
+friendly remarks) that entrance-fees and subscriptions are things
+unknown in that most economical of clubs, "The Knot-Untiers."
+
+The authors of the 26 "accidental" solutions differ only in the number
+of steps they have taken between the _data_ and the answers. In order
+to do them full justice I have arranged the 2nd class in sections,
+according to the number of steps. The two Kings are fearfully
+deliberate! I suppose walking quick, or taking short cuts, is
+inconsistent with kingly dignity: but really, in reading THESEUS'
+solution, one almost fancied he was "marking time," and making no
+advance at all! The other King will, I hope, pardon me for having
+altered "Coal" into "Cole." King Coilus, or Coil, seems to have reigned
+soon after Arthur's time. Henry of Huntingdon identifies him with the
+King Coël who first built walls round Colchester, which was named after
+him. In the Chronicle of Robert of Gloucester we read:--
+
+   "Aftur Kyng Aruirag, of wam we habbeth y told,
+   Marius ys sone was kyng, quoynte mon & bold.
+   And ys sone was aftur hym, _Coil_ was ys name,
+   Bothe it were quoynte men, & of noble fame."
+
+BALBUS lays it down as a general principle that "in order to ascertain
+the cost of any one luncheon, it must come to the same amount upon two
+different assumptions." (_Query._ Should not "it" be "we"? Otherwise the
+_luncheon_ is represented as wishing to ascertain its own cost!) He then
+makes two assumptions--one, that sandwiches cost nothing; the other,
+that biscuits cost nothing, (either arrangement would lead to the shop
+being inconveniently crowded!)--and brings out the unknown luncheons as
+8_d._ and 19_d._, on each assumption. He then concludes that this
+agreement of results "shows that the answers are correct." Now I propose
+to disprove his general law by simply giving _one_ instance of its
+failing. One instance is quite enough. In logical language, in order to
+disprove a "universal affirmative," it is enough to prove its
+contradictory, which is a "particular negative." (I must pause for a
+digression on Logic, and especially on Ladies' Logic. The universal
+affirmative "everybody says he's a duck" is crushed instantly by proving
+the particular negative "Peter says he's a goose," which is equivalent
+to "Peter does _not_ say he's a duck." And the universal negative
+"nobody calls on her" is well met by the particular affirmative "_I_
+called yesterday." In short, either of two contradictories disproves the
+other: and the moral is that, since a particular proposition is much
+more easily proved than a universal one, it is the wisest course, in
+arguing with a Lady, to limit one's _own_ assertions to "particulars,"
+and leave _her_ to prove the "universal" contradictory, if she can. You
+will thus generally secure a _logical_ victory: a _practical_ victory is
+not to be hoped for, since she can always fall back upon the crushing
+remark "_that_ has nothing to do with it!"--a move for which Man has not
+yet discovered any satisfactory answer. Now let us return to BALBUS.)
+Here is my "particular negative," on which to test his rule. Suppose the
+two recorded luncheons to have been "2 buns, one queen-cake, 2
+sausage-rolls, and a bottle of Zoëdone: total, one-and-ninepence," and
+"one bun, 2 queen-cakes, a sausage-roll, and a bottle of Zoëdone: total,
+one-and-fourpence." And suppose Clara's unknown luncheon to have been "3
+buns, one queen-cake, one sausage-roll, and 2 bottles of Zoëdone:" while
+the two little sisters had been indulging in "8 buns, 4 queen-cakes, 2
+sausage-rolls, and 6 bottles of Zoëdone." (Poor souls, how thirsty they
+must have been!) If BALBUS will kindly try this by his principle of "two
+assumptions," first assuming that a bun is 1_d._ and a queen-cake 2_d._,
+and then that a bun is 3_d._ and a queen-cake 3_d._, he will bring out
+the other two luncheons, on each assumption, as "one-and-nine-pence" and
+"four-and-ten-pence" respectively, which harmony of results, he will
+say, "shows that the answers are correct." And yet, as a matter of fact,
+the buns were 2_d._ each, the queen-cakes 3_d._, the sausage-rolls
+6_d._, and the Zoëdone 2_d._ a bottle: so that Clara's third luncheon
+had cost one-and-sevenpence, and her thirsty friends had spent
+four-and-fourpence!
+
+Another remark of BALBUS I will quote and discuss: for I think that it
+also may yield a moral for some of my readers. He says "it is the same
+thing in substance whether in solving this problem we use words and call
+it Arithmetic, or use letters and signs and call it Algebra." Now this
+does not appear to me a correct description of the two methods: the
+Arithmetical method is that of "synthesis" only; it goes from one known
+fact to another, till it reaches its goal: whereas the Algebraical
+method is that of "analysis": it begins with the goal, symbolically
+represented, and so goes backwards, dragging its veiled victim with it,
+till it has reached the full daylight of known facts, in which it can
+tear off the veil and say "I know you!"
+
+Take an illustration. Your house has been broken into and robbed, and
+you appeal to the policeman who was on duty that night. "Well, Mum, I
+did see a chap getting out over your garden-wall: but I was a good bit
+off, so I didn't chase him, like. I just cut down the short way to the
+Chequers, and who should I meet but Bill Sykes, coming full split round
+the corner. So I just ups and says 'My lad, you're wanted.' That's all I
+says. And he says 'I'll go along quiet, Bobby,' he says, 'without the
+darbies,' he says." There's your _Arithmetical_ policeman. Now try the
+other method. "I seed somebody a running, but he was well gone or ever
+_I_ got nigh the place. So I just took a look round in the garden. And I
+noticed the foot-marks, where the chap had come right across your
+flower-beds. They was good big foot-marks sure-ly. And I noticed as the
+left foot went down at the heel, ever so much deeper than the other. And
+I says to myself 'The chap's been a big hulking chap: and he goes lame
+on his left foot.' And I rubs my hand on the wall where he got over, and
+there was soot on it, and no mistake. So I says to myself 'Now where can
+I light on a big man, in the chimbley-sweep line, what's lame of one
+foot?' And I flashes up permiscuous: and I says 'It's Bill Sykes!' says
+I." There is your _Algebraical_ policeman--a higher intellectual type,
+to my thinking, than the other.
+
+LITTLE JACK'S solution calls for a word of praise, as he has written out
+what really is an algebraical proof _in words_, without representing any
+of his facts as equations. If it is all his own, he will make a good
+algebraist in the time to come. I beg to thank SIMPLE SUSAN for some
+kind words of sympathy, to the same effect as those received from OLD
+CAT.
+
+HECLA and MARTREB are the only two who have used a method _certain_
+either to produce the answer, or else to prove it impossible: so they
+must share between them the highest honours.
+
+
+CLASS LIST.
+
+I.
+
+   HECLA.
+   MARTREB.
+
+II.
+
+§ 1 (2 _steps_).
+
+   ADELAIDE.
+   CLIFTON C....
+   E. K. C.
+   GUY.
+   L'INCONNU.
+   LITTLE JACK.
+   NIL DESPERANDUM.
+   SIMPLE SUSAN.
+   YELLOW-HAMMER.
+   WOOLLY ONE.
+
+§ 2 (3 _steps_).
+
+   A. A.
+   A CHRISTMAS CAROL.
+   AFTERNOON TEA.
+   AN APPRECIATIVE SCHOOLMA'AM.
+   BABY.
+   BALBUS.
+   BOG-OAK.
+   THE RED QUEEN.
+   WALL-FLOWER.
+
+§ 3 (4 _steps_).
+
+   HAWTHORN.
+   JORAM.
+   S. S. G.
+
+§ 4 (5 _steps_).
+
+   A STEPNEY COACH.
+
+§ 5 (6 _steps_).
+
+   BAY LAUREL.
+   BRADSHAW OF THE FUTURE.
+
+§ 6 (9 _steps_).
+
+   OLD KING COLE.
+
+§ 7 (14 _steps_).
+
+   THESEUS.
+
+
+ANSWERS TO CORRESPONDENTS.
+
+I have received several letters on the subjects of Knots II. and VI.,
+which lead me to think some further explanation desirable.
+
+In Knot II., I had intended the numbering of the houses to begin at one
+corner of the Square, and this was assumed by most, if not all, of the
+competitors. TROJANUS however says "assuming, in default of any
+information, that the street enters the square in the middle of each
+side, it may be supposed that the numbering begins at a street." But
+surely the other is the more natural assumption?
+
+In Knot VI., the first Problem was of course a mere _jeu de mots_, whose
+presence I thought excusable in a series of Problems whose aim is to
+entertain rather than to instruct: but it has not escaped the
+contemptuous criticisms of two of my correspondents, who seem to think
+that Apollo is in duty bound to keep his bow always on the stretch.
+Neither of them has guessed it: and this is true human nature. Only the
+other day--the 31st of September, to be quite exact--I met my old friend
+Brown, and gave him a riddle I had just heard. With one great effort of
+his colossal mind, Brown guessed it. "Right!" said I. "Ah," said he,
+"it's very neat--very neat. And it isn't an answer that would occur to
+everybody. Very neat indeed." A few yards further on, I fell in with
+Smith and to him I propounded the same riddle. He frowned over it for a
+minute, and then gave it up. Meekly I faltered out the answer. "A poor
+thing, sir!" Smith growled, as he turned away. "A very poor thing! I
+wonder you care to repeat such rubbish!" Yet Smith's mind is, if
+possible, even more colossal than Brown's.
+
+The second Problem of Knot VI. is an example in ordinary Double Rule of
+Three, whose essential feature is that the result depends on the
+variation of several elements, which are so related to it that, if all
+but one be constant, it varies as that one: hence, if none be constant,
+it varies as their product. Thus, for example, the cubical contents of a
+rectangular tank vary as its length, if breadth and depth be constant,
+and so on; hence, if none be constant, it varies as the product of the
+length, breadth, and depth.
+
+When the result is not thus connected with the varying elements, the
+Problem ceases to be Double Rule of Three and often becomes one of great
+complexity.
+
+To illustrate this, let us take two candidates for a prize, _A_ and _B_,
+who are to compete in French, German, and Italian:
+
+(_a_) Let it be laid down that the result is to depend on their
+_relative_ knowledge of each subject, so that, whether their marks, for
+French, be "1, 2" or "100, 200," the result will be the same: and let it
+also be laid down that, if they get equal marks on 2 papers, the final
+marks are to have the same ratio as those of the 3rd paper. This is a
+case of ordinary Double Rule of Three. We multiply _A_'s 3 marks
+together, and do the same for _B_. Note that, if _A_ gets a single "0,"
+his final mark is "0," even if he gets full marks for 2 papers while _B_
+gets only one mark for each paper. This of course would be very unfair
+on _A_, though a correct solution under the given conditions.
+
+(_b_) The result is to depend, as before, on _relative_ knowledge; but
+French is to have twice as much weight as German or Italian. This is an
+unusual form of question. I should be inclined to say "the resulting
+ratio is to be nearer to the French ratio than if we multiplied as in
+(_a_), and so much nearer that it would be necessary to use the other
+multipliers _twice_ to produce the same result as in (_a_):" _e.g._ if
+the French Ratio were 9/10, and the others 4/9, 1/9 so that the ultimate
+ratio, by method (_a_), would be 2/45, I should multiply instead by 2/3,
+1/3, giving the result, 1/3 which is nearer to 9/10 than if he had used
+method (_a_).
+
+(_c_) The result is to depend on _actual_ amount of knowledge of the 3
+subjects collectively. Here we have to ask two questions. (1) What is
+to be the "unit" (_i.e._ "standard to measure by") in each subject? (2)
+Are these units to be of equal, or unequal value? The usual "unit" is
+the knowledge shown by answering the whole paper correctly; calling this
+"100," all lower amounts are represented by numbers between "0" and
+"100." Then, if these units are to be of equal value, we simply add
+_A_'s 3 marks together, and do the same for _B_.
+
+(_d_) The conditions are the same as (_c_), but French is to have double
+weight. Here we simply double the French marks, and add as before.
+
+(_e_) French is to have such weight, that, if other marks be equal, the
+ultimate ratio is to be that of the French paper, so that a "0" in this
+would swamp the candidate: but the other two subjects are only to affect
+the result collectively, by the amount of knowledge shown, the two being
+reckoned of equal value. Here I should add _A_'s German and Italian
+marks together, and multiply by his French mark.
+
+But I need not go on: the problem may evidently be set with many varying
+conditions, each requiring its own method of solution. The Problem in
+Knot VI. was meant to belong to variety (_a_), and to make this clear, I
+inserted the following passage:
+
+"Usually the competitors differ in one point only. Thus, last year, Fifi
+and Gogo made the same number of scarves in the trial week, and they
+were equally light; but Fifi's were twice as warm as Gogo's, and she was
+pronounced twice as good."
+
+What I have said will suffice, I hope, as an answer to BALBUS, who holds
+that (_a_) and (_c_) are the only possible varieties of the problem, and
+that to say "We cannot use addition, therefore we must be intended to
+use multiplication," is "no more illogical than, from knowledge that one
+was not born in the night, to infer that he was born in the daytime";
+and also to FIFEE, who says "I think a little more consideration will
+show you that our 'error of _adding_ the proportional numbers together
+for each candidate instead of _multiplying_' is no error at all." Why,
+even if addition _had_ been the right method to use, not one of the
+writers (I speak from memory) showed any consciousness of the necessity
+of fixing a "unit" for each subject. "No error at all!" They were
+positively steeped in error!
+
+One correspondent (I do not name him, as the communication is not quite
+friendly in tone) writes thus:--"I wish to add, very respectfully, that
+I think it would be in better taste if you were to abstain from the very
+trenchant expressions which you are accustomed to indulge in when
+criticising the answer. That such a tone must not be" ("be not"?)
+"agreeable to the persons concerned who have made mistakes may possibly
+have no great weight with you, but I hope you will feel that it would be
+as well not to employ it, _unless you are quite certain of being correct
+yourself_." The only instances the writer gives of the "trenchant
+expressions" are "hapless" and "malefactors." I beg to assure him (and
+any others who may need the assurance: I trust there are none) that all
+such words have been used in jest, and with no idea that they could
+possibly annoy any one, and that I sincerely regret any annoyance I may
+have thus inadvertently given. May I hope that in future they will
+recognise the distinction between severe language used in sober earnest,
+and the "words of unmeant bitterness," which Coleridge has alluded to in
+that lovely passage beginning "A little child, a limber elf"? If the
+writer will refer to that passage, or to the preface to "Fire, Famine,
+and Slaughter," he will find the distinction, for which I plead, far
+better drawn out than I could hope to do in any words of mine.
+
+The writer's insinuation that I care not how much annoyance I give to my
+readers I think it best to pass over in silence; but to his concluding
+remark I must entirely demur. I hold that to use language likely to
+annoy any of my correspondents would not be in the least justified by
+the plea that I was "quite certain of being correct." I trust that the
+knot-untiers and I are not on such terms as those!
+
+I beg to thank _G. B._ for the offer of a puzzle--which, however, is too
+like the old one "Make four 9's into 100."
+
+
+ANSWERS TO KNOT VIII.
+
+§ 1. THE PIGS.
+
+_Problem._--Place twenty-four pigs in four sties so that, as you go
+round and round, you may always find the number in each sty nearer to
+ten than the number in the last.
+
+_Answer._--Place 8 pigs in the first sty, 10 in the second, nothing in
+the third, and 6 in the fourth: 10 is nearer ten than 8; nothing is
+nearer ten than 10; 6 is nearer ten than nothing; and 8 is nearer ten
+than 6.
+
+       *       *       *       *       *
+
+This problem is noticed by only two correspondents. BALBUS says "it
+certainly cannot be solved mathematically, nor do I see how to solve it
+by any verbal quibble." NOLENS VOLENS makes Her Radiancy change the
+direction of going round; and even then is obliged to add "the pigs must
+be carried in front of her"!
+
+§ 2. THE GRURMSTIPTHS.
+
+_Problem._--Omnibuses start from a certain point, both ways, every 15
+minutes. A traveller, starting on foot along with one of them, meets
+one in 12-1/2 minutes: when will he be overtaken by one?
+
+_Answer._--In 6-1/4 minutes.
+
+       *       *       *       *       *
+
+_Solution._--Let "_a_" be the distance an omnibus goes in 15 minutes,
+and "_x_" the distance from the starting-point to where the traveller is
+overtaken. Since the omnibus met is due at the starting-point in 2-1/2
+minutes, it goes in that time as far as the traveller walks in 12-1/2;
+_i.e._ it goes 5 times as fast. Now the overtaking omnibus is "_a_"
+behind the traveller when he starts, and therefore goes "_a_ + _x_"
+while he goes "_x_." Hence _a_ + _x_ = 5_x_; _i.e._ 4_x_ = _a_, and _x_
+= _a_/4. This distance would be traversed by an omnibus in 15/4 minutes,
+and therefore by the traveller in 5 × 15/4. Hence he is overtaken in
+18-3/4 minutes after starting, _i.e._ in 6-1/4 minutes after meeting the
+omnibus.
+
+       *       *       *       *       *
+
+Four answers have been received, of which two are wrong. DINAH MITE
+rightly states that the overtaking omnibus reached the point where they
+met the other omnibus 5 minutes after they left, but wrongly concludes
+that, going 5 times as fast, it would overtake them in another minute.
+The travellers are 5-minutes-walk ahead of the omnibus, and must walk
+1-4th of this distance farther before the omnibus overtakes them, which
+will be 1-5th of the distance traversed by the omnibus in the same time:
+this will require 1-1/4 minutes more. NOLENS VOLENS tries it by a
+process like "Achilles and the Tortoise." He rightly states that, when
+the overtaking omnibus leaves the gate, the travellers are 1-5th of
+"_a_" ahead, and that it will take the omnibus 3 minutes to traverse
+this distance; "during which time" the travellers, he tells us, go
+1-15th of "_a_" (this should be 1-25th). The travellers being now 1-15th
+of "_a_" ahead, he concludes that the work remaining to be done is for
+the travellers to go 1-60th of "_a_," while the omnibus goes l-12th. The
+_principle_ is correct, and might have been applied earlier.
+
+
+CLASS LIST.
+
+I.
+
+   BALBUS.
+   DELTA.
+
+
+ANSWERS TO KNOT IX.
+
+
+§ 1. THE BUCKETS.
+
+_Problem._--Lardner states that a solid, immersed in a fluid, displaces
+an amount equal to itself in bulk. How can this be true of a small
+bucket floating in a larger one?
+
+_Solution._--Lardner means, by "displaces," "occupies a space which
+might be filled with water without any change in the surroundings." If
+the portion of the floating bucket, which is above the water, could be
+annihilated, and the rest of it transformed into water, the surrounding
+water would not change its position: which agrees with Lardner's
+statement.
+
+       *       *       *       *       *
+
+Five answers have been received, none of which explains the difficulty
+arising from the well-known fact that a floating body is the same weight
+as the displaced fluid. HECLA says that "only that portion of the
+smaller bucket which descends below the original level of the water can
+be properly said to be immersed, and only an equal bulk of water is
+displaced." Hence, according to HECLA, a solid, whose weight was equal
+to that of an equal bulk of water, would not float till the whole of it
+was below "the original level" of the water: but, as a matter of fact,
+it would float as soon as it was all under water. MAGPIE says the
+fallacy is "the assumption that one body can displace another from a
+place where it isn't," and that Lardner's assertion is incorrect, except
+when the containing vessel "was originally full to the brim." But the
+question of floating depends on the present state of things, not on past
+history. OLD KING COLE takes the same view as HECLA. TYMPANUM and VINDEX
+assume that "displaced" means "raised above its original level," and
+merely explain how it comes to pass that the water, so raised, is less
+in bulk than the immersed portion of bucket, and thus land
+themselves--or rather set themselves floating--in the same boat as
+HECLA.
+
+I regret that there is no Class-list to publish for this Problem.
+
+       *       *       *       *       *
+
+
+§ 2. BALBUS' ESSAY.
+
+_Problem._--Balbus states that if a certain solid be immersed in a
+certain vessel of water, the water will rise through a series of
+distances, two inches, one inch, half an inch, &c., which series has no
+end. He concludes that the water will rise without limit. Is this true?
+
+_Solution._--No. This series can never reach 4 inches, since, however
+many terms we take, we are always short of 4 inches by an amount equal
+to the last term taken.
+
+       *       *       *       *       *
+
+Three answers have been received--but only two seem to me worthy of
+honours.
+
+TYMPANUM says that the statement about the stick "is merely a blind, to
+which the old answer may well be applied, _solvitur ambulando_, or
+rather _mergendo_." I trust TYMPANUM will not test this in his own
+person, by taking the place of the man in Balbus' Essay! He would
+infallibly be drowned.
+
+OLD KING COLE rightly points out that the series, 2, 1, &c., is a
+decreasing Geometrical Progression: while VINDEX rightly identifies the
+fallacy as that of "Achilles and the Tortoise."
+
+
+CLASS LIST.
+
+I.
+
+   OLD KING COLE.
+   VINDEX.
+
+       *       *       *       *       *
+
+
+§ 3. THE GARDEN.
+
+_Problem._--An oblong garden, half a yard longer than wide, consists
+entirely of a gravel-walk, spirally arranged, a yard wide and 3,630
+yards long. Find the dimensions of the garden.
+
+_Answer._--60, 60-1/2.
+
+_Solution._--The number of yards and fractions of a yard traversed in
+walking along a straight piece of walk, is evidently the same as the
+number of square-yards and fractions of a square-yard, contained in that
+piece of walk: and the distance, traversed in passing through a
+square-yard at a corner, is evidently a yard. Hence the area of the
+garden is 3,630 square-yards: _i.e._, if _x_ be the width, _x_ (_x_ +
+1/2) = 3,630. Solving this Quadratic, we find _x_ = 60. Hence the
+dimensions are 60, 60-1/2.
+
+       *       *       *       *       *
+
+Twelve answers have been received--seven right and five wrong.
+
+C. G. L., NABOB, OLD CROW, and TYMPANUM assume that the number of yards
+in the length of the path is equal to the number of square-yards in the
+garden. This is true, but should have been proved. But each is guilty of
+darker deeds. C. G. L.'s "working" consists of dividing 3,630 by 60.
+Whence came this divisor, oh Segiel? Divination? Or was it a dream? I
+fear this solution is worth nothing. OLD CROW'S is shorter, and so (if
+possible) worth rather less. He says the answer "is at once seen to be
+60 × 60-1/2"! NABOB'S calculation is short, but "as rich as a Nabob" in
+error. He says that the square root of 3,630, multiplied by 2, equals
+the length plus the breadth. That is 60.25 × 2 = 120-1/2. His first
+assertion is only true of a _square_ garden. His second is irrelevant,
+since 60.25 is _not_ the square-root of 3,630! Nay, Bob, this will _not_
+do! TYMPANUM says that, by extracting the square-root of 3,630, we get
+60 yards with a remainder of 30/60, or half-a-yard, which we add so as
+to make the oblong 60 × 60-1/2. This is very terrible: but worse remains
+behind. TYMPANUM proceeds thus:--"But why should there be the half-yard
+at all? Because without it there would be no space at all for flowers.
+By means of it, we find reserved in the very centre a small plot of
+ground, two yards long by half-a-yard wide, the only space not occupied
+by walk." But Balbus expressly said that the walk "used up the whole of
+the area." Oh, TYMPANUM! My tympa is exhausted: my brain is num! I can
+say no more.
+
+HECLA indulges, again and again, in that most fatal of all habits in
+computation--the making _two_ mistakes which cancel each other. She
+takes _x_ as the width of the garden, in yards, and _x_ + 1/2 as its
+length, and makes her first "coil" the sum of _x_-1/2, _x_-1/2, _x_-1,
+_x_-1, _i.e._ 4_x_-3: but the fourth term should be _x_-1-1/2, so that
+her first coil is 1/2 a yard too long. Her second coil is the sum of
+_x_-2-1/2, _x_-2-1/2, _x_-3, _x_-3: here the first term should be _x_-2
+and the last _x_-3-1/2: these two mistakes cancel, and this coil is
+therefore right. And the same thing is true of every other coil but the
+last, which needs an extra half-yard to reach the _end_ of the path: and
+this exactly balances the mistake in the first coil. Thus the sum total
+of the coils comes right though the working is all wrong.
+
+Of the seven who are right, DINAH MITE, JANET, MAGPIE, and TAFFY make
+the same assumption as C. G. L. and Co. They then solve by a Quadratic.
+MAGPIE also tries it by Arithmetical Progression, but fails to notice
+that the first and last "coils" have special values.
+
+ALUMNUS ETONÆ attempts to prove what C. G. L. assumes by a particular
+instance, taking a garden 6 by 5-1/2. He ought to have proved it
+generally: what is true of one number is not always true of others. OLD
+KING COLE solves it by an Arithmetical Progression. It is right, but too
+lengthy to be worth as much as a Quadratic.
+
+VINDEX proves it very neatly, by pointing out that a yard of walk
+measured along the middle represents a square yard of garden, "whether
+we consider the straight stretches of walk or the square yards at the
+angles, in which the middle line goes half a yard in one direction and
+then turns a right angle and goes half a yard in another direction."
+
+
+CLASS LIST.
+
+I.
+
+   VINDEX.
+
+II.
+
+   ALUMNUS ETONÆ.
+   OLD KING COLE.
+
+III.
+
+   DINAH MITE.
+   JANET.
+   MAGPIE.
+   TAFFY.
+
+
+ANSWERS TO KNOT X.
+
+
+§ 1. THE CHELSEA PENSIONERS.
+
+_Problem._--If 70 per cent. have lost an eye, 75 per cent. an ear, 80
+per cent. an arm, 85 per cent. a leg: what percentage, _at least_, must
+have lost all four?
+
+_Answer._--Ten.
+
+
+_Solution._--(I adopt that of POLAR STAR, as being better than my own).
+Adding the wounds together, we get 70 + 75 + 80 + 85 = 310, among 100
+men; which gives 3 to each, and 4 to 10 men. Therefore the least
+percentage is 10.
+
+       *       *       *       *       *
+
+Nineteen answers have been received. One is "5," but, as no working is
+given with it, it must, in accordance with the rule, remain "a deed
+without a name." JANET makes it "35 and 7/10ths." I am sorry she has
+misunderstood the question, and has supposed that those who had lost an
+ear were 75 per cent. _of those who had lost an eye_; and so on. Of
+course, on this supposition, the percentages must all be multiplied
+together. This she has done correctly, but I can give her no honours,
+as I do not think the question will fairly bear her interpretation,
+THREE SCORE AND TEN makes it "19 and 3/8ths." Her solution has given
+me--I will not say "many anxious days and sleepless nights," for I wish
+to be strictly truthful, but--some trouble in making any sense at all of
+it. She makes the number of "pensioners wounded once" to be 310 ("per
+cent.," I suppose!): dividing by 4, she gets 77 and a half as "average
+percentage:" again dividing by 4, she gets 19 and 3/8ths as "percentage
+wounded four times." Does she suppose wounds of different kinds to
+"absorb" each other, so to speak? Then, no doubt, the _data_ are
+equivalent to 77 pensioners with one wound each, and a half-pensioner
+with a half-wound. And does she then suppose these concentrated wounds
+to be _transferable_, so that 3/4ths of these unfortunates can obtain
+perfect health by handing over their wounds to the remaining 1/4th?
+Granting these suppositions, her answer is right; or rather, _if_ the
+question had been "A road is covered with one inch of gravel, along 77
+and a half per cent. of it. How much of it could be covered 4 inches
+deep with the same material?" her answer _would_ have been right. But
+alas, that _wasn't_ the question! DELTA makes some most amazing
+assumptions: "let every one who has not lost an eye have lost an ear,"
+"let every one who has not lost both eyes and ears have lost an arm."
+Her ideas of a battle-field are grim indeed. Fancy a warrior who would
+continue fighting after losing both eyes, both ears, and both arms! This
+is a case which she (or "it?") evidently considers _possible_.
+
+Next come eight writers who have made the unwarrantable assumption that,
+because 70 per cent. have lost an eye, _therefore_ 30 per cent. have
+_not_ lost one, so that they have _both_ eyes. This is illogical. If you
+give me a bag containing 100 sovereigns, and if in an hour I come to you
+(my face _not_ beaming with gratitude nearly so much as when I received
+the bag) to say "I am sorry to tell you that 70 of these sovereigns are
+bad," do I thereby guarantee the other 30 to be good? Perhaps I have not
+tested them yet. The sides of this illogical octagon are as follows, in
+alphabetical order:--ALGERNON BRAY, DINAH MITE, G. S. C., JANE E., J. D.
+W., MAGPIE (who makes the delightful remark "therefore 90 per cent. have
+two of something," recalling to one's memory that fortunate monarch,
+with whom Xerxes was so much pleased that "he gave him ten of
+everything!"), S. S. G., and TOKIO.
+
+BRADSHAW OF THE FUTURE and T. R. do the question in a piecemeal
+fashion--on the principle that the 70 per cent. and the 75 per cent.,
+though commenced at opposite ends of the 100, must overlap by _at least_
+45 per cent.; and so on. This is quite correct working, but not, I
+think, quite the best way of doing it.
+
+The other five competitors will, I hope, feel themselves sufficiently
+glorified by being placed in the first class, without my composing a
+Triumphal Ode for each!
+
+
+CLASS LIST.
+
+I.
+
+   OLD CAT.
+   OLD HEN.
+   POLAR STAR.
+   SIMPLE SUSAN.
+   WHITE SUGAR.
+
+II.
+
+   BRADSHAW OF THE FUTURE.
+   T. R.
+
+III.
+
+   ALGERNON BRAY.
+   DINAH MITE.
+   G. S. C.
+   JANE E.
+   J. D. W.
+   MAGPIE.
+   S. S. G.
+   TOKIO.
+
+
+§ 2. CHANGE OF DAY.
+
+I must postpone, _sine die_, the geographical problem--partly because I
+have not yet received the statistics I am hoping for, and partly because
+I am myself so entirely puzzled by it; and when an examiner is himself
+dimly hovering between a second class and a third how is he to decide
+the position of others?
+
+
+§ 3. THE SONS' AGES.
+
+_Problem._--"At first, two of the ages are together equal to the third.
+A few years afterwards, two of them are together double of the third.
+When the number of years since the first occasion is two-thirds of the
+sum of the ages on that occasion, one age is 21. What are the other two?
+
+_Answer._--"15 and 18."
+
+       *       *       *       *       *
+
+_Solution._--Let the ages at first be _x_, _y_, (_x_ + _y_). Now, if _a_
++ _b_ = 2_c_, then (_a_-_n_) + (_b_-_n_) = 2(_c_-_n_), whatever be the
+value of _n_. Hence the second relationship, if _ever_ true, was
+_always_ true. Hence it was true at first. But it cannot be true that
+_x_ and _y_ are together double of (_x_ + _y_). Hence it must be true of
+(_x_ + _y_), together with _x_ or _y_; and it does not matter which we
+take. We assume, then, (_x_ + _y_) + _x_ = 2_y_; _i.e._ _y_ = 2_x_.
+Hence the three ages were, at first, _x_, 2_x_, 3_x_; and the number of
+years, since that time is two-thirds of 6_x_, _i.e._ is 4_x_. Hence the
+present ages are 5_x_, 6_x_, 7_x_. The ages are clearly _integers_,
+since this is only "the year when one of my sons comes of age." Hence
+7_x_ = 21, _x_ = 3, and the other ages are 15, 18.
+
+       *       *       *       *       *
+
+Eighteen answers have been received. One of the writers merely asserts
+that the first occasion was 12 years ago, that the ages were then 9, 6,
+and 3; and that on the second occasion they were 14, 11, and 8! As a
+Roman father, I _ought_ to withhold the name of the rash writer; but
+respect for age makes me break the rule: it is THREE SCORE AND TEN. JANE
+E. also asserts that the ages at first were 9, 6, 3: then she calculates
+the present ages, leaving the _second_ occasion unnoticed. OLD HEN is
+nearly as bad; she "tried various numbers till I found one that fitted
+_all_ the conditions"; but merely scratching up the earth, and pecking
+about, is _not_ the way to solve a problem, oh venerable bird! And close
+after OLD HEN prowls, with hungry eyes, OLD CAT, who calmly assumes, to
+begin with, that the son who comes of age is the _eldest_. Eat your
+bird, Puss, for you will get nothing from me!
+
+There are yet two zeroes to dispose of. MINERVA assumes that, on _every_
+occasion, a son comes of age; and that it is only such a son who is
+"tipped with gold." Is it wise thus to interpret "now, my boys,
+calculate your ages, and you shall have the money"? BRADSHAW OF THE
+FUTURE says "let" the ages at first be 9, 6, 3, then assumes that the
+second occasion was 6 years afterwards, and on these baseless
+assumptions brings out the right answers. Guide _future_ travellers, an
+thou wilt: thou art no Bradshaw for _this_ Age!
+
+Of those who win honours, the merely "honourable" are two. DINAH MITE
+ascertains (rightly) the relationship between the three ages at first,
+but then _assumes_ one of them to be "6," thus making the rest of her
+solution tentative. M. F. C. does the algebra all right up to the
+conclusion that the present ages are 5_z_, 6_z_, and 7_z_; it then
+assumes, without giving any reason, that 7_z_ = 21.
+
+Of the more honourable, DELTA attempts a novelty--to discover _which_
+son comes of age by elimination: it assumes, successively, that it is
+the middle one, and that it is the youngest; and in each case it
+_apparently_ brings out an absurdity. Still, as the proof contains the
+following bit of algebra, "63 = 7_x_ + 4_y_; [** therefore] 21 = _x_ + 4
+sevenths of _y_," I trust it will admit that its proof is not _quite_
+conclusive. The rest of its work is good. MAGPIE betrays the deplorable
+tendency of her tribe--to appropriate any stray conclusion she comes
+across, without having any _strict_ logical right to it. Assuming _A_,
+_B_, _C_, as the ages at first, and _D_ as the number of the years that
+have elapsed since then, she finds (rightly) the 3 equations, 2_A_ =
+_B_, _C_ = _B_ + _A_, _D_ = 2_B_. She then says "supposing that _A_ = 1,
+then _B_ = 2, _C_ = 3, and _D_ = 4. Therefore for _A_, _B_, _C_, _D_,
+four numbers are wanted which shall be to each other as 1:2:3:4." It is
+in the "therefore" that I detect the unconscientiousness of this bird.
+The conclusion _is_ true, but this is only because the equations are
+"homogeneous" (_i.e._ having one "unknown" in each term), a fact which I
+strongly suspect had not been grasped--I beg pardon, clawed--by her.
+Were I to lay this little pitfall, "_A_ + 1 = _B_, _B_ + 1 = _C_;
+supposing _A_ = 1, then _B_ = 2 and _C_ = 3. _Therefore_ for _A_, _B_,
+_C_, three numbers are wanted which shall be to one another as 1:2:3,"
+would you not flutter down into it, oh MAGPIE, as amiably as a Dove?
+SIMPLE SUSAN is anything but simple to _me_. After ascertaining that the
+3 ages at first are as 3:2:1, she says "then, as two-thirds of their
+sum, added to one of them, = 21, the sum cannot exceed 30, and
+consequently the highest cannot exceed 15." I suppose her (mental)
+argument is something like this:--"two-thirds of sum, + one age, = 21;
+[** therefore] sum, + 3 halves of one age, = 31 and a half. But 3 halves of
+one age cannot be less than 1 and-a-half (here I perceive that SIMPLE
+SUSAN would on no account present a guinea to a new-born baby!) hence
+the sum cannot exceed 30." This is ingenious, but her proof, after that,
+is (as she candidly admits) "clumsy and roundabout." She finds that
+there are 5 possible sets of ages, and eliminates four of them. Suppose
+that, instead of 5, there had been 5 million possible sets? Would SIMPLE
+SUSAN have courageously ordered in the necessary gallon of ink and ream
+of paper?
+
+The solution sent in by C. R. is, like that of SIMPLE SUSAN, partly
+tentative, and so does not rise higher than being Clumsily Right.
+
+Among those who have earned the highest honours, ALGERNON BRAY solves
+the problem quite correctly, but adds that there is nothing to exclude
+the supposition that all the ages were _fractional_. This would make the
+number of answers infinite. Let me meekly protest that I _never_
+intended my readers to devote the rest of their lives to writing out
+answers! E. M. RIX points out that, if fractional ages be admissible,
+any one of the three sons might be the one "come of age"; but she
+rightly rejects this supposition on the ground that it would make the
+problem indeterminate. WHITE SUGAR is the only one who has detected an
+oversight of mine: I had forgotten the possibility (which of course
+ought to be allowed for) that the son, who came of age that _year_, need
+not have done so by that _day_, so that he _might_ be only 20. This
+gives a second solution, viz., 20, 24, 28. Well said, pure Crystal!
+Verily, thy "fair discourse hath been as sugar"!
+
+
+CLASS LIST.
+
+I.
+
+   ALGERNON BRAY.
+   AN OLD FOGEY.
+   E. M. RIX.
+   G. S. C.
+   S. S. G.
+   TOKIO.
+   T. R.
+   WHITE SUGAR.
+
+II.
+
+   C. R.
+   DELTA.
+   MAGPIE.
+   SIMPLE SUSAN.
+
+III.
+
+   DINAH MITE.
+   M. F. C.
+
+       *       *       *       *       *
+
+I have received more than one remonstrance on my assertion, in the
+Chelsea Pensioners' problem, that it was illogical to assume, from the
+_datum_ "70 p. c. have lost an eye," that 30 p. c. have _not_. ALGERNON
+BRAY states, as a parallel case, "suppose Tommy's father gives him 4
+apples, and he eats one of them, how many has he left?" and says "I
+think we are justified in answering, 3." I think so too. There is no
+"must" here, and the _data_ are evidently meant to fix the answer
+_exactly_: but, if the question were set me "how many _must_ he have
+left?", I should understand the _data_ to be that his father gave him 4
+_at least_, but _may_ have given him more.
+
+I take this opportunity of thanking those who have sent, along with
+their answers to the Tenth Knot, regrets that there are no more Knots to
+come, or petitions that I should recall my resolution to bring them to
+an end. I am most grateful for their kind words; but I think it wisest
+to end what, at best, was but a lame attempt. "The stretched metre of an
+antique song" is beyond my compass; and my puppets were neither
+distinctly _in_ my life (like those I now address), nor yet (like Alice
+and the Mock Turtle) distinctly _out_ of it. Yet let me at least fancy,
+as I lay down the pen, that I carry with me into my silent life, dear
+reader, a farewell smile from your unseen face, and a kindly farewell
+pressure from your unfelt hand! And so, good night! Parting is such
+sweet sorrow, that I shall say "good night!" till it be morrow.
+
+THE END
+
+LONDON: RICHARD CLAY AND SONS, PRINTERS.
+
+[TURN OVER.
+
+
+
+
+WORKS BY LEWIS CARROLL.
+
+
+ALICE'S ADVENTURES IN WONDERLAND.
+
+With Forty-two Illustrations by TENNIEL. Crown 8vo, cloth, gilt edges,
+price 6_s._ Seventy-fifth Thousand.
+
+TRANSLATIONS OF THE SAME--into French, by HENRI BUÉ--into German, by
+ANTONIE ZIMMERMANN--and into Italian, by T. PIETROCÒLA ROSSETTI--with
+TENNIEL'S Illustrations. Crown 8vo, cloth, gilt edges, price 6_s._ each.
+
+THROUGH THE LOOKING-GLASS, AND WHAT ALICE FOUND THERE. With Fifty
+Illustrations by TENNIEL. Crown 8vo, cloth, gilt edges, price 6_s._
+Fifty-sixth Thousand.
+
+RHYME? AND REASON? With Sixty-five Illustrations by ARTHUR B. FROST, and
+Nine by HENRY HOLIDAY. (This book is a reprint, with a few additions, of
+the comic portion of "Phantasmagoria and other Poems," and of "The
+Hunting of the Snark." Mr. Frost's pictures are new.) Crown 8vo, cloth,
+coloured edges, price 7_s._ Fifty Thousand.
+
+A TANGLED TALE. Reprinted from _The Monthly Packet_. With Six
+Illustrations by Arthur B. Frost. Crown 8vo, 4_s._ 6_d._
+
+       *       *       *       *       *
+
+N.B. In selling the above-mentioned books to the Trade, Messrs.
+Macmillan and Co. will abate 2_d._ in the shilling (no odd copies), and
+allow 5 per cent. discount for payment within six months, and 10 per
+cent. for cash. In selling them to the Public (for cash only) they will
+allow 10 per cent. discount.
+
+       *       *       *       *       *
+
+MR. LEWIS CARROLL, having been requested to allow "AN EASTER GREETING"
+(a leaflet, addressed to children, and frequently given with his books)
+to be sold separately, has arranged with Messrs. Harrison, of 59, Pall
+Mall, who will supply a single copy for 1_d._, or 12 for 9_d._, or 100
+for 5_s._
+
+MACMILLAN AND CO., LONDON.
+
+LONDON: RICHARD CLAY AND SONS, PRINTERS.
+
+       *       *       *       *       *
+
+Transcriber's note
+
+
+The following changes have been made to the text:
+
+Page 88: "he corners of the" changed to "the corners of the".
+
+Page 95: "Aix-le-Bains" changed to "Aix-les-Bains".
+
+Page 108: "3/5, 2, 1/3" changed to "3/5, 2/3, 1/3".
+
+Page 114:  "10 of the 12 cases" changed to "10 of the 13 cases".
+
+Page 121: "four-and fourpence" changed to "four-and-fourpence".
+
+Last page: "Fifth Thousand" changed to "Fifty Thousand".
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of A Tangled Tale, by Lewis Carroll
+
+*** END OF THIS PROJECT GUTENBERG EBOOK A TANGLED TALE ***
+
+***** This file should be named 29042-8.txt or 29042-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/9/0/4/29042/
+
+Produced by Chris Curnow, Carla Foust, Lindy Walsh and the
+Online Distributed Proofreading Team at http://www.pgdp.net.
+Music transcribed by Linda Cantoni.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

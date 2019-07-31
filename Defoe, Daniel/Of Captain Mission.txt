@@ -1,0 +1,1989 @@
+The Project Gutenberg EBook of Of Captain Mission, by Daniel Defoe
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Of Captain Mission
+
+Author: Daniel Defoe
+
+
+Release Date: March, 2005 [EBook #7779]
+This file was first posted on May 16, 2003
+Last updated: May 1, 2013
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK OF CAPTAIN MISSION ***
+
+
+
+
+Produced by David Starner, Deirdre Menchaca, Ted Garvin
+and the Online Distributed Proofreading Team
+
+
+
+
+
+
+
+
+
+
+OF CAPTAIN MISSON
+
+From "The History Of The Pyrates. Vol. II."
+
+
+By Daniel Defoe
+
+
+GENERAL EDITORS
+
+Richard C. Boys, _University of Michigan_ Ralph Cohen, _University of
+California, Los Angeles_ Vinton A. Dearing, _University of California,
+Los Angeles_ Lawrence Clark Powell, _Clark Memorial Library_
+
+
+ASSISTANT EDITOR
+
+W. Earl Britton, _University of Michigan_
+
+
+ADVISORY EDITORS
+
+Emmett L. Avery, _State College of Washington_ Benjamin Boyce, _Duke
+University_ Louis Bredvold, _University of Michigan_ John Butt,
+_University of Edinburgh_ James L. Clifford, _Columbia University_
+Arthur Friedman, _University of Chicago_ Louis A. Landa, _Princeton
+University_ Samuel H. Monk, _University of Minnesota_ Ernest C. Mossner,
+_University of Texas_ James Sutherland, _University College, London_
+H.T. Swedenberg, Jr., _University of California, Los Angeles_
+
+
+CORRESPONDING SECRETARY
+
+Edna C. Davis, _Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+Defoe has been recognized as the author of _A General History of the
+Robberies and Murders of the Most Notorious Pyrates_ since 1932 when
+John Robert Moore suggested that the supposed author, Captain Charles
+Johnson, like Andrew Moreton, Kara Selym or Captain Roberts, was merely
+another mask for the creator of _Robinson Crusoe_. Although most of the
+first volume is of minor literary importance, the second section which
+appeared in 1728 as _The History of the Pyrates_ commenced with a life
+"Of Captain Misson and His Crew," one of Defoe's most remarkable and
+neglected works of fiction. In much the same manner and at the same time
+that John Gay was satirizing Walpole's government in _The Beggar's
+Opera_, Defoe began to use his pirates as a commentary on the injustice
+and hypocrisy of contemporary English society. Among Defoe's gallery of
+pirates are Captain White, who refused to rob from women and children;
+Captain Bellamy, the proletarian revolutionist; and captain North, whose
+sense of justice and honesty was a rebuke to the corruption of
+government under Walpole. But the fictional Captain Misson, the founder
+of a communist utopia, is by far the most original of these creations.
+
+If we were to accept the view of nineteenth-century critics, that Defoe
+was one of the earliest exponents of _laissez faire_, his creation of a
+communist utopia would seem remarkable indeed. But paradoxes fascinated
+Defoe, and his ideas can seldom be reduced to unambiguous platitudes. He
+was especially fascinated by the comparison between businessmen and
+thieves. In 1707 he urged the government to pardon the Madagascar
+pirates if they agreed to stop their crimes, pay a large sum of money
+and "become honest Freeholders, as others of our _West-India_ Pyrates,
+_Merchants I should have said_, have done before them." And he noted
+that "it would make a sad Chasm on the _Exchange of London_, if all the
+Pyrates should be taken away from the Merchants there."[1] Twelve years
+later just before the start of the South Sea Bubble, Defoe attacked
+stock-jobbing as "a Branch of Highway Robbing."[2]
+
+Although these attacks were directed mainly at "trade thieves" and
+corruptions in business practices, they reflect Defoe's growing concern
+with problems of poverty and wealth in England. In his preface to the
+first volume of the _General History of the Pyrates_, Defoe argued that
+the unemployed seaman had no choice but to "_steal or starve_." When the
+pirate, Captain Bellamy, boards a merchant ship from Boston, he attacks
+the inequality of capitalist society, the ship owners, and most of all,
+the Captain:
+
+_damn ye, you are a sneaking Puppy, and so are all those who will submit
+to be governed by Laws which rich Men have made for their own Security,
+for the cowardly Whelps have not the Courage otherwise to defend what
+they get by their Knavery; but damn ye altogether: Damn them for a Pack
+of crafty Rascals, and you, who serve them, for a Parcel of hen-hearted
+Numskuls. They villify us, the Scoundrels do, when there is only this
+Difference, they rob the Poor under the Cover of Law, forsooth, and we
+plunder the Rich under the Protection of our own Courage._[3]
+
+Bellamy asks the crew of the captured ship to abandon the slavery of
+working for low wages under severe captains for the complete economic
+and political equality of life on a pirate ship.
+
+Government on Captain Misson's ship, the _Victoire_, and in the colony
+of Libertalia is partially an idealization of the pirate's creed. But
+two other elements which must be considered are, first, the concept of
+government in the state of nature, and secondly, the ideal of the
+socialist utopia. Most political theorists of Defoe's time postulated a
+state of nature in which man lived either entirely free from government
+or under loose patriarchal control, from which he was removed either by
+the invention of money, the discovery of agriculture or by some crime.
+To a certain extent, Misson's pirate government may be regarded as a
+stage in the evolution of government. In _The Farther Adventures of
+Robinson Crusoe_, Defoe showed how government evolved from the anarchy
+of the state of nature. Both Crusoe's colony and Libertalia are
+eventually forced to establish government, private property and criminal
+laws, but Libertalia, which retains its egalitarian and democratic
+character, is overthrown by its failure to account for human evil and
+crime.
+
+A second influence on Captain Misson's ideology is Plutarch's
+description of the laws of Sparta and Rome. Even during the
+"Anti-Communist Period" which followed the Glorious Revolution, the
+well-regulated state of the Lacedemonians remained the norm for Utopias.
+The influence of Plutarch pervades the biographies in the _General
+History of the Pyrates._ Lycurgus' laws echo throughout Misson's attacks
+on luxury and the unequal distribution of wealth, while Plutarch's study
+of Spartacus, which is mentioned in Defoe's preface, may well have been
+the model for his hero.
+
+But neither the desire to regain the purity of the state of nature nor
+an admiration for Spartan simplicity entirely explain Misson's vigorous
+demand for freedom and his attacks on the corruption of the ruling
+class. By refusing to fly the pirate flag, Misson dramatizes the growing
+revolt of the poor against a useless nobility. The crew of the
+_Victoire_ are, prophetically enough, French. Their aspiration is for a
+society following the precepts of _la carrière ouverte aux talents_;
+their revolt is that of a few courageous men unafraid to engage in the
+pirate's "war against mankind" while those of lesser courage "dance to
+the Musick of their Chains."
+
+Defoe's study of Misson is different from the Utopias of More, Bacon or
+Campanella in so far as there is no discovery of an ideal civilization.
+Libertalia is a Utopia which reflects a direct reaction to the abuses of
+the time--abuses of economic, political and religious freedom.
+Anticipating Beccaria's criticism of the death penalty by almost forty
+years, Carracioli argues that since man's right to life is inalienable,
+no government can have the power of capital punishment.[4] Misson's
+belief in equality is extended to include the negro slaves the
+_Victoire_ takes at sea as well as the natives of Madagascar. After
+asking the negroes to join his crew, Misson tells his men that
+the Trading for those of our own Species, could never be agreeable to
+the Eyes of divine Justice: That no Man had Power of the Liberty of
+another; and while those who profess'd a more enlightened Knowledge of
+the Deity, sold men like Beasts; they prov'd that their Religion was no
+more than Crimace...: For his Part he hop'd, he spoke the Sentiments of
+all his brave Companions, he had not exempted his Neck from the galling
+Yoak of Slavery, and asserted his own Liberty to enslave others.
+
+Slavery is banished from Misson's ship, and the negroes are schooled in
+the principles of freedom.
+
+Perhaps the most difficult problem in discussing the principles of
+Misson and Carracioli is to attempt an explanation of why Defoe, a
+Presbyterian, should have made his protagonists into deists. Defoe
+attacks Carracioli's deistic arguments through his narrator, Captain
+Johnson, who remarks that such ideas are pernicious only to "weak Men
+who cannot discover their Fallacy." But since similar ideas appear in
+Robert _Drury's Journal_ published a year later, it may be assumed that
+the arguments of the deists held a certain fascination for Defoe at this
+time. Carracioli's deism also has a dramatic function in the story. That
+on a voyage to Rome a young man like Misson should be converted to deism
+by a disillusioned "lewd" priest was in harmony with the traditional
+English belief in the dangers of Italy.[5] That Carracioli should
+combine the rebellion against organized religion with the revolt against
+monarchy is indicative of Defoe's keen apprehension of the future course
+of history.
+
+Considered as a short novel, the history "Of Captain Misson and his
+Crew" reveals many of the same techniques which Defoe used in his longer
+works. To gain a sense of verisimilitude the narrator pretends to be
+working from a manuscript, a device which Defoe also employed in his
+_Memoirs of a Cavalier_. As in _Colonel Jack_ real historical figures
+and events from the War of the Spanish Succession are woven into the
+adventures of the _Victoire_. Captain Misson and his crew sink the
+Winchelsea, an English ship lost in the West Indies at the end of
+August, 1707, and they barely escape from Admiral Wager's fleet which
+fought a famous battle there in 1708. Even the name of Misson's ship,
+the _Victoire_; was undoubtedly familiar to Defoe as the vessel
+commanded by the famous French corsair, Cornil Saus.[6] So convincing is
+Defoe that although his hero is shown meeting a real freebooter, Captain
+Tew, ten years after Tew's death, Misson is still included in the
+histories of piracy.[7]
+
+Also typical of Defoe's fiction is the relationship between Captain
+Misson, the leader, and his intellectual mentor, Carracioli. Colonel
+Jack and his tutor, Moll Flanders and her Governess and particularly,
+Captain Singleton and William Walters form similar groups. Just as
+William Walters, a Quaker, reminds Captain Singleton and the crew that
+their business is not fighting but making money, so Carracioli addresses
+lengthy speeches to the crew, converting everyone on the _Victoire_ to
+democracy and deism. Misson's Libertalia takes root in Madagascar, where
+Singleton wanted to establish a colony, while both Carracioli and
+Walters adapt the secular aspects of their religion to piracy. But
+whereas Walters eventually converts Singleton into an honest Christian,
+Carracioli leads Misson into piracy.
+
+In the history "Of Captain Misson and his Crew," Defoe decided to pursue
+the same method of third person narrative as in his brief biographies of
+real pirates. The result is that he merely provides a sketch of
+political theories rather than a study of human beings. Of course there
+are good reasons for this. Defoe was more interested in dramatizing
+proletarian utopian ideals than in developing the inner workings of
+Misson's mind. The novelette is unified by its epic theme, not by its
+study of character or its episodic plot.
+
+Although Defoe toyed with radical notions throughout _The History of the
+Pyrates_, he had little faith in their practicality. Libertalia must be
+understood as Defoe's best expression of political and social ideals
+which he admired but considered unworkable. The continuation of Misson's
+career in the section "Of Captain Tew" depicts the decline and fall of
+the utopia and the hero's tragic death as a disillusioned idealist.
+This, however, is another story, a story which suggested that private
+property was necessary, equality impossible and slavery a useful
+expedient for colonization. It was a far more comforting message for the
+Augustan Age, but it could not silence the tocsins of the French
+Revolution which sound throughout the speeches of Misson and Carracioli.
+
+Maximillian E. Novak University of Michigan
+
+
+
+
+Bibliographical Note
+
+The text of "Of Captain Misson and His Crew" has been reproduced from
+the Henry E. Huntington Library's first edition copy of the second
+volume of _A General History of the Robberies and Murders of the Most
+Notorious Pyrates_ which appeared under the title _The History of the
+Pyrates_.
+
+
+Notes to the Introduction
+
+[Footnote 1: Daniel Defoe, _A Review of the Affairs of France_, ed. A.
+W. Secord (New York, 1938), IV, 424a.]
+
+[Footnote 2: _The Anatomy of Exchange--Alley_ (London, 1719), p. 8.]
+
+[Footnote 3: _A General History of the Robberies and Murders of the Most
+Notorious Pyrates_ (London, 1728), II, 220.]
+
+[Footnote 4: See Cesare Beccaria, _An Essay on Crimes and Punishments_
+(Stanford, 1953), pp. 97-99.]
+
+[Footnote 5: In the previous year Defoe had written that "it was the
+most dangerous thing in the World for a young Gentleman, sober and
+virtuous, to venture into _Italy_, till he was thoroughly grounded in
+Principle, ... for that nothing was more ordinary, than for such either
+to be seduc'd, by the Subtlety of the Clergy, to embrace a false
+Religion, or by the Artifice of a worse Enemy, to give up all Religion,
+and sink into _Scepticism_ and _Deism_, or, perhaps, _Atheism_." _A New
+Family Instructor_ (London, 1727), p. 17.]
+
+[Footnote 6: See Ruth Bourne, _Queen Anne's Navy in the West Indies_
+(New Haven, 1939), pp. 63, 169-172; and _Manuscripts of the House of
+Lords_, New Series (London, 1921), VII, 117-119.]
+
+[Footnote 7: See Philip Gosse, _The History of Piracy_ (New York, 1934),
+p. 194; and Patrick Pringle, _Jolly Roger_ (London, 1953), pp. 136-138.]
+
+
+_Omne tulit punctum, qui miscuit utile dulci_.  Hor.
+
+
+
+
+THE HISTORY OF THE PYRATES. VOL. II.
+
+
+
+
+OF CAPTAIN MISSON.
+
+
+We can be somewhat particular in the Life of this Gentleman, because, by
+very great Accident, we have got into our Hands a _French_ Manuscript,
+in which he himself gives a Detail of his Actions. He was born in
+_Provence_, of an ancient Family; his Father, whose true Name he
+conceals, was Master of a plentiful Fortune; but having a great Number
+of Children, our Rover had but little Hopes of other Fortune than what
+he could carve out for himself with his Sword. His Parents took Care to
+give him an Education equal to his Birth. After he had passed his
+Humanity and Logick, and was a tolerable Mathematician, at the Age of
+Fifteen he was sent to _Angiers_, where he was a Year learning His
+Exercises. His Father, at his Return home, would have put him into the
+Musketeers; but as he was of a roving Temper, and much affected with the
+Accounts he had read in Books of Travels, he chose the Sea as a Life
+which abounds with more Variety, and would afford him an Opportunity to
+gratify his Curiosity, by the Change of Countries Having made this
+Choice, his Father, with Letters of Recommendation, and every Thing
+fitting for him, sent him Voluntier on board the _Victoire_, commanded
+by Monsieur _Fourbin_, his Relation. He was received on Board with all
+possible Regard by the Captain, whose Ship was at _Marseilles_, and was
+order'd to cruise soon after _Misson's_ Arrival. Nothing could be more
+agreeable to the Inclinations of our Voluntier than this Cruize, which
+made him acquainted with the most noted Ports of the _Mediterranean_,
+and gave him a great Insight into the practical Part of Navigation. He
+grew fond of this Life, and was resolved to be a compleat Sailor, which
+made him always one of the first on a Yard Arm, either to Hand or Reef,
+and very inquisitive in the different Methods of working a Ship: His
+Discourse was turn'd on no other Subject, and he would often get the
+Boatswain and Carpenter to teach him in their Cabbins the constituent
+Parts of a Ship's Hull, and how to rigg her, which he generously paid
+'em for; and tho' he spent a great Part of his Time with these two
+Officers, yet he behaved himself with such Prudence that they never
+attempted at a Familiarity, and always paid the Respect due to his
+Family. The Ship being at _Naples_, he obtained Leave of his Captain to
+go to _Rome_, which he had a great Desire to visit. Hence we may date
+his Misfortunes; for, remarking the licentious Lives of the Clergy (so
+different from the Regularity observ'd among the _French_
+Ecclesiasticks,) the Luxury of the Papal Court, and that nothing but
+Hulls of Religion was to be found in the Metropolis of the Christian
+Church, he began to figure to himself that all Religion was no more than
+a Curb upon the Minds of the Weaker, which the wiser Sort yielded to, in
+Appearance only. These Sentiments, so disadvantageous to Religion and
+himself, were strongly riveted by accidentally becoming acquainted with
+a lewd Priest, who was, at his Arrival (by meer Chance) his Confessor,
+and after that his Procurer and Companion, for he kept him Company to
+his Death. One Day, having an Opportunity, he told _Misson_, a Religious
+was a very good Life, where a Man had a subtle enterprising Genius, and
+some Friends; for such a one wou'd, in a short Time, rise to such
+Dignities in the Church, the Hopes of which was the Motive of all the
+wiser Sort, who voluntarily took upon them the sacerdotal Habit. That
+the ecclesiastical State was govern'd with the same Policy as were
+secular Principalities and Kingdoms; that what was beneficial, not what
+was meritorious and virtuous, would be alone regarded. That there were
+no more Hopes for a Man of Piety and Learning in the Patrimony of St.
+_Peter_, than in any other Monarchy, nay, rather less; for this being
+known to be real, that Man's rejected as a Visionary, no way fit for
+Employment; as one whose Scruples might prove prejudicial; for its a
+Maxim, that Religion and Politicks can never set up in one House. As to
+our Statesmen, don't imagine that the Purple makes 'em less Courtiers
+than are those of other Nations; they know and pursue the _Reggione del
+Stato_ (a Term of Art which means Self-Interest) with as much Cunning
+and as little Conscience as any Secular; and are as artful where Art is
+required, and as barefaced and impudent when their Power is great enough
+to support 'em, in the oppressing the People, and aggrandizing their
+Families. What their Morals are, you may read in the Practice of their
+Lives, and their Sentiments of Religion from this Saying of a certain
+Cardinal, _Quantum Lucrum ex ista fabula Christi!_ which many of 'em may
+say, tho' they are not so foolish. For my Part, I am quite tir'd of the
+Farce, and will lay hold on the first Opportunity to throw off this
+masquerading Habit; for, by Reason of my Age, I must act an under Part
+many Years; and before I can rise to share the Spoils of the People, I
+shall, I fear, be too old to enjoy the Sweets of Luxury; and, as I am an
+Enemy to Restraint, I am apprehensive I shall never act up to my
+Character, and carry thro' the Hypocrite with Art enough to rise to any
+considerable Post in the Church. My Parents did not consult my Genius,
+or they would have given me a Sword instead of a Pair of Beads.
+
+_Misson_ advised him to go with him Voluntier, and offer'd him Money to
+cloath him; the Priest leap'd at the Proposal, and a Letter coming to
+_Misson_ from his Captain, that he was going to _Leghorn_, and left to
+him either to come to _Naples_, or go by Land; he chose the latter, and
+the _Dominican_, whom he furnish'd with Money, clothing himself very
+Cavalierly, threw off his Habit, and preceeded him two Days, staying at
+_Pisa_ for _Misson_; from whence they went together to _Leghorn_, where
+they found the _Victoire_, and Signor _Caraccioli_, recommended by his
+Friend, was received on Board. Two Days after they weigh'd from hence,
+and after a Week's Cruize fell in with two _Sally_ Men, the one of
+twenty, the other of twenty four Guns; the _Victoire_ had but thirty
+mounted, though she had Ports for forty. The Engagement was long and
+bloody, for the _Sally_ Man hop'd to carry the _Victoire_; and, on the
+contrary, Captain _Fourbin_, so far from having any Thoughts of being
+taken, he was resolutely bent to make Prize of his Enemies, or sink his
+Ship. One of the _Sally_ Men was commanded by a _Spanish_ Renegade,
+(though he had only the Title of a Lieutenant) for the Captain was a
+young Man who knew little of Marine Affairs.
+
+This Ship was called the _Lyon_; and he attempted, more than once, to
+board the _Victoire_, but by a Shot betwixt Wind and Water, he was
+obliged to sheer off, and running his Guns, &c. on one Side, bring her
+on the careen to stop his Leak; this being done with too much
+Precipitation, she overset, and every Soul was lost: His Comrade seeing
+this Disaster, threw out all his small sails, and endeavour'd to get
+off, but the _Victoire_ wrong'd her, and oblig'd her to renew the Fight,
+which she did with great Obstinacy, and made Monsieur _Fourbin_ despair
+of carrying her if he did not board; he made Preparations accordingly.
+Signior _Caraccioli_ and _Misson_ were the two first on board when the
+Command was given; but they and their Followers were beat back by the
+Despair of the _Sally_ Men; the former received a Shot in his Thigh, and
+was carried down to the Surgeon. The _Victoire_ laid her on board the
+second time, and the _Sally_ Men defended their Decks with such
+Resolution, that they were cover'd with their own, and the dead Bodies
+of their Enemies. _Misson_ seeing one of 'em jump down the Main-Hatch
+with a lighted Match, suspecting his Design, resolutely leap'd after
+him, and reaching him with his Sabre, laid him dead the Moment he going
+to set Fire to the Powder. The _Victoire_ pouring in more Men, the
+_Mahometans_ quitted the Decks, finding Resistance vain, and fled for
+Shelter to the Cook Room, Steerage and Cabbins, and some run between
+Decks. The _French_ gave 'em Quarters, and put the Prisoners on board
+the _Victoire_, the Prize yielding nothing worth mention, except Liberty
+to about fifteen Christian Slaves; she was carried into and sold with
+the Prisoners at _[text unreadable]_. The Turks lost a great many Men,
+the _French_ not less than 35 in boarding, for they lost very few by the
+great Shot, the _Sally_ Men firing mostly at the Masts and Rigging,
+hoping by disabling to carry her. The limited Time of  their Cruize
+being out, the _Victoire_ returned to _Marseilles_, from whence
+_Misson_, taking his Companion, went to visit his Parents, to whom the
+Captain sent a very advantageous Character, both of his Courage and
+Conduct. He was about a Month at home when his Captain wrote to him,
+that his Ship was ordered to _Rochelle_, from whence he was to sail for
+the _West-Indies_ with some Merchant Men. This was very agreeable to
+_Misson_ and Signior _Caraccioli_, who immediately set out for
+_Marseilles_. This Town is well fortified, has four Parish Churches, and
+the Number of Inhabitants is computed to be about 120,0000; the Harbour
+is esteemed the safest in the _Mediterranean_, and is the common Station
+for the _French_ Gallies.
+
+Leaving this Place, they steer'd for _Rochelle_, where the _Victoire_
+was dock'd, the Merchant Ships not being near ready. _Misson_, who did
+not Care to pass so long a Time in Idleness, proposed to his Comrade the
+taking a Cruize on board the _Triumph_, who was going into the _English
+Channel_; the _Italian_ readily contented to it.
+
+Between the Isle of _Guernsey_ and the _Start Point_ they met with the
+_Mayflower_, Captain _Balladine_ Commanded, a Merchant Ship of 18 Guns,
+richly laden, and coming from _Jamaica_. The Captain of the _English_
+made a gallant resistance, and fought his Ship so long, that the
+_French_ could not carry her into Harbour, wherefore they took the
+Money, and what was most valuable, out of her; and finding she made more
+Water than the Pumps could free, quitted, and saw her go down in less
+than four Hours after. Monsieur _le Blanc_, the _French_ Captain,
+received Captain _Balladine_ very civilly, and would not suffer either
+him or his Men to be stripp'd, saying, _None but Cowards ought be
+treated after that Manner; that brave Men ought to treat such, though
+their Enemies, as Brothers; and that to use a gallant Man (who does his
+Duty) ill, speaks a Revenge which cannot proceed but from a Coward
+Soul._ He order'd that the Prisoners should leave their Chests; and when
+some of his Men seem'd to mutter, he bid 'em remember the Grandeur of
+the Monarch they serv'd; that they were neither Pyrates nor Privateers;
+and, as brave Men, they ought to shew their Enemies an Example they
+would willingly have follow'd, and use their Prisoners as they wish'd to
+be us'd.
+
+They running up the _English_ Channel as high as _Beachy Head_, and, in
+returning, fell in with three fifty Gun Ships, which gave Chace to the
+_Triumph_; but as she was an excellent Sailor, she run 'em out of Sight
+in seven Glasses, and made the best of her Way for the _Lands-End_ they
+here cruized eight Days, then doubling Cape _Cornwall_, ran up the
+_Bristol_ Channel, near as far as _Nash Point_, and intercepted a small
+Ship from _Barbadoes_, and stretching away to the Northward, gave Chase
+to a Ship they saw in the Evening, but lost her in the Night. The
+_Triumph_ stood then towards _Milford_ and spying a Sail, endeavour'd to
+cut her off the Land, but found it impossible; for she got into the
+Haven, though they came up with her very fast, and she had surely been
+taken, had the Chase had been any thing longer.
+
+Captain _Balladine_, who took the Glass, said it was the _Port Royal_, a
+_Bristol_ Ship which left _Jamaica_ in Company with him and the
+_Charles_. They now return'd to their own Coast, and sold their Prize at
+_Brest_, where, at his Desire, they left Captain _Balladine_, and
+Monsieur _le Blanc_ made him a Present of Purse with 40 _Louis's_ for
+his Support; his Crew were also left here.
+
+At the Entrance into this Harbour the _Triumph_ struck upon a Rock, but
+receiv'd no Damage: This Entrance, called _Genlet_, is very dangerous on
+Account of the Number of Rocks which lie on each Side under Water,
+though the Harbour is certainly the best in _France_. The Mouth of the
+Harbour is defended by a strong Castle; the Town is well fortified, and
+has a Citadel for its farther Defence, which is of considerable
+Strength. In 1694 the _English_ attempted a Descent, but did not find
+their Market, for they were beat off with the Loss of their General, and
+a great many Men. From hence the _Triumph_ return'd to _Rochel_, and in
+a Month after our Voluntiers, who went on board the _Victoire_, took
+their Departure for _Martineco_ and _Guadalupe_; they met with nothing
+in their Voyage thither worth noting.
+
+I shall only observe, that Signior _Caraccioli_, who was as ambitious as
+he was irreligious, had, by this Time, made a perfect Deist of _Misson_,
+and thereby convinc'd him, that all Religion was no other than human
+Policy, and shew'd him that the Law of _Moses_ was no more than what
+were necessary, as well for the Preservation as the Governing of the
+People; for Instance, said he, the _African_ Negroes never heard of the
+Institution of Circumcision, which is said to be the Sign of the
+Covenant made between God and this People, and yet they circumcise their
+Children; doubtless for the same Reason the _Jews_ and other Nations do,
+who inhabit the Southern Climes, the Prepuce consolidating the perspired
+Matter, which is of a fatal Consequence. In short, he ran through all
+the Ceremonies of the _Jewish_, Christian and _Mahometan_ Religion, and
+convinced him these were, as might be observed by the Absurdity of many,
+far from being Indications of Men inspired; and that _Moses_, in his
+Account of the Creation, was guilty of known Blunders; and the Miracles,
+both in the New and Old Testament, inconsistent with Reason. That God
+had given us this Blessing, to make Use of for our present and future
+Happiness, and whatever was contrary to it, notwithstanding their School
+Distinctions of _contrary_ and _above_ Reason, must be false. This
+Reason teaches us, that there is a first Cause of all Things, an _Ens
+Entium_, which we call God, and our Reason will also suggest, that he
+must be eternal, and, as the Author of every Thing perfect, he must be
+infinitely perfect.
+
+If so, he can be subject to no Passions, and neither loves nor hates; he
+must be ever the fame, and cannot rashly do to Day what he shall repent
+to Morrow. He must be perfectly happy, consequently nothing can add to
+an eternal State of Tranquillity, and though it becomes us to adore him,
+yet can our Adorations neither augment, nor our Sins take from this
+Happiness.
+
+But his Arguments on this Head are too long, and too dangerous to
+translate; and as they are work'd up with great Subtlety, they may be
+pernicious to weak Men, who cannot discover their Fallacy; or, who
+finding 'em agreeable to their Inclinations, and would be glad to shake
+off the Yoke of the Christian Religion, which galls and curbs their
+Passions, would not give themselves the Trouble to examine them to the
+Bottom, but give into what pleases, glad of finding some Excuse to their
+Consciences. Though as his Opinion of a future State has nothing in it
+which impugns the Christian Religion, I shall set it down in few Words.
+
+That reasoning Faculty, says he, which we perceive within us, we call
+the Soul, but what that Soul is, is unknown to us. It may die with the
+Body, or it may survive. I am of Opinion its immortal; but to say that
+this Opinion is the Dictate of Reason, or only the Prejudice of
+Education, would, I own, puzzle me. If it is immortal, it must be an
+Emanation from the Divine Being, and consequently at its being separated
+from the Body, will return to its first Principle, if not contaminated.
+Now, my Reason tells me, if it is estranged from its first Principle,
+which is the Deity, all the Hells of Man's Invention can never yield
+Tortures adequate to such a Banishment.
+
+As he had privately held these Discourses among the Crew, he had gained
+a Number of Proselytes, who look'd upon him as a new Prophet risen up to
+reform the Abuses in Religion; and a great Number being _Rochellers_,
+and, as yet, tainted with _Calvinism_, his Doctrine was the more readily
+embrac'd. When he had experienced the Effects of his religious
+Arguments, he fell upon Government, and shew'd, that every Man was born
+free, and had as much Right to what would support him, as to the Air he
+respired. A contrary Way of arguing would be accusing the Deity with
+Cruelty and Injustice, for he brought into the World no Man to pass a
+Life of Penury, and to miserably want a necessary Support; that the vast
+Difference between Man and Man, the one wallowing in Luxury, and the
+other in the most pinching Necessity, was owing only to Avarice and
+Ambition on the one Hand, and a pusillanimous Subjection on the other;
+that at first no other than a Natural was known, a paternal Government,
+every Father was the Head, the Prince and Monarch of his Family, and
+Obedience to such was both just and easy, for a Father had a
+compassionate Tenderness for his Children; but Ambition creeping in by
+Degrees, the stronger Family set upon and enslaved the Weaker; and this
+additional Strength over-run a third, by every Conquest gathering Force
+to make others, and this was the first Foundation of Monarchy. Pride
+encreasing with Power, Man usurped the Prerogative of God, over his
+Creatures, that of depriving them of Life, which was a Privilege no one
+had over his own; for as he did not come into the World by his own
+Election, he ought to stay the determined Time of his Creator: That
+indeed, Death given in War, was by the Law of Nature allowable, because
+it is for the Preservation of our own Lives; but no Crime ought to be
+thus punished, nor indeed any War undertaken, but in Defence of our
+natural Right, which is such a Share of Earth as is necessary for our
+Support.
+
+These Topicks he often declaimed on, and very often advised with
+_Misson_ about the setting up for themselves; he was as ambitious as the
+other, and as resolute. _Caraccioli_ and _Misson_ were by this expert
+Mariners, and very capable of managing a Ship: _Caraccioli_ had founded
+a great many of the Men on this Subject, and found them very inclineable
+to listen to him. An Accident happen'd which gave _Caraccioli_ a fair
+Opportunity to put his Designs in Execution, and he laid Hold of it;
+they went off _Martinico_ on a Cruize, and met with the _Winchelsea_, an
+_English_ Man of War of 40 Guns, commanded by Captain _Jones_; they made
+for each other, and a very smart Engagement followed, the first
+Broadside killed the Captain, second Captain, and the three Lieutenants,
+on Board the _Victoire_ and left only the Master, who would have struck,
+but Misson took up the Sword, order'd _Caraccioli_ to act as Lieutenant,
+and encouraging the Men fought the Ship six Glasses, when by some
+Accident, the _Winchelsea_ blew up, and not a Man was saved but
+Lieutenant _Franklin_, whom the _French_ Boats took up, and he died in
+two Days. None ever knew before this Manuscript fell into my Hands how
+the _Winchelsea_ was lost; for her Head being driven ashore at
+_Antegoa_, and a great Storm having happend a few Days before her Head
+was found, it was concluded, that she founder'd in that Storm. After
+this Engagement, _Caraccioli_ came to Misson and saluted him Captain,
+and desired to know if he would chuse a momentary or a lasting Command,
+that he must now determine, for at his Return to _Martinico_ it would be
+too late; and he might depend upon the Ship he fought and saved being
+given to another, and they would think him well rewarded if made a
+Lieutenant, which Piece of Justice he doubted: That he had his Fortune
+in his Hands, which he might either keep or let go; if he made Choice of
+the latter, he must never again expect she would court him to accept her
+Favours: That he ought to let before his Eyes his Circumstances, as a
+younger Brother of a good Family, but nothing to support his Character;
+and the many Years he must serve at the Expence of his Blood before he
+could make any Figure in the World; and consider the wide Difference
+between the commanding and being commanded: That he might with the Ship
+he had under Foot, and the brave Fellows under Command, bid Defiance to
+the Power of _Europe_, enjoy every Thing he wish'd, reign Sovereign of
+the Southern Seas, and lawfully make War on all the World, since it
+would deprive him of that Liberty to which he had a Right by the Laws of
+Nature: That he might in Time, become as great as _Alexander_ was to the
+_Persians_; and by encreasing his Forces by his Captures, he would every
+Day strengthen the Justice of his Cause, for who has Power is always in
+the Right. That _Harry_ the Fourth and _Harry_ the Seventh, attempted
+and succeeded in their Enterprizes on the Crown of _England_, yet their
+Forces did not equal his. _Mahomet_ with a few Camel Drivers, founded
+the _Ottoman_ Empire and _Darius_, with no more than six or seven
+Companions got Possession on of that of _Persia_.
+
+In a Word he said so much that _Misson_ resolved to follow his Advice,
+and calling up all Hands, he told them, 'That a great Number of them had
+resolved with him upon a Life of Liberty, and had done him the Honour to
+create him Chief: That he designed to force no Man, and be guilty of
+that Injustice he blamed in others; therefore, if any were averse to the
+following his Fortune, which he promised should be the same to all, he
+desired they would declare themselves, and he would set them ashore,
+whence they might return with Conveniency;' having made an End, they one
+and all cryed, _Vive le Capitain_ Misson _et son Lieutenant le Seavant_
+Caraccioli, God bless Capt. _Misson_ and his learned Lieutenant
+_Caraccioli_. _Misson_ thanked them for the Honour they conferr'd upon
+him, and promised he would use the Power they gave for the publick Good
+only, and hoped, as they had the Bravery to assert their Liberty, they
+would be as unanimous in the preserving it, and stand by him in what
+should be found expedient for the Good of all; that he was their Friend
+and Companion, and should never exert his Power, or think himself other
+than their Comrade, but when the Necessity of Affairs should oblige him.
+
+They shouted a second Time, _vive le Capitain_; he, after this, desired
+they would chuse their subaltern Officers, and give them Power to
+consult and conclude upon what might be for the common Interest, and
+bind themselves down by an Oath to agree to what such Officers and he
+should determine: This they readily gave into. The School-Master they
+chose for second Lieutenant, _Jean Besace_ they nominated for third, and
+the Boatswain, and a Quarter-Master, named _Matthieu le Tondu_, with the
+Gunner, they desired might be their Representatives in Council.
+
+The Choice was approved, and that every Thing might pass methodically,
+and with general Approbation, they were called into the great Cabbin,
+and the Question put, what Course they should steer? The Captain
+proposed the _Spanish_ Coast as the most probable to afford them rich
+Prizes: This was agreed upon by all. The Boatswain then asked what
+Colours they should fight under, and advised Black as most terrifying;
+but _Caraccioli_ objected, that they were no Pyrates, but Men who were
+resolved to assert that Liberty which God and Nature gave them, and own
+no Subjection to any, farther than was for the common Good of all: That
+indeed, Obedience to Governors was necessary, when they knew and acted
+up to the Duty of their Function; were vigilant Guardians of the Peoples
+Rights and Liberties; saw that Justice was equally distributed; were
+Barriers against the Rich and Powerful, when they attempted to oppress
+the Weaker; when they suffered none of the one Hand to grow immensely
+rich, either by his own or his Ancestors Encroachments; nor on the
+other, any to be wretchedly miserable, either by falling into the Hands
+of Villains, unmerciful Creditors, or other Misfortunes. While he had
+Eyes impartial, and allowed nothing but Merit to distinguish between Man
+and Man; and instead of being a Burthen to the People by his luxurious
+life, he was by his Care for, and Protection of them, a real Father, and
+in every Thing acted with the equal and impartial Justice of a Parent:
+But when a Governor, who is the Minister of the People, thinks himself
+rais'd to this Dignity, that he may spend his Days in Pomp and Luxury,
+looking upon his Subjects as so many Slaves, created for his Use and
+Pleasure, and therefore leaves them and their Affairs to the
+immeasurable Avarice and Tyranny of some one whom he has chosen for his
+Favourite, when nothing but Oppression, Poverty, and all the Miseries of
+Life flow from such an Administration; that he lavishes away the Lives
+and Fortunes of the People, either to gratify his Ambition, or to
+support the Cause of some neighbouring Prince, that he may in Return,
+strengthen his Hands should his People exert themselves in Defence of
+their native Rights; or should he run into unnecessary Wars, by the rash
+and thoughtless Councils of his Favourite, and not able to make Head
+against the Enemy he has rashly or wantonly brought upon his Hands, and
+buy a Peace (which is the present Case of _France_, as every one knows,
+by supporting King _James_, and afterwards proclaiming his Son) and
+drain the Subject; should the Peoples Trade be wilfully neglected, for
+private Interests, and while their Ships of War lie idle in their
+Harbours, suffer their Vessels to be taken; and the Enemy not only
+intercepts all Commerce, but insults their Coasts: It speaks a generous
+and great Soul to shake off the Yoak; and if we cannot redress our
+Wrongs, withdraw from sharing the Miseries which meaner Spirits submit
+to, and scorn to yield to the Tyranny. Such Men are we, and, if the
+World, as Experience may convince us it will, makes War upon us, the Law
+of Nature empowers us not only to be on the defensive, but also on the
+offensive Part. As we then do not proceed upon the same Ground with
+Pyrates, who are Men of dissolute Lives and no Principles, let us scorn
+to take their Colours: Ours is a brave, a just, an innocent, and a noble
+Cause; the Cause of Liberty. I therefore advise a white Ensign, with
+Liberty painted in the Fly, and if you like the Motto, _a Deo a
+Libertate_, for God and Liberty, as an Emblem of our Uprightness and
+Resolution.
+
+The Cabbin Door was left open, and the Bulk Head which was of Canvas
+rowled up, the Steerage being full of Men, who lent an attentive Ear,
+they cried, _Liberty, Liberty; we are free Men_: Vive _the brave
+Captain_ Misson _and the noble Lieutenant_ Caraccioli. This short
+Council breaking up, every Thing belonging to the deceased Captain, and
+the other Officers, and Men lost in the Engagement, was brought upon
+Deck and over-hawled; the Money ordered to be put into a Chest, and the
+Carpenter to clap on a Padlock for, and give a Key to, every one of the
+Council: Misson telling them, all should be in common, and the
+particular Avarice of no one should defraud the Publick.
+
+When the Plate Monsieur _Fourbin_ had, was going to the Chest, the Men
+unanimously cried out avast, keep that out for the Captain's Use, as a
+Present from his Officers and Fore-mast Men. _Misson_ thanked them, the
+Plate was returned to the great Cabbin, and the Chest secured according
+to Orders: Misson then ordered his Lieutenants and other Officers to
+examine who among the Men, were in most Want of Cloaths, and to
+distribute those of the dead Men impartially, which was done with a
+general Content and Applause of the whole Crew: All but the wounded
+being upon Deck. _Misson_ from the Baracade, spoke to the following
+Purpose, 'That since they had unanimously resolved to seize upon and
+defend their Liberty, which ambitious Men had usurped, and that this
+could not be esteemed by impartial Judges other than a just and brave
+Resolution, he was under an Obligation to recommend to them a brotherly
+Love to each other; the Banishment of all private Piques and Grudges,
+and a swift Agreement and Harmony among themselves: That in throwing off
+the Yoak of Tyranny of which the Action spoke an Abhorrence, he hoped
+none would follow the Example of Tyrants, and turn his Back upon
+Justice; for when Equity was trodden under Foot, Misery, Confusion, and
+mutual Distrust naturally followed.'--He also advised them to remember
+there was a Supream; the Adoration of which, Reason and Gratitude
+prompted us, and our own Interests would engage us (as it is best to be
+of the surest Side, and after-Life was allowed possible) to
+conciliate.--That he was satisfied Men who were born and bred in
+Slavery, by which their Spirits were broke, and were incapable of so
+generous a Way of thinking, who, ignorant of their Birth-Right, and the
+Sweets of Liberty, dance to the Musick of their Chains, which was,
+indeed, the greater Part of the Inhabitants of the Globe, would brand
+this generous Crew with the insidious Name of Pyrates, and think it
+meritorious, to be instrumental in their Destruction.--Self-Preservation
+therefore, and not a cruel Disposition, obliged him to declare War
+against all such as should refuse him the Entry of their Ports, and
+against all, who should not immediately surrender and give up what their
+Necessities required; but in a more particular Manner against all
+_European_ Ships and Vessels, as concluded implacable Enemies. _And I do
+now,_ said he, _declare such War, and, at the same time, recommend to
+you my Comrades a humane and generous Behaviour towards your Prisoners;
+which will appear by so much more the Effects of a noble Soul, as we are
+satisfied we should not meet the same Treatment should our ill Fortune,
+or more properly our Disunion, or want of Courage, give us up to their
+Mercy._
+
+After this, he required a Muster should be made, and there were able
+Hands two Hundred, and thirty five sick and wounded; as they were
+muster'd they were sworn. After Affairs were thus settled, they shaped
+their Course the _Spanish West-Indies,_ but resolved, in the Way, to
+take a Week or ten Days Cruize in the Windward Passage from _Jamaica,_
+because most Merchant Men, which were good Sailors and did not slay for
+Convoy, took this as the shorter Cut for _England._
+
+Off St. _Christophers_ they took an _English_ Sloop becalmed, with their
+Boats; they took out of her a couple of Puncheons of Rum, and half a
+dozen Hogsheads of Sugar (she was a _New England_ Sloop, bound for
+_Boston_) and without offering the least Violence to the Men, or
+stripping them, they let her go. The Master of the Sloop was _Thomas
+Butler,_ who owned, he never met with so candid an Enemy as the _French_
+Man of War, which took him the Day he left St. _Christophers;_ they met
+with no other Booty in their Way, till they came upon their Station,
+when after three Days, they saw a Sloop which had the Impudence to give
+them Chace; Captain _Misson_ asked what could be the Meaning that the
+Sloop stood for them? One of the Men, who was acquainted with the
+_West-Indies,_ told him, it was a _Jamaica_ Privateer, and he should not
+wonder, if he clapp'd him aboard. I am, said he, no Stranger to their
+Way of working, and this despicable Fellow, as those who don't know a
+_Jamaica_ Privateer may think him, it is ten to one will give you some
+Trouble. It now grows towards Evening, and you'll find as soon as he has
+discovered your Force, he'll keep out of the Reach of your Guns till the
+12 a-Clock Watch is changed at Night, and he'll then attempt to clap you
+aboard, with Hopes to carry you in the Hurry: Wherefore Captain, if you
+will give me Leave to advise you, let every Man have his small Arms; and
+at twelve, let the Bell ring as usual; and rather more Noise than
+ordinary be made, as if the one Watch was turning in, and the other out,
+in a Confusion and Hurry, and I'll engage he will venture to enter his
+Men. The Fellow's Advice was approved and resolved upon, and the Sloop
+work'd, as he said she would, for upon coming near enough to make
+distinctly the Force of the _Victoire_, on her throwing out _French_
+Colours, she, the Sloop, clapp'd upon a Wind, the _Victoire_ gave Chace,
+but without Hopes of gaining upon her; she went so well to Windward,
+that she cou'd spare the Ship some Points in her Sheet, and yet wrong
+her: At Dusk of the Even, the _French_ had lost Sight of her, but about
+Eleven at Night, they saw her hankering up their Windward Bow, which
+confirmed the Sailors Opinion, that she would attempt to board them, as
+she did at the pretended Change of the Watch; there being little or no
+Wind, she lashed to the Bow-Sprit of the _Victoire_ and enter'd her Men,
+who were very quietly taken, as they enter'd and tumbled down the
+Forehatch, where they were received by others, and bound without Noise,
+not one of the Privateers killed, few hurt, and only one _Frenchman_
+wounded. The _Victoire_ the better Part of the Sloop's Men secured, they
+boarded in their Turn, when the Privateer's suspecting some Stratagem,
+were endeavouring to cut their Lashing and get off:
+
+Thus the Englishman caught a Tartar. The Prisoners being all secured,
+the Captain charged his Men not to discover, thro' a Desire of
+augmenting their Number, the Account they were upon.
+
+The next Morning Monsieur _Misson_ called for the Captain of the
+Privateer, he told him, he could not but allow him a brave Fellow, to
+venture upon a Ship of his Countenance, and for that Reason he should
+meet Treatment which Men of his Profession seldom afforded the Prisoners
+they made. He asked him how long he had been out, what was his Name, and
+what he had on Board? He answered he was but just come out, that he was
+the first Sail he had met with, and should have thought himself
+altogether as lucky not to have spoke with him' that his Name was _Harry
+Ramsey_, and what he had on Board were Rags, Powder, Ball, and some few
+half Anchors of Rum. _Ramsey_ was ordered into the Gun-Room, and a
+Council being held in the publick Manner aforesaid, the Bulk Head of the
+great Cabbin rowled up. On their Conclusion, the Captain of the
+Privateer was called in again, when Captain _Misson_ told him, he would
+return him his Sloop, and restore him and his Men to their Liberty,
+without stripping or plundering of any Thing, but what Prudence obliged
+him to, their Ammunition and Small-Arms, if he would give him his Word
+and Honour, and his Men to take an Oath, not to go out on the Privateer
+Account in six Months after they left him: That he did not design to
+continue that Station above a Week longer, at the Expiration of which
+Time he would let them go.
+
+_Ramsey_, who had a new Sloop, did not expect this Favour, which he
+thanked him for, and promised punctually to comply with the Injunction,
+which his Men as readily swore to, tho' they had no Design to keep the
+Oath. The Time being expired, he and his Men were put on Board their own
+Sloop. At going over the Ship's Side _Ramsey_ begg'd Monsieur _Misson_
+would allow him Powder for a salute, by way of Thanks; but he answered
+him, the Ceremony was needless, and he expected no other Return than
+that of keeping his Word, which indeed _Ramsey_ did. Some of his Men had
+found it more to their Advantage to have been as religious.
+
+At parting Ramsey gave the Ship three Chears, and _Misson_ had the
+Complaisance to return one, which _Ramsey_ answering with three more,
+made the best of his Way for _Jamaica_, and at the East End of the
+Island met with the _Diana_, who, upon Advice, turn'd back.
+
+The _Victoire_ steer'd for _Carthagene_, off which Port they cruised
+some Days, but meeting with nothing in the Seas, they made for _Porto
+Bello_; in their Way they met with two _Dutch_ Traders, who had Letters
+of Mart, and were just come upon the Coast, the one had 20, the other 24
+Guns; _Misson_ engaged them, and they defended themselves with a great
+Deal of Resolution and Gallantry; and as they were mann'd a Peak, he
+darst not venture to board either of them, for fear of being at the same
+Time boarded by the other. His Weight of Mettal gave him a great
+Advantage over the _Dutch_, though they were two to one; besides, their
+Business, as they had Cargoes, was to get off, if possible, wherefore
+they made a running Fight, though they took Care to stick close to one
+another.
+
+They maintained the Fight for above six Hours, when _Misson_, enraged at
+this Obstinacy, and fearing, if by Accident they should bring a Mast, or
+Top-Mast, by the board, they would get from him. He was resolved to sink
+the larger Ship of the two, and accordingly ordered his Men to bring all
+their Guns to bear a Midship, then running close along Side of him, to
+raise their Mettal; his Orders being punctually obey'd, he pour'd in a
+Broad Side, which open'd such a Gap in the _Dutch_ Ship, that she went
+directly to the Bottom, and every Man perish'd.
+
+He then mann'd his Bowsprit, brought his Sprit-sail Yard fore and aft,
+and resolved to board the other, which the _Dutch_ perceiving, and
+terrified with the unhappy Fate of their Comrade, thought a farther
+Resistance vain, and immediately struck. _Misson_ gave them good
+Quarters, though he was enraged at the Loss of 13 Men killed outright,
+beside 9 wounded, of which 6 died. They found on board a great Quantity
+of Gold and Silver Lace, brocade Silks, Silk Stockings, Bails of
+Broad-Cloath, bazes of all Colours, and _Osnabrughs_.
+
+A Consultation being held, it was resolved Captain _Misson_ should take
+the Name of _Fourbin_, and returning to _Carthagene_, dispose of his
+Prize, and set his Prisoners ashoar. Accordingly they ply'd to the
+Eastward, and came to an Anchor between _Boca Chieca_ Fort, and the
+Town, for they did not think it expedient to enter the Harbour. The
+Barge was manned, and _Caraccioli_, with the Name of _D'Aubigny_, the
+first lieutenant, who was killed in the Engagement with the
+_Winchelsea_, and his Commission in his Pocket, went ashore with a
+Letter to the Governor, sign'd _Fourbin_, whose Character, for fear of
+the worst, was exactly counterfeited. The Purport of his Letter was,
+that having discretionary Orders to cruize for three Months, and hearing
+the _English_ infested his Coast, he was come in search of 'em, and had
+met two _Dutch_ Men, one of which he had sunk, the other he made Prize
+of. That his limited Time being near expired, he should be obliged to
+his Excellency, if he would send on board him such Merchants as were
+willing to take the Ship and Cargoe off his Hands, of which he had lent
+the _Dutch_ Invoice. Don _Joseph de la Zerda_, the then Governor,
+received the Lieutenant (who sent back the Barge at landing) very
+civilly, and agreed to take the Prisoners ashoar, and do every Thing was
+required of him; and ordering fresh Provisions and Sallading to be got
+ready as a Present for the Captain, he sent for some Merchants who were
+very ready to go on board, and agree for the Ship and Goods; which they
+did, for two and fifty thousand Pieces of Eight. The next Day the
+Prisoners were set ashoar; a rich Piece of Brocade which was reserv'd,
+sent to the Governor for a Present, a Quantity of fresh Provision bought
+and brought on board, the Money paid by the Merchants, the Ship and
+Goods deliver'd, and the _Victoire_, at the Dawn of the following Day,
+got under Sail. It may be wonder'd how such Dispatch could be made, but
+the Reader must take Notice, these Goods were sold by the _Dutch_
+Invoice, which the Merchant of the Prize affirmed was genuine. I shall
+observe, by the by, that the _Victoire_ was the _French_ Man of War
+which Admiral _Wager_ sent the _Kingston_ in search of, and being
+afterwards falsly inform'd, that she was join'd by another of seventy
+Guns; and that they cruiz'd together between the Capes, order'd the
+_Severn_ up to Windward, to assist the _Kingston_, which had like to
+have prov'd very fatal; for these two _English_ Men of War, commanded by
+Captain _Trevor_ and Captain _Padnor_, meeting in the Night, had
+prepared to engage, each taking the other for the Enemy. The
+_Kingston's_ Men not having a good Look-out, which must be attributed to
+the Negligence of the Officer of the Watch, did not see the _Severn_
+till she was just upon them; but, by good Luck, to Leeward, and plying
+up, with all the Sail she could crowd, and a clear Ship. This put the
+_Kingston_ in such Confusion, that when the _Severn_ hal'd, no answer
+was retun'd, for none heard her. She was got under the _Kingston's_
+Stern, and Captain _Padnor_ ordered to hale for the third and last Time,
+and if no answer was return'd, to give her a Broadside. The Noise
+onboard the _Kingston_ was now a little ceas'd, and Captain Trevor, who
+was on the poop with a speaking Trumpet to hale the _Severn_, by good
+Luck heard her hale him, answering the _Kingston_, and asking the Name
+of the other ship, prevented the Damage.
+
+They cruised together some time, and meeting nothing which answer'd
+their Information, return'd to _Jamaica_, as I shall to my Subject,
+begging Pardon for this, as I thought, necessary Digression.
+
+Don _Juan de la Zevda_ told the Captain in a Letter, that the St.
+_Joseph_, a Gallion of seventy Guns, was then lying at _Port a Bello_,
+and should be glad he could keep her Company till she was off the Coast.
+That she would sail in eight or ten Days for the _Havana_; and that, if
+his Time would permit him, he would send an Advice-Boat. That she had on
+board the Value of 800,000 Pieces of Eight in Silver and Bar Gold.
+_Misson_ return'd Answer, that he believ'd he should be excus'd if he
+stretched his Orders, for a few Days; and that he would cruize off the
+Isle of _Pearls_, and Cape _Gratias a Dios_, and give for Signal to the
+Gallion, his spreading a white Ensign in his Fore-Top-Mast Shrouds, the
+cluing up his Fore-sail, and the firing one Gun to Windward, and two to
+Leeward, which he should answer by letting run and hoisting his
+Fore-Top-Sail three times, and the firing as many Guns to Leeward. Don
+_Joseph_, extreamly pleased with this Complaisance, sent a Boat express
+to advise the St. _Joseph_, but she was already sailed two Days,
+contrary to the Governor of _Carthagene's_ Expectation, and, this Advice
+Captain _Misson_ had from the Boat, which returning with an Answer, saw
+the _Victoire_ in the Offin, and spoke to her. It was then resolved to
+follow the _St. Joseph_, and accordingly they steer'd for the _Havanna_,
+but by what Accident they did not overtake her is unknown.
+
+I forgot to tell my Reader, on Board the _Dutch_ Ship were fourteen
+_French_ Hugonots, whom _Misson_ thought fit to detain, when they were
+at Sea. _Misson_ called 'em up, and proposed to 'em their taking on;
+telling them at the same Time, he left it to their Choice, for he would
+have no forc'd Men; and that if they all, or any of them, disapproved
+the Proposal, he would either give 'em the first Vessel he met that was
+fit for 'em, or set 'em ashoar on some inhabited Coast; and therefore
+bid 'em take two Days for Consideration before they returned an Answer;
+and, to encourage 'em, he called all Hands up, and declar'd, that if any
+Man repented him of the Course of Life he had chosen, his just Dividend
+should be counted to him, and he would set him on Shoar, either near the
+_Havanna_, or some other convenient Place; but not one accepted the
+Offer, and the fourteen Prisoners unanimously resolved to join in with
+'em; to which Resolution, no doubt, the Hopes of a good Booty from the
+_St. Joseph_, and this Offer of Liberty greatly contributed.
+
+At the Entrance of the Gulph they spied and came with a large Merchant
+Ship bound for _London_ from _Jamaica_; she had 20 Guns, but no more
+than 32 Hands, that its not to be wonder'd at she made no Resistance,
+besides, she was deep laden with Sugars. Monsieur _Misson_ took out of
+her what Ammunition she had, about four thousand Pieces of Eight, some
+Puncheons of Rum, and ten Hogsheads of Sugar; and, without doing her any
+further Damage, let her proceed her Voyage. What he valued most in this
+Prize was the Men he got, for she was carrying to _Europe_ twelve
+_French_ Prisoners, two of which were necessary Hands, being a Carpenter
+and his Mate. They were of _Bourdeaux_, from whence they came with the
+_Pomechatraine_, which was taken by the _Maremaid_ off _Petit Guavers_,
+after an obstinate Resistance, in which they lost forty Men; but they
+were of Opinion the _Maremaid_ could not have taken 'em, having but four
+Guns less than she had, which was made amends for, by their having about
+thirty Hands. On the contrary, had not the _Guernsey_ come up, they
+thought of boarding and carrying the _Maremaid_. These Men very
+willingly came into Captain _Misson's_ Measures.
+
+These Men, who had been stripp'd to the Skin, begg'd Leave to make
+Reprisals, but the Captain would not suffer them, though he told the
+Master of the Prize, as he protected him and his Men, he thought it
+reasonable these _French_ should be cloathed: Upon this the Master
+contributed of his own, and every Man bringing up his Chest, thought
+themselves very well off in sharing with them one half.
+
+Though _Misson's_ Ship pass'd for a _French_ Man of War, yet his
+Generosity in letting the Prize go, gave the _English_ Grounds to
+suspect the Truth, neither the Ship nor Cargoe being of Use to such as
+were upon the grand Account.
+
+When they had lost all Hopes of the St. _Joseph_, they coasted along the
+North-Side of _Cuba_, and the _Victoire_ growing now foul, they ran into
+a Landlock'd Bay on the East North-East Point, where they hove her down
+by Boats and Guns, though they could not pretend to heave her Keel out;
+however, they scraped and tallowed as far as they could go; they, for
+this Reason, many of them repented they had let the last Prize go, by
+which they might have careened.
+
+When they had righted the Ship, and put every Thing on Board, they
+consulted upon the Course they should steer. Upon this the Council
+divided. The Captain and _Caraccioli_ were for stretching over to the
+_African_, and the others for the _New-England_ Coast, alledging, that
+the Ship had a foul Bottom, and was not fit for the Voyage; and that if
+they met with contrary Winds, and bad Weather, their Stock of Provision
+might fall short; and that as they were not far from the _English_
+Settlement of _Carolina_, they might either on that or the Coast of
+_Virginia, Maryland, Pensylvania, New-York_, or _New-England_, intercept
+ships which traded to the Islands with Provisions, and by that Means
+provide themselves with Bread, Flower, and other Necessaries. An Account
+of the Provisions were taken, and finding they had Provisions for four
+Months. Captain _Misson_ called all Hands upon Deck, and told them, as
+the Council differed in the Course they should steer, he thought it
+reasonable to have it put to the Vote of the whole Company. That for his
+Part, he was for going to the Coast of _Guiney_, where they might
+reasonably expect to meet with valuable Prizes; but should they fail in
+their Expectation one Way, they would be sure of having it answered
+another; for they could then throw themselves in that of the
+_East-India_ Ships, and he need not tell them, that the outward bound
+dreined _Europe_ of what Money they drew from America. He then gave the
+Sentiments of those who were against him, and their Reasons, and begg'd
+that every one would give his Opinion and Vote according as he thought
+most conducive to the Good of all. That he should be far from taking it
+ill if they should reject what he had proposed, since he had no private
+Views to serve. The Majority of Votes fell on the Captain's Side, and
+they accordingly shaped their Course for the Coast of Guiney, in which
+Voyage nothing remarkable happened. On their Arrival on the Gold-Coast,
+they fell in with the _Nieuwstadt_ of _Amsterdam_, a Ship of 18 Guns,
+commanded by Capt. _Blacs_, who made a running Fight of five Glasses:
+This Ship they kept with them, putting on Board 40 Hands, and bringing
+all the Prisoners on Board the _Victoire_, they were Forty three in
+Number, they left _Amsterdam_ with Fifty six, seven were killed in the
+Engagement, and they had lost six by Sickness and Accidents, one falling
+overboard, and one being taken by a Shark going overboard in a Calm.
+
+The _Nieuwstadt_ had some Gold-Dust on Board, to the Value of about 2000
+l. Sterling, and a few Slaves to the Number of Seventeen, for she had
+but begun to Trade; the Slaves were a strengthening of their Hands, for
+the Captain order'd them to be cloathed out of Dutch Mariners Chests,
+and told his Men, 'That the Trading for those of our own Species, cou'd
+never be agreeable to the Eyes of divine Justice: That no Man had Power
+or the Liberty of another; and while those who profess'd a more
+enlightened Knowledge of the Deity, sold Men like Beasts; they prov'd
+that their Religion was no more than Grimace, and that they differ'd
+from the _Barbarians_ in Name only, since their Practice was in nothing
+more humane: For his Part, and he hop'd, he spoke the Sentiments of all
+his brave Companions, he had not exempted his Neck from the galling Yoak
+of Slavery, and asserted his own Liberty, to enslave others. That
+however, these Men were distinguish'd from the _Europeans_ by their
+Colour, Customs, or religious Rites, they were the Work of the same
+omnipotent Being, and endued with equal Reason: Wherefore, he desired
+they might be treated like Freemen (for he wou'd banish even the Name of
+Slavery from among them)' and divided into Messes among them, to the End
+they might the sooner learn their Language, be sensible of the
+Obligation they had to them, and more capable and zealous to defend that
+Liberty they owed to their Justice and Humanity.
+
+This Speech of _Misson_'s was received with general Applause, and the
+Ship rang with _vive le Capitain_ Misson. Long live Capt. _Misson_.--The
+Negroes were divided among the _French_, one to a Mess, who, by their
+Gesticulations, shew'd they were gratefully sensible of their being
+delivered from their Chains. Their Ship growing very foul, and going
+heavily through the Water, they run into the River of _Lagoa_, where
+they hove her down, taking out such Planks as had suffer'd most by the
+Worms, and substituting new in their Room.
+
+After this they careened the Prize, and so put out to Sea, steering to
+the Southward, and keeping along the Coast, but met with Nothing. All
+this while, the greatest Decorum and Regularity was observed on Board
+the _Victoire_; but the _Dutch_ Prisoners Example began to lead 'em into
+Swearing and Drunkenness, which the Captain remarking, thought it was
+best to nip these Vices in the Bud; and calling both the _French_ and
+_Dutch_ upon Deck, he address'd himself to the former, desiring their
+Captain, who spoke French excellently well, to interpret what he said to
+those who did not understand him. He told them, 'before he had the
+Misfortune of having them on Board, his Ears were never grated with
+hearing the Name of the great Creator prophaned, tho' he, to his Sorrow,
+had often since heard his own Men guilty of that Sin, which administer'd
+neither Profit nor Pleasure, and might draw upon them a severe
+Punishment: That if they had a just Idea of that great Being, they wou'd
+never mention him, but they wou'd immediately reflect on his Purity and
+their own Vileness. That we so easily took Impression from our Company,
+that the _Spanish_ Proverb says, _let a Hermit and a Thief live
+together, the Thief wou'd become Hermit, or the Hermit Thief_: That he
+saw this verified in his Ship, for he cou'd attribute the Oaths and
+Curses he had heard among his brave Companions, to nothing but the
+odious Example of the _Dutch_: That this was not the only Vice they had
+introduced, for before they were on Board, his Men were Men, but he
+found by their beastly Pattern they were degenerated into Brutes, by
+drowning that only Faculty, which distinguishes between Man and Beast,
+_Reason_. That as he had the Honour to command them, he could not see
+them run into these odious Vices without, a sincere Concern, as he had a
+paternal Affection for them; and he should reproach himself as
+neglectful of the common Good, if he did not admonish them; and as by
+the Post which they had honour'd him, he was obliged to have a watchful
+Eye over their general Interest; he was obliged to tell them his
+Sentiments were, that the _Dutch_ allured them to a dissolute Way of
+Life, that they might take some Advantage over them: Wherefore, as his
+brave Companions, he was assured, wou'd be guided by Reason, he gave the
+_Dutch_ Notice, that the first whom he catch'd either with an Oath in
+his Mouth or Liquor in his Head, should be brought to the Geers, whipped
+and pickled, for an Example to the rest of his Nation: As to his
+Friends, his Companions, his Children, those gallant, those generous,
+noble, and heroick Souls he had the Honour to command, he entreated them
+to allow a small Time for Reflection, and to consider how little
+Pleasure sure, and how much Danger, might flow from imitating the Vices
+of their Enemies; and that they would among themselves, make a Law for
+the Suppression of what would otherwise estrange them from the Source of
+Life, and consequently leave them destitute of his Protection.'
+
+It is not to be imagined what Efficacy this Speech had on both Nations:
+The _Dutch_ grew continent in Fear of Punishment, and the _French_ in
+Fear of being reproach'd by their good Captain, for they never mentioned
+him without this Epithet. Upon the Coast of _Angola_, they met with a
+second Dutch Ship, the Cargo of which consisted of Silk and Woolen
+Stuffs, Cloath, Lace, Wine, Brandy, Oyl, Spice, and hard Ware; the Prize
+gave Chase and engaged her, but upon the coming up of the _Victoire_ she
+struck. This Ship opportunely came in their Way, and gave full Employ to
+the Taylors, who were on Board, for the whole Crew began to be out at
+Elbows: They plundered her of what was of Use to their own Ship, and
+then sunk her.
+
+The Captain having about ninety Prisoners on Board, proposed the giving
+them the Prize, with what was necessary for their Voyage, and sending
+them away; which being agreed to, they shifted her Ammunition on Board
+the _Victoire_, and giving them Provision to carry them to the
+Settlements the Dutch have on the Coast, _Misson_ called them up, told
+them what was his Design, and ask'd if any of them was willing to share
+his Fortune: Eleven _Dutch_ came into him, two of which were
+Sail-makers, one an Armourer, and one a Carpenter, necessary Hands; the
+rest he let go, not a little surprised at the Regularity, Tranquillity,
+and Humanity, which they found among these new fashioned Pyrates.
+
+They had now run the Length of _Soldinia_ Bay about ten Leagues to the
+Northward of _Table_ Bay. As here is good Water, safe Riding, plenty of
+Fish and fresh Provision, to be got of the Natives for the Merchandize
+they had on Board, it was resolved to stay here some little Time for
+Refreshments. When they had the Bay open, they spied a tall Ship, which
+instantly got under sail, and hove out _English_ Colours. The _Victoire_
+made a clear Ship, and hove out her _French_ Ensign, and a smart
+Engagement began. _The English_ was a new Ship built for 40 Guns, though
+she had but 32 mounted, and 90 Hands. _Misson_ gave Orders for boarding,
+and his Number of fresh Men he constantly poured in, after an obstinate
+Dispute obliged the _English_ to fly the Decks, and leave the _French_
+Masters of their Ship, who promised, and gave them, good Quarters, and
+stripp'd not a Man.
+
+They found on Board the Prize some Bales of _English_ Broad-Cloath, and
+about 60000 l. in _English_ Crown Pieces, and _Spanish_ Pieces of Eight.
+The _English_ Captain was killed in the Engagement, and 14 of his Men:
+The _French_ lost 12, which was no small Mortification, but did not,
+however provoke them to use their Prisoners harshly. Captain _Misson_
+was sorry for the Death of the Commander, whom he buried on the Shoar,
+and one of his Men being a Stone-Cutter, he raised a Stone over his
+Grave with these Words, _Icy gist un brave Anglois_, Here lies a gallant
+_English_ Man; when he was buried he made a tripple Discharge of 50
+small Arms, and fired Minute Guns.
+
+The _English_, knowing whose Hands they were fallen into, charm'd with
+_Misson_'s Humanity, 30 of them, in 3 Days Space, desired to take on
+with him. He accepted 'em, but at the same Time gave 'em to understand,
+that in taking on with him they were not to expect they should be
+indulged in a dissolute and immoral Life. He now divided his Company
+between the two Ships, and made _Caraccioli_ Captain of the Prize,
+giving him Officers chosen by the publick Suffrage. The 17 Negroes began
+to understand a little _French_, and to be useful Hands, and in less
+than a Month all the _English_ Prisoners came over to him, except their
+Officers.
+
+He had two Ships well mann'd with resolute Fellows; they now doubled the
+Cape, and made the South End of _Madagascar_, and one of the _English_
+Men telling Captain _Misson_, that the _European_ Ships bound for
+_Surat_ commonly touch'd at the Island of _Johanna_, he sent for Captain
+_Caracciola_ on Board, and it was agreed to cruise off that Island. They
+accordingly sailed on the West-Side of _Madagascar_ and off the Bay _de
+Diego_. About half Seas over between that Bay and the Island of
+_Johanna_, they came up with an _English East-India_ Man, which made
+Signals of Distress as soon as she spy'd _Misson_ and his Prize; they
+found her sinking by an unexpected Leak, and took all her Men on Board,
+though they could get little out of her before she went down. The
+_English_, who were thus miraculously saved from perishing, desired to
+be set on Shoar at _Johanna_, where they hop'd to meet with either a
+_Dutch_ or _English_ Ship in a little Time, and the mean while they were
+sure of Relief.
+
+They arrived at Johanna, and were kindly received by the Queen-Regent
+and her Brother, on account of the _English_ on the one Hand, and of
+their  Strength on the other, which the Queen's Brother, who had the
+Administration of Affairs, was not able to make Head against, and hoped
+they might assist him against the King of _Mohila_, who threaten'd him
+with a Visit.
+
+This is an Island which is contiguous, in a manner, to _Johanna_, and
+lies about N. W. and by N. from it. _Caraccioli_ told _Misson_ he might
+make his Advantage in widening the Breach between these two little
+Monarchies, and, by offering his Assistance to that of _Johanna_, in a
+manner rule both, For these would count him as their Protector, and
+those come to any Terms to buy his Friendship, by which Means he would
+hold the Ballance of Power between them. He followed this Advice, and
+offered his Friendship and Assistance to the Queen, who very readily
+embraced it.
+
+I must advise the Reader, that many of this Island speak _English_, and
+that the _English_ Men who were of _Misson's_ Crew, and his
+Interpreters, told them, their Captain, though not an _Englishman_, was
+their Friend and Ally, and a Friend and Brother to the _Johanna_ Men,
+for they esteem the _English_ beyond all other Nations.
+
+They were supplied by the Queen with all Necessaries of Life, and
+_Misson_ married her Sister, as _Caraccioli_ did the Daughter of her
+Brother, whose Armory, which consisted before of no more than two rusty
+Fire-Locks, and three Pistols, he furnish'd with thirty Fuzils, as many
+Pair of Pistols, and gave him two Barrels of Powder, and four of Ball.
+
+Several of his Men took Wives, and some requited their Share of the
+Prizes, which was justly given them, they designing to settle in this
+Island, but the Number of these did not exceed ten, which Loss was
+repaired by thirty of the Crew (they had saved from perishing) coming in
+to him.
+
+While they past their Time in all manner of Diversions the Place would
+afford them, as hunting, feasting, and visiting the Island, the King of
+_Mohila_ made a Descent, and alarm'd the whole Country. _Misson_ advised
+the Queen's Brother not to give him any Impediment, but let him get into
+the Heart of the Island, and he would take Care to intercept their
+Return; but the Prince answered, should he follow his Advice the Enemy
+would do him and the Subjects an irreparable Damage, in destroying the
+Cocoa Walks, and for that Reason he must endeavour to stop his Progress.
+Upon this Answer he asked the _English_ who were not under his Command,
+if they were willing to join him in repelling the Enemies of their
+common Host, and one and all consenting, he gave them Arms, and mixed
+them with his own Men, and about the same Number of _Johannians_, under
+the Command of _Caraccioli_ and the Queen's Brother, and arming out all
+his Boats, he went himself to the Westward of the Island, where they
+made their Descent. The Party which went by Land, fell in with, and beat
+the _Mohilians_ with great Ease, who were in the greatest Consternation,
+to find their Retreat cut off by _Misson_'s Boats. The _Johannians_,
+whom they had often molested, were so enraged, that they gave Quarter to
+none, and out of 300 who made the Descent, if _Misson_ and _Caraccioli_
+had not interposed, not a Soul had escaped; 113 were taken Prisoners by
+his Men, and carried on Board his Ships. These he sent fate to _Mohila_,
+with a Message to the King, to desire he would make Peace with his
+Friend and Ally the King of _Johanna_; but that Prince, little affected
+with the Service done him in the Preservation of his Subjects, sent him
+Word he took Laws from none, and knew when to make War and Peace without
+his Advice, which he neither asked nor wanted. _Misson_, irritated by
+this rude Answer, resolved to transfer the War into his own Country, and
+accordingly set sail for _Mohila_, with about 100 _Johanna_ Men. The
+Shoar, on Sight of the Ships, was filled with Men to hinder a Descent if
+intended, but the great Guns soon dispersed this Rabble, and under their
+Cover he landed the _Johannians_, and an equal Number of _French_ and
+_English_. They were met by about 700 _Mohilians_, who pretended to stop
+their Passage, but their Darts and Arrows were of little avail against
+_Misson_'s Fuzils; the first Discharge made a great Slaughter, and about
+20 Shells which were thrown among them, put them to a confus'd Flight.
+The Party of _Europeans_ and _Johannians_ then marched to their
+Metropolis, without Resistance, which they reduced to Ashes, and the
+_Johannians_ cut down all the Cocoa Walks that they could for the Time,
+for towards Evening they returned to their Ships, and stood off to Sea.
+
+At their Return to _Johanna_ the Queen made a Festival, and magnified
+the Bravery and Service of her Guests, Friends, and Allies. This Feast
+lasted four Days, at the Expiration of which Time the Queen's Brother
+proposed to Captain _Misson_ the making another Descent, in which he
+would go in Person, and did not doubt subjecting the _Mohilians_; but
+this was not the Design of _Misson_, who had Thoughts of fixing a
+Retreat on the North West Side of _Madagascar_, and look'd upon the
+Feuds between these two Islands advantageous to his Views, and therefore
+no way his Interest to suffer the one to overcome the other; for while
+the Variance was kept up, and their Forces pretty much upon a Level, it
+was evident their Interest would make both Sides caress him; he
+therefore answer'd, that they ought to deliberate on the Consequences,
+for they might be deceived in their Hopes, and find the Conquest less
+easy than they imagined. That the King of _Mohilia_ would be more upon
+his Guard, and not only intrench himself, but gall them with frequent
+Ambuscades, by which they must inevitably lose a Number of Men; and, if
+they were forced to retire with Loss, raise the Courage of the
+_Mohilians_, and make them irreconcilable Enemies to the _Johannians_,
+and intirely deprive him of the Advantages with which he might now make
+a Peace, having twice defeated them: That he could not be always with
+them, and at his leaving _Johanna_ he might expect the King of _Mohilia_
+would endeavour to take a bloody Revenge for the late Damages. The Queen
+gave intirely into _Misson's_ Sentiments.
+
+While this was in Agitation four _Mohilians_ arrived as Ambassadors to
+propose a Peace. They finding the _Johannians_ upon high Terms, one of
+them spoke to this Purpose; O ye Johannians, _do not conclude from your
+late Success, that Fortune will be always favourable; she will not
+always give you the Protection of the_ Europeans, _and without their
+Help its possible you might now sue for a Peace, which you seem averse
+to. Remember the Sun rises, comes to its Meridian Height, and stays not
+there, but declines in a Moment. Let this admonish you to reflect on the
+constant Revolution of all sublunary Affairs, and the greater is your
+Glory, the nearer you are to your Declension. We are taught by every
+Thing we see, that there is no Stability in the World, but Nature is in
+continual Movement. The Sea, which o'er flows the Sands has its Bounds
+set, which it cannot pass, which the Moment it has reached, without
+abiding, returns back to the Bottom of the Deep. Every Herb, every Shrub
+and Tree, and even our own Bodies, teach us this Lesson, that nothing is
+durable, or can be counted upon. Time passes away insensibly, one Sun
+follows another, and brings its Changes with it. To-Day's Globe of Light
+sees you strengthened by these_ Europeans _elate with victory, and we,
+who have been used to conquer you, come to ask a Peace. To Morrow's Sun
+may see you deprived of your present Succours, and the_ Johannians
+_petitioning us; as therefore we cannot say what to Morrow may bring
+forth, it would be unwise on uncertain Hopes to forego a certain
+Advantage, as surely Peace ought to be esteem'd by every wise Man_.
+
+Having said this, the Ambassadors withdrew, and were treated by the
+Queen's Orders. After the Council had concluded, they were again call'd
+upon, and the Queen told them, that by the Advice of her good Friends,
+the _Europeans_, and those of her Council, she agreed to make a Peace,
+which she wish'd might banish all Memory of former Injuries That they
+must own the War was begun by them, and that she was far from being the
+Agressor; she only defended her self in her own Kingdom, which they had
+often invaded, though, till within few Days, she had never molested
+their Coasts. If then they really desired to live amicably with her,
+they must resolve to send two of the King's Children, and ten of the
+first Nobility, as Hostages, that they might, when they pleased, return,
+for that was the only Terms on which she would desist prosecuting the
+Advantages she now had, with the utmost Vigour.
+
+The Ambassadors returned with this Answer, and, about ten Days after,
+the two Ships appearing upon their Coasts, they sent off to give Notice,
+that their King comply'd with the Terms proposed, would send the
+Hostages, and desired a Cessation of all Hostility, and, at the same
+Time, invited the Commanders on Shoar. The _Johanna_ Men on Board
+disswaded their accepting the Invitation; but _Misson_ and _Caraccioli_,
+fearing nothing, went, but arm'd their Boat's Crew. They were received
+by the King with Demonstrations of Friendship, and they dined with him
+under a Tamerane Tree; but when they parted from him, and were returning
+to their Boats, they were inclosed by, at least, 100 of the _Mohilians_,
+who set upon them with the utmost Fury, and, in the first Flight of
+Arrows, wounded both the Captains, and killed four of their Boat's Crew
+of eight, who were with them; they, in return, discharged their Pistols
+with some Execution, and fell in with their Cutlasses; but all their
+Bravery would have stood them in little Stead, had not the Report of
+their Pistols alarm'd and brought the rest of their Friends to their
+Assistance, who took their Fuzils, and coming up while they were
+engaged, discharged a Volley on the Back of the Assailants, which laid
+twelve of them dead on the Spot. The Ships hearing this Fire, sent
+immediately the Yawls and Long-Boats well mann'd. Though the Islanders
+were a little damp'd in their Courage by this Fire of the Boats Crew,
+yet they did not give over the Fight, and one of them desperately threw
+himself upon _Caraccioli_, and gave him a deep Wound in his Side, with a
+long Knife, but he paid for the Rashness of the Attempt with his Life,
+one of the Crew cleaving his Skull. The Yawls and Long-Boats now
+arrived, and being guided by the Noise, reinforced their Companions, put
+the Traytors to Flight, and brought off their dead and wounded. The
+_Europeans_ lost by this Treachery seven slain outright, and eight
+wounded, six of which recovered.
+
+The Crew were resolved to revenge the Blood of their Officers and
+Comrades the next Day, and were accordingly on the Point of Landing,
+when two Canoes came off with two Men bound, the pretended Authors of
+this Treason, without the King's Knowledge, who had sent 'em that they
+might receive the Punishment due to their Villany. The _Johanna_ Men on
+Board were call'd for Interpreters, who having given this Account,
+added, that the King only sacrificed these Men, but that they should not
+believe him, for he certainly had given Orders for assassinating the
+_Europeans_; and the better Way was to kill all the _Mohilians_ that
+came in the Canoes as well as the two Prisoners; go back to _Johanna_,
+take more of their Countrymen, and give no Peace to Traytors; but
+_Misson_ was for no such violent Measures, he was averse to every Thing
+that bore the Face of Cruelty and thought a bloody Revenge, if Necessity
+did not enforce it, spoke a groveling and timid Soul; he, therefore,
+sent those of the Canoes back, and bid them tell their King, if before
+the Evening he sent the Hostages agreed upon, he should give Credit to
+his Excuse, but if he did not, he should believe him the Author of the
+late vile Attempt on his Life.
+
+The Canoes went off but returned not with an Answer, wherefore, he bid
+the _Johanna_ Men tell the two Prisoners that they should be set on
+Shore the next Morning, and order'd them to acquaint their King, he was
+no Executioner to put those to Death whom he had condemn'd, but that he
+should find, he knew how to revenge himself of his Treason. The
+Prisoners being unbound, threw themselves at his Feet, and begg'd that
+he would not send them ashore, for they should be surely put to Death,
+for the Crime they had committed, was, the dissuading the barbarous
+Action of which they were accused as Authors.
+
+Next Day the two Ships landed 200 Men, under the Cover of their Canon;
+but that Precaution of bringing their Ships close to the Shore they
+found needless; not a soul appearing, they march'd two Leagues up the
+Country, when they saw a Body of Men appear behind some Shrubs;
+_Caraccioli's_ Lieutenant, who commanded the right Wing, with fifty Men
+made up to them, but found he had got among Pit Falls artificially
+cover'd, several of his Men falling into them, which made him halt, and
+not pursue those _Mohilians_ who made a feint Retreat to ensnare him,
+thinking it dangerous to proceed farther; and seeing no Enemy would face
+them, they retired the same Way they came, and getting into their Boats,
+went on Board the Ships, resolving to return with a strong
+Reinforcement, and make Descents at one and the same Time in different
+Parts of the Island. They ask'd the two Prisoners how the Country lay,
+and what the Soil was on the North Side the Island; and they answer'd it
+was morass, and the most dangerous Part to attempt, it being a Place
+where they shelter on any imminent Danger.
+
+The Ships return'd to _Johanna_, where the greatest Tenderness and Care
+was shown for the Recovery and Cure of the two Captains and of their
+Men; they lay six Weeks before they were able to walk the Decks, for
+neither of them would quit his Ship. Their _Johanna_ Wives expressed a
+Concern they did not think them capable of, nay, a Wife of one of the
+wounded Men who died, stood some Time looking upon the Corpse as
+motionless as a Statue, then embracing it, without shedding a Tear,
+desired she might take it ashore to wash and bury it; and at the same
+Time, by an Interpreter, and with a little Mixture of _European_
+Language, she had, begg'd her late Husband's Friends would take their
+Leave of him the next Day.
+
+Accordingly a Number went ashore, and carried with them the Dividend,
+which fell to his Share, which the Captain order'd to be given his
+Widow; when she saw the Money, she smil'd, and ask'd if all, all that
+was for her? Being answered in the affirmative, and what Good will all
+that shining Dirt do me, if I could with it purchase the Life of my
+Husband, and call him back from the Grave, I would accept it with
+Pleasure, but as it is not sufficient to allure him back to this World,
+I have no Use for it; do with it what you please. Then she desired they
+would go with her and perform the last Ceremonies to her Husband's dead
+Body, after their Country Fashion, least he should be displeased, that
+she could not stay with them, to be a Witness, because she was in haste
+to go and be married again. She startled the _Europeans_ who heard this
+latter Part of her Speech so dissonant from the Beginning; however, they
+followed her, and she led them into a Plantane Walk, where they found a
+great many _Johanna_ Men and Women, sitting under the Shade of
+Plantanes, round the Corpse, which lay (as they all sate) on the Ground,
+covered with Flowers. She embraced them round, and then the _Europeans_,
+one by one, and after these Ceremonies, she poured out a Number of
+bitter Imprecations against the _Mohila_ Men, whose Treachery had
+darken'd her Husband's Eyes, and made him insensible of her Caresses,
+who was her first Love, to whom she had given her Heart, with her
+Virginity. She then proceeded in his Praises, calling him the Joy of
+Infants, the Love of Virgins, the Delight of the old, and the Wonder of
+the young, adding, he was strong and beautiful as the Cedar, brave as
+the Bull, tender as the Kid, and loving as the Ground Turtle; having
+finished this Oration, not unlike those of the _Romans_, which the
+nearest Relation of the deceas'd used to pronounce from the Rostrum, she
+laid her down by the Side of her Husband, embracing him, and sitting up
+again, gave herself a deep Wound under the left Breast with a Bayonet,
+and fell dead on her Husband's Corpse.
+
+The _Europeans_ were astonished at the Tenderness and Resolution of the
+Girl, for she was not, by what Her Mien spoke her, past seventeen; and
+they now admired, as much as they had secretly detested her, for saying
+she was in haste to be married again, the Meaning of which they did not
+understand.
+
+After the Husband and Wife were buried, the Crew return'd on Board, and
+gave an Account of what had pass'd; the Captains Wives (for _Misson_ and
+his were on Board the _Bijoux_, the Name they had given their Prize from
+her Make and Gilding) seem'd not in the least surprized, and
+_Caraccioli's_ Lady only said, she must be of noble Descent, for none
+but the Families of the Nobility had the Privilege allowed them of
+following their Husbands on pain, if they transgressed, of being thrown
+into the Sea, to be eat by Fish; and they knew, that their Souls could
+not rest as long as any of the Fish, who fed upon them, lived. _Misson_
+asked, if they intended to have done the same Thing had they died? We
+should not, answer'd his Wife, have disgraced our Families; nor is our
+Tenderness for our Husbands inferior to hers whom you seem to admire.
+
+After their Recovery, _Misson_ proposes a Cruize, on the Coast of
+_Zangueber_, which being agreed to, he and _Caraccioli_ took Leave of
+the Queen and her Brother, and would have left their Wives on the
+Island, but they could by no Means be induced to the Separation; it was
+in vain to urge the Shortness of the Time they were to Cruize; they
+answer'd it was farther than _Mohila_ they intended to go, and if they
+were miserable in that short Absence, they could never support a longer;
+and if they would not allow them to keep them Company the Voyage, they
+must not expect to see them at their Return, if they intended one.
+
+In a Word they were obliged to yield to them, but told them, if the
+Wives of their Men should insist as strongly on following their Example,
+their Tenderness, would be their Ruin, and make them a Prey to their
+Enemies; they answer'd the Queen should prevent that, by ordering no
+Woman should go on board, and if any were in the Ships, they should
+return on Shore: This Order was accordingly made, and they set Sail for
+the River of _Mozembique_. In about ten Days Cruize after they had left
+_Johanna_, and about 15 Leagues to the Eastward of this River, they fell
+in with a stout _Portuguese_ Ship of 60 Guns, which engaged them from
+Break of Day till Two in the Afternoon, when the Captain being killed,
+and a great Number of Men lost, she struck: This proved a very rich
+Prize, for she had the Value of 250000 _L_. Sterling on Board, in
+Gold-Dust. The two Women never quitted the Decks all the Time of the
+Engagement, neither gave they the least Mark of Fear, except for their
+Husbands: This Engagement cost them thirty Men, and _Caraccioli_ lost
+his right Leg; the Slaughter fell mostly on the _English_, for of the
+above Number, twenty were of that Nation: The _Portuguese_ lost double
+the Number. _Caraccioli's_ Wound made them resolve to make the best of
+their Way for _Johanna_ where the greatest Care was taken of their
+wounded, not one of whom died, tho' their Number amounted to Twenty
+seven.
+
+_Caraccioli_ kept his Bed two Months, but _Misson_ seeing him in a fair
+way of Recovery, took what Hands could be spar'd from the _Bijoux_,
+leaving her sufficient for Defence, and went out, having mounted ten of
+the _Portuguese_ Guns, for he had hitherto carried but thirty, though he
+had Ports for forty. He stretched over to _Madagascar_, and coasted
+along this Island to the Northward, as far as the most northerly Point,
+when turning back, he enter'd a Bay to the northward of _Diego Suares_.
+He run ten Leagues up this Bay, and on the larboard Side found it
+afforded a large, and safe, Harbour, with plenty of fresh Water. He came
+here to an Anchor, went ashore and examined into the Nature of the Soil,
+which he found rich, the Air wholesome, and the Country level. He told
+his Men, that this was an excellent Place for an Asylum, and that he
+determined here to fortify and raise a small Town, and make Docks for
+Shipping, that they might have some Place to call their own; and a
+Receptacle, when Age or Wounds had render'd them incapable of Hardship,
+where they might enjoy the Fruits of their Labour, and go to their
+Graves in Peace. That he would not, however, set about this, till he had
+the Approbation of the whole Company; and were he sure they would all
+approve this Design, which he hoped, it being evidently for the general
+Good, he should not think it adviseable to begin any Works, lest the
+Natives should, in his Absence, destroy them; but however, as they had
+nothing upon their Hands, if they were of his Opinion, they might begin
+to fall and square Timber, ready for the raising a wooden Fort, when
+they return'd with their Companions.
+
+The Captain's Motion was universally applauded, and in ten Days they
+fell'd and rough hew'd a hundred and fifty large Trees, without any
+Interruption from, or seeing any of, the Inhabitants. They fell'd their
+Timber at the Waters Edge, so that they had not the Trouble of hawling
+them any way, which would have employ'd a great deal more Time: They
+returned again, and acquainted their Companions with what they had seen
+and done, and with the Captain's Resolution, which they one and all came
+into.
+
+Captain _Misson_ then told the Queen, as he had been serviceable to her
+in her War with the Island of _Mohila_, and might continue to be of
+farther Use, he did not question her lending him Assistance in the
+settling himself on the Coast of _Madagascar_, and to that end, furnish
+him with 300 Men, to help in his Buildings; the Queen answered, she
+could do nothing without Consent of Council, and that she would assemble
+her Nobility, and did not question their agreeing to any Thing he could
+reasonably define, for they were sensible of the Obligations the
+_Johanians_ had to him. The Council was accordingly called, and
+_Misson_'s Demand being told, one of the eldest said, he did not think
+it expedient to comply with it, nor safe to refuse; that they should in
+agreeing to give him that Assistance, help to raise a Power, which might
+prove formidable to themselves, by the being so near a Neighbour; and
+these Men who had lately protected, might, when they found it for their
+Interest, enslave them. On the other hand, if they did not comply, they
+had the Power to do them great Damage. That they were to make choice of
+the least of two possible Evils, for he could prognosticate no Good to
+_Johanna_, by their settling near it. Another answered, that many of
+them had _Johanna_ Wives, that it was not likely they would make Enemies
+of the _Johanna_ Men at first settling, because their Friendship might
+be of Use to them; and from their Children there was nothing to be
+apprehended in the next Generation, for they would be half their own
+Blood; that in the mean while, if they comply'd with the Request, they
+might be sure of an Ally, and Protector, against the King of _Mohila_;
+wherefore, he was for agreeing to the Demand.
+
+After a long Debate, in which every Inconvenience, and Advantage, was
+maturely considered, it was agreed to send with him the Number of Men he
+required, on Condition he should send them back in four Moons, make an
+Alliance with them, and War against _Mohila_; this being agreed to, they
+staid till _Caraccioli_ was thoroughly recovered, then putting the
+_Johannians_ on board the _Portuguese_ Ship with 40 _French_ and
+_English_ and 15 _Portuguese_ to work her, and setting Sail, they
+arrived at the Place where _Misson_ designed his Settlement, which he
+called _Libertalia_, and gave the Name of _Liberi_ to his People,
+desiring in that might be drown'd the distingush'd Names of _French_,
+_English_, _Dutch_, _Africans_, &c.
+
+The first Thing they sat about was, the raising a Fort on each Side the
+Harbour, which they made of an octogon Figure, and having finished and
+mounted them with 40 Guns taken out of the _Portuguese_, they raised a
+Battery on an Angle of ten Guns, and began to raise Houses and Magazines
+under the Protection of their Forts and Ships; the _Portuguese_ was
+unrigg'd, and all her Sails and Cordage carefully laid up. While they
+were very busily employed in the raising a Town, a Party which had often
+hunted and rambled four or five Leagues off their Settlement, resolved
+to venture farther into the Country. They made themselves some Huts, at
+about 4 Leagues distance from their Companions, and travell'd East South
+East, about 5 Leagues farther into the Country, when they came up with a
+Black, who was arm'd with a Bow, Arrows, and a Javelin; they with a
+friendly Appearance engaged the Fellow to lay by his Fear and go with
+them. They carried him to their Companions, and there entertained him
+three Days with a great Deal of Humanity, and then returned with him
+near the Place they found him, made him a Present of a Piece of scarlet
+Baze, and an Ax; he appeared overjoy'd at the Present, and left them
+with seeming Satisfaction.
+
+The Hunters imagined that there might be some Village not far off, and
+observing that he look'd at the Sun, and then took his Way direct South,
+they travell'd on the same Point of the Compass, and from the Top of a
+Hill they spied a pretty large Village, and went down to it; the Men
+came out with their Arms, such as before described, Bows, Arrows, and
+Javelins, but upon two only of the Whites advancing, with Presents of
+Axes, and Baze in their Hands, they sent only four to meet them. The
+Misfortune was, that they could not understand one another, but by their
+pointing to the Sun, and holding up one Finger, and making one of them
+go forward, and return again with shewing their Circumcision, and
+pointing up to Heaven with one Finger, they apprehended, they gave them
+to understand, there was but one God, who had sent one Prophet, and
+concluded from thence, and their Circumcision they were _Mahometans_;
+the Presents were carried to their Chief, and he seem'd to receive them
+kindly, and by Signs invited the Whites into their Village; but they,
+remembring the late Treachery of the _Mohilians_, made Signs for
+Victuals to be brought them where they were.
+
+_More of the History of these Adventurers in another Place._
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Of Captain Mission, by Daniel Defoe
+
+*** END OF THIS PROJECT GUTENBERG EBOOK OF CAPTAIN MISSION ***
+
+***** This file should be named 7779-8.txt or 7779-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/7/7/7/7779/
+
+Produced by David Starner, Deirdre Menchaca, Ted Garvin
+and the Online Distributed Proofreading Team
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

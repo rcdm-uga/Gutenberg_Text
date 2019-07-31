@@ -1,0 +1,4581 @@
+Project Gutenberg's Two Gentlemen of Verona, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Two Gentlemen of Verona
+       The Works of William Shakespeare [Cambridge Edition] [9 vols.]
+
+Author: William Shakespeare
+
+Editor: William George Clark
+        John Glover
+
+Release Date: November 4, 2007 [EBook #23043]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TWO GENTLEMEN OF VERONA ***
+
+
+
+
+Produced by Louise Hope, Jonathan Ingram and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+
+
+
+[Transcriber's Note:
+
+This text of _Two Gentlemen of Verona_ is from Volume I of the
+nine-volume 1863 Cambridge edition of Shakespeare. The Preface
+(e-text 23041) and the other plays from this volume are each
+available as separate e-texts.
+
+General Notes are in their original location at the end of the play.
+Text-critical notes are grouped at the end of each Scene. All line
+numbers are from the original text; line breaks in dialogue--including
+prose passages--are unchanged. Brackets are also unchanged; to avoid
+ambiguity, footnotes and linenotes are given without added brackets.
+In the notes, numerals printed as subscripts are shown inline as
+F1, F2, Q1....
+
+Texts cited in the Notes are listed at the end of the e-text.]
+
+
+
+
+  THE WORKS
+
+  of
+
+  WILLIAM SHAKESPEARE
+
+
+  Edited by
+
+  WILLIAM GEORGE CLARK, M.A.
+  Fellow and Tutor of Trinity College, and Public Orator
+  in the University of Cambridge;
+
+  and JOHN GLOVER, M.A.
+  Librarian Of Trinity College, Cambridge.
+
+
+  _VOLUME I._
+
+
+  Cambridge and London:
+  MACMILLAN AND CO.
+  1863.
+
+
+
+
+THE
+
+TWO GENTLEMEN OF VERONA.
+
+
+
+
+DRAMATIS PERSONÆ[1].
+
+
+  DUKE OF MILAN[2], Father to Silvia.
+  VALENTINE,  }
+  PROTEUS[3], } the two Gentlemen.
+  ANTONIO[4], Father to Proteus.
+  THURIO, a foolish rival to Valentine.
+  EGLAMOUR, Agent for Silvia in her escape.
+  HOST, where Julia lodges.
+  OUTLAWS, with Valentine.
+  SPEED, a clownish Servant to Valentine.
+  LAUNCE, the like to Proteus.
+  PANTHINO[5], Servant to Antonio.
+
+  JULIA, beloved of Proteus.
+  SILVIA, beloved of Valentine.
+  LUCETTA, waiting-woman to Julia.
+
+  Servants, Musicians[6].
+
+SCENE, _Verona; Milan; the frontiers of Mantua[7]_.
+
+
+  Footnotes:
+
+  1: DRAMATIS PERSONÆ.] THE NAMES OF ALL THE ACTORS F1, at the end
+    of the play.
+  2: OF MILAN] added by Pope.
+  3: PROTEUS] Steevens. PROTHEUS Ff. See note (I).
+  4: ANTONIO] Capell. ANTHONIO Ff.
+  5: PANTHINO] Capell. PANTHION Ff. See note (I).
+  6: _Servants, Musicians_] Theobald.
+  7: SCENE ...] Pope and Hanmer.
+
+
+
+
+THE
+
+TWO GENTLEMEN OF VERONA.
+
+
+
+
+ACT I.
+
+
+SCENE I. _Verona. An open place._
+
+  _Enter VALENTINE and PROTEUS._
+
+_Val._ Cease to persuade, my loving Proteus:
+Home-keeping youth have ever homely wits.
+Were't not affection chains thy tender days
+To the sweet glances of thy honour'd love,
+I rather would entreat thy company                                   5
+To see the wonders of the world abroad,
+Than, living dully sluggardized at home,
+Wear out thy youth with shapeless idleness.
+But since thou lovest, love still, and thrive therein,
+Even as I would, when I to love begin.                              10
+
+_Pro._ Wilt thou be gone? Sweet Valentine, adieu!
+Think on thy Proteus, when thou haply seest
+Some rare note-worthy object in thy travel:
+Wish me partaker in thy happiness,
+When thou dost meet good hap; and in thy danger,                    15
+If ever danger do environ thee,
+Commend thy grievance to my holy prayers,
+For I will be thy beadsman, Valentine.
+
+_Val._ And on a love-book pray for my success?
+
+_Pro._ Upon some book I love I'll pray for thee.                    20
+
+_Val._ That's on some shallow story of deep love:
+How young Leander cross'd the Hellespont.
+
+_Pro._ That's a deep story of a deeper love;
+For he was more than over shoes in love.
+
+_Val._ 'Tis true; for you are over boots in love,                   25
+And yet you never swum the Hellespont.
+
+_Pro._ Over the boots? nay, give me not the boots.
+
+_Val._ No, I will not, for it boots thee not.
+
+_Pro._                                      What?
+
+_Val._ To be in love, where scorn is bought with groans;
+Coy looks with heart-sore sighs; one fading moment's mirth          30
+With twenty watchful, weary, tedious nights:
+If haply won, perhaps a hapless gain;
+If lost, why then a grievous labour won;
+However, but a folly bought with wit,
+Or else a wit by folly vanquished.                                  35
+
+_Pro._ So, by your circumstance, you call me fool.
+
+_Val._ So, by your circumstance, I fear you'll prove.
+
+_Pro._ 'Tis love you cavil at: I am not Love.
+
+_Val._ Love is your master, for he masters you:
+And he that is so yoked by a fool,                                  40
+Methinks, should not be chronicled for wise.
+
+_Pro._ Yet writers say, as in the sweetest bud
+The eating canker dwells, so eating love
+Inhabits in the finest wits of all.
+
+_Val._ And writers say, as the most forward bud                     45
+Is eaten by the canker ere it blow,
+Even so by love the young and tender wit
+Is turn'd to folly; blasting in the bud,
+Losing his verdure even in the prime,
+And all the fair effects of future hopes.                           50
+But wherefore waste I time to counsel thee,
+That art a votary to fond desire?
+Once more adieu! my father at the road
+Expects my coming, there to see me shipp'd.
+
+_Pro._ And thither will I bring thee, Valentine.                    55
+
+_Val._ Sweet Proteus, no; now let us take our leave.
+To Milan let me hear from thee by letters
+Of thy success in love, and what news else
+Betideth here in absence of thy friend;
+And I likewise will visit thee with mine.                           60
+
+_Pro._ All happiness bechance to thee in Milan!
+
+_Val._ As much to you at home! and so, farewell.    [_Exit._
+
+_Pro._ He after honour hunts, I after love:
+He leaves his friends to dignify them more;
+I leave myself, my friends, and all, for love.                      65
+Thou, Julia, thou hast metamorphosed me,
+Made me neglect my studies, lose my time,
+War with good counsel, set the world at nought;
+Made wit with musing weak, heart sick with thought.
+
+  _Enter SPEED._
+
+_Speed._ Sir Proteus, save you! Saw you my master?                  70
+
+_Pro._ But now he parted hence, to embark for Milan.
+
+_Speed._ Twenty to one, then, he is shipp'd already,
+And I have play'd the sheep in losing him.
+
+_Pro._ Indeed, a sheep doth very often stray,
+An if the shepherd be awhile away.                                  75
+
+_Speed._ You conclude that my master is a shepherd,
+then, and I a sheep?
+
+_Pro._ I do.
+
+_Speed._ Why then, my horns are his horns, whether I
+wake or sleep.                                                      80
+
+_Pro._ A silly answer, and fitting well a sheep.
+
+_Speed._ This proves me still a sheep.
+
+_Pro._ True; and thy master a shepherd.
+
+_Speed._ Nay, that I can deny by a circumstance.
+
+_Pro._ It shall go hard but I'll prove it by another.               85
+
+_Speed._ The shepherd seeks the sheep, and not the sheep
+the shepherd; but I seek my master, and my master seeks
+not me: therefore I am no sheep.
+
+_Pro._ The sheep for fodder follow the shepherd; the
+shepherd for food follows not the sheep: thou for wages             90
+followest thy master; thy master for wages follows not
+thee: therefore thou art a sheep.
+
+_Speed._ Such another proof will make me cry 'baa.'
+
+_Pro._ But, dost thou hear? gavest thou my letter to
+Julia?                                                              95
+
+_Speed._ Ay, sir: I, a lost mutton, gave your letter to her,
+a laced mutton, and she, a laced mutton, gave me, a lost
+mutton, nothing for my labour.
+
+_Pro._ Here's too small a pasture for such store of muttons.
+
+_Speed._ If the ground be overcharged, you were best               100
+stick her.
+
+_Pro._ Nay: in that you are astray, 'twere best pound you.
+
+_Speed._ Nay, sir, less than a pound shall serve me for
+carrying your letter.
+
+_Pro._ You mistake; I mean the pound,--a pinfold.                  105
+
+_Speed._ From a pound to a pin? fold it over and over,
+'Tis threefold too little for carrying a letter to your lover.
+
+_Pro._ But what said she?
+
+_Speed._ [_First nodding_] Ay.
+
+_Pro._ Nod--Ay--why, that's noddy.                                 110
+
+_Speed._ You mistook, sir; I say, she did nod: and you
+ask me if she did nod; and I say, 'Ay.'
+
+_Pro._ And that set together is noddy.
+
+_Speed._ Now you have taken the pains to set it together,
+take it for your pains.                                            115
+
+_Pro._ No, no; you shall have it for bearing the letter.
+
+_Speed._ Well, I perceive I must be fain to bear with you.
+
+_Pro._ Why, sir, how do you bear with me?
+
+_Speed._ Marry, sir, the letter, very orderly; having nothing
+but the word 'noddy' for my pains.                                 120
+
+_Pro._ Beshrew me, but you have a quick wit.
+
+_Speed._ And yet it cannot overtake your slow purse.
+
+_Pro._ Come, come, open the matter in brief: what said
+she?
+
+_Speed._ Open your purse, that the money and the matter            125
+may be both at once delivered.
+
+_Pro._ Well, sir, here is for your pains. What said she?
+
+_Speed._ Truly, sir, I think you'll hardly win her.
+
+_Pro._ Why, couldst thou perceive so much from her?
+
+_Speed._ Sir, I could perceive nothing at all from her;            130
+no, not so much as a ducat for delivering your letter: and
+being so hard to me that brought your mind, I fear she'll
+prove as hard to you in telling your mind. Give her no
+token but stones; for she's as hard as steel.
+
+_Pro._ What said she? nothing?                                     135
+
+_Speed._ No, not so much as 'Take this for thy pains.'
+To testify your bounty, I thank you, you have testerned
+me; in requital whereof, henceforth carry your letters yourself:
+and so, sir, I'll commend you to my master.
+
+_Pro._ Go, go, be gone, to save your ship from wreck,              140
+Which cannot perish having thee aboard,
+Being destined to a drier death on shore.    [_Exit Speed._
+I must go send some better messenger:
+I fear my Julia would not deign my lines,
+Receiving them from such a worthless post.    [_Exit._             145
+
+
+  Notes: I, 1.
+
+  8: _with_] _in_ Capell.
+  19: _my_] F1. _thy_ F2 F3 F4.
+  21-28: Put in the margin as spurious by Pope.
+  25: _for_] _but_ Collier MS.
+  28: _thee_] om. S. Walker conj. See note (II).
+  30: _fading_] om. Hanmer.
+  48: _blasting_] _blasted_ Collier MS.
+  57: _To_] F1. _At_ F2 F3 F4. _To Milan!--let me hear_ Malone conj.
+  65: _leave_] Pope. _love_ Ff.
+  69: _Made_] _Make_ Johnson conj.
+  70: SCENE II. Pope.
+  70-144: Put in the margin by Pope.
+  77: _a_] F2 F3 F4. om. F1.
+  89: _follow_] _follows_ Pope.
+  102: _astray_] _a stray_ Theobald (Thirlby conj.)
+  _Nay: ... astray,_] Edd. _Nay, ... astray:_ Ff.
+  105: _a_] _the_ Delius (Capell conj.).
+  108, 109: Pro. _But what said she?_ Speed. [First nodding] _Ay._]
+    Edd.
+    Pro. _But what said she?_ Sp. _I._ Ff. Pro. _But what said she?_
+    Speed. _She nodded and said I._ Pope.
+    Pro. _But what said she? Did she nod?_ [Speed nods] Speed. _I._
+    Theobald.
+    Pro. _But what said she?_ [Speed _nods_] _Did she nod?_ Speed.
+    _I._ Capell.
+  110: _Nod--Ay--_] _Nod--I,_ Ff.
+  111, 112: _say ... say_] F1. _said ... said_ F2 F3 F4.
+  126: _at once_] F1. om. F2 F3 F4.
+  130-134: Printed as verse in Ff.
+  130: _from her_] _from her better_ Collier MS. to rhyme with
+    _letter_ in the next line.
+  132: _brought_] _brought to her_ Collier MS.
+  133: _your_] F1. _her_ F2 F3 F4. _you her_ Collier MS.
+  135: _What said she? nothing?_] _What said she, nothing?_ Ff.
+    _What, said she nothing?_ Pope.
+  137: _as 'Take ... I thank you_] _as 'I thank you; take ..._
+    Edd. conj.
+  _testerned_] F2 F3 F4. _cestern'd_ F1.
+  138: _henceforth_] F1 F3 F4. _hencefore_ F2.
+  _letters_] F1. _letter_ F2 F3 F4.
+
+
+SCENE II. _The same. Garden of JULIA'S house._
+
+  _Enter JULIA and LUCETTA._
+
+_Jul._ But say, Lucetta, now we are alone,
+Wouldst thou, then, counsel me to fall in love?
+
+_Luc._ Ay, madam; so you stumble not unheedfully.
+
+_Jul._ Of all the fair resort of gentlemen
+That every day with parle encounter me,                              5
+In thy opinion which is worthiest love?
+
+_Luc._ Please you repeat their names, I'll show my mind
+According to my shallow simple skill.
+
+_Jul._ What think'st thou of the fair Sir Eglamour?
+
+_Luc._ As of a knight well-spoken, neat and fine;                   10
+But, were I you, he never should be mine.
+
+_Jul._ What think'st thou of the rich Mercatio?
+
+_Luc._ Well of his wealth; but of himself, so so.
+
+_Jul._ What think'st thou of the gentle Proteus?
+
+_Luc._ Lord, Lord! to see what folly reigns in us!                  15
+
+_Jul._ How now! what means this passion at his name?
+
+_Luc._ Pardon, dear madam: 'tis a passing shame
+That I, unworthy body as I am,
+Should censure thus on lovely gentlemen.
+
+_Jul._ Why not on Proteus, as of all the rest?                      20
+
+_Luc._ Then thus,--of many good I think him best.
+
+_Jul._ Your reason?
+
+_Luc._ I have no other but a woman's reason;
+I think him so, because I think him so.
+
+_Jul._ And wouldst thou have me cast my love on him?                25
+
+_Luc._ Ay, if you thought your love not cast away.
+
+_Jul._ Why, he, of all the rest, hath never moved me.
+
+_Luc._ Yet he, of all the rest, I think, best loves ye.
+
+_Jul._ His little speaking shows his love but small.
+
+_Luc._ Fire that's closest kept burns most of all.                  30
+
+_Jul._ They do not love that do not show their love.
+
+_Luc._ O, they love least that let men know their love.
+
+_Jul._ I would I knew his mind.
+
+_Luc._ Peruse this paper, madam.
+
+_Jul._ 'To Julia.'--Say, from whom?                                 35
+
+_Luc._ That the contents will show.
+
+_Jul._ Say, say, who gave it thee?
+
+_Luc._ Sir Valentine's page; and sent, I think, from Proteus.
+He would have given it you; but I, being in the way,
+Did in your name receive it: pardon the fault, I pray.              40
+
+_Jul._ Now, by my modesty, a goodly broker!
+Dare you presume to harbour wanton lines?
+To whisper and conspire against my youth?
+Now, trust me, 'tis an office of great worth,
+And you an officer fit for the place.                               45
+There, take the paper: see it be return'd;
+Or else return no more into my sight.
+
+_Luc._ To plead for love deserves more fee than hate.
+
+_Jul._ Will ye be gone?
+
+_Luc._                That you may ruminate.    [_Exit._
+
+_Jul._ And yet I would I had o'erlook'd the letter:                 50
+It were a shame to call her back again,
+And pray her to a fault for which I chid her.
+What a fool is she, that knows I am a maid,
+And would not force the letter to my view!
+Since maids, in modesty, say 'no' to that                           55
+Which they would have the profferer construe 'ay.'
+Fie, fie, how wayward is this foolish love,
+That, like a testy babe, will scratch the nurse,
+And presently, all humbled, kiss the rod!
+How churlishly I chid Lucetta hence,                                60
+When willingly I would have had her here!
+How angerly I taught my brow to frown,
+When inward joy enforced my heart to smile!
+My penance is, to call Lucetta back,
+And ask remission for my folly past.                                65
+What, ho! Lucetta!
+
+  _Re-enter LUCETTA._
+
+_Luc._           What would your ladyship?
+
+_Jul._ Is't near dinner-time?
+
+_Luc._                      I would it were;
+That you might kill your stomach on your meat,
+And not upon your maid.
+
+_Jul._ What is't that you took up so gingerly?                      70
+
+_Luc._ Nothing.
+
+_Jul._ Why didst thou stoop, then?
+
+_Luc._ To take a paper up that I let fall.
+
+_Jul._ And is that paper nothing?
+
+_Luc._ Nothing concerning me.                                       75
+
+_Jul._ Then let it lie for those that it concerns.
+
+_Luc._ Madam, it will not lie where it concerns,
+Unless it have a false interpreter.
+
+_Jul._ Some love of yours hath writ to you in rhyme.
+
+_Luc._ That I might sing it, madam, to a tune.                      80
+Give me a note: your ladyship can set.
+
+_Jul._ --As little by such toys as may be possible.
+Best sing it to the tune of 'Light o' love.'
+
+_Luc._ It is too heavy for so light a tune.
+
+_Jul._ Heavy! belike it hath some burden, then?                     85
+
+_Luc._ Ay; and melodious were it, would you sing it.
+
+_Jul._ And why not you?
+
+_Luc._                I cannot reach so high.
+
+_Jul._ Let's see your song. How now, minion!
+
+_Luc._ Keep tune there still, so you will sing it out:
+And yet methinks I do not like this tune.                           90
+
+_Jul._ You do not?
+
+_Luc._           No, madam; it is too sharp.
+
+_Jul._ You, minion, are too saucy.
+
+_Luc._ Nay, now you are too flat,
+And mar the concord with too harsh a descant:
+There wanteth but a mean to fill your song.                         95
+
+_Jul._ The mean is drown'd with your unruly bass.
+
+_Luc._ Indeed, I bid the base for Proteus.
+
+_Jul._ This babble shall not henceforth trouble me.
+Here is a coil with protestation!     [_Tears the letter._
+Go get you gone, and let the papers lie:                           100
+You would be fingering them, to anger me.
+
+_Luc._ She makes it strange; but she would be best pleased
+To be so anger'd with another letter.    [_Exit._
+
+_Jul._ Nay, would I were so anger'd with the same!
+O hateful hands, to tear such loving words!                        105
+Injurious wasps, to feed on such sweet honey,
+And kill the bees, that yield it, with your stings!
+I'll kiss each several paper for amends.
+Look, here is writ 'kind Julia.' Unkind Julia!
+As in revenge of thy ingratitude,                                  110
+I throw thy name against the bruising stones,
+Trampling contemptuously on thy disdain.
+And here is writ 'love-wounded Proteus.'
+Poor wounded name! my bosom, as a bed,
+Shall lodge thee, till thy wound be throughly heal'd;              115
+And thus I search it with a sovereign kiss.
+But twice or thrice was 'Proteus' written down.
+Be calm, good wind, blow not a word away,
+Till I have found each letter in the letter,
+Except mine own name: that some whirlwind bear                     120
+Unto a ragged, fearful-hanging rock,
+And throw it thence into the raging sea!
+Lo, here in one line is his name twice writ,
+'Poor forlorn Proteus, passionate Proteus,
+To the sweet Julia':--that I'll tear away.--                       125
+And yet I will not, sith so prettily
+He couples it to his complaining names.
+Thus will I fold them one upon another:
+Now kiss, embrace, contend, do what you will.
+
+  _Re-enter LUCETTA._
+
+_Luc._ Madam,                                                      130
+Dinner is ready, and your father stays.
+
+_Jul._ Well, let us go.
+
+_Luc._ What, shall these papers lie like tell-tales here?
+
+_Jul._ If you respect them, best to take them up.
+
+_Luc._ Nay, I was taken up for laying them down:                   135
+Yet here they shall not lie, for catching cold.
+
+_Jul._ I see you have a month's mind to them.
+
+_Luc._ Ay, madam, you may say what sights you see;
+I see things too, although you judge I wink.
+
+_Jul._ Come, come; will't please you go?    [_Exeunt._             140
+
+
+  Notes: I, 2.
+
+  SCENE II.] SCENE III. Pope.
+  Garden &c.] Malone. Changes to Julia's chamber. Pope.
+  1: _now we are_] F1. _now are we_ F2 F3 F4.
+  5: _parle_] _par'le_ Ff.
+  15: _reigns_] _feigns_ Anon. conj.
+  18: _am_] _can_ Collier MS.
+  19: _censure ... gentlemen_] _censure on a lovely gentleman_
+    S. Verges conj. _censure on this lovely gentleman_ Edd. conj.
+  _thus_] _pass_ Hanmer.
+  _on lovely gentlemen_] _a lovely gentleman_ Pope. _a loving
+    gentleman_ Collier MS.
+  20: _of_] _on_ S. Verges conj.
+  30: _Fire_] Ff. _The fire_ Pope.
+  _that's_] _that is_ Johnson.
+  39: _being in the way_] _being by_ Pope.
+  40: _pardon the fault, I pray_] _pardon me_ Pope.
+  53: _What a fool_] _What 'foole_ F1 F2 F3. _What fool_ F4.
+    See note (III).
+  67: _Is't_] _Is it_ Capell.
+  _near_] om. Boswell.
+  81: F1 omits the stop after _set_.
+  83: _o' Love_] Theobald. _O, Love_ F1 F2. _O Love_ F3 F4.
+  88: _How now_] _Why, how now_ Hanmer. After this line Hanmer adds
+    a stage direction [Gives her a box on the ear].
+  96: _your_] _you_ F1.
+  99: [Tears the letter.] [Tears it. Pope.
+  102: _best pleased_] _pleased better_ Collier MS.
+  103: [Exit] F2.
+  121: _fearful-hanging_] Delius. _fearful, hanging_ Ff.
+  130, 131: _Madam, Dinner is_] _Madam, dinner's_ Capell conj.
+  137: _to_] _unto_ Collier MS.
+  _them._] _them, minion._ Hanmer.
+  138: _say what sights you see_] _see what sights you think_
+    Collier MS.
+
+
+SCENE III. _The same. ANTONIO'S house._
+
+  _Enter ANTONIO and PANTHINO._
+
+_Ant._ Tell me, Panthino, what sad talk was that
+Wherewith my brother held you in the cloister?
+
+_Pan._ 'Twas of his nephew Proteus, your son.
+
+_Ant._ Why, what of him?
+
+_Pan._                 He wonder'd that your lordship
+Would suffer him to spend his youth at home,                         5
+While other men, of slender reputation,
+Put forth their sons to seek preferment out:
+Some to the wars, to try their fortune there;
+Some to discover islands far away;
+Some to the studious universities.                                  10
+For any, or for all these exercises,
+He said that Proteus your son was meet;
+And did request me to importune you
+To let him spend his time no more at home,
+Which would be great impeachment to his age,                        15
+In having known no travel in his youth.
+
+_Ant._ Nor need'st thou much importune me to that
+Whereon this month I have been hammering.
+I have consider'd well his loss of time,
+And how he cannot be a perfect man,                                 20
+Not being tried and tutor'd in the world:
+Experience is by industry achieved,
+And perfected by the swift course of time.
+Then, tell me, whither were I best to send him?
+
+_Pan._ I think your lordship is not ignorant                        25
+How his companion, youthful Valentine,
+Attends the emperor in his royal court.
+
+_Ant._ I know it well.
+
+_Pan._ 'Twere good, I think, your lordship sent him thither:
+There shall he practise tilts and tournaments,                      30
+Hear sweet discourse, converse with noblemen,
+And be in eye of every exercise
+Worthy his youth and nobleness of birth.
+
+_Ant._ I like thy counsel; well hast thou advised:
+And that thou mayst perceive how well I like it                     35
+The execution of it shall make known.
+Even with the speediest expedition
+I will dispatch him to the emperor's court.
+
+_Pan._ To-morrow, may it please you, Don Alphonso,
+With other gentlemen of good esteem,                                40
+Are journeying to salute the emperor,
+And to commend their service to his will.
+
+_Ant._ Good company; with them shall Proteus go:
+And, in good time! now will we break with him.
+
+  _Enter PROTEUS._
+
+_Pro._ Sweet love! sweet lines! sweet life!                         45
+Here is her hand, the agent of her heart;
+Here is her oath for love, her honour's pawn.
+O, that our fathers would applaud our loves,
+To seal our happiness with their consents!
+O heavenly Julia!                                                   50
+
+_Ant._ How now! what letter are you reading there?
+
+_Pro._ May't please your lordship, 'tis a word or two
+Of commendations sent from Valentine,
+Deliver'd by a friend that came from him.
+
+_Ant._ Lend me the letter; let me see what news.                    55
+
+_Pro._ There is no news, my lord; but that he writes
+How happily he lives, how well beloved,
+And daily graced by the emperor;
+Wishing me with him, partner of his fortune.
+
+_Ant._ And how stand you affected to his wish?                      60
+
+_Pro._ As one relying on your lordship's will,
+And not depending on his friendly wish.
+
+_Ant._ My will is something sorted with his wish.
+Muse not that I thus suddenly proceed;
+For what I will, I will, and there an end.                          65
+I am resolved that thou shalt spend some time
+With Valentinus in the emperor's court:
+What maintenance he from his friends receives,
+Like exhibition thou shalt have from me.
+To-morrow be in readiness to go:                                    70
+Excuse it not, for I am peremptory.
+
+_Pro._ My lord, I cannot be so soon provided:
+Please you, deliberate a day or two.
+
+_Ant._ Look, what thou want'st shall be sent after thee:
+No more of stay! to-morrow thou must go.                            75
+Come on, Panthino: you shall be employ'd
+To hasten on his expedition.    [_Exeunt Ant. and Pan._
+
+_Pro._ Thus have I shunn'd the fire for fear of burning,
+And drench'd me in the sea, where I am drown'd.
+I fear'd to show my father Julia's letter,                          80
+Lest he should take exceptions to my love;
+And with the vantage of mine own excuse
+Hath he excepted most against my love.
+O, how this spring of love resembleth
+The uncertain glory of an April day,                                85
+Which now shows all the beauty of the sun,
+And by and by a cloud takes all away!
+
+  _Re-enter PANTHINO._
+
+_Pan._ Sir Proteus, your father calls for you:
+He is in haste; therefore, I pray you, go.
+
+_Pro._ Why, this it is: my heart accords thereto,                   90
+And yet a thousand times it answers 'no.'    [_Exeunt._
+
+
+  Notes: I, 3.
+
+  SCENE III.] SCENE IV. Pope. Antonio's House.] Theobald.
+  1: _Panthino_] F1 F2. _Panthion_ F3 F4.
+  21: _and_] F1. _nor_ F2 F3 F4.
+  24: _whither_] F2 F3 F4. _whether_ F1.
+  44: _And, in good time!_] _And in good time:_ F1. _And in good
+    time,_ F2 F3 F4. _And,--in good time:_--Dyce.
+  44: Enter Proteus] F2.
+  45: _sweet life_] _sweet life! sweet Julia_ Capell.
+  49: _To_] _And_ Collier MS.
+  65: _there_] F1 F2. _there's_ F3 F4.
+  67: _Valentinus_] F1. _Valentino_ F2 F3 F4. _Valentine_ Warburton.
+  77: [Exeunt Ant. and Pan.]. Rowe.
+  84: _resembleth_] _resembleth well_ Pope. _resembleth right_
+    Johnson conj.
+  86: _sun_] _light_ Johnson conj.
+  88: Re-enter Panthino.] om. F1. Enter. F2.
+  _father_] _fathers_ F1.
+  91: [Exeunt.] Exeunt. Finis. Ff.
+
+
+
+
+ACT II.
+
+
+SCENE I. _Milan. The DUKE'S Palace._
+
+  _Enter VALENTINE and SPEED._
+
+_Speed._ Sir, your glove.
+
+_Val._                  Not mine; my gloves are on.
+
+_Speed._ Why, then, this may be yours, for this is but one.
+
+_Val._ Ha! let me see: ay, give it me, it's mine:
+Sweet ornament that decks a thing divine!
+Ah, Silvia, Silvia!                                                  5
+
+_Speed._ Madam Silvia! Madam Silvia!
+
+_Val._ How now, sirrah?
+
+_Speed._ She is not within hearing, sir.
+
+_Val._ Why, sir, who bade you call her?
+
+_Speed._ Your worship, sir; or else I mistook.                      10
+
+_Val._ Well, you'll still be too forward.
+
+_Speed._ And yet I was last chidden for being too slow.
+
+_Val._ Go to, sir: tell me, do you know Madam Silvia?
+
+_Speed._ She that your worship loves?
+
+_Val._ Why, how know you that I am in love?                         15
+
+_Speed._ Marry, by these special marks: first, you have
+learned, like Sir Proteus, to wreathe your arms, like a malecontent;
+to relish a love-song, like a robin-redbreast; to
+walk alone, like one that had the pestilence; to sigh, like a
+school-boy that had lost his A B C; to weep, like a young           20
+wench that had buried her grandam; to fast, like one that
+takes diet; to watch, like one that fears robbing; to speak
+puling, like a beggar at Hallowmas. You were wont, when
+you laughed, to crow like a cock; when you walked, to walk
+like one of the lions; when you fasted, it was presently after      25
+dinner; when you looked sadly, it was for want of money:
+and now you are metamorphosed with a mistress, that, when
+I look on you, I can hardly think you my master.
+
+_Val._ Are all these things perceived in me?
+
+_Speed._ They are all perceived without ye.                         30
+
+_Val._ Without me? they cannot.
+
+_Speed._ Without you? nay, that's certain, for, without
+you were so simple, none else would: but you are so without
+these follies, that these follies are within you, and shine
+through you like the water in an urinal, that not an eye that       35
+sees you but is a physician to comment on your malady.
+
+_Val._ But tell me, dost thou know my lady Silvia?
+
+_Speed._ She that you gaze on so as she sits at supper?
+
+_Val._ Hast thou observed that? even she, I mean.
+
+_Speed._ Why, sir, I know her not.                                  40
+
+_Val._ Dost thou know her by my gazing on her, and
+yet knowest her not?
+
+_Speed._ Is she not hard-favoured, sir?
+
+_Val._ Not so fair, boy, as well-favoured.
+
+_Speed._ Sir, I know that well enough.                              45
+
+_Val._ What dost thou know?
+
+_Speed._ That she is not so fair as, of you, well favoured.
+
+_Val._ I mean that her beauty is exquisite, but her
+favour infinite.
+
+_Speed._ That's because the one is painted, and the other           50
+out of all count.
+
+_Val._ How painted? and how out of count?
+
+_Speed._ Marry, sir, so painted, to make her fair, that no
+man counts of her beauty.
+
+_Val._ How esteemest thou me? I account of her beauty.              55
+
+_Speed._ You never saw her since she was deformed.
+
+_Val._ How long hath she been deformed?
+
+_Speed._ Ever since you loved her.
+
+_Val._ I have loved her ever since I saw her; and still I
+see her beautiful.                                                  60
+
+_Speed._ If you love her, you cannot see her.
+
+_Val._ Why?
+
+_Speed._ Because Love is blind. O, that you had mine
+eyes; or your own eyes had the lights they were wont to
+have when you chid at Sir Proteus for going ungartered!             65
+
+_Val._ What should I see then?
+
+_Speed._ Your own present folly, and her passing deformity:
+for he, being in love, could not see to garter his
+hose; and you, being in love, cannot see to put on your hose.
+
+_Val._ Belike, boy, then, you are in love; for last morning         70
+you could not see to wipe my shoes.
+
+_Speed._ True, sir; I was in love with my bed: I thank
+you, you swinged me for my love, which makes me the
+bolder to chide you for yours.
+
+_Val._ In conclusion, I stand affected to her.                      75
+
+_Speed._ I would you were set, so your affection would
+cease.
+
+_Val._ Last night she enjoined me to write some lines
+to one she loves.
+
+_Speed._ And have you?                                              80
+
+_Val._ I have.
+
+_Speed._ Are they not lamely writ?
+
+_Val._ No, boy, but as well as I can do them. Peace!
+here she comes.
+
+_Speed._ [_Aside_] O excellent motion! O exceeding puppet!          85
+Now will he interpret to her.
+
+
+  _Enter SILVIA._
+
+_Val._ Madam and mistress, a thousand good-morrows.
+
+_Speed._ [_Aside_] O, give ye good even! here's a million
+of manners.
+
+_Sil._ Sir Valentine and servant, to you two thousand.              90
+
+_Speed._ [_Aside_] He should give her interest, and she
+gives it him.
+
+_Val._ As you enjoin'd me, I have writ your letter
+Unto the secret nameless friend of yours;
+Which I was much unwilling to proceed in,                           95
+But for my duty to your ladyship.
+
+_Sil._ I thank you, gentle servant: 'tis very clerkly done.
+
+_Val._ Now trust me, madam, it came hardly off;
+For, being ignorant to whom it goes,
+I writ at random, very doubtfully.                                 100
+
+_Sil._ Perchance you think too much of so much pains?
+
+_Val._ No, madam; so it stead you, I will write,
+Please you command, a thousand times as much;
+And yet--
+
+_Sil._ A pretty period! Well, I guess the sequel;                  105
+And yet I will not name it;--and yet I care not;--
+And yet take this again:--and yet I thank you;
+Meaning henceforth to trouble you no more.
+
+_Speed._ [_Aside_] And yet you will; and yet another 'yet.'
+
+_Val._ What means your ladyship? do you not like it?               110
+
+_Sil._ Yes, yes: the lines are very quaintly writ;
+But since unwillingly, take them again.
+Nay, take them.
+
+_Val._ Madam, they are for you.
+
+_Sil._ Ay, ay: you writ them, sir, at my request;                  115
+But I will none of them; they are for you;
+I would have had them writ more movingly.
+
+_Val._ Please you, I'll write your ladyship another.
+
+_Sil._ And when it's writ, for my sake read it over,
+And if it please you, so; if not, why, so.                         120
+
+_Val._ If it please me, madam, what then?
+
+_Sil._ Why, if it please you, take it for your labour:
+And so, good morrow, servant.    [_Exit._
+
+_Speed._ O jest unseen, inscrutable, invisible,
+As a nose on a man's face, or a weathercock on a steeple!          125
+My master sues to her; and she hath taught her suitor,
+He being her pupil, to become her tutor.
+O excellent device! was there ever heard a better,
+That my master, being scribe, to himself should write the letter?
+
+_Val._ How now, sir? what are you reasoning with                   130
+yourself?
+
+_Speed._ Nay. I was rhyming: 'tis you that have the reason.
+
+_Val._ To do what?
+
+_Speed._ To be a spokesman for Madam Silvia.                       135
+
+_Val._ To whom?
+
+_Speed._ To yourself: why, she wooes you by a figure.
+
+_Val._ What figure?
+
+_Speed._ By a letter, I should say.
+
+_Val._ Why, she hath not writ to me?                               140
+
+_Speed._ What need she, when she hath made you write
+to yourself? Why, do you not perceive the jest?
+
+_Val._ No, believe me.
+
+_Speed._ No believing you, indeed, sir. But did you perceive
+her earnest?                                                       145
+
+_Val._ She gave me none, except an angry word.
+
+_Speed._ Why, she hath given you a letter.
+
+_Val._ That's the letter I writ to her friend.
+
+_Speed._ And that letter hath she delivered, and there
+an end.                                                            150
+
+_Val._ I would it were no worse.
+
+_Speed._ I'll warrant you, 'tis as well:
+For often have you writ to her; and she, in modesty,
+Or else for want of idle time, could not again reply;
+Or fearing else some messenger, that might her mind discover,      155
+Herself hath taught her love himself to write unto her lover.
+All this I speak in print, for in print I found it. Why muse
+you, sir? 'tis dinner-time.
+
+_Val._ I have dined.
+
+_Speed._ Ay, but hearken, sir; though the chameleon                160
+Love can feed on the air, I am one that am nourished by
+my victuals, and would fain have meat. O, be not like
+your mistress; be moved, be moved.    [_Exeunt._
+
+
+  Notes: II, 1.
+
+  19: _had_] _hath_ Collier MS.
+  21: _buried_] F1. _lost_ F2 F3 F4.
+  27: _you are_] _you are so_ Collier MS.
+  32: _Without you?_] _Without you!_ Dyce.
+  33: _would_] _would be_ Collier MS.
+  41: _my_] F1 F2. om. F3 F4.
+  68, 69: See note (IV).
+  76: _set,_] _set;_ Malone.
+  85, 88, 91: [Aside] Capell.
+  91: Speed.] F1 F4. Sil. F2 F3.
+  96: _for_] om. F3 F4.
+  102: _stead_] _steed_ Ff.
+  106: _name it_] _name 't_ Capell. _and yet_] _yet_ Pope.
+  109: [Aside] Rowe.
+  114: _for_] _writ for_ Anon. conj.
+  124, 125: Printed as prose by Pope.
+  129: _scribe_] _the scribe_ Pope.
+  137: _wooes_] _woes_ Ff. (IV. ii. 138. _woe_ F1. _wooe_ F2 F3 F4.)
+  149: _there_] F1. _there's_ F2 F3 F4.
+
+
+SCENE II. _Verona. JULIA'S house._
+
+  _Enter PROTEUS and JULIA._
+
+_Pro._ Have patience, gentle Julia.
+
+_Jul._ I must, where is no remedy.
+
+_Pro._ When possibly I can, I will return.
+
+_Jul._ If you turn not, you will return the sooner.
+Keep this remembrance for thy Julia's sake.                          5
+                                            [_Giving a ring._
+
+_Pro._ Why, then, we'll make exchange; here, take you this.
+
+_Jul._ And seal the bargain with a holy kiss.
+
+_Pro._ Here is my hand for my true constancy;
+And when that hour o'erslips me in the day
+Wherein I sigh not, Julia, for thy sake,                            10
+The next ensuing hour some foul mischance
+Torment me for my love's forgetfulness!
+My father stays my coming; answer not;
+The tide is now:--nay, not thy tide of tears;
+That tide will stay me longer than I should.                        15
+Julia, farewell!    [_Exit Julia._
+                  What, gone without a word?
+Ay, so true love should do: it cannot speak;
+For truth hath better deeds than words to grace it.
+
+  _Enter PANTHINO._
+
+_Pan._ Sir Proteus, you are stay'd for.
+
+_Pro._ Go; I come, I come.                                          20
+Alas! this parting strikes poor lovers dumb.    [_Exeunt._
+
+
+  Notes: II, 2.
+
+  5: [Giving a ring] Rowe.
+  16: [Exit Julia] Rowe.
+  20: _I come, I come_] _I come_ Pope.
+
+
+SCENE III. _The same. A street._
+
+  _Enter LAUNCE, leading a dog._
+
+_Launce._ Nay, 'twill be this hour ere I have done weeping;
+all the kind of the Launces have this very fault. I have
+received my proportion, like the prodigious son, and am
+going with Sir Proteus to the Imperial's court. I think Crab
+my dog be the sourest-natured dog that lives: my mother              5
+weeping, my father wailing, my sister crying, our maid
+howling, our cat wringing her hands, and all our house in a
+great perplexity, yet did not this cruel-hearted cur shed one
+tear: he is a stone, a very pebble stone, and has no more
+pity in him than a dog: a Jew would have wept to have               10
+seen our parting; why, my grandam, having no eyes, look
+you, wept herself blind at my parting. Nay, I'll shew you
+the manner of it. This shoe is my father: no, this left shoe
+is my father: no, no, this left shoe is my mother: nay, that
+cannot be so neither: yes, it is so, it is so, it hath the worser   15
+sole. This shoe, with the hole in it, is my mother, and this
+my father; a vengeance on't! there 'tis: now, sir, this staff is
+my sister, for, look you, she is as white as a lily, and as
+small as a wand: this hat is Nan, our maid: I am the dog:
+no, the dog is himself, and I am the dog,--Oh! the dog is           20
+me, and I am myself; ay, so, so. Now come I to my
+father; Father, your blessing: now should not the shoe
+speak a word for weeping: now should I kiss my father;
+well, he weeps on. Now come I to my mother: O, that
+she could speak now like a wood woman! Well, I kiss her;            25
+why, there 'tis; here's my mother's breath up and down.
+Now come I to my sister; mark the moan she makes. Now
+the dog all this while sheds not a tear, nor speaks a word;
+but see how I lay the dust with my tears.
+
+  _Enter PANTHINO._
+
+_Pan._ Launce, away, away, aboard! thy master is shipped,           30
+and thou art to post after with oars. What's the matter?
+why weepest thou, man? Away, ass! you'll lose the
+tide, if you tarry any longer.
+
+_Launce._ It is no matter if the tied were lost; for it is
+the unkindest tied that ever any man tied.                          35
+
+_Pan._ What's the unkindest tide?
+
+_Launce._ Why, he that's tied here, Crab, my dog.
+
+_Pan._ Tut, man, I mean thou'lt lose the flood: and, in
+losing the flood, lose thy voyage, and, in losing thy voyage,
+lose thy master, and, in losing thy master, lose thy service,       40
+and, in losing thy service,--Why dost thou stop my mouth?
+
+_Launce._ For fear thou shouldst lose thy tongue.
+
+_Pan._ Where should I lose my tongue?
+
+_Launce._ In thy tale.
+
+_Pan._ In thy tail!                                                 45
+
+_Launce._ Lose the tide, and the voyage, and the master,
+and the service, and the tied! Why, man, if the river were
+dry, I am able to fill it with my tears; if the wind were
+down, I could drive the boat with my sighs.
+
+_Pan._ Come, come away, man; I was sent to call thee.               50
+
+_Launce._ Sir, call me what thou darest.
+
+_Pan._ Wilt thou go?
+
+_Launce._ Well, I will go.    [_Exeunt._
+
+
+  Notes: II, 3.
+
+  9: _pebble_] _pibble_ Ff.
+  20: _I am the dog_] _I am me_ Hanmer.
+  _Oh, the dog is me_] _Ay, the dog is the dog_ Hanmer.
+  25: _she_] _the shoe_ Hanmer.
+  _a wood woman_] Theobald. _a would woman_ Ff. _an ould woman_ Pope.
+    _a wild woman_ Collier MS.
+  Malone (Blackstone conj.) punctuates (_O that she could speak now!_)
+  35: _tied ... tied_] _Tide ... tide_ F1. _Tide ... tyde_ F2 F3 F4.
+  45: _thy tail!_] _my tail?_ Hanmer.
+  [Kicking him. Anon. conj.
+  46: _tide_] _Tide_ F1 F4. _Tyde_ F2 F3. _flood_ Pope. _tied_
+    Collier.
+  47: _and the tied_] Singer. _and the tide_ Ff. om. Capell.
+    _The tide!_ Steevens. _indeed!_ S. Verges conj.
+
+
+SCENE IV. _Milan. The DUKE'S palace._
+
+  _Enter SILVIA, VALENTINE, THURIO, and SPEED._
+
+_Sil._ Servant!
+
+_Val._ Mistress?
+
+_Speed._ Master, Sir Thurio frowns on you.
+
+_Val._ Ay, boy, it's for love.
+
+_Speed._ Not of you.                                                 5
+
+_Val._ Of my mistress, then.
+
+_Speed._ 'Twere good you knocked him.    [_Exit._
+
+_Sil._ Servant, you are sad.
+
+_Val._ Indeed, madam, I seem so.
+
+_Thu._ Seem you that you are not?                                   10
+
+_Val._ Haply I do.
+
+_Thu._ So do counterfeits.
+
+_Val._ So do you.
+
+_Thu._ What seem I that I am not?
+
+_Val._ Wise.                                                        15
+
+_Thu._ What instance of the contrary?
+
+_Val._ Your folly.
+
+_Thu._ And how quote you my folly?
+
+_Val._ I quote it in your jerkin.
+
+_Thu._ My jerkin is a doublet.                                      20
+
+_Val._ Well, then, I'll double your folly.
+
+_Thu._ How?
+
+_Sil._ What, angry, Sir Thurio! do you change colour?
+
+_Val._ Give him leave, madam; he is a kind of chameleon.
+
+_Thu._ That hath more mind to feed on your blood than               25
+live in your air.
+
+_Val._ You have said, sir.
+
+_Thu._ Ay, sir, and done too, for this time.
+
+_Val._ I know it well, sir; you always end ere you begin.
+
+_Sil._ A fine volley of words, gentlemen, and quickly               30
+shot off.
+
+_Val._ 'Tis indeed, madam; we thank the giver.
+
+_Sil._ Who is that, servant?
+
+_Val._ Yourself, sweet lady; for you gave the fire. Sir
+Thurio borrows his wit from your ladyship's looks, and              35
+spends what he borrows kindly in your company.
+
+_Thu._ Sir, if you spend word for word with me, I shall
+make your wit bankrupt.
+
+_Val._ I know it well, sir; you have an exchequer of
+words, and, I think, no other treasure to give your followers,      40
+for it appears, by their bare liveries, that they live by
+your bare words.
+
+_Sil._ No more, gentlemen, no more:--here comes my father.
+
+  _Enter DUKE._
+
+_Duke._ Now, daughter Silvia, you are hard beset.                   45
+Sir Valentine, your father's in good health:
+What say you to a letter from your friends
+Of much good news?
+
+_Val._           My lord, I will be thankful
+To any happy messenger from thence.
+
+_Duke._ Know ye Don Antonio, your countryman?                       50
+
+_Val._ Ay, my good lord, I know the gentleman
+To be of worth, and worthy estimation,
+And not without desert so well reputed.
+
+_Duke._ Hath he not a son?
+
+_Val._ Ay, my good lord; a son that well deserves                   55
+The honour and regard of such a father.
+
+_Duke._ You know him well?
+
+_Val._ I know him as myself; for from our infancy
+We have conversed and spent our hours together:
+And though myself have been an idle truant,                         60
+Omitting the sweet benefit of time
+To clothe mine age with angel-like perfection,
+Yet hath Sir Proteus, for that's his name,
+Made use and fair advantage of his days;
+His years but young, but his experience old;                        65
+His head unmellow'd, but his judgment ripe;
+And, in a word, for far behind his worth
+Comes all the praises that I now bestow,
+He is complete in feature and in mind
+With all good grace to grace a gentleman.                           70
+
+_Duke._ Beshrew me, sir, but if he make this good,
+He is as worthy for an empress' love
+As meet to be an emperor's counsellor.
+Well, sir, this gentleman is come to me,
+With commendation from great potentates;                            75
+And here he means to spend his time awhile:
+I think 'tis no unwelcome news to you.
+
+_Val._ Should I have wish'd a thing, it had been he.
+
+_Duke._ Welcome him, then, according to his worth.
+Silvia, I speak to you, and you, Sir Thurio,                        80
+For Valentine, I need not cite him to it:
+I will send him hither to you presently.    [_Exit._
+
+_Val._ This is the gentleman I told your ladyship
+Had come along with me, but that his mistress
+Did hold his eyes lock'd in her crystal looks.                      85
+
+_Sil._ Belike that now she hath enfranchised them,
+Upon some other pawn for fealty.
+
+_Val._ Nay, sure, I think she holds them prisoners still.
+
+_Sil._ Nay, then, he should be blind; and, being blind,
+How could he see his way to seek out you?                           90
+
+_Val._ Why, lady, Love hath twenty pair of eyes.
+
+_Thu._ They say that Love hath not an eye at all.
+
+_Val._ To see such lovers, Thurio, as yourself:
+Upon a homely object Love can wink.
+
+_Sil._ Have done, have done; here comes the gentleman.              95
+
+  _Enter PROTEUS.    [Exit THURIO._
+
+_Val._ Welcome, dear Proteus! Mistress, I beseech you,
+Confirm his welcome with some special favour.
+
+_Sil._ His worth is warrant for his welcome hither,
+If this be he you oft have wish'd to hear from.
+
+_Val._ Mistress, it is: sweet lady, entertain him                  100
+To be my fellow-servant to your ladyship.
+
+_Sil._ Too low a mistress for so high a servant.
+
+_Pro._ Not so, sweet lady: but too mean a servant
+To have a look of such a worthy mistress.
+
+_Val._ Leave off discourse of disability:                          105
+Sweet lady, entertain him for your servant.
+
+_Pro._ My duty will I boast of; nothing else.
+
+_Sil._ And duty never yet did want his meed:
+Servant, you are welcome to a worthless mistress.
+
+_Pro._ I'll die on him that says so but yourself.                  110
+
+_Sil._ That you are welcome?
+
+_Pro._                     That you are worthless.
+
+  _Re-enter THURIO._
+
+_Thu._ Madam, my lord your father would speak with you.
+
+_Sil._ I wait upon his pleasure. Come, Sir Thurio,
+Go with me. Once more, new servant, welcome:
+I'll leave you to confer of home affairs;                          115
+When you have done, we look to hear from you.
+
+_Pro._ We'll both attend upon your ladyship.
+    [_Exeunt Silvia and Thurio._
+
+_Val._ Now, tell me, how do all from whence you came?
+
+_Pro._ Your friends are well, and have them much commended.
+
+_Val._ And how do yours?
+
+_Pro._                 I left them all in health.                  120
+
+_Val._ How does your lady? and how thrives your love?
+
+_Pro._ My tales of love were wont to weary you;
+I know you joy not in a love-discourse.
+
+_Val._ Ay, Proteus, but that life is alter'd now:
+I have done penance for contemning Love,                           125
+Whose high imperious thoughts have punish'd me
+With bitter fasts, with penitential groans,
+With nightly tears, and daily heart-sore sighs;
+For, in revenge of my contempt of love,
+Love hath chased sleep from my enthralled eyes,                    130
+And made them watchers of mine own heart's sorrow.
+O gentle Proteus, Love's a mighty lord,
+And hath so humbled me; as I confess
+There is no woe to his correction,
+Nor to his service no such joy on earth.                           135
+Now no discourse, except it be of love;
+Now can I break my fast, dine, sup and sleep,
+Upon the very naked name of love.
+
+_Pro._ Enough; I read your fortune in your eye.
+Was this the idol that you worship so?                             140
+
+_Val._ Even she; and is she not a heavenly saint?
+
+_Pro._ No; but she is an earthly paragon.
+
+_Val._ Call her divine.
+
+_Pro._                I will not flatter her.
+
+_Val._ O, flatter me; for love delights in praises.
+
+_Pro._ When I was sick, you gave me bitter pills;                  145
+And I must minister the like to you.
+
+_Val._ Then speak the truth by her; if not divine,
+Yet let her be a principality,
+Sovereign to all the creatures on the earth.
+
+_Pro._ Except my mistress.
+
+_Val._                   Sweet, except not any;                    150
+Except thou wilt except against my love.
+
+_Pro._ Have I not reason to prefer mine own?
+
+_Val._ And I will help thee to prefer her too:
+She shall be dignified with this high honour,--
+To bear my lady's train, lest the base earth                       155
+Should from her vesture chance to steal a kiss,
+And, of so great a favour growing proud,
+Disdain to root the summer-swelling flower,
+And make rough winter everlastingly.
+
+_Pro._ Why, Valentine, what braggardism is this?                   160
+
+_Val._ Pardon me, Proteus: all I can is nothing
+To her, whose worth makes other worthies nothing;
+She is alone.
+
+_Pro._      Then let her alone.
+
+_Val._ Not for the world: why, man, she is mine own;
+And I as rich in having such a jewel                               165
+As twenty seas, if all their sand were pearl,
+The water nectar, and the rocks pure gold.
+Forgive me, that I do not dream on thee,
+Because thou see'st me dote upon my love.
+My foolish rival, that her father likes                            170
+Only for his possessions are so huge,
+Is gone with her along; and I must after,
+For love, thou know'st, is full of jealousy.
+
+_Pro._ But she loves you?
+
+_Val._ Ay, and we are betroth'd: nay, more, our marriage-hour,     175
+With all the cunning manner of our flight,
+Determined of; how I must climb her window;
+The ladder made of cords; and all the means
+Plotted and 'greed on for my happiness.
+Good Proteus, go with me to my chamber,                            180
+In these affairs to aid me with thy counsel.
+
+_Pro._ Go on before; I shall inquire you forth:
+I must unto the road, to disembark
+Some necessaries that I needs must use;
+And then I'll presently attend you.                                185
+
+_Val._ Will you make haste?
+
+_Pro._ I will.    [_Exit Valentine._
+Even as one heat another heat expels,
+Or as one nail by strength drives out another,
+So the remembrance of my former love                               190
+Is by a newer object quite forgotten.
+Is it mine, or Valentine's praise,
+Her true perfection, or my false transgression,
+That makes me reasonless to reason thus?
+She is fair; and so is Julia, that I love.--                       195
+That I did love, for now my love is thaw'd;
+Which, like a waxen image 'gainst a fire,
+Bears no impression of the thing it was.
+Methinks my zeal to Valentine is cold,
+And that I love him not as I was wont.                             200
+O, but I love his lady too too much!
+And that's the reason I love him so little.
+How shall I dote on her with more advice,
+That thus without advice begin to love her!
+'Tis but her picture I have yet beheld,                            205
+And that hath dazzled my reason's light;
+But when I look on her perfections,
+There is no reason but I shall be blind.
+If I can check my erring love, I will;
+If not, to compass her I'll use my skill.    [_Exit._              210
+
+
+  Notes: II, 4.
+
+  2: [They converse apart] Capell.
+  7: [Exit] Edd. See note (V).
+  21: _I'll_] _Ile_ Ff. _'twill_ Collier MS.
+  45: SCENE V. Pope.
+  Enter DUKE.] Enter DUKE attended. Capell.
+  49: _happy_] F1. om. F2 F3 F4.
+  50: _ye_] F1. _you_ F2 F3 F4.
+  52: _worth_] _wealth_ Collier MS. and S. Walker conj.
+  58: _Know_] Hanmer. _Knew_ Ff.
+  68: _comes_] Ff. _come_ Rowe.
+  77: _unwelcome_] F1. _welcome_ F2 F3 F4.
+  81: _cite_] _'cite_ Malone.
+  82: _I will_] _I'll_ Pope.
+  [Exit] Rowe.
+  95: SCENE VI. Pope. Enter PROTEUS.] Enter. F2.
+  Exit THURIO.] Collier. See note (V).
+  97: _his_] F1. _this_ F2 F3 F4.
+  104: _a worthy_] _a worthy a_ F1.
+  111: _welcome_] _welcome, sir_ Capell.
+  _That you are worthless_] _No, that you are worthless_ Johnson.
+  Re-enter THURIO.] om. Ff. Enter THURIO. Collier. Enter a Servant.
+    Theobald.
+  112: Thu.] Ff. Serv. Theobald.
+  113: [Exit servant. Theobald.
+  114: _Go_] _Go you_ Capell.
+  _new servant_] _my new servant_ Pope.
+  117: [Exeunt S. and T.] Rowe.
+  118: SCENE VII. Pope.
+  126: _Whose_] _Those_ Johnson conj.
+  133: _as I confess_] _as, I confess,_ Warburton.
+  135: _no such_] _any_ Hanmer.
+  144: _praises_] F1. _praise_ F2 F3 F4.
+  158: _summer-swelling_] _summer-smelling_ Steevens conj.
+    (withdrawn).
+  160: _braggardism_] Steevens. _bragadism_ Ff.
+  162: _makes_] _make_ F1.
+  _worthies_] _worth as_ Grant White.
+  163: _Then_] _Why, then_ Hanmer.
+  167: _rocks_] F1. _rocke_ F2. _rock_ F3 F4.
+  175: _Ay, and we are_] _Ay, And we're_ Edd. conj.
+  _nay, more_] _Nay, more, my Protheus_ Capell.
+  _marriage-hour_] _marriage_ Pope.
+  185: _you_] _upon you_ Hanmer. _on you_ Capell.
+  187: [Exit Val.] [Exit. F1. om. F2 F3 F4. [Exeunt Valentine and
+    Speed. Dyce. See note (V).
+  192: _Is it ... praise,_] _It is mine, or Valentine's praise?_ F1.
+    _Is it mine then, or Valentineans praise?_ F2 F3 F4. _Is it mine
+    then or Valentino's praise,_ Rowe, Pope. _Is it mine eye or
+    Valentine's praise,_ Theobald (Warburton). _Is it mine eyne, or
+    Valentino's praise,_ Hanmer. _Is it mine own, or Valentino's
+    praise,_ Capell. _Is it her mien, or Valentinus' praise,_
+    Malone (Blakeway conj.). See note (VI).
+  206: _dazzled_] _dazel'd_ F1. _dazel'd so_ F2 F3 F4.
+  210: [Exit.] F2. [Exeunt. F1.
+
+
+SCENE V. _The same. A street._
+
+  _Enter SPEED and LAUNCE severally._
+
+_Speed._ Launce! by mine honesty, welcome to Padua!
+
+_Launce._ Forswear not thyself, sweet youth; for I am not
+welcome. I reckon this always--that a man is never undone
+till he be hanged; nor never welcome to a place till
+some certain shot be paid, and the hostess say 'Welcome!'            5
+
+_Speed._ Come on, you madcap, I'll to the alehouse with
+you presently; where, for one shot of five pence, thou shalt
+have five thousand welcomes. But, sirrah, how did thy
+master part with Madam Julia?
+
+_Launce._ Marry, after they closed in earnest, they parted          10
+very fairly in jest.
+
+_Speed._ But shall she marry him?
+
+_Launce._ No.
+
+_Speed._ How, then? shall he marry her?
+
+_Launce._ No, neither.                                              15
+
+_Speed._ What, are they broken?
+
+_Launce._ No, they are both as whole as a fish.
+
+_Speed._ Why, then, how stands the matter with them?
+
+_Launce._ Marry, thus; when it stands well with him, it
+stands well with her.                                               20
+
+_Speed._ What an ass art thou! I understand thee not.
+
+_Launce._ What a block art thou, that thou canst not!
+My staff understands me.
+
+_Speed._ What thou sayest?
+
+_Launce._ Ay, and what I do too: look thee, I'll but                25
+lean, and my staff understands me.
+
+_Speed._ It stands under thee, indeed.
+
+_Launce._ Why, stand-under and under-stand is all one.
+
+_Speed._ But tell me true, will't be a match?
+
+_Launce._ Ask my dog: if he say ay, it will; if he say,             30
+no, it will; if he shake his tail and say nothing, it will.
+
+_Speed._ The conclusion is, then, that it will.
+
+_Launce._ Thou shalt never get such a secret from me
+but by a parable.
+
+_Speed._ 'Tis well that I get it so. But, Launce, how               35
+sayest thou, that my master is become a notable lover?
+
+_Launce._ I never knew him otherwise.
+
+_Speed._ Than how?
+
+_Launce._ A notable lubber, as thou reportest him to be.
+
+_Speed._ Why, thou whoreson ass, thou mistakest me.                 40
+
+_Launce._ Why fool, I meant not thee; I meant thy master.
+
+_Speed._ I tell thee, my master is become a hot lover.
+
+_Launce._ Why, I tell thee, I care not though he burn
+himself in love. If thou wilt, go with me to the alehouse;
+if not, thou art an Hebrew, a Jew, and not worth the name           45
+of a Christian.
+
+_Speed._ Why?
+
+_Launce._ Because thou hast not so much charity in thee
+as to go to the ale with a Christian. Wilt thou go?
+
+_Speed._ At thy service.    [_Exeunt._                              50
+
+
+  Notes: II, 5.
+
+  SCENE V.] SCENA QUINTA F1. SCENA QUARTA F2 F3 F4. SCENE VIII. Pope.
+  1: _Padua_] Ff. _Milan_ Pope. See note (VII).
+  4: _be_] _is_ Rowe.
+  21-28: Put in the margin as spurious by Pope.
+  36: _that_] F2 F3 F4. _that that_ F1.
+  44: _in love. If thou wilt, go_] Knight. _in love. If thou wilt go_
+    Ff. _in love, if thou wilt go_ Collier (Malone conj.).
+  _alehouse_] F1. _alehouse, so_ F2 F3 F4.
+  49: _ale_] _ale-house_ Rowe.
+
+
+SCENE VI. _The same. The DUKE'S palace._
+
+  _Enter PROTEUS._
+
+_Pro._ To leave my Julia, shall I be forsworn;
+To love fair Silvia, shall I be forsworn;
+To wrong my friend, I shall be much forsworn;
+And even that power, which gave me first my oath,
+Provokes me to this threefold perjury;                               5
+Love bade me swear, and Love bids me forswear.
+O sweet-suggesting Love, if thou hast sinn'd,
+Teach me, thy tempted subject, to excuse it!
+At first I did adore a twinkling star,
+But now I worship a celestial sun.                                  10
+Unheedful vows may needfully be broken;
+And he wants wit that wants resolved will
+To learn his wit to exchange the bad for better.
+Fie, fie, unreverend tongue! to call her bad,
+Whose sovereignty so oft thou hast preferr'd                        15
+With twenty thousand soul-confirming oaths.
+I cannot leave to love, and yet I do;
+But there I leave to love where I should love.
+Julia I lose, and Valentine I lose:
+If I keep them, I needs must lose myself;                           20
+If I lose them, thus find I by their loss
+For Valentine, myself, for Julia, Silvia.
+I to myself am dearer than a friend,
+For love is still most precious in itself;
+And Silvia--witness Heaven, that made her fair!--                   25
+Shows Julia but a swarthy Ethiope.
+I will forget that Julia is alive,
+Remembering that my love to her is dead;
+And Valentine I'll hold an enemy,
+Aiming at Silvia as a sweeter friend.                               30
+I cannot now prove constant to myself,
+Without some treachery used to Valentine.
+This night he meaneth with a corded ladder
+To climb celestial Silvia's chamber-window;
+Myself in counsel, his competitor.                                  35
+Now presently I'll give her father notice
+Of their disguising and pretended flight;
+Who, all enraged, will banish Valentine;
+For Thurio, he intends, shall wed his daughter;
+But, Valentine being gone, I'll quickly cross                       40
+By some sly trick blunt Thurio's dull proceeding.
+Love, lend me wings to make my purpose swift,
+As thou hast lent me wit to plot this drift!    [_Exit._
+
+
+  Notes: II, 6.
+
+  SCENE VI.] SCENE IX. Pope.
+  Enter PROTEUS.] Enter PROTHEUS solus. Ff.
+  1, 2: _forsworn; ... forsworn;_] Theobald. _forsworn? ... forsworn?_
+    Ff.
+  7: _sweet-suggesting_] _sweet suggestion,_ Pope.
+  _if thou hast_] _if I have_ Warburton.
+  16: _soul-confirming_] _soul-confirmed_ Pope.
+  21: _thus_] _this_ Theobald.
+  _by_] F1. _but_ F2 F3 F4.
+  24: _most_] _more_ Steevens.
+  _in_] _to_ Collier MS.
+  35: _counsel_] _counsaile_ F1 F2. _councel_ F3. _council_ F4.
+  37: _pretended_] _intended_ Johnson conj.
+  43: _this_] F1. _his_ F2 F3 F4.
+
+
+SCENE VII. _Verona. JULIA'S house._
+
+  _Enter JULIA and LUCETTA._
+
+_Jul._ Counsel, Lucetta; gentle girl, assist me;
+And, even in kind love, I do conjure thee,
+Who art the table wherein all my thoughts
+Are visibly character'd and engraved,
+To lesson me; and tell me some good mean,                            5
+How, with my honour, I may undertake
+A journey to my loving Proteus.
+
+_Luc._ Alas, the way is wearisome and long!
+
+_Jul._ A true-devoted pilgrim is not weary
+To measure kingdoms with his feeble steps;                          10
+Much less shall she that hath Love's wings to fly,
+And when the flight is made to one so dear,
+Of such divine perfection, as Sir Proteus.
+
+_Luc._ Better forbear till Proteus make return.
+
+_Jul._ O, know'st thou not, his looks are my soul's food?           15
+Pity the dearth that I have pined in,
+By longing for that food so long a time.
+Didst thou but know the inly touch of love,
+Thou wouldst as soon go kindle fire with snow
+As seek to quench the fire of love with words.                      20
+
+_Luc._ I do not seek to quench your love's hot fire,
+But qualify the fire's extreme rage,
+Lest it should burn above the bounds of reason.
+
+_Jul._ The more thou damm'st it up, the more it burns.
+The current that with gentle murmur glides,                         25
+Thou know'st, being stopp'd, impatiently doth rage;
+But when his fair course is not hindered,
+He makes sweet music with the enamell'd stones,
+Giving a gentle kiss to every sedge
+He overtaketh in his pilgrimage;                                    30
+And so by many winding nooks he strays,
+With willing sport, to the wild ocean.
+Then let me go, and hinder not my course:
+I'll be as patient as a gentle stream,
+And make a pastime of each weary step,                              35
+Till the last step have brought me to my love;
+And there I'll rest, as after much turmoil
+A blessed soul doth in Elysium.
+
+_Luc._ But in what habit will you go along?
+
+_Jul._ Not like a woman; for I would prevent                        40
+The loose encounters of lascivious men:
+Gentle Lucetta, fit me with such weeds
+As may beseem some well-reputed page.
+
+_Luc._ Why, then, your ladyship must cut your hair.
+
+_Jul._ No, girl; I'll knit it up in silken strings                  45
+With twenty odd-conceited true-love knots.
+To be fantastic may become a youth
+Of greater time than I shall show to be.
+
+_Luc._ What fashion, madam, shall I make your breeches?
+
+_Jul._ That fits as well as, 'Tell me, good my lord,                50
+What compass will you wear your farthingale?'
+Why even what fashion thou best likest, Lucetta.
+
+_Luc._ You must needs have them with a codpiece, madam.
+
+_Jul._ Out, out, Lucetta! that will be ill-favour'd.
+
+_Luc._ A round hose, madam, now's not worth a pin,                  55
+Unless you have a codpiece to stick pins on.
+
+_Jul._ Lucetta, as thou lovest me, let me have
+What thou think'st meet, and is most mannerly.
+But tell me, wench, how will the world repute me
+For undertaking so unstaid a journey?                               60
+I fear me, it will make me scandalized.
+
+_Luc._ If you think so, then stay at home, and go not.
+
+_Jul._ Nay, that I will not.
+
+_Luc._ Then never dream on infamy, but go.
+If Proteus like your journey when you come,                         65
+No matter who's displeased when you are gone:
+I fear me, he will scarce be pleased withal.
+
+_Jul._ That is the least, Lucetta, of my fear:
+A thousand oaths, an ocean of his tears,
+And instances of infinite of love,                                  70
+Warrant me welcome to my Proteus.
+
+_Luc._ All these are servants to deceitful men.
+
+_Jul._ Base men, that use them to so base effect!
+But truer stars did govern Proteus' birth:
+His words are bonds, his oaths are oracles;                         75
+His love sincere, his thoughts immaculate;
+His tears pure messengers sent from his heart;
+His heart as far from fraud as heaven from earth.
+
+_Luc._ Pray heaven he prove so, when you come to him!
+
+_Jul._ Now, as thou lovest me, do him not that wrong,               80
+To bear a hard opinion of his truth:
+Only deserve my love by loving him;
+And presently go with me to my chamber,
+To take a note of what I stand in need of,
+To furnish me upon my longing journey.                              85
+All that is mine I leave at thy dispose,
+My goods, my lands, my reputation;
+Only, in lieu thereof, dispatch me hence.
+Come, answer not, but to it presently!
+I am impatient of my tarriance.    [_Exeunt._                       90
+
+
+  Notes: II, 7.
+
+  SCENE VII.] SCENE X. Pope.
+  13: _perfection_] F1 F2 F4. _perfections_ F3.
+  18: _inly_] F1 F2. _inchly_ F3 F4.
+  22: _extreme_] _extremest_ Pope.
+  32: _wild_] _wide_ Collier MS.
+  47: _fantastic_] _fantantastique_ F2.
+  52: _likest_] Pope. _likes_ Ff.
+  67: _withal_] _with all_ F1 F4. _withall_ F2 F3.
+  70: _of infinite_] F1. _as infinite_ F2 F3 F4. _of the infinite_
+    Malone.
+  85: _longing_] _loving_ Collier MS.
+  89: _to it_] _do it_ Warburton.
+
+
+
+
+ACT III.
+
+
+SCENE I. _Milan. Ante-room in the DUKE'S palace._
+
+  _Enter DUKE, THURIO, and PROTEUS._
+
+_Duke._ Sir Thurio, give us leave, I pray, awhile;
+We have some secrets to confer about.    [_Exit Thu._
+Now, tell me, Proteus, what's your will with me?
+
+_Pro._ My gracious lord, that which I would discover
+The law of friendship bids me to conceal;                            5
+But when I call to mind your gracious favours
+Done to me, undeserving as I am,
+My duty pricks me on to utter that
+Which else no worldly good should draw from me.
+Know, worthy prince, Sir Valentine, my friend,                      10
+This night intends to steal away your daughter:
+Myself am one made privy to the plot.
+I know you have determined to bestow her
+On Thurio, whom your gentle daughter hates;
+And should she thus be stol'n away from you,                        15
+It would be much vexation to your age.
+Thus, for my duty's sake, I rather chose
+To cross my friend in his intended drift
+Than, by concealing it, heap on your head
+A pack of sorrows, which would press you down,                      20
+Being unprevented, to your timeless grave.
+
+_Duke._ Proteus, I thank thee for thine honest care;
+Which to requite, command me while I live.
+This love of theirs myself have often seen,
+Haply when they have judged me fast asleep;                         25
+And oftentimes have purposed to forbid
+Sir Valentine her company and my court:
+But, fearing lest my jealous aim might err,
+And so, unworthily disgrace the man,
+A rashness that I ever yet have shunn'd,                            30
+I gave him gentle looks; thereby to find
+That which thyself hast now disclosed to me.
+And, that thou mayst perceive my fear of this,
+Knowing that tender youth is soon suggested,
+I nightly lodge her in an upper tower,                              35
+The key whereof myself have ever kept;
+And thence she cannot be convey'd away.
+
+_Pro._ Know, noble lord, they have devised a mean
+How he her chamber-window will ascend,
+And with a corded ladder fetch her down;                            40
+For which the youthful lover now is gone,
+And this way comes he with it presently;
+Where, if it please you, you may intercept him.
+But, good my Lord, do it so cunningly
+That my discovery be not aimed at;                                  45
+For, love of you, not hate unto my friend,
+Hath made me publisher of this pretence.
+
+_Duke._ Upon mine honour, he shall never know
+That I had any light from thee of this.
+
+_Pro._ Adieu, my Lord; Sir Valentine is coming.    [_Exit._         50
+
+  _Enter VALENTINE._
+
+_Duke._ Sir Valentine, whither away so fast?
+
+_Val._ Please it your grace, there is a messenger
+That stays to bear my letters to my friends,
+And I am going to deliver them.
+
+_Duke._ Be they of much import?                                     55
+
+_Val._ The tenour of them doth but signify
+My health and happy being at your court.
+
+_Duke._ Nay then, no matter; stay with me awhile;
+I am to break with thee of some affairs
+That touch me near, wherein thou must be secret.                    60
+'Tis not unknown to thee that I have sought
+To match my friend Sir Thurio to my daughter.
+
+_Val._ I know it well, my Lord; and, sure, the match
+Were rich and honourable; besides, the gentleman
+Is full of virtue, bounty, worth and qualities                      65
+Beseeming such a wife as your fair daughter:
+Cannot your Grace win her to fancy him?
+
+_Duke._ No, trust me; she is peevish, sullen, froward,
+Proud, disobedient, stubborn, lacking duty;
+Neither regarding that she is my child,                             70
+Nor fearing me as if I were her father:
+And, may I say to thee, this pride of hers,
+Upon advice, hath drawn my love from her;
+And, where I thought the remnant of mine age
+Should have been cherish'd by her child-like duty,                  75
+I now am full resolved to take a wife,
+And turn her out to who will take her in:
+Then let her beauty be her wedding-dower;
+For me and my possessions she esteems not.
+
+_Val._ What would your Grace have me to do in this?                 80
+
+_Duke._ There is a lady in Verona here
+Whom I affect; but she is nice and coy,
+And nought esteems my aged eloquence:
+Now, therefore, would I have thee to my tutor,--
+For long agone I have forgot to court;                              85
+Besides, the fashion of the time is changed,--
+How and which way I may bestow myself,
+To be regarded in her sun-bright eye.
+
+_Val._ Win her with gifts, if she respect not words:
+Dumb jewels often in their silent kind                              90
+More than quick words do move a woman's mind.
+
+_Duke._ But she did scorn a present that I sent her.
+
+_Val._ A woman sometimes scorns what best contents her.
+Send her another; never give her o'er;
+For scorn at first makes afterlove the more.                        95
+If she do frown, 'tis not in hate of you,
+But rather to beget more love in you:
+If she do chide, 'tis not to have you gone;
+For why, the fools are mad, if left alone.
+Take no repulse, whatever she doth say;                            100
+For 'get you gone,' she doth not mean 'away!'
+Flatter and praise, commend, extol their graces;
+Though ne'er so black, say they have angels' faces.
+That man that hath a tongue, I say, is no man,
+If with his tongue he cannot win a woman.                          105
+
+_Duke._ But she I mean is promised by her friends
+Unto a youthful gentleman of worth;
+And kept severely from resort of men,
+That no man hath access by day to her.
+
+_Val._ Why, then, I would resort to her by night.                  110
+
+_Duke._ Ay, but the doors be lock'd, and keys kept safe,
+That no man hath recourse to her by night.
+
+_Val._ What lets but one may enter at her window?
+
+_Duke._ Her chamber is aloft, far from the ground,
+And built so shelving, that one cannot climb it                    115
+Without apparent hazard of his life.
+
+_Val._ Why, then, a ladder, quaintly made of cords,
+To cast up, with a pair of anchoring hooks,
+Would serve to scale another Hero's tower,
+So bold Leander would adventure it.                                120
+
+_Duke._ Now, as thou art a gentleman of blood,
+Advise me where I may have such a ladder.
+
+_Val._ When would you use it? pray, sir, tell me that.
+
+_Duke._ This very night; for Love is like a child,
+That longs for every thing that he can come by.                    125
+
+_Val._ By seven o'clock I'll get you such a ladder.
+
+_Duke._ But, hark thee; I will go to her alone:
+How shall I best convey the ladder thither?
+
+_Val._ It will be light, my lord, that you may bear it
+Under a cloak that is of any length.                               130
+
+_Duke._ A cloak as long as thine will serve the turn?
+
+_Val._ Ay, my good lord.
+
+_Duke._                Then let me see thy cloak:
+I'll get me one of such another length.
+
+_Val._ Why, any cloak will serve the turn, my lord.
+
+_Duke._ How shall I fashion me to wear a cloak?                    135
+I pray thee, let me feel thy cloak upon me.
+What letter is this same? What's here? 'To Silvia'!
+And here an engine fit for my proceeding.
+I'll be so bold to break the seal for once.    [_Reads._
+
+    'My thoughts do harbour with my Silvia nightly;                140
+      And slaves they are to me, that send them flying:
+    O, could their master come and go as lightly,
+      Himself would lodge where senseless they are lying!
+    My herald thoughts in thy pure bosom rest them;
+      While I, their king, that thither them importune,            145
+    Do curse the grace that with such grace hath bless'd them,
+      Because myself do want my servants' fortune:
+    I curse myself, for they are sent by me,
+    That they should harbour where their lord would be.
+
+What's here?                                                       150
+
+    'Silvia, this night I will enfranchise thee.'
+
+'Tis so; and here's the ladder for the purpose.
+Why, Phaethon,--for thou art Merops' son,--
+Wilt thou aspire to guide the heavenly car,
+And with thy daring folly burn the world?                          155
+Wilt thou reach stars, because they shine on thee?
+Go, base intruder! overweening slave!
+Bestow thy fawning smiles on equal mates;
+And think my patience, more than thy desert,
+Is privilege for thy departure hence:                              160
+Thank me for this more than for all the favours,
+Which all too much I have bestow'd on thee.
+But if thou linger in my territories
+Longer than swiftest expedition
+Will give thee time to leave our royal court,                      165
+By heaven! my wrath shall far exceed the love
+I ever bore my daughter or thyself.
+Be gone! I will not hear thy vain excuse;
+But, as thou lovest thy life, make speed from hence.    [_Exit._
+
+_Val._ And why not death rather than living torment?               170
+To die is to be banish'd from myself;
+And Silvia is myself: banish'd from her,
+Is self from self: a deadly banishment!
+What light is light, if Silvia be not seen?
+What joy is joy, if Silvia be not by?                              175
+Unless it be to think that she is by,
+And feed upon the shadow of perfection.
+Except I be by Silvia in the night,
+There is no music in the nightingale;
+Unless I look on Silvia in the day,                                180
+There is no day for me to look upon:
+She is my essence; and I leave to be,
+If I be not by her fair influence
+Foster'd, illumined, cherish'd, kept alive.
+I fly not death, to fly his deadly doom:                           185
+Tarry I here, I but attend on death:
+But, fly I hence, I fly away from life.
+
+  _Enter PROTEUS and LAUNCE._
+
+_Pro._ Run, boy, run, run, and seek him out.
+
+_Launce._ Soho, soho!
+
+_Pro._ What seest thou?                                            190
+
+_Launce._ Him we go to find: there's not a hair on's
+head but 'tis a Valentine.
+
+_Pro._ Valentine?
+
+_Val._ No.
+
+_Pro._ Who then? his spirit?                                       195
+
+_Val._ Neither.
+
+_Pro._ What then?
+
+_Val._ Nothing.
+
+_Launce._ Can nothing speak? Master, shall I strike?
+
+_Pro._ Who wouldst thou strike?                                    200
+
+_Launce._ Nothing.
+
+_Pro._ Villain, forbear.
+
+_Launce._ Why, sir, I'll strike nothing: I pray you,--
+
+_Pro._ Sirrah, I say, forbear. Friend Valentine, a word.
+
+_Val._ My ears are stopt, and cannot hear good news,               205
+So much of bad already hath possess'd them.
+
+_Pro._ Then in dumb silence will I bury mine,
+For they are harsh, untuneable, and bad.
+
+_Val._ Is Silvia dead?
+
+_Pro._ No, Valentine.                                              210
+
+_Val._ No Valentine, indeed, for sacred Silvia.
+Hath she forsworn me?
+
+_Pro._ No, Valentine.
+
+_Val._ No Valentine, if Silvia have forsworn me.
+What is your news?                                                 215
+
+_Launce._ Sir, there is a proclamation that you are vanished.
+
+_Pro._ That thou art banished--O, that's the news!--
+From hence, from Silvia, and from me thy friend.
+
+_Val._ O, I have fed upon this woe already,
+And now excess of it will make me surfeit.                         220
+Doth Silvia know that I am banished?
+
+_Pro._ Ay, ay; and she hath offer'd to the doom--
+Which, unreversed, stands in effectual force--
+A sea of melting pearl, which some call tears:
+Those at her father's churlish feet she tender'd;                  225
+With them, upon her knees, her humble self;
+Wringing her hands, whose whiteness so became them
+As if but now they waxed pale for woe:
+But neither bended knees, pure hands held up,
+Sad sighs, deep groans, nor silver-shedding tears,                 230
+Could penetrate her uncompassionate sire;
+But Valentine, if he be ta'en, must die.
+Besides, her intercession chafed him so,
+When she for thy repeal was suppliant,
+That to close prison he commanded her,                             235
+With many bitter threats of biding there.
+
+_Val._ No more; unless the next word that thou speak'st
+Have some malignant power upon my life:
+If so, I pray thee, breathe it in mine ear,
+As ending anthem of my endless dolour.                             240
+
+_Pro._ Cease to lament for that thou canst not help,
+And study help for that which thou lament'st.
+Time is the nurse and breeder of all good.
+Here if thou stay, thou canst not see thy love;
+Besides, thy staying will abridge thy life.                        245
+Hope is a lover's staff; walk hence with that,
+And manage it against despairing thoughts.
+Thy letters may be here, though thou art hence;
+Which, being writ to me, shall be deliver'd
+Even in the milk-white bosom of thy love.                          250
+The time now serves not to expostulate:
+Come, I'll convey thee through the city-gate;
+And, ere I part with thee, confer at large
+Of all that may concern thy love-affairs.
+As thou lovest Silvia, though not for thyself,                     255
+Regard thy danger, and along with me!
+
+_Val._ I pray thee, Launce, an if thou seest my boy,
+Bid him make haste, and meet me at the North-gate.
+
+_Pro._ Go, sirrah, find him out. Come, Valentine.
+
+_Val._ O my dear Silvia! Hapless Valentine!                        260
+
+    [_Exeunt Val. and Pro._
+
+_Launce._ I am but a fool, look you; and yet I have the
+wit to think my master is a kind of a knave: but that's all
+one, if he be but one knave. He lives not now that knows
+me to be in love; yet I am in love; but a team of horse
+shall not pluck that from me; nor who 'tis I love; and yet         265
+'tis a woman; but what woman, I will not tell myself; and
+yet 'tis a milkmaid; yet 'tis not a maid, for she hath had
+gossips; yet 'tis a maid, for she is her master's maid, and
+serves for wages. She hath more qualities than a water-spaniel,--
+which is much in a bare Christian.                                 270
+  [_Pulling out a paper._]
+Here is the cate-log of her condition. 'Imprimis:
+She can fetch and carry.' Why, a horse can do no more:
+nay, a horse cannot fetch, but only carry; therefore is she
+better than a jade. 'Item: She can milk;' look you, a
+sweet virtue in a maid with clean hands.                           275
+
+  _Enter SPEED._
+
+_Speed._ How now, Signior Launce! what news with your mastership?
+
+_Launce._ With my master's ship? why, it is at sea.
+
+_Speed._ Well, your old vice still; mistake the word.
+What news, then, in your paper?                                    280
+
+_Launce._ The blackest news that ever thou heardest.
+
+_Speed._ Why, man, how black?
+
+_Launce._ Why, as black as ink.
+
+_Speed._ Let me read them.
+
+_Launce._ Fie on thee, jolt-head! thou canst not read.             285
+
+_Speed._ Thou liest; I can.
+
+_Launce._ I will try thee. Tell me this: who begot thee?
+
+_Speed._ Marry, the son of my grandfather.
+
+_Launce._ O illiterate loiterer! it was the son of thy grandmother:
+this proves that thou canst not read.                              290
+
+_Speed._ Come, fool, come; try me in thy paper.
+
+_Launce._ There; and Saint Nicholas be thy speed!
+
+_Speed_ [_reads_]. 'Imprimis: She can milk.'
+
+_Launce._ Ay, that she can.
+
+_Speed._ 'Item: She brews good ale.'                               295
+
+_Launce._ And thereof comes the proverb: 'Blessing of
+your heart, you brew good ale.'
+
+_Speed._ 'Item: She can sew.'
+
+_Launce._ That's as much as to say, Can she so?
+
+_Speed._ 'Item: She can knit.'                                     300
+
+_Launce._ What need a man care for a stock with a
+wench, when she can knit him a stock?
+
+_Speed._ 'Item: She can wash and scour.'
+
+_Launce._ A special virtue; for then she need not be
+washed and scoured.                                                305
+
+_Speed._ 'Item: She can spin.'
+
+_Launce._ Then may I set the world on wheels, when
+she can spin for her living.
+
+_Speed._ 'Item: She hath many nameless virtues.'
+
+_Launce._ That's as much as to say, bastard virtues;               310
+that, indeed, know not their fathers, and therefore have no
+names.
+
+_Speed._ 'Here follow her vices.'
+
+_Launce._ Close at the heels of her virtues.
+
+_Speed._ 'Item: She is not to be kissed fasting, in respect        315
+of her breath.'
+
+_Launce._ Well, that fault may be mended with a breakfast.
+Read on.
+
+_Speed._ 'Item: She hath a sweet mouth.'
+
+_Launce._ That makes amends for her sour breath.                   320
+
+_Speed._ 'Item: She doth talk in her sleep.'
+
+_Launce._ It's no matter for that, so she sleep not in her talk.
+
+_Speed._ 'Item: She is slow in words.'
+
+_Launce._ O villain, that set this down among her vices!           325
+To be slow in words is a woman's only virtue: I pray thee,
+out with't, and place it for her chief virtue.
+
+_Speed._ 'Item: She is proud.'
+
+_Launce._ Out with that too; it was Eve's legacy, and
+cannot be ta'en from her.                                          330
+
+_Speed._ 'Item: She hath no teeth.'
+
+_Launce._ I care not for that neither, because I love crusts.
+
+_Speed._ 'Item: She is curst.'
+
+_Launce._ Well, the best is, she hath no teeth to bite.            335
+
+_Speed._ 'Item: She will often praise her liquor.'
+
+_Launce._ If her liquor be good, she shall: if she will
+not, I will; for good things should be praised.
+
+_Speed._ 'Item: She is too liberal.'
+
+_Launce._ Of her tongue she cannot, for that's writ down           340
+she is slow of; of her purse she shall not, for that I'll keep
+shut: now, of another thing she may, and that cannot I
+help. Well, proceed.
+
+_Speed._ 'Item: She hath more hair than wit, and more
+faults than hairs, and more wealth than faults.'                   345
+
+_Launce._ Stop there; I'll have her: she was mine, and
+not mine, twice or thrice in that last article. Rehearse that
+once more.
+
+_Speed._ 'Item: She hath more hair than wit,'--
+
+_Launce._ More hair than wit? It may be; I'll prove it.            350
+The cover of the salt hides the salt, and therefore it is more
+than the salt; the hair that covers the wit is more than the
+wit, for the greater hides the less. What's next?
+
+_Speed._ 'And more faults than hairs,'--
+
+_Launce._ That's monstrous: O, that that were out!                 355
+
+_Speed._ 'And more wealth than faults.'
+
+_Launce._ Why, that word makes the faults gracious.
+Well, I'll have her: and if it be a match, as nothing is
+impossible,--
+
+_Speed._ What then?                                                360
+
+_Launce._ Why, then will I tell thee--that thy master
+stays for thee at the North-gate?
+
+_Speed._ For me?
+
+_Launce._ For thee! ay, who art thou? he hath stayed
+for a better man than thee.                                        365
+
+_Speed._ And must I go to him?
+
+_Launce._ Thou must run to him, for thou hast stayed
+so long, that going will scarce serve the turn.
+
+_Speed._ Why didst not tell me sooner? pox of your
+love-letters!    [_Exit._                                          370
+
+_Launce._ Now will he be swinged for reading my letter,--an
+unmannerly slave, that will thrust himself into secrets!
+I'll after, to rejoice in the boy's correction.    [_Exit._
+
+
+  Notes: III, 1.
+
+  Ante-room] Capell.
+  2: [Exit Thu.] Rowe.
+  7: _as_] F1 F3 F4. _as as_ F2.
+  21: _Being_] _If_ Pope.
+  _unprevented_] F1 F2. _unprepared_ F3 F4.
+  32: _hast_] _hath_ Pope.
+  33: _that_] F1. om. F2 F3 F4.
+  50: [Exit] Rowe.
+  Enter Valentine.] om. F1. [Enter. F2 F3 F4.
+  51: SCENE II. Pope.
+  _whither_] F2. _whether_ F1 (and elsewhere).
+  56: _tenour_] _tenure_ Ff.
+  72: _may I_] _I may_ Hanmer.
+  78: _dower_] _dowre_ Ff. _dowry_ Hanmer.
+  81: _in Verona_] Ff. _sir, in Milan_ Pope. _in Milano_ Collier MS.
+    _of Verona_ Halliwell. See note (VII).
+  83: _nought_] F2 F3 F4. _naught_ F1.
+  89: _respect_] F1 F2 F3. _respects_ F4.
+  92: _that I sent her_] _that I sent, sir_ Steevens conj.
+  93: _contents_] _content_ Mason conj.
+  98: _'tis_] F1 F3 F4. _'its_ F2.
+  99: _For why, the_] _For why the_ Dyce.
+  105: _with_] F1 F3 F4. _this_ F2.
+  139: [Reads] Rowe.
+  149: _would be_] F2 F3 F4. _should be_ F1.
+  151: _I will_] F1 F2 F3. _will I_ F4.
+  154: _car_] _cat_ F3 F4.
+  169: [Exit] F2.
+  170: SCENE III. Pope.
+  Enter PRO. and LAUNCE] F2.
+  189: _Soho, soho!_] _So-hough, Soa hough--_ F1.
+  200: _Who_] F1. _Whom_ F2 F3 F4.
+  204: _Sirrah_] om. Pope.
+  216: _vanished_] _vanish'd_ Pope.
+  217: _banished--O that's_] _banish'd: oh, that's_ Ff. _banish'd--O,
+    that is_ Pope. _banished--_ Val. _Oh, that's the news!_ Pro. _From
+    hence, ... _ Edd. conj.
+  260: [Exeunt Val. and Pro.] Exeunt. F2.
+  261: SCENE VI. Pope, by misprint for IV.
+  263: _one knave_] _one kind of knave_ Hanmer. _one kind_ Warburton.
+    _one in love_ Staunton conj.
+  270: [Pulling out a paper] Rowe.
+  271: _cate-log_] _cat-log_ Pope.
+  _condition_] F1 F2 F3. _conditions_ F4.
+  274: _milk;' look you,_] _milk, look you;_' Capell.
+  276: Enter Speed] F2.
+  278: _master's ship_] Theobald. _Mastership_ Ff.
+  293, 294: om. Farmer conj.
+  293: _Imprimis_] _Item_ Halliwell.
+  304: _need not be_] F1. _need not to be_ F2 F3 F4.
+  313: _follow_] F1. _followes_ F2. _follows_ F3 F4.
+  315: _kissed_] Rowe. om. Ff.
+  322: _sleep_] _slip_ Collier MS.
+  325: _O ... this_] _O villaine, that set this_ F1. _O villainy,
+    that set_ F2 F3. _Oh villain! that set_ F4. _O villainy that set
+    this_ Malone.
+  342: _cannot I_] _I cannot_ Steevens.
+  344: _hair_] F1. _hairs_ F2 F3 F4.
+  347: _that last_] F1. (in some copies only, according to Malone.)
+    _that_ F2 F3 F4.
+  350: _It may be; I'll prove it_] Theobald. _It may be I'll prove it_
+    Ff.
+  369: _of_] F1 F2. om. F3 F4.
+  370: [Exit] Capell.
+  373: [Exit.] Capell.    [Exeunt. Ff.
+
+
+SCENE II. _The same. The DUKE'S palace._
+
+  _Enter DUKE and THURIO._
+
+_Duke._ Sir Thurio, fear not but that she will love you,
+Now Valentine is banish'd from her sight.
+
+_Thu._ Since his exile she hath despised me most.
+Forsworn my company, and rail'd at me,
+That I am desperate of obtaining her.                                5
+
+_Duke._ This weak impress of love is as a figure
+Trenched in ice, which with an hour's heat
+Dissolves to water, and doth lose his form.
+A little time will melt her frozen thoughts,
+And worthless Valentine shall be forgot.                            10
+
+  _Enter PROTEUS._
+
+How now, Sir Proteus! Is your countryman,
+According to our proclamation, gone?
+
+_Pro._ Gone, my good lord.
+
+_Duke._ My daughter takes his going grievously.
+
+_Pro._ A little time, my lord, will kill that grief.                15
+
+_Duke._ So I believe; but Thurio thinks not so.
+Proteus, the good conceit I hold of thee--
+For thou hast shown some sign of good desert--
+Makes me the better to confer with thee.
+
+_Pro._ Longer than I prove loyal to your Grace                      20
+Let me not live to look upon your Grace.
+
+_Duke._ Thou know'st how willingly I would effect
+The match between Sir Thurio and my daughter.
+
+_Pro._ I do, my lord.
+
+_Duke._ And also, I think, thou art not ignorant                    25
+How she opposes her against my will.
+
+_Pro._ She did, my lord, when Valentine was here.
+
+_Duke._ Ay, and perversely she persevers so.
+What might we do to make the girl forget
+The love of Valentine, and love Sir Thurio?                         30
+
+_Pro._ The best way is to slander Valentine
+With falsehood, cowardice and poor descent,
+Three things that women highly hold in hate.
+
+_Duke._ Ay, but she'll think that it is spoke in hate.
+
+_Pro._ Ay, if his enemy deliver it:                                 35
+Therefore it must with circumstance be spoken
+By one whom she esteemeth as his friend.
+
+_Duke._ Then you must undertake to slander him.
+
+_Pro._ And that, my lord, I shall be loath to do:
+'Tis an ill office for a gentleman,                                 40
+Especially against his very friend.
+
+_Duke._ Where your good word cannot advantage him,
+Your slander never can endamage him;
+Therefore the office is indifferent,
+Being entreated to it by your friend.                               45
+
+_Pro._ You have prevail'd, my lord: if I can do it
+By ought that I can speak in his dispraise,
+She shall not long continue love to him.
+But say this weed her love from Valentine,
+It follows not that she will love Sir Thurio.                       50
+
+_Thu._ Therefore, as you unwind her love from him,
+Lest it should ravel and be good to none,
+You must provide to bottom it on me;
+Which must be done by praising me as much
+As you in worth dispraise Sir Valentine.                            55
+
+_Duke._ And, Proteus, we dare trust you in this kind,
+Because we know, on Valentine's report,
+You are already Love's firm votary,
+And cannot soon revolt and change your mind.
+Upon this warrant shall you have access                             60
+Where you with Silvia may confer at large;
+For she is lumpish, heavy, melancholy,
+And, for your friend's sake, will be glad of you;
+Where you may temper her by your persuasion
+To hate young Valentine and love my friend.                         65
+
+_Pro._ As much as I can do, I will effect:
+But you, Sir Thurio, are not sharp enough;
+You must lay lime to tangle her desires
+By wailful sonnets, whose composed rhymes
+Should be full-fraught with serviceable vows.                       70
+
+_Duke._ Ay,
+Much is the force of heaven-bred poesy.
+
+_Pro._ Say that upon the altar of her beauty
+You sacrifice your tears, your sighs, your heart:
+Write till your ink be dry, and with your tears                     75
+Moist it again; and frame some feeling line
+That may discover such integrity:
+For Orpheus' lute was strung with poets' sinews;
+Whose golden touch could soften steel and stones,
+Make tigers tame, and huge leviathans                               80
+Forsake unsounded deeps to dance on sands.
+After your dire-lamenting elegies,
+Visit by night your lady's chamber-window
+With some sweet concert; to their instruments
+Tune a deploring dump: the night's dead silence                     85
+Will well become such sweet-complaining grievance.
+This, or else nothing, will inherit her.
+
+_Duke._ This discipline shows thou hast been in love.
+
+_Thu._ And thy advice this night I'll put in practice.
+Therefore, sweet Proteus, my direction-giver,                       90
+Let us into the city presently
+To sort some gentlemen well skill'd in music.
+I have a sonnet that will serve the turn
+To give the onset to thy good advice.
+
+_Duke._ About it, gentlemen!                                        95
+
+_Pro._ We'll wait upon your Grace till after supper,
+And afterward determine our proceedings.
+
+_Duke._ Even now about it! I will pardon you.    [_Exeunt._
+
+
+  Notes: III, 2.
+
+  SCENE II.] SCENE V. Pope.
+  14: _grievously._] _grievously?_ F1. (in some copies only, according
+    to Malone). _heavily?_ F2 F3. _heavily._ F4.
+  18: _some_] _sure_ Collier MS.
+  19: _better_] _bolder_ Capell conj.
+  20: _loyal_] F1 F3 F4. _royall_ F2.
+  21: _your_] F1 F3 F4. _you_ F2.
+  _Grace_] _face_ Anon. conj.
+  25: _I think_] F1. _I doe think_ F2 F3 F4.
+  28: _persevers_] F1 F2. _perseveres_ F3 F4.
+  37: _esteemeth_] F1. _esteemes_ F2. _esteems_ F3 F4.
+  49: _weed_] Ff. _wean_ Rowe.
+  55: _worth_] _word_ Capell conj.
+  64: _Where_] _When_ Collier MS.
+  71, 72: _Ay, Much_] Capell. _I, much_ Ff. _Much_ Pope.
+  76: _line_] _lines_ S. Verges conj.
+  77: _such_] _strict_ Collier MS. _love's_ S. Verges conj. Malone
+    suggests that a line has been lost to this purport: _'As her
+    obdurate heart may penetrate.'_
+  81: _to_] F1. _and_ F2 F3 F4.
+  84: _concert_] Hanmer. _consort_ Ff.
+  86: _sweet-complaining_] Capell. _sweet complaining_ Ff.
+  94: _advice_] F2 F3 F4. _advise_ F1.
+
+
+
+
+ACT IV.
+
+
+SCENE I. _The frontiers of Mantua. A forest._
+
+  _Enter certain _Outlaws_._
+
+_First Out._ Fellows, stand fast; I see a passenger.
+
+_Sec. Out._ If there be ten, shrink not, but down with 'em.
+
+  _Enter VALENTINE and SPEED._
+
+_Third Out._ Stand, sir, and throw us that you have about ye:
+If not, we'll make you sit, and rifle you.
+
+_Speed._ Sir, we are undone; these are the villains                  5
+That all the travellers do fear so much.
+
+_Val._ My friends,--
+
+_First Out._ That's not so, sir: we are your enemies.
+
+_Sec. Out._ Peace! we'll hear him.
+
+_Third Out._ Ay, by my beard, will we, for he's a proper man.       10
+
+_Val._ Then know that I have little wealth to lose:
+A man I am cross'd with adversity;
+My riches are these poor habiliments,
+Of which if you should here disfurnish me,
+You take the sum and substance that I have.                         15
+
+_Sec. Out._ Whither travel you?
+
+_Val._ To Verona.
+
+_First Out._ Whence came you?
+
+_Val._ From Milan.
+
+_Third Out._ Have you long sojourned there?                         20
+
+_Val._ Some sixteen months, and longer might have stay'd,
+If crooked fortune had not thwarted me.
+
+_First Out._ What, were you banish'd thence?
+
+_Val._ I was.
+
+_Sec. Out._ For what offence?                                       25
+
+_Val._ For that which now torments me to rehearse:
+I kill'd a man, whose death I much repent;
+But yet I slew him manfully in fight,
+Without false vantage or base treachery.
+
+_First Out._ Why, ne'er repent it, if it were done so.              30
+But were you banish'd for so small a fault?
+
+_Val._ I was, and held me glad of such a doom.
+
+_Sec. Out._ Have you the tongues?
+
+_Val._ My youthful travel therein made me happy,
+Or else I often had been miserable.                                 35
+
+_Third Out._ By the bare scalp of Robin Hood's fat friar,
+This fellow were a king for our wild faction!
+
+_First Out._ We'll have him. Sirs, a word.
+
+_Speed._ Master, be one of them; it's an honourable kind
+of thievery.                                                        40
+
+_Val._ Peace, villain!
+
+_Sec. Out._ Tell us this: have you any thing to take to?
+
+_Val._ Nothing but my fortune.
+
+_Third Out._ Know, then, that some of us are gentlemen,
+Such as the fury of ungovern'd youth                                45
+Thrust from the company of awful men:
+Myself was from Verona banished
+For practising to steal away a lady,
+An heir, and near allied unto the duke.
+
+_Sec. Out._ And I from Mantua, for a gentleman,                     50
+Who, in my mood, I stabb'd unto the heart.
+
+_First Out._ And I for such like petty crimes as these.
+But to the purpose,--for we cite our faults,
+That they may hold excused our lawless lives;
+And partly, seeing you are beautified                               55
+With goodly shape, and by your own report
+A linguist, and a man of such perfection
+As we do in our quality much want,--
+
+_Sec. Out._ Indeed, because you are a banish'd man,
+Therefore, above the rest, we parley to you:                        60
+Are you content to be our general?
+To make a virtue of necessity,
+And live, as we do, in this wilderness?
+
+_Third Out._ What say'st thou? wilt thou be of our consort?
+Say ay, and be the captain of us all:                               65
+We'll do thee homage and be ruled by thee,
+Love thee as our commander and our king.
+
+_First Out._ But if thou scorn our courtesy, thou diest.
+
+_Sec. Out._ Thou shalt not live to brag what we have offer'd.
+
+_Val._ I take your offer, and will live with you,                   70
+Provided that you do no outrages
+On silly women or poor passengers.
+
+_Third Out._ No, we detest such vile base practices.
+Come, go with us, we'll bring thee to our crews,
+And show thee all the treasure we have got;                         75
+Which, with ourselves, all rest at thy dispose.    [_Exeunt._
+
+
+  Notes: IV, 1.
+
+  SCENE I. The frontiers ... forest.] Capell. A forest. Rowe.
+    A forest leading towards Mantua. Warburton.
+  2: _shrink_] _shrinkd_ F2.
+  4: _sit_] F1 F2. _sir_ F3 F4.
+  5: _Sir_] _O sir_ Capell.
+  6: _do_] om. Pope, who prints lines 5 and 6 as prose.
+  9: _Peace!_] _Peace, peace!_ Capell.
+  11: _little wealth_] F1. _little_ F2 F3 F4. _little left_ Hanmer.
+  18: _Whence_] _And whence_ Capell, who reads 16-20 as two lines
+    ending _came you? ... there?_
+  35: _ I often had been_] F2. _I often had been often_ F1. _often had
+    been_ (om. _I_) F3 F4. _I had been often_ Collier.
+  39, 40: _it's ... thievery_] Printed as a verse in Ff. _It is a kind
+    of honourable thievery_ Steevens.
+  42: _thing_] F1. _things_ F2 F3 F4.
+  46: _awful_] _lawful_ Heath conj.
+  49: _An heir, and near allied_] Theobald. _And heire and Neece,
+    allide_ F1 F2. _An heir, and Neice allide_ F3. _An Heir, and
+    Neece alli'd_ F4.
+  51: _Who_] _Whom_ Pope.
+  60: _Therefore_] F1 F2. _There_ F3 F4.
+  63: _this_] F1. _the_ F2 F3 F4.
+  74: _crews_] F4. _crewes_ F1 F2 F3. _cave_ Collier MS. _caves_
+    Singer. _crew_ Delius conj. _cruives_ Bullock conj.
+  76: _all_] _shall_ Pope.
+
+
+SCENE II. _Milan. Outside the DUKE'S palace, under SILVIA'S chamber._
+
+  _Enter PROTEUS._
+
+_Pro._ Already have I been false to Valentine,
+And now I must be as unjust to Thurio.
+Under the colour of commending him,
+I have access my own love to prefer:
+But Silvia is too fair, too true, too holy,                          5
+To be corrupted with my worthless gifts.
+When I protest true loyalty to her,
+She twits me with my falsehood to my friend;
+When to her beauty I commend my vows,
+She bids me think how I have been forsworn                          10
+In breaking faith with Julia whom I loved:
+And notwithstanding all her sudden quips,
+The least whereof would quell a lover's hope,
+Yet, spaniel-like, the more she spurns my love,
+The more it grows, and fawneth on her still.                        15
+But here comes Thurio: now must we to her window,
+And give some evening music to her ear.
+
+  _Enter THURIO and _Musicians_._
+
+_Thu._ How now, Sir Proteus, are you crept before us?
+
+_Pro._ Ay, gentle Thurio; for you know that love
+Will creep in service where it cannot go.                           20
+
+_Tim._ Ay, but I hope, sir, that you love not here.
+
+_Pro._ Sir, but I do; or else I would be hence.
+
+_Thu._ Who? Silvia?
+
+_Pro._            Ay, Silvia; for your sake.
+
+_Thu._ I thank you for your own. Now, gentlemen,
+Let's tune, and to it lustily awhile.                               25
+
+_Enter, at a distance, HOST, and JULIA in boy's clothes._
+
+_Host._ Now, my young guest, methinks you're allycholly:
+I pray you, why is it?
+
+_Jul._ Marry, mine host, because I cannot be merry.
+
+_Host._ Come, we'll have you merry: I'll bring you
+where you shall hear music, and see the gentleman that              30
+you asked for.
+
+_Jul._ But shall I hear him speak?
+
+_Host._ Ay, that you shall.
+
+_Jul._ That will be music.    [_Music plays._
+
+_Host._ Hark, hark!                                                 35
+
+_Jul._ Is he among these?
+
+_Host._ Ay: but, peace! let's hear 'em.
+
+SONG.
+
+  Who is Silvia? what is she,
+    That all our swains commend her?
+  Holy, fair, and wise is she;                                      40
+    The heaven such grace did lend her,
+  That she might admired be.
+
+  Is she kind as she is fair?
+    For beauty lives with kindness.
+  Love doth to her eyes repair,                                     45
+    To help him of his blindness,
+  And, being help'd, inhabits there.
+
+  Then to Silvia let us sing,
+    That Silvia is excelling;
+  She excels each mortal thing                                      50
+    Upon the dull earth dwelling:
+  To her let us garlands bring.
+
+_Host._ How now! are you sadder than you were before?
+How do you, man? the music likes you not.
+
+_Jul._ You mistake; the musician likes me not.                      55
+
+_Host._ Why, my pretty youth?
+
+_Jul._ He plays false, father.
+
+_Host._ How? out of tune on the strings?
+
+_Jul._ Not so; but yet so false that he grieves my very
+heart-strings.                                                      60
+
+_Host._ You have a quick ear.
+
+_Jul._ Ay, I would I were deaf; it makes me have a slow
+heart.
+
+_Host._ I perceive you delight not in music.
+
+_Jul._ Not a whit, when it jars so.                                 65
+
+_Host._ Hark, what fine change is in the music!
+
+_Jul._ Ay, that change is the spite.
+
+_Host._ You would have them always play but one thing?
+
+_Jul._ I would always have one play but one thing.
+But, host, doth this Sir Proteus that we talk on                    70
+Often resort unto this gentlewoman?
+
+_Host._ I tell you what Launce, his man, told me,--he
+loved her out of all nick.
+
+_Jul._ Where is Launce?
+
+_Host._ Gone to seek his dog; which to-morrow, by his               75
+master's command, he must carry for a present to his lady.
+
+_Jul._ Peace! stand aside: the company parts.
+
+_Pro._ Sir Thurio, fear not you: I will so plead,
+That you shall say my cunning drift excels.
+
+_Thu._ Where meet we?
+
+_Pro._              At Saint Gregory's well.
+
+_Thu._                                     Farewell.                80
+
+    [_Exeunt Thu. and Musicians._
+
+  _Enter SILVIA above._
+
+_Pro._ Madam, good even to your ladyship.
+
+_Sil._ I thank you for your music, gentlemen.
+Who is that that spake?
+
+_Pro._ One, lady, if you knew his pure heart's truth,
+You would quickly learn to know him by his voice.                   85
+
+_Sil._ Sir Proteus, as I take it.
+
+_Pro._ Sir Proteus, gentle lady, and your servant.
+
+_Sil._ What's your will?
+
+_Pro._                 That I may compass yours.
+
+_Sil._ You have your wish; my will is even this:
+That presently you hie you home to bed.                             90
+Thou subtle, perjured, false, disloyal man!
+Think'st thou I am so shallow, so conceitless,
+To be seduced by thy flattery,
+That hast deceived so many with thy vows?
+Return, return, and make thy love amends.                           95
+For me,--by this pale queen of night I swear,
+I am so far from granting thy request,
+That I despise thee for thy wrongful suit;
+And by and by intend to chide myself
+Even for this time I spend in talking to thee.                     100
+
+_Pro._ I grant, sweet love, that I did love a lady;
+But she is dead.
+
+_Jul._ [_Aside_] 'Twere false, if I should speak it;
+For I am sure she is not buried.
+
+_Sil._ Say that she be; yet Valentine thy friend
+Survives; to whom, thyself art witness,                            105
+I am betroth'd: and art thou not ashamed
+To wrong him with thy importunacy?
+
+_Pro._ I likewise hear that Valentine is dead.
+
+_Sil._ And so suppose am I; for in his grave
+Assure thyself my love is buried.                                  110
+
+_Pro._ Sweet lady, let me rake it from the earth.
+
+_Sil._ Go to thy lady's grave, and call hers thence;
+Or, at the least, in hers sepulchre thine.
+
+_Jul._ [_Aside_] He heard not that.
+
+_Pro._ Madam, if your heart be so obdurate,                        115
+Vouchsafe me yet your picture for my love,
+The picture that is hanging in your chamber;
+To that I'll speak, to that I'll sigh and weep:
+For since the substance of your perfect self
+Is else devoted, I am but a shadow;                                120
+And to your shadow will I make true love.
+
+_Jul._ [_Aside_] If 'twere a substance, you would,
+    sure, deceive it,
+And make it but a shadow, as I am.
+
+_Sil._ I am very loath to be your idol, sir;
+But since your falsehood shall become you well                     125
+To worship shadows and adore false shapes,
+Send to me in the morning, and I'll send it:
+And so, good rest.
+
+_Pro._           As wretches have o'ernight
+That wait for execution in the morn.
+    [_Exeunt Pro. and Sil. severally._
+
+_Jul._ Host, will you go?                                          130
+
+_Host._ By my halidom, I was fast asleep.
+
+_Jul._ Pray you, where lies Sir Proteus?
+
+_Host._ Marry, at my house. Trust me, I think 'tis
+almost day.
+
+_Jul._ Not so; but it hath been the longest night                  135
+That e'er I watch'd, and the most heaviest.    [_Exeunt._
+
+
+  Notes: IV, 2.
+
+  SCENE II. Outside ... palace ...] An open place, ... Warburton.
+    Court of the palace. Capell.
+  1: _have I_] _I've_ Pope.
+  15: _and_] om. F3 F4.
+  18: Musicians.] Rowe. Musitian. Ff. at the beginning of the scene.
+  23: _Who_] F1. Whom F2 F3 F4.
+  25: _tune_] F1. _turne_ F2. _turn_ F3 F4.
+  26: at a distance] Capell.
+  _allycholly_] _melancholy_ Pope.
+  27: _I pray you, why is it_] F1. _I pray you what is it_ F2 F3.
+    _I pray what is it?_ F4.
+  34: [Music plays] Capell.
+  40: _is she_] _as free_ Collier MS.
+  50: _excels_] _exceeds_ S. Walker conj.
+  53: SCENE III. Pope.
+  53, 54: _are you ... before?_] _you are ... before_ Heath conj.
+  68: _You would_] _you would, then,_ Malone. _you would not_
+    Collier MS.
+  70, 71: Printed as prose by Capell.
+  72-74: Printed as verse in Ff. _I tell ... He lov'd ..._
+  78: _fear not you_] F1. _fear not_ F2 F3 F4.
+  80: [Exeunt Thu. and Musicians.] Rowe.
+  81: SCENE IV. Pope.
+  Enter SILVIA above] Rowe. om. Ff.
+  85: _You would_] Ff. _You'd_ Pope.
+  88: _What's_] _What is_ Pope.
+  89: _even_] F1. _ever_ F2 F3 F4.
+  102: [Aside] Pope.
+  105: _thyself_] _even thyself_ Hanmer.
+  109: _his_] F2 F3 F4. _her_ F1.
+  112: _hers_] F1 F2. _her_ F3 F4.
+  114: [Aside] Pope.
+  115: _if_] _if that_ Warburton.
+  115, 116: _obdurate, Vouchsafe_] _Obdurate, O, vouchsafe_ Hanmer.
+  116: _for my love_] om. Hanmer.
+  122: [Aside] Pope.
+  125: _since your falsehood shall_] _since you're false, it shall_
+    Johnson conj.
+  129: [Exeunt ... severally] om. F1. [Exeunt. F2.
+  136: _heaviest_] _heavy one_ Pope.
+
+
+SCENE III. _The same._
+
+  _Enter EGLAMOUR._
+
+_Egl._ This is the hour that Madam Silvia
+Entreated me to call and know her mind:
+There's some great matter she'ld employ me in.
+Madam, madam!
+
+  _Enter SILVIA above._
+
+_Sil._      Who calls?
+
+_Egl._               Your servant and your friend;
+One that attends your ladyship's command.                            5
+
+_Sil._ Sir Eglamour, a thousand times good morrow.
+
+_Egl._ As many, worthy lady, to yourself:
+According to your ladyship's impose,
+I am thus early come to know what service
+It is your pleasure to command me in.                               10
+
+_Sil._ O Eglamour, thou art a gentleman,--
+Think not I flatter, for I swear I do not,--
+Valiant, wise, remorseful, well accomplish'd:
+Thou art not ignorant what dear good will
+I bear unto the banish'd Valentine;                                 15
+Nor how my father would enforce me marry
+Vain Thurio, whom my very soul abhors.
+Thyself hast loved; and I have heard thee say
+No grief did ever come so near thy heart
+As when thy lady and thy true love died,                            20
+Upon whose grave thou vow'dst pure chastity.
+Sir Eglamour, I would to Valentine,
+To Mantua, where I hear he makes abode;
+And, for the ways are dangerous to pass,
+I do desire thy worthy company,                                     25
+Upon whose faith and honour I repose.
+Urge not my father's anger, Eglamour,
+But think upon my grief, a lady's grief,
+And on the justice of my flying hence,
+To keep me from a most unholy match,                                30
+Which heaven and fortune still rewards with plagues.
+I do desire thee, even from a heart
+As full of sorrows as the sea of sands,
+To bear me company, and go with me:
+If not, to hide what I have said to thee,                           35
+That I may venture to depart alone.
+
+_Egl._ Madam, I pity much your grievances;
+Which since I know they virtuously are placed,
+I give consent to go along with you;
+Recking as little what betideth me                                  40
+As much I wish all good befortune you.
+When will you go?
+
+_Sil._          This evening coming.
+
+_Egl._ Where shall I meet you?
+
+_Sil._                       At Friar Patrick's cell,
+Where I intend holy confession.
+
+_Egl._ I will not fail your ladyship. Good morrow,                  45
+gentle lady.
+
+_Sil._ Good morrow, kind Sir Eglamour.
+    [_Exeunt severally._
+
+
+  Notes: IV, 3.
+
+  SCENE III.] SCENE V. Pope. Dyce makes no new scene here. See note
+    (VIII).
+  4: _Madam, madam!_] _Madam!_ Hanmer.
+  13: _Valiant, wise_] _Valiant and wise_ Pope. _Wise, valiant_
+    Anon. conj. A monosyllable lost before _valiant._ S. Walker conj.
+  17: _abhors_] Hanmer. _abhor'd_ F1 F2 F3. _abhorr'd_ F4.
+  19: _ever_] F1. om. F2 F3 F4.
+  _near_] _near unto_ Pope.
+  31: _rewards_] Ff. _reward_ Pope.
+  37, 38: _grievances; Which_] _grievances, And the most true
+    affections that you bear; Which_ Collier MS.
+  40: _Recking_] Pope. _Wreaking_ F1.
+  42: _evening coming_] _coming evening_ Anon. conj.
+
+
+SCENE IV. _The same._
+
+  _Enter LAUNCE, with his Dog._
+
+_Launce._ When a man's servant shall play the cur with
+him, look you, it goes hard: one that I brought up of a
+puppy; one that I saved from drowning, when three or
+four of his blind brothers and sisters went to it! I have
+taught him, even as one would say precisely, 'thus I                 5
+would teach a dog.' I was sent to deliver him as a present
+to Mistress Silvia from my master; and I came no sooner
+into the dining-chamber, but he steps me to her trencher,
+and steals her capon's leg: O, 'tis a foul thing when a cur
+cannot keep himself in all companies! I would have, as              10
+one should say, one that takes upon him to be a dog indeed,
+to be, as it were, a dog at all things. If I had not
+had more wit than he, to take a fault upon me that he
+did, I think verily he had been hanged for't: sure as I
+live, he had suffered for't: you shall judge. He thrusts            15
+me himself into the company of three or four gentleman-like
+dogs, under the duke's table: he had not been there--bless
+the mark!--a pissing while, but all the chamber
+smelt him. 'Out with the dog!' says one: 'What cur is
+that?' says another: 'Whip him out,' says the third: 'Hang          20
+him up,' says the duke. I, having been acquainted with
+the smell before, knew it was Crab, and goes me to the
+fellow that whips the dogs: 'Friend,' quoth I, 'you mean
+to whip the dog?' 'Ay, marry, do I,' quoth he. 'You
+do him the more wrong,' quoth I; ''twas I did the thing             25
+you wot of.' He makes me no more ado, but whips me
+out of the chamber. How many masters would do this for
+his servant? Nay, I'll be sworn, I have sat in the stocks
+for puddings he hath stolen, otherwise he had been executed;
+I have stood on the pillory for geese he hath killed,               30
+otherwise he had suffered for't. Thou thinkest not of this
+now. Nay, I remember the trick you served me when I
+took my leave of Madam Silvia: did not I bid thee still
+mark me, and do as I do? when didst thou see me heave
+up my leg, and make water against a gentlewoman's farthingale?      35
+didst thou ever see me do such a trick?
+
+  _Enter PROTEUS and JULIA._
+
+_Pro._ Sebastian is thy name? I like thee well,
+And will employ thee in some service presently.
+
+_Jul._ In what you please: I'll do what I can.
+
+_Pro._ I hope thou wilt. [_To Launce_] How now, you
+    whoreson peasant!                                               40
+Where have you been these two days loitering?
+
+_Launce._ Marry, sir, I carried Mistress Silvia the dog
+you bade me.
+
+_Pro._ And what says she to my little jewel?
+
+_Launce._ Marry, she says your dog was a cur, and tells             45
+you currish thanks is good enough for such a present.
+
+_Pro._ But she received my dog?
+
+_Launce._ No, indeed, did she not: here have I brought
+him back again.
+
+_Pro._ What, didst thou offer her this from me?                     50
+
+_Launce._ Ay, sir; the other squirrel was stolen from me
+by the hangman boys in the market-place: and then I
+offered her mine own, who is a dog as big as ten of yours,
+and therefore the gift the greater.
+
+_Pro._ Go get thee hence, and find my dog again,                    55
+Or ne'er return again into my sight.
+Away, I say! stay'st thou to vex me here?
+    [_Exit Launce._
+A slave, that still an end turns me to shame!
+Sebastian, I have entertained thee,
+Partly that I have need of such a youth,                            60
+That can with some discretion do my business,
+For 'tis no trusting to yond foolish lout;
+But chiefly for thy face and thy behaviour,
+Which, if my augury deceive me not,
+Witness good bringing up, fortune, and truth:                       65
+Therefore know thou, for this I entertain thee.
+Go presently, and take this ring with thee,
+Deliver it to Madam Silvia:
+She loved me well deliver'd it to me.
+
+_Jul._ It seems you loved not her, to leave her token.              70
+She is dead, belike?
+
+_Pro._             Not so; I think she lives.
+
+_Jul._ Alas!
+
+_Pro._ Why dost thou cry, 'alas'?
+
+_Jul._                          I cannot choose
+But pity her.
+
+_Pro._      Wherefore shouldst thou pity her?
+
+_Jul._ Because methinks that she loved you as well                  75
+As you do love your lady Silvia:
+She dreams on him that has forgot her love;
+You dote on her that cares not for your love.
+'Tis pity love should be so contrary;
+And thinking on it makes me cry, 'alas!'                            80
+
+_Pro._ Well, give her that ring, and therewithal
+This letter. That's her chamber. Tell my lady
+I claim the promise for her heavenly picture.
+Your message done, hie home unto my chamber,
+Where thou shalt find me, sad and solitary.    [_Exit._             85
+
+_Jul._ How many women would do such a message?
+Alas, poor Proteus! thou hast entertained
+A fox to be the shepherd of thy lambs.
+Alas, poor fool! why do I pity him
+That with his very heart despiseth me?                              90
+Because he loves her, he despiseth me;
+Because I love him, I must pity him.
+This ring I gave him when he parted from me,
+To bind him to remember my good will;
+And now am I, unhappy messenger,                                    95
+To plead for that which I would not obtain,
+To carry that which I would have refused,
+To praise his faith which I would have dispraised.
+I am my master's true-confirmed love;
+But cannot be true servant to my master,                           100
+Unless I prove false traitor to myself.
+Yet will I woo for him, but yet so coldly,
+As, heaven it knows, I would not have him speed.
+
+  _Enter SILVIA, attended._
+
+Gentlewoman, good day! I pray you, be my mean
+To bring me where to speak with Madam Silvia.                      105
+
+_Sil._ What would you with her, if that I be she?
+
+_Jul._ If you be she, I do entreat your patience
+To hear me speak the message I am sent on.
+
+_Sil._ From whom?
+
+_Jul._ From my master, Sir Proteus, madam.                         110
+
+_Sil._ O, he sends you for a picture.
+
+_Jul._ Ay, madam.
+
+_Sil._ Ursula, bring my picture there.
+Go give your master this: tell him, from me,
+One Julia, that his changing thoughts forget,                      115
+Would better fit his chamber than this shadow.
+
+_Jul._ Madam, please you peruse this letter.--
+Pardon me, madam; I have unadvised
+Deliver'd you a paper that I should not:
+This is the letter to your ladyship.                               120
+
+_Sil._ I pray thee, let me look on that again.
+
+_Jul._ It may not be; good madam, pardon me.
+
+_Sil._ There, hold!
+I will not look upon your master's lines:
+I know they are stuff'd with protestations,                        125
+And full of new-found oaths; which he will break
+As easily as I do tear his paper.
+
+_Jul._ Madam, he sends your ladyship this ring.
+
+_Sil._ The more shame for him that he sends it me;
+For I have heard him say a thousand times                          130
+His Julia gave it him at his departure.
+Though his false finger have profaned the ring,
+Mine shall not do his Julia so much wrong.
+
+_Jul._ She thanks you.
+
+_Sil._ What say'st thou?                                           135
+
+_Jul._ I thank you, madam, that you tender her.
+Poor gentlewoman! my master wrongs her much.
+
+_Sil._ Dost thou know her?
+
+_Jul._ Almost as well as I do know myself:
+To think upon her woes I do protest                                140
+That I have wept a hundred several times.
+
+_Sil._ Belike she thinks that Proteus hath forsook her.
+
+_Jul._ I think she doth; and that's her cause of sorrow.
+
+_Sil._ Is she not passing fair?
+
+_Jul._ She hath been fairer, madam, than she is:                   145
+When she did think my master loved her well,
+She, in my judgement, was as fair as you;
+But since she did neglect her looking-glass,
+And threw her sun-expelling mask away,
+The air hath starved the roses in her cheeks,                      150
+And pinch'd the lily-tincture of her face,
+That now she is become as black as I.
+
+_Sil._ How tall was she?
+
+_Jul._ About my stature: for, at Pentecost,
+When all our pageants of delight were play'd,                      155
+Our youth got me to play the woman's part,
+And I was trimm'd in Madam Julia's gown;
+Which served me as fit, by all men's judgements,
+As if the garment had been made for me:
+Therefore I know she is about my height.                           160
+And at that time I made her weep agood,
+For I did play a lamentable part:
+Madam, 'twas Ariadne passioning
+For Theseus' perjury and unjust flight;
+Which I so lively acted with my tears,                             165
+That my poor mistress, moved therewithal,
+Wept bitterly; and, would I might be dead,
+If I in thought felt not her very sorrow!
+
+_Sil._ She is beholding to thee, gentle youth.
+Alas, poor lady, desolate and left!                                170
+I weep myself to think upon thy words.
+Here, youth, there is my purse: I give thee this
+For thy sweet mistress' sake, because thou lovest her.
+Farewell.    [_Exit Silvia, with attendants._
+
+_Jul._ And she shall thank you for't, if e'er you know her.        175
+A virtuous gentlewoman, mild and beautiful!
+I hope my master's suit will be but cold,
+Since she respects my mistress' love so much.
+Alas, how love can trifle with itself!
+Here is her picture: let me see; I think,                          180
+If I had such a tire, this face of mine
+Were full as lovely as is this of hers:
+And yet the painter flatter'd her a little,
+Unless I flatter with myself too much.
+Her hair is auburn, mine is perfect yellow:                        185
+If that be all the difference in his love,
+I'll get me such a colour'd periwig.
+Her eyes are grey as glass; and so are mine:
+Ay, but her forehead's low, and mine's as high.
+What should it be that he respects in her,                         190
+But I can make respective in myself,
+If this fond Love were not a blinded god?
+Come, shadow, come, and take this shadow up,
+For 'tis thy rival. O thou senseless form,
+Thou shalt be worshipp'd, kiss'd, loved, and adored!               193
+And, were there sense in his idolatry,
+My substance should be statue in thy stead.
+I'll use thee kindly for thy mistress' sake,
+That used me so; or else, by Jove I vow,
+I should have scratch'd out your unseeing eyes,                    200
+To make my master out of love with thee!    [_Exit._
+
+
+  Notes: IV, 4.
+
+  SCENE IV.] SCENE VI. Pope. Dyce makes no new scene here. See note
+    (VIII).
+  The same.] The same. Silvia's Anti-chamber. Capell.
+  6: _I was sent_] _I went_ Theobald.
+  11: _to be a dog indeed_] _to be a dog, to be a dog indeed_
+    Johnson conj.
+  20: _the third_] _a third_ Hanmer.
+  23: _you mean_] _do you mean_ Collier MS.
+  26: _makes me no more_] _makes no more_ Rowe.
+  28: _his servant_] _their servant_ Pope.
+  33: _Silvia_] _Julia_ Warburton.
+  39: _I'll do_] _Ile do_ F1. _Ile do sir_ F2 F3 F4. _I will do_
+    Malone.
+  45: _was_] _is_ Capell conj.
+  48: _did she_] F1 F2. _she did_ F3 F4.
+  50: _this_] _this cur_ Collier MS.
+  51: _the other squirrel_] _the other, Squirrel_ Hanmer.
+  51-54: Printed as four verses ending _me ... marketplace ... dog ...
+    greater_ Ff. Pope made the change.
+  52: _hangman boys_] Singer. _Hangmans boyes_ F1. _hangmans boy_
+    F2 F3 F4. _a hangman boy_ Collier MS.
+  57: [Exit Launce] om. F1. [Exit. F2 after line 58.
+  58: _still an end_] _ev'ry day_ Pope.
+  66: _know thou_] F2 F3 F4. _know thee_ F1.
+  _entertain thee_] F1 F3 F4. _entertaine hee_ F2.
+  70: _to leave_] F2 F3 F4. _not leave_ F1. _nor love_ Johnson conj.
+  74: _Wherefore_] _Why_ Hanmer.
+  75: _that_] _if_ Hanmer.
+  81: _give her_] _give to her_ Collier MS.
+  _and therewithal_] _and give therewithal_ Theobald. _and give her
+    therewithal_ Capell.
+  85: [Exit] F2.
+  95: _am I_] F1 F2. _I am_ F3 F4.
+  103: Enter SILVIA attended] Malone. Enter SILVIA. Rowe.
+  104: _Gentlewoman_] Ff. _Lady_ Pope.
+  110: _From my master,_] _My master; from_ Capell.
+  111: Capell adds _does he not?_
+  115: _forget_] F1 F2. _forgot_ F3 F4.
+  117: _please you peruse_] _may 't please you to peruse_ Pope.
+    _wilt please you to peruse_ Capell. _so please you to peruse_
+    Collier MS.
+  127: _easily_] F1. _easie_ F2 F3 F4.
+  138: _Dost thou_] _Dost_ Capell conj.
+  151: _pinch'd_] _pitch'd_ Warburton. _pincte_ Becket conj. _pinc'd_
+    Id. conj.
+  158: _judgements_] _judgment_ Capell.
+  161: _agood_] F2 F3 F4. _a good_ F1. _a-good_ Theobald.
+  168: _felt_] _feel_ Seward conj.
+  169: _beholding_] _beholden_ Pope.
+  172: _my purse_] F1. _a purse_ F2 F3 F4.
+  174: _Farewell_] om. Pope.
+  [Exit ... attendants] Dyce, after 175. [Exit. F2. om. F1. [Exit S.
+    Singer, after 175.
+  178: _my mistress'_] _his mistress'_ Hanmer.
+  185: _auburn_] Rowe. _Aburne_ Ff.
+  188: _grey as glass_] F1. _grey as grass_ F2 F3 F4. _green as grass_
+    Collier MS.
+  189: _mine's as high_] _mine is high_ Pope.
+  197: _statue_] _sainted_ Hanmer. _statued_ Warburton. _statua_
+    Reed conj.
+  200: _your_] _thy_ Hanmer.
+  201: [Exit.] F2. [Exeunt. F1.
+
+
+
+
+ACT V.
+
+
+SCENE I. _Milan. An abbey._
+
+  _Enter EGLAMOUR._
+
+_Egl._ The sun begins to gild the western sky;
+And now it is about the very hour
+That Silvia, at Friar Patrick's cell, should meet me.
+She will not fail, for lovers break not hours,
+Unless it be to come before their time;                              5
+So much they spur their expedition.
+See where she comes.
+
+  _Enter SILVIA._
+
+                     Lady, a happy evening!
+
+_Sil._ Amen, amen! Go on, good Eglamour,
+Out at the postern by the abbey-wall:
+I fear I am attended by some spies.                                 10
+
+_Egl._ Fear not: the forest is not three leagues off;
+If we recover that, we are sure enough.    [_Exeunt._
+
+
+  Notes: V, 1.
+
+  SCENE I. An abbey.] Capell. Near the Friar's cell. Theobald.
+  3: _That_] om. Pope.
+  _Friar_] om. Steevens (1793).
+  12: _we are_] _we're_ Pope.
+
+
+SCENE II. _The same. The DUKE'S palace._
+
+  _Enter THURIO, PROTEUS, and JULIA._
+
+_Thu._ Sir Proteus, what says Silvia to my suit?
+
+_Pro._ O, sir, I find her milder than she was;
+And yet she takes exceptions at your person.
+
+_Thu._ What, that my leg is too long?
+
+_Pro._ No; that it is too little.                                    5
+
+_Thu._ I'll wear a boot, to make it somewhat rounder.
+
+_Jul._ [_Aside_] But love will not be spurr'd to what it loathes.
+
+_Thu._ What says she to my face?
+
+_Pro._ She says it is a fair one.
+
+_Thu._ Nay then, the wanton lies; my face is black.                 10
+
+_Pro._ But pearls are fair; and the old saying is,
+Black men are pearls in beauteous ladies' eyes.
+
+_Jul._ [_Aside_] 'Tis true, such pearls as put out ladies' eyes;
+For I had rather wink than look on them.
+
+_Thu._ How likes she my discourse?                                  15
+
+_Pro._ Ill, when you talk of war.
+
+_Thu._ But well, when I discourse of love and peace?
+
+_Jul._ [_Aside_] But better, indeed, when you hold your peace.
+
+_Thu._ What says she to my valour?
+
+_Pro._ O, sir, she makes no doubt of that.                          20
+
+_Jul._ [_Aside_] She needs not, when she knows it cowardice.
+
+_Thu._ What says she to my birth?
+
+_Pro._ That you are well derived.
+
+_Jul._ [_Aside_] True; from a gentleman to a fool.
+
+_Thu._ Considers she my possessions?                                25
+
+_Pro._ O, ay; and pities them.
+
+_Thu._ Wherefore?
+
+_Jul._ [_Aside_] That such an ass should owe them.
+
+_Pro._ That they are out by lease.
+
+_Jul._ Here comes the duke.                                         30
+
+  _Enter DUKE._
+
+_Duke._ How now, Sir Proteus! how now, Thurio!
+Which of you saw Sir Eglamour of late?
+
+_Thu._ Not I.
+
+_Pro._      Nor I.
+
+_Duke._          Saw you my daughter?
+
+_Pro._                              Neither.
+
+_Duke._ Why then,
+She's fled unto that peasant Valentine;                             35
+And Eglamour is in her company.
+'Tis true; for Friar Laurence met them both,
+As he in penance wander'd through the forest;
+Him he knew well, and guess'd that it was she,
+But, being mask'd, he was not sure of it;                           40
+Besides, she did intend confession
+At Patrick's cell this even; and there she was not;
+These likelihoods confirm her flight from hence.
+Therefore, I pray you, stand not to discourse,
+But mount you presently, and meet with me                           45
+Upon the rising of the mountain-foot
+That leads toward Mantua, whither they are fled:
+Dispatch, sweet gentlemen, and follow me.    [_Exit._
+
+_Thu._ Why, this it is to be a peevish girl,
+That flies her fortune when it follows her.                         50
+I'll after, more to be revenged on Eglamour
+Than for the love of reckless Silvia.    [_Exit._
+
+_Pro._ And I will follow, more for Silvia's love
+Than hate of Eglamour, that goes with her.    [_Exit._
+
+_Jul._ And I will follow, more to cross that love                   55
+Than hate for Silvia, that is gone for love.    [_Exit._
+  Notes: V, 2.
+
+  SCENE II. The Duke's palace.] Theobald.
+  7: Jul. [Aside] _But love ..._] Collier (Boswell conj.). Pro.
+    _But love ..._ Ff.
+  13: Jul. [Aside] _'Tis true ..._] Rowe. Thu. _'Tis true ..._ Ff.
+  18, 21, 24, 28: [Aside] Capell.
+  18: _hold_] _do hold_ Capell.
+  25: _possessions_] _large possessions_ Collier MS.
+  28: _owe_] Ff. _own_ Pope.
+  32: _saw Sir_] F4. _saw_ F1. _say saw Sir_ F2 F3.
+  34, 35: _Why then, She's_] _Why then, she's_ Capell.
+  35: _that_] F1. _the_ F2 F3 F4.
+  40: _it_] _her_ Collier MS.
+  47: _toward_] _towards_ Pope.
+  48: [Exit.] Rowe.
+  50: _when_] F1. _where_ F2 F3 F4.
+  51: _on_] _of_ Pope.
+  52: [Exit.] Capell.
+  54: [Exit.] Capell.
+  56: [Exit.] Capell. [Exeunt. Ff.
+
+
+SCENE III. _The frontiers of Mantua. The forest._
+
+  _Enter _Outlaws_ with SILVIA._
+
+_First Out._ Come, come,
+Be patient; we must bring you to our captain.
+
+_Sil._ A thousand more mischances than this one
+Have learn'd me how to brook this patiently.
+
+_Sec. Out._ Come, bring her away.                                    5
+
+_First Out._ Where is the gentleman that was with her?
+
+_Third Out._ Being nimble-footed, he hath outrun us,
+But Moses and Valerius follow him.
+Go thou with her to the west end of the wood;
+There is our captain: we'll follow him that's fled;                 10
+The thicket is beset; he cannot 'scape.
+
+_First Out._ Come, I must bring you to our captain's cave:
+Fear not; he bears an honourable mind,
+And will not use a woman lawlessly.
+
+_Sil._ O Valentine, this I endure for thee!    [_Exeunt_.           15
+
+
+  Notes: V, 3.
+
+  SCENE III. The ... Mantua] Capell.
+  The forest.] Pope.
+  8: _Moses_] Capell. _Moyses_ Ff.
+  10: _we'll_] om. Pope.
+  11: [Exeunt. Capell.
+
+
+SCENE IV. _Another part of the forest._
+
+  _Enter VALENTINE._
+
+_Val._ How use doth breed a habit in a man!
+This shadowy desert, unfrequented woods,
+I better brook than flourishing peopled towns:
+Here can I sit alone, unseen of any,
+And to the nightingale's complaining notes                           5
+Tune my distresses and record my woes.
+O thou that dost inhabit in my breast,
+Leave not the mansion so long tenantless,
+Lest, growing ruinous, the building fall,
+And leave no memory of what it was!                                 10
+Repair me with thy presence, Silvia;
+Thou gentle nymph, cherish thy forlorn swain!
+What halloing and what stir is this to-day?
+These are my mates, that make their wills their law,
+Have some unhappy passenger in chase.                               15
+They love me well; yet I have much to do
+To keep them from uncivil outrages.
+Withdraw thee, Valentine: who's this comes here?
+
+  _Enter PROTEUS, SILVIA, and JULIA._
+
+_Pro._ Madam, this service I have done for you,
+Though you respect not aught your servant doth,                     20
+To hazard life, and rescue you from him
+That would have forced your honour and your love;
+Vouchsafe me, for my meed, but one fair look;
+A smaller boon than this I cannot beg,
+And less than this, I am sure, you cannot give.                     25
+
+_Val._ [_Aside_] How like a dream is this I see and hear!
+Love, lend me patience to forbear awhile.
+
+_Sil._ O miserable, unhappy that I am!
+
+_Pro._ Unhappy were you, madam, ere I came;
+But by my coming I have made you happy.                             30
+
+_Sil._ By thy approach thou makest me most unhappy.
+
+_Jul._ [_Aside_] And me, when he approacheth to your presence.
+
+_Sil._ Had I been seized by a hungry lion,
+I would have been a breakfast to the beast,
+Rather than have false Proteus rescue me.                           35
+O, Heaven be judge how I love Valentine,
+Whose life's as tender to me as my soul!
+And full as much, for more there cannot be,
+I do detest false perjured Proteus.
+Therefore be gone; solicit me no more.                              40
+
+_Pro._ What dangerous action, stood it next to death,
+Would I not undergo for one calm look!
+O, 'tis the curse in love, and still approved,
+When women cannot love where they're beloved!
+
+_Sil._ When Proteus cannot love where he's beloved.                 45
+Read over Julia's heart, thy first, best love,
+For whose dear sake thou didst then rend thy faith
+Into a thousand oaths; and all those oaths
+Descended into perjury, to love me.
+Thou hast no faith left now, unless thou'dst two,                   50
+And that's far worse than none; better have none
+Than plural faith which is too much by one:
+Thou counterfeit to thy true friend!
+
+_Pro._                             In love
+Who respects friend?
+
+_Sil._             All men but Proteus.
+
+_Pro._ Nay, if the gentle spirit of moving words                    55
+Can no way change you to a milder form,
+I'll woo you like a soldier, at arms' end,
+And love you 'gainst the nature of love,--force ye.
+
+_Sil._ O heaven!
+
+_Pro._         I'll force thee yield to my desire.
+
+_Val._ Ruffian, let go that rude uncivil touch,                     60
+Thou friend of an ill fashion!
+
+_Pro._                       Valentine!
+
+_Val._ Thou common friend, that's without faith or love,
+For such is a friend now; treacherous man!
+Thou hast beguiled my hopes; nought but mine eye
+Could have persuaded me: now I dare not say                         65
+I have one friend alive; thou wouldst disprove me.
+Who should be trusted now, when one's right hand
+Is perjured to the bosom? Proteus,
+I am sorry I must never trust thee more,
+But count the world a stranger for thy sake.                        70
+The private wound is deepest: O time most accurst,
+'Mongst all foes that a friend should be the worst!
+
+_Pro._ My shame and guilt confounds me.
+Forgive me, Valentine: if hearty sorrow
+Be a sufficient ransom for offence,                                 75
+I tender 't here; I do as truly suffer
+As e'er I did commit.
+
+_Val._              Then I am paid;
+And once again I do receive thee honest.
+Who by repentance is not satisfied
+Is nor of heaven nor earth, for these are pleased.                  80
+By penitence the Eternal's wrath's appeased:
+And, that my love may appear plain and free,
+All that was mine in Silvia I give thee.
+
+_Jul._ O me unhappy!    [_Swoons._
+
+_Pro._ Look to the boy.                                             85
+
+_Val._ Why, boy! why, wag! how now! what's the matter?
+Look up; speak.
+
+_Jul._ O good sir, my master charged me to deliver
+a ring to Madam Silvia, which, out of my neglect, was never
+done.                                                               90
+
+_Pro._ Where is that ring, boy?
+
+_Jul._                        Here 'tis; this is it.
+
+_Pro._ How! let me see:
+Why, this is the ring I gave to Julia.
+
+_Jul._ O, cry you mercy, sir, I have mistook:
+This is the ring you sent to Silvia.                                95
+
+_Pro._ But how camest thou by this ring? At my depart
+I gave this unto Julia.
+
+_Jul._ And Julia herself did give it me;
+And Julia herself hath brought it hither.
+
+_Pro._ How! Julia!                                                 100
+
+_Jul._ Behold her that gave aim to all thy oaths,
+And entertain'd 'em deeply in her heart.
+How oft hast thou with perjury cleft the root!
+O Proteus, let this habit make thee blush!
+Be thou ashamed that I have took upon me                           105
+Such an immodest raiment, if shame live
+In a disguise of love:
+It is the lesser blot, modesty finds,
+Women to change their shapes than men their minds.
+
+_Pro._ Than men their minds! 'tis true. O heaven, were man         110
+But constant, he were perfect! That one error
+Fills him with faults; makes him run through all the sins:
+Inconstancy falls off ere it begins.
+What is in Silvia's face, but I may spy
+More fresh in Julia's with a constant eye?                         115
+
+_Val._ Come, come, a hand from either:
+Let me be blest to make this happy close;
+'Twere pity two such friends should be long foes.
+
+_Pro._ Bear witness, Heaven, I have my wish for ever.
+
+_Jul._ And I mine.                                                 120
+
+  _Enter _Outlaws_, with DUKE and THURIO._
+
+_Outlaws._ A prize, a prize, a prize!
+
+_Val._ Forbear, forbear, I say! it is my lord the duke.
+Your Grace is welcome to a man disgraced,
+Banished Valentine.
+
+_Duke._           Sir Valentine!
+
+_Thu._ Yonder is Silvia; and Silvia's mine.                        125
+
+_Val._ Thurio, give back, or else embrace thy death;
+Come not within the measure of my wrath;
+Do not name Silvia thine; if once again,
+Verona shall not hold thee. Here she stands:
+Take but possession of her with a touch:                           130
+I dare thee but to breathe upon my love.
+
+_Thu._ Sir Valentine, I care not for her, I:
+I hold him but a fool that will endanger
+His body for a girl that loves him not:
+I claim her not, and therefore she is thine.                       135
+
+_Duke._ The more degenerate and base art thou,
+To make such means for her as thou hast done,
+And leave her on such slight conditions.
+Now, by the honour of my ancestry,
+I do applaud thy spirit, Valentine,                                140
+And think thee worthy of an empress' love:
+Know, then, I here forget all former griefs,
+Cancel all grudge, repeal thee home again,
+Plead a new state in thy unrival'd merit,
+To which I thus subscribe: Sir Valentine,                          145
+Thou art a gentleman, and well derived;
+Take thou thy Silvia, for thou hast deserved her.
+
+_Val._ I thank your grace; the gift hath made me happy.
+I now beseech you, for your daughter's sake,
+To grant one boon that I shall ask of you.                         150
+
+_Duke._ I grant it, for thine own, whate'er it be.
+
+_Val._ These banish'd men that I have kept withal
+Are men endued with worthy qualities:
+Forgive them what they have committed here,
+And let them be recall'd from their exile:                         155
+They are reformed, civil, full of good,
+And fit for great employment, worthy lord.
+
+_Duke._ Thou hast prevail'd; I pardon them and thee:
+Dispose of them as thou know'st their deserts.
+Come, let us go: we will include all jars                          160
+With triumphs, mirth, and rare solemnity.
+
+_Val._ And, as we walk along, I dare be bold
+With our discourse to make your Grace to smile.
+What think you of this page, my lord?
+
+_Duke._ I think the boy hath grace in him; he blushes.             165
+
+_Val._ I warrant you, my lord, more grace than boy.
+
+_Duke._ What mean you by that saying?
+
+_Val._ Please you, I'll tell you as we pass along,
+That you will wonder what hath fortuned.
+Come, Proteus; 'tis your penance but to hear                       170
+The story of your loves discovered:
+That done, our day of marriage shall be yours;
+One feast, one house, one mutual happiness.    [_Exeunt._
+
+
+  Notes: V, 4.
+
+  SCENE IV. Another ... forest.] Capell. The outlaw's cave in the
+    forest. Theobald.
+  2: _This shadowy desert,_] _These shadowy, desert,_ Collier MS.
+  8: _so_] _too_ Collier MS.
+  14: _are my_] _my rude_ Collier MS.
+  18: [Steps aside. Johnson.
+  19: _I have_] F1 F2 F3. _have I_ F4. _having_ Collier MS.
+  25: _I am_] _I'm_ Pope.
+  26, 32: [Aside] Theobald.
+  26: _is this I see and hear!_] Theobald. _is this? I see and hear:_
+    Ff.
+  43: _and still approved_] _for ever prov'd_ Pope.
+  49: _to love me_] F1. _to deceive me_ F2 F3 F4.
+  57: _woo_] _wooe_ F1. _move_ F2 F3 F4.
+  58: _ye_] Ff. _you_ Warburton.
+  63: _treacherous man_] F1. _Thou treacherous man_ F2. _Though
+    treacherous man_ F3. _Tho treacherous man_ F4.
+  65: _now_] om. Pope.
+  67: _trusted now, when one's_] F2 F3 F4. _trusted, when one's_ F1.
+    _trusted, when one's own_ Johnson. _trusted now, when the_ Pope.
+  69: _I am_] _I'm_ Pope.
+  71: _O time most accurst_] _O time accurst_ Hanmer. _O time most
+    curst_ Johnson. _O spite accurst_ S. Verges conj.
+  72: _all foes that a friend_] _all my foes a friend_ Collier MS.
+  73: _confounds_] _confound_ Rowe.
+  _My ... confounds me_] _My shame and desperate guilt at once
+    confound me_ Collier MS.
+  82, 83: Blackstone proposes to transfer these lines to the end of
+    Thurio's speech, line 135.
+  84: [Swoons.] Pope.
+  86-90: Printed by Capell as four verses ending _matter ... me ...
+    Silvia ... done._
+  86: _what's_] _what is_ Capell.
+  88: _to deliver_] _Deliver_ Steevens conj.
+  92: _see_] _see it_ Steevens conj. suggesting that lines 92-97
+    should end at _ring ... sir ... sent ... this?_ (om. _ring_)
+    _... Julia._
+  93: _Why, this is_] _This is_ Pope. _Why, 'tis_ S. Verges conj.
+  96: _But_] om. Pope.
+  102: _'em_] _them_ Capell.
+  103: _root_] _root on't_ Hanmer.
+  112: _all the sins_] _all th' sins_ Ff. _all sins_ Pope.
+  118: _be long_] _long be_ Pope.
+  120: _And I mine_] _And I have mine_ Steevens (Ritson conj.).
+  [embracing. Capell.
+  121: SCENE V. Pope.
+  122: _Forbear, forbear, I say!_] _Forbear, I say!_ Capell.
+    _Forbear, forbear!_ Pope.
+  124: _Banished_] _The banish'd_ Pope.
+  129: _Verona shall not hold_] _Milan shall not behold_ Theobald.
+    _And Milan shall not hold_ Hanmer. _Milano shall not hold_
+    Collier MS. See note (VII).
+  143: _again,_] _again._ Steevens (Tyrwhitt conj.).
+  144: _unrival'd_] F1. _arrival'd_ F2 F3 F4.
+  160: _include_] _conclude_ Hanmer.
+  161: _rare_] F1. _all_ F2 F3 F4.
+  164: _page_] _stripling page_ Collier MS.
+  167: _saying?_] _saying, Valentine?_ Collier MS.
+  171: _loves discovered_] _love discovered_ Pope. _love's discoverer_
+    Collier MS.
+  172: _That done, our ... yours_] _Our day of marriage shall be
+    yours no less_ Collier MS.
+
+
+
+
+NOTES.
+
+
+NOTE I.
+
+DRAMATIS PERSONÆ. We have followed Steevens and the later editors in
+reading 'Proteus' for 'Protheus'; for though the latter form is
+invariably used in the Folios, and was, in all probability, what
+Shakespeare wrote, yet in choosing the name he doubtless meant to
+compare the fickle mind of the lover with the changeable form of the
+god. We have written 'Panthino,' not 'Panthion,' because the authority
+of the first Folio preponderates in favour of the former, in itself the
+more probable form of an Italian proper name. 'Panthion' occurs in F1,
+among 'the names of all the actors,' and in a stage direction at the
+beginning of Act II Sc. 2, but never in the text. 'Panthino' is found
+twice in the text, and once in a stage direction at the beginning of Act
+I. Sc. 3. The blunder 'Panthmo,' I. 3. 76, which is the reading of F1,
+shows that the original MS. had 'Panthino,' not 'Panthion.'
+
+
+NOTE II.
+
+I. 1. 28 sqq. Mr Sidney Walker (_Criticisms on Shakespeare_, III. p. 9)
+says we ought 'perhaps' to read
+
+  'No,
+  I will not, for it boots not.'
+
+Doubtless he meant also to re-arrange the following lines, and so get
+rid of the Alexandrine at 30; thus:
+
+  '_Val._ No,
+  I will not, for it boots not.
+
+  _Pro._                      What?
+
+  _Val._                          To be
+  In love, where scorn is bought with groans; coy looks
+  With heart-sore sighs; one fading moment's mirth,' &c.
+
+
+NOTE III.
+
+I. 2. 53. _What a fool is she._ The first Folio reads 'What 'foole is
+she,' doubtless to indicate an ellipsis of the indefinite article,
+which, for the sake of the metre, was to be slurred over in
+pronunciation. As we have not followed the Folio in reading _th'_ or
+_th_ for _the_ before a consonant, so we have thought it best to insert
+here the omitted letter _a_, especially as the use of the apostrophe is
+by modern custom much more restricted than it was in the Folio. For
+example, we find _'Save for God save_ (_Tempest_, II. 1. 162), and _at
+'nostrils for at's nostrils_ or _at the nostrils_ (_Id._ II. 2. 60).
+
+
+NOTE IV.
+
+II. 1. 68, 69. This passage is corrupt. The usual explanation, which
+satisfies Delius, is inadmissible, because Valentine would certainly not
+appear, like the Knight of La Mancha, without his hose. A rhyming
+couplet was probably what the author intended. Many conjectures might be
+made, as for example:
+
+  'For he, being in love, could not see to garter his hose;
+  And you, being in love, cannot see to beyond your nose.'
+
+Or, 'to put spectacles on your nose.' Or possibly, 'to put on your
+shoes,' the point of which remark Valentine's disordered dress might
+make clear to the audience. Rosalind, when enumerating the marks of a
+man in love, mentions the untied shoe as well as the ungartered hose,
+_As You Like It_, Act III. Sc. 2. The same misprint, 'hose' for 'shoes,'
+occurs in the first edition of Greene's _Groatsworth of Wit_. See Mr
+Dyce's preface to his edition of Greene's _Dramatic Works_, p. xxviii.
+
+
+NOTE V.
+
+II. 4. 7, 95, 111. As Speed after line 7 does not say a word during the
+whole of this long scene, we have sent him off the stage. It is not
+likely that the clown would be kept on as a mute bystander, especially
+when he had to appear in the following scene.
+
+The Folios give line 110 to Thurio, who, if the reading be right, must
+have quitted the stage during the scene. The most probable time for this
+would be on Proteus' entrance, line 95. Mr Dyce however argues that
+'Thurio, after what the Duke, in the presence of Silvia, had said to him
+about welcoming Proteus, would hardly run off the moment Proteus
+appeared.' But Thurio is not held up as a model of courtesy, and he
+might as well be off the stage as on it, for any welcome he gives to
+Proteus. Besides, in line 101 Valentine ignores Thurio altogether, who,
+if he had been present, would not have remained silent under the slight.
+
+On the whole, we think that the arrangement we have given is the best,
+as involving no change in the original reading. The question however is
+a difficult and doubtful one--indeed, far more difficult and doubtful
+than it is important, or instructive.
+
+
+NOTE VI.
+
+II. 4. 192. Theobald's correction, 'mine eye,' or as Mr Spedding
+suggests, 'my eye' ('my eie' in the original spelling), is supported by
+a passage in the _Comedy of Errors_, III. 2. 55:
+
+  'It is a fault that springeth from your eye.'
+
+If this were not satisfactory, another guess might be hazarded:
+
+  'Is it mine _unstaid mind_ or Valentine's praise.'
+
+The resemblance of 'mine' and 'mind' in the printer's eye (final d and
+final e being perpetually mistaken for each other) might cause the
+omission of the two words. 'Valentine' is found as a dissyllable I. 2.
+38. 'Sir Valentine's page, &c.': perhaps also III. 1. 191:
+
+  'There's not a hair on 's head but 'tis a Valentine,'
+
+and, if Capell's arrangement be right, V. 2. 34.
+
+
+NOTE VII.
+
+II. 5. 1, III. 1. 81, and V. 4. 129. We have retained 'Padua' in the
+first of these passages and 'Verona' in the second and third, because it
+is impossible that the words can be a mere printer's, or transcriber's,
+error. These inaccuracies are interesting as showing that Shakespeare
+had written the whole of the play before he had finally determined where
+the scene was to be laid.
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+Sources:
+
+The editors' Preface (e-text 23041) discusses the 17th- and
+18th-century editions in detail; the newer (19th-century) editions
+are simply listed by name. The following editions may appear in the
+Notes. All inset text is quoted from the Preface.
+
+  Folios:
+  F1 1623; F2 (no date given); F3 1663; F4 1685.
+    "The five plays contained in this volume occur in the first Folio
+    in the same order, and ... were there printed for the first time."
+
+  Early editions:
+  Rowe 1709
+  Pope 1715
+    "Pope was the first to indicate the _place_ of each new scene;
+    as, for instance, _Tempest_, I. 1. 'On a ship at sea.' He also
+    subdivided the scenes as given by the Folios and Rowe, making
+    a fresh scene whenever a new character entered--an arrangement
+    followed by Hanmer, Warburton, and Johnson. For convenience of
+    reference to these editions, we have always recorded the
+    commencement of Pope's scenes."
+  Theobald 1733
+  Hanmer ("Oxford edition") 1744
+  Warburton 1747
+  Johnson 1765
+  Capell 1768; _also Capell's annotated copy of F2_
+  Steevens 1773
+  Malone 1790
+  Reed 1803
+
+  Later editions:
+  Singer, Knight, Cornwall, Collier, Phelps, Halliwell, Dyce, Staunton
+
+
+Errors and inconsistencies:
+
+  [Text-critical notes]
+
+  II. 3. 20: _Oh, the dog is me_]  [_body text punctuates "Oh! the"_]
+  II. 4. 58: Know]  [_body text has "know", not capitalized_]
+  II. 5. 1: Padua]  [_body text has "the same", referring back to
+    II. 4 "Milan"_]
+  IV. 4. 95: _am I_] F1 F2. _I am_ F3 F4.  [F3 F3]
+
+
+
+
+
+End of Project Gutenberg's Two Gentlemen of Verona, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK TWO GENTLEMEN OF VERONA ***
+
+***** This file should be named 23043-8.txt or 23043-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/3/0/4/23043/
+
+Produced by Louise Hope, Jonathan Ingram and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

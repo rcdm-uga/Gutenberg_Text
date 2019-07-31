@@ -1,0 +1,2318 @@
+The Project Gutenberg eBook, New Collected Rhymes, by Andrew Lang
+
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at 
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+
+Title: New Collected Rhymes
+
+
+Author: Andrew Lang
+
+
+
+Release Date: September 8, 2014  [eBook #1746]
+[This file was first posted on 25 November 1998]
+
+Language: English
+
+Character set encoding: UTF-8
+
+
+***START OF THE PROJECT GUTENBERG EBOOK NEW COLLECTED RHYMES***
+
+
+Transcribed from the 1905 Longmans, Green and Co. edition by David Price,
+email ccx074@pglaf.org
+
+
+
+
+
+                              NEW COLLECTED
+                                  RHYMES
+
+
+                                * * * * *
+
+                                    BY
+                               ANDREW LANG
+
+                                * * * * *
+
+                         LONGMANS, GREEN, AND CO.
+                        39 PATERNOSTER ROW, LONDON
+                           NEW YORK AND BOMBAY
+
+                                   1905
+
+                          _All rights reserved_
+
+
+
+
+PREFACE
+
+
+THIS poor little flutter of rhymes would not have been let down the wind:
+the project would have been abandoned but for the too flattering
+encouragement of a responsible friend.  I trust that he may not “live to
+rue the day,” like Keith of Craigentolly in the ballad.
+
+The “Loyal Lyrics” on Charles and James and the White Rose must not be
+understood as implying a rebellious desire for the subversion of the
+present illustrious dynasty.
+
+   “These are but symbols that I sing,
+   These names of Prince, and rose, and King;
+   Types of things dear that do not die,
+   But reign in loyal memory.
+   _Across the water_ surely they
+   Abide their twenty-ninth of May;
+   And we shall hail their happy reign,
+   When Life comes to his own again,”—
+
+over the water that divides us from the voices and faces of our desires
+and dreams.
+
+Of the ballads, _The Young Ruthven_ and _The Queen of Spain_ were written
+in competition with the street minstrels of the close of the sixteenth
+century.  The legend on which _The Young Ruthven_ is based is well known;
+_The Queen of Spain_ is the story of the _Florencia_, a ship of the
+Spanish Armada, wrecked in Tobermory Bay, as it was told to me by a
+mariner in the Sound of Mull.  In _Keith of Craigentolly_ the family and
+territorial names of the hero or villain are purposely altered, so as to
+avoid injuring susceptibilities and arousing unavailing regrets.
+
+
+
+
+CONTENTS
+
+                            DEDICATORY
+                                                              PAGE
+IN AUGUSTINUM DOBSON                                             3
+                           LOYAL LYRICS
+HOW THE MAID MARCHED FROM BLOIS                                  7
+LONE PLACES OF THE DEER                                          9
+AN OLD SONG                                                     10
+JACOBITE “AULD LANG SYNE”                                       12
+THE PRINCE’S BIRTHDAY                                           14
+THE TENTH OF JUNE, 1715                                         15
+WHITE ROSE DAY                                                  17
+RED AND WHITE ROSES                                             18
+THE BONNIE BANKS O’ LOCH LOMOND                                 19
+KENMURE                                                         21
+CULLODEN                                                        23
+THE LAST OF THE LEAL                                            25
+JEANNE D’ARC                                                    27
+                          CRICKET RHYMES
+TO HELEN                                                        31
+BALLADE OF DEAD CRICKETERS                                      32
+BRAHMA                                                          34
+              CRITICAL OF LIFE, ART, AND LITERATURE
+GAINSBOROUGH GHOSTS                                             37
+A REMONSTRANCE WITH THE FAIR                                    39
+RHYME OF RHYMES                                                 42
+RHYME OF OXFORD COCKNEY RHYMES                                  44
+ROCOCO                                                          47
+THE NEW ORPHEUS TO HIS EURYDICE                                 47
+THE FOOD OF FICTION                                             59
+“A HIGHLY VALUABLE CHAIN OF THOUGHTS”                           51
+MATRIMONY                                                       53
+PISCATORI PISCATOR                                              55
+THE CONTENTED ANGLER                                            56
+OFF MY GAME                                                     58
+THE PROPERTY OF A GENTLEMAN WHO HAS GIVEN UP COLLECTING         60
+THE BALLADE OF THE SUBCONSCIOUS SELF                            62
+BALLADE OF THE OPTIMIST                                         64
+ZIMBABWE                                                        66
+LOVE’S CRYPTOGRAM                                               68
+TUSITALA                                                        70
+DISDAINFUL DIAPHENIA                                            72
+TALL SALMACIS                                                   73
+                          JUBILEE POEMS
+WHAT FRANCESCO SAID OF THE JUBILEE                              72
+THE POET AND THE JUBILEE                                        79
+ON ANY BEACH                                                    81
+ODE OF JUBILEE                                                  82
+JUBILEE BEFORE REVOLUTION                                       84
+                            FOLK SONGS
+FRENCH PEASANT SONGS                                            89
+                             BALLADS
+THE YOUNG RUTHVEN                                               93
+THE QUEEN O’ SPAIN AND THE BAULD MCLEAN                         97
+KEITH OF CRAIGENTOLLY                                          101
+
+
+
+
+DEDICATORY
+
+
+_In Augustinum Dobson_.
+
+
+                            JAM RUDE DONATUM.
+
+   DEAR Poet, now turned out to grass
+         (Like him who reigned in Babylon),
+      Forget the seasons overlaid
+      By business and the Board of Trade:
+   And sing of old-world lad and lass
+         As in the summers that are gone.
+
+   Back to the golden prime of Anne!
+         When you ambassador had been,
+      And brought o’er sea the King again,
+      Beatrix Esmond in his train,
+   Ah, happy bard to hold her fan,
+         And happy land with such a Queen!
+
+   We live too early, or too late,
+         You should have shared the pint of Pope,
+      And taught, well pleased, the shining shell
+      To murmur of the fair Lepel,
+   And changed the stars of St. John’s fate
+         To some more happy horoscope.
+
+   By duchesses with roses crowned,
+         And fed with chicken and champagne,
+      Urbane and witty, and too wary
+      To risk the feud of Lady Mary,
+   You should have walked the courtly ground
+         Of times that cannot come again.
+
+   Bring back these years in verse or prose,
+         (I very much prefer your verse!)
+      As on some Twenty-Ninth of May
+      Restore the splendour and the sway,
+   Forget the sins, the wars, the woes—
+         The joys alone must you rehearse.
+
+   Forget the dunces (there is none
+         So stupid as to snarl at _you_);
+      So may your years with pen and book
+      Run pleasant as an English brook
+   Through meadows floral in the sun,
+         And shadows fragrant of the dew.
+
+   And thus at ending of your span—
+         As all must end—the world shall say,
+      “His best he gave: he left us not
+      A line that saints could wish to blot,
+   For he was blameless, though a man,
+         And though the poet, he was gay!”
+
+
+
+
+LOYAL LYRICS
+
+
+_How the Maid Marched from Blois_.
+
+
+(Supposed to be narrated by James Power, or Polwarth, her Scottish
+banner-painter.)
+
+   THE Maiden called for her great destrier,
+   But he lashed like a fiend when the Maid drew near:
+   “Lead him forth to the Cross!” she cried, and he stood
+   Like a steed of bronze by the Holy Rood!
+
+   Then I saw the Maiden mount and ride,
+   With a good steel sperthe that swung by her side,
+   And girt with the sword of the Heavenly Bride,
+   That is sained with crosses five for a sign,
+   The mystical sword of St. Catherine.
+   And the lily banner was blowing wide,
+   With the flowers of France on the field of fame
+   And, blent with the blossoms, the Holy Name!
+   And the Maiden’s blazon was shown on a shield,
+   _Argent_, _a dove_, _on an azure field_;
+   That banner was wrought by this hand, ye see,
+   For the love of the Maid and chivalry.
+
+   Her banner was borne by a page of grace,
+   With hair of gold, and a lady’s face;
+   And behind it the ranks of her men were dressed—
+   Never a man but was clean confessed,
+   Jackman and archer, lord and knight,
+   Their souls were clean and their hearts were light:
+   There was never an oath, there was never a laugh,
+   And La Hire swore soft by his leading staff!
+   Had we died in that hour we had won the skies,
+   And the Maiden had marched us through Paradise!
+
+   A moment she turned to the people there,
+   Who had come to gaze on the Maiden fair;
+   A moment she glanced at the ring she wore,
+   She murmured the Holy Name it bore,
+   Then, “For France and the King, good people pray!”
+   She spoke, and she cried to us, “_On and away_!”
+   And the shouts broke forth, and the flowers rained down,
+   And the Maiden led us to Orleans town.
+
+
+
+_Lone Places of the Deer_.
+
+
+   LONE places of the deer,
+      Corrie, and Loch, and Ben,
+   Fount that wells in the cave,
+   Voice of the burn and the wave,
+   Softly you sing and clear
+      Of Charlie and his men!
+
+   Here has he lurked, and here
+      The heather has been his bed,
+   The wastes of the islands knew
+   And the Highland hearts were true
+   To the bonny, the brave, the dear,
+      The royal, the hunted head.
+
+
+
+_An Old Song_.
+
+
+                                  1750.
+
+   OH, it’s hame, hame, hame,
+      And it’s hame I wadna be,
+   Till the Lord calls King James
+      To his ain countrie,
+   Bids the wind blaw frae France,
+      Till the Firth keps the faem,
+   And Loch Garry and Lochiel
+      Bring Prince Charlie hame.
+
+   May the lads Prince Charlie led
+      That were hard on Willie’s track,
+   When frae Laffen field he fled,
+      Wi’ the claymore at his back,
+   May they stand on Scottish soil
+      When the White Rose bears the gree,
+   And the Lord calls the King
+      To his ain countrie!
+
+   Bid the seas arise and stand
+      Like walls on ilka side,
+   Till our Highland lad pass through
+      With Jehovah for his guide.
+   Dry up the River Forth,
+      As Thou didst the Red Sea,
+   When Israel cam hame
+      To his ain countrie. {11}
+
+
+
+_Jacobite_ “_Auld Lang Syne_.”
+
+
+                        LOCHIEL’S REGIMENT, 1747.
+
+   THOUGH now we take King Lewie’s fee
+      And drink King Lewie’s wine,
+   We’ll bring the King frae ower the sea,
+      As in auld lang syne.
+
+   For, he that did proud Pharaoh crush,
+      And save auld Jacob’s line,
+   Will speak to Charlie in the Bush,
+      Like Moses, lang syne.
+
+   For oft we’ve garred the red coats run,
+      Frae Garry to the Rhine,
+   Frae Baugé brig to Falkirk moor,
+      No that lang syne.
+
+   The Duke may with the Devil drink,
+      And wi’ the deil may dine,
+   But Charlie’s dine in Holyrood,
+      As in auld lang syne.
+
+   For he who did proud Pharaoh crush,
+      To save auld Jacob’s line,
+   Shall speak to Charlie in the Bush,
+      Like Moses, lang syne.
+
+
+
+_The Prince’s Birthday_.
+
+
+                        ROME, 31ST DECEMBER, 1721.
+
+(A new-born star shone, which is figured on an early Medal of Prince
+Charles.)
+
+         A WONDERFUL star shone forth
+         From the frozen skies of the North
+   Upon Rome, for an Old Year’s night:
+         And a flower on the dear white Rose
+         Broke, in the season of snows,
+   To bloom for a day’s delight.
+
+         Lost is the star in the night,
+         And the Rose of a day’s delight
+   Fled “where the roses go”:
+         But the fragrance and light from afar,
+         Born of the Rose and the Star,
+   Breathe o’er the years and the snow.
+
+
+
+_The Tenth of June_, 1715.
+
+
+(Being a Song writ for a lady born on June 10th, the birthday of his Most
+Sacred Majesty King James III. and VIII.)
+
+   DAY of the King and the flower!
+      And the girl of my heart’s delight,
+   The blackbird sings in the bower,
+      And the nightingale sings in the night
+      A song to the roses white.
+
+   Day of the flower and the King!
+      When shall the sails of white
+   Shine on the seas and bring
+      In the day, in the dawn, in the night,
+      The King to his land and his right?
+
+   Day of my love and my may,
+      After the long years’ flight,
+   Born on the King’s birthday,
+      Born for my heart’s delight,
+      With the dawn of the roses white!
+
+   Black as the blackbird’s wing
+      Is her hair, and her brow as white
+   As the white rose blossoming,
+      And her eyes as the falcon’s bright
+      And her heart is leal to the right.
+
+   When shall the joy bells ring?
+      When shall the hours unite
+   The right with the might of my King,
+      And my heart with my heart’s delight;
+      In the dawn, in the day, in the night?
+
+
+
+_White Rose Day_.
+
+
+                              JUNE 10, 1688.
+
+   ’TWAS a day of faith and flowers,
+      Of honour that could not die,
+   Of Hope that counted the hours,
+      Of sorrowing Loyalty:
+   And the _Blackbird_ sang in the closes,
+      The _Blackbird_ piped in the spring,
+   For the day of the dawn of the Roses,
+      The dawn of the day of the King!
+
+   White roses over the heather,
+      And down by the Lowland lea,
+   And far in the faint blue weather,
+      A white sail guessed on the sea!
+   But the deep night gathers and closes,
+      Shall ever a morning bring
+   The lord of the leal white roses,
+      The face of the rightful King?
+
+
+
+_Red and White Roses_.
+
+
+   RED roses under the sun
+      For the King who is lord of land;
+   But he dies when his day is done,
+   For his memory careth none
+      When the glass runs empty of sand.
+
+   White roses under the moon
+      For the King without lands to give;
+   But he reigns with the reign of June,
+   With the rose and the Blackbird’s tune,
+      And he lives while Faith shall live.
+
+   Red roses for beef and beer;
+      Red roses for wine and gold;
+   But they drank of the water clear,
+   In exile and sorry cheer,
+      To the kings of our sires of old.
+
+   Red roses for wealth and might;
+      White roses for hopes that flee;
+   And the dreams of the day and the night,
+   For the Lord of our heart’s delight—
+      For the King that is o’er the sea.
+
+
+
+_The Bonnie Banks o’ Loch Lomond_.
+
+
+                                  1746.
+
+   THERE’S an ending o’ the dance, and fair Morag’s safe in France,
+   And the Clans they hae paid the lawing,
+   And the wuddy has her ain, and we twa are left alane,
+   Free o’ Carlisle gaol in the dawing.
+
+         So ye’ll tak the high road, and I’ll tak the laigh road,
+         An’ I’ll be in Scotland before ye:
+         But me and my true love will never meet again,
+         By the bonnie, bonnie banks o’ Loch Lomond.
+
+   For my love’s heart brake in twa, when she kenned the Cause’s fa’,
+   And she sleeps where there’s never nane shall waken,
+   Where the glen lies a’ in wrack, wi’ the houses toom and black,
+   And her father’s ha’s forsaken.
+
+   While there’s heather on the hill shall my vengeance ne’er be still,
+   While a bush hides the glint o’ a gun, lad;
+   Wi’ the men o’ Sergeant Môr shall I work to pay the score,
+   Till I wither on the wuddy in the sun, lad!
+
+         So ye’ll tak the high road, and I’ll tak the laigh road,
+         An’ I’ll be in Scotland before ye:
+         But me and my true love will never meet again,
+         By the bonnie, bonnie banks o’ Loch Lomond.
+
+
+
+_Kenmure_.
+
+
+                                  1715.
+
+   “THE heather’s in a blaze, Willie,
+      The White Rose decks the tree,
+   The Fiery Cross is on the braes,
+      And the King is on the sea!
+
+   “Remember great Montrose, Willie,
+      Remember fair Dundee,
+   And strike one stroke at the foreign foes
+      Of the King that’s on the sea.
+
+   “There’s Gordons in the North, Willie,
+      Are rising frank and free,
+   Shall a Kenmure Gordon not go forth
+      For the King that’s on the sea?
+
+   “A trusty sword to draw, Willie,
+      A comely weird to dree,
+   For the Royal Rose that’s like the snaw,
+      And the King that’s on the sea!”
+
+   He cast ae look across his lands,
+      Looked over loch and lea,
+   He took his fortune in his hands,
+      For the King was on the sea.
+
+   Kenmures have fought in Galloway
+      For Kirk and Presbyt’rie,
+   This Kenmure faced his dying day,
+      For King James across the sea.
+
+   It little skills what faith men vaunt,
+      If loyal men they be
+   To Christ’s ain Kirk and Covenant,
+      Or the King that’s o’er the sea.
+
+
+
+_Culloden_.
+
+
+   DARK, dark was the day when we looked on Culloden
+      And chill was the mist drop that clung to the tree,
+   The oats of the harvest hung heavy and sodden,
+      No light on the land and no wind on the sea.
+
+   There was wind, there was rain, there was fire on their faces,
+      When the clans broke the bayonets and died on the guns,
+   And ’tis Honour that watches the desolate places
+      Where they sleep through the change of the snows and the suns.
+
+   Unfed and unmarshalled, outworn and outnumbered,
+      All hopeless and fearless, as fiercely they fought,
+   As when Falkirk with heaps of the fallen was cumbered,
+      As when Gledsmuir was red with the havoc they wrought.
+
+   _Ah_, _woe worth you_, _Sleat_, _and the faith that you vowed_,
+      _Ah_, _woe worth you_, _Lovat_, _Traquair_, _and Mackay_;
+   _And woe on the false fairy flag of Macleod_,
+      _And the fat squires who drank_, _but who dared not to die_!
+
+   Where the graves of Clan Chattan are clustered together,
+      Where Macgillavray died by the Well of the Dead,
+   We stooped to the moorland and plucked the pale heather
+      That blooms where the hope of the Stuart was sped.
+
+   And a whisper awoke on the wilderness, sighing,
+      Like the voice of the heroes who battled in vain,
+   “Not for Tearlach alone the red claymore was plying,
+      But to bring back the old life that comes not again.”
+
+
+
+_The Last of the Leal_.
+
+
+                            DECEMBER 31, 1787.
+
+   HERE’S a health to every man
+      Bore the brunt of wind and weather;
+   Winnowed sore by Fortune’s fan,
+   Faded faith of chief and clan:
+      Nairne and Caryl stand together;
+   Here’s a health to every man
+      Bore the brunt of wind and weather!
+
+   Oh, round Charlie many ran,
+      When his foot was on the heather,
+   When his sword shone in the van.
+   Now at ending of his span,
+      Gask and Caryl stand together!
+
+   Ne’er a hope from plot or plan,
+      Ne’er a hope from rose or heather;
+   Ay, the King’s a broken man;
+   Few will bless, and most will ban.
+      Nairne and Caryl stand together!
+
+   Help is none from Crown or clan,
+      France is false, a fluttered feather;
+   But Kings are not made by man,
+   Till God end what God began,
+      Nairne and Caryl stand together,
+      Gask and Caryl stand together;
+   Here’s a health to every man
+      Bore the brunt of wind and weather!
+
+
+
+_Jeanne d’Arc_.
+
+
+   THE honour of a loyal boy,
+      The courage of a paladin,
+   With maiden’s mirth, the soul of joy,
+      These dwelt her happy breast within.
+   From shame, from doubt, from fear, from sin,
+      As God’s own angels was she free;
+   Old worlds shall end, and new begin
+               To be
+
+   Ere any come like her who fought
+      For France, for freedom, for the King;
+   Who counsel of redemption brought
+      Whence even the armed Archangel’s wing
+   Might weary sore in voyaging;
+      Who heard her Voices cry “Be free!”
+   Such Maid no later human spring
+               Shall see!
+
+   Saints Michael, Catherine, Margaret,
+      Who sowed the seed that Thou must reap,
+   If eyes of angels may be wet,
+      And if the Saints have leave to weep,
+   In Paradise one pain they keep,
+      Maiden! one mortal memory,
+   One sorrow that can never sleep,
+               For Thee!
+
+
+
+
+CRICKET RHYMES
+
+
+_To Helen_.
+
+
+             (After seeing her bowl with her usual success.)
+
+                             ST. LEONARD’S HALL.
+
+   HELEN, thy bowling is to me
+      Like that wise Alfred Shaw’s of yore,
+   Which gently broke the wickets three:
+      From Alfred few could smack a four:
+         Most difficult to score!
+
+   The music of the moaning sea,
+      The rattle of the flying bails,
+   The grey sad spires, the tawny sails—
+      What memories they bring to me,
+         Beholding thee!
+
+   Upon our old monastic pitch,
+      How sportsmanlike I see thee stand!
+   The leather in thy lily hand,
+      Oh, Helen of the yorkers, which
+         Are nobly planned!
+
+
+
+_Ballade of Dead Cricketers_.
+
+
+   AH, where be Beldham now, and Brett,
+      Barker, and Hogsflesh, where be they?
+   Brett, of all bowlers fleetest yet
+      That drove the bails in disarray?
+   And Small that would, like Orpheus, play
+      Till wild bulls followed his minstrelsy? {32}
+   Booker, and Quiddington, and May?
+      Beneath the daisies, there they lie!
+
+   And where is Lambert, that would get
+      The stumps with balls that broke astray?
+   And Mann, whose balls would ricochet
+      In almost an unholy way
+   (So do baseballers “pitch” to-day)
+      George Lear, that seldom let a bye,
+   And Richard Nyren, grave and gray?
+      Beneath the daisies, there they lie!
+
+   Tom Sueter, too, the ladies’ pet,
+      Brown that would bravest hearts affray;
+   Walker, invincible when set,
+      (Tom, of the spider limbs and splay);
+   Think ye that we could match them, pray,
+      These heroes of Broad-halfpenny,
+   With Buck to hit, and Small to stay?
+      Beneath the daisies, there they lie!
+
+                                   ENVOY.
+
+   Prince, canst thou moralise the lay?
+      How all things change below the sky!
+   Of Fry and Grace shall mortals say,
+      “Beneath the daisies, there they lie!”
+
+
+
+_Brahma_.
+
+
+                              AFTER EMERSON.
+
+   IF the wild bowler thinks he bowls,
+      Or if the batsman thinks he’s bowled,
+   They know not, poor misguided souls,
+      They too shall perish unconsoled.
+   _I_ am the batsman and the bat,
+      _I_ am the bowler and the ball,
+   The umpire, the pavilion cat,
+      The roller, pitch, and stumps, and all.
+
+
+
+
+CRITICAL OF LIFE, ART, AND LITERATURE
+
+
+_Gainsborough Ghosts_.
+
+
+                        IN THE GROSVENOR GALLERY.
+
+   THEY smile upon the western wall,
+      The lips that laughed an age agone,
+   The fops, the dukes, the beauties all,
+      Le Brun that sang, and Carr that shone.
+   We gaze with idle eyes: we con
+      The faces of an elder time—
+   Alas! and _ours_ is flitting on;
+      Oh, moral for an empty rhyme!
+
+   Think, when the tumult and the crowd
+      Have left the solemn rooms and chill,
+   When dilettanti are not loud,
+      When lady critics are not shrill—
+   Ah, think how strange upon the still
+      Dim air may sound these voices faint;
+   Once more may Johnson talk his fill
+      And fair Dalrymple charm the Saint!
+
+   Of us they speak as we of them,
+      Like us, perchance, they criticise:
+   Our wit, they vote, is Brummagem;
+      Our beauty—dim to Devon’s eyes!
+   Their silks and lace our cloth despise,
+      Their pumps—our boots that pad the mud,
+   What modern fop with Walpole vies?
+      With St. Leger what modern blood?
+
+   Ah, true, we lack the charm, the wit,
+      Our very greatest, sure, are small;
+   And Mr. Gladstone is not Pitt,
+      And Garrick comes not when we call.
+   Yet—pass an age—and, after all,
+      Even _we_ may please the folk that look
+   When we are faces on the wall,
+      And voices in a history book!
+
+   In Art the statesman yet shall live,
+      With collars keen, with Roman nose;
+   To Beauty yet shall Millais give
+      The roses that outlast the rose:
+   The lords of verse, the slaves of prose,
+      On canvas yet shall seem alive,
+   And charm the mob that comes and goes,
+      And lives—in 1985.
+
+
+
+_A Remonstrance with the Fair_.
+
+
+   THERE are thoughts that the mind cannot fathom,
+      The mind of the animal male;
+   But woman abundantly hath ’em,
+      And mostly her notions prevail.
+   And why ladies read what they _do_ read
+      Is a thing that no man may explain,
+   And if any one asks for a true rede
+      He asketh in vain.
+
+   Ah, why is each “passing depression”
+      Of stories that gloomily bore
+   Received as the subtle expression
+      Of almost unspeakable lore?
+   In the dreary, the sickly, the grimy
+      Say, why do our women delight,
+   And wherefore so constantly ply me
+      With _Ships in the Night_?
+
+   Dear ladies, in vain you approach us,
+      With books to your taste in your hands;
+   For, alas! though you offer to coach us,
+      Yet the soul of no man understands
+   Why the grubby is always the moral,
+      Why the nasty’s preferred to the nice,
+   While you keep up a secular quarrel
+      With a gay little Vice;
+
+   Yes, a Vice with her lips full of laughter,
+      A Vice with a rose in her hair,
+   You condemn in the present and after,
+      To darkness of utter despair:
+   But a sin, if no rapture redeem it,
+      But a passion that’s pale and played out,
+   Or in surgical hands—you esteem it
+      Worth scribbling about!
+
+   What is sauce for the goose, for the gander
+      Is sauce, ye inconsequent fair!
+   It is better to laugh than to maunder,
+      And better is mirth than despair;
+   And though Life’s not all beer and all skittles,
+      Yet the Sun, on occasion, can shine,
+   And, _mon Dieu_! he’s a fool who belittles
+      This cosmos of Thine!
+
+   There are cakes, there is ale—ay, and ginger
+      Shall be hot in the mouth, as of old:
+   And a villain, with cloak and with whinger,
+      And a hero, in armour of gold,
+   And a maid with a face like a lily,
+      With a heart that is stainless and gay,
+   Make a tale worth a world of the silly
+      Sad trash of to-day!
+
+
+
+_Rhyme of Rhymes_.
+
+
+   WILD on the mountain peak the wind
+      Repeats its old refrain,
+   Like ghosts of mortals who have sinned,
+      And fain would sin again.
+
+   For “wind” I do not rhyme to “mind,”
+      Like many mortal men,
+   “Again” (when one reflects) ’twere kind
+      To rhyme as if “agen.”
+
+   I never met a single soul
+      Who _spoke_ of “wind” as “wined,”
+   And yet we use it, on the whole,
+      To rhyme to “find” and “blind.”
+
+   We _say_, “Now don’t do that _agen_,”
+      When people give us pain;
+   In poetry, nine times in ten,
+      It rhymes to “Spain” or “Dane.”
+
+   Oh, which are wrong or which are right?
+      Oh, which are right or wrong?
+   The sounds in prose familiar, quite,
+      Or those we meet in song?
+
+   To hold that “love” can rhyme to “prove”
+      Requires some force of will,
+   Yet in the ancient lyric groove
+      We meet them rhyming still.
+
+   This was our learned fathers’ wont
+      In prehistoric times,
+   We follow it, or if we don’t,
+      We oft run short of rhymes.
+
+
+
+_Rhyme of Oxford Cockney Rhymes_.
+
+
+                  (Exhibited in the _Oxford Magazine_.)
+
+   THOUGH Keats rhymed “ear” to “Cytherea,”
+      And Morris “dawn” to “morn,”
+   A worse example, it is clear,
+      By Oxford Dons is “shorn.”
+   G—y, of Magdalen, goes beyond
+      These puny Cockneys far,
+   And to “Magrath” rhymes—Muse despond!—
+      “Magrath” he rhymes to “star”!
+
+   Another poet, X. Y. Z.,
+      Employs the word “researcher,”
+   And then,—his blood be on his head,—
+      He makes it rhyme to “nurture.”
+   Ah, never was the English tongue
+      So flayed, and racked, and tortured,
+   Since one I love (who should be hung)
+      Made “tortured” rhyme to “orchard.”
+
+   Unkindly G—y’s raging pen
+      Next craves a rhyme to “sooner;”
+   Rejecting “Spooner,” (best of men,)
+      He fastens on _lacuna_(_r_).
+   Nay, worse, in his infatuate mind
+      He ends a line “explainer,”
+   Nor any rhyme can G—y find
+      Until he reaches Jena(r).
+
+   Yes, G—y shines the worst of all,
+      He needs to rhyme “embargo;”
+   The man had “Margot” at his call,
+      He had the good ship _Argo_;
+   Largo he had; yet doth he seek
+      Further, and no embargo
+   Restrains him from the odious, weak,
+      And Cockney rhyme, “Chicago”!
+
+   Ye Oxford Dons that Cockneys be,
+      Among your gardens tidy,
+   If you would ask a maid to tea,
+      D’ye call the girl “a lydy”?
+   And if you’d sing of Mr. Fry,
+      And need a rhyme to “swiper,”
+   Are you so cruel as to try
+      To fill the blank with “paper”?
+
+   Oh, Hoxford was a pleasant plice
+      To many a poet dear,
+   And Saccharissa had the grice
+      In Hoxford to appear.
+   But Waller, if to Cytherea
+      He prayed at any time,
+   Did not implore “her friendly ear,”
+      And think he had a rhyme.
+
+   Now, if you ask to what are due
+      The horrors which I mention,
+   I think we owe them to the U-
+      Niversity extension.
+   From Hoxton and from Poplar come
+      The ’Arriets and ’Arries,
+   And so the Oxford Muse is dumb,
+      Or, when she sings, miscarries.
+
+
+
+_Rococo_.
+
+
+                 (“My name is also named ‘Played Out.’”)
+
+   _When first we heard Rossetti sing_,
+      _We twanged the melancholy lyre_,
+   _We sang like this_, _like anything_,
+      _When first we heard Rossetti sing_.
+   _And all our song was faded Spring_,
+      _And dead delight and dark desire_,
+   _When first we heard Rossetti sing_,
+      _We twanged the melancholy lyre_.
+
+(_And this is how we twanged it_)—
+
+                    _The New Orpheus to his Eurydice_.
+
+   WHY wilt thou woo, ah, strange Eurydice,
+      A languid laurell’d Orpheus in the shades,
+      For here is company of shadowy maids,
+   Hero, and Helen and Psamathoë:
+
+   And life is like the blossom on the tree,
+      And never tumult of the world invades,
+      The low light wanes and waxes, flowers and fades,
+   And sleep is sweet, and dreams suffice for me;
+
+   “Go back, and seek the sunlight,” as of old,
+      The wise ghost-mother of Odysseus said,
+   Here am I half content, and scarce a-cold,
+      But one light fits the living, one the dead;
+   Good-bye, be glad, forget! thou canst not hold
+      In thy kind arms, alas! this powerless head.
+
+               _When first we heard Rossetti sing_,
+               _We also wrote this kind of thing_!
+
+
+
+_The Food of Fiction_.
+
+
+   TO breakfast, dinner, or to lunch
+      My steps are languid, once so speedy;
+   E’en though, like the old gent in _Punch_,
+      “Not hungry, but, thank goodness! greedy.”
+   I gaze upon the well-spread board,
+      And have to own—oh, contradiction!
+   Though every dainty it afford,
+      There’s nothing like the food of fiction.
+
+   “The better half”—how good the sound!
+      Of Scott’s or Ainsworth’s “venison pasty,”
+   In cups of old Canary drowned,
+      (Which probably was very nasty).
+   The beefsteak pudding made by Ruth
+      To cheer Tom Pinch in his affliction,
+   Ah me, in all the world of truth,
+      There’s nothing like the food of fiction!
+
+   The cakes and ham and buttered toast
+      That graced the board of Gabriel Varden,
+   In Bracebridge Hall the Christmas roast,
+      Fruits from the Goblin Market Garden.
+   And if you’d eat of luscious sweets
+      And yet escape from gout’s infliction,
+   Just read “St. Agnes’ Eve” by Keats—
+      There’s nothing like the food of fiction.
+
+   What cups of tea were ever brewed
+      Like Sairey Gamp’s—the dear old sinner?
+   What savoury mess was ever stewed
+      Like that for Short’s and Codlin’s dinner?
+   What was the flavour of that “poy”—
+      To use the Fotheringay’s own diction—
+   Pendennis ate, the love-sick boy?
+      There’s nothing like the food of fiction.
+
+   Prince, you are young—but you will find
+      After life’s years of fret and friction,
+   That hunger wanes—but never mind!
+      There’s nothing like the food of fiction.
+
+
+
+“_A Highly Valuable chain of Thoughts_.”
+
+
+   HAD cigarettes no ashes,
+      And roses ne’er a thorn,
+   No man would be a funker
+   Of whin, or burn, or bunker.
+   There were no need for mashies,
+      The turf would ne’er be torn,
+   Had cigarettes no ashes,
+      And roses ne’er a thorn.
+
+   Had cigarettes no ashes,
+      And roses ne’er a thorn,
+   The big trout would not ever
+   Escape into the river.
+   No gut the salmon smashes
+      Would leave us all forlorn,
+   Had cigarettes no ashes,
+      And roses ne’er a thorn.
+
+   But ’tis an unideal,
+      Sad world in which we’re born,
+   And things will “go contrairy”
+   With Martin and with Mary:
+   And every day the real
+      Comes bleakly in with morn,
+   And cigarettes have ashes,
+      And every rose a thorn.
+
+
+
+_Matrimony_.
+
+
+(Matrimony—Advertiser would like to hear from well-educated Protestant
+lady, under thirty, fair, with view to above, who would have no objection
+to work Remington type-writer, at home.  Enclose photo.  T. 99.  This
+Office.  Cork newspaper.)
+
+   T. 99 would gladly hear
+      From one whose years are few,
+   A maid whose doctrines are severe,
+      Of Presbyterian blue,
+   Also—with view to the above—
+      Her photo he would see,
+   And trusts that she may live and love
+      His Protestant to be!
+   But ere the sacred rites are done
+      (And by no Priest of Rome)
+   He’d ask, if she a Remington
+      Type-writer works—at home?
+
+   If she have no objections to
+      This task, and if her hair—
+   In keeping with her eyes of blue—
+      Be delicately fair,
+   Ah, _then_, let her a photo send
+      Of all her charms divine,
+   To him who rests her faithful friend,
+      Her own T. 99.
+
+
+
+_Piscatori Piscator_.
+
+
+                      IN MEMORY OF THOMAS TOD STODDART.
+
+   AN angler to an angler here,
+      To one who longed not for the bays,
+   I bring a little gift and dear,
+      A line of love, a word of praise,
+   A common memory of the ways,
+      By Elibank and Yair that lead;
+   Of all the burns, from all the braes,
+      That yield their tribute to the Tweed.
+
+   His boyhood found the waters clean,
+      His age deplored them, foul with dye;
+   But purple hills, and copses green,
+      And these old towers he wandered by,
+   Still to the simple strains reply
+      Of his pure unrepining reed,
+   Who lies where he was fain to lie,
+      Like Scott, within the sound of Tweed.
+
+
+
+_The Contented Angler_.
+
+
+   THE Angler hath a jolly life
+      Who by the rail runs down,
+   And leaves his business and his wife,
+      And all the din of town.
+   The wind down stream is blowing straight,
+      And nowhere cast can he:
+   Then lo, he doth but sit and wait
+      In kindly company.
+
+   The miller turns the water off,
+      Or folk be cutting weed,
+   While he doth at misfortune scoff,
+      From every trouble freed.
+   Or else he waiteth for a rise,
+      And ne’er a rise may see;
+   For why, there are not any flies
+      To bear him company.
+
+   Or, if he mark a rising trout,
+      He straightway is caught up,
+   And then he takes his flasket out,
+      And drinks a rousing cup.
+   Or if a trout he chance to hook,
+      Weeded and broke is he,
+   And then he finds a godly book
+      Instructive company.
+
+
+
+_Off My Game_.
+
+
+   “I’M of my game,” the golfer said,
+      And shook his locks in woe;
+   “My putter never lays me dead,
+      My drives will never go;
+   Howe’er I swing, howe’er I stand,
+      Results are still the same,
+   I’m in the burn, I’m in the sand—
+      I’m off my game!
+
+   “Oh, would that such mishaps might fall
+      On Laidlay or Macfie,
+   That they might toe or heel the ball,
+      And sclaff along like me!
+   Men hurry from me in the street,
+      And execrate my name,
+   Old partners shun me when we meet—
+      I’m off my game!
+
+   “Why is it that I play at all?
+      Let memory remind me
+   How once I smote upon my ball,
+      And bunkered it—_behind me_.
+   I mostly slice into the whins,
+      And my excuse is lame—
+   It cannot cover half my sins—
+      I’m off my game!
+
+   “I hate the sight of all my set,
+      I grow morose as Byron;
+   I never loved a brassey yet,
+      And now I hate an iron.
+   My cleek seems merely made to top,
+      My putting’s wild or tame;
+   It’s really time for me to stop—
+      I’m off my game!”
+
+
+
+_The Property of a Gentleman who has given up Collecting_.
+
+
+   OH blessed be the cart that takes
+      Away my books, my curse, my clog,
+   Blessed the auctioneer who makes
+      Their inefficient catalogue.
+
+   Blessed the purchasers who pay
+      However little—less were fit—
+   Blessed the rooms, the rainy day,
+      The knock-out and the end of it.
+
+   For I am weary of the sport,
+      That seemed a while agone so sweet,
+   Of Elzevirs an inch too short,
+      And First Editions—incomplete.
+
+   Weary of crests and coats of arms,
+      “Attributed to Padeloup”
+   The sham Deromes have lost their charms,
+      The things Le Gascon did not do.
+
+   I never read the catalogues
+      Of rubbish that come thick as rooks,
+   But most I loathe the dreary dogs
+      That write in prose, or worse, on books.
+
+   Large paper surely cannot hide
+      Their grammar, nor excuse their rhyme,
+   The anecdotes that they provide
+      Are older than the dawn of time.
+
+   Ye bores, of every shape and size,
+      Who make a tedium of delight,
+   Good-bye, the last of my good-byes.
+      Good night, to all your clan good night!
+
+                                   * * * *
+
+   Thus in a sullen fit we swore,
+      But on mature reflection,
+   Went on collecting more and more,
+      And kept our old collection!
+
+
+
+_The Ballade of the Subconscious Self_.
+
+
+   WHO suddenly calls to our ken
+      The knowledge that should not be there;
+   Who charms Mr. Stead with the pen,
+      Of the Prince of the Powers of the Air;
+   Who makes Physiologists stare—
+      Is he ghost, is he demon, or elf,
+   Who fashions the dream of the fair?
+      It is just the Subconscious Self.
+
+   He’s the ally of Medicine Men
+      Who consult the Australian bear,
+   And ’tis he, with his lights on the fen,
+      Who helps Jack o’ Lanthorn to snare
+   The peasants of Devon, who swear
+      Under Commonwealth, Stuart, or Guelph,
+   That they never had half such a scare—
+      It is just the Subconscious Self.
+
+   It is he, from his cerebral den,
+      Who raps upon table and chair,
+   Who frightens the housemaid, and then
+      Slinks back, like a thief, to his lair:
+   ’Tis the Brownie (according to Mair)
+      Who rattles the pots on the shelf,
+   But the Psychical sages declare
+      “It is just the Subconscious Self.”
+
+   Prince, each of us all is a pair—
+      The Conscious, who labours for pelf,
+   And the other, who charmed Mr. Blair,
+      It is just the Subconscious Self.
+
+
+
+_Ballade of the Optimist_.
+
+
+   HEED not the folk who sing or say
+      In sonnet sad or sermon chill,
+   “Alas, alack, and well-a-day,
+      This round world’s but a bitter pill.”
+   Poor porcupines of fretful quill!
+      Sometimes we quarrel with our lot:
+   We, too, are sad and careful; still
+      We’d rather be alive than not.
+
+   What though we wish the cats at play
+      Would some one else’s garden till;
+   Though Sophonisba drop the tray
+      And all our worshipped Worcester spill,
+   Though neighbours “practise” loud and shrill,
+      Though May be cold and June be hot,
+   Though April freeze and August grill,
+      We’d rather be alive than not.
+
+   And, sometimes on a summer’s day
+      To self and every mortal ill
+   We give the slip, we steal away,
+      To walk beside some sedgy rill:
+   The darkening years, the cares that kill,
+      A little while are well forgot;
+   When deep in broom upon the hill,
+      We’d rather be alive than not.
+
+   Pistol, with oaths didst thou fulfil
+      The task thy braggart tongue begot,
+   We eat our leek with better will,
+      We’d rather be alive than not.
+
+
+
+_Zimbabwe_.
+
+
+      (The ruined Gold Cities of Rhodesia.  The Ophir of Scripture.)
+
+   INTO the darkness whence they came,
+      They passed, their country knoweth none,
+   They and their gods without a name
+      Partake the same oblivion.
+   Their work they did, their work is done,
+      Whose gold, it may be, shone like fire
+   About the brows of Solomon,
+      And in the House of God’s Desire.
+
+   Hence came the altar all of gold,
+      The hinges of the Holy Place,
+   The censer with the fragrance rolled
+      Skyward to seek Jehovah’s face;
+   The golden Ark that did encase
+      The Law within Jerusalem,
+   The lilies and the rings to grace
+      The High Priest’s robe and diadem.
+
+   The pestilence, the desert spear,
+      Smote them; they passed, with none to tell
+   The names of them who laboured here:
+      Stark walls and crumbling crucible,
+   Strait gates, and graves, and ruined well,
+      Abide, dumb monuments of old,
+   We know but that men fought and fell,
+      Like us, like us, for love of Gold.
+
+
+
+_Love’s Cryptogram_.
+
+
+[The author (if he can be so styled) awoke from a restless sleep, with
+the first stanza of the following piece in his mind.  He has no memory of
+composing it, either awake or asleep.  He had long known the perhaps
+Pythagorean fable of the bean-juice, but certainly never thought of
+applying it to an amorous correspondence!  The remaining verses are the
+contribution of his Conscious Self!]
+
+                                    ELLE.
+
+   I CANNOT write, I may not write,
+      I dare not write to thee,
+   But look on the face of the moon by night,
+      And my letters shalt thou see.
+   For every letter that lovers write,
+      By their loves on the moon is seen,
+   If they pen their thought on the paper white,
+      With the magic juice of the bean!
+
+                                    LUI.
+
+   Oh, I had written this many a year,
+      And my letters you had read.
+   Had you only told me the spell, my dear,
+      Ere ever we twain were wed!
+   But I have a lady and you have a lord,
+      And their eyes are of the green,
+   And we dared not trust to the written word,
+      Lest our long, long love be seen!
+
+                                    ELLE.
+
+   “Oh, every thought that your heart has thought,
+      Since the world came us between,
+   The birds of the air to my heart have brought,
+      With no word heard or seen.”
+   ’_Twas thus in a dream we spoke and said_
+      _Myself and my love unseen_,
+   _But I woke and sighed on my weary bed_,
+      _For the spell of the juice of the bean_!
+
+
+
+_Tusitala_.
+
+
+   WE spoke of a rest in a fairy knowe of the North, but he,
+      Far from the firths of the East, and the racing tides of the West,
+   Sleeps in the sight and the sound of the infinite Southern Sea,
+      Weary and well content in his grave on the Vaëa crest.
+
+   Tusitala, the lover of children, the teller of tales,
+      Giver of counsel and dreams, a wonder, a world’s delight,
+   Looks o’er the labours of men in the plain and the hill; and the sails
+      Pass and repass on the sea that he loved, in the day and the night.
+
+   Winds of the West and the East in the rainy season blow
+      Heavy with perfume, and all his fragrant woods are wet,
+   Winds of the East and West as they wander to and fro,
+      Bear him the love of the land he loved, and the long regret.
+
+   Once we were kindest, he said, when leagues of the limitless sea
+      Flowed between us, but now that no wash of the wandering tides
+   Sunders us each from each, yet nearer we seem to be,
+      Whom only the unbridged stream of the river of Death divides.
+
+
+
+_Disdainful Diaphenia_.
+
+
+   THERE is no venom in the Rose
+      That any bee should shrink from it;
+   No poison from the Lily flows,
+      She hath not a disdainful wit;
+   But thou, that Rose and Lily art,
+   Thy tongue doth poison Cupid’s dart!
+
+   Nature herself to deadly flowers
+      Refuseth beauty lest the vain
+   Insects that hum through August hours
+      With beauty should suck in their bane;
+   But thou, as Rose or Lily fair,
+   Art circled with envenomed air!
+
+   Like Progne didst thou lose thy tongue,
+      Thy lovers might adore and live;
+   Like that witch Circe, oft besung,
+      Thou hast dear gifts, if thou wouldst give;
+   But since thou hast a wicked wit,
+   Thy lovers fade, or flee from it.
+
+
+
+_Tall Salmacis_.
+
+
+   WERE an apple tree a pine,
+      Tall and slim, and softly swaying,
+   Then her beauty were like thine,
+      Salmacis, when boune a Maying,
+   Tall as any poplar tree,
+   Sweet as apple blossoms be!
+
+   Had the Amazonian Queen
+      Seen thee ’midst thy maiden peers,
+   Thou the Coronel hadst been
+      Of that lady’s Grenadiers;
+   Troy had never mourned her fall,
+   With thine axe to guard her wall.
+
+   As Penthesilea brave
+      Is the maiden (in her dreams);
+   Ilium she well might save,
+      Though Achilles’ armour gleams,
+   ’Midst the Greeks; all vain it is,
+   ’Gainst the glance of Salmacis!
+
+
+
+
+JUBILEE POEMS
+BY BARDS WHO WERE SILENT
+
+
+_What Francesco said of the Jubilee_.
+
+
+                                 BY R. B.
+
+   WHAT if we call it fifty years!  ’Tis steep!
+   To climb so high a gradient?  Prate of Guides?
+   Are we not roped?  The Danger?  Nay, the Turf,
+   No less nor more than mountain peaks, my friend,
+   Hears talk of Roping,—but the Jubilee!
+   Nay, there you have me: old Francesco once
+   (This was in Milan, in Visconti’s time,
+   Our wild Visconti, with one lip askance,
+   And beard tongue-twisted in the nostril’s nook)
+   Parlous enough,—these times—what?  “So are ours”?
+   Or any times, i’fegs, to him who thinks,—
+   Well ’twas in Spring “the frolic myrtle trees
+   There gendered the grave olive stocks,”—you cry
+   “A miracle!”—Sordello writeth thus,—
+   Believe me that indeed ’twas thus, and he,
+   Francesco, you are with me?  Well, there’s gloom
+   No less than gladness in your fifty years,
+   “And so,” said he, “to supper as we may.”
+   “Voltairean?”  So you take it; but ’tis late,
+   And dinner seven, sharp, at Primrose Hill.
+
+
+
+_The Poet and the Jubilee_.
+
+
+                                POSCIMUR!
+
+                                 BY A. D.
+
+   A _Birthday Ode_ for MEG or NAN,
+   A Rhyme for Lady FLORA’s Fan,
+   A Verse on _Smut_, who’s gone astray,
+   These Things are in the _Poet’s_ way;
+   At Home with praise of JULIA’s Lace,
+   Or DELIA’s Ankles, ROSE’s Face,
+   But “Something _overparted_” He,
+   When asked to rhyme the _jubilee_!
+
+   He therefore turns, the _Poet_ wary,
+   And Thumbs his _Carmen Seculare_,
+   To PHŒBUS and to DIAN prays,
+   Who tune Men’s Lyres of Holidays,
+   He reads of the _Sibylline_ Shades,
+   Of Stainless Boys and chosen Maids.
+   He turns, and reads the other Page,
+   Of docile Youth, and placid Age,
+   Then Sings how, in this golden Year
+   _Fides Pudorque_ reappear,—
+   And if they don’t appear, you know it
+   Were quite unjust to blame the Poet!
+
+
+
+_On any Beach_.
+
+
+                                 BY M. A.
+
+   YES, in the stream and stress of things,
+      That breaks around us like the sea,
+   There comes to Peasants and to Kings,
+      The solemn Hour of Jubilee.
+         If they, till strenuous Nature give
+         Some fifty harvests, chance to live!
+
+   Ah, Fifty harvests!  But the corn
+      Is grown beside the barren main,
+   Is salt with sea-spray, blown and borne
+      Across the green unvintaged plain.
+         And life, lived out for fifty years,
+         Is briny with the spray of tears!
+
+   Ah, such is Life, to us that live
+      Here, in the twilight of the Gods,
+   Who weigh each gift the world can give,
+      And sigh and murmur, _What’s the odds_
+         _So long’s you’re happy_?  Nay, what Man
+         Finds Happiness since Time began?
+
+
+
+_Ode of Jubilee_.
+
+
+                               BY A. C. S.
+
+   ME, that have sung and shrieked, and foamed in praise of Freedom,
+            _Me_ do you ask to sing
+   Parochial pomps, and waste, the wail of Jubileedom
+            For Queen, or Prince, or King!
+
+                                  * * * * *
+
+   Nay, by the foam that fleeting oars have feathered,
+            In Grecian seas;
+   Nay, by the winds that barques Athenian weathered—
+            By all of these
+   I bid you each be mute, Bards tamed and tethered,
+            And fee’d with fees!
+
+   For you the laurel smirched, for you the gold, too,
+            Of Magazines;
+   For me the Spirit of Song, unbought, unsold to
+            Pale Priests or Queens!
+
+   For you the gleam of gain, the fluttering cheque
+            Of Mr. Knowles,
+   For me, to soar above the ruins and wreck
+            Of Snobs and “Souls”!
+
+   When aflush with the dew of the dawn, and the
+            Rose of the Mystical Vision,
+   The spirit and soul of the Men of the
+            Future shall rise and be free,
+   They shall hail me with hymning and harping,
+            With eloquent Art and Elysian,—
+   The Singer who sung not but spurned them,
+            The slaves that could sing “Jubilee;”
+               With pinchbeck lyre and tongue,
+               Praising their tyrant sung,
+   They shall fail and shall fade in derision,
+            As wind on the ways of the sea!
+
+
+
+_Jubilee Before Revolution_.
+
+
+                                 BY W. M.
+
+   “TELL me, O Muse of the Shifty, the Man who wandered afar,”
+   So have I chanted of late, and of Troy burg wasted of war—
+   Now of the sorrows of Menfolk that fifty years have been,
+   Now of the Grace of the Commune I sing, and the days of a Queen!
+   Surely I curse rich Menfolk, “the Wights of the Whirlwind” may they—
+   This is my style of translating ‘Αρπυίαι,—snatch them away!
+   The Rich Thieves rolling in wealth that make profit of labouring men,
+   Surely the Wights of the Whirlwind shall swallow them quick in their
+   den!
+   O baneful, O wit-straying, in the Burg of London ye dwell,
+   And ever of Profits and three per cent. are the tales ye tell,
+   But the stark, strong Polyphemus shall answer you back again,
+   Him whom “No man slayeth by guile and not by main.”
+   (By “main” I mean “main force,” if aught at all do I mean.
+   In the Greek of the blindfold Bard it is simpler the sense to glean.)
+   You Polyphemus shall swallow and fill his mighty maw,
+   What time he maketh an end of the Priests, the Police, and the Law,
+   And then, ah, who shall purchase the poems of old that I sang,
+   Who shall pay twelve-and-six for an epic in Saga slang?
+   But perchance even “Hermes the Flitter” could scarcely expound what I
+   mean,
+   And I trow that another were fitter to sing you a song for a Queen.
+
+
+
+
+FOLK SONGS
+
+
+_French Peasant Songs_.
+
+
+                                     I.
+
+   OH, fair apple tree, and oh, fair apple tree,
+   As heavy and sweet as the blossoms on thee,
+      My heart is heavy with love.
+   It wanteth but a little wind
+      To make the blossoms fall;
+   It wanteth but a young lover
+      To win me heart and all.
+
+                                     II.
+
+   I send my love letters
+      By larks on the wing;
+   My love sends me letters
+      When nightingales sing.
+
+   Without reading or writing,
+      Their burden we know:
+   They only say, “Love me,
+      Who love you so.”
+
+                                    III.
+
+   And if they ask for me, brother,
+      Say I come never home,
+   For I have taken a strange wife
+      Beyond the salt sea foam.
+
+   The green grass is my bridal bed,
+      The black tomb my good mother,
+   The stones and dust within the grave
+      Are my sister and my brother.
+
+
+
+
+BALLADS
+
+
+_The Young Ruthven_.
+
+
+   THE King has gi’en the Queen a gift,
+      For her May-day’s propine,
+   He’s gi’en her a band o’ the diamond-stane,
+      Set in the siller fine.
+
+   The Queen she walked in _Falkland_ yaird,
+      Beside the Hollans green,
+   And there she saw the bonniest man
+      That ever her eyes had seen.
+
+   His coat was the Ruthven white and red,
+      Sae sound asleep was he
+   The Queen she cried on May Beatrix,
+      That seely lad to see.
+
+   “Oh! wha sleeps here, May Beatrix,
+      Without the leave o’ me?”
+   “Oh! wha suld it be but my young brother
+      Frae _Padua_ ower the sea!
+
+   “My father was the Earl Gowrie,
+      An Earl o’ high degree,
+   But they hae slain him by fause treason,
+      And gar’d my brothers flee.
+
+   “At _Padua_ hae they learned their leir
+      In the fields o’ _Italie_;
+   And they hae crossed the saut sea-faem,
+      And a’ for love o’ me!”
+
+                                   * * * *
+
+   The Queen has cuist her siller band
+      About his craig o’ snaw;
+   But still he slept and naething kenned,
+      Aneth the Hollans shaw.
+
+   The King he daundered thro’ the yaird,
+      He saw the siller shine;
+   “And wha,” quoth he, “is this galliard
+      That wears yon gift o’ mine?”
+
+   The King has gane till the Queen’s ain bower,
+      An angry man that day;
+   But bye there cam’ May Beatrix
+      And stole the band away.
+
+   And she’s run in by the dern black yett,
+      Straight till the Queen ran she:
+   “Oh! tak ye back your siller band,
+      Or it gar my brother dee!”
+
+   The Queen has linked her siller band
+      About her middle sma’;
+   And then she heard her ain gudeman
+      Come rowting through the ha’.
+
+   “Oh! whare,” he cried, “is the siller band
+      I gied ye late yestreen?
+   The knops was a’ o’ the diamond stane,
+      Set in the siller sheen.”
+
+   “Ye hae camped birling at the wine,
+      A’ nicht till the day did daw;
+   Or ye wad ken your siller band
+      About my middle sma’!”
+
+   The King he stude, the King he glowered,
+      Sae hard as a man micht stare.
+   “Deil hae me!  Like is a richt ill mark,—
+      Or I saw it itherwhere!
+
+   “I saw it round young Ruthven’s neck
+      As he lay sleeping still;
+   And, faith, but the wine was wondrous guid,
+      Or my wife is wondrous ill!”
+
+                                   * * * *
+
+   There was na gane a week, a week,
+      A week but barely three;
+   The King has hounded John Ramsay out,
+      To gar young Ruthven dee!
+
+   They took him in his brother’s house,
+      Nae sword was in his hand,
+   And they hae slain him, young Ruthven,
+      The bonniest in the land!
+
+   And they hae slain his fair brother,
+      And laid him on the green,
+   And a’ for a band o’ the siller fine
+      And a blink o’ the eye o’ the Queen!
+
+   Oh! had they set him man to man,
+      Or even ae man to three,
+   There was na a knight o’ the Ramsay bluid
+      Had gar’d Earl Gowrie dee!
+
+
+
+_The Queen O’ Spain and the Bauld Mclean_.
+
+
+                      A BALLAD OF THE SOUND OF MULL.
+
+                                  1588.
+
+   THE Queen o’ Spain had an ill gude-man.
+      The carle was auld and grey.
+   She has keeked in the glass at Hallow-een
+      A better chance to spae.
+
+   She’s kaimit out her lang black hair,
+      That fell below her knee.
+   She’s ta’en the apple in her hand,
+      To see what she might see.
+
+   Then first she saw her ain fair face,
+      And then the glass grew white,
+   And syne as black as the mouth o’ Hell
+      Or the sky on a winter night.
+
+   But last she saw the bonniest man
+      That ever her eyes had seen,
+   His hair was gold, and his eyes were grey,
+      And his plaid was red and green.
+
+   “Oh! the Spanish men are unco black
+      And unco blate,” she said;
+   “And they wear their mantles swart and side,
+      No the bonny green and red.”
+
+   “Oh! where shall _I_ find sic a man?
+      That is the man for me!”
+   She has filled a ship wi’ the gude red gold,
+      And she has ta’en the sea.
+
+   And she’s sailed west and she’s sailed east,
+      And mony a man she’s seen;
+   But never the man wi’ the hair o’ gold,
+      And the plaid o’ red and green.
+
+   And she’s sailed east and she’s sailed west,
+      Till she cam’ to a narrow sea,
+   The water ran like a river in spate,
+      And the hills were wondrous hie.
+
+   And there she spied a bonny bay,
+      And houses on the strand,
+   And there the man in the green and red
+      Came rowing frae the land.
+
+   Says “Welcome here, ye bonny maid,
+      Ye’re welcome here for me.
+   Are ye the Lady o’ merry Elfland,
+      Or the Queen o’ some far countrie?”
+
+   “I am na the Lady o’ fair Elfland,
+      But I am the Queen o’ Spain.”
+   He’s lowted low, and kissed her hand,
+      Says “They ca’ me the McLean!”
+
+   “Then it’s a’ for the aefold love o’ thee
+      That I hae sailed the faem!”
+   “But, out and alas!” he has answered her,
+      “For I hae a wife at hame.”
+
+   “Ye maun cast her into a massymore,
+      Or away on a tide-swept isle;”
+   “But, out and alas!” he’s answered her,
+      “For my wife’s o’ the bluid o’ Argyll!”
+
+   Oh! they twa sat, and they twa grat,
+      And made their weary maen,
+   Till McLean has ridden to Dowart Castle,
+      And left the Queen her lane.
+
+   His wife was a Campbell, fair and fause,
+      Says “Lachlan, where hae ye been?”
+   “Oh!  I hae been at Tobermory,
+      And kissed the hand o’ a Queen!”
+
+   “Oh! we maun send the Queen a stag,
+      And grouse for her propine,
+   And we’ll send her a cask o’ the usquebaugh,
+      And a butt o’ the red French wine!”
+
+   She has put a bomb in the clairet butt,
+      And eke a burning lowe,
+   She has sent them away wi’ her little foot-page
+      That cam’ frae the black Lochow.
+
+                                   * * * *
+
+   The morn McLean rade forth to see
+      The last blink o’ his Queen,
+   There stude her ship in the harbour gude,
+      Upon the water green.
+
+   But there cam’ a crash like a thunder-clap,
+      And a cloud on the water green.
+   The bonny ship in flinders flew,
+      And drooned was the bonny Queen.
+
+   McLean he speirit nor gude nor bad,
+      His skian dubh he’s ta’en,
+   And he’s cuttit the throat o’ that fause foot-page,
+      And sundered his white hausebane.
+
+
+
+_Keith of Craigentolly_.
+
+
+   O KEITH o’ Craigentolly!
+      Ye sall live to rue the day
+   When ye brak the berried holly
+      Beside St. Andrew’s bay!
+   When Pitcullo’s kine
+   Card down to the brine,
+      And were drooned in the driving spray!
+
+   In the bower o’ Craigentolly
+      Is a wan and waefu’ bride,
+   Singing, _O waly_! _waly_!
+      Through the whole country side;
+   And a river to wade
+   For a dying maid,
+      And a weary way to ride!
+
+   O Keith o’ Craigentolly,
+      The bairn’s grave by the sea!
+   O Keith o’ Craigentolly,
+      The graves of maidens three!
+   And a bluidy shift,
+   And a sainless shrift,
+      For Keith o’ Craigentolly!
+
+                                * * * * *
+
+                                PRINTED BY
+                    WILLIAM CLOWES AND SONS, LIMITED,
+                           LONDON AND BECCLES.
+
+                                * * * * *
+
+
+
+
+FOOTNOTES
+
+
+{11}  One verse and the refrain are of 1750 or thereabouts.  At Laffen,
+where William, Duke of Cumberland, was defeated and nearly captured by
+the Scots and Irish in the French service, Prince Charles is said to have
+served as a volunteer.
+
+{32}  So Nyren tells us.
+
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK NEW COLLECTED RHYMES***
+
+
+******* This file should be named 1746-0.txt or 1746-0.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/1/7/6/1746
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

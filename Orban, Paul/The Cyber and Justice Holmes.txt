@@ -1,0 +1,1121 @@
+The Project Gutenberg EBook of The Cyber and Justice Holmes, by Frank Riley
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: The Cyber and Justice Holmes
+
+Author: Frank Riley
+
+Release Date: March 29, 2019 [EBook #59148]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE CYBER AND JUSTICE HOLMES ***
+
+
+
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                    THE CYBER _and_ JUSTICE HOLMES
+
+                            BY FRANK RILEY
+
+             _Old Judge Anderson feared the inevitable--he
+             was to be replaced by a Cyber! A machine that
+             dealt out decisions free of human errors and
+              emotions. What would Justice Holmes think?_
+
+           [Transcriber's Note: This etext was produced from
+               Worlds of If Science Fiction, March 1955.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+"Cyber justice!" That's what the District Attorney had called it in his
+campaign speech last night.
+
+"Cyber justice!"
+
+Oh, hell!
+
+Judge Walhfred Anderson threw the morning fax paper on top of the law
+books he had been researching for the past two hours, and stomped
+angrily across his chamber to the door of the courtroom.
+
+But it was easier to throw away the paper than the image of the words:
+
+"--and, if re-elected, I pledge to do all in my power to help replace
+human inefficiency with Cyber justice in the courts of this county!
+
+"We've seen what other counties have done with Cyber judges. We've
+witnessed the effectiveness of cybernetic units in our own Appellate
+Division.... And I can promise you twice as many prosecutions at half
+the cost to the taxpayers ... with modern, streamlined Cyber justice!"
+
+Oh, hell!
+
+Walhfred Anderson caught a glimpse of his reflection in the oval mirror
+behind the coat rack. He paused, fuming, and smoothed down the few
+lingering strands of grey hair. The District Attorney was waiting for
+him out there. No use giving him the satisfaction of looking upset.
+Only a few moments ago, the Presiding Judge had visaphoned a warning
+that the D.A. had obtained a change of calendar and was going to spring
+a surprise case this morning....
+
+The Judge cocked his bow tie at a jaunty angle, opened the neckline of
+his black robe enough for the pink boutonniere to peep out, and stepped
+into the courtroom as sprightly as his eighty-six years would permit.
+
+The District Attorney was an ex-football player, square-shouldered and
+square-jawed. He propelled himself to his feet, bowed perfunctorily and
+remained standing for the Pledge of Allegiance.
+
+As the bailiff's voice repeated the pledge in an unbroken monotone,
+Walhfred Anderson allowed his eyes to wander to the gold-framed picture
+of his personal symbol of justice, Oliver Wendell Holmes. Judge
+Anderson winked at Justice Holmes. It was a morning ritual he had
+observed without fail for nearly fifty years.
+
+This wasn't the classic picture of Justice Holmes. Not the leonine
+figure Walhfred Anderson had once seen in the National Gallery. The
+Justice Holmes on the wall of Judge Anderson's courtroom was much
+warmer and more human than the official portrait. It was from an old
+etching that showed the Justice wearing a natty grey fedora. The
+Justice's fabled mustaches were long and sweeping, giving him the air
+of a titled playboy, but his eyes were the eyes of the man who had
+said: "When I am dying, my last words will be--have faith and pursue
+the unknown end."
+
+Those were good words to remember, when you were eighty-six. Walhfred
+Anderson stared wistfully at the yellowed etching, waiting for some
+other dearly remembered phrase to spring up between them. But Justice
+Holmes wasn't communicative this morning. He hadn't been for a long
+time.
+
+The District Attorney's voice, threaded with sarcasm, broke into his
+reverie:
+
+"If the Court pleases, I would like to call up the case of People vs.
+Professor Neustadt."
+
+Walhfred Anderson accepted the file from his aging, nearsighted clerk.
+He saw that the case had been assigned originally to Department 42. It
+was the case he had been warned about by the Presiding Judge.
+
+Walhfred Anderson struggled to focus all his attention on the complaint
+before him. His craggy features, once described as resembling a benign
+bulldog, grew rigid with concentration. The Judge had a strong sense
+of honor about dividing his attention in Court. A case was not just a
+case; it was a human being whose past, present and future were wrapped
+up in the charge against him.
+
+"Your Honor," the District Attorney broke in, impatiently, "if the
+Court will permit, I can summarize this case very quickly...."
+
+The tone of his voice implied:
+
+A Cyber judge would speed things up around here. Feed the facts into
+the proprioceptor, and they'd be stored and correlated instantly.
+
+Perhaps so, Walhfred Anderson thought, suddenly tired, though the
+morning was still young. At eighty-six you couldn't go on fighting
+and resisting much longer. Maybe he should resign, and listen to
+the speeches at a farewell luncheon, and let a Cyber take over. The
+Cybers were fast. They ruled swiftly and surely on points of law. They
+separated fact from fallacy. They were not led down side avenues of
+justice by human frailty. Their vision was not blurred by emotion.
+And yet ... Judge Anderson looked to Justice Holmes for a clarifying
+thought, but the Justice's eyes were opaque, inscrutable.
+
+Judge Anderson wearily settled back in his tall chair, bracing the ache
+in his back against the leather padding.
+
+"You may proceed," he told the District Attorney.
+
+"Thank you, your Honor."
+
+This time the edge of sarcasm was so sharp that the Clerk and Court
+Stenographer looked up indignantly, expecting one of the Judge's famous
+retorts.
+
+The crags in the Judge's face deepened, but he remained quiet.
+
+With a tight smile, the District Attorney picked up his notebook.
+
+"The defendant," he began crisply, "is charged on three counts of fraud
+under Section 31...."
+
+"To wit," rumbled Judge Anderson, restlessly.
+
+"To wit," snapped the D.A., "the defendant is charged with giving
+paid performances at a local theatre, during which he purported to
+demonstrate that he could take over Cyber functions and perform them
+more efficiently."
+
+Walhfred Anderson felt the door closing on him. So this was why the
+D.A. had requested a change of calendar! What a perfect tie-in with the
+election campaign! He swiveled to study the defendant.
+
+Professor Neustadt was an astonishingly thin little man; the bones of
+his shoulders seemed about to thrust through the padding of his cheap
+brown suit. His thinness, combined with a tuft of white hair at the
+peak of his forehead, gave him the look of a scrawny bird.
+
+"Our investigation of this defendant," continued the D.A., "showed that
+his title was assumed merely for stage purposes. He has been associated
+with the less creditable phases of show business for many years. In his
+youth, he gained considerable attention as a 'quiz kid', and later, for
+a time, ran his own program and syndicated column. But his novelty wore
+off, and he apparently created this cybernetic act to...."
+
+Rousing himself to his judicial responsibility, Judge Anderson
+interrupted:
+
+"Is the defendant represented by counsel?"
+
+"Your Honor," spoke up Professor Neustadt, in a resonant, bass voice
+that should have come from a much larger diaphragm, "I request the
+Court's permission to act as my own attorney."
+
+Walhfred Anderson saw the D.A. smile, and he surmised that the old
+legal truism was going through his mind: A man who defends himself has
+a fool for a client.
+
+"If it's a question of finances," the Judge rumbled gently.
+
+"It is not a question of finances. I merely wish to defend myself."
+
+Judge Anderson was annoyed, worried. Whoever he was or claimed to be,
+this Professor was evidently something of a crackpot. The D.A. would
+tear him to small pieces, and twist the whole case into an implicit
+argument for Cyber judges.
+
+"The defendant has a right to act as his own counsel," the D.A.
+reminded him.
+
+"The Court is aware of that," retorted the Judge. Only the restraining
+eye of Oliver Wendell Holmes kept him from cutting loose on the D.A.
+But one more remark like that, and he'd turn his back on the Justice.
+After all, what right had Holmes to get stuffy at a time like this?
+He'd never had to contend with Cyber justice!
+
+He motioned to the D.A. to continue with the People's case, but the
+Professor spoke up first:
+
+"Your Honor, I stipulate to the prosecution evidence."
+
+The D.A. squinted warily.
+
+"Is the defendant pleading guilty?"
+
+"I am merely stipulating to the evidence. Surely the prosecution knows
+the difference between a stipulation and a plea! I am only trying to
+save the time of the Court by stipulating to the material facts in the
+complaint against me!"
+
+The D.A. was obviously disappointed in not being able to present his
+case. Walhfred Anderson repressed an urge to chuckle. He wondered how a
+Cyber judge would handle a stipulation.
+
+"Do you have a defense to present?" he asked the Professor.
+
+"Indeed I do, your Honor! I propose to bring a Cyber into the courtroom
+and prove that I can perform its functions more efficiently!"
+
+The D.A. flushed.
+
+"What kind of a farce is this? We've watched the defendant's
+performance for several days, and it's perfectly clear that he is
+merely competing against his own special Cyber unit, one with very
+limited memory storage capacity...."
+
+"I propose further," continued Professor Neustadt, ignoring the D.A.,
+"that the prosecution bring any Cyber unit of its choice into Court. I
+am quite willing to compete against any Cyber yet devised!"
+
+This man was not only a crackpot, he was a lunatic, thought Walhfred
+Anderson with an inward groan. No one but a lunatic would claim he
+could compete with the memory storage capacity of a Cyber.
+
+As always when troubled, he looked toward Oliver Wendell Holmes for
+help, but the Justice was still inscrutable. He certainly was being
+difficult this morning!
+
+The Judge sighed, and began a ruling:
+
+"The procedure suggested by the defendant would fail to answer to the
+material counts of the complaint...."
+
+But, as he had expected, the D.A. did not intend to let this
+opportunity pass.
+
+"May it please the Court," said the District Attorney, with a wide grin
+for the fax reporter, "the people will stipulate to the defense, and
+will not press for trial of the complaint if the defendant can indeed
+compete with a Cyber unit of our choice."
+
+Walhfred Anderson glowered at the unsympathetic Justice Holmes. Dammit,
+man, he thought, don't be so calm about this whole thing. What if you
+were sitting here, and I was up there in a gold frame? Aloud, he
+hedged:
+
+"The Court does not believe such a test could be properly and fairly
+conducted."
+
+"I am not concerned with being fairly treated," orated the wispy
+Professor. "I propose that five questions or problems be posed to the
+Cyber and myself, and that we be judged on both the speed and accuracy
+of our replies. I am quite willing for the prosecution to select the
+questions."
+
+Go to hell, Holmes, thought Judge Anderson. I don't need you anyway.
+I've got the answer. The Professor is stark, raving mad.
+
+Before he could develop a ruling along this line, the grinning D.A. had
+accepted the Professor's terms.
+
+"I have but one condition," interposed the defendant, "if I win this
+test, I would like to submit a question of my own to the Cyber."
+
+The D.A. hesitated, conferred in a whisper with his assistant, then
+shrugged.
+
+"We so stipulate."
+
+Firmly, Walhfred Anderson turned his back on Oliver Wendell Holmes.
+
+"In the opinion of the Court," he thundered, "the proposed
+demonstration would be irrelevant, immaterial and without substantive
+basis in law. Unless the People proceed with their case in the proper
+manner, the Court will dismiss this complaint!"
+
+"Objection!"
+
+"Objection!"
+
+The word was spoken simultaneously by both the D.A. and the Professor.
+Then the defendant bowed toward the District Attorney, and asked him to
+continue.
+
+       *       *       *       *       *
+
+For one of the few times in his life, Walhfred Anderson found himself
+faced with the same objection, at the same time, from both prosecution
+and defense. What a morning! He felt like turning the court over to a
+Cyber judge right here and now, and stomping back to his chambers. Let
+Holmes try getting along with a Cyber!
+
+The D.A.'s voice slashed into his thoughts.
+
+"The People object on the grounds that there is ample precedent in law
+for the type of court demonstration to which we have agreed...."
+
+"For example," spoke up the Professor, "People vs. Borth, 201 N.Y.,
+Supp. 47--"
+
+The District Attorney blinked, and looked wary again.
+
+"The People are not familiar with the citation," he said, "but there
+is no reason to be in doubt. The revised Judicial Code of Procedure
+provides for automatic and immediate review of disputed points of law
+by the Cyber Appellate Division."
+
+CAD! Walhfred Anderson customarily used every legal stratagem to avoid
+the indignity of appearing before CAD. But now he was neatly trapped.
+
+Grumbling, he visaphoned the Presiding Judge, and was immediately
+assigned to Cyber V, CAD, fourth floor.
+
+Cyber V presided over a sunlit, pleasantly carpeted courtroom in the
+south wing of the Justice Building. Square, bulky, with mat black
+finish, the Cyber reposed in the center of a raised mahogany stand.
+Its screen and vocader grill looked austerely down on the long tables
+provided for opposing counsel.
+
+As Walhfred Anderson belligerently led the Professor and the D.A. into
+the courtroom, Cyber V hummed softly. A dozen colored lights on its
+front grid began to blink.
+
+Judge Anderson angrily repressed an instinct to bow, as he had done
+in his younger years when appearing to plead a case before a human
+Appellate Court.
+
+The Cyber's soft, pleasantly modulated voice said:
+
+"Please proceed."
+
+Curbing his roiled feelings of rage and indignity, the Judge stepped to
+the stand in front of the vocader grill and tersely presented the facts
+of the case, the reasons for his ruling. Cyber V blinked and hummed
+steadily, assimilating and filing the facts.
+
+The D.A. followed the Judge to the stand, and, from long habit,
+addressed Cyber V with the same emotion and voice tricks he would have
+used in speaking to a human judge. Walhfred Anderson grimaced with
+disgust.
+
+When the D.A. finished, Cyber V hummed briefly, two amber lights
+flickered, and the soft voice said:
+
+"Defense counsel will please take the stand."
+
+Professor Neustadt smiled his ironic, exasperating smile.
+
+"The defense stipulates to the facts as stated."
+
+The frontal grid lights on Cyber V flashed furiously; the hum rose to a
+whine, like a motor accelerating for a steep climb.
+
+Suddenly, all was quiet, and Cyber V spoke in the same soft, pleasant
+voice:
+
+"There are three cases in modern jurisprudence that have direct bearing
+on the matter of People vs. Neustadt.
+
+"Best known is the case of People vs. Borth, 201 N.Y., Supp. 47...."
+
+Walhfred Anderson saw the D.A. stiffen to attention as the Cyber
+repeated the citation given by Professor Neustadt. He felt his own
+pulse surge with the stir of a faint, indefinable hope.
+
+"There are also the cases of Forsythe vs. State, 6 Ohio, 19, and Murphy
+vs. U.S., 2d, 85 C.C.A.
+
+"These cases establish precedence for a courtroom demonstration to
+determine points of material fact.
+
+"Thank you, Gentlemen."
+
+The voice stopped. All lights went dark. Cyber V, CAD, had rendered its
+decision.
+
+Whatever misgivings the D.A. may have generated over the Professor's
+display of legal knowledge were overshadowed now by his satisfaction at
+this display of Cyber efficiency.
+
+"Eight minutes!" he announced triumphantly. "Eight minutes to present
+the facts of the case and obtain a ruling. There's efficiency for you!
+There's modern courtroom procedure!"
+
+Walhfred Anderson felt the weight of eighty-six years as he cocked
+the angle of his bow tie, squared his shoulders and led the way back
+to his own courtroom. Maybe the new way was right. Maybe he was just
+an old man, burdened with dreams, memories, the impedimentia of human
+emotions. It would have taken him many long, weary hours to dig out
+those cases. Maybe the old way had died with Holmes and the other
+giants of that era.
+
+Details of the demonstration were quickly concluded. The D.A. selected
+a Cyber IX for the test. Evidently he had acquired a new respect for
+Professor Neustadt and was taking no chances. Cyber IX was a massive
+new model, used as an intergrator by the sciences. Judge Anderson had
+heard that its memory storage units were the greatest yet devised.
+
+If Professor Neustadt had also heard this, he gave no sign of it. He
+made only a slight, contemptuous nod of assent to the D.A.'s choice.
+
+For an instant, the Judge found himself hoping that the Professor would
+be beaten into humility by Cyber IX. The man's attitude was maddening.
+
+Walhfred Anderson banged his gavel harder than necessary, and recessed
+the hearing for three days. In the meantime, a Cyber IX was to be moved
+into the courtroom and placed under guard. Professor Neustadt was freed
+on bail, which he had already posted.
+
+Court fax-sheet reporters picked up the story and ballooned it. The
+D.A.'s office released publicity stories almost hourly. Cartoonists
+created "Battle of the Century" illustrations, with Cyber IX and
+Professor Neustadt posed like fighters in opposite corners of the ring.
+"Man challenges machine" was the caption, indicating that the Professor
+was a definite underdog and thus the sentimental favorite. One court
+reporter confided to Judge Anderson that bookmakers were offering odds
+of ten to one on Cyber IX.
+
+To the Judge's continuing disgust, Professor Neustadt seemed as avid
+as the Prosecutor's office for publicity. He allowed himself to be
+guest-interviewed on every available television show; one program dug
+up an ancient film of the Professor as a quiz kid, extracting cube
+roots in a piping, confident voice.
+
+Public interest boiled. TV coverage of the court test was demanded,
+and eagerly agreed to by both the Prosecutor and Professor Neustadt.
+Walhfred Anderson ached to cry out against bringing a carnival
+atmosphere into his courtroom; the fax photographers were bad enough.
+But he knew that any attempt to interfere would bring him back before
+that infernal CAD.
+
+       *       *       *       *       *
+
+When he entered his courtroom on the morning of the trial, the Judge
+wore a new bow tie, a flippant green, but he felt like many a defendant
+he had watched step up before his bench to receive sentence. After this
+morning, there'd be no stopping the D.A.'s campaign for Cyber judges.
+He glared unhappily at the battery of television cameras. He noted that
+one of them was pointed at Oliver Wendell Holmes. The Justice didn't
+seem to mind; but who would--all safe and snug in a nice gold frame?
+Easy enough for Holmes to look so cocky.
+
+The bright lights hurt his eyes, and he had to steel himself in order
+to present the picture of dignified equanimity that was expected of a
+judge. People would be looking at him from every part of the world.
+Five hundred million viewers, one of the columnists had estimated.
+
+Professor Neustadt appeared in the same shiny brown suit. As he
+passed the huge Cyber IX unit, metallic gray and mounted on a table
+of reinforced steel, the Professor paused and bowed, in the manner of
+a courtly gladiator saluting a respected foe. Spectators clapped and
+whistled their approval. Television cameras zoomed in on the scene.
+With easy showmanship, Professor Neustadt maintained the pose for
+closeups, his owlish eyes wide and unblinking.
+
+Judge Anderson banged his gavel for order. What a poseur! What a fraud!
+This charlatan would get a million dollars worth of publicity out of
+the case.
+
+At a nod from the D.A., the bailiff gave Professor Neustadt a pad
+of paper on which to note his answers. It had been previously been
+agreed that Cyber IX would answer visually, on the screen, instead of
+by vocader. The Professor was seated at the far end of the counsel
+table, where he could not see the screen. Clerks with stopwatches were
+stationed behind the Professor and Cyber IX.
+
+"Is the defendant ready?" inquired Judge Anderson, feeling like an
+idiot.
+
+"Of course."
+
+The Judge turned to Cyber IX, then caught himself. He flushed. The
+courtroom tittered.
+
+The District Attorney had five questions, each in a sealed envelope,
+which also contained an answer certified by an eminent authority in the
+field.
+
+With a flourish, keeping his profile to the cameras, the D.A. handed
+the first envelope to Judge Anderson.
+
+"We'll begin with a simple problem in mathematics," he announced to the
+TV audience.
+
+From the smirk in his voice, Judge Anderson was prepared for the worst.
+But he read the question with a perverse sense of satisfaction. This
+Professor was in for a very rough morning. He cleared his throat, read
+aloud:
+
+"In analyzing the economics of atomic power plant operation, calculate
+the gross heat input for a power generating plant of 400 x 10^6 watts
+electrical output."
+
+Cyber IX hummed into instantaneous activity; its lights flashed in
+sweeping curves and spirals across the frontal grid.
+
+Professor Neustadt sat perfectly still, eyes closed. Then he scribbled
+something on a pad of paper.
+
+Two stopwatches clicked about a second apart. The clerk handed the
+Professor's slip of paper to Judged Anderson. The Judge checked it,
+turned to the screen. Both answers were identical:
+
+3,920 x 10^6 BTU/hr.
+
+Time was announced as fourteen seconds for Cyber IX; fifteen and
+three-tenths seconds for Professor Neustadt. The Cyber had won the
+first test, but by an astoundingly close margin. The courtroom burst
+into spontaneous applause for the Professor. Walhfred Anderson was
+incredulous. What a fantastic performance!
+
+No longer smirking, the D.A. handed the Judge a second envelope.
+
+"What is the percentage compressibility of caesium under 45,000
+atmospheres of pressure, and how do you account for it?"
+
+Once again Cyber IX hummed and flickered into action.
+
+And once again Professor Neustadt sat utterly still, head tilted back
+like an inquisitive parakeet. Then he wrote swiftly. A stopwatch
+clicked.
+
+Walhfred Anderson took the answer with trembling fingers. He saw the
+D.A. rub dry lips together, try to moisten them with a dry tongue. A
+second stopwatch clicked.
+
+The Judge compared the correct answer with the Professor's answer and
+the answer on the screen. All were worded differently, but in essence
+were the same. Hiding his emotion in a tone gruffer than usual, Judge
+Anderson read the Professor's answer:
+
+"The change in volume is 17 percent. It is due to an electronic
+transition for a 6s zone to a 5d zone."
+
+The Professor's elapsed time was 22 seconds. Cyber IX had taken 31
+seconds to answer the compound question.
+
+Professor Neustadt pursued his lips; he seemed displeased with his
+tremendous performance.
+
+Moving with the agility of a pallbearer, the D.A. gave Judge Anderson
+the third question:
+
+"In twenty-five words or less, state the Nernst Law of thermodynamics."
+
+This was clearly a trick question, designed to trap a human mind in its
+own verbiage.
+
+Cyber IX won, in eighteen seconds. But in just two-fifths of a second
+more; Professor Neustadt came through with a brilliant twenty-four
+word condensation:
+
+"The entropy of a substance becomes zero at the absolute zero of
+temperature, provided it is brought to this temperature by a reversible
+process."
+
+A tabulation of total elapsed time revealed that Professor Neustadt was
+leading by nine and three-tenths seconds.
+
+A wild excitement blended with the Judge's incredulity. The D.A. seemed
+to have developed a tic in his right check.
+
+On the fourth question, dealing with the structural formula
+similarities of dimenhydrinate and diphenhydramine hydrochloride,
+Professor Neustadt lost three seconds.
+
+On the fifth question, concerning the theoretical effects of humidity
+inversion on microwave transmission, the Professor gained back a full
+second.
+
+The courtroom was bedlam, and Walhfred Anderson was too excited to
+pound his gavel. In the glass-walled, soundproofed television booths,
+announcers grew apoplectic as they tried to relay the fever-pitch
+excitement of the courtroom to the outside world.
+
+Professor Neustadt held up his bone-thin hand for silence.
+
+"May it please the Court.... The District Attorney agreed that in the
+event of victory I could ask Cyber IX an optional question. I would
+like to do so at this time."
+
+Judge Anderson could only nod, and hope that his bulldog features
+were concealing his emotions. The D.A. kept his back rigidly to the
+television cameras.
+
+Professor Neustadt strutted up to Cyber IX, flipped on the vocader
+switch and turned to the cameras.
+
+"Since Cyber IX is essentially a scientific integrator and mathematical
+unit," he began pedantically, "I'll put my question in the Cyber's
+own framework. Had another Cyber been selected for this test, I would
+phrase my question differently."
+
+He turned challengingly back to Cyber IX, paused for dramatic effect,
+and asked:
+
+"What are the magnitudes of a dream?"
+
+Cyber IX hummed and twinkled. The hum rose higher and higher. The
+lights flickered in weird, disjointed patterns, blurring before the eye.
+
+Abruptly, the hum stopped. The lights dimmed, faded one by one.
+
+The eternally calm, eternally pleasant voice of Cyber IX spoke from the
+vocader grill:
+
+"Problem unsolved."
+
+       *       *       *       *       *
+
+For an interminable instant there was silence in the courtroom.
+Complete silence. Stunned incredulity. It was followed by a collective
+gasp, which Walhfred Anderson could hear echoing around the world.
+Cyber IX had been more than beaten; it had failed to solve a problem.
+
+The gasp gave way to unrestrained cheering.
+
+But the Professor brought quiet again by raising his bony hand. Now
+there was a strange, incongruous air of dignity about his thin figure.
+
+"Please," he said, "please understand one thing.... The purpose of this
+demonstration and my question was not to discredit Cyber IX, which is
+truly a great machine, a wonder of science.
+
+"Cyber IX could not know the magnitudes of a dream ... because it
+cannot dream.
+
+"As a matter of fact, I do not know the magnitudes of a dream, but that
+is not important ... because I _can_ dream!
+
+"The dream is the difference.... The dream born in man, as the poet
+said, 'with a sudden, clamorous pain' ..."
+
+There was no movement or sound in the courtroom. Walhfred Anderson held
+the Professor's last written answer between his fingers, as if fearing
+that even the small movement to release it might shatter something
+delicate and precious. "The dream is the difference!" There it was. So
+clear and true and beautiful. He looked at Holmes, and Holmes seemed to
+be smiling under his gray mustache. Yes, Holmes had known the dream.
+
+In the sound-proof booths, the announcers had stopped speaking; all
+mike lines were open to carry Professor Neustadt's words to five
+hundred million people.
+
+"Perhaps there are no magnitudes of such a dream ... no coordinates! Or
+it may be that we are not yet wise enough to know them. The future may
+tell us, for the dream is the rainbow bridge from the present and the
+past to the future."
+
+Professor Neustadt's eyes were half-closed again, and his head was
+cocked back, bird-like.
+
+"Copernicus dreamed a dream.... So did da Vinci, Galileo and Newton,
+Darwin and Einstein ... all so long ago....
+
+"Cyber IX has not dreamed a dream.... Nor have Cyber VIII, VII, VI, V,
+IV, III, II, I.
+
+"But they can free men to dream.
+
+"Remember that, if you forget all else: They can free men to dream!
+
+"Man's knowledge has grown so vast that much of it would be lost or
+useless without the storage and recall capacity of the Cybers--and man
+himself would be so immersed in what he knows that he would never have
+time to dream of that which he does not yet know, but must and can know.
+
+"Why should not the scientist use the past without being burdened by
+it? Why should not the lawyer and the judge use the hard-won laws of
+justice without being the slave of dusty law books?"
+
+Walhfred Anderson accepted the rebuke without wincing. The rebuke for
+all the hours he had wasted because he had been too stubborn to use a
+Cyber clerk, or consult Cyber V. The old should not resist the new, nor
+the new destroy the old. There was the letter of the law, and there
+was the spirit, and the spirit was the dream. What was old Hammurabi's
+dream? Holmes had quoted it once, "... to establish justice on the
+earth ... to hold back the strong from oppressing the feeble ... to
+shine like the sun-god upon the blackheaded men, and to illumine the
+land...." Holmes had dreamed the dream, all right. He had dreamed it
+grandly. But maybe there was room for small dreams, too, and still time
+for dreams when the years were so few and lonely.
+
+The Professor suddenly opened his eyes, and his voice took on the
+twang of steel under tension.
+
+"You are already wondering," he told the cameras accusingly, "whether I
+have not disproved my own words by defeating Cyber IX.
+
+"That is not true.
+
+"I defeated Cyber IX because I have wasted a man's life--my own! You
+all know that as a child I was a mnemonic freak, a prodigy, if you
+prefer. My mind was a filing cabinet, a fire-proof cabinet neatly
+filled with facts that could never kindle into dreams. All my life I
+have stuffed my filing cabinet. For sixty years I have filed and filed.
+
+"And then I dreamed one dream--my first, last and only dream.
+
+"I dreamed that man would mis-use another gift of science, as he has
+mis-used so many.... I dreamed of the Cybers replacing and enslaving
+man, instead of freeing man to dream.... And I dreamed that the golden
+hour would come when a man would have to prove that he could replace
+a Cyber--and thereby prove that neither man nor Cybers should ever
+replace each other."
+
+Professor Neustadt turned to Judge Anderson, and his voice dropped
+almost to a whisper.
+
+"Your Honor, I move that this case be dismissed."
+
+The worn handle of his old teakwood gavel felt warm and alive to the
+Judge's fingers. He sat up straight, and banged resoundingly on the top
+of his desk.
+
+"Case dismissed."
+
+Then, in full view of the cameras, Walhfred Anderson turned and winked
+boldly at Oliver Wendell Holmes.
+
+
+
+
+
+End of Project Gutenberg's The Cyber and Justice Holmes, by Frank Riley
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE CYBER AND JUSTICE HOLMES ***
+
+***** This file should be named 59148.txt or 59148.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/9/1/4/59148/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

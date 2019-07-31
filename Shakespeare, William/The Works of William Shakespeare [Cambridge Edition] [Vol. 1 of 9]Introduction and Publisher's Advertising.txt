@@ -1,0 +1,2753 @@
+The Project Gutenberg EBook of The Works of William Shakespeare [Cambridge
+Edition] [9 vols.], by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Works of William Shakespeare [Cambridge Edition] [9 vols.]
+       Introduction and Publisher's Advertising
+
+Author: William Shakespeare
+
+Editor: William George Clark
+        John Glover
+
+Release Date: October 26, 2007 [EBook #23041]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK WORKS OF SHAKESPEARE ***
+
+
+
+
+Produced by Louise Hope, Jonathan Ingram and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+
+
+
+[Transcriber's Note:
+
+This e-text contains the introductory material (44 pages) and the
+publisher's advertising (16 pages) from Volume I of the nine-volume
+1863 Cambridge edition of Shakespeare. The five plays from this
+volume, with their notes, will each be produced as a free-standing
+e-text.
+
+Numerals written as subscripts are shown inline as F1, F2, Q1....
+Except for footnotes and illustrations, all brackets are in the
+original.
+
+In the publisher's advertising, the page breaks have been retained
+and are shown as a double row of asterisks.]
+
+
+
+
+_THE WORKS_
+
+of
+
+WILLIAM SHAKESPEARE.
+
+
+
+
+  [Illustration (Publisher's Device)]
+
+
+
+
+  THE WORKS
+
+  of
+
+  WILLIAM SHAKESPEARE
+
+
+  Edited by
+
+  WILLIAM GEORGE CLARK, M.A.
+  Fellow and Tutor of Trinity College, and Public Orator
+  in the University of Cambridge;
+
+  and JOHN GLOVER, M.A.
+  Librarian Of Trinity College, Cambridge.
+
+
+  _VOLUME I._
+
+
+  Cambridge and London:
+  MACMILLAN AND CO.
+  1863.
+
+
+
+
+  Cambridge:
+  Printed by C. J. Clay, M.A.
+  at the University Press.
+
+
+
+
+  To His Grace
+
+  THE DUKE OF DEVONSHIRE, K.G.
+  Chancellor Of The University Of Cambridge.
+
+  THIS EDITION
+  of
+  _THE WORKS OF SHAKESPEARE_
+
+  Is Respectfully Dedicated
+  by
+  THE EDITORS.
+
+
+
+
+CONTENTS.
+
+  [The e-text numbers for the plays from this edition are shown
+  in brackets.]
+
+                                                  PAGE
+  The Preface                                       ix
+
+  THE TEMPEST [23042]                                3
+  Notes to the Tempest                              77
+
+  THE TWO GENTLEMEN OF VERONA [23043]               83
+  Notes to the Two Gentlemen of Verona             157
+
+  Introduction to the Merry Wives of Windsor       163
+  THE MERRY WIVES OF WINDSOR [23044]               165
+  Notes to the Merry Wives of Windsor              253
+  A Pleasant Conceited Comedy
+      of Syr John Falstaffe, &c.                   257
+
+  MEASURE FOR MEASURE [23045]                      295
+  Notes to Measure for Measure                     391
+
+  THE COMEDY OF ERRORS [23046]                     399
+  Notes to the Comedy of Errors                    462
+
+
+
+
+PREFACE.
+
+
+The main rules which we proposed to ourselves in undertaking this
+Edition are as follows:
+
+1. To base the text on a thorough collation of the four Folios and of
+all the Quarto editions of the separate plays, and of subsequent
+editions and commentaries.
+
+2. To give all the results of this collation in notes at the foot of
+the page, and to add to these conjectural emendations collected and
+suggested by ourselves, or furnished to us by our correspondents, so as
+to give the reader in a compact form a complete view of the existing
+materials out of which the text has been constructed, or may be emended.
+
+3. In all plays of which there is a Quarto edition differing from the
+received text to such a degree that the variations cannot be shown in
+foot-notes, to print the text of the Quarto _literatim_ in a smaller
+type after the received text.
+
+4. To number the lines in each scene separately, so as to facilitate
+reference.
+
+5. To add at the end of each play a few notes, (_a_) to explain such
+variations in the text of former editions as could not be intelligibly
+expressed in the limits of a foot-note, (_b_) to justify any deviation
+from our ordinary rule either in the text or the foot-notes, and
+(_c_) to illustrate some passage of unusual difficulty or interest.
+
+6. To print the Poems, edited on a similar plan, at the end of the
+Dramatic Works.
+
+An edition of Shakespeare on this plan has been for several years in
+contemplation, and has been the subject of much discussion. That such an
+edition was wanted seemed to be generally allowed, and it was thought
+that Cambridge afforded facilities for the execution of the task such as
+few other places could boast of. The Shakespearian collection given by
+Capell to the Library of Trinity College supplied a mass of material
+almost unrivalled in amount and value, and in some points unique; and
+there, too, might be found opportunities for combined literary labour,
+without which the work could not be executed at all. At least, if
+undertaken by one person only, many years of unremitting diligence would
+be required for its completion.
+
+The first step towards the realization of the project was taken in the
+spring of 1860, when the first act of _Richard the Second_ was printed
+by way of specimen, with a preface signed 'W. G. Clark' and 'H. R.
+Luard,'[1] where the principles, on which the proposed Edition should be
+based, were set forth with the view 'of obtaining opinions as to the
+feasibility of the plan, and suggestions as to its improvement.'
+
+All the persons who answered this appeal expressed their warm approval
+of the general plan, and many favoured us with suggestions as to
+details, which we have either adopted, or at least not rejected without
+careful and respectful consideration.
+
+Since our work was commenced, we have learned that the need of such an
+Edition has presented itself, independently, to the minds of many
+literary men, and that a similar undertaking was recommended as long ago
+as 1852, by Mr Bolton Corney, in _Notes and Queries_, Vol. VI. pp. 2, 3;
+and again by a correspondent of the same journal who signs himself
+'Este,' Vol. VIII. p. 362.
+
+This concurrence of opinion leads us to hope that our Edition will be
+found to supply a real want, while, at the same time, the novelty of its
+plan will exempt us from all suspicion of a design to supersede, or even
+compete with, the many able and learned Editors who have preceded us in
+the same field.
+
+We will first proceed to explain the principles upon which we have
+prepared our text.
+
+
+A. _With respect to the Readings._
+
+The basis of all texts of Shakespeare must be that of the earliest
+Edition of the collected plays, the Folio of 1623, which, for more easy
+reference, we have designated F1[2]. This we have mainly adopted, unless
+there exists an earlier edition in quarto, as is the case in more than
+one half of the thirty-six plays. When the first Folio is corrupt, we
+have allowed some authority to the emendations of F2 above subsequent
+conjecture, and secondarily to F3 and F4; but a reference to our notes
+will show that the authority even of F2 in correcting is very small.
+Where we have Quartos of authority, their variations from F1 have been
+generally accepted, except where they are manifest errors, and where the
+text of the entire passage seems to be of an inferior recension to that
+of the Folio. To show that the later Folios only corrected the first by
+conjecture, we may instance two lines in _Midsummer Night's Dream_:
+
+  Give me your neif, Mounsieur Mustard Seed.  IV. 1.
+
+'Neif,' which is spelt 'niefe' in Qq F1, becomes 'newfe' in F2, 'newse'
+and 'news' in F3 F4.
+
+  And finds his trusty Thisby's mantle slain.  V. 1.
+
+F1 omits 'trusty.' F2 makes up the line by inserting 'gentle.'
+
+Where the Folios are all obviously wrong, and the Quartos also fail us,
+we have introduced into the text several conjectural emendations;
+especially we have often had recourse to Theobald's ingenuity. But it
+must be confessed that a study of errors detracts very much from the
+apparent certainty of conjectures, the causelessness of the blunders
+warning us off the hope of restoring, by general principles or by
+discovery of causes of error.
+
+For example: in the _Midsummer Night's Dream_, I. 1,
+
+  Or else it stood upon the choice of merit,
+
+the reading of the Folios, is certainly wrong; but if we compare the
+true reading preserved in the Quartos, 'the choice of friends,' we can
+perceive no way to account for the change of 'friends' to 'merit,' by
+which we might have retraced the error from 'merit' to 'friends.'
+Nothing like the 'ductus literarum,' or attraction of the eye to a
+neighbouring word, can be alleged here.
+
+Hence though we have admitted conjectures sometimes, we have not done so
+as often as perhaps will be expected. For, in the first place, we admit
+none because we think it better rhythm or grammar or sense, unless we
+feel sure that the reading of the Folio is altogether impossible. In the
+second place, the conjecture must appear to us to be the only probable
+one. If the defect can be made good in more ways than one equally
+plausible, or, at least, equally possible, we have registered but not
+adopted these improvements, and the reader is intended to make his own
+selection out of the notes.
+
+For example, in the _Merry Wives of Windsor_, II. 3. 80, we have assumed
+Mr Dyce's conjecture, 'Cried I aim?' to be the only satisfactory reading
+of a passage decidedly wrong; but in the same play, IV. 1. 63, 'Woman,
+art thou lunaties?' as the error may equally possibly be evaded by
+reading 'lunacies' with Rowe, and 'lunatics' with Capell, we have
+retained the error.
+
+The well-known canon of criticism, that of two readings 'ceteris
+paribus' the more difficult is to be preferred, is not always to be
+applied in comparing the readings of the Folios. For very frequently an
+anomaly which would have been plausible on account of its apparent
+archaism proves to be more archaic than Shakespeare, if the earlier
+Quartos give the language of Shakespeare with more correctness. Ex.
+_Midsummer Night's Dream_, III. 2: 'Scorn and derision never come in
+tears' Qq; 'comes' Ff; and in the same play, IV. 1: 'O how mine eyes do
+loath' Q1, altered to 'doth loath' in Q2 F1, and restored, evidently by
+a grammatical reviser, to 'do loath' in F2 F3 F4. Again, I. 1: 'what all
+but he do know,' Qq, is altered to 'doth know' in Ff.
+
+This last error points to a very common anomaly in grammar; one which
+seems almost to have become a rule, or, at any rate, a license in
+Shakespeare's own time, that a verb shall agree in number with the
+nominative intervening between the true governing noun and the verb.
+
+
+B. _Grammar._
+
+In general, we do not alter any passage merely because the grammar is
+faulty, unless we are convinced that the fault of grammar was due to the
+printer altogether, and not to Shakespeare. We look upon it as no part
+of our task to improve the poet's grammar or correct his oversights:
+even errors, such as those referred to in note (VII) to the _Two
+Gentlemen of Verona_, and notes (I) and (X) to the _Merry Wives of
+Windsor_, because we thought them to be Shakespeare's own blunders, have
+been allowed to stand. But many phrases that are called bad grammar by
+us, and rightly so called, were sanctioned by usage among the
+contemporaries of Shakespeare, especially, no doubt, by the usage of
+conversation, even among educated persons. And as a learned
+correspondent (Dr B. Nicholson) remarks, this would naturally be the
+style of English which Shakespeare would purposely use in dramatic
+dialogue.
+
+As examples of the anomalies of grammar sanctioned by Elizabethan usage
+we may mention:--
+
+Singular verbs, with plural nouns, especially when the verb precedes its
+nominative:
+
+  Hath all his ventures failed? What; not one hit?
+                          _Merchant of Venice_, III. 2.
+
+Nominatives for accusatives:
+
+  She should this Angelo have married.
+                      _Measure for Measure_, III. 1. 204.
+
+And repeatedly 'who' for 'whom.'
+
+Omission of prepositions:
+
+  Most ignorant of what he's most assured.  _Ibid._ II. 2. 119.
+
+  ------ which now you censure him.  _Ibid._ II. 1. 15.
+
+The changes of accidence are less frequent than those of syntax, yet
+such occur. In the Folios verbs ending in _d_ and _t_ are constantly
+found making their second persons singular in _ds_ and _ts_ instead of
+_d'st_ and _t'st_. This was a corruption coming into vogue about the
+time of their publication, and in the earlier Quartos we frequently find
+the correct form; for example, in _Midsummer Night's Dream_, V. 1:
+'standst' in Q1 is corrupted to 'stands' in Q2 and in Ff. We have
+therefore confidently replaced the correct form for the incorrect, even
+without authority to back us; looking upon the variation as a corrupt
+abbreviation of spelling.
+
+But, in general, our practice has been not to alter the text, in order
+to make the grammar conform to the fixed rules of modern English. A wide
+latitude of speech was allowed in Shakespeare's age both as to spelling
+and grammar.
+
+
+C. _Orthography._
+
+It was not without much consideration that we determined to adopt the
+spelling of the nineteenth century. If we had any evidence as to
+Shakespeare's own spelling, we should have been strongly inclined to
+adopt it, but to attempt to reproduce it, by operating by rule upon the
+texts that have come down to us, would be subjecting Shakespeare's
+English to arbitrary laws, of which it never yet was conscious. This
+argues no want of education on the part of Shakespeare; for if Lord
+Bacon himself had rules for spelling, they were but few, as we may
+easily perceive by inspection of his works published under his own eye.
+But if we have not Shakespeare's own spelling to guide us, what other
+spelling shall we adopt? Every student of Shakespeare has now an easy
+opportunity of acquainting himself with the text of F1, by means of Mr
+Booth's excellent reprint, and we are certain that not one of them will
+consider the spelling of that volume intrinsically better than that of
+our day. Rather more like Shakespeare's it certainly is, but we doubt
+whether much is gained by such approximation, as long as it is short of
+perfect attainment. Moreover, in many of the Plays there is a competing
+claim to guide our spelling, put forward by an array of Quartos, of
+earlier date than F1. To desert F1 for these, where they exist, would be
+but an occasional, and at best an uncertain means of attaining the lost
+spelling of Shakespeare, while the spelling of our volume would become
+even more inconsistent than that of F1 itself. Add to this; there are
+places, though, as has been seen, not many, where we have had to leave
+the reading of F1 altogether. How then shall we spell the correction
+which we substitute?
+
+
+D. _Metre._
+
+Corrections of metre are avoided even more carefully than those of
+grammar. For the rules of prosody have undergone perhaps greater change
+than those of grammar. There is no doubt that a system of versification
+has taken root among us very different from that which was in use in the
+earlier days of our poetry. The influence of classical prosody has
+worked in a manner that could hardly have been expected. Quantity in the
+sense in which the Greeks and Romans understood it, is altogether
+foreign to our speech; and our poets, willing to imitate the verse
+regulated by laws of quantity, have partially adopted those laws,
+substituting for long syllables those that bear a stress of accent or
+emphasis.
+
+In Greek and Latin accent was essentially distinct from quantity, and
+verse was regulated entirely by the latter. In the modern imitation of
+classical metres, for want of appreciation of quantity, we go entirely
+by accent or emphasis, and make precisely such verses as classical taste
+eschewed. Thus we have learned to scan lines by iambuses, or rather by
+their accentual imitations, and a perfect line would consist of ten
+syllables, of which the alternate ones bore a rhythmical stress. These
+iambuses may, under certain restrictions, be changed for 'trochees,' and
+out of these two 'feet,' or their representatives, a metre, certainly
+very beautiful, has grown up gradually, which attained perhaps its
+greatest perfection in the verse of Pope. But the poets of this metre,
+like renaissance architects, lost all perception of the laws of the
+original artists, and set themselves, whenever it was possible, to
+convert the original verses into such as their own system would have
+produced. We see the beginnings of this practice even in the first
+Folio, when there exist Quartos to exhibit it. In each successive Folio
+the process has been continued. Rowe's few changes of F4 are almost all
+in the same direction, and the work may be said to have been completed
+by Hanmer. It is to be feared that a result of two centuries of such a
+practice has been to bring about an idea of Shakespearian versification
+very different from Shakespeare's. But we feel a hope that the number of
+Shakespeare's students who can appreciate the true nature of the English
+versification in our elder poets is increasing, and will increase more
+as the opportunity is furnished them of studying Shakespeare himself.
+
+Of course we do not mean to give here an essay on Shakespearian
+versification. Those who would study it may best be referred to Capell,
+in spite of the erroneous taste of his day, to Sidney Walker, and
+especially, if they are earnest students, to Dr Guest's _History of
+English Rhythms_.
+
+We will only state some of the differences between Shakespearian
+versification and that which has now become our normal prosody; namely,
+such as have excited an ambition of correcting in later editors. There
+is a large number of verses which a modern ear pronounces to want their
+first unaccented syllable. The following we quote as they appear in F1,
+in the opening of the _Two Gentlemen of Verona_:
+
+  No, I will not, for it boots thee not.  I. 1. 28.
+
+  Fire that's closest kept burns most of all.  I. 2. 30.
+
+  Is't near dinner-time? I would it were.  I. 2. 67.
+
+These lines are all corrected by editors; and it is evident that there
+would be little trouble in altering all such lines wherever they occur:
+or they may be explained away, as for instance in the second cited,
+'fire' doubtless is sometimes pronounced as a dissyllable. Yet to
+attempt correction or explanation wherever such lines occur would be
+ill-spent labour. A very impressive line in the _Tempest_ is similarly
+scanned:
+
+  Twelve year since, Miranda, twelve year since.  I. 2. 53.
+
+Where we are rightly told that 'year' may be a dissyllable. Yet that one
+word should bear two pronunciations in one line is far more improbable
+than that the unaccented syllable before 'twelve' is purposely omitted
+by the poet; and few readers will not acknowledge the solemn effect of
+such a verse. As another example with a contrary effect, of impulsive
+abruptness, we may take a line in _Measure for Measure_:
+
+  Quick, dispatch, and send the head to Angelo.  IV. 3. 88.
+
+This last example is also an instance of another practice, by modern
+judgement a license, viz. making a line end with two unaccented
+'extrametrical' syllables.
+
+Two very effective lines together, commencing similarly to the last, are
+in the same Play:
+
+  Take him hence; to the rack with him! We'll touse you
+  Joint by joint, but we will know his purpose.  V. 1. 309, 310.
+
+Another irregularity is a single strong syllable commencing a line
+complete without it. This might often be printed in a line by itself.
+For example:
+
+  Ay,
+  And we're betrothed: nay more, our marriage-hour--
+      _Two Gentlemen of Verona_, II. 4, 175.
+
+Another irregularity is the insertion of syllables in the middle of
+lines. The dramatic verse is doubtless descended from the Old English
+decasyllables of Chaucer, and that his verse was divided actually into
+two sections is evinced by the punctuation of some MSS. The _licenses_
+accorded to the beginnings and endings of the whole verse were also
+allowed, with some modification, to the end and beginnings of these
+_sections_, and accordingly, in early poetry, many verses will appear to
+a modern reader to have a syllable too many or too few in the part where
+his ear teaches him to place a cæsura. Exactly similarly, but more
+sparingly, syllables are omitted or inserted at the central pause of
+Shakespeare's verse, especially when this pause is not merely metrical,
+but is in the place of a stop of greater or less duration; and most
+freely when the line in question is broken by the dialogue.
+
+The following examples of a superfluous syllable at the middle pause are
+taken out of the beginning of the _Tempest_:
+
+  Obey, and be attentive. Canst thou remember?  I. 2. 38.
+
+  But blessedly help hither. O, my heart bleeds.  I. 2. 63.
+
+  Without a parallel; those being all my study.  I. 2. 74.
+
+  With all prerogative:--hence his ambition growing.  I. 2. 105.
+
+The extra syllables may be at the commencement of the second section:
+
+  He was indeed the Duke; out o' the substitution.  I. 2. 103.
+
+And the following are defective of a syllable:
+
+  Dashes the fire out. O, I have suffered.  I. 2. 5.
+
+  Make the prize light. One word more; I charge thee.  I. 2. 452.
+
+To these 'licenses' we may add verses sometimes with one and sometimes
+with two additional feet, and many half verses, and some a foot too
+short. When these inequalities are allowed, the reader will perceive
+much simpler and more general methods of scanning some lines supposed to
+be unmetrical than the Procrustean means adopted by Sidney Walker for
+reducing or multiplying the number of syllables in words.
+
+
+E. _Punctuation._
+
+We have now to state our practice of punctuation. The Folio and other
+editions, starting with very different principles from those that guide
+the punctuation of this day, have acted on those principles with
+exceeding incorrectness. Questions are marked and unnoticed almost at
+random; stops are inserted in the ends of lines fatal to the sense. In
+fact, in many places, we may almost say that a complete want of points
+would mislead us less than the punctuation of the Folios. The
+consequence is, that our punctuation is very little dependent upon the
+Folios and Quartos, but generally follows the practice which has taken
+possession of the text of Shakespeare, under the arrangement of the best
+editors, from Pope to Dyce and Staunton. Only for an obvious improvement
+have we altered the punctuation on our own judgement, and in most cases
+the alteration is recorded in the notes.
+
+One thing remains to be said in reference to our text. It is well known,
+that in James the First's reign, a statute was passed for exscinding
+profane expressions from plays. In obedience to this many passages in
+the Folios have been altered with an over-scrupulous care. When we have
+seen the metre, or, as is sometimes the case, even the sense marred by
+these changes, and the original contains no offensive profanity, we have
+recalled Shakespeare's words.
+
+
+Our object in the foot-notes has been (1) to state the authority upon
+which a received reading rests, (2) to give all different readings
+adopted into the text by other editors, and (3) to give all emendations
+suggested by commentators.
+
+When no authority is mentioned for the reading of the text, it must be
+understood that all the Folios agree in it, as well as all editors
+previous to the one mentioned, as authority for an alteration. Thus, in
+the _Comedy of Errors_, III. 1. 71, '_cake here_] _cake_ Capell'
+indicates that 'cake here' is the reading of the four Folios, of Rowe,
+Pope, Theobald Hanmer, Warburton, and Johnson.
+
+Mere differences of spelling are not noticed, except (1) in corrupt or
+disputed passages, where the 'ductus literarum' is important as a help
+towards the determination of the true text, and (2) when the variation
+is interesting etymologically or characteristic of a particular edition.
+
+In the same way, differences of punctuation are recorded only when they
+make a difference in the sense, or when they may serve as a guide to the
+restoration of some corrupt, or the explanation of some difficult,
+passage.
+
+Misprints also are passed over as a general rule. We have noticed them
+occasionally, when they appeared to be remarkable as indicating the
+amount of error of which the old printers were capable.
+
+We have endeavoured faithfully to record any variation of reading,
+however minute (except, as before said, mere differences of spelling or
+punctuation), adopted by any editor, and to give that editor's name.
+Sometimes, however, we have passed over in silence merely arbitrary
+rearrangements of the metre made in passages where no change was
+required and no improvement effected.
+
+In recording conjectures, we have excepted only (1) those which were so
+near some other reading previously adopted or suggested, as to be
+undeserving of separate record, and (2) a few (of Becket, Jackson, and
+others) which were palpably erroneous. Even of these we have given a
+sufficient number to serve as samples.
+
+We will now proceed to explain the notation employed in the foot-notes,
+which, in some cases, the necessity of compressing may have rendered
+obscure.
+
+The four Folios are designated respectively by the letters F1, F2, F3,
+and F4, and the quarto editions of separate plays, in each case, by the
+letters Q1, Q2, Q3, &c.
+
+When one or more of the Quartos differ so widely from the Folios that a
+complete collation is impossible, the letters which designate them are
+put between brackets, for the sake of keeping this difference before the
+mind of the reader. Thus, in the _Merry Wives of Windsor_, the two
+earliest Quartos differ widely from the Folios, while the third Quarto
+(1630) is printed from the first Folio. Hence, they are designated thus:
+I. 4. 20, _Cain_] F3 F4. _Kane_ (Q1 Q2). _Caine_ F1 Q3 F2.
+
+When no authority is given for the reading in the text, it is to be
+understood that it is derived from such of the Folios as are not
+subsequently mentioned. Thus, in the _Comedy of Errors_, II. 2. 203,
+_the eye_] _thy eye_ F2 F3 indicates that F1 and F4 agree in reading
+'the eye.'
+
+In the same scene, line 191, the note '_or_] _and_ Theobald' means, that
+the four Folios, followed by Rowe and Pope, agree in reading 'or.'
+
+When the difference between the reading adopted and that given in one or
+more of the Folios is a mere difference of spelling, it has not been
+thought worth while to record the name of the first editor who
+modernized it: for instance, in the _Two Gentlemen of Verona_, II. 6.
+35, the note is: _counsel_] _counsaile_ F1 F2. _councel_ F3.
+_council_ F4.
+
+We have given at full the name of the editor who first introduced a
+particular reading, without recording which of his successors adopted
+it. Thus, in _Measure for Measure_, III. 1. 138, 'grant' for 'shield' is
+read by Pope, Theobald, Hanmer, Warburton, and others, but the first
+only is mentioned: '_shield_] F1. _shield:_ F2 F3 F4. _grant_ Pope.'
+
+The conjectures made by annotators or by editors, but not introduced by
+them into the text, are distinguished by the addition of 'conj.,' as
+'Farmer conj.,' 'Johnson conj.' &c. 'Steevens (Farmer conj.)' indicates
+that the reading in question was first suggested by Farmer, and first
+introduced into the text by Steevens. If, however, the person who first
+made the conjecture, afterwards became an editor, and gave it in his own
+text, while, in the mean time, it had been adopted by some other editor,
+the 'conj.' is omitted. Thus, for example, 'Theobald (Warburton)' shows
+that Warburton was the first to propose such and such a change, that
+Theobald first incorporated it in the text, and that Warburton
+afterwards gave it in the text of his own edition. We have designated
+the readings derived from Mr Collier's corrected copy of the second
+folio thus: 'Collier MS.' not 'Collier MS. conj.,' as in this case we
+could consult brevity without danger of misleading any one.
+
+We have arranged the names both of Editors and of Commentators (as far
+as was possible) in order of time. It has frequently happened that
+several persons have hit on the same conjecture independently. In such
+cases we have assigned it to the earliest, determining the priority by
+the date of publication.
+
+The metrical arrangement of each passage is marked in the notes by
+printing each word which commences a line with an initial capital
+letter. In the Folios, many substantives, other than proper names or
+titles, are printed with initial capitals; but, in order to avoid
+ambiguity, we have generally made our quotations conform, in this
+respect, to the modern usage.
+
+We had originally intended to give in our Preface a catalogue raisonné
+of all the editions of our author and other books used by us in the
+preparation of the present work, but this labour has been fortunately
+spared us by Mr Bohn's reissue of Lowndes's _Bibliographer's Manual_,
+the eighth part of which contains a full and accurate account of
+Shakespearian literature. To that work we refer our readers for more
+complete bibliographical details, and propose to confine ourselves to
+some remarks on the critical value of the principal editions and
+commentaries. We have, of course, confined our collation to those
+editions which seemed to possess an independent value of their own. Mr
+Bohn enumerates two hundred and sixty-two different editions of
+Shakespeare. It was therefore a matter of necessity to make a selection.
+In the following remarks we pass briefly in review the editions which we
+have habitually consulted.
+
+Whenever any commentary was known to us to exist in a separate form, we
+have always, if possible, procured it. In some few instances, we have
+been obliged to take the references at second-hand.
+
+The first Folio (F1), 1623, contains all the plays usually found in
+modern editions of Shakespeare, except _Pericles_. It was 'published
+according to the True Originall Copies,' and 'set forth' by his
+'friends' and 'fellows,' John Heminge and Henry Condell, the author 'not
+having the fate common with some to be exequutor to his own writings.'
+
+In an address 'To the great variety of Readers' following the dedication
+to the Earls of Pembroke and Montgomery, the following passage occurs:
+
+'It had bene a thing, we confesse, worthie to have bene wished, that the
+Author himselfe had liv'd to have set forth, and overseen his owne
+writings; But since it hath bin ordain'd otherwise, and he by death
+departed from that right, we pray you do not envie his Friends, the
+office of their care, and paine, to have collected & publish'd them; and
+so to have publish'd them, as where (before) you were abus'd with
+diverse stolne and surreptitious copies, maimed, and deformed by the
+frauds and stealthes of injurious impostors, that expos'd them: even
+those are now offer'd to your view cur'd, and perfect of their limbes;
+and all the rest, absolute in their numbers, as he conceived them. Who,
+as he was a happie imitator of Nature, was a most gentle expresser of
+it. His mind and hand went together: And what he thought, he uttered
+with that easinesse, that wee have scarse received from him a blot in
+his papers.'
+
+The natural inference to be drawn from this statement is, that all the
+separate editions of Shakespeare's plays were 'stolen,' 'surreptitious,'
+and 'imperfect,' and that all those published in the Folio were printed
+from the author's own manuscripts. But it can be proved to demonstration
+that several of the plays in the Folio were printed from earlier Quarto
+editions, and that in other cases the Quarto is more correctly printed
+or from a better MS. than the Folio text, and therefore of higher
+authority. For example, in _Midsummer Night's Dream_, in _Love's
+Labour's Lost_, and in _Richard the Second_, the reading of the Quarto
+is almost always preferable to that of the Folio, and in _Hamlet_ we
+have computed that the Folio, when it differs from the Quartos, differs
+for the worse in forty-seven places, while it differs for the better in
+twenty at most.
+
+As the 'setters forth' are thus convicted of a 'suggestio falsi' in
+one point, it is not improbable that they may have been guilty of
+the like in another. Some of the plays may have been printed not from
+Shakespeare's own manuscript, but from transcripts made from them for
+the use of the theatre. And this hypothesis will account for strange
+errors found in some of the plays--errors too gross to be accounted for
+by the negligence of a printer, especially if the original MS. was as
+unblotted as Heminge and Condell describe it to have been. Thus too we
+may explain the great difference in the state of the text as found in
+different plays. It is probable that this deception arose not from
+deliberate design on the part of Heminge and Condell,--whom as having
+been Shakespeare's friends and fellows we like to think of as honourable
+men,--but partly at least from want of practice in composition, and from
+the wish rather to write a smart preface in praise of the book than to
+state the facts clearly and simply. Or the preface may have been written
+by some literary man in the employment of the publishers, and merely
+signed by the two players.
+
+Be this as it may, their duties as editors were probably limited to
+correcting and arranging the manuscripts and sending them to the press.
+The 'overseeing' of which they speak, probably meant a revision of the
+MSS., not a correction of the press, for it does not appear that there
+were any proof sheets in those days sent either to author or editor.
+Indeed we consider it as certain that, after a MS. had been sent to
+press, it was seen only by the printers and one or more correctors of
+the press, regularly employed by the publishers for that purpose[3].
+
+The opinions of critics have varied very much as to the merits of the
+first Folio, some praising it as among the most correct, and others
+blaming it as one of the most incorrect editions of its time. The truth
+seems to be that it is of very varied excellence, differing from time to
+time according to the state of the MS. from which it was printed, the
+skill of the compositor, and the diligence of the corrector. There is
+the widest difference, for instance, between the text of the _Two
+Gentlemen of Verona_ and that of _All's well that ends well_.
+
+As is the case with most books of that time[4], different copies of the
+first Folio are found to vary here and there; generally, however, in a
+single letter only. It is probable that no one copy exactly corresponds
+with any other copy. We have indicated these variations, wherever they
+were known to us, in a note either at the foot of the page or at the end
+of each play.
+
+A reprint of the first Folio, not free from inaccuracies, was published
+in 1807. A second reprint is now in course of publication by Mr Lionel
+Booth. The first part, containing the Comedies, has already appeared. It
+is probably the most correct reprint ever issued.
+
+The second Folio (F2) is a reprint of the first, preserving the same
+pagination. It differs, however, from the first in many passages,
+sometimes widely, sometimes slightly, sometimes by accident, sometimes
+by design. The emendations are evidently conjectural, and though
+occasionally right, appear more frequently to be wrong. They deserve no
+more respect than those of other guessers, except such as is due to
+their author's familiar acquaintance with the language and customs of
+Shakespeare's day, and possible knowledge of the acted plays.
+
+Capell's copy of the second Folio has been of great use to us in our
+collations. He has annotated the margin with a multitude of marks in red
+ink,--conventional symbols indicating where and how it differs from the
+first. We have hardly in a single instance found his accuracy at fault.
+
+The third Folio (F3) was first published in 1663, and reissued in the
+following year with a new title-page[5], and with seven additional
+plays, viz.: _Pericles, Prince of Tyre_: _The London Prodigal_: _The
+History of the Life and Death of Thomas Lord Cromwell_: _The History of
+Sir John Oldcastle, the good Lord Cobham_: _The Puritan Widow_: _A
+Yorkshire Tragedy_: and _The Tragedy of Locrine_. With regard to the
+plays which it contains in common with the former Folios, it is on the
+whole a tolerably faithful reprint of the second, correcting, however,
+some obvious errors, making now and then an uncalled-for alteration, and
+occasionally modernizing the spelling of a word. The printer of course
+has committed some errors of his own.
+
+The fourth Folio (F4) was printed from the third, but with a different
+pagination, in 1685. The spelling is very much modernized, but we have
+not been able to detect any other evidence of editorial care.
+
+The first octavo edition was that of Nicholas Rowe, published in 1709,
+dedicated to the Duke of Somerset, in words which we take pleasure in
+recording: ''Tis the best security a poet can ask for to be sheltered
+under that great name which presides over one of the most famous
+Universities of Europe.' It contained all the plays in the fourth Folio
+in the same order, except that the seven spurious plays were transferred
+from the beginning to the end. The poems were added also.
+
+It is evident that Rowe took the fourth Folio as the text from which his
+edition was printed, and it is almost certain that he did not take the
+trouble to refer to, much less to collate, any of the previous Folios or
+Quartos. It seems, however, while the volume containing _Romeo and
+Juliet_ was in the press he learned the existence of a Quarto edition,
+for he has printed the prologue given in the Quartos and omitted in the
+Folios, at the end of the play. He did not take the trouble to compare
+the text of the Quarto with that of F4. When any emendation introduced
+by him in the text coincides with the reading of F1, as sometimes
+happens, we are convinced that it is an accidental coincidence. Being,
+however, a man of natural ability and taste he improved the text by some
+happy guesses, while, from overhaste and negligence, he left it still
+deformed by many palpable errors. The best part of the work is that with
+which his experience of the stage as a dramatic poet had made him
+familiar. In many cases he first prefixed to the play a list of dramatis
+personæ, he supplied the defects of the Folios in the division and
+numbering of Acts and Scenes, and in the entrances and exits of
+characters. He also corrected and further modernized the spelling, the
+punctuation, and the grammar.
+
+A characteristic specimen of blunders and corrections occurs in the
+_Comedy of Errors_, V. 1. 138.
+
+_important_] F1 _impoteant_ F2. _impotent_ F3 F4. _all-potent_ Rowe.
+
+A second Edition, 9 Volumes 12mo, was published in 1714.
+
+Pope's edition in six volumes, 4to, was completed in 1715. On the
+title-page we read, 'The Works of Shakespeare, in six volumes.' The six
+volumes, however, included only the plays contained in the first and
+second Folios. The poems, with an _Essay on the Rise and Progress of the
+Stage_, and a Glossary, were contained in a seventh volume edited by Dr
+Sewell.
+
+Pope, unlike his predecessor, had at least seen the first Folio and some
+of the Quartos of separate plays, and from the following passage of his
+preface it might have been inferred that he had diligently collated them
+all:
+
+'This is the state in which Shakespeare's writings be at present; for
+since the above-mentioned folio edition [_i.e._ F4], all the rest have
+implicitly followed it without having recourse to any of the former, or
+ever making the comparison between them. It is impossible to repair the
+injuries already done him; too much time has elaps'd, and the materials
+are too few. In what I have done I have rather given a proof of my
+willingness and desire, than of my ability, to do him justice. I have
+discharg'd the dull duty of an editor, to my best judgment, with more
+labour than I expect thanks, with a religious abhorrence of all
+innovation, and without any indulgence to my private sense or
+conjecture. The method taken in this edition will show itself. The
+various readings are fairly put in the margin, so that every one may
+compare 'em, and those I prefer'd into the text are constantly _ex fide
+codicum_, upon authority.'
+
+This passage, as any one may see who examines the text, is much more
+like a description of what the editor did _not_ do than of what he did.
+Although in many instances he restored, from some Quarto, passages which
+had been omitted in the Folio, it is very rarely indeed that we find any
+evidence of his having collated either the first Folio or any Quarto,
+with proper care. The 'innovations' which he made, according to his own
+'private sense and conjecture,' are extremely numerous. Not one in
+twenty of the various readings is put in the margin, and the readings in
+his text very frequently rest upon no authority whatever. The glaring
+inconsistency between the promise in the preface and the performance in
+the book may well account for its failure with the public.
+
+It would, however, be ungrateful not to acknowledge that Pope's
+emendations are always ingenious and plausible, and sometimes
+unquestionably true. He never seems to nod over that 'dull labour' of
+which he complains. His acuteness of perception is never at fault.
+
+What is said of him in the preface to Theobald's edition is, in this
+point, very unjust[6].
+
+'They have both (_i.e._ Pope and Rymer[7]) shown themselves in an equal
+_impuissance_ of suspecting or amending the corrupted passages, &c.'
+
+Pope was the first to indicate the _place_ of each new scene; as, for
+instance, _Tempest_, I. 1. 'On a ship at sea.' He also subdivided the
+scenes as given by the Folios and Rowe, making a fresh scene whenever a
+new character entered--an arrangement followed by Hanmer, Warburton, and
+Johnson. For convenience of reference to these editions, we have always
+recorded the commencement of Pope's scenes.
+
+By a minute comparison of the two texts we find that Pope printed his
+edition from Rowe, not from any of the Folios.
+
+A second edition, 10 volumes, 12mo, was published in 1728, 'by Mr Pope
+and Dr Sewell.' In this edition, after Pope's preface, reprinted, comes:
+'A table of the several editions of Shakespeare's plays, made use of and
+compared in this impression.' Then follows a list containing the first
+and second Folios, and twenty-eight Quarto editions of separate plays.
+It does not, however, appear that even the first Folio was compared with
+any care, for the changes made in this second edition are very few.
+
+Lewis Theobald had the misfortune to incur the enmity of one who was
+both the most popular poet, and, if not the first, at least the second,
+satirist of his time. The main cause of offence was Theobald's
+_Shakespeare Restored, or a Specimen of the many Errors committed as
+well as unamended by Mr Pope in his late edition of this Poet_, 1726.
+Theobald was also in the habit of communicating notes on passages of
+Shakespeare to _Mist's Journal_, a weekly Tory paper. Hence he was made
+the hero of the _Dunciad_ till dethroned in the fourth edition to make
+way for Cibber; hence, too, the allusions in that poem:
+
+  'There hapless Shakespear, yet of Theobald sore,
+  Wish'd he had blotted for himself before;'
+
+and, in the earlier editions,
+
+  'Here studious I unlucky moderns save,
+  Nor sleeps one error in its father's grave;
+  Old puns restore, lost blunders nicely seek,
+  And crucify poor Shakespear once a week.'
+
+Pope's editors and commentators, adopting their author's quarrel, have
+spoken of Theobald as 'Tibbald, a cold, plodding, and tasteless writer
+and critic.' These are Warton's words. A more unjust sentence was never
+penned. Theobald, as an Editor, is incomparably superior to his
+predecessors, and to his immediate successor, Warburton, although the
+latter had the advantage of working on his materials. He was the first
+to recal a multitude of readings of the first Folio unquestionably
+right, but unnoticed by previous editors. Many most brilliant
+emendations, such as could not have suggested themselves to a mere
+'cold, plodding, and tasteless critic,' are due to him. If he sometimes
+erred--'humanum est.' It is remarkable that with all his minute
+diligence[8], (which even his enemies conceded to him, or rather of
+which they accused him) he left a goodly number of genuine readings from
+the first Folio to be gleaned by the still more minutely diligent
+Capell. It is to be regretted that he gave up numbering the scenes,
+which makes his edition difficult to refer to. It was first published in
+1733, in seven volumes, 8vo. A second, 8 volumes, 12mo, appeared in
+1740.
+
+In 1744, a new edition of Shakespeare's Works, in six volumes, 4to, was
+published at Oxford. It appeared with a kind of sanction from the
+University, as it was printed at the Theatre, with the Imprimatur of the
+Vice-Chancellor, and had no publisher's name on the title-page. The
+Editor is not named--hence he is frequently referred to by subsequent
+critics as 'the Oxford Editor';--but as he was well known to be Sir
+Thomas Hanmer, we have always referred to the book under his name. We
+read in the preface: 'What the Publick is here to expect is a true and
+correct Edition of Shakespear's Works, cleared from the corruptions with
+which they have hitherto abounded. One of the great admirers of this
+incomparable author hath made it the amusement of his leisure hours for
+many years past to look over his writings with a careful eye, to note
+the obscurities and absurdities introduced into the text, and according
+to the best of his judgment to restore the genuine sense and purity of
+it. In this he proposed nothing to himself but his private satisfaction
+in making his own copy as perfect as he could; but as the emendations
+multiplied upon his hands, other Gentlemen equally fond of the Author,
+desired to see them, and some were so kind as to give their assistance
+by communicating their observations and conjectures upon difficult
+passages which had occurred to them.'
+
+From this passage the character of the edition may be inferred.
+A country gentleman of great ingenuity and lively fancy, but with no
+knowledge of older literature, no taste for research, and no ear for the
+rhythm of earlier English verse, amused his leisure hours by scribbling
+down his own and his friends' guesses in Pope's Shakespeare, and with
+this _apparatus criticus_, if we may believe Warburton, 'when that
+illustrious body, the University of Oxford, in their public capacity,
+undertook an edition of Shakespeare by subscription,' Sir T. Hanmer
+'thrust himself into the employment.'
+
+Whether from the sanction thus given, or from its typographical beauty,
+or from the plausibility of its new readings, this edition continued in
+favour, and even 'rose to the price of 10_l._ 10_s._ before it was
+reprinted in 1770-1, while Pope's, in quarto, at the same period sold
+off at Tonson's sale for 16_s._ per copy.' Bohn, p. 2260.
+
+In 1747, three years after Pope's death, another edition of Shakespeare
+based upon his appeared, edited by Mr Warburton.
+
+On the title-page are these words: 'The Genuine Text (collated with all
+the former Editions, and then corrected and emended) is here settled:
+Being restored from the _Blunders_ of the first Editors, and the
+_Interpolations_ of the two Last: with a Comment and Notes, Critical and
+Explanatory. By Mr Pope and Mr Warburton[9].'
+
+The latter, in his preface, vehemently attacks Theobald and Hanmer,
+accusing both of plagiarism and even fraud. 'The one was recommended to
+me as a poor Man, the other as a poor Critic: and to each of them, at
+different times, I communicated a great number of Observations, which
+they managed as they saw fit to the Relief of their several distresses.
+As to Mr _Theobald_, who wanted Money, I allowed him to print what I
+gave him for his own Advantage: and he allowed himself in the Liberty of
+taking one Part for his own, and sequestering another for the Benefit,
+as I supposed, of some future Edition. But as to the _Oxford Editor_,
+who wanted nothing, but what he might very well be without, the
+reputation of a Critic, I could not so easily forgive him for
+trafficking in my Papers without my knowledge; and when that Project
+fail'd, for employing a number of my Conjectures in his Edition against
+my express Desire not to have that Honour done unto me.'
+
+Again he says of Hanmer: 'Having a number of my Conjectures before him,
+he took as many as he saw fit to work upon, and by changing them to
+something, he thought, synonimous or similar, he made them his own,' &c.
+&c. p. xii.
+
+Of his own performance Warburton says, 'The Notes in this Edition take
+in the whole Compass of Criticism. The first sort is employed in
+restoring the Poet's genuine Text; but in those places only where it
+labours with inextricable Nonsense. In which, how much soever I may have
+given scope to critical Conjecture, when the old Copies failed me,
+I have indulged nothing to Fancy or Imagination; but have religiously
+observed the severe Canons of literal Criticism, &c. &c.' p. xiv. Yet
+further on he says, 'These, such as they are, were amongst my younger
+amusements, when, many years ago I used to turn over these sort of
+Writers to unbend myself from more serious applications.'
+
+The excellence of the edition proved to be by no means proportionate to
+the arrogance of the editor. His text is, indeed, better than Pope's,
+inasmuch as he introduced many of Theobald's restorations and some
+probable emendations both of his own and of the two editors whom he so
+unsparingly denounced, but there is no trace whatever, so far as we have
+discovered, of his having collated for himself either the earlier Folios
+or any of the Quartos.
+
+Warburton[10] was, in his turn, severely criticised by Dr Zachary Grey,
+and Mr John Upton, in 1746, and still more severely by Mr Thomas
+Edwards, in his _Supplement to Mr Warburton's edition of Shakespeare_,
+1747. The third edition of Mr Edwards's book, 1750, was called _Canons
+of Criticism and Glossary, being a Supplement, &c._ This title is a
+sarcastic allusion to two passages in Warburton's preface: 'I once
+intended to have given the Reader a _body of Canons_, for literal
+Criticism, drawn out in form,' &c. p. xiv, and 'I had it once, indeed,
+in my design, to give a general alphabetic _Glossary_ of these terms,'
+&c. p. xvi. Dr Grey's attack was reprinted, with additions, and a new
+title, in 1751, and again in 1752. Warburton and his predecessors were
+passed in review also by Mr Benjamin Heath, in _A Revisal of
+Shakespeare's text_, 1765.
+
+Dr Samuel Johnson first issued proposals for a new edition of
+Shakespeare in 1745, but met with no encouragement. He resumed the
+scheme in 1756, and issued a new set of Proposals (reprinted in Malone's
+preface), 'in which,' says Boswell, 'he shewed that he perfectly well
+knew what a variety of research such an undertaking required, but his
+indolence prevented him from pursuing it with that diligence, which
+alone can collect those scattered facts that genius, however acute,
+penetrating, and luminous, cannot discover by its own force.' Johnson
+deceived himself so far, as to the work to be done and his own energy in
+doing it, that he promised the publication of the whole before the end
+of the following year. Yet, though some volumes were printed as early as
+1758 (Boswell, Vol. II. p. 84), it was not published till 1765, and
+might never have been published at all, but for Churchill's stinging
+satire:
+
+  'He for subscribers baits his hook,
+  And takes your cash, but where's the book?
+  No matter where; wise fear, you know,
+  Forbids the robbing of a foe,
+  But what, to serve our private ends,
+  Forbids the cheating of our friends?'
+
+Not only Johnson's constitutional indolence and desultory habits, but
+also the deficiency of his eye-sight, incapacitated him for the task of
+minute collation. Nevertheless, he did consult the older copies, and has
+the merit of restoring some readings which had escaped Theobald. He had
+not systematically studied the literature and language of the 16th and
+17th centuries; he did not always appreciate the naturalness,
+simplicity, and humour of his author, but his preface and notes are
+distinguished by clearness of thought and diction and by masterly common
+sense. He used Warburton's text, to print his own from. The readings and
+suggestions attributed to 'Johnson,' in our notes, are derived either
+from the edition of 1765, or from those which he furnished to the
+subsequent editions in which Steevens was his co-editor. Some few also
+found by the latter in Johnson's hand on the margin of his copy of
+'Warburton,' purchased by Steevens at Johnson's sale, were incorporated
+in later editions. Johnson's edition was attacked with great acrimony by
+Dr Kenrick, 1765 (Boswell, Vol. II. p. 300). It disappointed the public
+expectation, but reached, nevertheless, a second edition in 1768.
+Tyrwhitt's _Observations and Conjectures_ were published anonymously in
+1766.
+
+Capell's edition (10 volumes, small 8vo) was not published till 1768,
+though part of it had gone to press, as the editor himself tells us, in
+September, 1760. It contained the Plays in the order of the first and
+second Folios, with a preface, of which Dr Johnson said, referring to
+_Tempest_, I. 2. 356, 'The fellow should have come to me, and I would
+have endowed his purpose with words. As it is he doth gabble
+monstrously.'
+
+Defects of style apart, this preface was by far the most valuable
+contribution to Shakespearian criticism that had yet appeared, and the
+text was based upon a most searching collation of all the Folios and of
+all the Quartos known to exist at that time. Capell's own conjectures,
+not always very happy, which he has introduced into his text, are
+distinguished by being printed in black letter.
+
+The edition before us contains the scansion of the lines, with
+occasional verbal as well as metrical corrections, marked in red ink, in
+Capell's hand. This was done, as he tells us in a note prefixed to Vol.
+I., in 1769.
+
+He described, much more minutely than Pope had done, the places of the
+scenes, and made many changes, generally for the better, in the stage
+directions.
+
+In his peculiar notation, _Asides_ are marked by inverted commas, and
+obvious stage business is indicated by an obelus.
+
+In a note to his preface, p. xxiii, Capell says:
+
+'In the manuscripts from which all these plays are printed, the
+emendations are given to their proper owners by initials and other marks
+that are in the margin of those manuscripts; but they are suppressed in
+the print for two reasons: First their number, in some pages, makes them
+a little unsightly; and the editor professes himself weak enough to like
+a well-printed book; in the next place, he does declare, that his only
+object has been to do service to his Author; which provided it be done,
+he thinks it of small importance by what hand the service was
+administer'd,' &c.
+
+By this unfortunate decision, Capell deprived his book of almost all its
+interest and value[11]. And thus his unequalled zeal and industry have
+never received from the public the recognition they deserved.
+
+In 1774, a volume of notes[12] was printed in quarto, and in 1783, two
+years after his death, appeared _Notes, Various Readings, and the School
+of Shakespeare_, 3 vols. 4to.[13] The printing of this work was begun in
+1779.
+
+George Steevens, who had edited in 1766 a reprint of Twenty of the Plays
+of Shakespeare from the Quartos, at a time, when, as he himself
+afterwards said, he was 'young and uninformed,' and had been in the
+meanwhile one of Johnson's most active and useful correspondents, was
+formally associated with him as Editor in 1770 (Boswell, Vol. III.
+p. 116). At Steevens's suggestion, Johnson wrote to Dr Farmer of
+Emmanuel College, Cambridge, requesting him to furnish a Catalogue of
+all the Translations Shakespeare might have seen and used. Hence, it
+seems, Farmer took an interest in the successive editions, and supplied
+many valuable notes and acute conjectural readings. It was on Farmer's
+authority that _Pericles_ has been re-admitted among the Plays of
+Shakespeare.
+
+The first edition of Johnson and Steevens appeared in 1773. The
+improvements in this edition, as compared with those which bore
+Johnson's name only, are evidently the work of the new editor, who
+brought to the task diligent and methodical habits and great antiquarian
+knowledge, thus supplementing the defects of his senior partner.
+J. Collins, editor of Capell's _Notes_ &c. charged Steevens with
+plagiarism from Capell. Steevens denied the charge. The second edition
+came out in 1778; the third in 1785; and the fourth in 1793. In this
+edition Steevens made many changes in the text, as if for the purpose of
+differing from the cautious Malone, now become a rival.
+
+Edmond Malone contributed to Steevens his _Attempt to ascertain the
+order in which the plays attributed to Shakespeare were written_; in
+1780, published a _Supplement_ to the edition of 1778, containing the
+Poems, the seven plays from F3, notes, &c., and moreover distinguished
+himself by various researches into the history and literature of the
+early English stage. He published in 1790 a new edition of Shakespeare
+in 10 volumes, 8vo, containing the Plays and Poems, 'collated verbatim
+with the most authentic copies, and revised,' together with several
+essay and dissertations, among the rest that on the order of the plays,
+corrected and enlarged.
+
+The animosities which both Steevens and Malone had the misfortune to
+excite, have had the effect of throwing some slur on their names as
+editors, and even as men, and have prevented the fair appreciation and a
+due acknowledgment of the services they rendered jointly and severally
+to English literature.
+
+The learning and ability displayed by Malone in denouncing Ireland's
+most clumsy and palpable of frauds, would have sufficed for the
+detection of the most cunningly conceived and skilfully executed.
+
+Among the critics of this time may be mentioned (1) Joseph Ritson, who
+published in 1783 his _Remarks, &c._ on the second edition of Johnson
+and Steevens, and in 1788, _The Quip Modest_, on the third edition, and
+(2) John Monck Mason, whose _Comments_ appeared in 1785, and _Further
+Observations_ in 1798.
+
+
+In 1803 appeared an edition in 21 volumes 8vo, edited by Isaac Reed.
+This is called on the title-page 'the Fifth Edition,' _i.e._ of Johnson
+and Steevens. It is generally known as the first _variorum_ edition.
+Chalmers's edition, 9 vols. 8vo, 1805, professes to be printed from the
+corrected text left by Steevens. The 'sixth edition' of Johnson and
+Steevens, or the second _variorum_, appeared in 1813, also edited by
+Reed; the 'seventh,' or third _variorum_, in 1821, edited by James
+Boswell, from a corrected copy left by Malone.
+
+Among those whose notes were communicated to or collected by various
+editors from Johnson to Boswell, the best known names are the following:
+Sir William Blackstone, Dr Burney, Bennet Langton, Collins the poet, Sir
+J. Hawkins, Musgrave, the editor of _Euripides_, Dr Percy, editor of the
+_Reliques_, and Thomas Warton. Less known names are: Blakeway,
+J. Collins, Henley, Holt White, Letherland, Roberts, Seward, Smith,
+Thirlby, Tollet, and Whalley[14].
+
+Harness's edition, 8 volumes, 8vo, appeared in 1825.
+
+Of the comments published separately during the present century the
+principal are:
+
+1. _Remarks, &c._, by E. H. Seymour, 2 vols, 8vo, 1805, in which are
+incorporated some notes left by Lord Chedworth.
+
+2. _Shakspeare's himself again_, by Andrew Becket, 2 vols, 8vo. 1815.
+The author has indulged in a license of conjecture and of interpretation
+which has never been equalled before or since. We have nevertheless
+generally given his conjectures, except when he has gone the length of
+inventing a word.
+
+3. _Shakspeare's Genius Justified_, by Zachary Jackson, 1 vol. 8vo,
+1811. As the author himself had been a printer, his judgement on the
+comparative likelihood of this and that typographical error is worth all
+consideration. But he sometimes wanders 'ultra crepidam[15].'
+
+Douce's _Illustrations to Shakespeare_, 2 vols. 8vo, 1807, ought to be
+mentioned as a work of great antiquarian research, though he rarely
+suggests any new alteration of the text, and his name therefore will
+seldom occur in our notes.
+
+
+The more recent editions of Shakespeare are so well known and so easily
+accessible, that it is unnecessary for us, even were it becoming in this
+place, to undertake the invidious task of comparing their respective
+merits.
+
+It will suffice to mention the names of the editors in the order of
+their first editions: S. W. Singer, Charles Knight, Barry Cornwall,
+J. Payne Collier, S. Phelps, J. O. Halliwell, Alex. Dyce, Howard
+Staunton.
+
+We have also to mention the edition of Delius, 7 vols. 8vo, Elberfeld,
+1854-61, the English text, with concise notes, critical and explanatory,
+in German, and that of Mr Richard Grant White (known as the author of
+_Shakespeare's Scholar_, 1854), published at Boston, United States,
+1857.
+
+In 1853, Mr J. Payne Collier, published in 1 vol. 8vo, _Notes and
+Emendations to the text of Shakespeare's Plays, from early manuscript
+corrections, in a copy of the Folio 1632_, in his own possession. All
+the emendations given in this volume by Mr Collier, or subsequently as
+an Appendix to Coleridge's _Lectures_, except, of course, where they
+have been anticipated, have been recorded in our notes.
+
+We have no intention of entering into the controversy respecting the
+antiquity and authority of these corrections, nor is it necessary to
+enumerate the writings on a subject which is still so fresh in the
+memory of all.
+
+M. Tycho Mommsen, of Marburg, who published the most elaborate work on
+the so-called 'Perkins Folio,' also published in 1859 the text of the
+first Quartos of _Romeo and Juliet_, with a collation of the various
+readings of all editions down to Rowe's, a full description of the
+critical value of the different texts, and an inquiry into the
+versification, and incidentally the grammar and orthography of
+Shakespeare. The precise rules which he lays down disappear, for the
+most part, on a wider induction, and we greatly question whether it be
+worth while to register and tabulate such minutiæ as do not represent in
+any way Shakespeare's mind or hand, but only the caprices of this or
+that compositor, at a period when spelling, punctuation, and even rules
+of grammar, were matters of private judgement.
+
+But M. Mommsen's industry is beyond praise, and his practice of using
+the labours of English Editors, without insulting them, is worthy of all
+imitation[16].
+
+Among the works to which reference will be found in our edition are the
+following:
+
+Coleridge's _Literary Remains_: Dr Guest's _History of English Rhythms_:
+_the Versification of Shakespeare_, by W. Sidney Walker, (1854), and
+_Criticisms_, by the same, 3 vols., post 8vo, (1860), edited by Mr
+Lettsom, who has also contributed in his notes some suggestions for the
+improvement of the text. It is to be regretted that these volumes have
+not been accompanied by an Index. Dr. Charles Badham's article in the
+_Cambridge Essays_, 1856, contains many ingenious suggestions.
+
+We have borrowed from several literary journals, the _Athenæum_, _Notes
+and Queries_, and the _Parthenon_, and from Magazines, the conjectures
+of their correspondents. When the real name of the correspondent, or
+what might be such, was signed, we have given it in our notes, as
+'Hickson,' 'S. Verges' (from _Notes and Queries_). When the name was
+obviously fictitious, or when the article was not signed at all, we have
+noted it thus: 'Anon. (N. and Q.) conj.,' 'Anon. (Fras. Mag.) conj.,'
+&c., referring to _Notes and Queries_, _Fraser's Magazine_, &c.
+
+'Spedding,' 'Bullock,' 'Lloyd,' 'Williams,' 'Wright,' indicate
+respectively our correspondents, Mr James Spedding, Mr John Bullock, of
+Aberdeen, the Rev. Julius Lloyd, Mr W. W. Williams, of Oxford, and Mr
+W. Aldis Wright, to each and all of whom we beg to return our best
+thanks. We have also to thank Mr Archibald Smith, Mr C. W. Goodwin, Mr
+Bolton Corney, Mr N. E. S. A. Hamilton, Mr J. Nichols, Mr Jourdain, Dr
+Brinsley Nicholson, Mr Halliwell, Dr Barlow, Mr Grant White, Mr B. H.
+Bright, Mr Henry A. Bright, and Mr Bohn, for friendly suggestions and
+kind offers of assistance.
+
+The proposed emendations, marked 'Anon. conj.' are those which we have
+not been able to trace, or those in which the authors have not
+sufficient confidence to acknowledge them.
+
+Those proposed with some confidence by the present editors are marked
+'Edd. conj.'
+
+
+In conclusion, we commend this volume, the first product of long labour,
+to the indulgent judgement of critics. In saying this we are not merely
+repeating a stereotyped phrase. We have found errors in the work of the
+most accurate of our predecessors. We cannot hope to have attained
+perfect accuracy ourselves, especially when we consider the wide range
+which our collation has embraced, and the minute points which we have
+endeavoured to record, but at all events we have spared no pains to
+render our work as exact as we could. Those who have ever undertaken a
+similar task will best understand the difficulty, and will be most ready
+to make allowance for shortcomings. 'Expertus disces quam gravis iste
+labor.'
+
+W. G. C.
+
+J. G.
+
+
+
+
+The five plays contained in this volume occur in the first Folio in the
+same order, and, with one exception, were there printed for the first
+time.
+
+In the case of _The Merry Wives of Windsor_, two Quartos (Q1 and Q2),
+imperfect copies of an earlier play, appeared in 1602 and 1619, the
+second a reprint of the first. They are described in a special
+Introduction to that play, and a reprint of Q1, collated with Q2,
+follows it. A third Quarto (Q3) was printed from F1 in 1630.
+
+_The Tempest_ was altered by Dryden and D'Avenant, and published as _The
+Tempest; or the Enchanted Island_, in 1669. We mark the emendations
+derived from it: 'Dryden's version.' D'Avenant, in his _Law against
+Lovers_ fused _Measure for Measure_ and _Much ado about Nothing_ into
+one play. We refer to his new readings as being from 'D'Avenant's
+version.'
+
+
+    [Footnote 1: A third editor was afterwards added. Mr Luard's
+    election to the office of Registrary compelled him to relinquish
+    his part, at least for the present; and the first volume,
+    consequently, is issued under the responsibility of two editors
+    only.]
+
+    [Footnote 2: See page xxi.]
+
+    [Footnote 3: A passage in the _Return from Parnassus_ compared
+    with one in Bale's preface to his _Image of Both Churches_ puts
+    this almost beyond a doubt.]
+
+    [Footnote 4: Mr Wright in his preface to _Bacon's Essays_ mentions
+    that he has collated ten copies of the edition of 1625, 'which
+    though bearing the same date, are all different from each other in
+    points of no great importance.']
+
+    [Footnote 5: Mr Bohn is mistaken in saying that the Capell copy
+    has both titles. It has that of 1664 only, with the portrait, and
+    B. J.'s verses underneath on the opposite page.]
+
+    [Footnote 6: Capell's copy now before us contains the following
+    note in Capell's hand-writing: 'This copy of Mr Theobald's
+    edition was once Mr Warburton's; who has claim'd in it the notes
+    he gave to the former which that former depriv'd him of and made
+    his own, and some Passages in the Preface, the passages being put
+    between hooks and the notes signed with his name. E. C.' The
+    passage quoted from Theobald's Preface is one of those between
+    hooks.]
+
+    [Footnote 7: Thomas Rymer, whose book, called _A short View of
+    Tragedy of the last Age_, 1693, gave rise to a sharp controversy.]
+
+    [Footnote 8: Capell, who might be supposed to write 'sine ira et
+    studio,' denies to Theobald even this merit: 'His work is only
+    made a little better [than Pope's] by his having a few more
+    materials; of which he was not a better collator than the other,
+    nor did he excel him in use of them.' The result of the collations
+    we have made leads us to a very different conclusion.]
+
+    [Footnote 9: Notwithstanding this claim of identity, Warburton
+    seems to have used Theobald's text to print from. Capell
+    positively affirms this, (Preface, p. 18).]
+
+    [Footnote 10: Dr Johnson told Burney that Warburton, as a critic,
+    'would make two-and-fifty Theobalds cut into slices.' (Boswell's
+    _Life of Johnson_, Vol. ii. p. 85. Ed. 1835). From this judgment,
+    whether they be compared as critics or editors, we emphatically
+    dissent.]
+
+    [Footnote 11: We trust that in our edition the matter which Capell
+    discarded has been presented in a well-printed book. We have found
+    no trace of the Manuscripts here spoken of.]
+
+    [Footnote 12: In Lowndes's _Manual_ (Bohm), p. 2316, we find
+    'Notes and Various Readings to Shakespeare. By Edward Capell,
+    Lond. 1759.' No such book of this date is in the Capell
+    collection, nor is it ever mentioned elsewhere, so far as we know.
+    In the preface to the work of 1783, it is mentioned that the first
+    volume had been printed in 1774, but no allusion is made to any
+    former edition.]
+
+    [Footnote 13: These volumes, together with the whole of
+    Shakespeare's _Plays_ and Milton's _Paradise Lost_, written out in
+    Capell's own regular, but not very legible hand, are among his
+    collection in Trinity College Library.]
+
+    [Footnote 14: Steevens was accused of giving, under fictitious
+    names, notes which he was afraid to sign himself.]
+
+    [Footnote 15: The two last-named books, as well as some
+    suggestions from correspondents, did not reach us till the first
+    Volume was partly printed. We propose to supply all omissions in
+    an Appendix to the whole work.]
+
+    [Footnote 16: Aber man läuft ein gefährliches Spiel, wenn man
+    nicht überall offen und bescheiden bekennt, dass man ganz von den
+    Engländern abhange: ja man scheitert gewiss, wenn man mit der
+    einen Hand allen Stoff von dem man lebt und athmet ihnen entnimmt,
+    und mit der andern zum Dank Hohn und Beleidigung auf ihren Namen
+    wirft. _Vorrede_, pp. vi. vii.]
+
+
+Erratum Noted by Transcriber
+
+  'stolen,' 'surreptitious,' and 'imperfect,'
+    ["surreptitious" missing open quote]
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+  MACMILLAN & CO.'S
+  LIST OF
+  NEW AND POPULAR WORKS.
+
+
+  SECOND EDITION.
+  RAVENSHOE.
+  By HENRY KINGSLEY, Author of 'Geoffry Hamlyn.'
+
+3 Vols. crown 8vo. cloth, £1 11s. 6d.
+
+'Admirable descriptions, which place "Ravenshoe" almost in the first
+rank of novels. Of the story itself it would really be difficult to
+speak too highly. The author stems to possess every essential for a
+writer of fiction.' --LONDON REVIEW.
+
+
+  SECOND EDITION.
+  RECOLLECTIONS OF GEOFFRY HAMLYN.
+  By HENRY KINGSLEY. Crown 8vo. cloth, 6s.
+
+'Mr. Henry Kingsley has written a work that keeps up its interest from
+the first page to the last--it is full of vigorous stirring life. The
+descriptions of Australian life in the early colonial days are marked by
+an unmistakable touch of reality and personal experience. A book which
+the public will be more inclined to read than to criticise, and we
+commend, them to each other.' --ATHENÆUM.
+
+
+  SECOND EDITION.
+  TOM BROWN AT OXFORD.
+  3 Vols. £1 11s. 6d.
+
+'A book that will live. In no other work that we can call to mind are
+the finer qualities of the English gentleman more happily portrayed.'
+--DAILY NEWS.
+
+'The extracts we have given can give no adequate expression to the
+literary vividness and noble ethical atmosphere which pervade the whole
+book.' --SPECTATOR.
+
+
+  TWENTY-EIGHTH THOUSAND.
+  TOM BROWN'S SCHOOL DAYS.
+  By AN OLD BOY. Fcp. 8vo. 5s.
+
+'A book which every father might well wish to see in the hands of his
+son.' --TIMES.
+
+
+  EIGHTH THOUSAND.
+  SCOURING OF THE WHITE HORSE.
+  By the Author of 'Tom's Brown's School Days.'
+
+With numerous Illustrations by Richard Doyle. Imperial 16mo. Printed on
+toned paper, gilt leaves, 8s. 6d.
+
+'The execution is excellent.... Like "Tom Brown's School Days," the
+"White Horse" gives the reader a feeling of gratitude and personal
+esteem towards the author. The author could not have a better style, nor
+a better temper, nor a more excellent artist than Mr. Doyle to adorn his
+book.' --SATURDAY REVIEW.
+
+       *       *       *       *       *
+           *       *       *       *
+
+WORKS BY THE REV. CHARLES KINGSLEY.
+
+Chaplain in Ordinary to the Queen, Rector of Eversley,
+and Professor of Modern History in the University of Cambridge.
+
+
+  HYPATIA.
+  NEW EDITION. Crown 8vo. cloth, 6s.
+
+
+  WESTWARD HO!
+  NEW AND CHEAPER EDITION. Crown 8vo. cloth, 6s.
+
+
+  TWO YEARS AGO.
+  NEW AND CHEAPER EDITION. Crown 8vo. cloth, 6s.
+
+
+  ALTON LOCKE, TAILOR AND POET.
+  NEW EDITION. Crown 8vo, cloth, 4s. 6d. With New Preface.
+
+[-->] This Edition is printed in crown 8vo. uniform with 'Westward Ho!'
+&c., and contains New Preface.
+
+
+  THE HEROES.
+  GREEK FAIRY TALES FOR THE YOUNG.
+
+SECOND EDITION, with Illustrations. Royal 16mo. cloth, 3s. 6d.
+
+
+  ALEXANDRIA AND HER SCHOOLS.
+  Crown 8vo. cloth, 5s.
+
+
+  THE LIMITS OF EXACT SCIENCE AS APPLIED TO HISTORY.
+  INAUGURAL LECTURE AT CAMBRIDGE. Crown 8vo. 2s.
+
+
+  PHAETHON:
+  LOOSE THOUGHTS FOR LOOSE THINKERS.
+
+THIRD EDITION. Crown 8vo. 2s.
+
+       *       *       *       *       *
+           *       *       *       *
+
+NEW AND CHEAPER EDITION (SIXTH THOUSAND).
+
+Handsomely printed on toned paper and bound in extra cloth. With
+Vignette and Frontispiece from Designs by the author. Engraved on Steel
+by C. H. Jeens. 4s. 6d.
+
+  THE LADY OF LA GARAYE.
+
+By the Hon. Mrs. NORTON. Dedicated to the Marquis of Lansdowne.
+
+'The poem is a pure, tender, touching tale of pain, sorrow, love, duty,
+piety, and death.' --EDINBURGH REVIEW.
+
+'A true poem, noble in subject and aim, natural in flow, worthy in
+expression, with the common soul of humanity throbbing in every page
+through wholesome words.' --EXAMINER.
+
+
+  GOBLIN MARKET AND OTHER POEMS.
+  By CHRISTINA G. ROSSETTI. With Two Illustrations from Designs by
+  D. G. Rossetti. Fcp. 8vo. cloth, 5s.
+
+
+  BEHIND THE VEIL AND OTHER POEMS.
+  By the Hon. RODEN NOEL. Fcp. 8vo. cloth.
+
+
+  LEAVES FROM OUR CYPRESS AND OUR OAK.
+  Handsomely printed on toned paper, gilt cloth.
+
+
+  SECOND EDITION.
+  EDWIN OF DEIRA.
+  By ALEXANDER SMITH. Fcp. 8vo. cloth, 5s.
+
+
+  BY THE SAME AUTHOR.
+  A LIFE DRAMA AND OTHER POEMS.
+  4th Edition, 2s. 6d.
+
+
+  CITY POEMS.
+  Price 5s.
+
+
+  BLANCHE LISLE AND OTHER POEMS.
+  By CECIL HOME. Fcp. 8vo. cloth, 4s. 6d.
+
+'The writer has music and meaning in his lines and stanzas, which, in
+the selection of diction and gracefulness of cadence, have seldom been
+excelled.' --LEADER.
+
+'Full of a true poet's imagination.' --JOHN BULL.
+
+       *       *       *       *       *
+           *       *       *       *
+
+THE POEMS OF ARTHUR HUGH CLOUGH,
+
+Sometime Fellow of Oriel College, Oxford.
+
+With a Memoir by F. T. PALGRAVE. Fcp. 8vo. cloth, 6s.
+
+'Few, if any, literary men of larger, deeper, and more massive mind have
+lived in this generation than the author of these few poems, and of this
+the volume before us bears ample evidence ... There is nothing in it
+that is not in some sense rich either in thought or beauty, or both.'
+--SPECTATOR.
+
+
+Uniform with 'WESTWARD HO!' 'GEOFFRY HAMLYN,' &c.
+
+  THE MOOR COTTAGE:
+  A TALE OF HOME LIFE.
+
+By MAY BEVERLEY, author of 'Little Estella, and other Fairy Tales for
+the Young.' Crown 8vo. cloth, price 6s.
+
+'This charming tale is told with such excellent art, that it reads like
+an episode from real life.' --ATLAS.
+
+'The whole plot of the story is conceived and executed in an admirable
+manner: a work which, when once taken up, it is difficult to put down.'
+--JOHN BULL.
+
+
+Uniform with 'WESTWARD HO!' 'GEOFFRY HAMLYN,' &c.
+
+  ARTIST AND CRAFTSMAN.
+  Crown 8vo. cloth, price 6s.
+
+'Its power is unquestionable, its felicity of expression great, its plot
+fresh, and its character very natural ... Wherever read, it will be
+enthusiastically admired and cherished.' --MORNING HERALD.
+
+
+Uniform with 'WESTWARD HO!' 'GEOFFRY HAMLYN,' &c.
+
+  A LADY IN HER OWN RIGHT.
+  By WESTLAND MARSTON. Crown 8vo. cloth, price 6s.
+
+'Since "The Mill on the Floss" was noticed, we have read no work of
+fiction which we can so heartily recommend to our readers as "A Lady in
+her Own Right:" the plot, incidents, and characters are all good: the
+style is simple and graceful: it abounds in thoughts judiciously
+introduced and well expressed, and throughout a kind, liberal, and
+gentle spirit.' --CHURCH OF ENGLAND MONTHLY REVIEW.
+
+
+  THE BROKEN TROTH:
+  A TALE OF TUSCAN LIFE FROM THE ITALIAN.
+
+By PHILIP IRETON. 2 vols. fcp. 8vo. cloth, 12s.
+
+'The style is so easy and natural ... The story is well told from
+beginning to end.' --PRESS.
+
+'A genuine Italian tale--a true picture of the Tuscan peasant
+population, with all their virtues, faults, weaknesses, follies, and
+even vices ... The best Italian tale that has been published since the
+appearance of the 'Promessi Sposi' of Manzoni ... The 'Broken Troth' is
+one of those that cannot be read but with pleasure.' --LONDON REVIEW.
+
+       *       *       *       *       *
+           *       *       *       *
+
+  THE GREAT STONE BOOK.
+  By D. T. ANSTED, M.A., F.R.S.,
+    late Fellow of Jesus College, Cambridge.
+  With Illustrations. Fcp. 8vo. cloth, 5s.
+
+
+  FOOTNOTES FROM THE PAGE OF NATURE:
+  OR, FIRST FORMS OF VEGETATION
+
+A popular work on Algæ, Fungi, Mosses, and Lichens.
+
+By the Rev. HUGH MACMILLAN, F.R.S.E. With numerous Illustrations and a
+Coloured Frontispiece. Fcp. 8vo. 5s.
+
+
+Reduced In Price To Five Shillings.
+
+  GLAUCUS; OR, WONDERS OF THE SEA SHORE.
+
+By CHARLES KINGSLEY, M.A. Rector of Eversley, and Chaplain in Ordinary
+to the Queen. Containing beautifully Coloured Illustrations of the
+Objects mentioned in the work. Royal 16mo. elegantly bound in cloth,
+gilt leaves, 5s.
+
+
+  STRAY NOTES ON FISHING AND NATURAL HISTORY.
+  By CORNWALL SIMEON. With Illustrations, 7s. 6d.
+
+
+  THE HUMAN HAND AND THE HUMAN FOOT.
+
+By G. M. HUMPHRY, M.D. F.R.S., Lecturer on Surgery and Anatomy in the
+University of Cambridge.
+
+With numerous Illustrations. Fcp. 8vo. cloth, 4s. 6d.
+
+       *       *       *       *       *
+           *       *       *       *
+
+  TYPICAL FORMS AND SPECIAL ENDS IN CREATION.
+
+By JAMES McCOSH, LL.D., and GEORGE DICKIE, M.D., Professor in the
+Queen's University, Ireland.
+
+SECOND EDITION. Crown 8vo. with Illustrations, 6s.
+
+
+  THE STORY OF A BOULDER;
+  OR, GLEANINGS BY A FIELD GEOLOGIST.
+
+By ARCHIBALD GEIKIE. Illustrated. Fcp. 8vo. cloth, 6s.
+
+'We do not know a more readable book on a scientific subject, and it
+will be invaluable to young people, as well as interesting to those who
+are already acquainted with the subject it treats of.' --CLERICAL
+JOURNAL.
+
+
+  LIFE AND CORRESPONDENCE OF M. DE TOCQUEVILLE.
+
+Translated from the French. By the Translator of 'Napoleon
+Correspondence with King Joseph.' With numerous additions. 2 vols. crown
+8vo. 21s.
+
+'The appearance of this work will be welcomed by every politician and
+every Englishman capable of appreciating exhaustive and solid thought.'
+--SPECTATOR.
+
+'Few men of the nineteenth century have attained a more remarkable
+influence.... Charming as specimens of style, they are of infinitely
+greater value as showing the inner life of a man who was as simple as a
+child, and yet as gifted as any of the many learned writers and scholars
+whom France has produced.' --BELL'S MESSENGER.
+
+
+  PICTURES OF OLD ENGLAND.
+
+By Dr. REINHOLD PAULI. Translated, with the author's revision, by E. C.
+OTTÉ. With a Map of London in the Thirteenth Century.
+
+Crown 8vo. extra cloth, 8s. 6d.
+
+CONTENTS:
+
+     I. Canterbury and the Worship of St. Thomas à Becket.
+    II. Monks and Mendicant Friars.
+   III. Parliament in the Fourteenth Century.
+    IV. England's Earliest Relations to Austria and Prussia.
+     V. The Emperor Louis IV. and King Edward III.
+    VI. The Hanseatic Steel Yard in London.
+   VII. Two Poets, Gower and Chaucer.
+  VIII. John Wiclif.
+
+'There are some books so admirable, that merely general criticism
+subsides into "_Read, it will satisfy you._" Dr. Pauli's work is of this
+kind.' --NONCONFORMIST.
+
+       *       *       *       *       *
+           *       *       *       *
+
+  GARIBALDI AT CAPRERA.
+  By COLONEL VECCHJ.
+    With Preface by Mrs. Gaskell, and a View of Caprera.
+
+Fcp. 8vo. cloth, 3s. Cd.
+
+'After all has been told, there was something wanting to the full and
+true impression of the Patriot's character and mode of life; as every
+one who reads this artless and enthusiastic narration will certainly
+admit. Mrs. GASKELL says she knows that "every particular" of this full
+and minute account may be relied upon; and it has an air of truth that
+commends it even when it is most extravagant in its admiration.'
+--NONCONFORMIST.
+
+
+  ROME IN 1860.
+  By EDWARD DICEY, author of 'Life of Cavour.' Crown 8vo. cloth, 6s. 6d.
+
+'So striking and apparently so faithful a portrait. It is the Rome of
+real life he has depicted.' --SPECTATOR.
+
+
+  THE ITALIAN WAR OF 1848-9,
+
+And the last Italian Poet. By the late HENRY LUSHINGTON, Chief Secretary
+to the Government of Malta. With a Biographical Preface by G. STOVIN
+VENABLES. Crown 8vo. cloth, 6s. 6d.
+
+'Perhaps the most difficult of all literary tasks--the task of giving
+historical unity, dignity, and interest to events so recent as to be
+still encumbered with all the details with which newspapers invest
+them--has never been more successfully discharged ... Mr. Lushington, in
+a very short compass, shows the true nature and sequence of the event,
+and gives to the whole story of the struggle and defeat of Italy a
+decree of unity and dramatic interest which not one newspaper reader in
+ten thousand ever supposed it to possess.' --SATURDAY REVIEW.
+
+
+  EARLY EGYPTIAN HISTORY.
+  FOR THE YOUNG,
+  WITH DESCRIPTIONS OF THE TOMBS AND MONUMENTS.
+
+By the Author of 'Sidney Grey,' &c. and her Sister.
+
+SECOND EDITION. With Frontispiece. Fcp. 8vo. cloth, 5s.
+
+'Full of information without being dull, and full of humour without
+being frivolous; stating in the most popular form the main results of
+modern research.... We have said enough to take our readers to the book
+itself, where they will learn more of Ancient Egypt than in any other
+popular work on the subject.' --LONDON REVIEW.
+
+
+SECOND EDITION.
+
+  GEORGE BRIMLEY'S ESSAYS.
+
+Edited by WILLIAM GEORGE CLARK. M.A. Public Orator in the University of
+Cambridge. With Portrait. Crown 8vo. cloth, 5s.
+
+CONTENTS:--I. Tennyson's Poems; II. Wordsworth's Poems; III. Poetry and
+Criticism; IV. Angel in the House; V. Carlyle's Life of Sterling;
+VI. Esmond; VII. My Novel; VIII. Bleak House; IX. Westward Ho!
+X. Wilson's Noctes; XI. Comte's Positive Philosophy.
+
+'One of the most delightful and precious volumes of criticism that has
+appeared in these days ... To every cultivated reader they will disclose
+the wonderful clearness of perception, the delicacy of feeling, the pure
+taste, and the remarkably firm and decisive judgment which are the
+characteristics of all Mr. Brimley's writings on subjects that really
+penetrated and fully possessed his nature.' --NONCONFORMIST.
+
+       *       *       *       *       *
+           *       *       *       *
+
+BOOKS FOR THE YOUNG.
+
+A SERIES OF WORKS (uniformly printed and bound) by Professor KINGSLEY,
+the Author of 'John Halifax. Gentleman,' Mrs. OLIPHANT, and other
+Popular Writers. Handsomely printed in royal 16mo. extra gilt cloth,
+gilt leaves, at 3s. 6d. each.
+
+  DAYS OF OLD:
+
+Stories from Old English History. By the Author of 'Ruth and Her
+Friends.'
+
+With Frontispiece.
+
+
+  THE HEROES:
+
+Greek Fairy Tales for the Young. By CHARLES KINGSLEY, M.A., Vicar of
+Eversley, and Chaplain in Ordinary to the Queen.
+
+SECOND EDITION. With Illustrations.
+
+
+  DAVID, KING OF ISRAEL:
+
+A History for the Young. By JOSIAH WRIGHT, Head Master of Sutton
+Coldfield Grammar School. With Illustrations.
+
+'An excellent book ... well conceived, and well worked out.'
+--LITERARY CHURCHMAN.
+
+
+  RUTH AND HER FRIENDS:
+
+A Story for Girls. THIRD EDITION. With Frontispiece.
+
+'A book which girls will read with avidity, and cannot fail to profit
+by.' --LITERARY CHURCHMAN.
+
+
+  OUR YEAR:
+
+A Child's Book in Prose and Rhyme. By the Author of 'John Halifax.' With
+numerous Illustrations by CLARENCE DOBELL.
+
+
+  LITTLE ESTELLA
+  And Other Fairy Tales.
+  By MAY BEVERLEY. With Frontispiece.
+
+
+  MY FIRST JOURNAL:
+  A Book for Children. By GEORGIANA M. CRAIK, author of 'Lost and Won'.
+  With Frontispiece.
+
+
+  AGNES HOPETOUN'S SCHOOLS AND HOLIDAYS.
+  By Mrs. OLIPHANT, Author of 'Margaret Maitland.' With Frontispiece.
+
+       *       *       *       *       *
+           *       *       *       *
+
+THE GOLDEN TREASURY SERIES.
+
+Uniformly printed in 18mo. with Vignette Titles by T. Woolner, W. Holman
+Hunt, &c. Handsomely bound in extra cloth, 4s. 6d.; morocco plain, 7s.
+6d.; morocco extra, 10s. Cd. each volume.
+
+
+  THE GOLDEN TREASURY
+
+Of the best Songs and lyrical Poems in the English language. Selected
+and arranged, with Notes, by F. T. Palgrave. Fifteenth Thousand, with a
+Vignette by T. Woolner.
+
+'There is no book in the English language which will make a more
+delightful companion than this ... which must not only be read, but
+possessed, in order to be adequately valued.' --SPECTATOR.
+
+
+  THE CHILDREN'S GARLAND.
+
+From the best Poets. Selected and arranged by Coventry Patmore. Fourth
+Thousand, with Vignette by T. Woolner.
+
+'Mr. Patmore deserves our gratitude for having searched through the wide
+field of English poetry for these flowers, which youth and age can
+equally enjoy, and woven them into "The Children's Garland."' --LONDON
+REVIEW.
+
+
+  THE PILGRIM'S PROGRESS.
+
+By JOHN BUNYAN. With Vignette by W. Holman Hunt. Large-paper copies,
+crown 8vo. cloth, 7s. 6d.; half morocco, 10s. 6d.
+
+'A prettier and better edition, and one more exactly suited for use as
+an elegant and inexpensive gift book, is not to be found.' --EXAMINER.
+
+
+  THE BOOK OF PRAISE.
+
+From the best English Hymn-writers. Selected and arranged by Roundell
+Palmer. Eighth Thousand, with Vignette by T. Woolner.
+
+'Comprehending nearly all that is excellent in the hymnology of the
+language. ... In the details of editorial labours the most exquisite
+finish is manifest.' --THE FREEMAN.
+
+
+  BACON'S ESSAYS AND COLOURS OF GOOD AND EVIL.
+
+With Notes and Glossarial Index, by W. Aldis Wright, M.A. Trinity
+College, Cambridge. And a Vignette of Woolner's Statue of Lord Bacon.
+Large-paper copies, crown 8vo. cloth, 7s. 6d.; half morocco, 10s. 6d.
+
+Edited in a manner worthy of their merit and fame, as an English classic
+ought to be edited.' --DAILY NEWS.
+
+       *       *       *       *       *
+           *       *       *       *
+
+WORKS BY DAVID MASSON, M.A.
+
+Professor of English Literature in University College, London.
+
+
+  LIFE OF JOHN MILTON.
+
+Narrated in connexion with the Political, Ecclesiastical, and Literary
+History of his time. Vol. 1. 8vo. with Portraits, 18s.
+
+'Mr. Masson's Life of Milton has many sterling merits ... his industry
+is immense: his zeal unflagging; his special knowledge of Milton's life
+and times extraordinary.... With a zeal and industry which we cannot
+sufficiently commend, he has not only availed himself of the
+biographical stores collected by his predecessors, but imparted to them
+an aspect of novelty by his skilful re-arrangement.' --EDINBURGH REVIEW.
+
+
+  BRITISH NOVELISTS AND THEIR STYLES;
+
+Being a critical sketch of the History of British Prose Fiction. Crown
+8vo. cloth, 7s. 6d.
+
+'A work eminently calculated to win popularity, both by the soundness of
+its doctrine and the skill of its art.' --THE PRESS.
+
+
+  ESSAYS, BIOGRAPHICAL AND CRITICAL.
+
+Chiefly on English Poets. By DAVID MASSON. 8vo. cloth, 12s. 6d.
+
+CONTENTS:
+
+     I. Shakespeare and Goethe.
+    II. Milton's Youth.
+   III. The Three Devils: Luther's, Milton's, and Goethe's.
+    IV. Dryden, and the Literature of the Restoration.
+     V. Dean Swift.
+    VI. Chatterton: A Story of the Year 1770.
+   VII. Wordsworth.
+  VIII. Scottish Influence on British Literature.
+    IX. Theories of Poetry.
+     X. Prose and Verse: De Quincey.
+
+'Mr. Masson has succeeded in producing a series of criticisms in
+relation to creative literature which are satisfactory as well as
+subtile--which are not only ingenious, but which possess the rarer
+recommendation of being usually just.' --THE TIMES.
+
+       *       *       *       *       *
+           *       *       *       *
+
+  RELIGIO CHEMICI.
+
+By GEORGE WILSON, M.D. late Regius Professor of Technology in the
+University of Edinburgh. Crown 8vo. cloth.
+
+With a Vignette Title Page by NOEL PATON, engraved by C. JEENS. Price
+8s. 6d.
+
+
+  COUNSELS OF AN INVALID:
+
+Letters on Religious Subjects. By GEORGE WILSON. M.D.
+
+With Vignette Portrait. Fcp. 8vo. cloth, 4s. 6d.
+
+
+  THE FIVE GATEWAYS OF KNOWLEDGE.
+
+A popular work on the Five Senses. By GEORGE WILSON, M.D. Eighth
+Thousand. In fcp. 8vo. cloth, with gilt leaves, 2s. 6d. People's Edition
+in ornamental stiff cover, 1s.
+
+
+  THE PROGRESS OF THE TELEGRAPH.
+
+By GEORGE WILSON, M.D. Fcp. 8vo. 1s.
+
+
+  MEMOIR OF GEORGE WILSON, M.D. F.R.S.E.
+
+Regius Professor of Technology in the University of Edinburgh. By his
+Sister, JESSIE AITKEN WILSON. With Portrait. 8vo. cloth, price 10s. 6d.
+
+'His life was so pregnant in meaning, so rich in noble deeds, so full of
+that spiritual vitality which serves to quicken life in others; it bore
+witness to so many principles which we can only fully understand when we
+see them in action: it presented so many real pictures of dauntless
+courage and of Christian heroism, that we welcome gratefully the attempt
+to reproduce it which has resulted in the volume before us. Miss Wilson
+has entered lovingly upon her task, and has accomplished it well.'
+--PRESS.
+
+
+  MEMOIR OF EDWARD FORBES, F.R.S.
+  Late Regius Professor of Natural History
+    in the University of Edinburgh.
+
+By GEORGE WILSON, M.D. F.R.S.E. and ARCHIBALD GEIKIE, F.R.S.E.
+
+F.G.S. of the Geological Survey of Great Britain. 8vo. cloth, with
+Portrait, 14s.
+
+'We welcome this volume as a graceful tribute to the memory of as
+gifted, tender, generous a soul as Science has ever reared, and
+prematurely lost.' --LITERARY GAZETTE.
+
+       *       *       *       *       *
+           *       *       *       *
+
+  MEMOIR OF THE
+  LIFE OF THE REV. ROBERT STORY,
+  Late Minister of Rosneath, Dumbartonshire.
+
+By ROBERT HERBERT STORY, Minister of Rosneath. Crown 8vo. cloth, with
+Portrait, 7s. 6d.
+
+*** This volume includes several important passages of Scottish
+Religious and Ecclesiastical History during the Second Quarter of the
+present Century. Among others, the ROW CONTROVERSY, the RISE of the
+IRVINGITE MOVEMENT, the EARLY HISTORY of the FREE CHURCH, &c. &c.
+
+
+  THE PRISON CHAPLAIN:
+  A Memoir of the Rev. John Clay,
+  Late Chaplain of Preston Gaol.
+
+With selections from his Correspondence and a Sketch of Prison
+Discipline in England. By his SON. With Portrait, 8vo. cloth, 15s.
+
+'It presents a vigorous account of the Penal system in England in past
+times, and in our own ... It exhibits in detail the career of one of our
+latest prison reformers; alleged, we believe with truth, to have been
+one of the most successful, and certainly in his judgments and opinions
+one of the most cautious and reasonable, as well as one of the most
+ardent.' --SATURDAY REVIEW.
+
+
+  MEMOIR OF GEORGE WAGNER,
+  Late Incumbent of St. Stephen's, Brighton.
+
+By JOHN NASSAU SIMPKINSON, M.A. Rector of Brington, Northampton.
+
+Third and cheaper Edition. Fcp. 8vo. 5s.
+
+'A more edifying biography we have rarely met with ... If any parish
+priest, discouraged by what he may consider an unpromising aspect of the
+time, should be losing heart ... we recommend him to procure this
+edifying memoir, to study it well, to set the example of the holy man
+who is the subject of it before him in all its length and breadth, and
+then he will appreciate what can be done even by one earnest man; and
+gathering fresh inspiration, he will chide himself for all previous
+discontent, and address himself with stronger purpose than ever to the
+lowly works and lofty aims of the ministry entrusted to his charge.'
+--LITERARY CHURCHMAN.
+
+
+  FAMILY PRAYERS.
+
+By the Rev. GEORGE BUTLER, M.A. Vice-Principal of Cheltenham College,
+and late Fellow of Exeter College, Oxford. Crown 8vo. cloth, 5s.
+
+       *       *       *       *       *
+           *       *       *       *
+
+  MACMILLAN & CO.'S CAMBRIDGE SCHOOL & COLLEGE CLASS-BOOKS.
+
+MACMILLAN & CO. have issued at intervals during the last ten years, this
+Series of CAMBRIDGE CLASS-BOOKS FOR THE USE OF SCHOOLS AND COLLEGES,
+which is intended to embrace all branches of Education, from the most
+elementary to the most advanced, and to keep pace with the latest
+discoveries in Science. A descriptive Catalogue, stating the object
+aimed at in each work, with their size and prices, will be forwarded on
+application. Of those hitherto published, the sale of many thousands is
+a sufficient indication of the manner in which they have been
+appreciated by the public.
+
+The following SERIES of a more ELEMENTARY CHARACTER is now in course of
+publication. All the Volumes in this Elementary Series will be
+handsomely printed in 18mo., and published at a low price to ensure an
+extensive sale in the Schools of the United Kingdom and the Colonies:--
+
+Euclid. For Colleges and Schools. By I. TODHUNTER, M.A., F.R.S., Fellow
+and Principal Mathematical Lecturer of St. John's College, Cambridge.
+3s. 6d.    [Now ready.
+
+An Elementary Latin Grammar. By H. J. ROBY, M.A., Under Master of
+Dulwich College Upper School, late Fellow and Classical Lecturer of St.
+John's College, Cambridge. 2s. 6d.    [Now ready.
+
+An Elementary History of the Book of Common Prayer. By FRANCIS PROCTOR,
+M.A., Vicar of Witton, Norfolk, late Fellow of St. Catharine's College,
+Cambridge. 2s. 6d.    [Now ready.
+
+Algebra for Beginners. By I. TODHUNTER, M.A., F.R.S.    [In the Press.
+
+The School Class-Book of Arithmetic. By BARNARD SMITH, M.A., late Fellow
+of St. Peter's College, Cambridge.    [In the Press.
+
+The Bible Word-Book. A Glossary of Old English Bible Words, with
+Illustrations. By J. EASTWOOD, M.A., St. John's College, Cambridge, and
+Incumbent of Hope-in-Hanley, Stafford, and W. ALDIS WRIGHT, M.A.,
+Trinity College, Cambridge,    [Preparing.
+
+*** _Other Volumes will be announced in due course._
+
+
+  WORKS BY I. TODHUNTER, M.A., F.R.S.,
+  Fellow and Principal Mathematical Lecturer of St. John's College,
+    Cambridge.
+
+A Treatise on Algebra. For the Use of Colleges and Schools. With
+numerous Examples. Third Edition, revised. Crown 8vo. cloth, 7s. 6d.
+
+An Elementary Treatise on the Theory of Equations, with a Collection of
+Examples. Crown 8vo. cloth, 7s. 6d.
+
+A Treatise on Plane Trigonometry. For the use of Colleges and Schools.
+With numerous Examples. Second edition, revised. Crown 8vo. cloth, 5s.
+
+A Treatise on Spherical Trigonometry. For the use of Colleges and
+Schools. With numerous Examples. Crown 8vo. cloth, 4s. 6d.
+
+       *       *       *       *       *
+           *       *       *       *
+
+A Treatise on Plane Co-ordinate Geometry, as applied to the Straight
+Line and the Conic Sections. With numerous Examples. Third and cheaper
+Edition. Crown 8vo. cloth, 7s. 6d.
+
+A Treatise on the Differential Calculus. With numerous Examples. Third
+Edition, revised. Crown 8vo. cloth, 10s. 6d.
+
+A Treatise on the Integral Calculus and its Applications. With numerous
+Examples. Second Edition, revised and enlarged. Crown 8vo. cloth,
+10s. 6d.
+
+A Treatise on Analytical Statics. With numerous Examples. Second
+Edition, revised and enlarged. Crown 8vo. cloth, 10s. 6d.
+
+Examples of Analytical Geometry of Three Dimensions. Crown 8vo.
+cloth, 4s.
+
+A History of the Progress of the Calculus of Variations during the
+Nineteenth Century. 8vo. cloth, 12s.
+
+Euclid for Colleges and Schools. 18mo. 3s. 6d.
+
+
+  WORKS BY BARNARD SMITH, M.A.,
+  Fellow of St. Peter's College, Cambridge.
+
+Arithmetic and Algebra, in their Principles and Application. With
+numerous Examples, systematically arranged. Eighth Edition, 696 pp.
+(1861). Crown 8vo. strongly bound in cloth, 10s. 6d.
+
+Arithmetic. For the use of Schools. New Edition (1862), 348 pp. Crown
+8vo. strongly bound in cloth, 4s. 6d. Answers to all the Questions.
+
+Key to the above, containing Solutions to all the Questions in the
+latest Edition. Crown 8vo. 392 pp. Second Edition (1860). 8s. 6d.
+
+Exercises in Arithmetic. 104 pp. Crown 8vo. (1860), 2s. Or with Answers,
+2s. 6d. Also sold separately in 2 Parts, price 1s. each. Answers, 6d.
+
+Plane and Spherical Trigonometry. With the Construction and Use of
+Tables of Logarithms. By J. C. SNOWBALL, M.A. Ninth Edition, 240 pp.
+(1856). Crown 8vo. 7s. 6d.
+
+Plane Trigonometry. With a numerous Collection of Examples. By R. D.
+BEASLEY, M.A. 106 pp. (1868). Crown 8vo. 3s. 6d.
+
+Elementary Treatise on Mechanics. With a Collection of Examples. By S.
+PARKINSON, B.D. Second Edition, 345 pp. (1860). Crown 8vo. 9s. 6d.
+
+A Treatise on Optics. By S. PARKINSON, B.D. 304 pp. (1859). Crown 8vo.
+10s. 6d.
+
+Elementary Hydrostatics. With numerous Examples and Solutions. By J. B.
+PHEAR, M.A. Second Edition. 156 pp. (1857). Crown 8vo. 5s. 6d.
+
+Dynamics of a Particle. With numerous Examples. By P. G. TAIT, M.A. and
+W. J. STEELE, M.A. 304 pp. (1856). Crown 8vo. 10s. 6d.
+
+       *       *       *       *       *
+           *       *       *       *
+
+Dynamics of a System of Rigid Bodies. With numerous Examples. By E. J.
+ROUTH, M.A. 336 pp. (1860). Crown 8vo. 10s. 6d.
+
+A Geometrical Treatise on Conic Sections. With Copious Examples from the
+Cambridge Senate-House Papers. By W. H. DREW, M.A. Second Edition. Crown
+8vo. cloth, 4s. 6d.
+
+Solutions of the Problems contained in Drew's Conic Sections. Crown 8vo.
+4s. 6d.
+
+An Elementary Treatise on Conic Sections and Algebraic Geometry. With a
+numerous Collection of Easy Examples progressively arranged, especially
+designed for the use of Schools and Beginners. By G. HALE PUCKLE, M.A.
+Second Edition, enlarged and improved. Crown 8vo. cloth, 7s. 6d.
+
+Elementary Treatise on Trilinear Co-ordinates. By N. M. FERRERS, M.A.
+154 pp. (1861). Crown 8vo. 6s. 6d.
+
+A Treatise on Solid Geometry. By P. FROST, M.A. and J. WOLSTENHOLME,
+M.A. 8vo. 18s.
+
+A Treatise on the Calculus of Finite Differences. By GEOEGE BOOLE,
+D.C.L. Crown 8vo. 10s. 6d.
+
+A Treatise on Differential Equations. By GEORGE BOOLE, D.C.L. Crown 8vo.
+cloth, 14s.
+
+On the Algebraical and Numerical Theory of Errors of Observations and
+the Combination of Observations. By the Astronomer Royal, G. B. AIRY,
+M.A. 103 pp. (1861). 6s. 6d.
+
+Elementary Treatise on the Planetary Theory. By C. H. CHEYNE, B.A.
+Scholar of St. John's College. Crown 8vo. cloth, 6s. 6d.
+
+A Treatise on Attractions, Laplace's Functions, and the Figure of the
+Earth. By J. H. PRATT, M.A. Second Edition. Crown 8vo. 126 pp. (1861).
+6s. 6d.
+
+Collection of Mathematical Problems and Examples. With Answers. By H. A.
+MORGAN, M.A. Pp. 190 (1858). Crown 8vo. 6s. 6d.
+
+Senate-House Mathematical Problems. With Solutions.
+
+  1848-51. By FERRERS and JACKSON. 8vo. 15s. 6d.
+  1848-51. (Riders.) By JAMESON. 8vo. 7s. 6d.
+  1854. By WALTON and MACKENZIE. 8vo. 10s. 6d.
+  1857. By CAMPION and WALTON. 8vo. 8s. 6d.
+  1860. By ROUTH and WATSON. Crown 8vo. 7s. 6d.
+
+Mythology for Latin Versification: a Brief Sketch of the Fables of the
+Ancients, prepared to be rendered into Latin Verse, for Schools. By
+F. C. HODGSON, B.D., late Provost of Eton College. New Edition, revised
+by F. C. HODGSON, M.A., Fellow of King's College, Cambridge. 18mo.
+cloth, 3s.
+
+Hellenica: a First Greek Reading-Book. Being a History of Greece, taken
+from Diodorus and Thucydides. By JOSIAH WRIGHT, M.A. Second Edition.
+Pp. 150 (1857). Fcp. 8vo. 3s. 6d.
+
+Demosthenes on the Crown. With English Notes. By B. DRAKE, M.A. Second
+Edition, to which is prefixed Æschines against Ctesiphon. With English
+Notes. (1860.) Fcp. 8vo. 5s.
+
+       *       *       *       *       *
+           *       *       *       *
+
+Juvenal. For Schools. With English Notes and an Index. By JOHN E. MAYOR,
+M.A. Pp. 464 (1853). Crown 8vo. 10s. 6d.
+
+Cicero's Second Philippic. With English Notes. By JOHN E. B. MAYOR.
+Pp. 168 (1861). 6s.
+
+Help to Latin Grammar; or, the Form and Use of Words in Latin. With
+Progressive Exercises. By JOSIAH WRIGHT, M.A. Pp. 176 (1855). Crown 8vo.
+4s. 6d.
+
+The Seven Kings of Rome. A First Latin Reading-Book. By JOSIAH WRIGHT,
+M.A. Second Edit. Pp. 138 (1857). Fcp. 8vo. 3s.
+
+Vocabulary and Exercises on 'The Seven Kings.' By JOSIAH WRIGHT, M.A.
+Pp. 04 (1857). Fcp. 8vo. 2s. 6d.
+
+First Latin Construing Book. By E. THRING, M.A. Pp. 104 (1855).
+Fcp. 8vo. 2s. 6d.
+
+Sallust.-- Catilina et Jugurtha. With English Notes. For Schools. By
+CHARLES MERIVALE, B.D. Second Edition. 172 pp. (1858). Fcp. 8vo. 4s. 6d.
+Catilina and Jugurtha may be had separately, price 2s. 6d. each.
+
+Æschyli Eumenides. The Greek Text with English Notes and an
+Introduction, containing an Analysis of Müller's Dissertations. By
+BERNARD DRAKE, M.A. 8vo. 7s. 6d.
+
+St. Paul's Epistle to the Romans. With Notes. By CHARLES JOHN VAUGHAN,
+D.D. Second Edition (1861). Crown 8vo. 5s.
+
+The Elements of Grammar taught in English. By E. THRING, M.A. Third
+Edition. 18mo. bound in cloth, 2s.
+
+The Child's English Grammar: being the Substance of the above. With
+Examples for Practice. Adapted for Junior Classes. By E. THRING, M.A.
+A New Edition. 18mo. limp cloth, 1s.
+
+
+WORKS IN PREPARATION.
+
+An Elementary Treatise on Natural Philosophy. By WILLIAM THOMSON, LL.D.,
+F.R.S., late Fellow of St. Peter's College, Cambridge, Professor of
+Natural Philosophy in the University of Glasgow; and PETER GUTHRIE TAIT,
+M.A., late Fellow of St. Peter's College, Cambridge, Professor of
+Natural Philosophy in the University of Edinburgh. With numerous
+Illustrations.    [In the press.
+
+An Elementary Treatise on Quaternions: with numerous Examples. By P. G.
+TAIT, M.A., Professor of Natural Philosophy in the University of
+Edinburgh.    [Preparing.
+
+The New Testament in the Original Greek. Text revised by B. F. WESTCOTT,
+M.A. and F. J. HORT, M.A., formerly Fellows of Trinity College.
+    [Preparing.
+
+  THE NARRATIVE OF ODYSSEUS.
+
+Homer's Odyssey. Books IX--XII. The Greek Text, with English Notes, for
+Schools and Colleges. By JOHN E. B. MAJOR, Fellow and Principal
+Classical Lecturer of St. John's College, Cambridge.
+    [In the press.
+
+
+SPOTTISWOODE AND CO., PRINTERS, NEW-STREET SQUARE, LONDON
+
+
+
+
+
+End of the Project Gutenberg EBook of The Works of William Shakespeare
+[Cambridge Edition] [9 vols.], by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK WORKS OF SHAKESPEARE ***
+
+***** This file should be named 23041-8.txt or 23041-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/3/0/4/23041/
+
+Produced by Louise Hope, Jonathan Ingram and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

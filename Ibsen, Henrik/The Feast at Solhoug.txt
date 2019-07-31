@@ -1,0 +1,4513 @@
+The Project Gutenberg eBook, The Feast at Solhoug, by Henrik Ibsen,
+Translated by William Archer and Mary Morrison
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: The Feast at Solhoug
+
+
+Author: Henrik Ibsen
+
+
+
+Release Date: May 21, 2006  [eBook #18428]
+
+Language: English
+
+Character set encoding: ISO-646-US (US-ASCII)
+
+
+***START OF THE PROJECT GUTENBERG EBOOK THE FEAST AT SOLHOUG***
+
+
+E-text prepared by Douglas Levy
+
+
+
+THE FEAST AT SOLHOUG.
+
+by
+
+HENRIK IBSEN
+
+From The Collected Works of Henrik Ibsen, Volume 1
+Revised and Edited by William Archer
+
+Translation by William Archer and Mary Morrison
+
+
+
+
+
+
+
+INTRODUCTION*
+
+
+Exactly a year after the production of _Lady Inger of Ostrat_--that
+is to say on the "Foundation Day" of the Bergen Theatre, January 2,
+1866--_The Feast at Solhoug_ was produced.  The poet himself has
+written its history in full in the Preface to the second edition.
+The only comment that need be made upon his rejoinder to his critics
+has been made, with perfect fairness as it seems to me, by George
+Brandes in the following passage:** "No one who is unacquainted with
+the Scandinavian languages can fully understand the charm that the
+style and melody of the old ballads exercise upon the Scandinavian
+mind.  The beautiful ballads and songs of _Des Knaben Wunderhorn_
+have perhaps had a similar power over German minds; but, as far as
+I am aware, no German poet has has ever succeeded in inventing a
+metre suitable for dramatic purposes, which yet retained the
+mediaeval ballad's sonorous swing and rich aroma.  The explanation
+of the powerful impression produced in its day by Henrik Hertz's
+_Svend Dyring's House_ is to be found in the fact that in it, for
+the first time, the problem was solved of how to fashion a metre
+akin to that of the heroic ballads, a metre possessing as great
+mobility as the verse of the _Niebelungenlied_, along with a
+dramatic value not inferior to that of the pentameter.  Henrik
+Ibsen, it is true, has justly pointed out that, as regards the
+mutual relations of the principal characters, _Svend Dyring's
+House_ owes more to Kleist's _Kathchen von Heubronn_ than _The
+Feast at Solhoug_ owes to _Svend Dyring's House_.  But the fact
+remains that the versified parts of the dialogue of both _The Feast
+at Solhoug_ and _Olaf Liliekrans_ are written in that imitation
+of the tone and style of the heroic ballad, of which Hertz was
+the happily-inspired originator.  There seems to me to be no
+depreciation whatever of Ibsen in the assertion of Hertz's right
+to rank as his model.  Even the greatest must have learnt from
+some one."
+
+But while the influence of Danish lyrical romanticism is apparent
+in the style of the play, the structure, as it seems to me, shows no
+less clearly that influence of the French plot-manipulators which
+we found so unmistakably at work in _Lady Inger_.  Despite its
+lyrical dialogue, _The Feast at Solhoug_ has that crispiness of
+dramatic action which marks the French plays of the period.  It may
+indeed be called Scribe's _Bataille de Dames_ writ tragic.  Here,
+as in the _Bataille de Dames_ (one of the earliest plays produced
+under Ibsen's supervision), we have the rivalry of an older and a
+younger woman for the love of a man who is proscribed on an unjust
+accusation, and pursued by the emissaries of the royal power.  One
+might even, though this would be forcing the point, find an analogy
+in the fact that the elder woman (in both plays a strong and
+determined character) has in Scribe's comedy a cowardly suitor,
+while in Ibsen's tragedy, or melodrama, she has a cowardly husband.
+In every other respect the plays are as dissimilar as possible; yet
+it seems to me far from unlikely that an unconscious reminiscence
+of the _Bataille de Dames_ may have contributed to the shaping of
+_The Feast at Solhoug_ in Ibsen's mind.  But more significant than
+any resemblance of theme is the similarity of Ibsen's whole method
+to that of the French school--the way, for instance, in which
+misunderstandings are kept up through a careful avoidance of the
+use of proper names, and the way in which a cup of poison, prepared
+for one person, comes into the hands of another person, is, as a
+matter of fact, drunk by no one but occasions the acutest agony to
+the would-be poisoner.  All this ingenious dovetailing of incidents
+and working-up of misunderstandings, Ibsen unquestionably learned
+from the French.  The French language, indeed, is the only one which
+has a word--_quiproquo_--to indicate the class of misunderstanding
+which, from _Lady Inger_ down to the _League of Youth_, Ibsen
+employed without scruple.
+
+Ibsen's first visit to the home of his future wife took place after
+the production of _The Feast at Solhoug_.  It seems doubtful whether
+this was actually his first meeting with her; but at any rate we
+can scarcely suppose that he knew her during the previous summer,
+when he was writing his play.  It is a curious coincidence, then,
+that he should have found in Susanna Thoresen and her sister Marie
+very much the same contrast of characters which had occupied him
+in his first dramatic effort, _Catilina_, and which had formed
+the main subject of the play he had just produced.  It is less
+wonderful that the same contrast should so often recur in his later
+works, even down to _John Gabriel Borkman_.  Ibsen was greatly
+attached to his gentle and retiring sister-in-law, who died
+unmarried in 1874.
+
+_The Feast at Solhoug_ has been translated by Miss Morison and
+myself, only because no one else could be found to undertake the
+task.  We have done our best; but neither of us lays claim to any
+great metrical skill, and the light movement of Ibsen's verse is
+often, if not always, rendered in a sadly halting fashion.  It is,
+however, impossible to exaggerate the irregularity of the verse
+in the original, or its defiance of strict metrical law.  The
+normal line is one of four accents: but when this is said, it is
+almost impossible to arrive at any further generalisation.  There
+is a certain lilting melody in many passages, and the whole play
+has not unfairly been said to possess the charm of a northern
+summer night, in which the glimmer of twilight gives place only
+to the gleam of morning.  But in the main (though much better than
+its successor, _Olaf Liliekrans_) it is the weakest thing that
+Ibsen admitted into the canon of his works.  He wrote it in 1870
+as "a study which I now disown"; and had he continued in that
+frame of mind, the world would scarcely have quarrelled with his
+judgment.  At worst, then, my collaborator and I cannot be accused
+of marring a masterpiece; but for which assurance we should probably
+have shrunk from the attempt.
+
+                                                   W. A.
+
+*Copyright, 1907, by Charles Scribner's Sons.
+**_Ibsen and Bjornson_.  London, Heinmann, 1899, p.88
+
+
+
+
+THE FEAST AT SOLHOUG (1856)
+
+
+
+THE AUTHOR'S PREFACE TO THE SECOND EDITION
+
+
+PREFACE
+
+
+I wrote _The Feast at Solhoug_ in Bergen in the summer of 1855--that
+is to say, about twenty-eight years ago.
+
+The play was acted for the first time on January 2, 1856, also at
+Bergen, as a gala performance on the anniversary of the foundation
+of the Norwegian Stage.
+
+As I was then stage-manager of the Bergen Theatre, it was I myself
+who conducted the rehearsals of my play.  It received an excellent,
+a remarkably sympathetic interpretation.  Acted with pleasure and
+enthusiasm, it was received in the same spirit.  The "Bergen
+emotionalism," which is said to have decided the result of the
+latest elections in those parts, ran high that evening in the
+crowded theatre.  The performance ended with repeated calls for
+the author and for the actors.  Later in the evening I was serenaded
+by the orchestra, accompanied by a great part of the audience.  I
+almost think that I went so far as to make some kind of speech
+from my window; certain I am that I felt extremely happy.
+
+A couple of months later, _The Feast of Solhoug_ was played in
+Christiania.  There also it was received by the public with much
+approbation, and the day after the first performance Bjornson wrote
+a friendly, youthfully ardent article on it in the _Morgenblad_.  It
+was not a notice or criticism proper, but rather a free, fanciful
+improvisation on the play and the performance.
+
+On this, however, followed the real criticism, written by the
+real critics.
+
+How did a man in the Christiania of those days--by which I mean
+the years between 1850 and 1860, or thereabouts--become a real
+literary, and in particular dramatic, critic?
+
+As a rule, the process was as follows: After some preparatory
+exercises in the columns of the _Samfundsblad_, and after the
+play, the future critic betook himself to Johan Dahl's bookshop
+and ordered from Copenhagen a copy of J. L. Heiberg's _Prose
+Works_, among which was to be found--so he had heard it said--an
+essay entitled _On the Vaudeville_.  This essay was in due course
+read, ruminated on, and possibly to a certain extent understood.
+From Heiberg's writings the young man, moreover, learned of a
+controversy which that author had carried on in his day with
+Professor Oehlenschlager and with the Soro poet, Hauch.  And he
+was simultaneously made aware that J. L. Baggesen (the author of
+_Letters from the Dead_) had at a still earlier period made a
+similar attack on the great author who wrote both _Axel and Valborg_
+and _Hakon Jarl_.
+
+A quantity of other information useful to a critic was to be
+extracted from these writings.  From them one learned, for instance,
+that taste obliged a good critic to be scandalised by a hiatus.
+Did the young critical Jeronimuses of Christiania encounter such
+a monstrosity in any new verse, they were as certain as their
+prototype in Holberg to shout their "Hoity-toity! the world will
+not last till Easter!"
+
+The origin of another peculiar characteristic of the criticism then
+prevalent in the Norwegian capital was long a puzzle to me.  Every
+time a new author published a book or had a little play acted, our
+critics were in the habit of flying into an ungovernable passion
+and behaving as if the publication of the book or the performance
+of the play were a mortal insult to themselves and the newspapers
+in which they wrote.  As already remarked, I puzzled long over this
+peculiarity.  At last I got to the bottom of the matter.  Whilst
+reading the Danish _Monthly Journal of Literature_ I was struck by
+the fact that old State-Councillor Molbech was invariably seized
+with a fit of rage when a young author published a book or had a
+play acted in Copenhagen.
+
+Thus, or in a manner closely resembling this, had the tribunal
+qualified itself, which now, in the daily press, summoned _The
+Feast at Solhoug_ to the bar of criticism in Christiania.  It was
+principally composed of young men who, as regards criticism, lived
+upon loans from various quarters.  Their critical thought had long
+ago been thought and expressed by others; their opinions had long
+ere now been formulated elsewhere.  Their aesthetic principles were
+borrowed; their critical method was borrowed; the polemical tactics
+they employed were borrowed in every particular, great and small.
+Their very frame of mind was borrowed.  Borrowing, borrowing, here,
+there, and everywhere!  The single original thing about them was
+that they invariably made a wrong and unseasonable application of
+their borrowings.
+
+It can surprise no one that this body, the members of which, as
+critics, supported themselves by borrowing, should have presupposed
+similar action on my part, as author.  Two, possibly more than
+two, of the newspapers promptly discovered that I had borrowed
+this, that, and the other thing form Henrik Hertz's play, _Svend
+Dyring's House_.
+
+This is a baseless and indefensible critical assertion.  It is
+evidently to be ascribed to the fact that the metre of the ancient
+ballads is employed in both plays.  But my tone is quite different
+from Hertz's; the language of my play has a different ring; a
+light summer breeze plays over the rhythm of my verse: over that
+or Hertz's brood the storms of autumn.
+
+Nor, as regards the characters, the action, and the contents of
+the plays generally, is there any other or any greater resemblance
+between them than that which is a natural consequence of the
+derivation of the subjects of both from the narrow circle of
+ideas in which the ancient ballads move.
+
+It might be maintained with quite as much, or even more, reason
+that Hertz in his _Svend Dyring's House_ had borrowed, and that
+to no inconsiderable extent, from Heinrich von Kleist's _Kathchen
+von Heilbronn_, a play written at the beginning of this century.
+Kathchen's relation to Count Wetterstrahl is in all essentials
+the same as Tagnhild's to the knight, Stig Hvide.  Like Ragnhild,
+Kathchen is compelled by a mysterious, inexplicable power to follow
+the man she loves wherever he goes, to steal secretly after him,
+to lay herself down to sleep near him, to come back to him, as by
+some innate compulsion, however often she may be driven away.  And
+other instances of supernatural interference are to be met with
+both in Kleist's and in Hertz's play.
+
+But does any one doubt that it would be possible, with a little
+good--or a little ill-will, to discover among still older dramatic
+literature a play from which it could be maintained that Kleist had
+borrowed here and there in his _Kathchen von Heilbronn_?  I, for
+my part, do not doubt it.  But such suggestions of indebtedness
+are futile.  What makes a work of art the spiritual property of
+its creator is the fact that he has imprinted on it the stamp of
+his own personality.  Therefore I hold that, in spite of the
+above-mentioned points of resemblance, _Svend Dyring's House_ is
+as incontestably and entirely an original work by Henrick Hertz as
+_Katchen von Heilbronn_ is an original work by Heinrich von Kleist.
+
+I advance the same claim on my own behalf as regards _The Feast at
+Solhoug_, and I trust that, for the future, each of the three
+namesakes* will be permitted to keep, in its entirety, what
+rightfully belongs to him.
+
+In writing _The Feast of Solhoug_ in connection with _Svend Dyring's
+House_, George Brandes expresses the opinion, not that the former
+play is founded upon any idea borrowed from the latter, but that it
+has been written under an influence exercised by the older author
+upon the younger.  Brandes invariably criticises my work in such a
+friendly spirit that I have all reason to be obliged to him for
+this suggestion, as for so much else.
+
+Nevertheless I must maintain that he, too, is in this instance
+mistaken.  I have never specially admired Henrik Hertz as a dramatist.
+Hence it is impossible for me to believe that he should, unknown to
+myself, have been able to exercise any influence on by dramatic
+production.
+
+As regards this point and the matter in general, I might confine
+myself to referring those interested to the writings of Dr. Valfrid
+Vasenius, lecturer on Aesthetics at the University of Helsingfors.
+In the thesis which gained him his degree of Doctor of Philosophy,
+_Henrik Ibsen's Dramatic Poetry in its First stage_ (1879), and
+also in _Henrik Ibsen: The Portrait of a Skald_ (Jos. Seligman &
+Co., Stockholm, 1882), Valsenious states and supports his views on
+the subject of the play at present in question, supplementing them
+in the latter work by what I told him, very briefly, when we were
+together at Munich three years ago.
+
+But, to prevent all misconception, I will now myself give a short
+account of the origin of _The Feast at Solhoug_.
+
+I began this Preface with the statement that _The Feast at Solhoug_
+was written in the summer 1855.
+
+In 1854 I had written _Lady Inger of Ostrat_.  This was a task
+which had obliged me to devote much attention to the literature
+and history of Norway during the Middle Ages, especially the latter
+part of that period.  I did my utmost to familiarise myself with
+the manners and customs, with the emotions, thought, and language
+of the men of those days.
+
+The period, however, is not one over which the student is tempted
+to linger, nor does it present much material suitable for dramatic
+treatment.
+
+Consequently I soon deserted it for the Saga period.  But the Sagas
+of the Kings, and in general the more strictly historical traditions
+of that far-off age, did not attract me greatly; at that time I was
+unable to put the quarrels between kings and chieftains, parties and
+clans, to any dramatic purpose.  This was to happen later.
+
+In the Icelandic "family" Sagas, on the other hand, I found in
+abundance what I required in the shape of human garb for the moods,
+conceptions, and thoughts which at that time occupied me, or were,
+at least, more or less distinctly present in my mind.  With these
+Old Norse contributions to the personal history of our Saga period
+I had had no previous acquaintance; I had hardly so much as heard
+them named.  But now N. M. Petersen's excellent translation--
+excellent, at least, as far as the style is concerned--fell into
+my hands.  In the pages of these family chronicles, with their
+variety of scenes and of relations between man and man, between
+woman and woman, in short, between human being and human being,
+there met me a personal, eventful, really living life; and as the
+result of my intercourse with all these distinctly individual men
+and women, there presented themselves to my mind's eye the first
+rough, indistinct outlines of _The Vikings at Helgeland_.
+
+How far the details of that drama then took shape, I am no longer
+able to say.  But I remember perfectly that the two figures of
+which I first caught sight were the two women who in course of
+time became Hiordis and Dagny.  There was to be a great banquet
+in the play, with passion-rousing, fateful quarrels during its
+course.  Of other characters and passions, and situations produced
+by these, I meant to include whatever seemed to me most typical
+of the life which the Sagas reveal.  In short, it was my intention
+to reproduce dramatically exactly what the Saga of the Volsungs
+gives in epic form.
+
+I made no complete, connected plan at that time; but it was evident
+to me that such a drama was to be my first undertaking.
+
+Various obstacles intervened.  Most of them were of a personal nature,
+and these were probably the most decisive; but it undoubtedly had
+its significance that I happened just at this time to make a careful
+study of Landstad's collection of Norwegian ballads, published two
+years previously.  My mood of the moment was more in harmony with
+the literary romanticism of the Middle Ages than with the deeds
+of the Sagas, with poetical than with prose composition, with the
+word-melody of the ballad than with the characterisation of the Saga.
+
+Thus it happened that the fermenting, formless design for the
+tragedy, _The Vikings at Helgeland_, transformed itself temporarily
+into the lyric drama, _The Feast at Solhoug_.
+
+The two female characters, the foster sisters Hiordis and Dagny,
+of the projected tragedy, became the sisters Margit and Signe of
+the completed lyric drama.  The derivation of the latter pair from
+the two women of the Saga at once becomes apparent when attention
+is drawn to it.  The relationship is unmistakable.  The tragic
+hero, so far only vaguely outlined, Sigurd, the far-travelled Viking,
+the welcome guest at the courts of kings, became the knight and
+minstrel, Gudmund Alfson, who has likewise been long absent in
+foreign lands, and has lived in the king's household.  His attitude
+towards the two sisters was changed, to bring it into accordance
+with the change in time and circumstances; but the position of
+both sisters to him remained practically the same as that in the
+projected and afterwards completed tragedy.  The fateful banquet,
+the presentation of which had seemed to me of the first importance
+in my original plan, became in the drama the scene upon which its
+personages made their appearance; it became the background against
+which the action stood out, and communicated to the picture as a
+whole the general tone at which I aimed.  The ending of the play
+was, undoubtedly, softened and subdued into harmony with its
+character as drama, not tragedy; but orthodox aestheticians may
+still, perhaps, find it indisputable whether, in this ending, a
+touch of pure tragedy has not been left behind, to testify to the
+origin of the drama.
+
+Upon this subject, however, I shall not enter at present.  My
+object has simply been to maintain and prove that the play under
+consideration, like all my other dramatic works, is an inevitable
+outcome of the tenor of my life at a certain period.  It had its
+origin within, and was not the result of any outward impression
+or influence.
+
+This, and no other, is the true account of the genesis of _The
+Feast at Solhoug_.
+
+Henrik Ibsen.
+Rome, April, 1883.
+
+
+*Heinrich von Kleist, Henrik Hertz, Henrik Ibsen.
+
+
+
+
+
+THE FEAST AT SOLHOUG
+
+
+
+CHARACTERS
+
+  BENGT GAUTESON, Master of Solhoug.
+  MARGIT, his wife.
+  SIGNE, her sister.
+  GUDMUND ALFSON, their kinsman.
+  KNUT GESLING, the King's sheriff.
+  ERIK OF HEGGE, his friend.
+  A HOUSE-CARL.
+  ANOTHER HOUSE-CARL.
+  THE KING'S ENVOY.
+  AN OLD MAN.
+  A MAIDEN.
+  GUESTS, both MEN and LADIES.
+  MEN of KNUT GESLING'S TRAIN.
+  SERVING-MEN and MAIDENS at SOLHOUG.
+
+
+    The action passes at Solhoug in the Fourteenth Century.
+
+
+  PRONUNCIATION OF NAMES:  Gudmund=Goodmund.  The g in "Margit"
+  and in "Gesling" is hard, as in "go," or in "Gesling," it may
+  be pronounced as y--"Yesling."  The first o in Solhoug ought
+  to have the sound of a very long "oo."
+
+Transcriber's notes:
+
+--Signe and Hegge have umlauts above the e's, the
+  ultimate e only in Hegge.
+--Passages that are in lyric form are not indented
+  and have the directorial comments to the right of
+  the character's name.
+
+
+
+
+THE FEAST AT SOLHOUG
+
+PLAY IN THREE ACTS
+
+
+
+ACT FIRST
+
+
+A stately room, with doors in the back and to both sides.  In front
+    on the right, a bay window with small round panes, set in lead,
+    and near the window a table, on which is a quantity of feminine
+    ornaments.  Along the left wall, a longer table with silver
+    goblets and drinking-horns.  The door in the back leads out
+    to a passage-way,* through which can be seen a spacious
+    fiord-landscape.
+
+BENGT GAUTESON, MARGIT, KNUT GESLING and ERIK OF HEGGE are seated
+    around the table on the left.  In the background are KNUT's
+    followers, some seated, some standing; one or two flagons of
+    ale are handed round among them.  Far off are heard church
+    bells, ringing to Mass.
+
+*This no doubt means a sort of arcaded veranda running along the
+outer wall of the house.
+
+
+
+ERIK.
+
+  [Rising at the table.]  In one word, now, what answer have you
+to make to my wooing on Knut Gesling's behalf?
+
+
+BENGT.
+
+  [Glancing uneasily towards his wife.]  Well, I--to me it seems--
+[As she remains silent.]  H'm, Margit, let us first hear your
+thought in the matter.
+
+
+MARGIT.
+
+  [Rising.]  Sir Knut Gesling, I have long known all that Erik of
+Hegge has told of you.  I know full well that you come of a lordly
+house; you are rich in gold and gear, and you stand in high favour
+with our royal master.
+
+
+BENGT.
+
+  [To KNUT.]  In high favour--so say I too.
+
+
+MARGIT.
+
+  And doubtless my sister could choose her no doughtier mate--
+
+
+BENGT.
+
+  None doughtier; that is what _I_ say too.
+
+
+MARGIT.
+
+  --If so be that you can win her to think kindly of you.
+
+
+BENGT.
+
+  [Anxiously, and half aside.]  Nay--nay, my dear wife--
+
+
+KNUT.
+
+  [Springing up.]  Stands it so, Dame Margit!  You think that your
+sister--
+
+
+BENGT.
+
+  [Seeking to calm him.]  Nay, nay, Knut Gesling!  Have patience,
+now.  You must understand us aright.
+
+
+MARGIT.
+
+  There is naught in my words to wound you.  My sister knows you
+only by the songs that are made about you--and these songs sound
+but ill in gentle ears.
+
+  No peaceful home is your father's house.
+    With your lawless, reckless crew,
+  Day out, day in, must you hold carouse--
+    God help her who mates with you.
+  God help the maiden you lure or buy
+    With gold and with forests green--
+  Soon will her sore heart long to lie
+    Still in the grave, I ween.
+
+
+ERIK.
+
+  Aye, aye--true enough--Knut Gesling lives not overpeaceably.  But
+there will soon come a change in that, when he gets him a wife in
+his hall.
+
+
+KNUT.
+
+  And this I would have you mark, Dame Margit: it may be a week
+since, I was at a feast at Hegge, at Erik's bidding, whom here
+you see.  I vowed a vow that Signe, your fair sister, should be
+my wife, and that before the year was out.  Never shall it be said
+of Knut Gesling that he brake any vow.  You can see, then, that
+you must e'en choose me for your sister's husband--be it with your
+will or against it.
+
+
+MARGIT.
+
+Ere that may be, I must tell you plain,
+You must rid yourself of your ravening train.
+You must scour no longer with yell and shout
+O'er the country-side in a galloping rout;
+You must still the shudder that spreads around
+When Knut Gesling is to a bride-ale bound.
+Courteous must your mien be when a-feasting you ride;
+Let your battle-axe hang at home at the chimney-side--
+It ever sits loose in your hand, well you know,
+When the mead has gone round and your brain is aglow.
+From no man his rightful gear shall you wrest,
+You shall harm no harmless maiden;
+You shall send no man the shameless hest
+That when his path crosses yours, he were best
+Come with his grave-clothes laden.
+And if you will so bear you till the year be past,
+You may win my sister for your bride at last.
+
+
+KNUT.
+
+  [With suppressed rage.]  You know how to order your words
+cunningly, Dame Margit.  Truly, you should have been a priest,
+and not your husbands wife.
+
+
+BENGT.
+
+  Oh, for that matter, I too could--
+
+
+KNUT.
+
+  [Paying no heed to him.]  But I would have you take note that
+had a sword-bearing man spoken to me in such wise--
+
+
+BENGT.
+
+  Nay, but listen, Knut Gesling--you must understand us!
+
+
+KNUT.
+
+  [As before.]  Well, briefly, he should have learnt that the axe
+sits loose in my hand, as you said but now.
+
+
+BENGT.
+
+  [Softly.]  There we have it!  Margit, Margit, this will never
+end well.
+
+
+MARGIT.
+
+  [To KNUT.]  You asked for a forthright answer, and that I have
+given you.
+
+
+KNUT.
+
+  Well, well; I will not reckon too closely with you, Dame Margit.
+You have more wit than all the rest of us together.  Here is my
+hand;--it may be there was somewhat of reason in the keen-edged
+words you spoke to me.
+
+
+MARGIT.
+
+  This I like well; now are you already on the right way to
+amendment.  Yet one word more--to-day we hold a feast at Solhoug.
+
+
+KNUT.
+
+  A feast?
+
+
+BENGT.
+
+  Yes, Knut Gesling: you must know that it is our wedding day;
+this day three years ago made me Dame Margit's husband.
+
+
+MARGIT.
+
+  [Impatiently, interrupting.]  As I said, we hold a feast to-day.
+When Mass is over, and your other business done, I would have you
+ride hither again, and join in the banquet.  Then you can learn
+to know my sister.
+
+
+KNUT.
+
+  So be it, Dame Margit; I thank you.  Yet 'twas not to go to Mass
+that I rode hither this morning.  Your kinsman, Gudmund Alfson,
+was the cause of my coming.
+
+
+MARGIT.
+
+  [Starts.]  He!  My kinsman?  Where would you seek him?
+
+
+KNUT.
+
+  His homestead lies behind the headland, on the other side of
+the fiord.
+
+
+MARGIT.
+
+  But he himself is far away.
+
+
+ERIK.
+
+  Be not so sure; he may be nearer than you think.
+
+
+KNUT.
+
+  [Whispers.]  Hold your peace!
+
+
+MARGIT.
+
+  Nearer?  What mean you?
+
+
+KNUT.
+
+  Have you not heard, then, that Gudmund Alfson has come back to
+Norway?  He came with the Chancellor Audun of Hegranes, who was
+sent to France to bring home our new Queen.
+
+
+MARGIT.
+
+  True enough, but in these very days the King holds his wedding-
+feast in full state at Bergen, and there is Gudmund Alfson a guest.
+
+
+BENGT.
+
+  And there could we too have been guests had my wife so willed it.
+
+
+ERIK.
+
+  [Aside to KNUT.]  Then Dame Margit knows not that--?
+
+
+KNUT.
+
+  [Aside.]  So it would seem; but keep your counsel.  [Aloud.]
+Well, well, Dame Margit, I must go my way none the less, and see
+what may betide.  At nightfall I will be here again.
+
+
+MARGIT.
+
+  And then you must show whether you have power to bridle your
+unruly spirit.
+
+
+BENGT.
+
+  Aye, mark you that.
+
+
+MARGIT.
+
+  You must lay no hand on your axe--hear you, Knut Gesling?
+
+
+BENGT.
+
+  Neither on your axe, nor on your knife, nor on any other
+weapon whatsoever.
+
+
+MARGIT.
+
+  For then can you never hope to be one of our kindred.
+
+
+BENGT.
+
+  Nay, that is our firm resolve.
+
+
+KNUT.
+
+  [To MARGIT.]  Have no fear.
+
+
+BENGT.
+
+  And what we have firmly resolved stands fast.
+
+
+KNUT.
+
+  That I like well, Sir Bengt Gauteson.  I, too, say the same; and
+I have pledged myself at the feast-board to wed your kinswoman.
+You may be sure that my pledge, too, will stand fast.--God's peace
+till to-night!
+
+     [He and ERIK, with their men, go out at the back.
+     [BENGT accompanies them to the door.  The sound of the bells
+       has in the meantime ceased.
+
+
+BENGT.
+
+  [Returning.]  Methought he seemed to threaten us as he departed.
+
+
+MARGIT.
+
+  [Absently.]  Aye, so it seemed.
+
+
+BENGT.
+
+  Knut Gesling is an ill man to fall out with.  And when I bethink
+me, we gave him over many hard words.  But come, let us not brood
+over that.  To-day we must be merry, Margit!--as I trow we have
+both good reason to be.
+
+
+MARGIT.
+
+  [With a weary smile.]  Aye, surely, surely.
+
+
+BENGT.
+
+  Tis true I was no mere stripling when I courted you.  But well
+I wot I was the richest man for many and many a mile.  You were a
+fair maiden, and nobly born; but your dowry would have tempted
+no wooer.
+
+
+MARGIT.
+
+  [To herself.]  Yet was I then so rich.
+
+
+BENGT.
+
+  What said you, my wife?
+
+
+MARGIT.
+
+  Oh, nothing, nothing.  [Crosses to the right.]  I will deck
+me with pearls and rings.  Is not to-night a time of rejoicing
+for me?
+
+
+BENGT.
+
+  I am fain to hear you say it.  Let me see that you deck you
+in your best attire, that our guests may say: Happy she who mated
+with Bengt Gauteson.--But now must I to the larder; there are
+many things to-day that must not be over-looked.
+
+     [He goes out to the left.
+
+
+MARGIT. [Sinks down on a chair by the table on the right.]
+
+'Twas well he departed.  While here he remains
+Meseems the blood freezes within my veins;
+Meseems that a crushing mighty and cold
+My heart in its clutches doth still enfold.
+     [With tears she cannot repress.
+
+He is my husband!  I am his wife!
+How long, how long lasts a woman's life?
+Sixty years, mayhap--God pity me
+Who am not yet full twenty-three!
+     [More calmly after a short silence.
+
+Hard, so long in a gilded cage to pine;
+Hard a hopeless prisoner's lot--and mine.
+     [Absently fingering the ornaments on the table, and beginning
+       to put them on.
+
+With rings, and with jewels, and all of my best
+By his order myself I am decking--
+But oh, if to-day were my burial-feast,
+'Twere little that I'd be recking.
+     [Breaking off.
+
+But if thus I brood I must needs despair;
+I know a song that can lighten care.
+     [She sings.
+
+The Hill-King to the sea did ride;
+   --Oh, sad are my days and dreary--
+To woo a maiden to be his bride.
+   --I am waiting for thee, I am weary.--
+
+The Hill-King rode to Sir Hakon's hold;
+   --Oh, sad are my days and dreary--
+Little Kirsten sat combing her locks of gold.
+   --I am waiting for thee, I am weary.--
+
+The Hill-King wedded the maiden fair;
+   --Oh, sad are my days and dreary--
+A silvern girdle she ever must wear.
+   --I am waiting for thee, I am weary.--
+
+The Hill-King wedded the lily-wand,
+   --Oh, sad are my days and dreary--
+With fifteen gold rings on either hand.
+   --I am waiting for thee, I am weary.--
+
+Three summers passed, and there passed full five;
+   --Oh, sad are my days and dreary--
+In the hill little Kirsten was buried alive.
+   --I am waiting for thee, I am weary.--
+
+Five summers passed, and there passed full nine;
+   --Oh, sad are my days and dreary--
+Little Kirsten ne'er saw the glad sunshine.
+   --I am waiting for thee, I am weary.--
+
+In the dale there are flowers and the birds' blithe song;
+   --Oh, sad are my days and dreary--
+In the hill there is gold and the night is long.
+   --I am waiting for thee, I am weary.--
+     [She rises and crosses the room.
+
+How oft in the gloaming would Gudmund sing
+This song in may father's hall.
+There was somewhat in it--some strange, sad thing
+That took my heart in thrall;
+Though I scarce understood, I could ne'er forget--
+And the words and the thoughts they haunt me yet.
+     [Stops horror-struck.
+
+Rings of red gold!  And a belt beside--!
+'Twas with gold the Hill-King wedded his bride!
+     [In despair; sinks down on a bench beside the table on
+       the left.
+
+Woe!  Woe!  I myself am the Hill-King's wife!
+And there cometh none to free me from the prison of my life.
+
+     [SIGNE, radiant with gladness, comes running in from
+       the back.
+
+SIGNE.
+
+  [Calling.]  Margit, Margit,--he is coming!
+
+
+MARGIT.
+
+  [Starting up.]  Coming?  Who is coming?
+
+
+SIGNE.
+
+  Gudmund, our kinsman!
+
+
+MARGIT.
+
+  Gudmund Alfson!  Here!  How can you think--?
+
+
+SIGNE.
+
+  Oh, I am sure of it.
+
+
+MARGIT.
+
+  [Crosses to the right.]  Gudmund Alfson is at the wedding-feast
+in the King's hall; you know that as well as I.
+
+
+SIGNE.
+
+  Maybe; but none the less I am sure it was he.
+
+
+MARGIT.
+
+  Have you seen him?
+
+
+SIGNE.
+
+  Oh, no, no; but I must tell you--
+
+
+MARGIT.
+
+  Yes, haste you--tell on!
+
+
+SIGNE.
+
+'Twas early morn, and the church bells rang,
+To Mass I was fain to ride;
+The birds in the willows twittered and sang,
+In the birch-groves far and wide.
+All earth was glad in the clear, sweet day;
+And from church it had well-nigh stayed me;
+For still, as I rode down the shady way,
+Each rosebud beguiled and delayed me.
+Silently into the church I stole;
+The priest at the altar was bending;
+He chanted and read, and with awe in their soul,
+The folk to God's word were attending.
+Then a voice rang out o'er the fiord so blue;
+And the carven angels, the whole church through,
+Turned round, methought, to listen thereto.
+
+
+MARGIT.
+
+O Signe, say on!  Tell me all, tell me all!
+
+
+SIGNE.
+
+'Twas as though a strange, irresistible call
+Summoned me forth from the worshipping flock,
+Over hill and dale, over mead and rock.
+'Mid the silver birches I listening trod,
+Moving as though in a dream;
+Behind me stood empty the house of God;
+Priest and people were lured by the magic 'twould seem,
+Of the tones that still through the air did stream.
+No sound they made; they were quiet as death;
+To hearken the song-birds held their breath,
+The lark dropped earthward, the cuckoo was still,
+As the voice re-echoed from hill to hill.
+
+
+MARGIT.
+
+Go on.
+
+
+SIGNE.
+
+They crossed themselves, women and men;
+     [Pressing her hands to her breast.
+
+But strange thoughts arose within me then;
+For the heavenly song familiar grew:
+Gudmund oft sang it to me and you--
+Ofttimes has Gudmund carolled it,
+And all he e'er sang in my heart is writ.
+
+
+MARGIT.
+
+And you think that it may be--?
+
+
+SIGNE.
+
+I know it is he!  I know it?  I know it!  You soon shall see!
+     [Laughing.
+
+From far-off lands, at the last, in the end,
+Each song-bird homeward his flight doth bend!
+I am so happy--though why I scarce know--!
+Margit, what say you?  I'll quickly go
+And take down his harp, that has hung so long
+In there on the wall that 'tis rusted quite;
+Its golden strings I will polish bright,
+And tune them to ring and to sing with his song.
+
+
+MARGIT. [Absently.]
+
+Do as you will--
+
+
+SIGNE. [Reproachfully.]
+
+         Nay, this in not right.
+     [Embracing her.
+
+But when Gudmund comes will your heart grow light--
+Light, as when I was a child, again.
+
+
+MARGIT.
+
+So much has changed--ah, so much!--since then--
+
+
+SIGNE.
+
+Margit, you shall be happy and gay!
+Have you not serving-maids many, and thralls?
+Costly robes hang in rows on your chamber walls;
+How rich you are, none can say.
+By day you can ride in the forest deep,
+Chasing the hart and the hind;
+By night in a lordly bower you can sleep,
+On pillows of silk reclined.
+
+
+MARGIT. [Looking toward the window.]
+
+And he comes to Solhoug!  He, as a guest!
+
+
+SIGNE.
+
+What say you?
+
+
+MARGIT. [Turning.]
+
+           Naught.--Deck you out in your best.
+That fortune which seemeth to you so bright
+May await yourself.
+
+
+SIGNE.
+
+                     Margit, say what you mean!
+
+
+MARGIT. [Stroking her hair.]
+
+I mean--nay, no more!  'Twill shortly be seen--;
+I mean--should a wooer ride hither to-night--?
+
+
+SIGNE.
+
+A wooer?  For whom?
+
+
+MARGIT.
+
+                    For you.
+
+
+SIGNE. [Laughing.]
+
+                             For me?
+That he'd ta'en the wrong road full soon he would see.
+
+
+MARGIT.
+
+What would you say if a valiant knight
+Begged for your hand?
+
+
+SIGNE.
+
+                    That my heart was too light
+To think upon suitors or choose a mate.
+
+
+MARGIT.
+
+But if he were mighty, and rich, and great?
+
+
+SIGNE.
+
+O, were he a king, did his palace hold
+Stores of rich garments and ruddy gold,
+'Twould ne'er set my heart desiring.
+With you I am rich enough here, meseeems,
+With summer and sun and the murmuring streams,
+And the birds in the branches quiring.
+Dear sister mine--here shall my dwelling be;
+And to give any wooer my hand in fee,
+For that I am too busy, and my heart too full of glee!
+
+     [SIGNE runs out to the left, singing.
+
+
+MARGIT.
+
+  [After a pause.]  Gudmund Alfson coming hither!  Hither--to
+Solhoug?  No, no, it cannot be.--Signe heard him singing, she
+said!  When I have heard the pine-trees moaning in the forest
+afar, when I have heard the waterfall thunder and the birds
+pipe their lure in the tree-tops, it has many a time seemed to
+me as though, through it all, the sound of Gudmund's songs came
+blended.  And yet he was far from here.--Signe has deceived
+herself.  Gudmund cannot be coming.
+
+     [BENGT enters hastily from the back.
+
+
+BENGT.
+
+  [Entering, calls loudly.]  An unlooked-for guest my wife!
+
+
+MARGIT.
+
+  What guest?
+
+
+BENGT.
+
+  Your kinsman, Gudmund Alfson!  [Calls through the doorway on the
+right.]  Let the best guest-room be prepared--and that forthwith!
+
+
+MARGIT.
+
+  Is he, then, already here?
+
+
+BENGT.
+
+  [Looking out through the passage-way.]  Nay, not yet; but he
+cannot be far off.  [Calls again to the right.]  The carved oak
+bed, with the dragon-heads!  [Advances to MARGIT.]  His shield-
+bearer brings a message of greeting from him; and he himself is
+close behind.
+
+
+MARGIT.
+
+  His shield-bearer!  Comes he hither with a shield-bearer!
+
+
+BENGT.
+
+  Aye, by my faith he does.  He has a shield-bearer and six armed
+men in his train.  What would you?  Gudmund Alfson is a far other
+man than he was when he set forth to seek his fortune.  But I must
+ride forth to seek him.  [Calls out.]  The gilded saddle on my horse!
+And forget not the bridle with the serpents' heads!  [Looks out to
+the back.]  Ha, there he is already at the gate!  Well, then, my
+staff--my silver-headed staff!  Such a lordly knight--Heaven save
+us!--we must receive him with honour, with all seemly honour!
+
+     [Goes hastily out to the back.
+
+
+MARGIT. [Brooding]
+
+Alone he departed, a penniless swain;
+With esquires and henchmen now comes he again.
+What would he?  Comes he, forsooth, to see
+My bitter and gnawing misery?
+Would he try how long, in my lot accurst,
+I can writhe and moan, ere my heart-strings burst--
+Thinks he that--?  Ah, let him only try!
+Full little joy shall he reap thereby.
+     [She beckons through the doorway on the right.  Three
+       handmaidens enter.
+
+List, little maids, what I say to you:
+Find me my silken mantle blue.
+Go with me into my bower anon:
+My richest of velvets and furs do on.
+Two of you shall deck me in scarlet and vair,
+The third shall wind pearl-strings into my hair.
+All my jewels and gauds bear away with ye!
+     [The handmaids go out to the left, taking the ornaments
+       with them.
+
+Since Margit the Hill-King's bride must be,
+Well! don we the queenly livery!
+
+     [She goes out to the left.
+     [BENGT ushers in GUDMUND ALFSON, through the pent-house
+       passage at the back.
+
+
+BENGT.
+
+  And now once more--welcome under Solhoug's roof, my wife's kinsman.
+
+
+GUDMUND.
+
+  I thank you.  And how goes it with her?  She thrives well in
+every way, I make no doubt?
+
+
+BENGT.
+
+  Aye, you may be sure she does.  There is nothing she lacks.  She
+has five handmaidens, no less, at her beck and call; a courser
+stands ready saddled in the stall when she lists to ride abroad.
+In one word, she has all that a noble lady can desire to make her
+happy in her lot.
+
+
+GUDMUND.
+
+  And Margit--is she then happy?
+
+
+BENGT.
+
+  God and all men would think that she must be; but, strange
+to say--
+
+
+GUDMUND.
+
+  What mean you?
+
+
+BENGT.
+
+  Well, believe it or not as you list, but it seems to me that
+Margit was merrier of heart in the days of her poverty, than since
+she became the lady of Solhoug.
+
+
+GUDMUND.
+
+  [To himself.]  I knew it; so it must be.
+
+
+BENGT.
+
+  What say you, kinsman?
+
+
+GUDMUND.
+
+  I say that I wonder greatly at what you tell me of your wife.
+
+
+BENGT.
+
+  Aye, you may be sure I wonder at it too.  On the faith and troth
+of an honest gentleman, 'tis beyond me to guess what more she can
+desire.  I am about her all day long; and no one can say of me
+that I rule her harshly.  All the cares of household and husbandry
+I have taken on myself; yet notwithstanding--  Well, well, you
+were ever a merry heart; I doubt not you will bring sunshine with
+you.  Hush! here comes Dame Margit!  Let her not see that I--
+
+     [MARGIT enters from the left, richly dressed.
+
+
+GUDMUND.
+
+  [Going to meet her.]  Margit--my dear Margit!
+
+
+MARGIT.
+
+  [Stops, and looks at him without recognition.]  Your pardon, Sir
+Knight; but--?  [As though she only now recognized him.]  Surely,
+if I mistake not, 'tis Gudmund Alfson.
+
+     [Holding out her hand to him.
+
+
+GUDMUND.
+
+  [Without taking it.]  And you did not at once know me again?
+
+
+BENGT.
+
+  [Laughing.]  Why, Margit, of what are you thinking?  I told you
+but a moment agone that your kinsman--
+
+
+MARGIT.
+
+  [Crossing to the table on the right.]  Twelve years is a long
+time, Gudmund.  The freshest plant may wither ten times over in
+that space.
+
+
+GUDMUND.
+
+  'Tis seven years since last we met.
+
+
+MARGIT.
+
+  Surely it must be more than that.
+
+
+GUDMUND.
+
+  [Looking at her.]  I could almost think so.  But 'tis as I say.
+
+
+MARGIT.
+
+  How strange!  I must have been but a child then; and it seems to
+me a whole eternity since I was a child.  [Throws herself down on
+a chair.]  Well, sit you down, my kinsman!  Rest you, for to-night
+you shall dance, and rejoice us with your singing.  [With a forced
+smile.]  Doubtless you know we are merry here to-day--we are
+holding a feast.
+
+
+GUDMUND.
+
+  'Twas told me as I entered your homestead.
+
+
+BENGT.
+
+  Aye, 'tis three years to-day since I became--
+
+
+MARGIT.
+
+  [Interrupting.]  My kinsman has already heard it.  [To GUDMUND.]
+Will you not lay aside your cloak?
+
+
+GUDMUND.
+
+  I thank you, Dame Margit; but it seems to me cold here--colder
+than I had foreseen.
+
+
+BENGT.
+
+  For my part, I am warm enough; but then I have a hundred things
+to do and to take order for.  [To MARGIT.]  Let not the time seem
+long to our guest while I am absent.  You can talk together of
+the old days.
+
+     [Going.
+
+
+MARGIT.
+
+  [Hesitating.]  Are you going?  Will you not rather--?
+
+
+BENGT.
+
+  [Laughing, to GUDMUND, as he comes forward again.]  See you well--
+Sir Bengt of Solhoug is the man to make the women fain of him.
+How short so e'er the space, my wife cannot abide to be without
+me.  [To MARGIT, caressing her.]  Content you; I shall soon be
+with you again.
+
+     [He goes out to the back.
+
+
+MARGIT.
+
+  [To herself.]  Oh, torture, to have to endure it all.
+
+     [A short silence.
+
+
+GUDMUND.
+
+How goes it, I pray, with your sister dear?
+
+
+MARGIT.
+
+Right well, I thank you.
+
+
+GUDMUND.
+
+                          They said she was here
+With you.
+
+
+MARGIT.
+
+          She has been here ever since we--
+     [Breaks off.
+
+She came, now three years since, to Solhoug with me.
+     [After a pause.
+
+Ere long she'll be here, her friend to greet.
+
+
+GUDMUND.
+
+Well I mind me of Signe's nature sweet.
+No guile she dreamed of, no evil knew.
+When I call to remembrance her eyes so blue
+I must think of the angels in heaven.
+But of years there have passed no fewer than seven;
+In that time much may have altered.  Oh, say
+If she, too, has changed so while I've been away?
+
+
+MARGIT.
+
+She too?  Is it, pray, in the halls of kings
+That you learn such courtly ways, Sir Knight?
+To remind me thus of the change time brings--
+
+
+GUDMUND.
+
+Nay, Margit, my meaning you read aright!
+You were kind to me, both, in those far-away years--
+Your eyes, when we parted were wet with tears.
+We swore like brother and sister still
+To hold together in good hap or ill.
+'Mid the other maids like a sun you shone,
+Far, far and wide was your beauty known.
+You are no less fair than you were, I wot;
+But Solhoug's mistress, I see, has forgot
+The penniless kinsman.  So hard is your mind
+That ever of old was gentle and kind.
+
+
+MARGIT. [Choking back her tears.]
+
+Aye, of old--!
+
+
+GUDMUND. [Looks compassionately at her, is silent for a little,
+then says in a subdued voice.
+
+              Shall we do as your husband said?
+Pass the time with talk of the dear old days?
+
+
+MARGIT. [Vehemently.]
+
+No, no, not of them!
+                     Their memory's dead.
+My mind unwillingly backward strays.
+Tell rather of what your life has been,
+Of what in the wide world you've done and seen.
+Adventures you've lacked not, well I ween--
+In all the warmth and the space out yonder,
+That heart and mind should be light, what wonder?
+
+
+GUDMUND.
+
+In the King's high hall I found not the joy
+That I knew by my own poor hearth as a boy.
+
+
+MARGIT. [Without looking at him.]
+
+While I, as at Solhoug each day flits past,
+Thank Heaven that here has my lot been cast.
+
+
+GUDMUND.
+
+'Tis well if for this you can thankful be--
+
+
+MARGIT. [Vehemently.]
+
+Why not?  For am I not honoured and free?
+Must not all folk here obey my hest?
+Rule I not all things as seemeth me best?
+Here I am first, with no second beside me;
+And that, as you know, from of old satisfied me.
+Did you think you would find me weary and sad?
+Nay, my mind is at peace and my heart is glad.
+You might, then, have spared your journey here
+To Solhoug; 'twill profit you little, I fear.
+
+
+GUDMUND.
+
+What, mean you, Dame Margit?
+
+
+MARGIT. [Rising.]
+
+          I understand all--
+I know why you come to my lonely hall.
+
+
+GUDMUND.
+
+And you welcome me not, though you know why I came?
+     [Bowing and about to go.
+
+God's peace and farewell, then, my noble dame!
+
+
+MARGIT.
+
+To have stayed in the royal hall, indeed,
+Sir Knight, had better become your fame.
+
+
+GUDMUND. [Stops.]
+
+In the royal hall?  Do you scoff at my need?
+
+
+MARGIT.
+
+Your need?  You are ill to content, my friend;
+Where, I would know, do you think to end?
+You can dress you in velvet and cramoisie,
+You stand by the throne, and have lands in fee--
+
+
+GUDMUND.
+
+Do you deem, then, that fortune is kind to me?
+You said but now that full well you knew
+What brought me to Solhoug--
+
+
+MARGIT.
+
+          I told you true!
+
+
+GUDMUND.
+
+Then you know what of late has befallen me;--
+You have heard the tale of my outlawry?
+
+
+MARGIT. [Terror-struck.]
+
+An outlaw!  You, Gudmund!
+
+
+GUDMUND.
+
+          I am indeed.
+But I swear, by the Holy Christ I swear,
+Had I known the thoughts of your heart, I ne'er
+Had bent me to Solhoug in my need.
+I thought that you still were gentle-hearted,
+As you ever were wont to be ere we parted:
+But I truckle not to you; the wood is wide,
+My hand and my bow shall fend for me there;
+I will drink of the mountain brook, and hide
+My head in the beast's lair.
+
+     [On the point of going.
+
+
+MARGIT. [Holding him back.]
+
+Outlawed!  Nay, stay!  I swear to you
+That naught of your outlawry I knew.
+
+
+GUDMUND.
+
+It is as I tell you.  My life's at stake;
+And to live are all men fain.
+Three nights like a dog 'neath the sky I've lain,
+My couch on the hillside forced to make,
+With for pillow the boulder grey.
+Though too proud to knock at the door of the stranger,
+And pray him for aid in the hour of danger,
+Yet strong was my hope as I held on my way:
+I thought: When to Solhoug you come at last
+Then all your pains will be done and past.
+You have sure friends there, whatever betide.--
+But hope like a wayside flower shrivels up;
+Though your husband met me with flagon and cup,
+And his doors flung open wide,
+Within, your dwelling seems chill and bare;
+Dark is the hall; my friends are not there.
+'Tis well; I will back to my hills from your halls.
+
+
+MARGIT. [Beseechingly.]
+
+Oh, hear me!
+
+
+GUDMUND.
+
+             My soul is not base as a thrall's.
+Now life to me seems a thing of nought;
+Truly I hold it scarce worth a thought.
+You have killed all that I hold most dear;
+Of my fairest hopes I follow the bier.
+Farewell, then, Dame Margit!
+
+
+MARGIT.
+
+          Nay, Gudmund, hear!
+By all that is holy--!
+
+
+GUDMUND.
+
+          Live on as before
+Live on in honour and joyance--
+Never shall Gudmund darken your door,
+Never shall cause you 'noyance.
+
+
+MARGIT.
+
+Enough, enough.  Your bitterness
+You presently shall rue.
+Had I known you outlawed, shelterless,
+Hunted the country through--
+Trust me, the day that brought you here
+Would have seemed the fairest of many a year;
+And a feast I had counted it indeed
+When you turned to Solhoug for refuge in need.
+
+
+GUDMUND.
+
+What say you--?  How shall I read your mind?
+
+
+MARGIT. [Holding out her hand to him.]
+
+Read this: that at Solhoug dwell kinsfolk kind.
+
+
+GUDMUND.
+
+But you said of late--?
+
+
+MARGIT.
+
+                       To that pay no heed,
+Or hear me, and understand indeed.
+For me is life but a long, black night,
+Nor sun, nor star for me shines bright.
+I have sold my youth and my liberty,
+And none from my bargain can set me free.
+My heart's content I have bartered for gold,
+With gilded chains I have fettered myself;
+Trust me, it is but comfort cold
+To the sorrowful soul, the pride of pelf.
+How blithe was my childhood--how free from care!
+Our house was lowly and scant our store;
+But treasures of hope in my breast I bore.
+
+
+GUDMUND. [Whose eyes have been fixed upon her.]
+
+E'en then you were growing to beauty rare.
+
+
+MARGIT.
+
+Mayhap; but the praises showered on me
+Caused the wreck of my happiness--that I now see.
+To far-off lands away you sailed;
+But deep in my heart was graven each song
+You had ever sung; and their glamour was strong;
+With a mist of dreams my brow they veiled.
+In them all the joys you had dwelt upon
+That can find a home in the beating breast;
+You had sung so oft of the lordly life
+'Mid knights and ladies.  And lo! anon
+Came wooers a many from east and from west;
+And so--I became Bengt Gauteson's wife.
+
+
+GUDMUND.
+
+Oh, Margit!
+
+
+MARGIT.
+
+            The days that passed were but few
+Ere with tears my folly I 'gan to rue.
+To think, my kinsman and friend, on thee
+Was all the comfort left to me.
+How empty now seemed Solhoug's hall,
+How hateful and drear its great rooms all!
+Hither came many a knight and dame,
+Came many a skald to sing my fame.
+But never a one who could fathom aright
+My spirit and all its yearning--
+I shivered, as though in the Hill-King's might;
+Yet my head throbbed, my blood was burning.
+
+
+GUDMUND.
+
+But your husband--?
+
+
+MARGIT.
+
+                    He never to me was dear.
+'Twas his gold was my undoing.
+When he spoke to me, aye, or e'en drew near,
+My spirit writhed with ruing.
+     [Clasping her hands.
+
+And thus have I lived for three long years--
+A life of sorrow, of unstanched tears!
+Your coming was rumoured.  You know full well
+What pride deep down in my heart doth dwell.
+I hid my anguish, I veiled my woe,
+For you were the last that the truth must know.
+
+
+GUDMUND. [Moved.]
+
+'Twas therefore, then, that you turned away--
+
+
+MARGIT. [Not looking at him.]
+
+I thought you came at my woe to jeer.
+
+
+GUDMUND.
+
+Margit, how could you think--?
+
+
+MARGIT.
+
+                               Nay, nay,
+There was reason enough for such a fear.
+But thanks be to Heaven that fear is gone;
+And now no longer I stand alone;
+My spirit now is as light and free
+As a child's at play 'neath the greenwood tree.
+     [With a sudden start of fear.
+
+Ah, where are my wits fled!  How could I forget--?
+Ye saints, I need sorely your succor yet!
+An outlaw, you said--?
+
+
+GUDMUND. [Smiling.]
+
+                      Nay, now I'm at home;
+Hither the King's men scarce dare come.
+
+
+MARGIT.
+
+Your fall has been sudden.  I pray you, tell
+How you lost the King's favour.
+
+
+GUDMUND.
+
+                         'Twas thus it befell.
+You know how I journeyed to France of late,
+When the Chancellor, Audun of Hegranes,
+Fared thither from Bergen, in royal state,
+To lead home the King's bride, the fair Princess,
+With her squires, and maidens, and ducats bright.
+Sir Audun's a fair and stately knight,
+The Princess shone with a beauty rare--
+Her eyes seemed full of a burning prayer.
+They would oft talk alone and in whispers, the two--
+Of what?  That nobody guessed or knew.
+There came a night when I leant at ease
+Against the galley's railing;
+My thought flew onward to Norway's leas,
+With the milk-white seagulls sailing.
+Two voices whispered behind my back;--
+I turned--it was he and she;
+I knew them well, though the night was black,
+But they--they saw not me.
+She gazed upon him with sorrowful eyes
+And whispered: "Ah, if to southern skies
+We could turn the vessel's prow,
+And we were alone in the bark, we twain,
+My heart, methinks, would find peace again,
+Nor would fever burn my brow."
+Sir Audun answers; and straight she replies,
+In words so fierce, so bold;
+Like glittering stars I can see her eyes;
+She begged him--
+     [Breaking off.
+
+                    My blood ran cold.
+
+
+MARGIT.
+
+She begged--?
+
+
+GUDMUND.
+
+I arose, and they vanished apace;
+All was silent, fore and aft:--
+     [Producing a small phial.
+
+But this I found by their resting place.
+
+
+MARGIT.
+
+And that--?
+
+
+GUDMUND. [Lowering his voice.]
+
+             Holds a secret draught.
+A drop of this in your enemy's cup
+And his life will sicken and wither up.
+No leechcraft helps 'gainst the deadly thing.
+
+
+MARGIT.
+
+And that--?
+
+
+GUDMUND.
+
+        That draught was meant for the King.
+
+
+MARGIT.
+
+Great God!
+
+
+GUDMUND. [Putting up the phial again.]
+
+         That I found it was well for them all.
+In three days more was our voyage ended;
+Then I fled, by my faithful men attended.
+For I knew right well, in the royal hall,
+That Audun subtly would work my fall,--
+Accusing me--
+
+
+MARGIT.
+
+              Aye, but at Solhoug he
+Cannot harm you.  All as of old will be.
+
+
+GUDMUND.
+
+All?  Nay, Margit--you then were free.
+
+
+MARGIT.
+
+You mean--?
+
+
+GUDMUND.
+
+       I?  Nay, I meant naught.  My brain
+Is wildered; but ah, I am blithe and fain
+To be, as of old, with you sisters twain.
+But tell me,--Signe--?
+
+
+MARGIT. [Points smiling towards the door on the left.]
+
+                       She comes anon.
+To greet her kinsman she needs must don
+Her trinkets--a task that takes time, 'tis plain.
+
+
+GUDMUND.
+
+I must see--I must see if she knows me again.
+
+     [He goes out to the left.
+
+
+MARGIT.
+
+  [Following him with her eyes.]  How fair and manlike he is!  [With
+a sigh.]  There is little likeness 'twixt him and--  [Begins putting
+things in order on the table, but presently stops.]  "You then were
+free," he said.  Yes, then!  [A short pause.]  'Twas a strange tale,
+that of the Princess who--  She held another dear, and then--  Aye,
+those women of far-off lands--  I have heard it before--they are
+not weak as we are; they do not fear to pass from thought to deed.
+[Takes up a goblet which stands on the table.]  'Twas in this
+beaker that Gudmund and I, when he went away, drank to his happy
+return.  'Tis well-nigh the only heirloom I brought with me to
+Solhoug.  [Putting the goblet away in a cupboard.]  How soft is
+this summer day; and how light it is in here!  So sweetly has the
+sun not shone for three long years.
+
+     [SIGNE, and after her GUDMUND, enters from the left.
+
+
+SIGNE. [Runs laughing up to MARGIT.]
+
+Ha, ha, ha!  He will not believe that 'tis I!
+
+
+MARGIT. [Smiling to GUDMUND.]
+
+You see: while in far-off lands you strayed,
+She, too, has altered, the little maid.
+
+
+GUDMUND.
+
+Aye truly!  But that she should be--  Why,
+'Tis a marvel in very deed.
+     [Takes both SIGNE's hands and looks at her.
+
+Yet, when I look in these eyes so blue,
+The innocent child-mind I still can read--
+Yes, Signe, I know that 'tis you!
+I needs must laugh when I think how oft
+I have thought of you perched on my shoulder aloft
+As you used to ride.  You were then a child;
+Now you are a nixie, spell-weaving, wild.
+
+
+SIGNE. [Threatening with her finger.]
+
+Beware!  If the nixie's ire you awaken,
+Soon in her nets you will find yourself taken.
+
+
+GUDMUND. [To himself.]
+
+I am snared already, it seems to me.
+
+
+SIGNE.
+
+But, Gudmund, wait--you have still to see
+How I've shielded your harp from the dust and the rust.
+      [As she goes out to the left.
+
+You shall teach me all of your songs!  You must!
+
+
+GUDMUND. [Softly, as he follows her with his eyes.]
+
+She has flushed to the loveliest rose of May,
+That was yet but a bud in the morning's ray.
+
+
+SIGNE. [Returning with the harp.]
+
+Behold!
+
+
+GUDMUND. [Taking it.]
+
+         My harp!  As bright as of yore!
+     [Striking one or two chords.
+
+Still the old chords ring sweet and clear--
+On the wall, untouched, thou shalt hang no more.
+
+
+MARGIT. [Looking out at the back.]
+
+Our guests are coming.
+
+
+SIGNE. [While GUDMUND preludes his song.]
+
+              Hush--hush!  Oh, hear!
+
+
+GUDMUND. [Sings.]
+
+I roamed through the uplands so heavy of cheer;
+The little birds quavered in bush and in brere;
+The little birds quavered, around and above:
+Wouldst know of the sowing and growing of love?
+
+It grows like the oak tree through slow-rolling years;
+'Tis nourished by dreams, and by songs, and by tears;
+But swiftly 'tis sown; ere a moment speeds by,
+Deep, deep in the heart love is rooted for aye.
+
+     [As he strikes the concluding chords, he goes towards the
+       back where he lays down his harp.
+
+
+SIGNE. [Thoughtfully, repeats to herself.]
+
+But swiftly 'tis sown; ere a moment speeds by,
+Deep, deep in the heart love is rooted for aye.
+
+
+MARGIT.
+
+  [Absently.]  Did you speak to me?--I heard not clearly--?
+
+
+SIGNE.
+
+  I?  No, no.  I only meant--
+
+     [She again becomes absorbed in dreams.
+
+
+MARGIT. [Half aloud; looking straight before her.]
+
+It grows like the oak tree through slow-rolling years;
+'Tis nourished by dreams, and by songs and by tears.
+
+
+SIGNE.
+
+  [Returning to herself.]  You said that--?
+
+
+MARGIT.
+
+  [Drawing her hand over her brow.]  Nay, 'twas nothing.  Come, we
+must go meet our guests.
+
+     [BENGT enters with many GUESTS, both men and women,
+       through the passageway.
+
+
+GUESTS.
+
+    With song and harping enter we
+        The feast-hall opened wide;
+    Peace to our hostess kind and free,
+        All happiness to her betide.
+    O'er Solhoug's roof for ever may
+        Bright as to-day
+        The heavens abide.
+
+
+
+
+ACT SECOND
+
+
+A birch grove adjoining the house, one corner of which is seen to
+     the left.  At the back, a footpath leads up the hillside.  To
+     the right of the footpath a river comes tumbling down a ravine
+     and loses itself among boulders and stones.  It is a light
+     summer evening.  The door leading to the house stands open;
+     the windows are lighted up.  Music is heard from within.
+
+
+
+THE GUESTS. [Singing in the Feast Hall.]
+
+Set bow to fiddle!  To sound of strings
+We'll dance till night shall furl her wings,
+  Through the long hours glad and golden!
+Like blood-red blossom the maiden glows--
+Come, bold young wooer and hold the rose
+  In a soft embrace enfolden.
+
+     [KNUT GESLING and ERIK OF HEGGE enter from the house.  Sounds
+       of music, dancing and merriment are heard from
+       within during what follows.
+
+
+ERIK.
+
+  If only you come not to repent it, Knut.
+
+
+KNUT.
+
+  That is my affair.
+
+
+ERIK.
+
+  Well, say what you will, 'tis a daring move.  You are the King's
+Sheriff.  Commands go forth to you that you shall seize the person
+of Gudmund Alfson, wherever you may find him.  And now, when you
+have him in your grasp, you proffer him your friendship, and let
+him go freely, whithersoever he will.
+
+
+KNUT.
+
+  I know what I am doing.  I sought him in his own dwelling, but
+there he was not to be found.  If, now, I went about to seize him
+here--think you that Dame Margit would be minded to give me Signe
+to wife?
+
+
+ERIK.
+
+  [With deliberation.]  No, by fair means it might scarcely be, but--
+
+
+KNUT.
+
+  And by foul means I am loth to proceed.  Moreover, Gudmund is
+my friend from bygone days; and he can be helpful to me.  [With
+decision.]  Therefore it shall be as I have said.  This evening
+no one at Solhoug shall know that Gudmund Alfson is an outlaw;--
+to-morrow he must look to himself.
+
+
+ERIK.
+
+  Aye, but the King's decree?
+
+
+KNUT.
+
+  Oh, the King's decree!  You know as well as I that the King's
+decree is but little heeded here in the uplands.  Were the King's
+decree to be enforced, many a stout fellow among us would have
+to pay dear both for bride-rape and for man-slaying.  Come this
+way, I would fain know where Signe--?
+
+     [They go out to the right.
+     [GUDMUND and SIGNE come down the footpath at the back.
+
+
+SIGNE.
+
+Oh, speak!  Say on!  For sweeter far
+Such words than sweetest music are.
+
+
+GUDMUND.
+
+Signe, my flower, my lily fair!
+
+
+SIGNE. [In subdued, but happy wonderment.]
+
+I am dear to him--I!
+
+
+Gudmund.
+
+                    As none other I swear.
+
+SIGNE.
+
+And is it I that can bind your will!
+And is it I that your heart can fill!
+Oh, dare I believe you?
+
+
+GUDMUND.
+
+                       Indeed you may.
+List to me, Signe!  The years sped away,
+But faithful was I in my thoughts to you,
+My fairest flowers, ye sisters two.
+My own heart I could not clearly read.
+When I left, my Signe was but a child,
+A fairy elf, like the creatures wild
+Who play, while we sleep, in wood and mead.
+But in Solhoug's hall to-day, right loud
+My heart spake, and right clearly;
+It told me that Margit's a lady proud,
+Whilst you're the sweet maiden I love most dearly.
+
+
+SIGNE. [Who has only half listened to his words.]
+
+I mind me, we sat in the hearth's red glow,
+One winter evening--'tis long ago--
+And you sang to me of the maiden fair
+Whom the neckan had lured to his watery lair.
+There she forgot both father and mother,
+There she forgot both sister and brother;
+Heaven and earth and her Christian speech,
+And her God, she forgot them all and each.
+But close by the strand a stripling stood
+And he was heartsore and heavy of mood.
+He struck from his harpstrings notes of woe,
+That wide o'er the waters rang loud, rang low.
+The spell-bound maid in the tarn so deep,
+His strains awoke from her heavy sleep,
+The neckan must grant her release from his rule,
+She rose through the lilies afloat on the pool--
+Then looked she to heaven while on green earth she trod,
+And wakened once more to her faith and her God.
+
+
+GUDMUND.
+
+Signe, my fairest of flowers!
+
+
+SIGNE.
+
+                              It seems
+That I, too, have lived in a world of dreams.
+But the strange deep words you to-night have spoken,
+Of the power of love, have my slumber broken.
+The heavens seemed never so blue to me,
+Never the world so fair;
+I can understand, as I roam with thee,
+The song of the birds in air.
+
+
+GUDMUND.
+
+So mighty is love--it stirs in the breast
+Thought and longings and happy unrest.
+But come, let us both to your sister go.
+
+
+SIGNE.
+
+Would you tell her--?
+
+
+GUDMUND.
+
+                   Everything she must know.
+
+
+SIGNE.
+
+Then go you alone;--I feel that my cheek
+Would be hot with blushes to hear you speak.
+
+
+GUDMUND.
+
+So be it, I go.
+
+
+SIGNE.
+
+              And here will I bide;
+     [Listening towards the right.
+
+Or better--down by the riverside,
+I hear Knut Gesling, with maidens and men.
+
+
+GUDMUND.
+
+There will you stay?
+
+
+SIGNE.
+
+                    Till you come again
+
+     [She goes out to the right.  GUDMUND goes into the house.
+     [MARGIT enters from behind the house on the left.
+
+
+MARGIT.
+
+In the hall there is gladness and revelry;
+The dancers foot it with jest and glee.
+The air weighed hot on my brow and breast;
+For Gudmund, he was not there.
+     [She draws a deep breath.
+
+Out here 'tis better: here's quiet and rest.
+How sweet is the cool night air!
+     [A brooding silence.
+
+The horrible thought!  Oh, why should it be
+That wherever I go it follows me?
+The phial--doth a secret contain;
+A drop of this in my--enemy's cup,
+And his life would sicken and wither up;
+The leech's skill would be tried in vain.
+     [Again a silence.
+
+Were I sure that Gudmund--held me dear--
+Then little I'd care for--
+
+     [GUDMUND enters from the house.
+
+
+GUDMUND.
+
+                          You, Margit, here?
+And alone?  I have sought you everywhere.
+
+
+MARGIT.
+
+'Tis cool here.  I sickened of heat and glare.
+See you how yonder the white mists glide
+Softly over the marshes wide?
+Here it is neither dark nor light,
+But midway between them--
+     [To herself.
+
+                       --as in my breast.
+     [Looking at him.
+
+Is't not so--when you wander on such a night
+You hear, though but half to yourself confessed,
+A stirring of secret life through the hush,
+In tree and in leaf, in flower and in rush?
+     [With a sudden change of tone.
+
+Can you guess what I wish?
+
+
+GUDMUND.
+
+                              Well?
+
+
+MARGIT.
+
+                                That I could be
+The nixie that haunts yonder upland lea.
+How cunningly I should weave my spell!
+Trust me--!
+
+
+GUDMUND.
+
+           Margit, what ails you?  Tell!
+
+
+MARGIT. [Paying no heed to him.]
+
+How I should quaver my magic lay!
+Quaver and croon it both night and day!
+     [With growing vehemence.
+
+How I would lure the knight so bold
+Through the greenwood glades to my mountain hold.
+There were the world and its woes forgot
+In the burning joys of our blissful lot.
+
+
+GUDMUND.
+
+Margit!  Margit!
+
+
+MARGIT. [Ever more wildly.]
+
+            At midnight's hour
+Sweet were our sleep in my lonely bower;--
+And if death should come with the dawn, I trow
+'Twere sweet to die so;--what thinkest thou?
+
+
+GUDMUND.
+
+You are sick!
+
+
+MARGIT. [Bursting into laughter.]
+
+      Ha, ha!--Let me laugh!  'Tis good
+To laugh when the heart is in laughing mood!
+
+
+GUDMUND.
+
+I see that you still have the same wild soul
+As of old--
+
+
+MARGIT. [With sudden seriousness.]
+
+       Nay, let not that vex your mind,
+'Tis only at midnight it mocks control;
+By day I am timid as any hind.
+How tame I have grown, you yourself must say,
+When you think on the women in lands far away--
+Of that fair Princess--ah, she was wild!
+Beside her lamblike am I and mild.
+She did not helplessly yearn and brood,
+She would have acted; and that--
+
+
+GUDMUND.
+
+                                  'Tis good
+You remind me; Straightway I'll cast away
+What to me is valueless after this day--
+
+     [Takes out the phial.
+
+
+MARGIT.
+
+The phial!  You meant--?
+
+
+GUDMUND.
+
+                          I thought it might be
+At need a friend that should set me free
+Should the King's men chance to lay hands on me.
+But from to-night it has lost its worth;
+Now will I fight all the kings of earth,
+Gather my kinsfolk and friends to the strife,
+And battle right stoutly for freedom and life.
+
+     [Is about to throw the phial against a rock.
+
+
+MARGIT. [Seizing his arm.]
+
+Nay, hold!  Let me have it--
+
+
+GUDMUND.
+
+                            First tell me why?
+
+
+MARGIT.
+
+I'd fain fling it down to the neckan hard by,
+Who so often has made my dull hours fleet
+With his harping and songs, so strange and sweet.
+Give it me!
+     [Takes the phial from his hand.
+
+           There!
+
+     [Feigns to throw it into the river.
+
+
+GUDMUND. [Goes to the right, and looks down into the ravine.]
+
+                 Have you thrown it away?
+
+
+MARGIT. [Concealing the phial.]
+
+Aye, surely!  You saw--
+     [Whispers as she goes towards the house.
+
+                 Now God help and spare me!
+     [Aloud.
+
+Gudmund!
+
+
+GUDMUND. [Approaching.]
+
+        What would you?
+
+
+MARGIT.
+
+                      Teach me, I pray,
+How to interpret the ancient lay
+They sing of the church in the valley there:
+A gentle knight and a lady fair,
+They loved each other well.
+That very day on her bier she lay
+He on his sword-point fell.
+They buried her by the northward spire,
+And him by the south kirk wall;
+And theretofore grew neither bush nor briar
+In the hallowed ground at all.
+But next spring from their coffins twain
+Two lilies fair upgrew--
+And by and by, o'er the roof-tree high,
+They twined and they bloomed the whole year through.
+How read you the riddle?
+
+
+GUDMUND. [Looks searchingly at her.]
+
+                         I scarce can say.
+
+
+MARGIT.
+
+You may doubtless read it in many a way;
+But its truest meaning, methinks, is clear:
+The church can never sever two that hold each other dear.
+
+
+GUDMUND. [To himself.]
+
+Ye saints, if she should--?  Lest worse befall,
+'Tis time indeed I told her all!
+     [Aloud.
+
+Do you wish for my happiness--Margit, tell!
+
+
+MARGIT. [In joyful agitation.]
+
+Wish for it!  I!
+
+
+GUDMUND.
+
+                Then, wot you well,
+The joy of my life now rests with you--
+
+
+MARGIT. [With an outburst.]
+
+Gudmund!
+
+
+GUDMUND.
+
+        Listen! 'tis the time you knew--
+
+     [He stops suddenly.
+     [Voices and laughter are heard by the river bank.  SIGNE and
+       other GIRLS enter from the right, accompanied by KNUT,
+       ERIK, and several YOUNGER MEN.
+
+
+KNUT.
+
+  [Still at a distance.]  Gudmund Alfson!  Wait; I must speak a word
+with you.
+
+     [He stops, talking to ERIK.  The other GUESTS in the meantime
+       enter the house.
+
+
+MARGIT.
+
+  [To herself.]  The joy of his life--!  What else can he mean
+  but--!  [Half aloud.]  Signe--my dear, dear sister!
+
+     [She puts her arm round SIGNE's waist, and they go towards
+       the back talking to each other.
+
+
+GUDMUND.
+
+  [Softly as he follows them with his eyes.]  Aye, so it were wisest.
+Both Signe and I must away from Solhoug.  Knut Gesling has shown
+himself my friend; he will help me.
+
+
+KNUT.
+
+  [Softly, to ERIK.]  Yes, yes, I say, Gudmund is her kinsman; he
+can best plead my cause.
+
+
+ERIK.
+
+  Well, as you will.
+
+     [He goes into the house.
+
+
+KNUT.
+
+  [Approaching.]  Listen, Gudmund--
+
+
+GUDMUND.
+
+  [Smiling.]  Come you to tell me that you dare no longer let me
+go free.
+
+
+KNUT.
+
+  Dare!  Be at your ease as to that.  Knut Gesling dares whatever
+he will.  No, 'tis another matter.  You know that here in the
+district, I am held to be a wild, unruly companion--
+
+
+GUDMUND.
+
+  Aye, and if rumour lies not--
+
+
+KNUT.
+
+  Why no, much that it reports may be true enough.  But now, I must
+tell you--
+
+     [They go, conversing, up towards the back.
+
+
+SIGNE.
+
+  [To MARGIT, as they come forward beside the house.]  I understand
+you not.  You speak as though an unlooked-for happiness had befallen
+you.  What is in your mind?
+
+
+MARGIT.
+
+  Signe--you are still a child; you know not what it means to have
+ever in your heart the dread of--  [Suddenly breaking off.]  Think,
+Signe, what it must be to wither and die without ever having lived.
+
+
+SIGNE.
+
+  [Looks at her in astonishment, and shakes her head.]  Nay, but,
+Margit--?
+
+
+MARGIT.
+
+  Aye, aye, you do not understand, but none the less--
+
+     [They go up again, talking to each other.  GUDMUND and KNUT
+       come down on the other side.
+
+
+GUDMUND.
+
+  Well, if so it be--if this wild life no longer contents you--
+then I will give you the best counsel that ever friend gave to
+friend: take to wife an honourable maiden.
+
+
+KNUT.
+
+  Say you so?  And if I now told you that 'tis even that I have
+in mind?
+
+
+GUDMUND.
+
+  Good luck and happiness to you then, Knut Gesling!  And now you
+must know that I too--
+
+
+KNUT.
+
+  You?  Are you, too, so purposed?
+
+
+GUDMUND.
+
+  Aye truly.  But the King's wrath--I am a banished man--
+
+
+KNUT.
+
+  Nay, to that you need give but little thought.  As yet there is
+no one here, save Dame Margit, that knows aught of the matter;
+and so long as I am your friend, you have one in whom you can
+trust securely.  Now I must tell you--
+
+     [He proceeds in a whisper as they go up again.
+
+
+SIGNE.
+
+  [As she and MARGIT again advance.]  But tell me then Margit--!
+
+
+MARGIT.
+
+  More I dare not tell you.
+
+
+SIGNE.
+
+  Then will I be more open-hearted than you.  But first answer me
+one question.  [Bashfully, with hesitation.]  Is there no one who
+has told you anything concerning me?
+
+
+MARGIT.
+
+  Concerning you?  Nay, what should that be?
+
+
+SIGNE.
+
+  [As before, looking downwards.]  You said to me this morning: if
+a wooer came riding hither--?
+
+
+MARGIT.
+
+  That is true.  [To herself.]  Knut Gesling--has he already--?
+[Eagerly to SIGNE.]  Well?  What then?
+
+
+SIGNE.
+
+  [Softly, but with exultation.]  The wooer has come!  He has come,
+Margit!  I knew not then whom you meant; but now--!
+
+
+MARGIT.
+
+  And what have you answered him?
+
+
+SIGNE.
+
+  Oh, how should I know?  [Flinging her arms round her sister's
+neck.]  But the world seems to me so rich and beautiful since the
+moment when he told me that he held me dear.
+
+
+MARGIT.
+
+  Why, Signe, Signe, I cannot understand that you should so quickly--!
+You scarce knew him before to-day.
+
+
+SIGNE.
+
+  Oh, 'tis but little I yet know of love; but this I know that what
+the song says is true:
+Full swiftly 'tis sown; ere a moment speeds by,
+Deep, deep in the heart love is rooted for aye--
+
+
+MARGIT.
+
+  So be it; and since so it is, I need no longer hold aught concealed
+from you.  Ah--
+
+     [She stops suddenly, as she sees KNUT and GUDMUND approaching.
+
+
+KNUT.
+
+  [In a tone of satisfaction.]  Ha, this is as I would have it,
+Gudmund.  Here is my hand!
+
+
+MARGIT.
+
+  [To herself.]  What is this?
+
+
+GUDMUND.
+
+  [To KNUT.]  And here is mine!
+
+     [They shake hands.
+
+
+KNUT.
+
+  But now we must each of us name who it is--
+
+
+GUDMUND.
+
+  Good.  Here at Solhoug, among so many fair women, I have found
+her whom--
+
+
+KNUT.
+
+  I too.  And I will bear her home this very night, if it be needful.
+
+
+MARGIT.
+
+  [Who has approached unobserved.]  All saints in heaven!
+
+
+GUDMUND.
+
+  [Nods to KNUT.]  The same is my intent.
+
+
+SIGNE.
+
+  [Who has also been listening.]  Gudmund!
+
+
+GUDMUND AND KNUT.
+
+  [Whispering to each other, as they both point at Signe.]  There
+she is!
+
+
+GUDMUND.
+
+  [Starting.]  Aye, mine.
+
+
+KNUT.
+
+  [Likewise.]  No, mine!
+
+
+MARGIT.
+
+  [Softly, half bewildered.]  Signe!
+
+
+GUDMUND.
+
+  [As before, to KNUT.]  What mean you by that?
+
+
+KNUT.
+
+  I mean that 'tis Signe whom I--
+
+
+GUDMUND.
+
+  Signe!  Signe is my betrothed in the sight of God.
+
+
+MARGIT.
+
+  [With a cry.]  It was she!  No--no!
+
+
+GUDMUND.
+
+  [To himself, as he catches sight of her.]  Margit!  She has
+heard everything.
+
+
+KNUT.
+
+  Ho, ho!  So this is how it stands?  Nay, Dame Margit, 'tis needless
+to put on such an air of wonder; now I understand everything.
+
+
+MARGIT.
+
+  [To SIGNE.]  But not a moment ago you said--?  [Suddenly grasping
+the situation.]  'Twas Gudmund you meant!
+
+
+SIGNE.
+
+  [Astonished.]  Yes, did you not know it!  But what ails
+you, Margit?
+
+
+MARGIT.
+
+  [In an almost toneless voice.]  Nay, nothing, nothing.
+
+
+KNUT.
+
+  [To MARGIT.]  And this morning, when you made me give my word
+that I would stir no strife here to-night--you already knew that
+Gudmund Alfson was coming.  Ha, ha, think not that you can hoodwink
+Knut Gesling!  Signe has become dear to me.  Even this morning
+'twas but my hasty vow that drove me to seek her hand; but now--
+
+
+SIGNE.
+
+  [To MARGIT.]  He?  Was this the wooer that was in your mind?
+
+
+MARGIT.
+
+  Hush, hush!
+
+
+KNUT.
+
+  [Firmly and harshly.]  Dame Margit--you are her elder sister; you
+shall give me an answer.
+
+
+MARGIT.
+
+  [Battling with herself.]  Signe has already made her choice;--I
+have naught to answer.
+
+
+KNUT.
+
+  Good; then I have nothing more to do at Solhoug.  But after
+midnight--mark you this--the day is at an end; then you may chance
+to see me again, and then Fortune must decide whether it be Gudmund
+or I that shall bear Signe away from this house.
+
+
+GUDMUND.
+
+  Aye, try if you dare; it shall cost you a bloody sconce.
+
+
+SIGNE.
+
+  [In terror.]  Gudmund!  By all the saints--!
+
+
+KNUT.
+
+  Gently, gently, Gudmund Alfson!  Ere sunrise you shall be in my
+power.  And she--your lady-love--  [Goes up to the door, beckons
+and calls in a low voice.]  Erik! Erik!  come hither! we must away
+to our kinsfolk.  [Threateningly, while ERIK shows himself in the
+doorway.]  Woe upon you all when I come again!
+
+     [He and ERIK go off to the left at the back.
+
+
+SIGNE.
+
+  [Softly to GUDMUND.]  Oh, tell me, what does all this mean?
+
+
+GUDMUND.
+
+  [Whispering.]  We must both leave Solhoug this very night.
+
+
+SIGNE.
+
+  God shield me--you would--!
+
+
+GUDMUND.
+
+  Say nought of it!  No word to any one, not even to your sister.
+
+
+MARGIT.
+
+  [To herself.]  She--it is she!  She of whom he had scarce thought
+before to-night.  Had I been free, I know well whom he had chosen.--
+Aye, free!
+
+     [BENGT and GUESTS, both Men and Women enter from the house.
+
+
+YOUNG MEN AND MAIDENS.
+
+Out here, out here be the feast arrayed,
+While the birds are asleep in the greenwood shade,
+How sweet to sport in the flowery glade
+      'Neath the birches.
+
+Out here, out here, shall be mirth and jest,
+No sigh on the lips and no care in the breast,
+When the fiddle is tuned at the dancers' 'hest,
+      'Neath the birches.
+
+
+BENGT.
+
+  That is well, that is well!  So I fain would see it!  I am merry,
+and my wife likewise; and therefore I pray ye all to be merry
+along with us.
+
+
+ONE OF THE GUESTS.
+
+  Aye, now let us have a stave-match.*
+
+     *A contest in impromptu verse-making.
+
+
+MANY.
+
+  [Shout.]  Yes, yes, a stave-match!
+
+
+ANOTHER GUEST.
+
+  Nay, let that be; it leads but to strife at the feast.  [Lowering
+his voice.]  Bear in mind that Knut Gesling is with us to-night.
+
+
+SEVERAL.
+
+  [Whispering among themselves.]  Aye, aye, that is true.  Remember
+the last time, how he--.  Best beware.
+
+
+AN OLD MAN.
+
+  But you, Dame Margit--I know your kind had ever wealth of tales in
+store; and you yourself, even as a child, knew many a fair legend.
+
+
+MARGIT.
+
+  Alas! I have forgot them all.  But ask Gudmund Alfson, my kinsman;
+he knows a tale that is merry enough.
+
+
+GUDMUND.
+
+  [In a low voice, imploringly.]  Margit!
+
+
+MARGIT.
+
+  Why, what a pitiful countenance you put on!  Be merry, Gudmund!
+Be merry!  Aye, aye, it comes easy to you, well I wot.  [Laughing,
+to the GUESTS.]  He has seen the huldra to-night.  She would fain
+have tempted him;  but Gudmund is a faithful swain.  [Turns again
+to GUDMUND.]  Aye, but the tale is not finished yet.  When you
+bear away your lady-love, over hill and through forest, be sure
+you turn not round; be sure you never look back--the huldra sits
+laughing behind every bush; and when all is done--  [In a low
+voice, coming close up to him.]  --you will go no further than
+she will let you.
+
+     [She crosses to the right.
+
+
+SIGNE.
+
+  Oh, God!  Oh, God!
+
+
+BENGT.
+
+  [Going around among the GUESTS in high contentment.]  Ha, ha, ha!
+Dame Margit knows how to set the mirth afoot!  When she takes it
+in hand, she does it much better than I.
+
+
+GUDMUND.
+
+  [To himself.]  She threatens!  I must tear the last hope out of
+her breast; else will peace never come to her mind.  [Turns to the
+GUESTS.]  I mind me of a little song.  If it please you to hear it--
+
+
+SEVERAL OF THE GUESTS.
+
+  Thanks, thanks, Gudmund Alfson!
+
+     [They close around him some sitting, others standing.  MARGIT
+       leans against a tree in front on the right.  SIGNE stands
+       on the left, near the house.
+
+
+GUDMUND.
+
+  I rode into the wildwood,
+     I sailed across the sea,
+  But 'twas at home I wooed and won
+     A maiden fair and free.
+
+  It was the Queen of Elfland,
+     She waxed full wroth and grim:
+  Never, she swore, shall that maiden fair
+     Ride to the church with him.
+
+  Hear me, thou Queen of Elfland,
+     Vain, vain are threat and spell;
+  For naught can sunder two true hearts
+     That love each other well!
+
+
+AN OLD MAN.
+
+  That is a right fair song.  See how the young swains cast their
+glances thitherward!  [Pointing towards the GIRLS.]  Aye, aye,
+doubtless each has his own.
+
+
+BENGT.
+
+  [Making eyes at MARGIT.]  Yes, I have mine, that is sure enough.
+Ha, ha, ha!
+
+
+MARGIT.
+
+  [To herself, quivering.]  To have to suffer all this shame and
+scorn!  No, no; now to essay the last remedy.
+
+
+BENGT.
+
+  What ails you?  Meseems you look so pale.
+
+
+MARGIT.
+
+  'Twill soon pass over.  [Turns to the GUESTS.]  Did I say e'en
+now that I had forgotten all my tales?  I bethink me now that I
+remember one.
+
+
+BENGT.
+
+  Good, good, my wife!  Come, let us hear it.
+
+
+YOUNG GIRLS.
+
+  [Urgently.]  Yes, tell it us, tell it us, Dame Margit!
+
+
+MARGIT.
+
+  I almost fear that 'twill little please you; but that must be as
+it may.
+
+
+GUDMUND.
+
+  [To himself.]  Saints in heaven, surely she would not--!
+
+
+MARGIT.
+
+It was a fair and noble maid,
+She dwelt in her father's hall;
+Both linen and silk did she broider and braid,
+Yet found in it solace small.
+For she sat there alone in cheerless state,
+Empty were hall and bower;
+In the pride of her heart, she was fain to mate
+With a chieftain of pelf and power.
+But now 'twas the Hill King, he rode from the north,
+With his henchmen and his gold;
+On the third day at night he in triumph fared forth,
+Bearing her to his mountain hold.
+Full many a summer she dwelt in the hill;
+Out of beakers of gold she could drink at her will.
+Oh, fair are the flowers of the valley, I trow,
+But only in dreams can she gather them now!
+'Twas a youth, right gentle and bold to boot,
+Struck his harp with such magic might
+That it rang to the mountain's inmost root,
+Where she languished in the night.
+The sound in her soul waked a wondrous mood--
+Wide open the mountain-gates seemed to stand;
+The peace of God lay over the land,
+And she saw how it all was fair and good.
+There happened what never had happened before;
+She had wakened to life as his harp-strings thrilled;
+And her eyes were opened to all the store
+Of treasure wherewith the good earth is filled.
+For mark this well: it hath ever been found
+That those who in caverns deep lie bound
+Are lightly freed by the harp's glad sound.
+He saw her prisoned, he heard her wail--
+But he cast unheeding his harp aside,
+Hoisted straightway his silken sail,
+And sped away o'er the waters wide
+To stranger strands with his new-found bride.
+     [With ever-increasing passion.
+
+So fair was thy touch on the golden strings
+That my breast heaves high and my spirit sings!
+I must out, I must out to the sweet green leas!
+I die in the Hill-King's fastnesses!
+He mocks at my woe as he clasps his bride
+And sails away o'er the waters wide.
+     [Shrieks.
+
+With me all is over; my hill-prison barred;
+Unsunned is the day, and the night all unstarred.
+
+     [She totters and, fainting, seeks to support herself against
+       the trunk of a tree.
+
+
+SIGNE.
+
+  [Weeping, has rushed up to her, and takes her in her arms.]
+Margit! My sister!
+
+
+GUDMUND.
+
+  [At the same time, supporting her.]  Help! help! she is dying!
+
+     [BENGT and the GUESTS flock round them with cries of alarm.
+
+
+
+
+ACT THIRD
+
+
+The hall at Solhoug as before, but now in disorder after the feast.
+    It is night still, but with a glimmer of approaching dawn in
+    the room and over the landscape without.
+
+BENGT stands outside in the passage-way, with a beaker of ale in
+    his hand.  A party of GUESTS are in the act of leaving the
+    house.  In the room a MAID-SERVANT is restoring order.
+
+
+BENGT.
+
+  [Calls to the departing GUESTS.]  God speed you, then, and bring
+you back ere long to Solhoug.  Methinks you, like the rest, might
+have stayed and slept till morning.  Well, well!  Yet hold--I'll
+e'en go with you to the gate.  I must drink your healths once more.
+
+     [He goes out.
+
+
+GUESTS. [Sing in the distance.]
+
+Farewell, and God's blessing on one and all
+  Beneath this roof abiding!
+The road must be faced.  To the fiddler we call:
+  Tune up!  Our cares deriding,
+    With dance and with song
+We'll shorten the way so weary and long.
+    Right merrily off we go.
+
+     [The song dies away in the distance.
+     [MARGIT enters the hall by the door on the right.
+
+
+MAID.
+
+God save us, my lady, have you left your bed?
+
+
+MARGIT.
+
+  I am well.  Go you and sleep.  Stay--tell me, are the guests
+all gone?
+
+
+MAID.
+
+  No, not all; some wait till later in the day; ere now they are
+sleeping sound.
+
+
+MARGIT.
+
+  And Gudmund Alfson--?
+
+
+MAID.
+
+  He, too, is doubtless asleep.  [Points to the right.]  'Tis some
+time since he went to his chamber--yonder, across the passage.
+
+
+MARGIT.
+
+  Good; you may go.
+
+     [The MAID goes out to the left.
+     [MARGIT walks slowly across the hall, seats herself by the
+       table on the right, and gazes out at the open window.
+
+
+MARGIT.
+
+To-morrow, then, Gudmund will ride away
+Out into the world so great and wide.
+Alone with my husband here I must stay;
+And well do I know what will then betide.
+Like the broken branch and the trampled flower
+I shall suffer and fade from hour to hour.
+     [Short pause; she leans back in her chair.
+
+I once heard a tale of a child blind from birth,
+Whose childhood was full of joy and mirth;
+For the mother, with spells of magic might,
+Wove for the dark eyes a world of light.
+And the child looked forth with wonder and glee
+Upon the valley and hill, upon land and sea.
+Then suddenly the witchcraft failed--
+The child once more was in darkness pent;
+Good-bye to games and merriment;
+With longing vain the red cheeks paled.
+And its wail of woe, as it pined away,
+Was ceaseless, and sadder than words can say.--
+Oh! like the child's my eyes were sealed,
+To the light and the life of summer blind--
+     [She springs up.
+
+But now--!  And I in this cage confined!
+No, now is the worth of my youth revealed!
+Three years of life I on him have spent--
+My husband--but were I longer content
+This hapless, hopeless weird to dree,
+Meek as a dove I needs must be.
+I am wearied to death of petty brawls;
+The stirring life of the great world calls.
+I will follow Gudmund with shield and bow,
+I will share his joys, I will soothe his woe,
+Watch o'er him both by night and day.
+All that behold shall envy the life
+Of the valiant knight and Margit his wife.--
+His wife!
+     [Wrings her hands.
+
+         Oh God, what is this I say!
+Forgive me, forgive me, and oh! let me feel
+The peace that hath power both to soothe and to heal.
+     [Walks back and forward, brooding silently.
+
+Signe, my sister--?  How hateful 'twere
+To steal her glad young life from her!
+But who can tell?  In very sooth
+She may love him but with the light love of youth.
+     [Again silence; she takes out the little phial, looks long
+       at it and says under her breath:
+
+This phial--were I its powers to try--
+My husband would sleep for ever and aye!
+     [Horror-struck.
+
+No, no!  To the river's depths with it straight!
+     [In the act of throwing it out of the window, stops.
+
+And yet I could--'tis not yet too late.--
+     [With an expression of mingled horror and rapture, whispers.
+
+With what a magic resistless might
+Sin masters us in our own despite!
+Doubly alluring methinks is the goal
+I must reach through blood, with the wreck of my soul.
+
+     [BENGT, with the empty beaker in his hand, comes in from
+       the passageway; his face is red; he staggers slightly.
+
+
+BENGT.
+
+  [Flinging the beaker upon the table on the left.]  My faith,
+this has been a feast that will be the talk of the country.  [Sees
+MARGIT.]  Eh, are you there?  You are well again.  Good, good.
+
+
+MARGIT.
+
+  [Who in the meantime has concealed the phial.]  Is the door
+barred?
+
+
+BENGT.
+
+  [Seating himself at the table on the left.]  I have seen to
+everything.  I went with the last guests as far as the gates.  But
+what became of Knut Gesling to-night?--Give me mead, Margit!  I
+am thirsty  Fill this cup.
+
+     [MARGIT fetches a flagon of the mead from a cupboard, and
+       and fills the goblet which is on the table before him.
+
+
+MARGIT.
+
+  [Crossing to the right with the flagon.]  You asked about
+Knut Gesling.
+
+
+BENGT.
+
+  That I did.  The boaster, the braggart!  I have not forgot his
+threats of yester-morning.
+
+
+MARGIT.
+
+  He used worse words when he left to-night.
+
+
+BENGT.
+
+  He did?  So much the better.  I will strike him dead.
+
+
+MARGIT.
+
+  [Smiling contemptuously.]  H'm--
+
+
+BENGT.
+
+  I will kill him, I say!  I fear not to face ten such fellows as
+he.  In the store-house hangs my grandfather's axe; its shaft is
+inlaid with silver; with that axe in my hands, I tell you--!
+[Thumps the table and drinks.]  To-morrow I shall arm myself, go
+forth with all my men, and slay Knut Gesling.
+
+     [Empties the beaker.
+
+
+MARGIT.
+
+  [To herself.]  Oh, to have to live with him!
+
+     [Is in the act of leaving the room.
+
+
+BENGT.
+
+  Margit, come here!  Fill my cup again.  [She approaches; he
+tries to draw her down on his knee.]  Ha, ha, ha!  You are right
+fair, Margit!  I love thee well!
+
+
+MARGIT.
+
+  [Freeing herself.]  Let me go!
+
+     [Crosses, with the goblet in her hand, to the left.
+
+
+BENGT.
+
+  You are not in the humour to-night.  Ha, ha, ha!  That means no
+great matter, I know.
+
+
+MARGIT.
+
+  [Softly, as she fills the goblet.]  Oh, that this might be the
+last beaker I should fill for you.
+
+     [She leaves the goblet on the table and is making her way
+       out to the left.
+
+
+BENGT.
+
+  Hark to me, Margit.  For one thing you may thank Heaven, and
+that is, that I made you my wife before Gudmund Alfson came back.
+
+
+MARGIT.
+
+  Why so?
+
+
+BENGT.
+
+  Why, say you?  Am not I ten times the richer man?  And certain
+I am that he would have sought you for his wife, had you not been
+the mistress of Solhoug.
+
+
+MARGIT.
+
+  [Drawing nearer and glancing at the goblet.]  Say you so?
+
+
+BENGT.
+
+  I could take my oath upon it.  Bengt Gauteson has two sharp eyes
+in his head.  But he may still have Signe.
+
+
+MARGIT.
+
+  And you think he will--?
+
+
+BENGT.
+
+  Take her?  Aye, since he cannot have you.  But had you been
+free,--then--  Ha, ha, ha!  Gudmund is like the rest.  He envies
+me my wife.  That is why I set such store by you, Margit.  Here
+with the goblet again.  And let it be full to the brim!
+
+
+MARGIT.
+
+  [Goes unwillingly across to the right.]  You shall have it
+straightway.
+
+
+BENGT.
+
+  Knut Gesling is a suitor for Signe, too, but him I am resolved
+to slay.  Gudmund is an honourable man; he shall have her.  Think,
+Margit, what good days we shall have with them for neighbours.  We
+will go a-visiting each other, and then will we sit the live-long
+day, each with his wife on his knee, drinking and talking of this
+and that.
+
+
+MARGIT.
+
+  [Whose mental struggle is visibly becoming more severe,
+involuntarily takes out the phial as she says:]  No doubt no doubt!
+
+
+BENGT.
+
+  Ha, ha, ha! it may be that at first Gudmund will look askance
+at me when I take you in my arms; but that, I doubt not, he will
+soon get over.
+
+
+MARGIT.
+
+  This is more than woman can bear!  [Pours the contents of the
+phial into the goblet, goes to the window and throws out the phial,
+then says, without looking at him.]  Your beaker is full.
+
+
+BENGT.
+
+  Then bring it hither!
+
+
+MARGIT.
+
+  [Battling in an agony of indecision, at last says.]  I pray you
+drink no more to-night!
+
+
+BENGT.
+
+  [Leans back in his chair and laughs.]  Oho!  You are impatient
+for my coming?  Get you in; I will follow you soon.
+
+
+MARGIT.
+
+  [Suddenly decided.]  Your beaker is full.  [Points.]  There it is.
+
+     [She goes quickly out to the left.
+
+
+BENGT.
+
+  [Rising.]  I like her well.  It repents me not a whit that I
+took her to wife, though of heritage she owned no more than yonder
+goblet and the brooches of her wedding gown.
+
+     [He goes to the table at the window and takes the goblet.
+     [A HOUSE-CARL enters hurriedly and with scared looks, from
+       the back.
+
+
+HOUSE-CARL.
+
+  [Calls.]  Sir Bengt, Sir Bengt! haste forth with all the speed
+you can!  Knut Gesling with an armed train is drawing near the house.
+
+
+BENGT.
+
+  [Putting down the goblet.]  Knut Gesling?  Who brings the tidings?
+
+
+HOUSE-CARL.
+
+  Some of your guests espied him on the road beneath, and hastened
+back to warn you.
+
+
+BENGT.
+
+  E'en so.  Then will I--!  Fetch me my grandfather's battle-axe!
+
+     [He and the HOUSE-CARL go out at the back.
+     [Soon after, GUDMUND and SIGNE enter quietly and cautiously
+       by the door at the back.
+
+
+SIGNE. [In muffled tones.]
+
+It must then, be so!
+
+
+GUDMUND. [Also softly.]
+
+                          Necessity's might
+Constrains us.
+
+
+SIGNE.
+
+              Oh! thus under cover of night
+To steal from the valley where I was born?
+     [Dries her eyes.
+
+Yet shalt thou hear no plaint forlorn.
+'Tis for thy sake my home I flee;
+Wert thou not outlawed, Gudmund dear,
+I'd stay with my sister.
+
+
+GUDMUND.
+
+                      Only to be
+Ta'en by Knut Gesling, with bow and spear,
+Swung on the croup of his battle-horse,
+And made his wife by force.
+
+
+SIGNE.
+
+Quick, let us flee.  But whither go?
+
+
+GUDMUND.
+
+Down by the fiord a friend I know;
+He'll find us a ship.  O'er the salt sea foam
+We'll sail away south to Denmark's bowers.
+There waits you there a happy home;
+Right joyously will fleet the hours;
+The fairest of flowers they bloom in the shade
+Of the beech-tree glade.
+
+
+SIGNE. [Bursts into tears.]
+
+Farewell, my poor sister!  Like my mother tender
+Thou hast guarded the ways my feet have trod,
+Hast guided my footsteps, aye praying to God,
+The Almighty, to be my defender.--
+Gudmund--here is a goblet filled with mead;
+Let us drink to her; let us wish that ere long
+Her soul may again be calm and strong,
+And that God may be good to her need.
+
+     [She takes the goblet into her hands.
+
+
+GUDMUND.
+
+Aye, let us drain it, naming her name!
+     [Starts.
+
+Stop!
+     [Takes the goblet from her.
+
+     For meseems it is the same--
+
+
+SIGNE.
+
+'Tis Margit's beaker.
+
+
+GUDMUND. [Examining it carefully.]
+
+          By Heaven, 'tis so!
+I mind me still of the red wine's glow
+As she drank from it on the day we parted
+To our meeting again in health and glad-hearted.
+To herself that draught betided woe.
+No, Signe, ne'er drink wine or mead
+From that goblet.
+     [Pours its contents out at the window.
+
+                   We must away with all speed.
+
+     [Tumult and calls without, at the back.
+
+
+SIGNE.
+
+List, Gudmund!  Voices and trampling feet!
+
+
+GUDMUND.
+
+Knut Gesling's voice!
+
+
+SIGNE.
+
+                   O save us, Lord!
+
+
+GUDMUND. [Places himself in front of her.]
+
+Nay, nay, fear nothing, Signe sweet--
+I am here, and my good sword.
+
+     [MARGIT comes in in haste from the left.
+
+
+MARGIT.
+
+  [Listening to the noise.]  What means this?  Is my husband--?
+
+
+GUDMUND AND SIGNE.
+
+  Margit!
+
+
+MARGIT.
+
+  [Catches sight of them.]  Gudmund!  And Signe!  Are you here?
+
+
+SIGNE.
+
+  [Going towards her.]  Margit--dear sister!
+
+
+MARGIT.
+
+  [Appalled, having seen the goblet which GUDMUND still holds in
+his hand.]  The goblet!  Who has drunk from it?
+
+
+GUDMUND.
+
+  [Confused.]  Drunk--?  I and Signe--we meant--
+
+
+MARGIT.
+
+  [Screams.]  O God, have mercy!  Help!  Help!  They will die!
+
+
+GUDMUND.
+
+  [Setting down the goblet.]  Margit--!
+
+
+SIGNE.
+
+  What ails you, sister?
+
+
+MARGIT.
+
+  [Towards the back.]  Help, help!  Will no one help?
+
+     [A HOUSE-CARL rushes in from the passage-way.
+
+
+HOUSE-CARL.
+
+  [Calls in a terrified voice.]  Lady Margit!  Your husband--!
+
+
+MARGIT.
+
+  He--has he, too, drunk--!
+
+
+GUDMUND.
+
+  [To himself.]  Ah! now I understand--
+
+
+HOUSE-CARL.
+
+  Knut Gesling has slain him.
+
+
+SIGNE.
+
+  Slain!
+
+
+GUDMUND.
+
+  [Drawing his sword.]  Not yet, I hope.  [Whispers to MARGIT.]
+Fear not.  No one has drunk from your goblet.
+
+
+MARGIT.
+
+  Then thanks be to God, who has saved us all!
+
+     [She sinks down on a chair to the left.  Gudmund hastens
+       towards the door at the back.
+
+
+ANOTHER HOUSE-CARL.
+
+  [Enters, stopping him.]  You come too late.  Sir Bengt is dead.
+
+
+GUDMUND.
+
+  Too late, then, too late.
+
+
+HOUSE-CARL.
+
+  The guests and your men have prevailed against the murderous
+crew.  Knut Gesling and his men are prisoners.  Here they come.
+
+     [GUDMUND's men, and a number of GUESTS and HOUSE-CARLS,
+       lead in KNUT GESLING, ERIK OF HEGGE, and several of
+       KNUT's men, bound.
+
+
+KNUT.
+
+   [Who is pale, says in a low voice.]  Man-slayer, Gudmund.  What
+say you to that?
+
+
+GUDMUND.
+
+  Knut, Knut, what have you done?
+
+
+ERIK.
+
+  'Twas a mischance, of that I can take my oath.
+
+
+KNUT.
+
+  He ran at me swinging his axe; I meant but to defend myself,
+and struck the death-blow unawares.
+
+
+ERIK.
+
+  Many here saw all that befell.
+
+
+KNUT.
+
+  Lady Margit, crave what fine you will.  I am ready to pay it.
+
+
+MARGIT.
+
+  I crave naught.  God will judge us all.  Yet stay--one thing I
+require.  Forgo your evil design upon my sister.
+
+
+KNUT.
+
+  Never again shall I essay to redeem my baleful pledge.  From
+this day onward I am a better man.  Yet would I fain escape
+dishonourable punishment for my deed.  [To GUDMUND.]  Should you
+be restored to favour and place again, say a good word for me to
+the King!
+
+
+GUDMUND.
+
+  I?  Ere the sun sets, I must have left the country.
+
+     [Astonishment amongst the GUESTS.  ERIK in whispers, explains
+       the situation.
+
+
+MARGIT.
+
+  [To GUDMUND.]  You go?  And Signe with you?
+
+
+SIGNE.
+
+   [Beseechingly.]  Margit!
+
+
+MARGIT.
+
+  Good fortune follow you both!
+
+
+SIGNE.
+
+  [Flinging her arms round MARGIT's neck.]  Dear sister!
+
+
+GUDMUND.
+
+  Margit, I thank you.  And now farewell.  [Listening.]  Hush!
+I hear the tramp of hoofs in the court-yard.
+
+
+SIGNE.
+
+  [Apprehensively.]  Strangers have arrived.
+
+     [A HOUSE-CARL appears in the doorway at the back.
+
+
+HOUSE-CARL.
+
+  The King's men are without.  They seek Gudmund Alfson.
+
+
+SIGNE.
+
+  Oh God!
+
+
+MARGIT.
+
+  [In great alarm.]  The King's men!
+
+
+GUDMUND.
+
+  All is at an end, then.  Oh Signe, to lose you now--could there
+be a harder fate?
+
+
+KNUT.
+
+  Nay, Gudmund; sell your life dearly, man!  Unbind us; we are
+ready to fight for you, one and all.
+
+
+ERIK.
+
+  [Looks out.]  'Twould be in vain; they are too many for us.
+
+
+SIGNE.
+
+  Here they come.  Oh Gudmund, Gudmund!
+
+     [The KING's MESSENGER enters from the back, with his escort.
+
+
+MESSENGER.
+
+  In the King's name I seek you, Gudmund Alfson, and bring you
+his behests.
+
+
+GUDMUND.
+
+  Be it so.  Yet am I guiltless; I swear it by all that is holy!
+
+
+MESSENGER.
+
+  We know it.
+
+
+GUDMUND.
+
+  What say you?
+
+     [Agitation amongst those present.
+
+
+MESSENGER.
+
+  I am ordered to bid you as a guest to the King's house.  His
+friendship is yours as it was before, and along with it he bestows
+on you rich fiefs.
+
+
+GUDMUND.
+
+  Signe!
+
+
+SIGNE.
+
+  Gudmund!
+
+
+GUDMUND.
+
+  But tell me--?
+
+
+MESSENGER.
+
+  Your enemy, the Chancellor Audun Hugleikson, has fallen.
+
+
+GUDMUND.
+
+  The Chancellor!
+
+
+GUESTS.
+
+  [To each other, in half-whisper.]  Fallen!
+
+
+MESSENGER.
+
+  Three days ago he was beheaded at Bergen.  [Lowering his voice.]
+His offence was against Norway's Queen.
+
+
+MARGIT. [Placing herself between GUDMUND and SIGNE.]
+
+Thus punishment treads on the heels of crime!
+Protecting angels, loving and bright,
+Have looked down in mercy on me to-night,
+And come to my rescue while yet it was time.
+Now know I that life's most precious treasure
+Is nor worldly wealth nor earthly pleasure,
+I have felt the remorse, the terror I know,
+Of those who wantonly peril their soul,
+To St. Sunniva's cloister forthwith I go.--
+     [Before GUDMUND and SIGNE can speak.
+
+Nay: think not to move me or control.
+     [Places SIGNE's hand in GUDMUND's.
+
+Take her then Gudmund, and make her your bride.
+Your union is holy; God's on your side.
+
+     [Waving farewell, she goes towards the doorway on the left.
+       GUDMUND and SIGNE follow her, she stops them with a
+       motion of her hand, goes out, and shuts the door behind
+       her.  At this moment the sun rises and sheds its light
+       in the hall.
+
+
+GUDMUND.
+
+Signe--my wife!  See, the morning glow!
+'Tis the morning of our young love.  Rejoice!
+
+
+SIGNE.
+
+All my fairest of dreams and of memories I owe
+To the strains of thy harp and the sound of thy voice.
+My noble minstrel, to joy or sadness
+Tune thou that harp as seems thee best;
+There are chords, believe me, within my breast
+To answer to thine, or of woe or of gladness.
+
+
+CHORUS OF MEN AND WOMEN.
+
+Over the earth keeps watch the eye of light,
+Guardeth lovingly the good man's ways,
+Sheddeth round him its consoling rays;--
+Praise be to the Lord in heaven's height!
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK THE FEAST AT SOLHOUG***
+
+
+******* This file should be named 18428.txt or 18428.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/1/8/4/2/18428
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://www.gutenberg.org/about/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:
+http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

@@ -1,0 +1,4979 @@
+Project Gutenberg's Faust, by J. Barbier and M. Carré and Charles Gounod
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Faust
+       a Lyric Drama in Five Acts
+
+Author: J. Barbier
+        M. Carré
+        Charles Gounod
+
+Release Date: May 28, 2014 [EBook #45806]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK FAUST ***
+
+
+
+
+Produced by Colin Bell, Paul Marshall, Joseph Cooper and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+[Transcriber Notes:
+      Obvious misspellings and omissions have been corrected.
+      The original text displayed the two versions, English and French,
+        in two column format, English on left, French on right. This
+        e-text lists the English version first, followed by the French
+        version.
+      The [oe] ligature has been replaced with simply "oe".
+      Bold text is surrounded by =equal signs= and italic text is
+        surrounded by underscores.]
+
+[Illustration]
+
+                GRAND OPERA
+                 LIBRETTOS
+
+                  FRENCH
+             AND ENGLISH TEXT
+     AND MUSIC OF THE PRINCIPAL AIRS
+
+                   FAUST
+
+                    BY
+                  GOUNOD
+
+  Boston: OLIVER DITSON COMPANY: New York
+
+           LYON & HEALY, INC.
+               _Chicago_
+
+          WINTHROP ROGERS, LTD.
+                _London_
+
+
+
+
+
+OPERA SCORES
+
+All the vocal scores have English text together with the foreign text
+mentioned below. Unless otherwise specified, these books are bound in
+paper.
+
+                                GRAND OPERAS
+
+   =AÏDA=                           =Giuseppe Verdi= =2.50=
+      In four acts. Italian text
+
+   =BOHEMIAN GIRL=                =Michael W. Balfe= =2.00=
+      In three acts
+
+   =CARMEN=                          =Georges Bizet= =2.50=
+      In four acts. French text
+
+   =CAVALLERIA RUSTICANA=          =Pietro Mascagni= =2.00=
+      In one act. Italian text
+
+   =FAUST=                          =Charles Gounod= =2.00=
+      In five acts. French text
+
+   =LAKMÉ=                             =Léo Delibes= =3.00=
+      In three acts
+
+   =MARITANA=              =William Vincent Wallace= =2.50=
+      In three acts
+
+   =MIGNON=                        =Ambroise Thomas= =2.50=
+      In three acts. Italian text
+
+   =SAMSON AND DELILAH=        =Camille Saint-Saëns= =2.50=
+      In three acts
+
+   =TROVATORE, IL=                  =Giuseppe Verdi= =2.00=
+      In four acts. Italian text
+
+
+                                LIGHT OPERAS
+
+   =BELLS OF CORNEVILLE, THE;
+      or, THE CHIMES OF NORMANDY=
+       In three acts             =Robert Planquette= =2.50=
+
+   =BILLEE TAYLOR; or, THE REWARD OF VIRTUE=
+       In two acts                  =Edward Solomon= =1.50=
+
+   =BOCCACCIO; or, THE PRINCE OF PALERMO=
+       In three acts               =Franz von Suppé= =2.50=
+
+   =DOCTOR OF ALCANTARA, THE=
+       In two acts                 =Julius Eichberg= =1.50=
+
+   =FATINITZA=                     =Franz von Suppé= =2.50=
+       In three acts. German and Italian text
+
+   =MARTHA=                   =Friedrich von Flotow= =2.50=
+       In four acts. German and Italian text
+
+   =MASCOT, THE=                     =Edmond Audran= =2.50=
+       In three acts
+
+   =OLIVETTE=                        =Edmond Audran= =2.00=
+       In three acts
+
+   =PINAFORE, H. M. S.; or, THE LASS THAT
+      LOVED A SAILOR=
+      In two acts              =Sir Arthur Sullivan= =1.50=
+
+   =SORCERER, THE=             =Sir Arthur Sullivan= =1.75=
+       In two acts
+
+   =STRADELLA=                =Friedrich von Flotow= =2.00=
+       In three acts
+
+  Send for Descriptive Circular P--Oratorios, Cantatas,
+  Operas and Operettas.
+
+    OLIVER DITSON COMPANY
+
+
+
+                        FAUST
+
+           _A LYRIC DRAMA IN FIVE ACTS_
+
+                        BOOK BY
+               J. BARBIER AND M. CARRÉ
+
+                       MUSIC BY
+                    CHARLES GOUNOD
+
+                          30
+
+
+        BOSTON: OLIVER DITSON COMPANY: NEW YORK
+
+ CHICAGO: LYON & HEALY, INC.  LONDON: WINTHROP ROGERS, LTD.
+
+        COPYRIGHT MCMVI BY OLIVER DITSON COMPANY
+
+
+
+
+                       CHARACTERS
+
+  FAUST                                       _Tenor_
+  MEPHISTOPHELES                      _Bass-Baritone_
+  VALENTINE, MARGUERITE'S BROTHER          _Baritone_
+  WAGNER, A STUDENT                        _Baritone_
+  MARGUERITE                                _Soprano_
+  SIEBEL, A YOUTH                           _Soprano_
+  MARTHA, FRIEND OF MARGUERITE        _Mezzo-Soprano_
+
+  PEASANTS, TOWNSPEOPLE, SOLDIERS, STUDENTS, PRIESTS, BOYS, ETC.
+         The scene is in Germany in the sixteenth century.
+
+
+
+
+PREFATORY NOTE
+
+The legend of the magician Faust and his compact with the Devil comes
+from remote antiquity. At first in the form of folk tales in many
+lands, through ballads and the primitive drama it found its way into
+literature. It remained for the master-poet, Goethe, to fuse all the
+elements of the legend into an imaginative drama of unequaled ethical
+and poetic interest, to give the story the form in which it appeals
+most strongly to the modern mind.
+
+Innumerable musical works of every form have drawn inspiration from
+the story of Faust. Wagner's concert-overture, Liszt's symphony, and
+the beautiful fragments by Schumann are among the noblest of such
+works. Stage versions of the legend have been numerous, but the first
+really poetic creation was Spohr's opera of "Faust," composed in 1813.
+Since its appearance there has been an abundance of Faust operas by
+English, German, French and Italian composers down to the imaginative
+but fragmentary "Mefistofele" of Boito (1868). But of all the stage
+versions that have claimed the public attention, that of Barbier and
+Carré, made after Goethe's drama and set to music by Charles Gounod, is
+far and away the most popular, and may be regarded, in its lyric dress,
+as the most successful also. There exists scarcely a single rival to
+the popularity of Gounod's "Faust" among opera-goers.
+
+The love story with which the French librettists concerned themselves
+exclusively is wholly Goethe's conception, and finds no place in the
+old legends concerning the magician Faust. With true Gallic instinct
+they seized this pathetic episode as being best adapted for a lyric
+setting, and making the most potent appeal to the emotions of the
+spectators. But to the composer himself is due the credit of suggesting
+the story of Faust as a suitable subject for musical treatment.
+
+
+
+
+THE STORY OF THE ACTION
+
+
+ACT I.--Faust, an aged philosopher, who has grown weary of life, and
+of the vain search for the source of all knowledge, decides, after a
+nightlong vigil, to end his existence by taking poison. In the act
+of raising the cup to his lips his hand is arrested by the sound of
+merry voices of maidens singing in the early morning of the joy of
+living. Again he essays to drink, but pauses to listen to the song of
+the reapers on their way to the fields, voicing their gratitude to
+God. Excited to a frenzy of rage, Faust curses all that is good and
+calls upon the Evil One to aid him. Mephistopheles appears, and offers
+gold, glory, boundless power; but the aged doctor craves youth, its
+passions and delights. The fiend agrees that all shall be his if he
+but sign a compact, by which the devil serves Faust on earth, but in
+the hereafter below the relation is to be reversed. Faust wavers at
+first, but a vision of Marguerite appears, which inflames his ardor and
+dispels his hesitation; he drinks the potion and is transformed into a
+young and handsome man.
+
+
+ACT II.--A Kermesse or town fair. Groups of students, soldiers, old
+men, maids and matrons fill the scene. Valentine, the brother of
+Marguerite, about to leave for the wars, commends his sister to the
+care of Siebel, who timidly adores her. While Wagner, a student, is
+attempting a song, he is interrupted by Mephistopheles who volunteers
+to sing him a better one (the mocking "Calf of Gold"). Then the fiend
+causes a fiery liquor to flow miraculously from the tavern sign, and
+proposes the health of Marguerite. Valentine resents the insult, but
+his sword is broken in his hand, and Mephistopheles draws a magic
+circle around himself and bids defiance to the rapiers of the soldiers.
+These, now suspecting his evil nature, hold their cruciform sword-hilts
+toward Mephistopheles, who cowers away at the holy symbol. The fête is
+resumed; in the midst of the revelry Marguerite enters, returning home
+from church. Faust offers to escort her home, but she timidly declines
+his assistance, and leaves him enamoured of her beauty. The act closes
+with a merry dance of the townspeople.
+
+
+ACT III.--The scene shows the garden of Marguerite's dwelling. Siebel
+enters to leave a nosegay on the doorstep of his charmer. The flowers
+he plucks wither at his touch, due to an evil spell cast upon him by
+the fiend, which he, however, breaks by dipping his hand in holy water.
+Faust and Mephistopheles conceal themselves in the garden after having
+left a casket of jewels on the doorstep near Siebel's modest offering.
+Marguerite returns home and seats herself at the spinning-wheel,
+singing the while a song of the "King of Thule." But she interrupts the
+song to dream of the handsome stranger who had spoken to her at the
+fête. Upon discovering the jewels, she cannot forbear to adorn herself.
+While thus occupied, Faust and his evil ally appear. The latter engages
+the girl's flighty neighbor, Martha, in conversation, while Faust
+pleads his passion's cause successfully with Marguerite.
+
+
+ACT IV.--Betrayed and deserted by her lover, Marguerite must bear the
+scorn of her former companions. Siebel alone is faithful, and speaks
+comforting words. She goes to the church to pray; but her supplications
+are interrupted by the mocking fiend at her elbow, by the accusing
+cries of demons, and by the stern chants of the worshipers. Finally
+Mephistopheles appears to the sight of the wretched girl, who swoons
+with terror.
+
+The return of the victorious soldiers brings back Valentine, who
+hears evil stories of his sister's condition. Aroused by an insulting
+serenade which Mephistopheles, accompanied by Faust, sings beneath
+Marguerite's window, Valentine engages in a duel with the latter and is
+wounded to the death. Dying, he curses Marguerite, who comes from the
+church to his side, and accuses her of bringing him to his end.
+
+
+ACT V.--Marguerite, her reason shaken by her misfortunes, has killed
+her child, and for this crime she is thrown into prison, and condemned
+to die. Faust, aided by Mephistopheles, obtains access to her cell
+and urges her to fly with him; but her poor mind cannot grasp the
+situation, and recurs only to the scenes of their love. When she sees
+Faust's companion, she turns from him in horror, falls upon her knees,
+and implores the mercy of heaven. As she sinks in death, Mephistopheles
+pronounces her damned, but a heavenly voice proclaims her pardoned; and
+while a celestial choir chants the Easter hymn the soul of Marguerite
+is seen borne up to heaven by angels. Faust falls to his knees, and the
+devil crouches beneath the shining sword of an archangel.
+
+First performed at the Théâtre Lyrique, Paris, March 19, 1859,
+with the following cast:
+
+  LE DOCTEUR FAUST                _MM. Barbot_
+  MÉPHISTOPHÉLÈS                    _Balanqué_
+  VALENTIN                           _Reynald_
+  WAGNER                               _Cibot_
+  MARGUERITE           _Mmes. Miolan-Carvalho_
+  SIEBEL                              _Faivre_
+  MARTHA                              _Duclos_
+
+
+
+
+ACT I.
+
+
+SCENE I.
+
+_Faust's Study._
+
+(Night. FAUST discovered, alone. He is seated at a table covered
+with books and parchments; an open book lies before him. His lamp is
+flickering in the socket.)
+
+_Faust._ No! In vain hath my soul aspired, with ardent longing,
+         All to know,--all in earth and heaven.
+         No light illumines the visions, ever thronging
+         My brain; no peace is given,
+         And I linger, thus sad and weary,
+         Without power to sunder the chain
+         Binding my soul to life always dreary.
+         Nought do I see! Nought do I know!
+    (He closes the book and rises. Day begins to dawn.)
+
+         Again 'tis light!
+         On its westward course flying,
+         The somber night vanishes.
+                    (Despairingly.)
+         Again the light of a new day!
+         O death! when will thy dusky wings
+         Above me hover and give me--rest?
+
+                (Seizing a flask on the table.)
+         Well, then! Since death thus evades me,
+         Why should I not go in search of him?
+         Hail, my final day, all hail!
+         No fears my heart assail;
+         On earth my days I number;
+         For this draught immortal slumber
+         Will secure me, and care dispel!
+
+    (Pours liquid from the flask into a crystal goblet. Just as he is
+about to raise it to his lips, the following chorus is heard, without.)
+
+_Cho. of Maidens._ Why thy eyes so lustrous
+         Hidest thou from sight?
+         Bright Sol now is scatt'ring
+         Beams of golden light;
+         The nightingale is warbling
+         Its carol of love;
+         Rosy tints of morning
+         Now gleam from above;
+         Flow'rs unfold their beauty
+         To the scented gale;
+         Nature all awakens--
+         Of love tells its tale.
+
+_Faust._ Hence, empty sounds of human joys
+         Flee far from me.
+         O goblet, which my ancestors
+         So many times have filled,
+         Why tremblest thou in my grasp?
+              (Again raising the goblet to his lips.)
+_Cho. of Laborers_
+                    (without).
+         The morn into the fields doth summon us,
+         The swallow hastes away!
+         Why tarry, then?
+         To labor let's away! to work let's on,
+         The sky is bright, the earth is fair,
+         Our tribute, then, let's pay to heav'n.
+
+_Cho. of Maidens and Laborers._
+         Praises to God!
+
+_Faust._ God! God!
+              (He sinks into a chair.)
+         But this God, what will he do for me?
+                      (Rising.)
+         Will he return to me youth, love, and faith?
+                    (With rage.)
+         Cursed be all of man's vile race!
+         Cursed be the chains which bind him in his place!
+         Cursed be visions false, deceiving!
+         Cursed the folly of believing!
+         Cursed be dreams of love or hate!
+         Cursed be souls with joy elate.
+         Cursed be science, prayer, and faith!
+         Cursed my fate in life and death!
+              Infernal king, arise!
+
+            *       *       *       *       *
+
+
+SCENE II.
+
+FAUST AND MEPHISTOPHELES.
+
+_Mep._
+               (suddenly appearing).
+         Here am I! So, I surprise you?
+         SATAN, Sir, at your service!
+         A sword at my side; on my hat a gay feather;--
+         A cloak o'er my shoulder; and altogether,
+         Why, gotten up quite in the fashion!
+                     (Briskly.)
+         But come, Doctor Faust, what is your will?
+         Behold! Speak! Are you afraid of me?
+
+_Faust._ No.
+
+_Mep._   Do you doubt my power?
+
+_Faust._ Perhaps.
+
+_Mep._   Prove it, then.
+
+_Faust._ Begone!
+
+_Mep._   Fie! Fie! Is this your politeness!
+         But learn, my friend, that with Satan
+         One should conduct in a different way.
+         I've entered your door with infinite trouble.
+         Would you kick me out the very same day?
+
+_Faust._ Then what will you do for me?
+
+_Mep._   Anything in the world! All things. But
+         Say first what you would have.
+         Abundance of gold?
+
+_Faust._ And what can I do with riches?
+
+_Mep._   Good. I see where the shoe pinches.
+         You will have glory.
+
+_Faust._ Still wrong.
+
+_Mep._   Power, then.
+
+_Faust._ No. I would have a treasure
+         Which contains all. I wish for youth.
+         Oh! I would have pleasure,
+         And love, and caresses,
+         For youth is the season
+         When joy most impresses.
+         One round of enjoyment,
+         One scene of delight,
+         Should be my employment
+         From day-dawn till night.
+         Oh, I would have pleasure,
+         And love, and caresses;
+         If youth you restore me,
+         My joys I'll renew!
+
+_Mep._   'Tis well--all thou desirest I can give thee.
+
+_Faust._ Ah! but what must I give in return?
+
+_Mep._   'Tis but little:
+         In this world I will be thy slave,
+         But down below thou must be mine.
+
+_Faust._ Below!
+
+_Mep._   Below.
+                  (Unfolding a scroll.)
+         Come, write. What! does thy hand tremble?
+         Whence this dire trepidation?
+         'Tis youth that now awaits thee--Behold!
+
+(At a sign from MEPHISTOPHELES, the scene opens
+and discloses MARGUERITE, spinning.)
+
+_Faust._ Oh, wonder!
+
+_Mep._   Well, how do you like it?
+                 (Taking parchment.)
+_Faust._ Give me the scroll!
+                     (Signs.)
+_Mep._   Come on then! And now, master,
+                  (Taking cup from the table.)
+         I invite thee to empty a cup,
+         In which there is neither poison nor death,
+         But young and vigorous life.
+
+_Faust._
+               (Taking cup and turning toward Marguerite.)
+         O beautiful, adorable vision! I drink to thee!
+
+    (He drinks the contents of the cup, and is transformed
+  into a young and handsome man. The vision disappears.)
+
+_Mep._   Come, then.
+
+_Faust._ Say, shall I again behold her?
+
+_Mep._   Most surely!
+
+_Faust._ When?
+
+_Mep._   This very day!
+
+_Faust._ 'Tis well.
+
+_Mep._   Then let's away.
+
+_Both._  'Tis pleasure I covet,
+         'Tis beauty I crave;
+         I sigh for its kisses,
+         Its love I demand!
+         With ardor unwonted
+         I long now to burn;
+         I sigh for the rapture
+         Of heart and of sense.
+
+               (Exeunt. The curtain falls.)
+
+
+
+
+ACT II.
+
+
+SCENE I.
+
+_The Kermesse._
+
+  (One of the city gates. To the left, an Inn,
+    bearing the sign of the god Bacchus.)
+
+  WAGNER, Students, Burghers, Soldiers, Maidens, and Matrons.
+
+_Studs._ Wine or beer, now, which you will!
+         So the glass quick you fill!
+         And replenish at our need:
+         At our bouts we drink with speed!
+
+_Wag._   Now, young tipplers at the cask,
+         Don't refuse what I ask--
+         Drink to glory! drink to love!
+         Drain the sparkling glass!
+
+_Studs._ We young tipplers at the cask
+         Won't refuse what you ask--
+         Here's to glory! here's to love!
+         Drain the sparkling glass!
+                   (They drink.)
+
+_Soldiers._ Castles, hearts, or fortresses,
+              Are to us all one.
+            Strong towers, maids with fair tresses,
+              By the brave are won;
+            He, who hath the art to take them,
+              Shows no little skill;
+            He, who knows the way to keep them,
+              Hath more wisdom still.
+
+_Citizens._ On holy-days and feast-days,
+         I love to talk of war and battles.
+         While the toiling crowds around
+         Worry their brains with affairs,
+         I stroll calmly to this retreat
+         On the banks of the gliding river,
+         And behold the boats which pass
+         While I leisurely empty my glass.
+
+             (Citizens and soldiers go to back of stage.)
+             (A group of young girls enters.)
+
+_Girls._ Merry fellows come this way,
+         Yes, they now advance;
+         Let us, then, our steps delay,
+         Just to take one glance.
+
+       (They go to right of stage.
+        A second chorus of students enters after them.)
+
+_Studs._ Sprightly maidens now advance,
+         Watch their conquering airs;
+         Friends be guarded, lest a glance
+         Take you unawares.
+
+_Matrons._
+             (watching the students and young girls).
+         Behold the silly damsels,
+         And the foolish young men;
+         We were once as young as they are,
+         And as pretty again.
+   (All join in the following chorus, each singing as follows.)
+
+_Mats._         (to the Maidens).
+            Ye strive hard to please,
+            Your object is plain.
+
+_Studs._    Beer or wine, wine or beer,
+            Nought care I, with heart of cheer.
+
+_Soldiers._ On, then, let's on;
+            Brave soldiers are we,
+            To conquest we'll on.
+
+_Citizens._ Come, neighbor! In this fine weather
+            Let us empty a bottle together!
+
+_Maidens._  They wish to please us, but 'tis in vain!
+            If you are angry, little you'll gain.
+
+_Young Students._ They are bright little maidens, 'tis plain;
+                  We'll contrive their favor to gain.
+
+    (The soldiers and students, laughing, separate the women.
+       All the groups depart.)
+
+            *       *       *       *       *
+
+
+SCENE II.
+
+  WAGNER, SIEBEL, VALENTINE, Students, and afterwards MEPHISTOPHELES.
+
+_Val._
+   (advancing from the back of the stage and holding in his hand
+  a small silver medal).
+         O sacred medallion,
+           Gift of my sister dear
+           To ward off danger and fear,
+         As I charge with my brave battalion,
+           Rest thou upon my heart.
+
+_Wag._   Here comes Valentine, in search of us, doubtless.
+
+_Val._   Let us drain the parting cup, comrades,
+         It is time we were on the road.
+
+_Wag._   What sayst thou?
+         Why this sorrowful farewell?
+
+_Val._   Like you, I soon must quit these scenes,
+         Leaving behind me Marguerite.
+         Alas! my mother no longer lives,
+         To care for and protect her.
+
+_Sie._   More than one friend hast thou
+         Who faithfully will thy place supply.
+
+_Val._   My thanks!
+
+_Sie._   On me you may rely.
+
+_Stud._  In us thou surely mayst confide.
+
+_Val._   Even bravest heart may swell
+         In the moment of farewell.
+         Loving smile of sister kind,
+         Quiet home I leave behind.
+         Oft shall I think of you
+         Whene'er the wine-cup passes round,
+         When alone my watch I keep.
+         But when danger to glory shall call me,
+         I still will be first in the fray,
+         As blithe as a knight in his bridal array.
+         Careless what fate shall befall me
+         When glory shall call me.
+
+_Wag._   Come on, friends! No tears nor vain alarms;
+         Quaff we good wine, to the success of our arms!
+         Drink, boys, drink!
+         In a joyous refrain
+         Bid farewell, till we meet again.
+
+_Cho._   We'll drink! Fill high!
+         Once more in song our voices
+         Let us raise.
+
+_Wag._
+             (mounting on a table).
+         A rat, more coward than brave,
+           And with an exceedingly ugly head,
+         Lodged in a sort of hole or cave,
+           Under an ancient hogshead.
+           A cat--
+
+            *       *       *       *       *
+
+
+SCENE III.
+
+MEPHISTOPHELES and the preceding.
+
+_Mep._
+ (appearing suddenly among the students and interrupting WAGNER).
+         Good sir!
+
+_Wag._   What!
+
+_Mep._   If it so please ye I should wish
+         To mingle with ye a short time.
+         If your good friend will kindly end his song,
+         I'll tell ye a few things well worth the hearing.
+
+_Wag._   One will suffice, but let that one be good.
+
+_Mep._   My utmost I will do
+         Your worships not to bore.
+
+                        I.
+         Calf of Gold! aye in all the world
+         To your mightiness they proffer,
+         Incense at your fane they offer
+         From end to end of all the world.
+         And in honor of the idol
+         Kings and peoples everywhere
+         To the sound of jingling coins
+         Dance with zeal in festive circle,
+         Round about the pedestal.
+         Satan, he conducts the ball.
+
+                        II.
+         Calf of Gold, strongest god below!
+         To his temple overflowing
+         Crowds before his vile shape bowing,
+         The monster dares insult the skies.
+         With contempt he views around him
+         All the vaunted human race,
+         As they strive in abject toil,
+         As with souls debased they circle
+         Round about the pedestal.
+         Satan, he conducts the ball.
+
+_All._   Satan, he conducts the ball.
+
+_Cho._   A strange story this of thine.
+
+_Val._
+                 (aside).
+         And stranger still is he who sings it.
+
+_Wag._
+          (offering a cup to MEPHISTOPHELES).
+         Will you honor us by partaking of wine?
+
+_Mep._   With pleasure. Ah!
+      (Taking WAGNER by the hand, and scrutinizing his palm.)
+         Behold what saddens me to view.
+         See you this line?
+
+_Wag._   Well!
+
+_Mep._   A sudden death it presages,--
+         You will be killed in mounting to th' assault!
+
+_Sie._   You are then a sorcerer!
+
+_Mep._   Even so. And your own hand shows plainly
+         To what fate condemns. What flower you would gather
+         Shall wither in the grasp.
+
+_Sie._   I?
+
+_Mep._   No more bouquets for Marguerite.
+
+_Val._   My sister! How knew you her name?
+
+_Mep._   Take care, my brave fellow!
+         Some one I know is destined to kill you.
+
+                (Taking the cup.)
+         Your health, gentlemen!
+         Pah! What miserable wine!
+         Allow me to offer you some from my cellar?
+
+       (Jumps on the table, and strikes on a little cask,
+         surmounted by the effigy of the god Bacchus,
+         which serves as a sign to the Inn.)
+
+         What ho! thou god of wine, now give us drink!
+          (Wine gushes forth from cask, and
+           MEPHISTOPHELES fills his goblet.)
+         Approach, my friends!
+         Each one shall be served to his liking.
+         To your health, now and hereafter!
+         To Marguerite!
+
+_Val._   Enough! If I do not silence him,
+         And that instantly, I will die.
+             (The wine bursts into flame.)
+
+_Wag._   Hola!
+
+_Cho._   Hola!
+             (They draw their swords.)
+_Mep._   Ah, ha! Why do you tremble so, you who menace me?
+
+       (He draws a circle around him with his sword.
+           VALENTINE attacks; his sword is broken.)
+
+_Val._   My sword, O amazement!
+         Is broken asunder.
+
+_All_
+    (forcing MEPHISTOPHELES to retire by holding toward him the
+       cross-shaped handles of their swords).
+
+         Gainst the powers of evil our arms assailing,
+         Strongest earthly might is unavailing.
+         But thou canst not charm us,
+         Look hither!
+         While this blest sign we wear
+         Thou canst not harm us.
+
+                   (Exeunt.)
+
+            *       *       *       *       *
+
+
+SCENE IV.
+
+MEPHISTOPHELES, then FAUST.
+
+_Mep._
+                (replacing his sword).
+         We'll meet anon, good sirs,--adieu!
+
+_Faust_
+                   (enters).
+         Why, what has happened?
+
+_Mep._   Oh, nothing! let us change the subject!
+         Say, Doctor, what would you of me?
+         With what shall we begin?
+
+_Faust._ Where bides the beauteous maid
+         Thine art did show to me?
+         Or was't mere witchcraft?
+
+_Mep._   No, but her virtue doth protect her from thee,
+         And heaven itself would keep her pure.
+
+_Faust._ It matters not!
+         Come, lead me to her,
+         Or I straightway abandon thee.
+
+_Mep._   Then I'll comply! 'twere pity you should think
+         So meanly of the magic power which I possess.
+         Have patience! and to this joyous tune.
+         Right sure am I, the maiden will appear.
+
+            *       *       *       *       *
+
+
+SCENE V.
+
+    (Students, with Maidens on their arms, preceded by Musicians,
+  take possession of the stage. Burghers in the rear,
+  as at the commencement of the act.)
+
+  Students, Maidens, Burghers, etc., afterwards SIEBEL and MARGUERITE.
+
+_Cho._
+             (marking waltz time with their feet).
+         As the wind that sportively plays,
+         At first will light dust only raise,
+         Yet, at last, becomes a gale,
+         So our dancing and our singing,
+         Soft at first, then loudly ringing,
+         Will resound o'er hill and dale.
+
+   (The Musicians mount upon the table, and dancing begins.)
+
+_Mep._
+                (to FAUST).
+         See those lovely young maidens.
+         Will you not ask of them
+         To accept you?
+
+_Faust._ No! desist from thy idle sport,
+         And leave my heart free to reflection.
+
+_Sie._
+                    (entering).
+         Marguerite this way alone can arrive.
+
+_Some of the Maidens_
+               (approaching SIEBEL).
+         Pray seek you a partner to join in the dance?
+
+_Sie._   No: it has no charm for me.
+
+_Cho._   As the wind that sportively plays,
+         At first will light dust only raise,
+         Yet, at last, becomes a gale,
+         So our dancing and our singing,
+         Soft at first, then loudly ringing,
+         Will resound o'er hill and dale.
+
+                  (MARGUERITE enters.)
+_Faust._ It is she! behold her!
+
+_Mep._   'Tis well! now, then, approach!
+
+_Sie._
+           (perceiving MARGUERITE and approaching her).
+         Marguerite!
+
+_Mep._
+      (turning round and finding himself face to face with SIEBEL).
+         What say you?
+
+_Sie._
+                    (aside).
+         Malediction! here again!
+
+_Mep._
+                    (coaxingly).
+         What, here again, dear boy?
+                    (laughing).
+         Ha, ha! a right good jest!
+
+   (SIEBEL retreats before MEPHISTOPHELES, who then compels him
+  to make a circuit of the stage, passing behind the dancers.)
+
+_Faust_
+       (approaching MARGUERITE, who crosses the stage).
+         Will you not permit me, my fairest demoiselle,
+         To offer you my arm, and clear for you the way?
+
+_Mar._   No, sir. I am no demoiselle, neither am I fair;
+         And I have no need to accept your offered arm.
+                    (Passes FAUST and retires.)
+
+_Faust_
+                (gazing after her).
+         What beauty! What grace! What modesty!
+         O lovely child, I love thee! I love thee!
+
+_Sie._
+      (coming forward, without having seen what has occurred).
+         She has gone!
+
+   (He is about to hurry after MARGUERITE, when he suddenly finds
+  himself face to face with MEPHISTOPHELES--he hastily turns away
+  and leaves the stage.)
+
+_Mep._   Well, Doctor!
+
+_Faust._ Well. She has repulsed me.
+
+_Mep._
+                    (laughing).
+         Ay, truly, I see, in love,
+         You know not how to make the first move.
+
+(He retires with FAUST, in the direction taken by MARGUERITE.)
+
+_Some of the Maidens_
+  (who have noticed the meeting between FAUST and MARGUERITE).
+          What is it?
+
+_Others._ Marguerite. She has refused the escort
+          Of yonder elegant gentleman.
+
+_Studs._
+                (approaching).
+         Waltz again!
+
+_Maidens._
+         Waltz always!
+
+
+
+
+ACT III.
+
+
+SCENE I.
+
+MARGUERITE's Garden.
+
+    (At the back a wall, with a little door. To the left a bower.
+  On the right a pavilion, with a window facing the audience.
+  Trees, shrubs, etc.)
+
+    SIEBEL, alone. (He enters through the little door at the back,
+  and stops on the threshold of the pavilion, near a group of
+  roses and lilies.)
+
+_Sie._
+                        I.
+         Gently whisper to her of love, dear flow'r;
+         Tell her that I adore her,
+         And for me, oh, implore her,
+         For my heart feels alone for her love's pow'r.
+
+         Say in sighing I languish,
+         That for her, in my anguish,
+         Beats alone, dearest flow'r,
+         My aching heart.
+                (Plucks flowers.)
+         Alas! they are wither'd!
+                (Throws them away.)
+         Can the accursed wizard's words be true?
+
+    (Plucks another flower, which, on touching his hand,
+  immediately withers.)
+
+         "Thou shalt ne'er touch flower again
+         But it shall wither!"
+         I'll bathe my hand in holy water!
+
+    (Approaches the pavilion, and dips his fingers in a little
+  font suspended to the wall.)
+
+         When day declines, Marguerite hither
+         Comes to pray, so we'll try again.
+
+                (Plucks more flowers.)
+         Are they wither'd? No!
+         Satan, thou art conquer'd!
+
+                        II.
+         In these flowers alone I've faith,
+         For they will plead for me;
+         To her they will reveal
+         My hapless state.
+         The sole cause of my woe is she,
+         And yet she knows it not.
+         But in these flowers I've faith,
+         For they will plead for me.
+
+    (Plucks flowers in order to make a bouquet,
+  and disappears amongst the shrubs.)
+
+            *       *       *       *       *
+
+
+SCENE II.
+
+MEPHISTOPHELES, FAUST, and SIEBEL.
+
+_Faust._
+        (cautiously entering through the garden door).
+         We are here!
+
+_Mep_.   Follow me.
+
+_Faust._ Whom dost thou see?
+
+_Mep._   Siebel, your rival.
+
+_Faust._ Siebel?
+
+_Mep._   Hush! He comes.
+              (They enter the bower.)
+
+_Sie._
+          (entering with a bouquet in his hand).
+         My bouquet is charming indeed?
+
+_Mep._
+             (aside).
+         It is indeed!
+
+_Sie._                            Victory!
+         Tomorrow I'll reveal all to her.
+         I will disclose to her the secret
+         That lies concealed in my heart:
+         A kiss will tell the rest.
+
+_Mep._
+              (aside, mockingly).
+                                  Seducer!
+
+(Exit SIEBEL, after fastening bouquet to the door of the pavilion.)
+
+            *       *       *       *       *
+
+
+SCENE III.
+
+FAUST and MEPHISTOPHELES.
+
+_Mep._   Now attend, my dear doctor!
+         To keep company with the flowers of our friend,
+         I go to bring you a treasure,
+         Which outshines them beyond measure,
+         And of beauty past believing.
+
+_Faust._ Leave me!
+
+_Mep._   I obey. Deign to await me here.
+                   (Disappears.)
+
+            *       *       *       *       *
+
+
+SCENE IV.
+
+FAUST.
+
+_Faust._
+                   (alone).
+         What new emotion penetrates my soul!
+         Love, a pure and holy love, pervades my being.
+         O Marguerite, behold me at thy feet!
+         All hail, thou dwelling pure and lowly,
+         Home of an angel fair and holy,
+         All mortal beauty excelling!
+         What wealth is here, a wealth outbidding gold,
+         Of peace, and love, and innocence untold!
+         Bounteous Nature! 'twas here by day thy love was taught her,
+         Thou here with kindly care didst o'er-shadow thy daughter
+         Through hours of night!
+         Here waving tree and flower
+         Made her an Eden bower
+         Of beauty and delight,
+         For one whose very birth
+         Brought down heaven to our earth.
+         All hail, thou dwelling pure and lowly,
+         Home of an angel fair and holy.
+
+            *       *       *       *       *
+
+
+SCENE V.
+
+FAUST, MEPHISTOPHELES.
+
+_Mep._
+               (carrying a casket under his arm).
+         What ho! see here!
+         If flowers are more potent than bright jewels,
+         Then I consent to lose my power.
+
+         (Opens the casket and displays the jewels.)
+
+_Faust._ Let us fly; I ne'er will see her more.
+
+_Mep._   What scruple now assails thee?
+          (Lays the casket on the threshold of the pavilion.)
+         See on yonder step,
+         The jewels snugly lie;
+         We've reason now to hope.
+
+    (Draws FAUST after him, and disappears in the garden.
+  MARGUERITE enters through the doorway at the back,
+  and advances silently to the front.)
+
+            *       *       *       *       *
+
+
+SCENE VI.
+
+MARGUERITE.
+
+_Mar._
+                    (alone).
+         Fain would I know the name
+         Of the fair youth I met?
+         Fain would I his birth
+         And station also know?
+
+    (Seats herself at her wheel in the arbor, and arranges
+  the flax upon the spindle.)
+
+                        I.
+         "Once there was a king in Thulé,
+         Who was until death always faithful,
+         And in memory of his loved one
+         Caused a cup of gold to be made."
+                  (Breaking off.)
+         His manner was so gentle! 'Twas true politeness.
+                  (Resuming the song.)
+         "Never treasure prized he so dearly,
+         Naught else would use on festive days,
+         And always when he drank from it,
+         His eyes with tears would be o'erflowing."
+
+                        II.
+         (She rises, and takes a few paces.)
+         "When he knew that death was near,
+         As he lay on his cold couch smiling,
+         Once more he raised with greatest effort
+         To his lips the golden vase."
+                  (Breaking off.)
+         I knew not what to say, my face red with blushes!
+                  (Resuming the song.)
+         "And when he, to honor his lady,
+         Drank from the cup the last, last time,
+         Soon falling from his trembling grasp,
+         Then gently passed his soul away."
+         Nobles alone can bear them with so bold a mien,
+         So tender, too, withal!
+              (She goes toward the pavilion.)
+         I'll think of him no more! Good Valentine!
+         If heav'n heeds my prayer, we shall meet again.
+         Meanwhile I am alone!
+
+    (Suddenly perceiving the bouquet attached to the door
+  of the pavilion.)
+
+         Flowers!
+                 (Unfastens the bouquet.)
+         They are Siebel's, surely!
+         Poor faithful boy!
+                 (Perceiving the casket.)
+         But what is this?
+         From whom did this splendid casket come?
+         I dare not touch it--
+         Yet see, here is the key!--I'll take one look!
+         How I tremble--yet why?--can it be
+         Much harm just to look in a casket!
+                 (Opens the casket and lets the bouquet fall.)
+         Oh, heaven! what jewels!
+         Can I be dreaming?
+         Or am I really awake?
+         Ne'er have I seen such costly things before!
+
+       (Puts down the casket on a rustic seat, and kneels down
+        in order to adorn herself with the jewels.)
+
+         I should just like to see
+         How they'd look upon me
+         Those brightly sparkling ear-drops!
+               (Takes out the ear-rings.)
+         Ah! at the bottom of the casket is a glass:
+         I there can see myself!--
+         But am I not becoming vain?
+
+  (Puts on the ear-rings, rises, and looks at herself in the glass.)
+
+         Ah! I laugh, as I pass, to look into a glass;
+         Is it truly Marguerite, then?
+         Is it you?
+         Tell me true!
+         No, no, no, 'tis not you!
+         No, no, that bright face there reflected
+         Must belong to a queen!
+         It reflects some fair queen, whom I greet as I pass her.
+         Ah! could he see me now,
+         Here, deck'd like this, I vow,
+         He surely would mistake me,
+         And for noble lady take me!
+         I'll try on the rest.
+         The necklace and the bracelets
+         I fain would try!
+            (She adorns herself with the bracelets and necklace,
+                 then rises.)
+         Heavens! 'Tis like a hand
+         That on mine arm doth rest!
+         Ah! I laugh, as I pass, to look into a glass;
+         Is it truly Marguerite, then?
+         Is it you?
+         Tell me true!
+         No, no, no, 'tis not you!
+         No, no, that bright face there reflected
+         Must belong to a queen!
+         It reflects some fair queen, whom I greet as I pass her.
+         Oh! could he see me now,
+         Here, deck'd like this, I vow,
+         He surely would mistake me,
+         And for noble lady take me!
+
+            *       *       *       *       *
+
+
+SCENE VII.
+
+MARGUERITE and MARTHA.
+
+_Mart._  Just heaven! what is't I see?
+         How fair you now do seem!
+         Why, what has happened?
+         Who gave to you these jewels?
+
+_Mar._
+                   (confused).
+         Alas! by some mistake
+         They have been hither brought.
+
+_Mart._  Why so?
+         No, beauteous maiden,
+         These jewels are for you;
+         The gift are they of some enamor'd lord.
+         My husband, I must say,
+         Was of a less generous turn!
+
+(MEPHISTOPHELES and FAUST enter.)
+
+            *       *       *       *       *
+
+
+SCENE VIII.
+
+MEPHISTOPHELES, FAUST, and the before-named.
+
+_Mep._
+                (making a profound bow).
+         Tell me, I pray, are you Martha Schwerlein?
+
+_Mart._  Sir, I am!
+
+_Mep._        Pray pardon me,
+         If thus I venture to present myself.
+                   (Aside, to FAUST.)
+         You see your presents
+         Are right graciously received.
+                   (To MARTHA.)
+         Are you, then, Martha Schwerlein?
+
+_Mart._  Sir, I am.
+
+_Mep._   The news I bring
+         Is of an unpleasant kind:
+         Your much-loved spouse is dead,
+         And sends you greeting.
+
+_Mart._  Great heaven!
+
+_Mar._   Why, what has happened?
+
+_Mep._   Stuff!
+
+    (MARGUERITE hastily takes off the jewels, and is about
+  to replace them in the casket.)
+
+_Mart._  Oh woe! oh, unexpected news!
+
+_Mar._
+                  (aside).
+         How beats my heart
+         Now he is near!
+
+_Faust_
+                  (aside).
+         The fever of my love
+         Is lull'd when at her side!
+
+_Mep._
+                  (to MARTHA).
+         Your much-loved spouse is dead,
+         And sends you greeting!
+
+_Mart._
+               (to MEPHISTOPHELES).
+         Sent he nothing else to me?
+
+_Mep._
+                  (to MARTHA).
+         No. We'll punish him for't;
+         Upon this very day
+         We'll find him a successor.
+
+_Faust_
+                (to MARGUERITE).
+         Wherefore lay aside these jewels?
+
+_Mar._
+                  (to FAUST).
+         Jewels are not made for me;
+         'Tis meet I leave them where they are.
+
+_Mep._
+                  (to MARTHA).
+         Who would not gladly unto
+         You present the wedding-ring?
+
+_Mart._
+                  (aside).
+         Indeed!
+             (to MEPHISTOPHELES).
+         You think so?
+
+_Mep._
+                  (sighing).
+         Ah me! ah, cruel fate!
+
+_Faust_
+                (to MARGUERITE)
+         Pray lean upon mine arm!
+
+_Mar._
+                  (retiring).
+         Leave me, I humbly pray!
+
+_Mep._
+            (offering his arm to MARTHA).
+         Take mine!
+
+_Mart._
+                   (aside).
+         In sooth, a comely knight!
+               (taking his arm.)
+
+_Mep._
+                   (aside).
+         The dame is somewhat tough!
+
+    (MARGUERITE yields her arm to FAUST, and withdraws with him.
+     MEPHISTOPHELES and MARTHA remain together.)
+
+_Mart._  And so you are always traveling!
+
+_Mep._   A hard necessity it is, madame!
+         Alone and loveless. Ah!
+
+_Mart._ In youth it matters not so much,
+         But in late years 'tis sad indeed!
+         Right melancholy it is in solitude
+         Our olden age to pass!
+
+_Mep._   The very thought doth make me shudder.
+         But still, alas! what can I do?
+
+_Mart._  If I were you, I'd not delay,
+         But think on't seriously at once.
+
+_Mep._   I'll think on't!
+
+_Mart._  At once and seriously!
+
+    (They withdraw. FAUST and MARGUERITE re-enter.)
+
+_Faust._ Art always thus alone?
+
+_Mar._   My brother is at the wars,
+         My mother dear is dead!
+         By misadventure, too,
+         My dear sister have I lost.
+         Dear sister mine!
+         My greatest happiness was she.
+         Sad sorrows these;
+         When our souls with love are filled,
+         Death tears the loved one from us!
+         At morn, no sooner did she wake,
+         Than I was always at her side!
+         The darling of my life was she!
+         To see her once again,
+         I'd gladly suffer all.
+
+_Faust._ If heaven, in joyous mood,
+         Did make her like to thee,
+         An angel must she indeed have been!
+
+_Mar._   Thou mock'st me!
+
+_Faust._ Nay, I do love thee!
+
+_Mar._
+                    (sighing).
+         Flatterer! thou mock'st me!
+         I believe thee not! thou seekest to deceive.
+         No longer will I stay, thy words to hear.
+
+_Faust_
+                   (to MARGUERITE).
+         Nay, I do love thee! Stay, oh stay!
+         Heaven hath with an angel crown'd my path.
+         Why fear'st thou to listen?
+         It is my heart that speaks.
+
+(Re-enter MEPHISTOPHELES and MARTHA.)
+
+_Mart._
+                (to MEPHISTOPHELES).
+
+         Of what now are you thinking?
+         You heed me not--perchance you mock me.
+         Now list to what I say.--
+         You really must not leave us thus!
+
+_Mep._
+                   (to MARTHA).
+         Ah, chide me not, if my wanderings I resume.
+         Suspect me not; to roam I am compelled!
+         Need I attest how gladly I remain.
+         I hear but thee alone.
+                   (Night comes on.)
+
+_Mar._
+                   (to FAUST).
+         It grows dark,--you must away.
+
+_Faust_
+                   (embracing her).
+         My loved one!
+
+_Mar._   Ah! no more!
+                   (Escapes.)
+
+_Faust._ Ah, cruel one, would'st fly?
+                   (Pursuing her.)
+
+_Mep._
+       (aside, whilst MARTHA angrily turns her back to him).
+         The matter's getting serious,
+         I must away.
+              (Conceals himself behind a tree.)
+
+_Mart._
+                      (aside).
+         What's to be done? he's gone!
+         What ho, good sir!
+
+                     (Retires.)
+_Mep._   Yes, seek for me--that's right!
+         I really do believe
+         The aged beldame would
+         Actually have married Satan!
+
+_Faust_
+                   (without).
+         Marguerite!
+
+_Mart._
+                   (without).
+         Good sir!
+
+_Mep._ Your servant!
+
+            *       *       *       *       *
+
+
+SCENE IX.
+
+MEPHISTOPHELES.
+
+_Mep._   'Twas high time!
+         By night, protected,
+         In earnest talk of love,
+         They will return! 'Tis well!
+         I'll not disturb
+         Their amorous confabulation!
+         Night, conceal them in thy darkest shade.
+         Love, from their fond hearts
+         Shut out all troublesome remorse.
+         And ye, O flowers of fragrance subtle,
+         This hand accurs'd
+         Doth cause ye all to open!
+         Bewilder the heart of Marguerite!
+
+              (Disappears amid the darkness.)
+
+            *       *       *       *       *
+
+
+SCENE X.
+
+FAUST and MARGUERITE.
+
+_Mar._   It groweth late, farewell!
+
+_Faust._ I but implore in vain.
+         Let me thy hand take, and clasp it,
+         And behold but thy face once again,
+         Illum'd by that pale light,
+         From yonder moon that shines,
+         O'er thy beauteous features shedding
+         Its faint but golden ray.
+
+_Mar._   Oh, what stillness reigns around,
+         Oh, ineffable mystery!
+         Sweetest, happiest feeling,
+         I list; a secret voice
+         Now seems to fill my heart.
+         Still its tone again resoundeth in my bosom.
+         Leave me awhile, I pray.
+               (Stoops and picks a daisy.)
+
+_Faust._ What is it thou doest?
+
+_Mar._   This flower I consult.
+
+            (She plucks the petals of the daisy.)
+
+_Faust_
+                     (aside).
+         What utters she in tones subdued?
+
+_Mar._   He loves me!--no, he loves me not!
+         He loves me!--no!--He loves me!
+
+_Faust._ Yes, believe thou this flower,
+         The flower of loves.
+         To thine heart let it tell
+         The truth it would teach,--
+         He loves thee! Know'st thou not
+         How happy 'tis to love?
+         To cherish in the heart a flame that never dies!
+         To drink forever from the fount of love!
+
+_Both._  We'll love for ever!
+
+_Faust._ Oh, night of love! oh, radiant night!
+         The bright stars shine above;
+         Oh, joy, this is divine!
+         I love, I do adore thee!
+
+_Mar._   Mine idol fond art thou!
+         Speak, speak again!
+         Thine, thine I'll be;
+         For thee I'll gladly die.
+
+_Faust._ Oh, Marguerite!
+
+_Mar._
+       (suddenly tearing herself from FAUST'S arms).
+                            Ah, leave me!
+
+_Faust._ Cruel one!
+
+_Mar._   Fly hence! alas! I tremble!
+
+_Faust._ Cruel one!
+
+_Mar._   Pray leave me!
+
+_Faust._ Would'st thou have me leave thee?
+         Ah! see'st thou not my grief?
+         Ah, Marguerite, thou breakest my heart!
+
+_Mar._   Go hence! I waver! mercy, pray!
+         Fly hence! alas! I tremble!
+         Break not, I pray, thy Marguerite's heart!
+
+_Faust._ In pity--
+
+_Mar._   If to thee I'm dear,
+         I conjure thee, by thy love,
+         By this fond heart,
+         That too readily its secret hath revealed,
+         Yield thee to my prayer,--
+         In mercy get thee hence!
+              (Kneels at the feet of FAUST.)
+
+_Faust_
+       (after remaining a few moments silent, gently raising her).
+         O fairest child,
+         Angel so holy,
+         Thou shalt control me,
+         Shalt curb my will.
+         I obey; but at morn--
+
+_Mar._   Yes, at morn,
+         Very early.
+
+_Faust._ One word at parting.
+         Repeat thou lovest me.
+
+_Mar._   Adieu!
+
+    (Hastens towards the pavilion, then stops short on the threshold,
+  and wafts a kiss to FAUST.)
+
+_Faust._ Adieu! Were it already morn!
+
+            *       *       *       *       *
+
+
+SCENE XI.
+
+FAUST, MEPHISTOPHELES.
+
+_Mep._   Fool!
+
+_Faust._ You overheard us?
+
+_Mep._   Happily. You have great need, learned Doctor,
+         To be sent again to school.
+
+_Faust._ Leave me!
+
+_Mep._   Deign first to listen for a moment,
+         To the speech she rehearses to the stars.
+         Dear master, delay. She opens her window.
+
+    (MARGUERITE opens the window of the pavilion,
+  and remains with her head resting on her hand.)
+
+            *       *       *       *       *
+
+
+SCENE XII.
+
+The preceding. MARGUERITE.
+
+_Mar._   He loves me! Wildly beats my heart!
+         The night-bird's song,
+         The evening breeze,
+         All nature's sounds together say,
+         "He loves thee!"
+         Ah! sweet, sweet indeed
+         Now is this life to me!
+         Another world it seems;
+         The very ecstasy of love is this!
+         With to-morrow's dawn,
+         Haste thee, oh dear one,
+         Haste thee to return! Yes, come!
+
+_Faust._
+         (rushing to the window, and grasping her hand).
+             Marguerite!
+
+MAR.               Ah!
+
+_Mep._
+                    (mockingly).
+                       Ho! ho!
+
+    (MARGUERITE, overcome, allows her head to fall on FAUST'S shoulder.
+  MEPHISTOPHELES opens the door of the garden, and departs, laughing
+  derisively. The curtain falls.)
+
+
+
+
+ACT IV.
+
+
+SCENE I.
+
+_Marguerite's Room._
+
+SIEBEL and MARGUERITE.
+
+_Sie._
+                 (quietly approaching).
+         Marguerite!
+
+_Mar._   Siebel!
+
+_Sie._                What, weeping still!
+
+_Mar._   Alas! thou alone art kind to me.
+
+_Sie._   A mere youth am I.
+         And yet I have a manly heart,
+         And I will sure avenge thee.
+         The seducer's life shall forfeit pay.
+
+_Mar._                    Whose life?
+
+_Sie._   Need I name him? The wretch
+         Who thus hast deserted thee!
+
+_Mar._   In mercy, speak not thus!
+
+_Sie._   Dost love him still, then?
+
+_Mar._   Ay, I love him still!
+         But not to you, good Siebel, should I repeat this tale.
+
+_Sie._
+                        I.
+         When all was young, and pleasant May was blooming,
+         I, thy poor friend, took part with thee in play;
+         Now that the cloud of autumn dark is glooming,
+         Now is for me, too, mournful the day.
+         Hope and delight have passed from life away.
+
+                        II.
+         We were not born with true love to trifle,
+         Nor born to part because the wind blows cold.
+         What though the storm the summer garden rifle,
+         Oh, Marguerite! oh, Marguerite!
+         Still on the bough is left a leaf of gold.
+
+_Mar._   Bless you, my friend, your sympathy is sweet.
+         The cruel ones who wrong me thus
+         Cannot close against me
+         The gates of the holy temple.
+         Thither will I go to pray
+         For him and for our child.
+             (Exit. SIEBEL follows slowly after.)
+
+            *       *       *       *       *
+
+
+SCENE II.
+
+_Interior of a Church._
+
+MARGUERITE, then MEPHISTOPHELES.
+
+    (Women enter the church and cross the stage.
+  MARGUERITE enters after them, and kneels.)
+
+_Mar._                     O heaven!
+         Permit thy lowly handmaiden
+         To prostrate herself before thine altar.
+
+_Mep._   No, thou shalt not pray!
+         Spirits of evil, haste ye at my call,
+         And drive this woman hence!
+
+_Cho. of Demons._    Marguerite!
+
+_Mar._   Who calls me?
+
+_Cho._   Marguerite!
+
+_Mar._   I tremble!--oh, heaven!
+         My last hour is surely nigh!
+
+    (The tomb opens and discloses MEPHISTOPHELES,
+  who bends over to MARGUERITE's ear.)
+
+_Mep._   Remember the glorious days
+         When an angel's wings
+         Protected thy young heart.
+         To church thou camest then to worship,
+         Nor hadst thou then sinned 'gainst heaven.
+         Thy prayers then issued
+         From an unstained heart
+         And on the wings of faith
+         Did rise to the Creator.
+         Hear'st thou their call?
+         'Tis hell that summons thee!
+         Hell claims thee for its own!
+         Eternal pain, and woe, and tribulation,
+         Will be thy portion!
+
+_Mar._   Heaven! what voice is this
+         That in the shade doth speak to me?
+         What mysterious tones are these!
+
+_Religious Cho._ When the last day shall have come,
+         The cross in heaven shall shine forth,
+         This world to dust shall crumble.
+
+_Mar._   Ah me! more fearful still becomes their song.
+
+_Mep._   No pardon hath heaven left for thee!
+         For thee e'en heaven hath no more light!
+
+_Religious Cho._ What shall we say unto high heav'n?
+         Who shall protection find
+         When innocence such persecution meets?
+
+_Mar._   A heavy weight my breast o'erpowers,--
+         I can no longer breathe!
+
+_Mep._   Nights of love, farewell!
+         Ye days of joy, adieu!
+         Lost, lost for aye art thou!
+
+_Mar. and Cho._
+         Heav'n! hear thou the prayer
+         Of a sad, broken heart!
+         A bright ray send thou
+         From the starry sphere
+         Her anguish to allay!
+
+_Mep._   Marguerite, lost, lost art thou!
+
+_Mar._                           Ah!
+                  (He disappears.)
+
+            *       *       *       *       *
+
+
+SCENE III.
+
+The Street.
+
+VALENTINE, Soldiers, then SIEBEL.
+
+_Cho._   Our swords we will suspend
+         Over the paternal hearth;
+         At length we have returned.
+         Sorrowing mothers no longer
+         Will bewail their absent sons.
+
+            *       *       *       *       *
+
+
+SCENE IV.
+
+VALENTINE and SIEBEL.
+
+_Val._
+               (perceiving SIEBEL, who enters).
+         Ah, Siebel, is it thou?
+
+_Sie._   Dear Valentine!
+
+_Val._   Come, then, to my heart!
+
+                (embracing him).
+         And Marguerite?
+
+_Sie._          (confused).
+         Perhaps she's yonder at the church.
+
+_Val._   She doubtless prays for my return.
+         Dear girl, how pleased
+         She'll be to hear me tell
+         My warlike deeds!
+
+_Cho._   Glory to those who in battle fall,
+         Their bright deeds we can with pride recall.
+         May we, then, honor and fame acquire,
+         Their glorious deeds our hearts will inspire!
+         For that dear native land where we first drew breath,
+         Her sons, at her command proudly brave e'en death.
+         At their sacred demand who on us depend,
+         Our swords we will draw, their rights to defend.
+         Homeward our steps we now will turn,--
+         Joy and peace await us there!
+         On, on at once, nor loiter here;
+         On, then, our lov'd ones to embrace,--
+         Affection calls, fond love doth summon us,
+         Yes, many a heart will beat
+         When they our tale shall hear.
+
+_Val._   Come, Siebel, we'll to my dwelling
+         And o'er a flask of wine hold converse.
+             (Approaching MARGUERITE'S house.)
+
+_Sie._   Nay, enter not!
+
+_Val._   Why not, I pray?--Thou turn'st away;
+         Thy silent glance doth seek the ground--
+         Speak, Siebel--what hath happened?
+
+_Sie._
+                (with an effort.)
+         No! I cannot tell thee!
+
+_Val._ What mean'st thou?
+               (Rushing toward house.)
+
+
+_Sie._
+                  (withholding him.)
+         Hold, good Valentine, take heart!
+
+_Val._   What is't thou mean'st!
+                  (Enters the house.)
+
+_Sie._   Forgive her!
+         Shield her, gracious Heaven!
+
+    (Approaches the church. FAUST and MEPHISTOPHELES
+     enter at the back; MEPHISTOPHELES carries a guitar.)
+
+            *       *       *       *       *
+
+
+SCENE V.
+
+FAUST and MEPHISTOPHELES.
+
+(Faust goes towards MARGUERITE's house, but hesitates.)
+
+_Mep._   Why tarry ye?
+         Let us enter the house.
+
+_Faust._ Peace! I grieve to think that I
+         Brought shame and sorrow hither.
+
+_Mep._   Why see her again, then, after leaving her?
+         Some other sight might be more pleasing.
+         To the sabbath let us on.
+
+_Faust_
+                     (sighing).
+         Oh, Marguerite!
+
+_Mep._   My advice, I know,
+         Availeth but little
+         Against thy stubborn will.
+         Doctor, you need my voice!
+
+   (Throwing back his mantle, and accompanying himself on the guitar.)
+
+                        I.
+         Maiden, now in peace reposing,
+         From thy sleep awake,
+         Hear my voice with love imploring,
+         Wilt thou pity take?
+         But beware how thou confidest
+         Even in thy friend,
+         Ha! ha! ha!
+         If not for thy wedding finger
+         He a ring doth send.
+
+                        II.
+         Yes, sweet maiden, I implore thee,--
+         Oh, refuse not this,--
+         Smile on him who doth adore thee,
+         Bless him with thy kiss.
+         But beware how thou confidest,
+         Even in thy friend,
+         Ha! ha! ha!
+         If not for thy wedding finger
+         He a ring doth send.
+            (VALENTINE rushes from the house.)
+
+            *       *       *       *       *
+
+
+SCENE VI.
+
+VALENTINE and the before-named.
+
+_Val._   Good sir, what want you here?
+
+_Mep._   My worthy fellow, it was not to you
+         That we addressed our serenade!
+
+_Val._   My sister, perhaps, would more gladly hear it!
+    (VALENTINE draws his sword, and breaks MEPHISTOPHELES' guitar.)
+
+_Faust._ His sister!
+
+_Mep._
+                   (to VALENTINE)
+         Why this anger?
+         Do ye not like my singing?
+
+_Val._   Your insults cease!
+         From which of ye must I demand
+         Satisfaction for this foul outrage?
+         Which of ye must I now slay?
+
+                (FAUST draws his sword.)
+         'Tis he!
+
+_Mep._   Your mind's made up, then!
+         On, then, doctor, at him, pray!
+
+_Val._   Oh, heaven, thine aid afford,
+         Increase my strength and courage,
+         That in his blood my sword
+         May wipe out this fell outrage!
+
+_Faust._ What fear is this unnerves my arm?
+         Why falters now my courage?
+         Dare I to take his life,
+         Who but resents an outrage?
+
+_Mep._   His wrath and his courage
+         I laugh alike to scorn!
+         To horse, then, for his last journey
+         The youth right soon will take!
+
+_Val._
+
+     (taking in his hand the medallion suspended round his neck).
+         Thou gift of Marguerite,
+         Which till now hath ever saved me,
+         I'll no more of thee--I cast thee hence!
+         Accursed gift, I throw thee from me!
+                (Throws it angrily away.)
+
+_Mep._
+                      (aside).
+         Thou'll repent it!
+
+_Val._
+                    (to FAUST).
+         Come on, defend thyself!
+
+_Mep._
+                 (to FAUST, in a whisper).
+         Stand near to me, and attack him only;
+         I'll take care to parry!
+                     (They fight.)
+
+_Val._
+               (falling).
+         Ah!
+
+_Mep._                 Behold our hero,
+         Lifeless on the ground!
+         Come, we must hence--quick, fly!
+             (Exit, dragging FAUST after him.)
+
+            *       *       *       *       *
+
+
+SCENE VII.
+
+    (Enter Citizens, with lighted torches;
+  afterwards SIEBEL and MARGUERITE.)
+
+_Cho._   Hither, hither, come this way--
+         They're fighting here hard by!
+         See, one has fallen;
+         The unhappy man lies prostrate there.
+         Ah! he moves--yes, still he breathes;
+         Quick, then, draw nigh
+         To raise and succor him!
+
+_Val._   'Tis useless, cease these vain laments.
+         Too often have I gazed
+         On death, to heed it
+         When my own time hath come!
+
+    (MARGUERITE appears at the back, supported by SIEBEL.)
+
+_Mar._
+      (advancing, and falling on her knees at VALENTINE's side).
+         Valentine! ah, Valentine!
+
+_Val._
+                 (thrusting her from him).
+         Marguerite!
+         What would'st thou here?--away!
+
+_Mar._   O heav'n!
+
+_Val._   For her I die! Poor fool!
+         I thought to chastise her seducer!
+
+_Cho._
+            (in a low voice, pointing to MARGUERITE).
+         He dies, slain by her seducer!
+
+_Mar._   Fresh grief is this! ah, bitter punishment.
+
+_Sie._   Have pity on her, pray!
+
+_Val._
+              (supported by those around him).
+         Marguerite, give ear awhile;
+         That which was decreed
+         Hath duly come to pass.
+         Death comes at its good pleasure:
+         All mortals must obey its behest.
+         But for you intervenes an evil life!
+         Those white hands will never work more;
+         The labors and sorrows that others employ,
+         Will be forgotten in hours of joy.
+         Darest thou live, ingrate?
+         Darest thou still exist?
+         Go! Shame overwhelm thee! Remorse follow thee!
+         At length _thy_ hour will sound.
+         Die! And if God pardons thee hereafter,
+         So may this life be a continual curse!
+
+_Cho._   Terrible wish! Unchristian thought!
+         In thy last sad hour, unfortunate!
+         Think of thy own soul's welfare.
+         Forgive, if thou wouldst be forgiven.
+
+_Val._   Marguerite; I curse you! Death awaits me.
+         I die by your hand; but I die a soldier.
+
+                     (Dies.)
+_Cho._   God receive thy spirit!
+         God pardon thy sins!
+
+                    (Curtain.)
+
+
+
+
+ACT V.
+
+
+SCENE I.
+
+A Prison.
+
+MARGUERITE asleep; FAUST and MEPHISTOPHELES.
+
+_Faust._ Go! get thee hence!
+
+_Mep._   The morn appears, black night is on the wing.
+         Quickly prevail upon Marguerite to follow thee.
+         The jailer soundly sleeps--here is the key,
+         Thine own hand now can ope the door.
+
+_Faust._ Good! Get thee gone!
+
+_Mep._   Be sure thou tarry not!
+         I will keep watch without.
+                      (Exit.)
+
+_Faust._ With grief my heart is wrung!
+         Oh, torture! oh, source of agony
+         And remorse eternal! Behold her there
+         The good, the beauteous girl,
+         Cast like a criminal
+         Into this vile dungeon;
+         Grief must her reason have disturbed,
+         For, with her own hand, alas!
+         Her child she slew!
+         Oh, Marguerite!
+
+_Mar._
+                    (waking).
+         His voice did sure
+         Unto my heart resound.
+                    (Rises.)
+
+_Faust._ Marguerite!
+
+_Mar._   At that glad sound it wildly throbs again
+         Amid the mocking laugh of demons.
+
+_Faust._ Marguerite!
+
+_Mar._   Now am I free. He is here. It is his voice.
+         Yes, thou art he whom I love.
+         Fetters, death, have no terrors for me;
+         Thou hast found me. Thou hast returned.
+         Now am I saved! Now rest I on thy heart!
+
+_Faust._ Yes, I am here, and I love thee,
+         In spite of the efforts of yon mocking demon.
+
+    (FAUST attempts to draw her with him.
+  She gently disengages herself from his arms.)
+
+_Mar._   Stay! this is the spot
+         Where one day thou didst meet me.
+         Thine hand sought mine to clasp.
+         "Will you not permit me, my fairest demoiselle,
+         To offer you my arm, and clear for you the way?"
+         "No, sir. I am no demoiselle, neither am I fair;
+         And I have no need to accept your offered arm."
+
+_Faust._ What is't she says? Ah me! Ah me!
+
+_Mar._   And the garden I love is here,
+         Odorous of myrtle and roses,
+         Where every eve thou camest in
+         With careful step, as night was falling.
+
+_Faust._ Come, Marguerite, let us fly!
+
+_Mar._   No! stay a moment!
+
+_Faust._ O heav'n, she does not understand!
+
+            *       *       *       *       *
+
+
+SCENE II.
+
+MEPHISTOPHELES and the preceding.
+
+_Mep._   Away at once, while yet there's time!
+         If longer ye delay,
+         Not e'en my power can save ye.
+
+_Mar._   See'st thou yon demon crouching in the shade?
+         His deadly glance is fixed on us;
+         Quick! drive him from these sacred walls.
+
+_Mep._   Away! leave we this spot,
+         The dawn hath appeared;
+         Hear'st thou not the fiery chargers,
+         As with sonorous hoof they paw the ground?
+            (Endeavoring to drag FAUST with him.)
+         Haste ye, then,--perchance there yet
+         Is time to save her!
+
+_Mar._   O Heaven, I crave thy help!
+         Thine aid alone I do implore!
+                   (Kneeling.)
+         Holy angels, in heaven bless'd,
+         My spirit longs with ye to rest!
+         Great Heaven, pardon grant, I implore thee,
+         For soon shall I appear before thee!
+
+_Faust._ Marguerite! Follow me, I implore!
+
+_Mar._   Holy angels, in heaven bless'd,
+         My spirit longs with ye to rest!
+         Great Heaven, pardon grant, I implore thee,
+         For soon shall I appear before thee!
+
+_Faust._ O Marguerite!
+
+_Mar._   Why that glance with anger fraught?
+
+_Faust._ Marguerite!
+
+_Mar._   What blood is that which stains thy hand!
+         Away! thy sight doth cause me horror!
+                   (Falls.)
+
+_Mep._   Condemned!
+
+_Cho._   Saved!
+         Christ hath arisen!
+         Christ hath arisen!
+         Christ is born again!
+         Peace and felicity
+         To all disciples of the Master!
+         Christ hath arisen!
+
+    (The prison walls open. The soul of MARGUERITE rises towards
+  heaven. FAUST gazes despairingly after her, then falls on his
+  knees and prays. MEPHISTOPHELES turns away, barred by the
+  shining sword of an archangel.)
+
+END OF THE OPERA.
+
+
+
+
+ACTE PREMIER.
+
+
+SCÈNE PREMIERE.
+
+_Le Cabinet de Faust._
+
+(FAUST, seul. Sa lampe est près de s'eteindre. Il est assis devant une
+  table chargée de parchemins. Un livre est ouvert devant lui.)
+
+_Faust._ Rien!...--En vain j'interroge, en mon ardente veille,
+         La nature et le Créateur;
+         Pas une voix ne glisse à mon oreille
+         Un mot consolateur!
+         J'ai langui triste et solitaire,
+         Sans pouvoir briser le lien
+         Qui m'attache encore à la terre!...
+         Je ne vois rien!--Je ne sais rien!...
+
+    (Il ferme le livre et se lève. Le jour commence à naitre.)
+         Le ciel pâlit!--Devant l'aube nouvelle
+         La sombre nuit
+         S'évanouit!...
+                 (Avec désespoir.)
+         Encore un jour!--encore un jour qui luit!...
+         O mort, quand viendras-tu m'abriter sous ton aile?
+              (Saisissant une fiole sur la table.)
+         Eh bien! puisque la mort me fuit,
+         Pourquoi n'irais-je pas vers elle?...
+         Salut! ô mon dernier matin!
+         J'arrive sans terreur au terme du voyage;
+         Et je suis, avec ce breuvage,
+         Le seul maître de mon destin!
+
+    (Il verse le contenu de la fiole dans une coupe de cristal.
+ Au moment où il va porter la coupe à ses lèvres, des voix de
+ jeunes filles se font entendre au dehors.)
+
+_Choeur de Jeunes Filles._ Paresseuse fille
+         Qui sommeille encor!
+         Déjà le jour brille
+         Sous son manteau d'or.
+         Déjà l'oiseau chante
+         Ses folles chansons;
+         L'aube caressante
+         Sourit aux moissons;
+         Le ruisseau murmure,
+         La fleur s'ouvre au jour,
+         Toute la nature
+         S'éveille à l'amour!
+
+_Faust._ Vains échos de la joie humaine,
+         Passez, passez votre chemin!...
+         O coupe des aïeux, qui tant fois fus pleine,
+         Pourquoi trembles-tu dans ma main?...
+        (Il porte de nouveau la coupe à ses lèvres.)
+
+_Choeur des Laboureurs_
+                         (dehors).
+         Aux champs l'aurore nous rappelle;
+         Le temps est beau, la terre est belle;
+         Béni soit Dieu!
+         A peine voit-on l'hirondelle,
+         Qui vole et plonge d'un coup d'aile
+         Dans le profondeur du ciel bleu!
+
+_Jeunes Filles et Labs._ Béni soit Dieu!
+
+_Faust._ (_reposant la coupe_) Dieu!
+
+            (Il se laisse retomber dans son fauteuil.)
+         Mais ce Dieu, que peut-il pour moi!
+                    (Se levant.)
+         Me rendra-t'il l'amour, l'espérance et la foi?
+                    (Avec rage.)
+         Maudites soyez-vous, ô voluptés humaines!
+         Maudites soient les chaînes
+         Qui me font ramper ici-bas!
+         Maudit soit tout ce qui nous leurre,
+         Vain espoir qui passe avec l'heure,
+         Rêves d'amour ou de combats!
+         Maudit soit le bonheur, maudites la science,
+         La prière et la foi!
+         Maudite sois-tu, patience!
+         A moi, Satan! à moi!
+
+            *       *       *       *       *
+
+
+SCÈNE II.
+
+FAUST, MEPHISTOPHELES.
+
+_Mep._
+                    (apparaissant).
+         Me voici!... D'où vient ta surprise!
+         Ne suis-je pas mis à ta guise?
+         L'épée au côté, la plume au chapeau,
+         L'escarcelle pleine, un riche manteau
+         Sur l'épaule;--en somme
+         Un vrai gentilhomme!
+         Eh bien! que me veux-tu, docteur!
+         Parle, voyons!...--Te fais-je peur?
+
+_Faust._ Non.
+
+_Mep._   Doutes-tu ma puissance?...
+
+_Faust._ Peut-être!
+
+_Mep._   Mets-la donc à l'épreuve!...
+
+_Faust._ Va-t'en!
+
+_Mep._   Fi!--c'est là ta reconnaissance!
+         Apprends de moi qu'avec Satan
+         L'on en doit user d'autre sorte,
+         Et qu'il n'était pas besoin
+         De l'appeler de si loin
+         Pour le mettre ensuite à la porte!
+
+_Faust._ Et que peux-tu pour moi?
+
+_Mep._   Tout.--Mais dis-moi d'abord
+         Ce que tu veux;--est-ce de l'or?
+
+_Faust._ Que ferais-je de la richesse?
+
+_Mep._   Bien! je vois où le bât te blesse!
+         Tu veux la gloire?
+
+_Faust._ Plus encor!
+
+_Mep._  La puissance!
+
+_Faust._ Non! je veux un trésor
+         Qui les contient tous!... je veux la jeunesse!
+         A moi les plaisirs,
+         Les jeunes maîtresses!
+         A moi leurs caresses!
+         A moi leurs désirs?
+         A moi l'énergie
+         Des instincts puissants,
+         Et la folle orgie
+         Du coeur et des sens!
+         Ardente jeunesse,
+         A moi tes désirs!
+         A moi ton ivresse!
+         A moi tes plaisirs!...
+
+_Mep._   Fort bien! je puis contenter ton caprice
+
+_Faust._ Et que te donnerai-je en retour?
+
+_Mep._   Presque rien:
+         Ici, je suis à ton service,
+         Mais là-bas tu seras au mien.
+
+_Faust._ Là-bas?...
+
+_Mep._   Là-bas.
+                (Lui présentant un parchemin.)
+         Allons, signe.--Eh quoi! ta main tremble!
+         Que faut-il pour te décider?
+         La jeunesse t'appelle; ôse la regarder!...
+
+   (Il fait un geste. Au fond du théâtre s'ouvre et laisse voir
+  MARGUERITE assise devant son rouet et filant.)
+
+_Faust._ O merveille!...
+
+_Mep._   Eh bien! que t'ensemble?
+                 (Prenant le parchemin.)
+_Faust._ Donne!...
+                     (Il signe.)
+_Mep._   Allons donc!
+             (Prenant la coupe restée sur la table.)
+         Et maintenant,
+         Maître, c'est moi qui te convie
+         A vider cette coupe où fume en bouillonnant
+         Non plus la mort, non plus le poison;--mais la vie!
+
+_Faust._
+        (Prenant la coupe et se tournant vers MARGUERITE.)
+         A toi, fantôme adorable et charmant!...
+
+     (Il vide la coupe et se trouve métamorphosé en jeune
+   et élégant seigneur. La vision disparaît.)
+
+_Mep._   Viens!
+
+_Faust._ Je la reverrai?
+
+_Mep._   Sans doute.
+
+_Faust._ Quand?
+
+_Mep._   Aujourd'hui.
+
+_Faust._ C'est bien!
+
+_Mep._   En route!
+
+_Faust._ A moi les plaisirs,
+         Les jeunes maîtresses!
+         A moi leurs caresses!
+         A moi leurs désirs!
+
+_Mep._   A toi la jeunesse,
+         A toi ses désirs,
+         A toi son ivresse,
+         A toi ses plaisirs!
+              (Ils sortent.--La toile tombe.)
+
+
+
+
+ACTE DEUXIÈME.
+
+
+SCÈNE PREMIÈRE.
+
+_La Kermesse._
+
+    (Une des portes de la ville.
+      A gauche un caborte à l'enseigne du Bacchus)
+
+   WAGNER, Etudiants, Bourgeois, Soldats, Jeunes Filles, Matrones.
+
+_Etuds._             Vin ou bière,
+                     Bière ou vin,
+                     Que mon verre
+                       Soit plein!
+                     Sans vergogne,
+                     Coup sur coup,
+                     Un ivrogne
+                     Boit tout!
+
+_Wag._   Jeune adepte          Que ta gloire,
+         De tonneau            Tes amours,
+         N'en excepte          Soient de boire
+         Que l'eau!                Toujours!
+            (Ils trinquent et boivent.)
+
+_Soldats._ Filles ou forteresses,
+         C'est tout un, morbleu!
+         Vieux burgs, jeunes maîtresses
+         Sont pour nous un jeu!
+         Celui qui sait s'y prendre
+         Sans trop de façon,
+         Les oblige à se rendre
+         En payant rançon!
+
+_Bourgeois._ Aux jours de dimanche et de fête,
+         J'aime à parler guerre et combats;
+         Tandis que les peuples là-bas
+         Se cassent la tête.
+         Je vais m'asseoir sur les coteaux
+         Qui sont voisins de la rivière,
+         Et je vois passer les bateaux
+         En vidant mon verre!
+     (Bourgeois et Soldats remontent vers le fond du théâtre.)
+
+            (Un groupe de jeunes filles entre en scène.)
+_Les Jeunes Filles_
+                   (regardant de côté).
+         Voyez ces hardis compères
+         Qui viennent là-bas;
+         Ne soyons pas trop sévères,
+         Retardons le pas.
+
+   (Elles gagnent la droite du théâtre.
+     Un second choeur d'étudiants entre à leur suite.)
+
+_Deuxième Cho. d'Etuds._ Voyez ces mines gaillardes
+         Et ces airs vainqueurs!
+         Amis, soyons sur nos gardes,
+         Tenons bien nos coeurs!
+
+_Cho. De Mats._
+        (observant les étudiants et les jeunes filles).
+         Voyez après ces donzelles
+         Courir ces messieurs!
+         Nous sommes aussi bien qu'elles,
+         Sinon beaucoup mieux!
+                   (Ensemble.)
+
+_Mats._
+                   (aux jeunes filles).
+         Vous voulez leur plaire
+         Nous le voyons bien
+
+_Etuds._ Vin ou bière,
+         Bière ou vin,
+         Que mon verre
+         Soit plein!
+
+_Sols._  Pas be beauté fière!
+         Nous savons leur plaire
+         En un tour de main!
+
+_Bourg._ Vidons un verre
+         De ce bon vin!
+
+_Jeunes Filles._ De votre colère
+                 Nous ne craignons rien!
+
+_Jeunes Etuds._ Voyez leur colère,
+                Voyez leur maintien!
+
+    (Les étudiants et les soldats séparent les femmes en riant.
+   Tous les groupes s'éloignent et disparaissent.)
+
+            *       *       *       *       *
+
+
+SCÈNE II.
+
+  WAGNER, SIEBEL, Etudiants, VALENTIN.
+
+_Val._
+    (paraissant an fond; il tient une petite médaille à la main).
+         O sainte médaille,
+         Qui me viens de ma soeur,
+         Au jour de la bataille,
+         Pour écarter la mort, reste là sur mon coeur!
+
+_Wag._   Ah! voici Valentin qui nous cherché sans doute!
+
+_Val._   Un dernier coup, messieurs, et mettons-nous en route!
+
+_Wag._   Qu'as-tu donc?... quels regrets attristent nos adieux?
+
+_Val._   Comme vous, pour longtemps, je vais quitter ces lieux;
+         J'y laisse Marguerite, et, pour veiller sur elle,
+         Ma mère n'est plus là!
+
+_Sie._                        Plus d'un ami fidèle
+         Saura te remplacer a ses côtés!
+
+_Val._
+              (lui serrant la main).
+         Merci!
+
+_Sie._   Sur moi tu peux compter!
+
+_Etuds._                 Compte sur nous aussi!
+
+_Val._   Avant de quitter ces lieux,
+         Sol natal de mes aïeux,
+         A toi, Seigneur et Roi des Cieux,
+         Ma soeur je confie.
+         Daigne de tout danger
+         Toujours la protéger,
+         Cette soeur si chérie.
+         Délivré d'une triste pensée,
+         J'irais chercher la gloire au sein des ennemis,
+         Le premier, le plus brave au fort de la mêlée,
+         J'irai combattre pour mon pays.
+         Et si vers lui Dieu me rappelle,
+         Je viellerai sur toi fidèle,
+         O Marguerite!
+
+_Wag._   Allons, amis! point de vaines alarmes!
+         A ce bon vin ne mêlons pas de larmes!
+         Buvons, trinquons, et qu'un joyeux refrain
+         Nous mette en train!
+
+_Etuds._ Buvons, trinquons, et qu'un joyeux refrain
+         Nous mette en train!
+
+_Wag._
+             (montant sur an escabeau).
+         Un rat plus poltron que brave,
+         Et plus laid que beau,
+         Logeait au fond d'une cave,
+         Sous un vieux tonneau;
+         Un chat....
+
+          *       *       *       *       *
+
+
+SCÈNE III.
+
+Les mêmes. MEPHISTOPHELES.
+
+_Mep._
+
+  (paraissant tout à coup au milieu des étudiants et
+     interrompant WAGNER).
+
+         Pardon!
+
+_Wag._   Hein?
+
+_Mep._   Parmi vous, de grâce
+         Permettez-moi de prendre place!
+         Que votre ami d'abord achève sa chanson!
+         Moi, je vous en promets plusieurs de ma façon!
+
+_Wag._
+              (descendant de son escabeau).
+         Une seule suffit, pourvu qu'elle soit bonne!
+
+_Mep._   Je ferai de mon mieux pour n'ennuyer personne!
+
+                        I.
+         Le veau d'or est toujours debout;
+         On encense
+         Sa puissance
+         D'un bout du monde à l'autre bout!
+         Pour fêter l'infâme idole,
+         Peuples et rois confondus,
+         Au bruit sombre des écus
+         Dansent une ronde folle
+         Autour de son piédestal?...
+         Et Satan conduit le bal!
+
+                        II.
+         Le veau d'or est vainqueur des dieux;
+         Dans son gloire
+         Dérisoire
+         Le monstre abjecte insulte aux cieux!
+         Il contemple, ô rage étrange!
+         A ses pieds le genre humain
+         Se ruant, le fer en main,
+         Dans le sang et dans la fange
+         Où brille l'ardent métal!...
+         Et Satan conduit le bal!
+
+_Tous._  Et Satan conduit le bal!
+
+_Cho._   Merci de ta chanson!
+
+_Val._
+                    (à part).
+         Singulier personnage!
+
+_Wag._
+            (tendant un verre à MEPHISTOPHELES).
+         Nous ferez vous l'honneur de trinquer avec nous?
+
+_Mep._   Volontiers!...
+       (Saisissant la main de WAGNER et l'examinant.)
+         Ah! voici qui m'attriste pour vous!
+         Vous voyez cette ligne?
+
+_Wag._   Eh bien?
+
+_Mep._   Fâcheux presage!
+         Vous vous ferez tuer en montant à l'assaut!
+
+_Sie._   Vous êtes donc sorcier?
+
+_Mep._   Tout juste autant qu'il faut
+         Pour lire dans ta main que le ciel te condamne
+         A ne plus toucher une fleur
+         Sans qu'elle se fane!
+
+_Sie._   Moi!
+
+_Mep._   Plus de bouquets à Marguerite!...
+
+_Val._   Ma soeur!...
+         Qui vous a dit son nom?
+
+_Mep._   Prenez garde, mon brave!
+         Vous vous ferez tuer par quelqu'un que je sais!
+            (Prenant le verre des mains de Wagner.)
+         A votre santé!...
+    (Jetant le contenu du verre, après y avoir trempé ses lèvres.)
+         Peuh! que ton vin est mauvais!...
+         Permettez-moi de vous en offrir de ma cave!
+
+    (Frappant sur le tonneau, surmonté d'un Bacchus,
+       qui sert d'enseigne au cabaret.)
+         Holà! seigneur Bacchus! à boire!...
+
+    (Le vin jaillit du tonneau. Aux étudiants.)
+         Approchez-vous!
+         Chacun sera servi selon ses goûts!
+         A la santé que tout à l'heure
+         Vous portiez, mes amis, à Marguerite!
+
+_Val._
+             (lui arrachant le verre des mains).
+                   Assez!...
+         Si je ne te fais taire à l'instant, que je meure!
+
+    (Le vin s'enflamme dans la vasque placée audessous du tonneau.)
+
+_Wag. et les Etuds._ Holà!...
+                           (Ils tirent leurs épées.)
+_Mep._   Pourquoi trembler, vous qui me menacez?
+
+    (Il tire un cercle autour de lui avec son épée.--VALENTIN
+       s'avance pour l'attaquer.--Son épée se brise.)
+
+_Val._   Mon fer, ô surprise!
+         Dans les airs se brise!...
+
+_Val., Wag., Sie. et les Etuds._
+       (forçant MEPHISTOPHELES à reculer et lui présentant
+          la garde de leurs épées).
+
+         De l'enfer qui vient émousser
+         Nos armes!
+         Nous ne pouvons pas repousser
+         Les charmes!
+         Mais puisque tu brises le fer,
+         Regarde!...
+         C'est une croix qui, de l'enfer,
+         Nous garde!
+                   (Ils sortent.)
+
+          *       *       *       *       *
+
+
+SCÈNE IV.
+
+MEPHISTOPHELES, puis FAUST.
+
+_Mep._
+            (remettant son épée au fourreau).
+         Nous nous retrouverons, mes amis!--Serviteur!
+
+_Faust_
+                  (entrant en scène).
+         Qu'as-tu donc?
+
+_Mep._   Rien!--A nous deux, cher docteur!
+         Qu'attendez-vous de moi? par où commencerai-je?
+
+_Faust._ Où se cache la belle enfant
+         Que ton art m'a fait voir?--Est-ce un vain sortilège?
+
+_Mep._   Non pas! mais contre nous sa vertu la protège;
+         Et le ciel même la défend!
+
+_Faust._ Qu'importe? je le veux! viens! conduis-mois vers elle!
+         Ou je me sépare de toi!
+
+_Mep._   Il suffit!... je tiens trop à mon nouvel emploi
+         Pour vous laisser douter un instant de mon zèle!
+         Attendons!... Ici même, à ce signal joyeux,
+         La belle et chaste enfant va paraître à vos yeux!
+
+          *       *       *       *       *
+
+
+SCÈNE V.
+
+    (Les étudiants et les jeunes filles, bras dessus, bras dessous, et
+   précédés par des joueurs de violon, envahissent la scène. Ils sont
+   suivie par les bourgeois qui ont paru au commencement de l'acte.)
+
+     Les Mêmes, Étudiants, Jeunes Filles, Bourgeois,
+   puis SIEBEL et MARGUERITE.
+
+_Cho._
+                (marquant la mesure en marchant).
+         Ainsi que la brise légère
+         Soulève en épais tourbillons
+         La poussière
+         Des sillons,
+         Que la valse nous entraîne!
+         Faites retentir la plaine
+         De l'éclat de nos chansons!
+
+  (Les Musiciens montent sur les bancs; la valse commence.)
+
+_Mep._
+              (à FAUST).
+         Vois ces filles
+         Gentilles!
+         Ne veux-tu pas
+         Aux plus belles
+         D'entre elles
+         Offrir ton bras?
+
+_Faust._ Non! fais trêve
+         A ce ton moqueur!
+         Et laisse mon coeur
+         A son rêve!...
+
+_Sie._
+                   (rentrant en scène).
+         C'est par ici que doit passer
+         Marguerite!
+
+_Quelques Jeunes Filles._
+               (s'approchant de SIEBEL).
+         Faut-il qu'une fille á danser
+         Vous invite?
+
+_Sie._   Non!... non! je ne veux pas valser!...
+
+_Cho._    Ainsi que la brise légère
+         Soulève en épais tourbillons
+         La poussière
+         Des sillons,
+         Que la valse nous entraîne!
+         Faites retentir la plaine
+         De l'éclat de nos chansons!...
+                 (MARGUERITE paraît.)
+_Faust._ Ah!... la voici ... c'est elle!...
+
+_Mep._   Eh bien, aborde-la!
+
+_Sie._
+       (apercevant MARGUERITE et faisant un pas vers elle).
+         Marguerite!...
+
+_Mep._
+      (se retournant et se trouvant face à face avec SIEBEL).
+         Plaît-il!...
+
+_Sie._
+                    (à part).
+         Maudit homme! encor là!...
+
+_Mep._
+                (d'un ton mielleux).
+         Eh quoi! mon ami! vous voilà!...
+                   (en riant).
+         Ah, vraiment, mon ami!
+
+    (SIEBEL recule devant MEPHISTOPHELES, qui lui fait faire ainsi
+   la tour du théâtre en passant derrière le groupe des danseurs.)
+
+_Faust_
+       (abordant MARGUERITE qui traverse la scène).
+         Ne permettrez-vous pas, ma belle demoiselle,
+         Qu'on vous offre le bras pour faire le chemin?
+
+_Mar._   Non, monsieur! je ne suis demoiselle, ni belle,
+         Et je n'ai pas besoin qu'on me donne la main.
+          (Elle passe devant FAUST et s'éloigne.)
+
+_Faust_
+                 (la suivant des yeux).
+         Pas le ciel! que de grâce ... et quelle modestie!...
+         O belle enfant, je t'aime!...
+
+_Sie._
+      (redescendant en scene sans avoir vu ce qui vient de se passer).
+         Elle est partie!
+
+    (Il va pour s'élancer sur la trace de MARGUERITE; mais,
+   se trouvant de nouveau face à face avec MEPHISTOPHELES,
+   il lui tourne le dos et s'éloigne par le fond du théâtre.)
+
+_Mep._
+              (à FAUST).
+         Eh bien?
+
+_Faust._ On me repousse!...
+
+_Mep._
+                    (en riant).
+         Allons! à tes amours
+         Je vois qu'il faut prêter secours!...
+   (Il s'éloigne avec FAUST du même côté que MARGUERITE.)
+
+_Quelques Jeunes Filles_
+    (s'adressant à trois ou quatre d'entre elles qui ont observé
+  le rencontre de FAUST et de MARGUERITE).
+         Qu'est-ce donc!...
+
+_Deuxième Groupe de Jeunes Filles._
+         Marguerite,
+         Qui de ce beau seigneur refuse la conduite!...
+
+_Etuds._
+                  (se rapprochant).
+         Valsons encor!
+
+_Jeunes Filles._
+         Valsons toujours!
+
+
+
+
+ACTE TROISIÈME.
+
+
+SCÈNE PREMIÈRE.
+
+Le Jardin de MARGUERITE.
+
+    (Au fond, un mur percé d'une petite porte. A gauche, un bosquet.
+  A droite, un pavillon dont la fenêtre fait face au public.
+  Arbres et massifs.)
+
+_Sie._
+                         (seul).
+    (Il est arrêté près d'un massif de roses et de lilas.)
+
+                        I.
+         Faites-lui mes aveux,
+             Portez mes voeux,
+         Fleurs écloses près d'elle,
+         Dites-lui qu'elle est belle ...
+         Que mon coeur nuit et jour
+             Languit d'amour!
+
+         Révélez à son âme
+         Le secret de ma flamme!
+         Qu'il s'exhale avec vous
+             Parfums plus doux!...
+                 (Il cueille une fleur.)
+         Fanée!... hélas!
+             (Il jette la fleur avec dépit.)
+           Ce sorcier que Dieu damne
+         M'a porté malheur!
+   (Il cueille une autre fleur qui s'effeuille encore.)
+         Je ne puis sans qu'elle se fane
+         Toucher une fleur!...
+         Si je trempais mes doigts dans l'eau bénite?...
+
+    (Il s'approche du pavillon et trempe ses doigts dans
+  un bénitier accroché au mur.)
+         C'est là que chaque soir vient prier Marguerite!
+         Voyons maintenant! voyons vite!...
+                  (Il cueille deux ou trois fleurs.)
+         Elles se fanent?... Non!... Satan, je ris de toi ...
+
+                        II.
+         C'est en vous que j'ai foi;
+               Parlez pour moi!
+         Qu'elle puisse connaître
+         L'ardeur qu'elle a fait naître,
+         Et dont mon coeur troublé
+               N'a point parlé!
+         Si l'amour l'effarouche,
+         Que la fleur sur sa bouche
+         Sache au moins déposer
+         Un doux baiser!...
+
+    (Il cueille des fleurs pour former un bouquet et disparaît
+   dans les massifs du jardin.)
+
+          *       *       *       *       *
+
+
+SCÈNE II.
+
+MEPHISTOPHELES, FAUST, puis SIEBEL.
+
+_Faust_
+               (entrant doucement en scène).
+         C'est ici?
+
+_Mep._   Suivez-moi!
+
+_Faust._ Que regardes-tu là?
+
+_Mep._   Siebel, votre rival.
+
+_Faust._ Siebel!
+
+_Mep._   Chut!... le voilà!
+          (Il se cache avec FAUST dans un bosquet.)
+
+_Sie._
+         (rentrant en scène, avec un bouquet à la main).
+         Mon bouquet n'est-il pas charmant?
+
+_Mep._
+                 (à part).
+         Charmant!
+
+_Sie._   Victoire!
+         Je lui raconterai demain toute l'histoire;
+         Et, si l'on veut savoir le secret de mon coeur,
+         Un baiser lui dira le reste!
+
+_Mep._
+                  (à part)
+         Séducteur!
+
+(SIEBEL attache le bouquet à la porte du pavillon et sort.)
+
+          *       *       *       *       *
+
+
+SCÈNE III.
+
+FAUST, MEPHISTOPHELES.
+
+_Mep._   Attendez-moi là, cher docteur!
+         Pour tenir compagnie aux fleurs de votre élève,
+         Je vais vous chercher un trésor
+         Plus merveilleux, plus riche encor
+         Que tous ceux qu'elle voit en rêve!
+
+_Faust._ Laisse-moi!
+
+_Mep._   J'obéis!... daignez m'attendre ici?
+                      (Il sort.)
+
+          *       *       *       *       *
+
+
+SCÈNE IV.
+
+FAUST.
+
+_Faust_
+                      (seul).
+         Quel trouble inconnu me pénètre!
+         Je sens l'amour s'emparer de mon être.
+         O Marguerite! tes pieds me voici!
+         Salut! demeure chaste et pure, où se devine
+         La présence d'une âme innocente et divine!...
+         Que de richesse en cette pauvreté!
+         En ce réduit, que de félicité!...
+         O nature, c'est là que tu la fis si belle!
+         C'est là que cette enfant a grandi sous ton aile,
+         A dormi sous tes yeux?
+         Là que, de ton haleine enveloppant son âme,
+         Tu fis avec amour épanouir la femme
+         En cet ange des cieux!
+         Salut! demeure chaste et pure, où se devine!
+         La prèsence d'une âme innocente et divine!...
+         Que de richesse en cette pauvreté!
+         En ce réduit, que de félicité!...
+         Salut! demeure chaste et pure, où se devine
+         La présence d'une âme innocente et divine!...
+
+          *       *       *       *       *
+
+
+SCÈNE V.
+
+FAUST, MEPHISTOPHELES.
+
+(MEPHISTOPHELES reparaît, une cassette sous le bras.)
+
+_Mep._   Alerte! la voilà!... Si le bouquet l'emporte
+         Sur l'écrin, je consens à perdre mon pouvoir!
+
+                       (Il ouvre l'écrin.)
+_Faust._ Fuyons!... je veux ne jamais la revoir!
+
+_Mep._   Quel scrupule vous prend!...
+            (Plaçant l'écrin sur le seuil du pavillon.)
+         Sur le seuil de la porte,
+         Voici l'écrin placé!... venez!... j'ai bon espoir!
+
+    (Il entraine FAUST et disparaît avec lui dans le jardin.
+  MARGUERITE entre par la porte du fond et descend en silence
+  jusque sur le devant de la scène.)
+
+          *       *       *       *       *
+
+
+SCÈNE VI.
+
+MARGUERITE.
+
+_Mar._
+                    (seule).
+         Je voudrais bien savoir quel était ce jeune homme,
+         Si c'est un grand seigneur, et comment il se nomme?
+
+    (Elle s'assied dans le bosquet, devant son rouet, et prend
+  son fuseau autour duquel elle prépare de la laine.)
+
+                        I.
+         "Il était un roi de Thulé,
+         Qui, jusqu'à la tombe fidèle,
+         Eut, en souvenir de sa belle,
+         Une coupe en or ciselé!..."
+                 (S'interrompant.)
+         Il avait bonne grâce, à ce qu'il m'a semble.
+              (Reprenant sa chanson.)
+         "Nul trésor n'avait plus de charmes!
+         Dans les grands jours il s'en servait,
+         Et chaque fois qu'il y buvait,
+         Ses yeux se remplissaient de larmes!..."
+
+                        II.
+        (Elle se lève et fait quelques pas.)
+         "Quand il sentit venir la mort,
+         Entendu sur sa froide couche,
+         Pour la porter jusqu'à sa bouche
+         Sa main fit un suprême effort!..."
+                  (S'interrompant.)
+         Je ne savais que dire, et j'ai rougi d'abord.
+                (Reprenant sa chanson.)
+         "Et puis, en l'honneur de sa dame,
+         Il but un dernière fois;
+         La coupe trembla dans ses doigts,
+         Et doucement il rendit l'âme!"
+         Les grands seigneurs ont seuls des airs si résolus,
+         Avec cette douceur.
+               (Elle se dirige vers le pavillon.)
+         Allons! n'y pensons plus!
+         Cher Valentin, si Dieu m'écoute,
+         Je te reverrai!... me voilà
+         Toute seule!...
+
+    (Au moment d'entrer dans la pavillon, elle aperçoit
+  la bouquet suspendu à la porte.)
+         Un bouquet!
+               (Elle prend le bouquet.)
+         C'est de Siebel, sans doute!
+         Pauvre garçon!
+               (Apercevant la cassette.)
+         Que vois-je là?
+         D'où ce riche coffret peut-il venir?... Je n'ose
+         Y toucher, et pourtant ...--Voici la clef, je crois!...
+         Si je l'ouvrais!... ma main tremble!... Pourquoi!
+         Je ne fais, en l'ouvrant, rien de mal, je suppose!...
+              (Elle ouvre la cassette et laisse tomber le bouquet.)
+         O Dieu! que de bijoux!... est-ce un rêve charmant
+         Qui m'éblouit, ou si je veille!--
+         Mes yeux n'ont jamais vu de richesse pareille!...
+
+    (Elle place la cassette tout ouverte sur une chaise
+      et s'agenouille pour se parer.)
+
+         Si j'osais seulement
+         Me parer un moment
+         De ces pendants d'oreille!
+              (Elle tire des boucles d'oreilles de la cassette.)
+         Voici tout justement,
+         Au fond de la cassette,
+         Un miroir!... comment
+         N'être pas coquette?
+
+    (Elle se pare des boucles d'oreilles, se lève et
+   se regarde dans le miroir.)
+
+         Ah! je ris de me voir
+         Si belle en ce miroir!...
+         Est-ce toi, Marguerite?
+         Réponds-moi, réponds vite!--
+         Non! non!--ce n'est plus toi!
+         Ce n'est plus ton visage!
+         C'est la fille d'un roi,
+         Qu'on salue au passage!
+         Ah! s'il était ici!
+         S'il me voyait ainsi!...
+         Comme une demoiselle
+         Il me trouverait belle!...
+         Achevons la métamorphose!
+         Il me tarde encor d'essayer
+         Le bracelet et le collier.
+
+    (Elle se pare du collier d'abord, puis du bracelet.--Se levant.)
+         Dieu! c'est comme une main qui sur mon bras se pose!
+         Ah! je ris de me voir
+         Si belle en ce miroir!
+         Est-ce toi, Marguerite?
+         Réponds-moi, réponds vite!--
+         Non! non!--ce n'est plus toi!
+         Ce n'est plus ton visage!
+         C'est la fille d'un roi,
+         Qu'on salue au passage!...
+         Ah! s'il était ici!
+         S'il me voyait ainsi!...
+         Comme une demoiselle
+         Il me trouverait belle!...
+         Ah! s'il était ici!...
+
+          *       *       *       *       *
+
+
+SCÈNE VII.
+
+MARGUERITE, MARTHE.
+
+_Mart._
+                (entrant par le fond).
+         Que vois-je, Seigneur Dieu!... comme vous voilà belle,
+         Mon ange!...--D'où vous vient ce riche écrin?
+
+_Mar._
+                   (avec confusion).
+                                     Hélas!
+         On l'aura par mégarde apporté!
+
+_Mart._                             Que non pas!
+         Ces bijoux sont á vous, ma chère demoiselle!
+         Oui! c'est là le cadeau d'un seigneur amoureux!
+                    (Soupirant.)
+         Mon cher époux jadis était moins généreux!
+
+(MEPHISTOPHELES et FAUST entrent en scène.)
+
+          *       *       *       *       *
+
+
+SCÈNE VIII.
+
+Les Mêmes, MEPHISTOPHELES, FAUST.
+
+_Mep._   Dame Marthe Schwerlein, s'il vous plait?
+
+_Mart._  Qui m'appelle?
+
+_Mep._   Pardon d'oser ainsi nous présenter chez vous!
+                    (Bas à FAUST.)
+         Vous voyez qu'elle a fait bel accueil aux bijoux?
+                    (Haut.)
+         Dame Marthe Schwerlein?
+
+_Mart._  Me voici!
+
+_Mep._            La nouvelle
+         Que j'apporte n'est pas pour vous mettre en gaité:--
+         Votre mari, madame, est mort et vous salue!
+
+_Mart._  Ah!... grand Dieu!...
+
+_Mar._   Qu'est ce donc?
+
+_Mep._   Rien!...
+
+    (MARGUERITE baisse les yeux sous le regard de MEPHISTOPHELES,
+     se hâte d'ôter le collier, le bracelet et les pendants d'oreilles
+     et de les remettre dans la cassette.)
+
+_Mart._  O calamité!
+         O nouvelle imprévue!...
+
+    ENSEMBLE.
+
+_Mar._
+                  (à part).
+         Malgré moi mon coeur tremble et tressaille à sa vue!
+
+_Faust_
+                  (à part).
+         La fièvre de mes sens se dissipe à sa vue!
+
+_Mep._
+                 (à MARTHE).
+         Votre mari, madame, est mort et vous salue!
+
+_Mart._  Ne m'apportez-vous rien de lui!
+
+_Mep._   Rien!... et, pour le punir, il faut dès aujourd'hui
+         Chercher quelqu'un qui le remplace!
+
+_Faust_
+                  (à MARGUERITE).
+         Pourquoi donc quitter ces bijoux?
+
+_Mar._   Ces bijoux ne sont pas à moi!... Laissez, de grâce!
+
+_Mep._
+                  (à MARTHE).
+         Que ne serait heureux d'échanger avec vous
+         La bague d'hyménée?
+
+_Mart._
+                  (à part).
+         Ah, bah!
+                  (Haut.)
+         Plait-il?
+
+_Mep._
+                  (soupirant).
+         Hélas! cruelle destinée!...
+
+_Faust_
+                 (à MARGUERITE).
+         Prenez mon bras un moment!
+
+_Mar._
+                     (se défendant).
+         Laissez!... Je vous en conjure!...
+
+_Mep._
+            (de l'autre côté du théâtre, à MARTHE).
+         Votre bras!...
+
+_Mart._
+                      (à part).
+         Il est charmant!
+
+_Mep._
+                      (à part).
+         La voisine est un peu mûre!
+
+    (MARGUERITE abandonne son bras à FAUST et s'éloigne avec
+  MEPHISTOPHELES et MARTHE restent seuls en scène.)
+
+_Mart._  Ainsi vous voyagez toujours?
+
+_Mep._   Dure nécessité, madame!
+         Sans ami, sans parents!... sans femme.
+
+_Mart._  Cela sied encore aux beaux jours!
+         Mais plus tard, combien il est triste
+         De vieillir seul, en égoïste!
+
+_Mep._   J'ai frémi souvent, j'en conviens,
+         Devant cette horrible pensée!
+
+_Mart._  Avant que l'heure en soit passée!
+         Digne seigneur, songez-y bien!
+
+_Mep._   J'y songerai!
+
+_Mart._ Songez-y bien!
+
+      (Ils sortent. Entre FAUST et MARGUERITE.)
+
+_Faust._ Eh quoi! toujours seule?...
+
+_Mar._   Mon frère
+         Est soldat; j'ai perdu ma mère;
+         Puis ce fut un autre malheur,
+         Je perdis ma petite soeur!
+         Pauvre ange!... Elle m'était bien chère!...
+         C'était mon unique souci;
+         Que de soins, hélas!... que de peines!
+         C'est quand nos âmes en sont pleines
+         Que la mort nous les prend ainsi!...
+         Sitôt qu'elle s'éveillait, vite
+         Il fallait que je fusse là!...
+         Elle n'aimait que Marguerite!
+         Pour la voir, la pauvre petite,
+         Je reprendrais bien tout cela!...
+
+_Faust._ Si le ciel, avec un sourire,
+         L'avait faite semblable à toi,
+         C'était un ange!... Oui, je le croi!...
+
+_Mar._   Vous moquez-vous!...
+
+_Faust._ Non! je t'admire!
+
+_Mar._
+                    (souriant).
+         Je ne vous crois pas
+         Et de moi tout bas
+         Vous riez sans doute!...
+         J'ai tort de rester
+         Pour vous écouter!...
+         Et pourtant j'écoute!...
+
+_Faust._ Laisse-moi ton bras!...
+         Dieu ne m'a t'il pas
+         Conduit sur ta route?...
+         Pourquoi redouter,
+         Hélas! d'écouter?...
+         Mon coeur parle; écoute!...
+
+           (MEPHISTOPHELES et MARTHE reparaissent.)
+_Mart._  Vous n'entendez pas,
+         Ou de moi tout bas
+         Vous riez sans doute!
+         Avant d'écouter,
+         Pourquoi vous hâter
+         De vous mettre en route?
+
+_Mep._   Ne m'accusez pas,
+         Si je dois, hélas!
+         Me remettre en route.
+         Faut-il attester
+         Qu'on voudrait rester
+         Quand on vous écoute?
+
+           (La nuit commence à tomber.)
+_Mar._
+                     (à FAUST).
+         Retirez-vous!... voici la nuit.
+
+_Faust_
+        (passant son bras autour de la taille de MARGUERITE).
+         Chère âme!
+
+_Mar._ Laissez-moi!
+              (Elle se dégage et s'enfuit.)
+
+_Faust_
+                (la poursuivant).
+         Quoi! méchante!... on me fuit!
+
+_Mep._
+       (à part, tandis que MARTHE, dépitée, lui tourne le dos).
+         L'entretien devient trop tendre!
+         Esquivons nous!
+             (Il se cache derrière un arbre.)
+
+_Mart._
+                   (à part).
+         Comment m'y prendre?
+                (Se retournant.)
+         Eh bien! il est parti!... Seigneur!...
+                (Elle s'éloigne.)
+
+_Mep._              Oui! Cours après moi!...
+         Ouf! cette vieille impitoyable
+         De force ou de gré, je crois,
+         Allait épouser le diable!
+
+_Faust_
+                  (dans la coulisse).
+         Marguerite!
+
+_Mart._
+                  (dans la coulisse).
+         Cher seigneur!
+
+_Mep._   Serviteur!
+
+          *       *       *       *       *
+
+
+SCÈNE IX.
+
+MEPHISTOPHELES.
+
+_Mep._
+                       (seul).
+         Il était temps! sous le feuillage sombre
+         Voici nos amoureux qui reviennent!...
+         C'est bien!
+         Gardons nous de troubler un si doux entretien!
+         O nuit, étends sur eux ton ombre!
+         Amour, ferme leur âme aux remords importuns!
+         Et vous, fleurs aux subtils parfums,
+         Epanouissez-vous sous cette main maudite!
+         Achevez de troubler le coeur de Marguerite!...
+           (Il s'éloigne et disparaît dans l'ombre.)
+
+          *       *       *       *       *
+
+
+SCÈNE X.
+
+FAUST, MARGUERITE.
+
+_Mar._   Il se fait tard! adieu!
+
+_Faust_
+                    (la retenant).
+         Quoi! je t'implore en vain!
+         Attends! laisse ma main s'oublier dans la tienne!
+             (S'agenouillant devant MARGUERITE.)
+         Laisse-moi, laisse-moi contempler ton visage
+         Sous la pâle clarté
+         Dont l'astre de la nuit, comme dans un nuage,
+         Caresse ta beauté!...
+
+_Mar._  O silence! ô bonheur! ineffable mystère!
+         Enivrante langueur!
+         J'écoute!... Et je comprends cette voix solitaire
+         Qui chante dans mon coeur!
+           (Dégageant sa main de celle de FAUST.)
+         Laissez un peu, de grâce!...
+
+          (Elle se penche et cueille une marguerite.)
+_Faust._ Qu'est se donc?
+
+_Mar._   Un simple jeu!
+         Laissez un peu!
+               (Elle effeuille la marguerite.)
+
+_Faust._ Que dit ta bouche à voix basse!...
+
+_Mar._   Il m'aime!--Il ne m'aime pas!--
+         Il m'aime!--pas!--Il m'aime!--pas!
+         --Il m'aime!
+
+_Faust._ Oui!... crois en cette fleur éclose sous tes pas!...
+         Qu'elle soit pour ton coeur l'oracle du ciel même!...
+         Il t'aime!... comprends-tu ce mot sublime et doux?...
+         Aimer! porter en nous
+         Une ardeur toujours nouvelle!...
+         Nous enivrer sans fin d'une joie éternelle!
+
+_Faust et Mar._
+                Eternelle!...
+
+_Faust._ O nuit d'amour ... ciel radieux!...
+         O douces flammes!...
+         Le bonheur silencieux
+         Verse les cieux
+         Dans nos deux âmes!...
+
+_Mar._   Je veux t'aimer et te chérir!
+         Parle encore!
+         Je t'appartiens!... je t'adore!...
+         Pour toi je veux mourir!...
+
+_Faust._ Marguerite!...
+
+_Mar._
+                (se dégageant des bras de FAUST).
+         Ah!... partez!...
+
+_Faust._                     Cruelle!...
+         Me séparer de toi!...
+
+_Mar._   Je chancelle!...
+
+_Faust._ Ah! cruelle!...
+
+_Mar._
+                    (suppliante).
+         Laissez-moi!...
+
+_Faust._ Tu veux que je te quitte
+         Hélas!... vois ma douleur.
+         Tu me brises le coeur,
+         O Marguerite!...
+
+_Mar._  Partez! oui, partez vite!
+         Je tremble!... hélas!... J'ai peur!
+         Ne brisez pas le coeur
+         De Marguerite!
+
+_Faust._ Par pitié!...
+
+_Mar._   Si je vous suis chère,
+         Par votre amour, par ces aveux
+         Que je devais taire,
+         Cédez à ma priére!...
+         Cédez à mes voeux!
+
+           (Elle tombe aux pieds de FAUST.)
+_Faust_
+          (après un silence, la relevant doucement).
+         Divine pureté!...
+         Chaste innocence,
+         Dont la puissance
+         Triomphe de ma volonté!...
+         J'obéis!... Mais demain!
+
+_Mar._   Oui, demain!... dès l'aurore!...
+         Demain toujours!...
+
+_Faust._                  Un mot encore!...
+         Répète-moi ce doux aveu!...
+         Tu m'aimes!...
+
+_Mar._   Adieu!...
+                (Elle entre dans le pavillon.)
+
+_Faust._ Félicité du ciel.... Ah ... fuyons....
+
+    (Il s'élance vers la porte du jardin.
+  MEPHISTOPHELES lui barre le passage.)
+
+          *       *       *       *       *
+
+
+SCÈNE XI.
+
+FAUST. MEPHISTOPHELES.
+
+_Mep._   Tête folle!...
+
+_Faust._ Tu nous écoutais.
+
+_Mep._                    Par bonheur.
+         Vous auriez grand besoin, docteur,
+         Qu'on vous renvoyât à l'école.
+
+_Faust._ Laisse-moi.
+
+_Mep._             Daignez seulement
+         Écouter un moment
+         Ce qu'elle va conter aux étoiles, cher maître.
+         Tenez; elle ouvre sa fenêtre.
+
+    (MARGUERITE ouvre la fenêtre du pavillon et s'y appuie
+  un moment en silence, la tête entre les mains.)
+
+          *       *       *       *       *
+
+
+SCÈNE XII.
+
+Les mêmes. MARGUERITE.
+
+_Mar._   Il m'aime; ...quel trouble en mon coeur,
+         L'oiseau chante!...le vent murmure!...
+         Toutes les voix de la nature
+         Semblent me répéter en choeur:
+         Il t'aime!...--Ah! qu'il est doux de vivre!...
+         Le ciel me sourit; ...l'air m'enivre!...
+         Est-ce de plaisir et d'amour
+         Que la feuille tremble et palpite?...
+         Demain?...--Ah! presse ton retour,
+         Cher bien-aimé!...viens!...
+
+_Faust._
+    (s'élançant vers la fenêtre et saisissant la main de MARGUERITE).
+                   Marguerite!...
+
+_Mar._   Ah!...
+
+_Mep._   Ho! ho!
+
+    (MARGUERITE reste un moment interdite et laisse tomber sa tête sur
+  l'épaule de FAUST; MEPHISTOPHELES ouvre la porte du jardin et sort
+  en ricanant. La toile tombe.)
+
+
+
+
+ACTE QUATRIEME.
+
+
+SCÈNE PREMIERE.
+
+_La Chambre de Marguerite._
+
+MARGUERITE, SIEBEL.
+
+_Sie._
+         (s'approchant doucement de MARGUERITE).
+         Marguerite!
+
+_Mar._   Siebel!...
+
+_Sie._   Encore des pleurs.
+
+_Mar._
+                   (se levant).
+                                  Hélas!
+         Vous seul ne me maudissez pas.
+
+_Sie._   Je ne suis qu'un enfant, mais j'ai le coeur d'un homme
+         Et je vous vengerai de son lâche abandon!
+         Je le tuerai!
+
+_Mar._   Qui donc?
+
+_Sie._         Faut-il que je le nomme?
+         L'ingrat qui vous trahit!...
+
+_Mar._                Non!... taisez-vous?...
+
+_Sie._                      Pardon!
+         Vous l'aimez encore?
+
+_Mar._   Oui!... toujours!
+         Mais ce n'est pas à vous de plaindre mon ennui
+         J'ai tort, Siebel, de vous parler de lui.
+
+_Sie._
+                        I.
+         Si la bonheur à sourire t'invite,
+         Joyeux alors, je sens un doux émoi;
+         Si la douleur t'accable, Marguerite,
+         O Marguerite, je pleure alors,
+         Je pleure comme toi!
+
+                        II.
+         Comme deux fleurs sur une même tige,
+         Notre destin suivant le même cours,
+         De tes chagrins en fière je m'afflige,
+         O Marguerite, comme une soeur,
+         Je t'aimerai toujours!
+
+_Mar._   Soyez béni, Siebel! votre amitié m'est douce!
+         Ceux dont la main cruelle me repousse,
+         N'ont pas fermé pour moi la porte du saint lieu;
+         J'y vais pour mon enfant ... et pour lui prier Dieu!
+           (Elle sort; SIEBEL la suit à pas lents.)
+
+          *       *       *       *       *
+
+
+SCÈNE II.
+
+_L'Église._
+
+MARGUERITE, puis MEPHISTOPHELES.
+
+    (Quelques femmes traversent la scène et entrent dans l'église.
+  MARGUERITE entre après elles et s'agenouille.)
+
+_Mar._   Seigneur, daignez permettre à votre humble servante
+         De s'agenouiller devant vous!
+
+_Mep._   Non!... tu ne prieras pas!... Frappez-la d'épouvante!
+         Esprits du mal, accourez tous!
+
+_Voix de Démons Invisibles._    Marguerite!
+
+_Mar._   Qui m'appelle?
+
+_Voix._  Marguerite!
+
+_Mar._   Je chancelle!
+         Je meurs!--Dieu bon! Dieu clément!
+         Est-ce déjà l'heure du châtiment?
+
+    (MEPHISTOPHELES parait derrière un pilier et se penche
+  à l'oreille de MARGUERITE.)
+
+_Mep._   Souviens-toi du passé, quand sous l'aile des anges,
+         Abritant ton bonheur,
+         Tu venais dans son temple, enchantant ses louanges,
+             Adorer le Seigneur!
+         Lorsque tu bégayais une chaste prière
+         D'une timide voix,
+         Et portais dans ton coeur les baisers de ta mère,
+         Et Dieu tout à la fois!
+         Écoute ces clameurs! c'est l'enfer qui t'appelle!...
+         C'est l'enfer qui te suit!
+         C'est l'éternel remords et l'angoisse éternelle
+         Dans l'éternelle nuit!
+
+_Mar._   Dieu! quelle est cette voix qui me parle dans l'ombre?
+         Dieu tout puissant!
+         Quel voile sombre
+         Sur moi descend!...
+
+_Chant Religieux_
+                 (accompagné par les orgues).
+         Quand du Seigneur le jour luira,
+         Sa croix au ciel resplendira,
+         Et l'univers s'écroulera ...
+
+_Mar._   Hélas!... ce chant pieux est plus terrible encore!...
+
+_Mep._   Non!
+         Dieu pour toi n'a plus de pardon!
+         Le ciel pour toi n'a plus d'aurore!
+
+_Cho. Religieux._  Que dirai-je alors au Seigneur?
+         Où trouverai-je un protecteur,
+         Quand l'innocent n'est pas sans peur!
+
+_Mar._   Ah! ce chant m'ètouffe et m'oppresse!
+         Je suis dans un cercle de fer!
+
+_Mep._   Adieu les nuits d'amour et les jours pleins d'ivresse!
+         A toi malheur! A toi l'enfer!
+
+_Mar. et le Cho. Religieux._
+         Seigneur, accueillez la prière
+         Des coeurs malheureux!
+         Qu'un rayon de votre lumière
+         Descende sur eux!
+
+_Mep._   Marguerite!
+         Sois maudite! A toi l'enfer!
+
+_Mar._                 Ah!
+                 (Il disparait.)
+
+          *       *       *       *       *
+
+
+SCÈNE III.
+
+_La Rue._
+
+VALENTIN, Soldats, puis SIEBEL.
+
+_Cho._   Déposons les armes;
+         Dans nos foyers enfin nous voici revenus!
+         Nos mères en larmes,
+         Nos mères et nos soeurs ne nous attendront plus.
+
+          *       *       *       *       *
+
+
+SCÈNE IV.
+
+VALENTIN, SIEBEL.
+
+_Val._
+                 (apercevant SIEBEL).
+         Eh! parbleu! c'est Siebel!
+
+_Sie._                    Cher Valentin....
+
+_Val._   Viens vite!
+         Viens dans mes bras.
+                  (Il l'embrasse.)
+                         Et Marguerite?
+
+_Sie._            (avec embarras).
+         Elle est à l'église, je crois.
+
+_Val._   Oui, priant Dieu pour moi....
+         Chère soeur, tremblante et craintive,
+         Comme elle va prêter une oreille attentive
+         Au récit de nos combats!
+
+_Cho._   Gloire immortelle
+         De nos aïeux,
+         Sois-nous fidèle
+         Mourons comme eux!
+         Et sous ton aile,
+         Soldats vainqueurs,
+         Dirige nos pas, enflamme nos coeurs!
+         Vers nos foyers hâtons le pas!
+         On nous attend; la paix est faite!
+         Plus de soupirs! ne tardons pas!
+         Notre pays nous tend les bras!
+         L'amour nous rit! l'amour nous fête!
+         Et plus d'un coeur frémit tout bas
+         Au souvenir de nos combats!
+         L'amour nous rit! l'amour nous fête!
+         Et plus d'un coeur frémit tout bas
+         Au souvenir de nos combats!
+         Gloire immortelle.
+
+            *       *       *       *       *
+
+_Val._   Allons, Siebel! entrons dans la maison!
+         Le verre en main, tu me feras raison!
+
+_Sie._
+                    (vivement).
+         Non! n'entre pas!
+
+_Val._   Pourquoi?...--tu détournes la tête?
+         Ton regard fuit le mien?...--Siebel, explique-toi!
+
+_Sie._   Eh bien!--non, je ne puis!
+
+_Val._             Que veux-tu dire?
+            (Il se dirige vers la maison.)
+
+_Sie._
+                      (l'arretant).
+                                Arrêté!
+         Sois clément, Valentin!
+
+_Val._         (furieux).
+         Laisse-moi! laisse-moi!
+               (Il entre dans la maison.)
+
+_Sie._   Pardonne-lui!
+                      (Seul.)
+         Mon Dieu! je vous implore!
+         Mon Dieu, protégez-la.
+
+    (Il s'éloigne; MEPHISTOPHELES et FAUST entrent en scène;
+  MEPHISTOPHELES tient une guitare à la main.)
+
+         *       *       *       *       *
+
+
+SCÈNE V.
+
+FAUST, MEPHISTOPHELES.
+
+(FAUST se dirige vers la maison de MARGUERITE et s'arrête.)
+
+_Mep._   Qu'attendez-vous encore?
+         Entrons dans la maison.
+
+_Faust._ Tais-toi, maudit!... j'ai peur
+         De rapporter ici la honte et le malheur.
+
+_Mep._   A quoi bon la revoir, après l'avoir quitté?
+         Notre présence ailleurs serait bien mieux fêtée!
+         La sabbat nous attend!
+
+_Faust._ Marguerite!
+
+_Mep._   Je vois
+         Que mes avis sont vains et que l'amour l'emporte!
+         Mais, pour vous faire ouvrir la porte,
+         Vous avez grand besoin du secours de ma voix!
+
+    (FAUST, pensif, se tient à l'écart.
+     MEPHISTOPHELES s'accompagne sur sa guitare.)
+
+                        I.
+         "Vous qui faites l'endormie,
+           N'entendez-vous pas,
+         O Catherine, ma mie,
+           Ma voix et mes pas ...?"
+         Ainsi ton galant t'appelle,
+           Et ton coeur l'en croit!
+         N'ouvre ta porte, ma belle,
+         Que la bague au doigt!
+
+                        II.
+         "Catherine que j'adore,
+         Pourquoi refuser
+         A l'amant qui vous implore
+           Un si doux baiser?..."
+         Ainsi ton galant supplie,
+           Et ton coeur l'en croit!
+         Ne donne un baiser, ma mie,
+           Que la bague au doigt!
+
+            (VALENTIN sort de la maison.)
+
+          *       *       *       *       *
+
+
+SCÈNE VI.
+
+Les mêmes. VALENTIN.
+
+_Val._   Que voulez-vous, messieurs?
+
+_Mep._   Pardon! mon camarade,
+         Mais ce n'est pas pour vous qu'était la sérénade!
+
+_Val._   Ma soeur l'écouterait mieux que moi, je le sais!
+
+   (Il degaine et brise la guitare de MEPHISTOPHELES d'un coup d'épée.)
+
+_Faust._ Sa soeur!
+
+_Mep._
+                    (à VALENTIN).
+         Quelle mouche vous pique?
+         Vous n'aimez donc pas la musique?
+
+_Val._   Assez d'outrage!... assez!...
+         A qui de vous dois-je demander compte
+         De mon malheur et de ma honte?...
+         Qui de vous deux doit tomber sous mes coups?...
+                  (FAUST tire son épée.)
+         C'est lui!...
+
+_Mep._   Vous le voulez?...--Allons, docteur, à vous!...
+
+_Val._   Redouble, ô Dieu puissant,
+         Ma force et mon courage!
+         Permets que dans son sang
+         Je lave mon outrage!
+
+_Faust_
+                       (à part).
+         Terrible et frémissant,
+         Il glace mon courage!
+         Dois-je verser le sang
+         Du frère que j'outrage?...
+
+_Mep._   De son air menaçant,
+         De son aveugle rage,
+         Je ris!... mon bras puissant
+         Va détourner l'orage!...
+
+_Val._
+      (tirant de son sein la médaille que lui a donnée MARGUERITE).
+         Et toi qui préservas mes jours,
+         Toi qui me viens de Marguerite,
+         Je ne veux plus de ton secours,
+         Médaille maudite!...
+              (Il jette la médaille loin de lui.)
+
+_Mep._
+                       (à part).
+         Tu t'en repentiras!
+
+_Val._   En garde!... et défends-toi!...
+
+_Mep._
+                     (à FAUST).
+         Serrez-vous contre moi!...
+         Et poussez seulement, cher docteur!... moi, je pare.
+
+_Val._   Ah!
+                 (VALENTIN tombe.)
+
+_Mep._   Voici notre héros étendu sur le sable!...
+         Au large maintenant! au large!...
+
+    (Il entraîne FAUST. Arrivent MARTHE et des bourgeois
+  portant des torches.)
+
+          *       *       *       *       *
+
+
+SCÈNE VII.
+
+VALENTIN, MARTHE, Bourgeois, puis SIEBEL et MARGUERITE.
+
+_Mart. et les Bourg._
+         Par ici!...
+         Par ici, mes amis! on se bat dans la rue!...--
+         L'un d'eux est tombé là!--Regardez ... le voici!...
+         II n'est pas encore mort!...--on dirait qu'il remue!...--
+         Vite, approchez!... il faut le secourir!
+
+_Val._
+              (se soulevant avec effort).
+         Merci!
+         De vos plaintes, faites-moi grace!...
+         J'ai vu, morbleu! la mort en face
+         Trop souvent pour en avoir peur!...
+     (MARGUERITE paraît au fond soutenue par SIEBEL.)
+
+_Mar._   Valentin!...   Valentin!...
+      (Elle écarte la foule et tombe à genoux près de VALENTIN.)
+
+_Val._   Marguerite! ma soeur!...
+                   (Il la repousse.)
+
+         Que me veux-tu?... va-t'en
+
+_Mar._   O Dieu!...
+
+_Val._           Je meurs par elle!...
+         J'ai sottement
+         Cherché querelle
+         A son amant!
+
+_La Foule_.
+            (à demi voix, montrant MARGUERITE).
+         Il meurt, frappé par son amant!
+
+_Mar._   Douleur cruelle!
+         O châtiment!...
+
+_Sie._
+                   (à VALENTIN).
+         Grâce pour elle!...
+         Soyez clément!
+
+_Val._
+             (soutenu par ceux qui l'entourent).
+         Ecoute-moi bien, Marguerite!...
+         Ce qui doit arriver arrive à l'heure dite!
+         La mort nous frappé quand il faut,
+         Et chacun obéit aux volontés d'en haut!...
+         --Toi!... te voilà dans la mauvaise voie!
+         Tes blanches mains ne travailleront plus!
+         Tu renîras, pour vivre dans la joie,
+         Tous les devoirs et toutes les vertus!
+         Va! la honte t'accable
+         Le remords suit tes pas!
+         Mais enfin l'heure sonne!
+         Meurs! et si Dieu te pardonne,
+         Soit maudite ici-bas.
+
+_La Foule._
+         O terreur, ô blasphème
+         A ton heure suprême, infortuné,
+         Songe, hélas, a toi-même,
+         Pardonne, si tu veux être un jour pardonné!
+
+_Val._   Marguerite! Soit maudite!
+         La mort t'attend sur ton grabat!
+         Moi je meurs de ta main
+         Et je tombe en soldat!
+                     (Il meurt.)
+
+_La Foule._
+         Que le Seigneur ait son âme
+         Et pardonne au pêcheur.
+                  (La toile tombe.)
+
+
+
+
+ACTE CINQUIÈME.
+
+
+SCÈNE PREMIÈRE.
+
+La Prison.
+
+MARGUERITE, endormie, FAUST, MEPHISTOPHELES.
+
+_Faust._ Va t'en!
+
+_Mep._   Le jour va luire.--On dresse l'échafaud!
+         Décide sans retard Marguerite à te suivre.
+         Le geôlier dort.--Voici les clefs.--Il faut
+         Que ta main d'homme la délivre.
+
+_Faust._ Laisse-moi!
+
+_Mep._   Hâtez-vous.--Moi, je veille au dehors.
+
+                       (Il sort.)
+_Faust._ Mon coeur est pénètré d'épouvante!--O torture!
+         O source de regrets et d'éternels remords!
+         C'est elle!--La voici, la douce créature
+         Jetée au fond d'une prison
+         Comme une vile criminelle!
+         Le désespoir égara sa raison
+         Son pauvre enfant, ô Dieu! tué par elle!
+         Marguerite!
+
+_Mar._
+                        (s'éveillant).
+         Ah! c'est lui!--c'est lui! le bien-aimé!
+                       (Elle se lève.)
+         A son appel mon coeur s'est ranimé.
+
+_Faust._ Marguerite!
+
+_Mar._   Au milieu de vos éclats de rire,
+         Démons qui m'entourez, j'ai reconnu sa voix!
+
+_Faust._ Marguerite!
+
+_Mar._   Sa main, sa douce main m'attire!
+         Je suis libre! Il est là! je l'entends! je la vois.
+         Oui, c'est toi, je t'aime,
+         Les fers, la mort même
+         Ne me font plus peur!
+         Tu m'as retrouvé,
+         Me voilà sauvé!
+         C'est toi; je suis sur ton coeur!
+
+_Faust._ Oui, c'est moi, je t'aime,
+         Malgré l'effort même
+         Du démon moqueur,
+         Je t'ai retrouvé,
+         Te voilà sauvé,
+         C'est moi, viens sur mon coeur!
+
+_Mar._
+             (se dégageant doucement de ses bras).
+         Attends!... voici la rue
+         Où tu m'as vue
+         Pour la premiere fois!...
+         Où votre main osa presque effleurer mes doigts!
+         "--Ne permettez-vous pas, ma belle demoiselle,
+         Qu'on vous offre le bras pour faire le chemin?"
+         "--Non, monsieur, je ne suis demoiselle ni belle,
+         Et je n'ai pas besoin qu'on me donne la main!"
+
+_Faust._ Oui, mon coeur se souvient!--Mais fuyons! l'heure passe!
+
+_Mar._   Et voici le jardin charmant,
+         Parfumé de myrte et de rose,
+         Où chaque soir discrètement
+         Tu pénétrais à la nuit close.
+
+_Faust._ Viens, Marguerite, fuyons!
+
+_Mar._   Non, reste encore.
+
+_Faust._ O ciel, elle ne m'entends pas!
+
+          *       *       *       *       *
+
+
+SCÈNE II.
+
+Les mêmes. MEPHISTOPHELES.
+
+_Mep._   Alerte! alerte! ou vous êtes perdus!
+         Si vous tardez encor, je ne m'en mêle plus!
+
+_Mar._   Le démon! le démon!--Le vois-tu?... là ... dans l'ombre
+         Fixant sur nous son oeil de feu!
+         Que nous veut-il?--Chasse-le du saint lieu!
+
+_Mep._   L'aube depuis longtemps a percé la nuit sombre,
+         La jour est levé
+         De leur pied sonore
+         J'entends nos chevaux frapper le pavé.
+             (Cherchant à entraîner FAUST.)
+         Viens! sauvons-la. Peut-être il en est temps encore!
+
+_Mar._   Mon Dieu, protégez-moi!--Mon Dieu, je vous implore!
+                  (Tombant à genoux.)
+         Anges purs! anges radieux!
+         Portez mon âme au sein des cieux!
+         Dieu juste, à toi je m'abandonne!
+         Dieu bon, je suis à toi!--pardonne!
+
+_Faust._ Viens, suis-moi! je le veux!
+
+_Mar._   Anges purs, anges radieux!
+         Portez mon âme au sein des cieux!
+         Dieu juste, à toi je m'abandonne!
+         Dieu bon, je suis à toi!--pardonne!
+         Anges purs, anges radieux!
+         Portez mon âme au sein des cieux!
+                  (Bruit au dehors.)
+
+_Faust._ Marguerite!
+
+_Mar._   Pourquoi ce regard menaçant?
+
+_Faust._ Marguerite!
+
+_Mar._   Pourquoi ces mains rouges de sang?
+                  (Le repoussant.)
+         Va!... tu me fais horreur!
+              (Elle tombe sans mouvement.)
+
+_Mep._   Jugée!
+
+_Cho. des Anges._ Sauvée! Christ est ressuscité!
+                  Christ vient de renaître!
+                  Paix et félicité
+                  Aux disciples du Maître!
+                  Christ vient de renaître.
+                  Christ est ressuscité!
+
+    (Les murs de la prison se sont ouverts. L'âme de MARGUERITE
+  s'élève dans les cieux. FAUST la suit des yeux avec désespoir;
+  il tombe à genoux et prie. MEPHISTOPHELES est à demi renversé
+  sous l'épée lumineuse de l'archange.)
+
+FIN.
+
+
+
+
+[Illustration: ACT I: A MOI LES PLAISIRS
+                     (OH, I WOULD HAVE PLEASURE)]
+
+[Illustration: ACT II. WALTZ AND CHORUS-1]
+
+[Illustration: ACT II. WALTZ AND CHORUS-2]
+
+[Illustration: ACT III: O NUIT D'AMOUR
+                       (O NIGHT OF LOVE)]
+
+[Illustration: ACT IV: SOLDIERS CHORUS]
+
+[Illustration: ACT V: ANGES PUR, ANGES RADIEUX
+                     (HOLY ANGELS, IN HEAVEN BLEST)]
+
+
+
+
+Standard Opera Librettos
+
+All librettos have English text. Additional texts are indicated by
+Italic letters, as follows: _I_, Italian; _G_, German; _F_, French.
+Those marked with (*) contain no music. All the others have the music
+of the principal airs.
+
+PRICE, 30 CENTS EACH, NET.
+
+
+                          A-G
+
+ Title                     Text          Composer
+
+ Africaine, L'              _I._     _Giacomo Meyerbeer_
+ Aïda                       _I._     _Giuseppe Verdi_
+ Armide                     _F._     _C. W. von Gluck_
+ Ballo in Maschera, Un
+   (The Masked Ball)        _I._     _Giuseppe Verdi_
+ Barbe-Bleue
+   (Blue Beard)             _F._     _Jacques Offenbach_
+ Barbiere di Siviglia, Il
+   (Barber of Seville)      _I._     _Gioacchino A. Rossini_
+ Bartered Bride             _G._     _Frederich Smetana_
+ Belle Hélèna, La           _F._     _Jacques Offenbach_
+ Bells of Corneville
+   (Chimes of Normandy)              _Robert Planquette_
+ *Billee Taylor                      _Edward Solomon_
+ *Boccaccio                          _Franz von Suppé_
+ Bohemian Girl, The                  _Michael Wm. Balfe_
+    do.                     _I._           do.
+ Carmen                     _F._     _Georges Bizet_
+    do.                     _I._           do.
+ Cavalleria Rusticana       _I._     _Pietro Mascagni_
+ Chimes of Normandy
+   (Bells of Corneville)             _Robert Planquette_
+ Cleopatra's Night                   _Henry Hadley_
+ Contes d'Hoffmann, Les
+   (Tales of Hoffmann)      _F._     _Jacques Offenbach_
+ Crispino e la Comare
+   (The Cobbler and the
+    Fairy)                  _I._     _Luigi and F. Ricci_
+ Crown Diamonds, The        _F._     _D. F. E. Auber_
+ Dame Blanche, La                    _F. A. Boieldieu_
+ Damnation of Faust, The    _F._     _Hector Berlioz_
+ Dinorah                    _I._     _Giacomo Meyerbeer_
+ *Doctor of Alcantara, The           _Julius Eichberg_
+ Don Giovanni               _I._     _W. A. Mozart_
+ Don Pasquale               _I._     _Gaetano Donizetti_
+ *Dorothy                            _Alfred Cellier_
+ Dumb Girl of Portici,
+   The (Masaniello)         _I._     _D. F. E. Auber_
+ Elisire d'amore, L'        _I._     _Gaetano Donizetti_
+ *Erminie                   _I._     _Edward Jakobowski_
+ Ernani                     _I._     _Giuseppe Verdi_
+ Etoile du Nord, L' (The
+   Star of the North)       _I._     _Giacomo Meyerbeer_
+ Fatinitza                           _Franz von Suppé_
+ Faust                      _F._     _Charles Gounod_
+    do.                     _I._           do.
+ Favorita, La               _I._     _Gaetano Donizetti_
+ Fidelio                    _G._     _L. van Beethoven_
+ Figlia del Reggimento, La
+  (Daughter of the Regiment)_I._     _Gaetano Donizetti_
+ Fille de Madame Angot, La  _F._     _Charles Lecocq_
+ Flauto Magico, Il
+   (The Magic Flute)        _I._     _W. A. Mozart_
+      do.                   _G._           do.
+ Fledermaus, Die (The Bat)  _G._     _Johann Strauss_
+ Flying Dutchman, The                _Richard Wagner_
+    do.                     _G._           do.
+ Fra Diavolo.               _I._     _D. F. E. Auber_
+ Freischütz, Der            _G._     _Carl Maria von Weber_
+    do.                     _I._           do.
+ *Gillette (_La Belle
+   Coquette_)                        _Edmond Audran_
+ Gioconda, La               _I._     _Amilcare Ponchielli_
+ Giroflé-Girofla            _F._     _Charles Lecocq_
+ Götterdämmerung, Die       _G._     _Richard Wagner_
+
+BOSTON: OLIVER DITSON COMPANY
+
+New York: Chas. H. Ditson & Co. Chicago: Lyon & Healy, Inc.
+
+Order of your local dealer
+
+Made in U. S. A.
+
+
+Standard Opera Librettos
+
+All librettos have English text. Additional texts are indicated by
+Italic letters, as follows: _I_, Italian; _G_, German; _F_, French.
+Those marked with (*) contain no music. All the others have the music
+of the principal airs.
+
+PRICE, 30 CENTS, EACH
+
+PRICES ARE
+
+Postage extra, except in first and second zones from Boston and New York
+
+
+                           G-Z
+
+ Title                     Text          Composer
+
+ Grand Duchess of
+   Gerolstein, The          _F._     _Jacques Offenbach_
+ *Hamlet                             _Ambroise Thomas_
+ Jewess, The                _I._     _Jacques F. Halévy_
+ Königin von Saba
+   (Queen of Sheba)         _G._     _Karl Goldmark_
+ Lakmé                      _I._     _Léo Delibes_
+ Lily of Killarney, The              _Sir Jules Benedict_
+ Linda di Chamounix         _I._     _Gaetano Donizetti_
+ Lohengrin                  _G._     _Richard Wagner_
+    do.                     _I._            do.
+ *Lovely Galatea, The                _Franz von Suppé_
+ Lucia di Lammermoor        _I._     _Gaetano Donizetti_
+ Lucrezia Borgia            _I._            do.
+ *Madame Favart                      _Jacques Offenbach_
+ Manon                      _F._     _Jules Massenet_
+ Maritana                            _Wm. Vincent Wallace_
+ Marriage of Figaro         _I._     _W. A. Mozart_
+ Martha                     _I._     _Friedrich von Flotow_
+ Masaniello (Dumb
+   Girl of Portici)         _I._     _D. F. E. Auber_
+ *Mascot, The                        _Edmond Audran_
+ Masked Ball                _I._     _Giuseppe Verdi_
+ Meistersinger, Die
+   (The Mastersingers)      _G._     _Richard Wagner_
+ Mefistofele                _I._     _Arrigo Boito_
+ Merry Wives of
+     Windsor, The                    _Otto Nicolai_
+ Mignon                     _I._     _Ambroise Thomas_
+ Mikado, The                         _Sir Arthur S. Sullivan_
+ *Nanon                              _Richard Genée_
+ Norma                      _I._     _Vincenzo Bellini_
+ *Olivette                           _Edmond Audran_
+ Orpheus                             _C. W. von Gluck_
+ Otello                     _I._     _Giuseppe Verdi_
+ Pagliacci, I               _I._     _R. Leoncavallo_
+ Parsifal                   _G._     _Richard Wagner_
+ Pinafore (H. M. S.)                 _Sir Arthur S. Sullivan_
+ Prophète, Le               _I._     _Giacomo Meyerbeer_
+ Puritani, I                _I._     _Vincenzo Bellini_
+ Rheingold, Das (The
+   Rhinegold)               _G._     _Richard Wagner_
+ Rigoletto                  _I._     _Giuseppe Verdi_
+ Robert le Diable           _I._     _Giacomo Meyerbeer_
+ Roméo et Julietta          _F._     _Charles Gounod_
+ Romeo e Giulietta          _I._            do.
+ Ruddigore                           _Sir Arthur S. Sullivan_
+ Samson et Dalila           _F._     _Camille Saint-Saëns_
+ Semiramide                 _I._     _Gioacchino A. Rossini_
+ Siegfried                  _G._     _Richard Wagner_
+ Sonnambula, La             _I._     _Vincenzo Bellini_
+ *Sorcerer, The                      _Sir Arthur S. Sullivan_
+ *Spectre Knight, The                _Alfred Cellier_
+ *Stradella                          _Friedrich von Flotow_
+ Tannhäuser                 _G._     _Richard Wagner_
+ Traviata, La               _I._     _Giuseppe Verdi_
+ Tristan und Isolde         _G._     _Richard Wagner_
+ Trovatore, Il              _I._     _Giuseppe Verdi_
+ Ugonotti, Gli (The
+   Huguenots)               _I._     _Giacomo Meyerbeer_
+ Verkaufte Braut, Die
+   (The Bartered Bride)     _G._     _Friedrich Smetana_
+ Walküre, Die               _G._     _Richard Wagner_
+ William Tell               _I._     _Gioacchino A. Rossini_
+ Zauberflöte, Die (The
+   Magic Flute)             _G._     _W. A. Mozart_
+
+Boston: OLIVER DITSON COMPANY: New York
+
+Chicago: LYON & HEALY, Inc. London: WINTHROP ROGERS, Ltd.
+
+Order of your local dealer
+
+Made in U. S. A.
+
+
+
+
+
+SONGS FROM THE OPERAS
+
+       *       *       *       *       *
+
+Edited by H. E. KREHBIEL
+
+_Bound in paper, cloth back, $2.50 each, net_
+
+_In full cloth, gilt.... 3.50 each, net_
+
+In these volumes of _The Musicians Library_ the editor has presented
+in chronological order the most famous arias from operas of every
+school. Beginning with songs from the earliest Italian productions,
+a comprehensive view of operatic development is given by well-chosen
+examples from German, French, and later Italian works, down to
+contemporary musical drama.
+
+Each song or aria is given in its original key with the original text,
+and a faithful and singable English translation.
+
+Each volume contains an interesting preface by Mr. Krehbiel, with
+historic, descriptive, and interpretative notes on each song.
+
+Portraits of the most noted composers represented are given in each
+volume.
+
+Size of each volume, 9-1/2 × 12-1/2 inches.
+
+
+SOPRANO SONGS FROM THE OPERAS
+
+Contains twenty-three numbers by nineteen composers. The music covers
+188 pages, the prefatory matter 25 pages. Portraits are given of
+Beethoven, Bellini, Gluck, Gounod, Meyerbeer, Mozart, Rossini, Verdi,
+and Weber.
+
+
+MEZZO SOPRANO SONGS FROM THE OPERAS
+
+Contains thirty numbers by twenty-five composers. The music covers 186
+pages, the prefatory matter 29 pages. Portraits are given of Auber,
+Bizet, Donizetti, Handel, Massenet, Saint-Saëns, Spontini, Thomas, and
+Wagner.
+
+
+ALTO SONGS FROM THE OPERAS
+
+Contains twenty-nine numbers by twenty-two composers. The music covers
+176 pages, the prefatory matter 20 pages. Portraits are given of
+Glinka, Gluck, Handel, Lully, Meyerbeer, Purcell, Rossini, Thomas, and
+Verdi.
+
+
+TENOR SONGS FROM THE OPERAS
+
+Contains twenty-nine numbers by twenty-one composers. The music covers
+192 pages, the prefatory matter 27 pages. Portraits are given of
+Beethoven, Bizet, Gluck, Gounod, Mascagni, Massenet, Verdi, Wagner, and
+Weber.
+
+
+BARITONE AND BASS SONGS FROM THE OPERAS
+
+Contains twenty-seven numbers by twenty-four composers. The music
+covers 188 pages, the prefatory matter 20 pages. Portraits are given of
+Bellini, Bizet, Cherubini, Gounod, Halévy, Handel, Mozart, Ponchielli,
+and Tchaikovsky.
+
+Boston: OLIVER DITSON COMPANY: New York
+
+Chicago: LYON & HEALY, INC. London: WINTHROP ROGERS, LTD.
+
+_Order of your local dealer_
+
+
+
+
+
+End of the Project Gutenberg EBook of Faust, by 
+J. Barbier and M. Carré and Charles Gounod
+
+*** END OF THIS PROJECT GUTENBERG EBOOK FAUST ***
+
+***** This file should be named 45806-8.txt or 45806-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/5/8/0/45806/
+
+Produced by Colin Bell, Paul Marshall, Joseph Cooper and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

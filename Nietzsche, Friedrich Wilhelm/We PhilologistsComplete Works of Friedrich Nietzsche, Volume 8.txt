@@ -1,0 +1,3202 @@
+Project Gutenberg's We Philologists, Volume 8 (of 18), by Friedrich Nietzsche
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: We Philologists, Volume 8 (of 18)
+
+Author: Friedrich Nietzsche
+
+Editor: Oscar Levy
+
+Translator: J. M. Kennedy
+
+Release Date: April 27, 2006 [EBook #18267]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK WE PHILOLOGISTS, VOLUME 8 (OF 18) ***
+
+
+
+
+Produced by Thierry Alberto, Martin Pettit and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+THE COMPLETE WORKS OF FRIEDRICH NIETZSCHE
+
+_First Complete and Authorised English translation in Eighteen Volumes_
+
+EDITED BY
+
+DR OSCAR LEVY
+
+[Illustration: Nietzsche.]
+
+VOLUME EIGHT
+
+       *       *       *       *       *
+
+THIRD EDITION
+
+
+WE PHILOLOGISTS
+
+TRANSLATED BY
+
+J. M. KENNEDY
+
+       *       *       *       *       *
+
+T. N. FOULIS
+
+13 & 15 FREDERICK STREET
+
+EDINBURGH · AND LONDON
+
+1911
+
+
+
+
+CONTENTS
+
+
+TRANSLATOR'S PREFACE TO "WE PHILOLOGISTS"      105
+
+WE PHILOLOGISTS                                109
+
+
+
+
+
+WE PHILOLOGISTS
+
+
+AUTUMN 1874
+
+(PUBLISHED POSTHUMOUSLY)
+
+
+TRANSLATED BY J. M. KENNEDY
+
+AUTHOR OF "THE QUINTESSENCE OF NIETZSCHE," "RELIGIONS AND PHILOSOPHIES
+OF THE EAST," &C.
+
+
+     The mussel is crooked inside and rough outside · it is only when we
+     hear its deep note after blowing into it that we can begin to
+     esteem it at its true value.--(Ind. Spruche, ed Bothlingk, 1 335)
+
+     An ugly-looking-wind instrument · but we must first blow into it.
+
+
+TRANSLATOR'S INTRODUCTION
+
+The subject of education was one to which Nietzsche, especially during
+his residence in Basel, paid considerable attention, and his insight
+into it was very much deeper than that of, say, Herbert Spencer or even
+Johann Friedrich Herbart, the latter of whom has in late years exercised
+considerable influence in scholastic circles. Nietzsche clearly saw that
+the "philologists" (using the word chiefly in reference to the teachers
+of the classics in German colleges and universities) were absolutely
+unfitted for their high task, since they were one and all incapable of
+entering into the spirit of antiquity. Although at the first reading,
+therefore, this book may seem to be rather fragmentary, there are two
+main lines of thought running through it: an incisive criticism of
+German professors, and a number of constructive ideas as to what
+classical culture really should be.
+
+These scattered aphorisms, indeed, are significant as showing how far
+Nietzsche had travelled along the road over which humanity had been
+travelling from remote ages, and how greatly he was imbued with the
+pagan spirit which he recognised in Goethe and valued in Burckhardt.
+Even at this early period of his life Nietzsche was convinced that
+Christianity was the real danger to culture; and not merely modern
+Christianity, but also the Alexandrian culture, the last gasp of Greek
+antiquity, which had helped to bring Christianity about. When, in the
+later aphorisms of "We Philologists," Nietzsche appears to be throwing
+over the Greeks, it should be remembered that he does not refer to the
+Greeks of the era of Homer or Æschylus, or even of Aristotle, but to the
+much later Greeks of the era of Longinus.
+
+Classical antiquity, however, was conveyed to the public through
+university professors and their intellectual offspring, and these
+professors, influenced (quite unconsciously, of course) by religious and
+"liberal" principles, presented to their scholars a kind of emasculated
+antiquity. It was only on these conditions that the State allowed the
+pagan teaching to be propagated in the schools; and if, where classical
+scholars were concerned, it was more tolerant than the Church had been,
+it must be borne in mind that the Church had already done all the rough
+work of emasculating its enemies, and had handed down to the State a
+body of very innocuous and harmless investigators. A totally erroneous
+conception of what constituted classical culture was thus brought about.
+Where any distinction was actually made, for example, later Greek
+thought was enormously over-rated, and early Greek thought equally
+undervalued. Aphorism 44, together with the first half-dozen or so in
+the book, may be taken as typical specimens of Nietzsche's protest
+against this state of things.
+
+It must be added, unfortunately, that Nietzsche's observations in this
+book apply as much to England as to Germany. Classical teachers here may
+not be rated so high as they are in Germany, but their influence would
+appear to be equally powerful, and their theories of education and of
+classical antiquity equally chaotic. In England as in Germany they are
+"theologians in disguise." The danger of modern "values" to true culture
+may be readily gathered from a perusal of aphorisms that follow: and, if
+these aphorisms enable even one scholar in a hundred to enter more
+thoroughly into the spirit of a great past they will not have been
+penned in vain.
+
+                                            J. M. KENNEDY.
+
+LONDON, _July 1911_.
+
+
+
+
+I
+
+To what a great extent men are ruled by pure hazard, and how little
+reason itself enters into the question, is sufficiently shown by
+observing how few people have any real capacity for their professions
+and callings, and how many square pegs there are in round holes: happy
+and well chosen instances are quite exceptional, like happy marriages,
+and even these latter are not brought about by reason. A man chooses his
+calling before he is fitted to exercise his faculty of choice. He does
+not know the number of different callings and professions that exist; he
+does not know himself; and then he wastes his years of activity in this
+calling, applies all his mind to it, and becomes experienced and
+practical. When, afterwards, his understanding has become fully
+developed, it is generally too late to start something new; for wisdom
+on earth has almost always had something of the weakness of old age and
+lack of vigour about it.
+
+For the most part the task is to make good, and to set to rights as well
+as possible, that which was bungled in the beginning. Many will come to
+recognise that the latter part of their life shows a purpose or design
+which has sprung from a primary discord: it is hard to live through it.
+Towards the end of his life, however, the average man has become
+accustomed to it--then he may make a mistake in regard to the life he
+has lived, and praise his own stupidity: _bene navigavi cum naufragium
+feci_ . he may even compose a song of thanksgiving to "Providence."
+
+
+2
+
+On inquiring into the origin of the philologist I find:
+
+1. A young man cannot have the slightest conception of what the Greeks
+and Romans were.
+
+2. He does not know whether he is fitted to investigate into them;
+
+3. And, in particular, he does not know to what extent, in view of the
+knowledge he may actually possess, he is fitted to be a teacher. What
+then enables him to decide is not the knowledge of himself or his
+science; but
+
+     (_a_) Imitation.
+
+     (_b_) The convenience of carrying on the kind of work which he had
+     begun at school.
+
+     (_c_) His intention of earning a living.
+
+In short, ninety-nine philologists out of a hundred _should_ not be
+philologists at all.
+
+
+3
+
+The more strict religions require that men shall look upon their
+activity simply as one means of carrying out a metaphysical scheme: an
+unfortunate choice of calling may then be explained as a test of the
+individual. Religions keep their eyes fixed only upon the salvation of
+the individual . whether he is a slave or a free man, a merchant or a
+scholar, his aim in life has nothing to do with his calling, so that a
+wrong choice is not such a very great piece of unhappiness. Let this
+serve as a crumb of comfort for philologists in general; but true
+philologists stand in need of a better understanding: what will result
+from a science which is "gone in for" by ninety-nine such people? The
+thoroughly unfitted majority draw up the rules of the science in
+accordance with their own capacities and inclinations; and in this way
+they tyrannise over the hundredth, the only capable one among them. If
+they have the training of others in their hands they will train them
+consciously or unconsciously after their own image . what then becomes
+of the classicism of the Greeks and Romans?
+
+The points to be proved are--
+
+(_a_) The disparity between philologists and the ancients.
+
+(_b_) The inability of the philologist to train his pupils, even with
+the help of the ancients.
+
+(_c_) The falsifying of the science by the (incapacity of the) majority,
+the wrong requirements held in view; the renunciation of the real aim of
+this science.
+
+
+4
+
+All this affects the sources of our present philology: a sceptical and
+melancholy attitude. But how otherwise are philologists to be produced?
+
+The imitation of antiquity: is not this a principle which has been
+refuted by this time?
+
+The flight from actuality to the ancients: does not this tend to falsify
+our conception of antiquity?
+
+
+5
+
+We are still behindhand in one type of contemplation: to understand how
+the greatest productions of the intellect have a dreadful and evil
+background . the sceptical type of contemplation. Greek antiquity is now
+investigated as the most beautiful example of life.
+
+As man assumes a sceptical and melancholy attitude towards his life's
+calling, so we must sceptically examine the highest life's calling of a
+nation: in order that we may understand what life is.
+
+
+6
+
+My words of consolation apply particularly to the single tyrannised
+individual out of a hundred: such exceptional ones should simply treat
+all the unenlightened majorities as their subordinates; and they should
+in the same way take advantage of the prejudice, which is still
+widespread, in favour of classical instruction--they need many helpers.
+But they must have a clear perception of what their actual goal is.
+
+
+7
+
+Philology as the science of antiquity does not, of course, endure for
+ever; its elements are not inexhaustible. What cannot be exhausted,
+however, is the ever-new adaptation of one's age to antiquity; the
+comparison of the two. If we make it our task to understand our own age
+better by means of antiquity, then our task will be an everlasting
+one.--This is the antinomy of philology: people have always endeavoured
+to understand antiquity by means of the present--and shall the present
+now be understood by means of antiquity? Better: people have explained
+antiquity to themselves out of their own experiences; and from the
+amount of antiquity thus acquired they have assessed the value of their
+experiences. Experience, therefore, is certainly an essential
+prerequisite for a philologist--that is, the philologist must first of
+all be a man; for then only can he be productive as a philologist. It
+follows from this that old men are well suited to be philologists if
+they were not such during that portion of their life which was richest
+in experiences.
+
+It must be insisted, however, that it is only through a knowledge of the
+present that one can acquire an inclination for the study of classical
+antiquity. Where indeed should the impulse come from if not from this
+inclination? When we observe how few philologists there actually are,
+except those that have taken up philology as a means of livelihood, we
+can easily decide for ourselves what is the matter with this impulse for
+antiquity: it hardly exists at all, for there are no disinterested
+philologists.
+
+Our task then is to secure for philology the universally educative
+results which it should bring about. The means: the limitation of the
+number of those engaged in the philological profession (doubtful whether
+young men should be made acquainted with philology at all). Criticism of
+the philologist. The value of antiquity: it sinks with you: how deeply
+you must have sunk, since its value is now so little!
+
+
+8
+
+It is a great advantage for the true philologist that a great deal of
+preliminary work has been done in his science, so that he may take
+possession of this inheritance if he is strong enough for it--I refer to
+the valuation of the entire Hellenic mode of thinking. So long as
+philologists worked simply at details, a misunderstanding of the Greeks
+was the consequence. The stages of this undervaluation are · the
+sophists of the second century, the philologist-poets of the
+Renaissance, and the philologist as the teacher of the higher classes of
+society (Goethe, Schiller).
+
+Valuing is the most difficult of all.
+
+In what respect is one most fitted for this valuing?
+
+--Not, at all events, when one is trained for philology as one is now.
+It should be ascertained to what extent our present means make this last
+object impossible.
+
+--Thus the philologist himself is not the aim of philology.
+
+
+9
+
+Most men show clearly enough that they do not regard themselves as
+individuals: their lives indicate this. The Christian command that
+everyone shall steadfastly keep his eyes fixed upon his salvation, and
+his alone, has as its counterpart the general life of mankind, where
+every man lives merely as a point among other points--living not only as
+the result of earlier generations, but living also only with an eye to
+the future. There are only three forms of existence in which a man
+remains an individual as a philosopher, as a Saviour, and as an artist.
+But just let us consider how a scientific man bungles his life: what
+has the teaching of Greek particles to do with the sense of life?--Thus
+we can also observe how innumerable men merely live, as it were, a
+preparation for a man, the philologist, for example, as a preparation
+for the philosopher, who in his turn knows how to utilise his ant-like
+work to pronounce some opinion upon the value of life. When such
+ant-like work is not carried out under any special direction the greater
+part of it is simply nonsense, and quite superfluous.
+
+
+10
+
+Besides the large number of unqualified philologists there is, on the
+other hand, a number of what may be called born philologists, who from
+some reason or other are prevented from becoming such. The greatest
+obstacle, however, which stands in the way of these born philologists is
+the bad representation of philology by the unqualified philologists.
+
+Leopardi is the modern ideal of a philologist: The German philologists
+can do nothing. (As a proof of this Voss should be studied!)
+
+
+11
+
+Let it be considered how differently a science is propagated from the
+way in which any special talent in a family is transmitted. The bodily
+transmission of an individual science is something very rare. Do the
+sons of philologists easily become philologists? _Dubito_. Thus there is
+no such accumulation of philological capacity as there was, let us say,
+in Beethoven's family of musical capacity. Most philologists begin from
+the beginning, and even then they learn from books, and not through
+travels, &c. They get some training, of course.
+
+
+12
+
+Most men are obviously in the world accidentally; no necessity of a
+higher kind is seen in them. They work at this and that, their talents
+are average. How strange! The manner in which they live shows that they
+think very little of themselves: they merely esteem themselves in so far
+as they waste their energy on trifles (whether these be mean or
+frivolous desires, or the trashy concerns of their everyday calling). In
+the so-called life's calling, which everyone must choose, we may
+perceive a touching modesty on the part of mankind. They practically
+admit in choosing thus. "We are called upon to serve and to be of
+advantage to our equals--the same remark applies to our neighbour and to
+his neighbour, so everyone serves somebody else; no one is carrying out
+the duties of his calling for his own sake, but always for the sake of
+others and thus we are like geese which support one another by the one
+leaning against the other. _When the aim of each one of us is centred in
+another, then we have all no object in existing;_ and this 'existing for
+others' is the most comical of comedies."
+
+
+13
+
+Vanity is the involuntary inclination to set one's self up for an
+individual while not really being one; that is to say, trying to appear
+independent when one is dependent. The case of wisdom is the exact
+contrary: it appears to be dependent while in reality it is independent.
+
+
+14
+
+The Hades of Homer--From what type of existence is it really copied? I
+think it is the description of the philologist: it is better to be a
+day-labourer than to have such an anæmic recollection of the past.--[1]
+
+
+15
+
+The attitude of the philologist towards antiquity is apologetic, or else
+dictated by the view that what our own age values can likewise be found
+in antiquity. The right attitude to take up, however, is the reverse
+one, viz., to start with an insight into our modern topsyturviness, and
+to look back from antiquity to it--and many things about antiquity which
+have hitherto displeased us will then be seen to have been most profound
+necessities.
+
+We must make it clear to ourselves that we are acting in an absurd
+manner when we try to defend or to beautify antiquity: _who_ are we!
+
+
+16
+
+We are under a false impression when we say that there is always some
+caste which governs a nation's culture, and that therefore savants are
+necessary; for savants only possess knowledge concerning culture (and
+even this only in exceptional cases). Among learned men themselves there
+might be a few, certainly not a caste, but even these would indeed be
+rare.
+
+
+17
+
+One very great value of antiquity consists in the fact that its writings
+are the only ones which modern men still read carefully.
+
+Overstraining of the memory--very common among philologists, together
+with a poor development of the judgment.
+
+
+18
+
+Busying ourselves with the culture-epochs of the past: is this
+gratitude? We should look backwards in order to explain to ourselves the
+present conditions of culture: we do not become too laudatory in regard
+to our own circumstances, but perhaps we should do so in order that we
+may not be too severe on ourselves.
+
+
+19
+
+He who has no sense for the symbolical has none for antiquity: let
+pedantic philologists bear this in mind.
+
+
+20
+
+My aim is to bring about a state of complete enmity between our present
+"culture" and antiquity. Whoever wishes to serve the former must hate
+the latter.
+
+
+21
+
+Careful meditation upon the past leads to the impression that we are a
+multiplication of many pasts · so how can we be a final aim? But why
+not? In most instances, however, we do not wish to be this. We take up
+our positions again in the ranks, work in our own little corner, and
+hope that what we do may be of some small profit to our successors. But
+that is exactly the case of the cask of the Danæ · and this is useless,
+we must again set about doing everything for ourselves, and only for
+ourselves--measuring science by ourselves, for example with the question
+· What is science to us? not . what are we to science? People really
+make life too easy for themselves when they look upon themselves from
+such a simple historical point of view, and make humble servants of
+themselves. "Your own salvation above everything"--that is what you
+should say; and there are no institutions which you should prize more
+highly than your own soul.--Now, however, man learns to know himself: he
+finds himself miserable, despises himself, and is pleased to find
+something worthy of respect outside himself. Therefore he gets rid of
+himself, so to speak, makes himself subservient to a cause, does his
+duty strictly, and atones for his existence. He knows that he does not
+work for himself alone; he wishes to help those who are daring enough to
+exist on account of themselves, like Socrates. The majority of men are
+as it were suspended in the air like toy balloons; every breath of wind
+moves them.--As a consequence the savant must be such out of
+self-knowledge, that is to say, out of contempt for himself--in other
+words he must recognise himself to be merely the servant of some higher
+being who comes after him. Otherwise he is simply a sheep.
+
+
+22
+
+It is the duty of the free man to live for his own sake, and not for
+others. It was on this account that the Greeks looked upon handicrafts
+as unseemly.
+
+As a complete entity Greek antiquity has not yet been fully valued · I
+am convinced that if it had not been surrounded by its traditional
+glorification, the men of the present day would shrink from it horror
+stricken. This glorification, then, is spurious; gold-paper.
+
+
+23
+
+The false enthusiasm for antiquity in which many philologists live. When
+antiquity suddenly comes upon us in our youth, it appears to us to be
+composed of innumerable trivialities; in particular we believe ourselves
+to be above its ethics. And Homer and Walter Scott--who carries off the
+palm? Let us be honest! If this enthusiasm were really felt, people
+could scarcely seek their life's calling in it. I mean that what we can
+obtain from the Greeks only begins to dawn upon us in later years: only
+after we have undergone many experiences, and thought a great deal.
+
+
+24
+
+People in general think that philology is at an end--while I believe
+that it has not yet begun.
+
+The greatest events in philology are the appearance of Goethe,
+Schopenhauer, and Wagner; standing on their shoulders we look far into
+the distance. The fifth and sixth centuries have still to be discovered.
+
+
+25
+
+Where do we see the effect of antiquity? Not in language, not in the
+imitation of something or other, and not in perversity and waywardness,
+to which uses the French have turned it. Our museums are gradually
+becoming filled up: I always experience a sensation of disgust when I
+see naked statues in the Greek style in the presence of this thoughtless
+philistinism which would fain devour everything.
+
+
+PLANS AND THOUGHTS RELATING TO A WORK ON PHILOLOGY
+
+(1875)
+
+
+26
+
+Of all sciences philology at present is the most favoured · its progress
+having been furthered for centuries by the greatest number of scholars
+in every nation who have had charge of the noblest pupils. Philology has
+thus had one of the best of all opportunities to be propagated from
+generation to generation, and to make itself respected. How has it
+acquired this power?
+
+Calculations of the different prejudices in its favour.
+
+How then if these were to be frankly recognised as prejudices? Would not
+philology be superfluous if we reckoned up the interests of a position
+in life or the earning of a livelihood? What if the truth were told
+about antiquity, and its qualifications for training people to live in
+the present?
+
+In order that the questions set forth above may be answered let us
+consider the training of the philologist, his genesis: he no longer
+comes into being where these interests are lacking.
+
+If the world in general came to know what an unseasonable thing for us
+antiquity really is, philologists would no longer be called in as the
+educators of our youth.
+
+Effect of antiquity on the non-philologist likewise nothing. If they
+showed themselves to be imperative and contradictory, oh, with what
+hatred would they be pursued! But they always humble themselves.
+
+Philology now derives its power only from the union between the
+philologists who will not, or cannot, understand antiquity and public
+opinion, which is misled by prejudices in regard to it.
+
+The real Greeks, and their "watering down" through the philologists.
+
+The future commanding philologist sceptical in regard to our entire
+culture, and therefore also the destroyer of philology as a profession.
+
+
+THE PREFERENCE FOR ANTIQUITY
+
+
+27
+
+If a man approves of the investigation of the past he will also approve
+and even praise the fact--and will above all easily understand it--that
+there are scholars who are exclusively occupied with the investigation
+of Greek and Roman antiquity: but that these scholars are at the same
+time the teachers of the children of the nobility and gentry is not
+equally easy of comprehension--here lies a problem.
+
+Why philologists precisely? This is not altogether such a matter of
+course as the case of a professor of medicine, who is also a practical
+physician and surgeon. For, if the cases were identical, preoccupation
+with Greek and Roman antiquity would be identical with the "science of
+education." In short, the relationship between theory and practice in
+the philologist cannot be so quickly conceived. Whence comes his
+pretension to be a teacher in the higher sense, not only of all
+scientific men, but more especially of all cultured men? This
+educational power must be taken by the philologist from antiquity; and
+in such a case people will ask with astonishment: how does it come that
+we attach such value to a far-off past that we can only become cultured
+men with the aid of its knowledge?
+
+These questions, however, are not asked as a rule: The sway of philology
+over our means of instruction remains practically unquestioned; and
+antiquity _has_ the importance assigned to it. To this extent the
+position of the philologist is more favourable than that of any other
+follower of science. True, he has not at his disposal that great mass of
+men who stand in need of him--the doctor, for example, has far more than
+the philologist. But he can influence picked men, or youths, to be more
+accurate, at a time when all their mental faculties are beginning to
+blossom forth--people who can afford to devote both time and money to
+their higher development. In all those places where European culture has
+found its way, people have accepted secondary schools based upon a
+foundation of Latin and Greek as the first and highest means of
+instruction. In this way philology has found its best opportunity of
+transmitting itself, and commanding respect: no other science has been
+so well favoured. As a general rule all those who have passed through
+such institutions have afterwards borne testimony to the excellence of
+their organisation and curriculum, and such people are, of course,
+unconscious witnesses in favour of philology. If any who have not passed
+through these institutions should happen to utter a word in
+disparagement of this education, an unanimous and yet calm repudiation
+of the statement at once follows, as if classical education were a kind
+of witchcraft, blessing its followers, and demonstrating itself to them
+by this blessing. There is no attempt at polemics · "We have been
+through it all." "We know it has done us good."
+
+Now there are so many things to which men have become so accustomed that
+they look upon them as quite appropriate and suitable, for habit
+intermixes all things with sweetness; and men as a rule judge the value
+of a thing in accordance with their own desires. The desire for
+classical antiquity as it is now felt should be tested, and, as it were,
+taken to pieces and analysed with a view to seeing how much of this
+desire is due to habit, and how much to mere love of adventure--I refer
+to that inward and active desire, new and strange, which gives rise to a
+productive conviction from day to day, the desire for a higher goal, and
+also the means thereto · as the result of which people advance step by
+step from one unfamiliar thing to another, like an Alpine climber.
+
+What is the foundation on which the high value attached to antiquity at
+the present time is based, to such an extent indeed that our whole
+modern culture is founded on it? Where must we look for the origin of
+this delight in antiquity, and the preference shown for it?
+
+I think I have recognised in my examination of the question that all our
+philology--that is, all its present existence and power--is based on the
+same foundation as that on which our view of antiquity as the most
+important of all means of training is based. Philology as a means of
+instruction is the clear expression of a predominating conception
+regarding the value of antiquity, and the best methods of education. Two
+propositions are contained in this statement. In the first place all
+higher education must be a historical one, and secondly, Greek and Roman
+history differs from all others in that it is classical. Thus the
+scholar who knows this history becomes a teacher. We are not here going
+into the question as to whether higher education ought to be historical
+or not; but we may examine the second and ask: in how far is it classic?
+
+On this point there are many widespread prejudices. In the first place
+there is the prejudice expressed in the synonymous concept, "The study
+of the humanities": antiquity is classic because it is the school of the
+humane.
+
+Secondly: "Antiquity is classic because it is enlightened----"
+
+
+28
+
+It is the task of all education to change certain conscious actions and
+habits into more or less unconscious ones; and the history of mankind is
+in this sense its education. The philologist now practises unconsciously
+a number of such occupations and habits. It is my object to ascertain
+how his power, that is, his instinctive methods of work, is the result
+of activities which were formerly conscious, but which he has gradually
+come to feel as such no longer: _but that consciousness consisted of
+prejudices_. The present power of philologists is based upon these
+prejudices, for example the value attached to the _ratio_ as in the
+cases of Bentley and Hermann. Prejudices are, as Lichtenberg says, the
+art impulses of men.
+
+
+29
+
+It is difficult to justify the preference for antiquity since it has
+arisen from prejudices:
+
+1. From ignorance of all non-classical antiquity.
+
+2. From a false idealisation of humanitarianism, whilst Hindoos and
+Chinese are at all events more humane.
+
+3. From the pretensions of school-teachers.
+
+4. From the traditional admiration which emanated from antiquity itself.
+
+5. From opposition to the Christian church; or as a support for this
+church.
+
+6. From the impression created by the century-long work of the
+philologists, and the nature of this work. It must be a gold mine,
+thinks the spectator.
+
+7. The acquirement of knowledge attained as the result of the study. The
+preparatory school of science.
+
+In short, partly from ignorance, wrong impressions, and misleading
+conclusions; and also from the interest which philologists have in
+raising their science to a high level in the estimation of laymen.
+
+Also the preference for antiquity on the part of the artists, who
+involuntarily assume proportion and moderation to be the property of all
+antiquity. Purity of form. Authors likewise.
+
+The preference for antiquity as an abbreviation of the history of the
+human race, as if there were an autochthonous creation here by which all
+becoming might be studied.
+
+The fact actually is that the foundations of this preference are being
+removed one by one, and if this is not remarked by philologists
+themselves, it is certainly being remarked as much as it can possibly be
+by people outside their circle. First of all history had its effect, and
+then linguistics brought about the greatest diversion among philologists
+themselves, and even the desertion of many of them. They have still the
+schools in their hands: but for how long! In the form in which it has
+existed up to the present philology is dying out; the ground has been
+swept from under its feet. Whether philologists may still hope to
+maintain their status is doubtful; in any case they are a dying race.
+
+
+30
+
+The peculiarly significant situation of philologists: a class of people
+to whom we entrust our youth, and who have to investigate quite a
+special antiquity. The highest value is obviously attached to this
+antiquity. But if this antiquity has been wrongly valued, then the whole
+foundation upon which the high position of the philologist is based
+suddenly collapses. In any case this antiquity has been very
+differently valued, and our appreciation of the philologists has
+constantly been guided by it. These people have borrowed their power
+from the strong prejudices in favour of antiquity,--this must be made
+clear.
+
+Philologists now feel that when these prejudices are at last refuted,
+and antiquity depicted in its true colours, the favourable prejudices
+towards them will diminish considerably. _It is thus to the interest of
+their profession not to let a clear impression of antiquity come to
+light; in particular the impression that antiquity in its highest sense
+renders one "out of season?"_ i.e., _an enemy to one's own time._
+
+It is also to the interest of philologists as a class not to let their
+calling as teachers be regarded from a higher standpoint than that to
+which they themselves can correspond.
+
+
+31
+
+It is to be hoped that there are a few people who look upon it as a
+problem why philologists should be the teachers of our noblest youths.
+Perhaps the case will not be always so--It would be much more natural
+_per se_ if our children were instructed in the elements of geography,
+natural science, political economy, and sociology, if they were
+gradually led to a consideration of life itself, and if finally, but
+much later, the most noteworthy events of the past were brought to their
+knowledge. A knowledge of antiquity should be among the last subjects
+which a student would take up; and would not this position of antiquity
+in the curriculum of a school be more honourable for it than the present
+one?--Antiquity is now used merely as a propædeutic for thinking,
+speaking, and writing; but there was a time when it was the essence of
+earthly knowledge, and people at that time wished to acquire by means of
+practical learning what they now seek to acquire merely by means of a
+detailed plan of study--a plan which, corresponding to the more advanced
+knowledge of the age, has entirely changed.
+
+Thus the inner purpose of philological teaching has been entirely
+altered; it was at one time material teaching, a teaching that taught
+how to live, but now it is merely formal.[2]
+
+
+32
+
+If it were the task of the philologist to impart formal education, it
+would be necessary for him to teach walking, dancing, speaking, singing,
+acting, or arguing · and the so-called formal teachers did impart their
+instruction this way in the second and third centuries. But only the
+training of a scientific man is taken into account, which results in
+"formal" thinking and writing, and hardly any speaking at all.
+
+
+33
+
+If the gymnasium is to train young men for science, people now say there
+can be no more preliminary preparation for any particular science, so
+comprehensive have all the sciences become. As a consequence teachers
+have to train their students generally, that is to say for all the
+sciences--for scientificality in other words; and for that classical
+studies are necessary! What a wonderful jump! a most despairing
+justification! Whatever is, is right,[3] even when it is clearly seen
+that the "right" on which it has been based has turned to wrong.
+
+
+34
+
+It is accomplishments which are expected from us after a study of the
+ancients: formerly, for example, the ability to write and speak. But
+what is expected now! Thinking and deduction . but these things are not
+learnt _from_ the ancients, but at best _through_ the ancients, by means
+of science. Moreover, all historical deduction is very limited and
+unsafe, natural science should be preferred.
+
+
+35
+
+It is the same with the simplicity of antiquity as it is with the
+simplicity of style: it is the highest thing which we recognise and must
+imitate; but it is also the last. Let it be remembered that the classic
+prose of the Greeks is also a late result.
+
+
+36
+
+What a mockery of the study of the "humanities" lies in the fact that
+they were also called "belles lettres" (bellas litteras)!
+
+
+37
+
+Wolf's[4] reasons why the Egyptians, Hebrews, Persians, and other
+Oriental nations were not to be set on the same plane with the Greeks
+and Romans: "The former have either not raised themselves, or have
+raised themselves only to a slight extent, above that type of culture
+which should be called a mere civilisation and bourgeois acquirement, as
+opposed to the higher and true culture of the mind." He then explains
+that this culture is spiritual and literary: "In a well-organised nation
+this may be begun earlier than order and peacefulness in the outward
+life of the people (enlightenment)."
+
+He then contrasts the inhabitants of easternmost Asia ("like such
+individuals, who are not wanting in clean, decent, and comfortable
+dwellings, clothing, and surroundings; but who never feel the necessity
+for a higher enlightenment") with the Greeks ("in the case of the
+Greeks, even among the most educated inhabitants of Attica, the contrary
+often happens to an astonishing degree; and the people neglect as
+insignificant factors that which we, thanks to our love of order, are in
+the habit of looking upon as the foundations of mental culture itself").
+
+
+38
+
+Our terminology already shows how prone we are to judge the ancients
+wrongly: the exaggerated sense of literature, for example, or, as Wolf,
+when speaking of the "inner history of ancient erudition," calls it,
+"the history of learned enlightenment."
+
+
+39
+
+According to Goethe, the ancients are "the despair of the emulator."
+Voltaire said. "If the admirers of Homer were honest, they would
+acknowledge the boredom which their favourite often causes them."
+
+
+40
+
+The position we have taken up towards classical antiquity is at bottom
+the profound cause of the sterility of modern culture; for we have taken
+all this modern conception of culture from the Hellenised Romans. We
+must distinguish within the domain of antiquity itself: when we come to
+appreciate its purely productive period, we condemn at the same time the
+entire Romano-Alexandrian culture. But at the same time also we condemn
+our own attitude towards antiquity, and likewise our philology.
+
+
+41
+
+There has been an age-long battle between the Germans and antiquity,
+_i.e._, a battle against the old culture. It is certain that precisely
+what is best and deepest in the German resists it. The main point,
+however, is that such resistance is only justifiable in the case of the
+Romanised culture; for this culture, even at that time, was a
+falling-off from something more profound and noble. It is this latter
+that the Germans are wrong in resisting.
+
+
+42
+
+Everything classic was thoroughly cultivated by Charles the Great,
+whilst he combated everything heathen with the severest possible
+measures of coercion. Ancient mythology was developed, but German
+mythology was treated as a crime. The feeling underlying all this, in my
+opinion, was that Christianity had already overcome the old religion ·
+people no longer feared it, but availed themselves of the culture that
+rested upon it. But the old German gods were feared.
+
+A great superficiality in the conception of antiquity--little else than
+an appreciation of its formal accomplishments and its knowledge--must
+thereby have been brought about. We must find out the forces that stood
+in the way of increasing our insight into antiquity. First of all, the
+culture of antiquity is utilised as an incitement towards the acceptance
+of Christianity · it became, as it were, the premium for conversion, the
+gilt with which the poisonous pill was coated before being swallowed.
+Secondly, the help of ancient culture was found to be necessary as a
+weapon for the intellectual protection of Christianity. Even the
+Reformation could not dispense with classical studies for this purpose.
+
+The Renaissance, on the other hand, now begins, with a clearer sense of
+classical studies, which, however, are likewise looked upon from an
+anti-Christian standpoint: the Renaissance shows an awakening of honesty
+in the south, like the Reformation in the north. They could not but
+clash; for a sincere leaning towards antiquity renders one unchristian.
+
+On the whole, however, the Church succeeded in turning classical studies
+into a harmless direction . the philologist was invented, representing a
+type of learned man who was at the same time a priest or something
+similar. Even in the period of the Reformation people succeeded in
+emasculating scholarship. It is on this account that Friedrich August
+Wolf is noteworthy he freed his profession from the bonds of theology.
+This action of his, however, was not fully understood; for an
+aggressive, active element, such as was manifested by the
+poet-philologists of the Renaissance, was not developed. The freedom
+obtained benefited science, but not man.
+
+
+43
+
+It is true that both humanism and rationalism have brought antiquity
+into the field as an ally; and it is therefore quite comprehensible that
+the opponents of humanism should direct their attacks against antiquity
+also. Antiquity, however, has been misunderstood and falsified by
+humanism · it must rather be considered as a testimony against humanism,
+against the benign nature of man, &c. The opponents of humanism are
+wrong to combat antiquity as well; for in antiquity they have a strong
+ally.
+
+
+44
+
+It is so difficult to understand the ancients. We must wait patiently
+until the spirit moves us. The human element which antiquity shows us
+must not be confused with humanitarianism. This contrast must be
+strongly emphasised: philology suffers by endeavouring to substitute the
+humanitarian, young men are brought forward as students of philology in
+order that they may thereby become humanitarians. A good deal of
+history, in my opinion, is quite sufficient for that purpose. The brutal
+and self-conscious man will be humbled when he sees things and values
+changing to such an extent.
+
+The human element among the Greeks lies within a certain _naiveté_,
+through which man himself is to be seen--state, art, society, military
+and civil law, sexual relations, education, party. It is precisely the
+human element which may be seen everywhere and among all peoples, but
+among the Greeks it is seen in a state of nakedness and inhumanity which
+cannot be dispensed with for purposes of instruction. In addition to
+this, the Greeks have created the greatest number of individuals, and
+thus they give us so much insight into men,--a Greek cook is more of a
+cook than any other.
+
+
+45
+
+I deplore a system of education which does not enable people to
+understand Wagner, and as the result of which Schopenhauer sounds harsh
+and discordant in our ears . such a system of education has missed its
+aim.
+
+
+46
+
+(THE FINAL DRAFT OF THE FIRST CHAPTER.)
+
+
+     Il faut dire la vérité et s'immoler--VOLTAIRE.
+
+
+Let us suppose that there were freer and more superior spirits who were
+dissatisfied with the education now in vogue, and that they summoned it
+to their tribunal, what would the defendant say to them? In all
+probability something like this: "Whether you have a right to summon
+anyone here or not, I am at all events not the proper person to be
+called. It is my educators to whom you should apply. It is their duty to
+defend me, and I have a right to keep silent. I am merely what they have
+made me."
+
+These educators would now be hauled before the tribunal, and among them
+an entire profession would be observed · the philologists. This
+profession consists in the first place of those men who make use of
+their knowledge of Greek and Roman antiquity to bring up youths of
+thirteen to twenty years of age, and secondly of those men whose task it
+is to train specially-gifted pupils to act as future teachers--_i.e._,
+as the educators of educators. Philologists of the first type are
+teachers at the public schools, those of the second are professors at
+the universities.
+
+The first-named philologists are entrusted with the care of certain
+specially-chosen youths, those who, early in life, show signs of talent
+and a sense of what is noble, and whose parents are prepared to allow
+plenty of time and money for their education. If other boys, who do not
+fulfil these three conditions, are presented to the teachers, the
+teachers have the right to refuse them. Those forming the second class,
+the university professors, receive the young men who feel themselves
+fitted for the highest and most responsible of callings, that of
+teachers and moulders of mankind; and these professors, too, may refuse
+to have anything to do with young men who are not adequately equipped or
+gifted for the task.
+
+If, then, the educational system of a period is condemned, a heavy
+censure on philologists is thereby implied: either, as the consequence
+of their wrong-headed view, they insist on giving bad education in the
+belief that it is good; or they do not wish to give this bad education,
+but are unable to carry the day in favour of education which they
+recognise to be better. In other words, their fault is either due to
+their lack of insight or to their lack of will. In answer to the first
+charge they would say that they knew no better, and in answer to the
+second that they could do no better. As, however, these philologists
+bring up their pupils chiefly with the aid of Greek and Roman antiquity,
+their want of insight in the first case may be attributed to the fact
+that they do not understand antiquity, and again to the fact that they
+bring forward antiquity into the present age as if it were the most
+important of all aids to instruction, while antiquity, generally
+speaking, does not assist in training, or at all events no longer does
+so.
+
+On the other hand, if we reproach our professors with their lack of
+will, they would be quite right in attributing educational significance
+and power to antiquity; but they themselves could not be said to be the
+proper instruments by means of which antiquity could exhibit such power.
+In other words, the professors would not be real teachers and would be
+living under false colours, but how, then, could they have reached such
+an irregular position? Through a misunderstanding of themselves and
+their qualifications. In order, then, that we may ascribe to
+philologists their share in this bad educational system of the present
+time, we may sum up the different factors of their innocence and guilt
+in the following sentence: the philologist, if he wishes for a verdict
+of acquittal, must understand three things antiquity, the present time,
+and himself · his fault lies in the fact that he either does not
+understand antiquity, or the present time, or himself.
+
+
+47
+
+It is not true to say that we can attain culture through antiquity
+alone. We may learn something from it, certainly; but not culture as the
+word is now understood. Our present culture is based on an emasculated
+and mendacious study of antiquity. In order to understand how
+ineffectual this study is, just look at our philologists · they, trained
+upon antiquity, should be the most cultured men. Are they?
+
+
+48
+
+Origin of the philologist. When a great work of art is exhibited there
+is always some one who not only feels its influence but wishes to
+perpetuate it. The same remark applies to a great state--to everything,
+in short, that man produces. Philologists wish to perpetuate the
+influence of antiquity and they can set about it only as imitative
+artists. Why not as men who form their lives after antiquity?
+
+
+49
+
+The decline of the poet-scholars is due in great part to their own
+corruption: their type is continually arising again; Goethe and
+Leopardi, for example, belong to it. Behind them plod the
+philologist-savants. This type has its origin in the sophisticism of the
+second century.
+
+
+50
+
+Ah, it is a sad story, the story of philology! The disgusting erudition,
+the lazy, inactive passivity, the timid submission.--Who was ever free?
+
+
+51
+
+When we examine the history of philology it is borne in upon us how few
+really talented men have taken part in it. Among the most celebrated
+philologists are a few who ruined their intellect by acquiring a
+smattering of many subjects, and among the most enlightened of them were
+several who could use their intellect only for childish tasks. It is a
+sad story · no science, I think, has ever been so poor in talented
+followers. Those whom we might call the intellectually crippled found a
+suitable hobby in all this hair-splitting.
+
+
+52
+
+The teacher of reading and writing, and the reviser, were the first
+types of the philologist.
+
+
+53
+
+Friedrich August Wolf reminds us how apprehensive and feeble were the
+first steps taken by our ancestors in moulding scholarship--how even the
+Latin classics, for example, had to be smuggled into the university
+market under all sorts of pretexts, as if they had been contraband
+goods. In the "Gottingen Lexicon" of 1737, J. M. Gesner tells us of the
+Odes of Horace: "ut imprimis, quid prodesse _in severioribus studiis_
+possint, ostendat."
+
+
+54
+
+I was pleased to read of Bentley "non tam grande pretium emendatiunculis
+meis statuere soleo, ut singularem aliquam gratiam inde sperem aut
+exigam."
+
+Newton was surprised that men like Bentley and Hare should quarrel about
+a book of ancient comedies, since they were both theological
+dignitaries.
+
+
+55
+
+Horace was summoned by Bentley as before a judgment seat, the authority
+of which he would have been the first to repudiate. The admiration which
+a discriminating man acquires as a philologist is in proportion to the
+rarity of the discrimination to be found in philologists. Bentley's
+treatment of Horace has something of the schoolmaster about it It would
+appear at first sight as if Horace himself were not the object of
+discussion, but rather the various scribes and commentators who have
+handed down the text: in reality, however, it is actually Horace who is
+being dealt with. It is my firm conviction that to have written a single
+line which is deemed worthy of being commented upon by scholars of a
+later time, far outweighs the merits of the greatest critic. There is a
+profound modesty about philologists. The improving of texts is an
+entertaining piece of work for scholars, it is a kind of riddle-solving;
+but it should not be looked upon as a very important task. It would be
+an argument against antiquity if it should speak less clearly to us
+because a million words stood in the way!
+
+
+56
+
+A school-teacher said to Bentley, "Sir, I will make your grandchild as
+great a scholar as you are yourself." "How can you do that," replied
+Bentley, "when I have forgotten more than you ever knew?"
+
+
+57
+
+Bentley's clever daughter Joanna once lamented to her father that he had
+devoted his time and talents to the criticism of the works of others
+instead of writing something original. Bentley remained silent for some
+time as if he were turning the matter over in his mind. At last he said
+that her remark was quite right; he himself felt that he might have
+directed his gifts in some other channel. Earlier in life, nevertheless,
+he had done something for the glory of God and the improvement of his
+fellow-men (referring to his "Confutation of Atheism"), but afterwards
+the genius of the pagans had attracted him, and, _despairing of
+attaining their level in any other way_, he had mounted upon their
+shoulders so that he might thus be able to look over their heads.
+
+
+58
+
+Bentley, says Wolf, both as man of letters and individual, was
+misunderstood and persecuted during the greater part of his life, or
+else praised maliciously.
+
+Markland, towards the end of his life--as was the case with so many
+others like him--became imbued with a repugnance for all scholarly
+reputation, to such an extent, indeed, that he partly tore up and
+partly burnt several works which he had long had in hand.
+
+Wolf says: "The amount of intellectual food that can be got from
+well-digested scholarship is a very insignificant item."
+
+In Winckelmann's youth there were no philological studies apart from the
+ordinary bread-winning branches of the science--people read and
+explained the ancients in order to prepare themselves for the better
+interpretation of the Bible and the Corpus Juris.
+
+
+59
+
+In Wolf's estimation, a man has reached the highest point of historical
+research when he is able to take a wide and general view of the whole
+and of the profoundly conceived distinctions in the developments in art
+and the different styles of art. Wolf acknowledges, however, that
+Winckelmann was lacking in the more common talent of philological
+criticism, or else he could not use it properly: "A rare mixture of a
+cool head and a minute and restless solicitude for hundreds of things
+which, insignificant in themselves, were combined in his case with a
+fire that swallowed up those little things, and with a gift of
+divination which is a vexation and an annoyance to the uninitiated."
+
+
+60
+
+Wolf draws our attention to the fact that antiquity was acquainted only
+with theories of oratory and poetry which facilitated production,
+[Greek: technai] and _artes_ that formed real orators and poets, "while
+at the present day we shall soon have theories upon which it would be
+as impossible to build up a speech or a poem as it would be to form a
+thunderstorm upon a brontological treatise."
+
+
+61
+
+Wolf's judgment on the amateurs of philological knowledge is noteworthy:
+"If they found themselves provided by nature with a mind corresponding
+to that of the ancients, or if they were capable of adapting themselves
+to other points of view and other circumstances of life, then, with even
+a nodding acquaintance with the best writers, they certainly acquired
+more from those vigorous natures, those splendid examples of thinking
+and acting, than most of those did who during their whole life merely
+offered themselves to them as interpreters."
+
+
+62
+
+Says Wolf again · "In the end, only those few ought to attain really
+complete knowledge who are born with artistic talent and furnished with
+scholarship, and who make use of the best opportunities of securing,
+both theoretically and practically, the necessary technical knowledge"
+True!
+
+
+63
+
+Instead of forming our students on the Latin models I recommend the
+Greek, especially Demosthenes · simplicity! This may be seen by a
+reference to Leopardi, who is perhaps the greatest stylist of the
+century.
+
+
+64
+
+"Classical education" · what do people see in it? Something that is
+useless beyond rendering a period of military service unnecessary and
+securing a degree![5]
+
+
+65
+
+When I observe how all countries are now promoting the advancement of
+classical literature I say to myself, "How harmless it must be!" and
+then, "How useful it must be!" It brings these countries the reputation
+of promoting "free culture." In order that this "freedom" may be rightly
+estimated, just look at the philologists!
+
+
+66
+
+Classical education! Yea, if there were only as much paganism as Goethe
+found and glorified in Winckelmann, even that would not be much. Now,
+however, that the lying Christendom of our time has taken hold of it,
+the thing becomes overpowering, and I cannot help expressing my disgust
+on the point--People firmly believe in witchcraft where this "classical
+education" is concerned. They, however, who possess the greatest
+knowledge of antiquity should likewise possess the greatest amount of
+culture, viz., our philologists; but what is classical about them?
+
+
+67
+
+Classical philology is the basis of the most shallow rationalism always
+having been dishonestly applied, it has gradually become quite
+ineffective. Its effect is one more illusion of the modern man.
+Philologists are nothing but a guild of sky-pilots who are not known as
+such · this is why the State takes an interest in them. The utility of
+classical education is completely used up, whilst, for example, the
+history of Christianity still shows its power.
+
+
+68
+
+Philologists, when discussing their science, never get down to the root
+of the subject . they never set forth philology itself as a problem. Bad
+conscience? or merely thoughtlessness?
+
+
+69
+
+We learn nothing from what philologists say about philology: it is all
+mere tittle-tattle--for example, Jahn's[6] "The Meaning and Place of the
+Study of Antiquity in Germany." There is no feeling for what should be
+protected and defended: thus speak people who have not even thought of
+the possibility that any one could attack them.
+
+
+70
+
+Philologists are people who exploit the vaguely-felt dissatisfaction of
+modern man, and his desire for "something better," in order that they
+may earn their bread and butter.
+
+I know them--I myself am one of them.
+
+
+71
+
+Our philologists stand in the same relation to true educators as the
+medicine-men of the wild Indians do to true physicians What astonishment
+will be felt by a later age!
+
+
+72
+
+What they lack is a real taste for the strong and powerful
+characteristics of the ancients. They turn into mere panegyrists, and
+thus become ridiculous.
+
+
+73
+
+They have forgotten how to address other men; and, as they cannot speak
+to the older people, they cannot do so to the young.
+
+
+74
+
+When we bring the Greeks to the knowledge of our young students, we are
+treating the latter as if they were well-informed and matured men. What,
+indeed, is there about the Greeks and their ways which is suitable for
+the young? In the end we shall find that we can do nothing for them
+beyond giving them isolated details. Are these observations for young
+people? What we actually do, however, is to introduce our young scholars
+to the collective wisdom of antiquity. Or do we not? The reading of the
+ancients is emphasised in this way.
+
+My belief is that we are forced to concern ourselves with antiquity at a
+wrong period of our lives. At the end of the twenties its meaning begins
+to dawn on one.
+
+
+75
+
+There is something disrespectful about the way in which we make our
+young students known to the ancients: what is worse, it is
+unpedagogical; or what can result from a mere acquaintance with things
+which a youth cannot consciously esteem! Perhaps he must learn to
+"_believe_" and this is why I object to it.
+
+
+76
+
+There are matters regarding which antiquity instructs us, and about
+which I should hardly care to express myself publicly.
+
+
+77
+
+All the difficulties of historical study to be elucidated by great
+examples.
+
+Why our young students are not suited to the Greeks.
+
+The consequences of philology.
+     Arrogant expectation.
+     Culture-philistinism.
+     Superficiality.
+     Too high an esteem for reading and writing.
+     Estrangement from the nation and its needs.
+
+The philologists themselves, the historians, philosophers, and jurists
+all end in smoke.
+
+Our young students should be brought into contact with real sciences.
+
+Likewise with real art.
+
+In consequence, when they grew older, a desire for _real_ history would
+be shown.
+
+
+78
+
+Inhumanity: even in the "Antigone," even in Goethe's "Iphigenia."
+
+The want of "rationalism" in the Greeks.
+
+Young people cannot understand the political affairs of antiquity.
+
+The poetic element: a bad expectation.
+
+
+79
+
+Do the philologists know the present time? Their judgments on it as
+Periclean, their mistaken judgments when they speak of Freytag's[7]
+genius as resembling that of Homer, and so on; their following in the
+lead of the littérateurs, their abandonment of the pagan sense, which
+was exactly the classical element that Goethe discovered in Winckelmann.
+
+
+80
+
+The condition of the philologists may be seen by their indifference at
+the appearance of Wagner. They should have learnt even more through him
+than through Goethe, and they did not even glance in his direction. That
+shows that they are not actuated by any strong need, or else they would
+have an instinct to tell them where their food was to be found.
+
+
+81
+
+Wagner prizes his art too highly to go and sit in a corner with it, like
+Schumann. He either surrenders himself to the public ("Rienzi") or he
+makes the public surrender itself to him. He educates it up to his
+music. Minor artists, too, want their public, but they try to get it by
+inartistic means, such as through the Press, Hanslick,[8] &c.
+
+
+82
+
+Wagner perfected the inner fancy of man . later generations will see a
+renaissance in sculpture. Poetry must precede the plastic art.
+
+
+83
+
+I observe in philologists ·
+
+1. Want of respect for antiquity.
+
+2. Tenderness and flowery oratory; even an apologetic tone.
+
+3. Simplicity in their historical comments.
+
+4. Self-conceit.
+
+5. Under-estimation of the talented philologists.
+
+
+84
+
+Philologists appear to me to be a secret society who wish to train our
+youth by means of the culture of antiquity · I could well understand
+this society and their views being criticised from all sides. A great
+deal would depend upon knowing what these philologists understood by the
+term "culture of antiquity"--If I saw, for example, that they were
+training their pupils against German philosophy and German music, I
+should either set about combating them or combating the culture of
+antiquity, perhaps the former, by showing that these philologists had
+not understood the culture of antiquity. Now I observe:
+
+1. A great indecision in the valuation of the culture of antiquity on
+the part of philologists.
+
+2. Something very non-ancient in themselves; something non-free.
+
+3. Want of clearness in regard to the particular type of ancient culture
+they mean.
+
+4. Want of judgment in their methods of instruction, _e.g._,
+scholarship.
+
+5. Classical education is served out mixed up with Christianity.
+
+
+85
+
+It is now no longer a matter of surprise to me that, with such teachers,
+the education of our time should be worthless. I can never avoid
+depicting this want of education in its true colours, especially in
+regard to those things which ought to be learnt from antiquity if
+possible, for example, writing, speaking, and so on.
+
+
+86
+
+The transmission of the emotions is hereditary: let that be recollected
+when we observe the effect of the Greeks upon philologists.
+
+
+87
+
+Even in the best of cases, philologists seek for no more than mere
+"rationalism" and Alexandrian culture--not Hellenism.
+
+
+88
+
+Very little can be gained by mere diligence, if the head is dull.
+Philologist after philologist has swooped down on Homer in the mistaken
+belief that something of him can be obtained by force. Antiquity speaks
+to us when it feels a desire to do so, not when we do.
+
+
+89
+
+The inherited characteristic of our present-day philologists · a certain
+sterility of insight has resulted, for they promote the science, but not
+the philologist.
+
+
+90
+
+The following is one way of carrying on classical studies, and a
+frequent one: a man throws himself thoughtlessly, or is thrown, into
+some special branch or other, whence he looks to the right and left and
+sees a great deal that is good and new. Then, in some unguarded moment,
+he asks himself: "But what the devil has all this to do with me?" In the
+meantime he has grown old and has become accustomed to it all; and
+therefore he continues in his rut--just as in the case of marriage.
+
+
+91
+
+In connection with the training of the modern philologist the influence
+of the science of linguistics should be mentioned and judged; a
+philologist should rather turn aside from it . the question of the early
+beginnings of the Greeks and Romans should be nothing to him . how can
+they spoil their own subject in such a way?
+
+
+92
+
+A morbid passion often makes its appearance from time to time in
+connection with the oppressive uncertainty of divination, a passion for
+believing and feeling sure at all costs: for example, when dealing with
+Aristotle, or in the discovery of magic numbers, which, in Lachmann's
+case, is almost an illness.
+
+
+93
+
+The consistency which is prized in a savant is pedantry if applied to
+the Greeks.
+
+
+94
+
+                (THE GREEKS AND THE PHILOLOGISTS.)
+
+
+            THE GREEKS.              THE PHILOLOGISTS are ·
+
+     render homage to beauty,        babblers and triflers,
+     develop the body,               ugly-looking creatures,
+     speak clearly,                  stammerers,
+     are religious transfigurers     filthy pedants,
+       of everyday occurrences,
+     are listeners and observers,    quibblers and scarecrows,
+     have an aptitude for the        unfitted for the symbolical,
+       symbolical,
+     are in full possession of       ardent slaves of the State,
+       their freedom as men,
+     can look innocently out         Christians in disguise,
+       into the world,
+     are the pessimists of           philistines.
+       thought.
+
+
+95
+
+Bergk's "History of Literature": Not a spark of Greek fire or Greek
+sense.
+
+
+96
+
+People really do compare our own age with that of Pericles, and
+congratulate themselves on the reawakening of the feeling of patriotism:
+I remember a parody on the funeral oration of Pericles by G. Freytag,[9]
+in which this prim and strait-laced "poet" depicted the happiness now
+experienced by sixty-year-old men.--All pure and simple caricature! So
+this is the result! And sorrow and irony and seclusion are all that
+remain for him who has seen more of antiquity than this.
+
+
+97
+
+If we change a single word of Lord Bacon's we may say . infimarum
+Græcorum virtutum apud philologos laus est, mediarum admiratio,
+supremarum sensus nullus.
+
+
+98
+
+How can anyone glorify and venerate a whole people! It is the
+individuals that count, even in the case of the Greeks.
+
+
+99
+
+There is a great deal of caricature even about the Greeks · for example,
+the careful attention devoted by the Cynics to their own happiness.
+
+
+100
+
+The only thing that interests me is the relationship of the people
+considered as a whole to the training of the single individuals · and in
+the case of the Greeks there are some factors which are very favourable
+to the development of the individual. They do not, however, arise from
+the goodwill of the people, but from the struggle between the evil
+instincts.
+
+By means of happy inventions and discoveries, we can train the
+individual differently and more highly than has yet been done by mere
+chance and accident. There are still hopes . the breeding of superior
+men.
+
+
+101
+
+The Greeks are interesting and quite disproportionately important
+because they had such a host of great individuals. How was that
+possible? This point must be studied.
+
+
+102
+
+The history of Greece has hitherto always been written optimistically.
+
+
+103
+
+Selected points from antiquity: the power, fire, and swing of the
+feeling the ancients had for music (through the first Pythian Ode),
+purity in their historical sense, gratitude for the blessings of
+culture, the fire and corn feasts.
+
+The ennoblement of jealousy: the Greeks the most jealous nation.
+
+Suicide, hatred of old age, of penury. Empedocles on sexual love.
+
+
+104
+
+Nimble and healthy bodies, a clear and deep sense for the observation of
+everyday matters, manly freedom, belief in good racial descent and good
+upbringing, warlike virtues, jealousy in the [Greek: aristeyein],
+delight in the arts, respect for leisure, a sense for free
+individuality, for the symbolical.
+
+
+105
+
+The spiritual culture of Greece an aberration of the amazing political
+impulse towards [Greek: aristeyein]. The [Greek: polis] utterly opposed
+to new education; culture nevertheless existed.
+
+
+106
+
+When I say that, all things considered, the Greeks were more moral than
+modern men what do I mean by that? From what we can perceive of the
+activities of their soul, it is clear that they had no shame, they had
+no bad conscience. They were more sincere, open-hearted, and passionate,
+as artists are; they exhibited a kind of child-like _naiveté_. It thus
+came about that even in all their evil actions they had a dash of purity
+about them, something approaching the holy. A remarkable number of
+individualities: might there not have been a higher morality in that?
+When we recollect that character develops slowly, what can it be that,
+in the long run, breeds individuality? Perhaps vanity, emulation?
+Possibly. Little inclination for conventional things.
+
+
+107
+
+The Greeks as the geniuses among the nations.
+
+Their childlike nature, credulousness.
+
+Passionate. Quite unconsciously they lived in such a way as to procreate
+genius. Enemies of shyness and dulness. Pain. Injudicious actions. The
+nature of their intuitive insight into misery, despite their bright and
+genial temperament. Profoundness in their apprehension and glorifying of
+everyday things (fire, agriculture). Mendacious, unhistorical. The
+significance of the [Greek: polis] in culture instinctively recognised,
+favourable as a centre and periphery for great men (the facility of
+surveying a community, and also the possibility of addressing it as a
+whole). Individuality raised to the highest power through the [Greek:
+polis]. Envy, jealousy, as among gifted people.
+
+
+108
+
+The Greeks were lacking in sobriety and caution. Over-sensibility,
+abnormally active condition of the brain and the nerves; impetuosity and
+fervour of the will.
+
+
+109
+
+"Invariably to see the general in the particular is the distinguishing
+characteristic of genius," says Schopenhauer. Think of Pindar,
+&c.--"[Greek: Sophrosynae]," according to Schopenhauer, has its roots in
+the clearness with which the Greeks saw into themselves and into the
+world at large, and thence became conscious of themselves.
+
+The "wide separation of will and intellect" indicates the genius, and is
+seen in the Greeks.
+
+"The melancholy associated with genius is due to the fact that the will
+to live, the more clearly it is illuminated by the contemplating
+intellect, appreciates all the more clearly the misery of its
+condition," says Schopenhauer. _Cf._ the Greeks.
+
+
+110
+
+The moderation of the Greeks in their sensual luxury, eating, and
+drinking, and their pleasure therein; the Olympic plays and their
+worship . that shows what they were.
+
+In the case of the genius, "the intellect will point out the faults
+which are seldom absent in an instrument that is put to a use for which
+it was not intended."
+
+"The will is often left in the lurch at an awkward moment: hence genius,
+where real life is concerned, is more or less unpractical--its
+behaviour often reminds us of madness."
+
+
+111
+
+We contrast the Romans, with their matter-of-fact earnestness, with the
+genial Greeks! Schopenhauer: "The stern, practical, earnest mode of life
+which the Romans called _gravitas_ presupposes that the intellect does
+not forsake the service of the will in order to roam far off among
+things that have no connection with the will."
+
+
+112
+
+It would have been much better if the Greeks had been conquered by the
+Persians instead of by the Romans.
+
+
+113
+
+The characteristics of the gifted man who is lacking in genius are to be
+found in the average Hellene--all the dangerous characteristics of such
+a disposition and character.
+
+
+114
+
+Genius makes tributaries of all partly-talented people: hence the
+Persians themselves sent their ambassadors to the Greek oracles.
+
+
+115
+
+The happiest lot that can fall to the genius is to exchange doing and
+acting for leisure; and this was something the Greeks knew how to value.
+The blessings of labour! _Nugari_ was the Roman name for all the
+exertions and aspirations of the Greeks.
+
+No happy course of life is open to the genius, he stands in
+contradiction to his age and must perforce struggle with it. Thus the
+Greeks . they instinctively made the utmost exertions to secure a safe
+refuge for themselves (in the _polis_). Finally, everything went to
+pieces in politics. They were compelled to take up a stand against their
+enemies . this became ever more and more difficult, and at last
+impossible.
+
+
+116
+
+Greek culture is based on the lordship of a small class over four to
+nine times their number of slaves. Judged by mere numbers, Greece was a
+country inhabited by barbarians. How can the ancients be thought to be
+humane? There was a great contrast between the genius and the
+breadwinner, the half-beast of burden. The Greeks believed in a racial
+distinction. Schopenhauer wonders why Nature did not take it into her
+head to invent two entirely separate species of men.
+
+The Greeks bear the same relation to the barbarians "as free-moving or
+winged animals do to the barnacles which cling tightly to the rocks and
+must await what fate chooses to send them"--Schopenhauer's simile.
+
+
+117
+
+The Greeks as the only people of genius in the history of the world.
+Such they are even when considered as learners; for they understand this
+best of all, and can do more than merely trim and adorn themselves with
+what they have borrowed, as did the Romans.
+
+The constitution of the _polis_ is a Phoenician invention, even this
+has been imitated by the Hellenes. For a long time they dabbled in
+everything, like joyful dilettanti. Aphrodite is likewise Phoenician.
+Neither do they disavow what has come to them through immigration and
+does not originally belong to their own country.
+
+
+118
+
+The happy and comfortable constitution of the politico-social position
+must not be sought among the Greeks . that is a goal which dazzles the
+eyes of our dreamers of the future! It was, on the contrary, dreadful;
+for this is a matter that must be judged according to the following
+standard: the more spirit, the more suffering (as the Greeks themselves
+prove). Whence it follows, the more stupidity, the more comfort. The
+philistine of culture is the most comfortable creature the sun has ever
+shone upon: and he is doubtless also in possession of the corresponding
+stupidity.
+
+
+119
+
+The Greek _polis_ and the [Greek: aien aristeyein] grew up out of mutual
+enmity. Hellenic and philanthropic are contrary adjectives, although the
+ancients flattered themselves sufficiently.
+
+Homer is, in the world of the Hellenic discord, the pan-Hellenic Greek.
+The [Greek: "agon"] of the Greeks is also manifested in the Symposium in
+the shape of witty conversation.
+
+
+120
+
+Wanton, mutual annihilation inevitable: so long as a single _polis_
+wished to exist--its envy for everything superior to itself, its
+cupidity, the disorder of its customs, the enslavement of the women,
+lack of conscience in the keeping of oaths, in murder, and in cases of
+violent death.
+
+Tremendous power of self-control: for example in a man like Socrates,
+who was capable of everything evil.
+
+
+121
+
+Its noble sense of order and systematic arrangement had rendered the
+Athenian state immortal--The ten strategists in Athens! Foolish! Too big
+a sacrifice on the altar of jealousy.
+
+
+122
+
+The recreations of the Spartans consisted of feasting, hunting, and
+making war · their every-day life was too hard. On the whole, however,
+their state is merely a caricature of the polls, a corruption of Hellas.
+The breeding of the complete Spartan--but what was there great about him
+that his breeding should have required such a brutal state!
+
+
+123
+
+The political defeat of Greece is the greatest failure of culture; for
+it has given rise to the atrocious theory that culture cannot be pursued
+unless one is at the same time armed to the teeth. The rise of
+Christianity was the second greatest failure: brute force on the one
+hand, and a dull intellect on the other, won a complete victory over the
+aristocratic genius among the nations. To be a Philhellenist now means
+to be a foe of brute force and stupid intellects. Sparta was the ruin of
+Athens in so far as she compelled Athens to turn her entire attention
+to politics and to act as a federal combination.
+
+
+124
+
+There are domains of thought where the _ratio_ will only give rise to
+disorder, and the philologist, who possesses nothing more, is lost
+through it and is unable to see the truth · _e.g._ in the consideration
+of Greek mythology. A merely fantastic person, of course, has no claim
+either · one must possess Greek imagination and also a certain amount of
+Greek piety. Even the poet does not require to be too consistent, and
+consistency is the last thing Greeks would understand.
+
+
+125
+
+Almost all the Greek divinities are accumulations of divinities . we
+find one layer over another, soon to be hidden and smoothed down by yet
+a third, and so on. It scarcely seems to me to be possible to pick these
+various divinities to pieces in a scientific manner, for no good method
+of doing so can be recommended: even the poor conclusion by analogy is
+in this instance a very good conclusion.
+
+
+126
+
+At what a distance must one be from the Greeks to ascribe to them such a
+stupidly narrow autochthony as does Ottfried Muller![10] How Christian
+it is to assume, with Welcker,[11] that the Greeks were originally
+monotheistic! How philologists torment themselves by investigating the
+question whether Homer actually wrote, without being able to grasp the
+far higher tenet that Greek art long exhibited an inward enmity against
+writing, and did not wish to be read at all.
+
+
+127
+
+In the religious cultus an earlier degree of culture comes to light a
+remnant of former times. The ages that celebrate it are not those which
+invent it, the contrary is often the case. There are many contrasts to
+be found here. The Greek cultus takes us back to a pre-Homeric
+disposition and culture. It is almost the oldest that we know of the
+Greeks--older than their mythology, which their poets have considerably
+remoulded, so far as we know it--Can this cult really be called Greek? I
+doubt it: they are finishers, not inventors. They _preserve_ by means of
+this beautiful completion and adornment.
+
+
+128
+
+It is exceedingly doubtful whether we should draw any conclusion in
+regard to nationality and relationship with other nations from
+languages. A victorious language is nothing but a frequent (and not
+always regular) indication of a successful campaign. Where could there
+have been autochthonous peoples! It shows a very hazy conception of
+things to talk about Greeks who never lived in Greece. That which is
+really Greek is much less the result of natural aptitude than of adapted
+institutions, and also of an acquired language.
+
+
+129
+
+To live on mountains, to travel a great deal, and to move quickly from
+one place to another . in these ways we can now begin to compare
+ourselves with the Greek gods. We know the past, too, and we almost know
+the future. What would a Greek say, if only he could see us!
+
+
+130
+
+The gods make men still more evil; this is the nature of man. If we do
+not like a man, we wish that he may become worse than he is, and then we
+are glad. This forms part of the obscure philosophy of hate--a
+philosophy which has never yet been written, because it is everywhere
+the _pudendum_ that every one feels.
+
+
+131
+
+The pan-Hellenic Homer finds his delight in the frivolity of the gods;
+but it is astounding how he can also give them dignity again. This
+amazing ability to raise one's self again, however, is Greek.
+
+
+132
+
+What, then, is the origin of the envy of the gods? people did not
+believe in a calm, quiet happiness, but only in an exuberant one. This
+must have caused some displeasure to the Greeks; for their soul was only
+too easily wounded: it embittered them to see a happy man. That is
+Greek. If a man of distinguished talent appeared, the flock of envious
+people must have become astonishingly large. If any one met with a
+misfortune, they would say of him: "Ah! no wonder! he was too frivolous
+and too well off." And every one of them would have behaved exuberantly
+if he had possessed the requisite talent, and would willingly have
+played the role of the god who sent the unhappiness to men.
+
+
+133
+
+The Greek gods did not demand any complete changes of character, and
+were, generally speaking, by no means burdensome or importunate . it was
+thus possible to take them seriously and to believe in them. At the time
+of Homer, indeed, the nature of the Greek was formed · flippancy of
+images and imagination was necessary to lighten the weight of its
+passionate disposition and to set it free.
+
+
+134
+
+Every religion has for its highest images an analogon in the spiritual
+condition of those who profess it. The God of Mohammed . the
+solitariness of the desert, the distant roar of the lion, the vision of
+a formidable warrior. The God of the Christians . everything that men
+and women think of when they hear the word "love". The God of the
+Greeks: a beautiful apparition in a dream.
+
+
+135
+
+A great deal of intelligence must have gone to the making up of a Greek
+polytheism . the expenditure of intelligence is much less lavish when
+people have only _one_ God.
+
+
+136
+
+Greek morality is not based on religion, but on the _polis_.
+
+There were only priests of the individual gods; not representatives of
+the whole religion . _i.e._, no guild of priests. Likewise no Holy Writ.
+
+
+137
+
+The "lighthearted" gods · this is the highest adornment which has ever
+been bestowed upon the world--with the feeling, How difficult it is to
+live!
+
+
+138
+
+If the Greeks let their "reason" speak, their life seems to them bitter
+and terrible. They are not deceived. But they play round life with lies:
+Simonides advises them to treat life as they would a play; earnestness
+was only too well known to them in the form of pain. The misery of men
+is a pleasure to the gods when they hear the poets singing of it. Well
+did the Greeks know that only through art could even misery itself
+become a source of pleasure, _vide tragoediam_.
+
+
+139
+
+It is quite untrue to say that the Greeks only took _this_ life into
+their consideration--they suffered also from thoughts of death and Hell.
+But no "repentance" or contrition.
+
+
+140
+
+The incarnate appearance of gods, as in Sappho's invocation to
+Aphrodite, must not be taken as poetic licence · they are frequently
+hallucinations. We conceive of a great many things, including the will
+to die, too superficially as rhetorical.
+
+
+141
+
+The "martyr" is Hellenic: Prometheus, Hercules. The hero-myth became
+pan-Hellenic: a poet must have had a hand in that!
+
+
+142
+
+How _realistic_ the Greeks were even in the domain of pure inventions!
+They poetised reality, not yearning to lift themselves out of it. The
+raising of the present into the colossal and eternal, _e.g._, by Pindar.
+
+
+143
+
+What condition do the Greeks premise as the model of their life in
+Hades? Anæmic, dreamlike, weak . it is the continuous accentuation of
+old age, when the memory gradually becomes weaker and weaker, and the
+body still more so. The senility of senility . this would be our state
+of life in the eyes of the Hellenes.
+
+
+144
+
+The naive character of the Greeks observed by the Egyptians.
+
+
+145
+
+The truly scientific people, the literary people, were the Egyptians and
+not the Greeks. That which has the appearance of science among the
+Greeks, originated among the Egyptians and later on returned to them to
+mingle again with the old current. Alexandrian culture is an
+amalgamation of Hellenic and Egyptian . and when our world again founds
+its culture upon the Alexandrian culture, then....[12]
+
+
+146
+
+The Egyptians are far more of a literary people than the Greeks. I
+maintain this against Wolf. The first grain in Eleusis, the first vine
+in Thebes, the first olive-tree and fig-tree. The Egyptians had lost a
+great part of their mythology.
+
+
+147
+
+The unmathematical undulation of the column in Paestum is analogous to
+the modification of the _tempo_: animation in place of a mechanical
+movement.
+
+
+148
+
+The desire to find something certain and fixed in æsthetic led to the
+worship of Aristotle: I think, however, that we may gradually come to
+see from his works that he understood nothing about art, and that it is
+merely the intellectual conversations of the Athenians, echoing in his
+pages, which we admire.
+
+
+149
+
+In Socrates we have as it were lying open before us a specimen of the
+consciousness out of which, later on, the instincts of the theoretic man
+originated: that one would rather die than grow old and weak in mind.
+
+
+150
+
+At the twilight of antiquity there were still wholly unchristian
+figures, which were more beautiful, harmonious, and pure than those of
+any Christians: _e.g._, Proclus. His mysticism and syncretism were
+things that precisely Christianity cannot reproach him with. In any
+case, it would be my desire to live together with such people. In
+comparison with them Christianity looks like some crude brutalisation,
+organised for the benefit of the mob and the criminal classes.
+
+Proclus, who solemnly invokes the rising moon.
+
+
+151
+
+With the advent of Christianity a religion attained the mastery which
+corresponded to a pre-Greek condition of mankind: belief in witchcraft
+in connection with all and everything, bloody sacrifices, superstitious
+fear of demoniacal punishments, despair in one's self, ecstatic brooding
+and hallucination, man's self become the arena of good and evil spirits
+and their struggles.
+
+
+152
+
+All branches of history have experimented with antiquity · critical
+consideration alone remains. By this term I do not mean conjectural and
+literary-historical criticism.
+
+
+153
+
+Antiquity has been treated by all kinds of historians and their methods.
+We have now had enough experience, however, to turn the history of
+antiquity to account without being shipwrecked on antiquity itself.
+
+
+154
+
+We can now look back over a fairly long period of human existence · what
+will the humanity be like which is able to look back at us from an
+equally long distance? which finds us lying intoxicated among the débris
+of old culture! which finds its only consolation in "being good" and in
+holding out the "helping hand," and turns away from all other
+consolations!--Does beauty, too, grow out of the ancient culture? I
+think that our ugliness arises from our metaphysical remnants . our
+confused morals, the worthlessness of our marriages, and so on, are the
+cause. The beautiful man, the healthy, moderate, and enterprising man,
+moulds the objects around him into beautiful shapes after his own image.
+
+
+155
+
+Up to the present time all history has been written from the standpoint
+of success, and, indeed, with the assumption of a certain reason in this
+success. This remark applies also to Greek history: so far we do not
+possess any. It is the same all round, however: where are the historians
+who can survey things and events without being humbugged by stupid
+theories? I know of only one, Burckhardt. Everywhere the widest possible
+optimism prevails in science. The question: "What would have been the
+consequence if so and so had not happened?" is almost unanimously thrust
+aside, and yet it is the cardinal question. Thus everything becomes
+ironical. Let us only consider our own lives. If we examine history in
+accordance with a preconceived plan, let this plan be sought in the
+purposes of a great man, or perhaps in those of a sex, or of a party.
+Everything else is a chaos.--Even in natural science we find this
+deification of the necessary.
+
+Germany has become the breeding-place of this historical optimism; Hegel
+is perhaps to blame for this. Nothing, however, is more responsible for
+the fatal influence of German culture. Everything that has been kept
+down by success gradually rears itself up: history as the scorn of the
+conqueror; a servile sentiment and a kneeling down before the actual
+fact--"a sense for the State," they now call it, as if _that_ had still
+to be propagated! He who does not understand how brutal and
+unintelligent history is will never understand the stimulus to make it
+intelligent. Just think how rare it is to find a man with as great an
+intelligent knowledge of his own life as Goethe had . what amount of
+rationality can we expect to find arising out of these other veiled and
+blind existences as they work chaotically with and in opposition to each
+other?
+
+And it is especially naive when Hellwald, the author of a history of
+culture, warns us away from all "ideals," simply because history has
+killed them off one after the other.
+
+
+156
+
+To bring to light without reserve the stupidity and the want of reason
+in human things · that is the aim of _our_ brethren and colleagues.
+People will then have to distinguish what is essential in them, what is
+incorrigible, and what is still susceptible of further improvement. But
+"Providence" must be kept out of the question, for it is a conception
+that enables people to take things too easily. I wish to breathe the
+breath of _this_ purpose into science. Let us advance our knowledge of
+mankind! The good and rational in man is accidental or apparent, or the
+contrary of something very irrational. There will come a time when
+_training_ will be the only thought.
+
+
+157
+
+Surrender to necessity is exactly what I do not teach--for one must
+first know this necessity to be necessary. There may perhaps be many
+necessities; but in general this inclination is simply a bed of
+idleness.
+
+
+158
+
+To know history now means · to recognise how all those who believed in a
+Providence took things too easily. There is no such thing. If human
+affairs are seen to go forward in a loose and disordered way, do not
+think that a god has any purpose in view by letting them do so or that
+he is neglecting them. We can now see in a general way that the history
+of Christianity on earth has been one of the most dreadful chapters in
+history, and that a stop _must_ be put to it. True, the influence of
+antiquity has been observed in Christianity even in our own time, and,
+as it diminishes, so will our knowledge of antiquity diminish also to an
+even greater extent. Now is the best time to recognise it: we are no
+longer prejudiced in favour of Christianity, but we still understand it,
+and also the antiquity that forms part of it, so far as this antiquity
+stands in line with Christianity.
+
+
+159
+
+Philosophic heads must occupy themselves one day with the collective
+account of antiquity and make up its balance-sheet. If we have this,
+antiquity will be overcome. All the shortcomings which now vex us have
+their roots in antiquity, so that we cannot continue to treat this
+account with the mildness which has been customary up to the present.
+The atrocious crime of mankind which rendered Christianity possible, as
+it actually became possible, is the _guilt_ of antiquity. With
+Christianity antiquity will also be cleared away.--At the present time
+it is not so very far behind us, and it is certainly not possible to do
+justice to it. It has been availed of in the most dreadful fashion for
+purposes of repression, and has acted as a support for religious
+oppression by disguising itself as "culture." It was common to hear the
+saying, "Antiquity has been conquered by Christianity."
+
+This was a historical fact, and it was thus thought that no harm could
+come of any dealings with antiquity. Yes, it is so plausible to say that
+we find Christian ethics "deeper" than Socrates! Plato was easier to
+compete with! We are at the present time, so to speak, merely chewing
+the cud of the very battle which was fought in the first centuries of
+the Christian era--with the exception of the fact that now, instead of
+the clearly perceptible antiquity which then existed, we have merely its
+pale ghost; and, indeed, even Christianity itself has become rather
+ghostlike. It is a battle fought _after_ the decisive battle, a
+post-vibration. In the end, all the forces of which antiquity consisted
+have reappeared in Christianity in the crudest possible form: it is
+nothing new, only quantitatively extraordinary.
+
+
+160
+
+What severs us for ever from the culture of antiquity is the fact that
+its foundations have become too shaky for us. A criticism of the Greeks
+is at the same time a criticism of Christianity; for the bases of the
+spirit of belief, the religious cult, and witchcraft, are the same in
+both--There are many rudimentary stages still remaining, but they are by
+this time almost ready to collapse.
+
+This would be a task . to characterise Greek antiquity as irretrievably
+lost, and with it Christianity also and the foundations upon which, up
+to the present time, our society and politics have been based.
+
+
+161
+
+Christianity has conquered antiquity--yes; that is easily said. In the
+first place, it is itself a piece of antiquity, in the second place, it
+has preserved antiquity, in the third place, it has never been in combat
+with the pure ages of antiquity. Or rather: in order that Christianity
+itself might remain, it had to let itself be overcome by the spirit of
+antiquity--for example, the idea of empire, the community, and so forth.
+We are suffering from the uncommon want of clearness and uncleanliness
+of human things; from the ingenious mendacity which Christianity has
+brought among men.
+
+
+162
+
+It is almost laughable to see how nearly all the sciences and arts of
+modern times grow from the scattered seeds which have been wafted
+towards us from antiquity, and how Christianity seems to us here to be
+merely the evil chill of a long night, a night during which one is
+almost inclined to believe that all is over with reason and honesty
+among men. The battle waged against the natural man has given rise to
+the unnatural man.
+
+
+163
+
+With the dissolution of Christianity a great part of antiquity has
+become incomprehensible to us, for instance, the entire religious basis
+of life. On this account an imitation of antiquity is a false tendency .
+the betrayers or the betrayed are the philologists who still think of
+such a thing. We live in a period when many different conceptions of
+life are to be found: hence the present age is instructive to an unusual
+degree; and hence also the reason why it is so ill, since it suffers
+from the evils of all its tendencies at once. The man of the future .
+the European man.
+
+
+164
+
+The German Reformation widened the gap between us and antiquity: was it
+necessary for it to do so? It once again introduced the old contrast of
+"Paganism" and "Christianity"; and it was at the same time a protest
+against the decorative culture of the Renaissance--it was a victory
+gained over the same culture as had formerly been conquered by early
+Christianity.
+
+In regard to "worldly things," Christianity preserved the grosser views
+of the ancients. All the nobler elements in marriage, slavery, and the
+State are unchristian. It _required_ the distorting characteristics of
+worldliness to prove itself.
+
+
+165
+
+The connection between humanism and religious rationalism was emphasised
+as a Saxonian trait by Kochly: the type of this philologist is Gottfried
+Hermann.[13]
+
+
+166
+
+I understand religions as narcotics: but when they are given to such
+nations as the Germans, I think they are simply rank poison.
+
+
+167
+
+All religions are, in the end, based upon certain physical assumptions,
+which are already in existence and adapt the religions to their needs .
+for example, in Christianity, the contrast between body and soul, the
+unlimited importance of the earth as the "world," the marvellous
+occurrences in nature. If once the opposite views gain the mastery--for
+instance, a strict law of nature, the helplessness and superfluousness
+of all gods, the strict conception of the soul as a bodily process--all
+is over. But all Greek culture is based upon such views.
+
+
+168
+
+When we look from the character and culture of the Catholic Middle Ages
+back to the Greeks, we see them resplendent indeed in the rays of higher
+humanity; for, if we have anything to reproach these Greeks with, we
+must reproach the Middle Ages with it also to a much greater extent. The
+worship of the ancients at the time of the Renaissance was therefore
+quite honest and proper. We have carried matters further in one
+particular point, precisely in connection with that dawning ray of
+light. We have outstripped the Greeks in the clarifying of the world by
+our studies of nature and men. Our knowledge is much greater, and our
+judgments are more moderate and just.
+
+In addition to this, a more gentle spirit has become widespread, thanks
+to the period of illumination which has weakened mankind--but this
+weakness, when turned into morality, leads to good results and honours
+us. Man has now a great deal of freedom: it is his own fault if he does
+not make more use of it than he does; the fanaticism of opinions has
+become much milder. Finally, that we would much rather live in the
+present age than in any other is due to science, and certainly no other
+race in the history of mankind has had such a wide choice of noble
+enjoyments as ours--even if our race has not the palate and stomach to
+experience a great deal of joy. But one can live comfortably amid all
+this "freedom" only when one merely understands it and does not wish to
+participate in it--that is the modern crux. The participants appear to
+be less attractive than ever · how stupid they must be!
+
+Thus the danger arises that knowledge may avenge itself on us, just as
+ignorance avenged itself on us during the Middle Ages. It is all over
+with those religions which place their trust in gods, Providences,
+rational orders of the universe, miracles, and sacraments, as is also
+the case with certain types of holy lives, such as ascetics; for we only
+too easily conclude that such people are the effects of sickness and an
+aberrant brain. There is no doubt that the contrast between a pure,
+incorporeal soul and a body has been almost set aside. Who now believes
+in the immortality of the soul! Everything connected with blessedness or
+damnation, which was based upon certain erroneous physiological
+assumptions, falls to the ground as soon as these assumptions are
+recognised to be errors. Our scientific assumptions admit just as much
+of an interpretation and utilisation in favour of a besotting
+philistinism--yea, in favour of bestiality--as also in favour of
+"blessedness" and soul-inspiration. As compared with all previous ages,
+we are now standing on a new foundation, so that something may still be
+expected from the human race.
+
+As regards culture, we have hitherto been acquainted with only one
+complete form of it, _i.e._, the city-culture of the Greeks, based as it
+was on their mythical and social foundations; and one incomplete form,
+the Roman, which acted as an adornment of life, derived from the Greek.
+Now all these bases, the mythical and the politico-social, have changed;
+our alleged culture has no stability, because it has been erected upon
+insecure conditions and opinions which are even now almost ready to
+collapse.--When we thoroughly grasp Greek culture, then, we see that it
+is all over with it. The philologist is thus a great sceptic in the
+present conditions of our culture and training · that is his mission.
+Happy is he if, like Wagner and Schopenhauer, he has a dim presentiment
+of those auspicious powers amid which a new culture is stirring.
+
+
+169
+
+Those who say: "But antiquity nevertheless remains as a subject of
+consideration for pure science, even though all its educational purposes
+may be disowned," must be answered by the words, What is pure science
+here! Actions and characteristics must be judged; and those who judge
+them must stand above them: so you must first devote your attention to
+overcoming antiquity. If you do not do that, your science is not pure,
+but impure and limited . as may now be perceived.
+
+
+170
+
+To overcome Greek antiquity through our own deeds: this would be the
+right task. But before we can do this we must first _know_ it!--There is
+a thoroughness which is merely an excuse for inaction. Let it be
+recollected how much Goethe knew of antiquity: certainly not so much as
+a philologist, and yet sufficient to contend with it in such a way as to
+bring about fruitful results. One _should_ not even know more about a
+thing than one could create. Moreover, the only time when we can
+actually _recognise_ something is when we endeavour to _make_ it. Let
+people but attempt to live after the manner of antiquity, and they will
+at once come hundreds of miles nearer to antiquity than they can do with
+all their erudition.--Our philologists never show that they strive to
+emulate antiquity in any way, and thus _their_ antiquity remains without
+any effect on the schools.
+
+The study of the spirit of emulation (Renaissance, Goethe), and the
+study of despair.
+
+The non-popular element in the new culture of the Renaissance: a
+frightful fact!
+
+
+171
+
+The worship of classical antiquity, as it was to be seen in Italy, may
+be interpreted as the only earnest, disinterested, and fecund worship
+which has yet fallen to the lot of antiquity. It is a splendid example
+of Don Quixotism; and philology at best is such Don Quixotism. Already
+at the time of the Alexandrian savants, as with all the sophists of the
+first and second centuries, the Atticists, &c., the scholars are
+imitating something purely and simply chimerical and pursuing a world
+that never existed. The same trait is seen throughout antiquity · the
+manner in which the Homeric heroes were copied, and all the intercourse
+held with the myths, show traces of it. Gradually all Greek antiquity
+has become an object of Don Quixotism. It is impossible to understand
+our modern world if we do not take into account the enormous influence
+of the purely fantastic. This is now confronted by the principle · there
+can be no imitation. Imitation, however, is merely an artistic
+phenomenon, _i.e._, it is based on appearance . we can accept manners,
+thoughts, and so on through imitation; but imitation can create nothing.
+True, the creator can borrow from all sides and nourish himself in that
+way. And it is only as creators that we shall be able to take anything
+from the Greeks. But in what respect can philologists be said to be
+creators! There must be a few dirty jobs, such as knackers' men, and
+also text-revisers: are the philologists to carry out tasks of this
+nature?
+
+
+172
+
+What, then, is antiquity _now_, in the face of modern art, science, and
+philosophy? It is no longer the treasure-chamber of all knowledge; for
+in natural and historical science we have advanced greatly beyond it.
+Oppression by the church has been stopped. A _pure_ knowledge of
+antiquity is now possible, but perhaps also a more ineffective and
+weaker knowledge.--This is right enough, if effect is known only as
+effect on the masses; but for the breeding of higher minds antiquity is
+more powerful than ever.
+
+Goethe as a German poet-philologist; Wagner as a still higher stage: his
+clear glance for the only worthy position of art. No ancient work has
+ever had so powerful an effect as the "Orestes" had on Wagner. The
+objective, emasculated philologist, who is but a philistine of culture
+and a worker in "pure science," is, however, a sad spectacle.
+
+
+173
+
+Between our highest art and philosophy and that which is recognised to
+be truly the oldest antiquity, there is no contradiction: they support
+and harmonise with one another. It is in this that I place my hopes.
+
+
+174
+
+The main standpoints from which to consider the importance of antiquity:
+
+1. There is nothing about it for young people, for it exhibits man with
+an entire freedom from shame.
+
+2. It is not for direct imitation, but it teaches by which means art has
+hitherto been perfected in the highest degree.
+
+3. It is accessible only to a few, and there should be a _police des
+moeurs,_ in charge of it--as there should be also in charge of bad
+pianists who play Beethoven.
+
+4. These few apply this antiquity to the judgment of our own time, as
+critics of it; and they judge antiquity by their own ideals and are thus
+critics of antiquity.
+
+5. The contract between the Hellenic and the Roman should be studied,
+and also the contrast between the early Hellenic and the late
+Hellenic.--Explanation of the different types of culture.
+
+
+175
+
+The advancement of science at the expense of man is one of the most
+pernicious things in the world. The stunted man is a retrogression in
+the human race: he throws a shadow over all succeeding generations The
+tendencies and natural purpose of the individual science become
+degenerate, and science itself is finally shipwrecked: it has made
+progress, but has either no effect at all on life or else an immoral
+one.
+
+
+176
+
+Men not to be used like things!
+
+From the former very incomplete philology and knowledge of antiquity
+there flowed out a stream of freedom, while our own highly developed
+knowledge produces slaves and serves the idol of the State.
+
+
+177
+
+There will perhaps come a time when scientific work will be carried on
+by women, while the men will have to _create,_ using the word in a
+spiritual sense: states, laws, works of art, &c.
+
+People should study typical antiquity just as they do typical men:
+_i.e._, imitating what they understand of it, and, when the pattern
+seems to lie far in the distance, considering ways and means and
+preliminary preparations, and devising stepping-stones.
+
+
+178
+
+The whole feature of study lies in this: that we should study only what
+we feel we should like to imitate; what we gladly take up and have the
+desire to multiply. What is really wanted is a progressive canon of the
+_ideal_ model, suited to boys, youths, and men.
+
+
+179
+
+Goethe grasped antiquity in the right way · invariably with an emulative
+soul. But who else did so? One sees nothing of a well-thought-out
+pedagogics of this nature: who knows that there is a certain knowledge
+of antiquity which cannot be imparted to youths!
+
+The puerile character of philology: devised by teachers for pupils.
+
+
+180
+
+The ever more and more common form of the ideal: first men, then
+institutions, finally tendencies, purposes, or the want of them. The
+highest form: the conquest of the ideal by a backward movement from
+tendencies to institutions, and from institutions to men.
+
+
+181
+
+I will set down in writing what I no longer believe--and also what I do
+believe. Man stands in the midst of the great whirlpool of forces, and
+imagines that this whirlpool is rational and has a rational aim in
+view: error! The only rationality that we know is the small reason of
+man: he must exert it to the utmost, and it invariably leaves him in the
+lurch if he tries to place himself in the hands of "Providence."
+
+Our only happiness lies in reason; all the remainder of the world is
+dreary. The highest reason, however, is seen by me in the work of the
+artist, and he can feel it to be such: there may be something which,
+when it can be consciously brought forward, may afford an even greater
+feeling of reason and happiness: for example, the course of the solar
+system, the breeding and education of a man.
+
+Happiness lies in rapidity of feeling and thinking: everything else is
+slow, gradual, and stupid. The man who could feel the progress of a ray
+of light would be greatly enraptured, for it is very rapid.
+
+Thinking of one's self affords little happiness. But when we do
+experience happiness therein the reason is that we are not thinking of
+ourselves, but of our ideal. This lies far off; and only the rapid man
+attains it and rejoices.
+
+An amalgamation of a great centre of men for the breeding of better men
+is the task of the future. The individual must become familiarised with
+claims that, when he says Yea to his own will, he also says Yea to the
+will of that centre--for example, in reference to a choice, as among
+women for marriage, and likewise as to the manner in which his child
+shall be brought up. Until now no single individuality, or only the very
+rarest, have been free: they were influenced by these conceptions, but
+likewise by the bad and contradictory organisation of the individual
+purposes.
+
+
+182
+
+Education is in the first place instruction in what is necessary, and
+then in what is changing and inconstant. The youth is introduced to
+nature, and the sway of laws is everywhere pointed out to him; followed
+by an explanation of the laws of ordinary society. Even at this early
+stage the question will arise: was it absolutely necessary that this
+should have been so? He gradually comes to need history to ascertain how
+these things have been brought about. He learns at the same time,
+however, that they may be changed into something else. What is the
+extent of man's power over things? This is the question in connection
+with all education. To show how things may become other than what they
+are we may, for example, point to the Greeks. We need the Romans to show
+how things became what they were.
+
+
+183
+
+If, then, the Romans had spurned the Greek culture, they would perhaps
+have gone to pieces completely. When could this culture have once again
+arisen? Christianity and Romans and barbarians: this would have been an
+onslaught: it would have entirely wiped out culture. We see the danger
+amid which genius lives. Cicero was one of the greatest benefactors of
+humanity, even in his own time.
+
+There is no "Providence" for genius; it is only for the ordinary run of
+people and their wants that such a thing exists: they find their
+satisfaction, and later on their justification.
+
+
+184
+
+Thesis: the death of ancient culture inevitable. Greek culture must be
+distinguished as the archetype; and it must be shown how all culture
+rests upon shaky conceptions.
+
+The dangerous meaning of art: as the protectress and galvanisation of
+dead and dying conceptions; history, in so far as it wishes to restore
+to us feelings which we have overcome. To feel "historically" or "just"
+towards what is already past, is only possible when we have risen above
+it. But the danger in the adoption of the feelings necessary for this is
+very great . let the dead bury their dead, so that we ourselves may not
+come under the influence of the smell of the corpses.
+
+
+THE DEATH OF THE OLD CULTURE.
+
+1. The signification of the studies of antiquity hitherto pursued:
+obscure; mendacious.
+
+2. As soon as they recognise the goal they condemn themselves to death ·
+for their goal is to describe ancient culture itself as one to be
+demolished.
+
+3. The collection of all the conceptions out of which Hellenic culture
+has grown up. Criticism of religion, art, society, state, morals.
+
+4. Christianity is likewise denied.
+
+5. Art and history--dangerous.
+
+6. The replacing of the study of antiquity which has become superfluous
+for the training of our youth.
+
+Thus the task of the science of history is completed and it itself has
+become superfluous, if the entire inward continuous circle of past
+efforts has been condemned. Its place must be taken by the science of
+the _future_.
+
+
+185
+
+"Signs" and "miracles" are not believed; only a "Providence" stands in
+need of such things. There is no help to be found either in prayer or
+asceticism or in "vision." If all these things constitute religion, then
+there is no more religion for me.
+
+My religion, if I can still apply this name to something, lies in the
+work of breeding genius . from such training everything is to be hoped.
+All consolation comes from art. Education is love for the offspring; an
+excess of love over and beyond our self-love. Religion is "love beyond
+ourselves." The work of art is the model of such a love beyond
+ourselves, and a perfect model at that.
+
+
+186
+
+The stupidity of the will is Schopenhauer's greatest thought, if
+thoughts be judged from the standpoint of power. We can see in Hartmann
+how he juggled away this thought. Nobody will ever call something
+stupid--God.
+
+
+187
+
+This, then, is the new feature of all the future progress of the world ·
+men must never again be ruled over by religious conceptions. Will they
+be any _worse_? It is not my experience that they behave well and
+morally under the yoke of religion; I am not on the side of
+Demopheles[14] The fear of a beyond, and then again the fear of divine
+punishments will hardly have made men better.
+
+
+188
+
+Where something great makes its appearance and lasts for a relatively
+long time, we may premise a careful breeding, as in the case of the
+Greeks. How did so many men become free among them? Educate educators!
+But the first educators must educate themselves! And it is for these
+that I write.
+
+
+189
+
+The denial of life is no longer an easy matter: a man may become a
+hermit or a monk--and what is thereby denied! This conception has now
+become deeper . it is above all a discerning denial, a denial based upon
+the will to be just; not an indiscriminate and wholesale denial.
+
+
+190
+
+The seer must be affectionate, otherwise men will have no confidence in
+him · Cassandra.
+
+
+191
+
+The man who to-day wishes to be good and saintly has a more difficult
+task than formerly . in order to be "good," he must not be so unjust to
+knowledge as earlier saints were. He would have to be a knowledge-saint:
+a man who would link love with knowledge, and who would have nothing to
+do with gods or demigods or "Providence," as the Indian saints likewise
+had nothing to do with them. He should also be healthy, and should keep
+himself so, otherwise he would necessarily become distrustful of
+himself. And perhaps he would not bear the slightest resemblance to the
+ascetic saint, but would be much more like a man of the world.
+
+
+192
+
+The better the state is organised, the duller will humanity be.
+
+To make the individual uncomfortable is my task!
+
+The great pleasure experienced by the man who liberates himself by
+fighting.
+
+Spiritual heights have had their age in history; inherited energy
+belongs to them. In the ideal state all would be over with them.
+
+
+193
+
+The highest judgment on life only arising from the highest energy of
+life. The mind must be removed as far as possible from exhaustion.
+
+In the centre of the world-history judgment will be the most accurate;
+for it was there that the greatest geniuses existed.
+
+The breeding of the genius as the only man who can truly value and deny
+life.
+
+Save your genius! shall be shouted unto the people: set him free! Do all
+you can to unshackle him.
+
+The feeble and poor in spirit must not be allowed to judge life.
+
+
+194
+
+_I dream of a combination of men who shall make no concessions, who
+shall show no consideration, and who shall be willing to be called
+"destroyers": they apply the standard of their criticism to everything
+and sacrifice themselves to truth. The bad and the false shall be
+brought to light! We will not build prematurely: we do not know, indeed,
+whether we shall ever be able to build, or if it would not be better not
+to build at all. There are lazy pessimists and resigned ones in this
+world--and it is to their number that we refuse to belong!_
+
+
+FOOTNOTES:
+
+[1] No doubt a reminiscence of the "Odyssey," Bk. ix--TR.
+
+[2] Formal education is that which tends to develop the critical and
+logical faculties, as opposed to material education, which is intended
+to deal with the acquisition of knowledge and its valuation, _e.g._,
+history, mathematics, &c. "Material" education, of course, has nothing
+to do with materialism--TR.
+
+[3] The reference is not to Pope, but to Hegel.--TR.
+
+[4] Friedrich August Wolf (1759-1824), the well-known classical scholar,
+now chiefly remembered by his "Prolegomena ad Homerum."--TR.
+
+[5] Students who pass certain examinations need only serve one year in
+the German Army instead of the usual two or three--TR.
+
+[6] Otto Jahn (1813-69), who is probably best remembered in philological
+circles by his edition of Juvenal.--TR.
+
+[7] Gustav Freytag at one time a famous German novelist--TR.
+
+[8] A well-known anti-Wagnerian musical critic of Vienna.--TR.
+
+[9] See note on p 149.--TR.
+
+[10] Karl Ottfried Muller (1797-1840), classical archæologist, who
+devoted special attention to Greece--TR.
+
+[11] Friedrich Gottlieb Welcker (1784-1868), noted for his
+ultra-profound comments on Greek poetry--TR.
+
+[12] "We shall once again be shipwrecked." The omission is in the
+original--TR.
+
+[13] Johann Gottfried Jakob Hermann (1772-1848), noted for his works on
+metre and Greek grammar.--TR.
+
+[14] A type in Schopenhauer's Essay "On Religion." See "Parerga and
+Paralipomena"--TR.
+
+
+FINIS.
+
+
+       *       *       *       *       *
+
+
+_Printed at_ THE DARIEN PRESS, _Edinburgh_
+
+
+
+
+
+End of the Project Gutenberg EBook of We Philologists, Volume 8 (of 18), by 
+Friedrich Nietzsche
+
+*** END OF THIS PROJECT GUTENBERG EBOOK WE PHILOLOGISTS, VOLUME 8 (OF 18) ***
+
+***** This file should be named 18267-8.txt or 18267-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/8/2/6/18267/
+
+Produced by Thierry Alberto, Martin Pettit and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

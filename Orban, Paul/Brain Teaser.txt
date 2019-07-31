@@ -1,0 +1,1318 @@
+The Project Gutenberg EBook of Brain Teaser, by Tom Godwin
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: Brain Teaser
+
+Author: Tom Godwin
+
+Release Date: May 23, 2019 [EBook #59581]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK BRAIN TEASER ***
+
+
+
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                             BRAIN TEASER
+
+                             BY TOM GODWIN
+
+                _How can a ship travel both forward and
+          backward and sideways in two different directions,
+                be going twice as fast as the speed of
+              light--and still be completely motionless?_
+
+           [Transcriber's Note: This etext was produced from
+              Worlds of If Science Fiction, October 1956.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+Carl Engle stood aside as the flight preparation crew filed out of the
+_Argosy_'s airlock. Barnes was the last; fat and bald and squinting
+against the brightness of the Arizona sun.
+
+"All set, Carl," he said. "They had us to check and countercheck,
+especially the drives."
+
+Engle nodded. "Good. Ground Control reports the Slug cruiser still
+circling seven hundred miles out and they think the Slugs suspect
+something."
+
+"Damned centipedes!" Barnes said. "I still say they're telepathic." He
+looked at his watch. Zero hour minus twenty-six minutes. "Good luck,
+boy, and I hope this space warp dingus works like they think it will."
+
+He waddled down the boarding ramp and Engle went through the airlock,
+frowning a little as he threw the switches that would withdraw the ramp
+and close the airlock behind him. Barnes' implied doubt in the success
+of the space warp shuttle was not comforting. If the shuttle failed
+to work, the _Argosy_ would be on the proverbial spot with the Slug
+cruiser eager to smear it well thereupon....
+
+Access to the control room was up through the room that housed the
+space warp shuttle. Dr. Harding, the tall, bristle-browed physicist,
+and his young assistant, Garvin, looked up briefly as he entered then
+returned their attention to their work. The master computer, borrowed
+from M.I.T., stood like a colossal many-dialed refrigerator along one
+wall. A protective railing around it bore a blunt KEEP OUT sign and
+it was never left unwatched. Garvin was seated before it, his fingers
+flitting over the keyboard and the computer's answer panel replying
+with strange mathematical symbols.
+
+The space warp shuttle sat in the middle of the room, a cube
+approximately two-thirds of a meter along the edge, studded with dials
+and knobs and surmounted by a ball of some shining silvery alloy. Dr.
+Harding was talking into the transdimensional communicator mounted
+beside the shuttle.
+
+Engle went on to the computer and waited outside the railing until
+Garvin finished with his work and turned in his seat to face him.
+
+"The last check question," Garvin said. "Now to sweat out the last
+twenty minutes."
+
+"If you've got the time, how about telling me about the shuttle,"
+said Engle, "I've been kept in the dark about it; but from what I
+understand, the shuttle builds up a field around the ship, with the
+silver ball as the center of the field, and this field goes into
+another dimension called the 'space warp'."
+
+"Ah--it could be described in that manner," Garvin said, smiling a
+little. "A clear description could not be made without the use of
+several special kinds of mathematics, but you might say this field in
+normal space is like a bubble under water. The air bubble seeks its own
+element, rises rapidly until it emerges into free air--in this case,
+the space warp. This transition into the warp is almost instantaneous
+and the shuttle automatically ceases operation when the warp is fully
+entered. The shuttle is no longer needed; the hypothetical bubble no
+longer exists--it has found its own element and merged with it."
+
+"I know that a light-hour of travel in the warp is supposed to be
+equivalent to several light-years in normal space," Engle said, "but
+what about when you want to get back into normal space?"
+
+"The original process is simply reversed: the shuttle creates a
+'bubble' that cannot exist in the warp and seeks its own element,
+normal space."
+
+"I see. But if the shuttle should--"
+
+He never completed the question. Dr. Harding strode over, his eyes blue
+and piercing under the fierce eyebrows as he fixed them on him. He
+spoke without preamble:
+
+"You realize the importance of this test flight with the shuttle, of
+course? Entirely aside from our personal survival should the Slug
+cruiser intercept us."
+
+"Yes, sir," he answered, feeling the question suggested an even lower
+opinion of his intelligence than he had thought Harding held.
+
+Project Space Warp existed for the purpose of sending the _Argosy_
+to Sirius by means of the space warp shuttle and bringing back the
+_Thunderbolt_ by the same swift method. The _Thunderbolt_, Earth's
+first near-to-light-speed interstellar ship, was a huge ship; armed,
+armored, and invincible. It had been built to meet every conceivable
+danger that might be encountered in interstellar exploration--but the
+danger had come to the solar system from the direction of Capella nine
+years after the departure of the _Thunderbolt_. Eight cruisers of the
+pulpy, ten-foot centipede-like things called Slugs had methodically
+destroyed the colonies on Mars and Venus and established their own
+outposts there. Earth's ground defenses had held the enemy at bay
+beyond the atmosphere for a year but such defense could not be
+maintained indefinitely. The _Thunderbolt_ was needed quickly and its
+own drives could not bring it back in less than ten years....
+
+"We will go into the warp well beyond the atmosphere," Harding
+said. "Transition cannot be made within an atmosphere. Since a very
+moderate normal space velocity of the ship will be transformed into a
+greater-than-light velocity when in the warp, it is desirable that we
+make turn-over and decelerate to a very low speed before going into the
+warp."
+
+"Yes, sir," he said. "I was briefed on that part and I'll bring us as
+near to a halt as that cruiser will permit."
+
+"There will be communication between us during the flight," Harding
+said. "I will give you further instructions when they become necessary."
+
+He turned away with an air of dismissal. Engle went to the ladder
+by the wall. He climbed up it and through the interroom airlock,
+closing the airlock behind him; the routine safety measure in case any
+single room was punctured. He went to the control board with a vague
+resentment gnawing for the first time at his normally placid good
+nature.
+
+So far as Harding was concerned--and Garvin, too--he might as well have
+been an unusually intelligent baboon.
+
+       *       *       *       *       *
+
+Zero hour came and the _Argosy_ lifted until Earth was a tremendous,
+curving ball below and the stars were brilliant points of light in a
+black sky. The Slug cruiser swung to intercept him within the first
+minute of flight but it seemed to move with unnatural slowness. It
+should have been driving in at full speed and it wasn't....
+
+"Something's up," Ground Control said. "It's coming in too slowly."
+
+"I see that," he answered. "It must be covering something beyond it, in
+your radar shadow."
+
+It was. When he was almost free of the last traces of atmosphere he saw
+the other cruiser, far out and hidden from Ground Control's radar by
+the radar shadow cast by the first one.
+
+He reported, giving its position and course as given him by the robot
+astrogating unit.
+
+"We'll have the greatest amount of time if I make turn-over now and
+decelerate," he finished.
+
+The voice of Harding came through the auxiliary speaker:
+
+"Do so."
+
+The _Argosy_ swung, end for end, and he decelerated. The cruiser behind
+him increased its speed, making certain it would be in position to
+cut off any return to Earth. The other cruiser altered its course to
+intersect the point in space the _Argosy_ would soon occupy, and the
+_Argosy_ was between the rapidly closing jaws of a trap.
+
+He made reports to Ground Control at one-minute intervals. At 11:49 he
+said:
+
+"Our velocity is approaching zero. We'll be within range of the second
+cruiser's blasters in two more minutes."
+
+Harding spoke again to him:
+
+"We'll go into the warp now. _Do not_ alter the deceleration or the
+course of the ship while we're in the warp."
+
+"I won't," he said.
+
+There was a faint mutter from the auxiliary speaker as Harding gave
+some instructions to Garvin. Engle took a last look at the viewscreen;
+at blue-green Earth looming large in the center, Orion and Sirius
+glittering above it and the sun burning bright and yellow on the right.
+It was a scene he had observed many times before, all very familiar and
+normal--
+
+The chronometer touched 11:50 and normalcy vanished.
+
+Earth and sun and stars fled away from him, altering in appearance
+as they went, shrinking, dwindling. The seas and continents of Earth
+erupted and shook and boiled before Earth faded and disappeared. The
+sun changed from yellow to green to blue, to a tiny point of bright
+violet light that raced away into the blackness filling the screen and
+faded and disappeared as Earth had done.
+
+Then the viewscreen was black, utterly, completely, dead black. And the
+communicator that had connected him with Ground Control was silent,
+without the faintest whisper of background sound or space static.
+
+In the silence the voice of Harding as he spoke to Garvin came through
+the speaker; puzzled, incredulous, almost shocked:
+
+"Our velocity couldn't have been that great--_and the sun receded into
+the ultraviolet!_"
+
+There was the quick sound of hurrying footsteps then the more distant
+sound of the computer's keys being operated at a high rate of speed. He
+wanted to ask what had gone wrong but he knew no one would answer him.
+And it would be a pointless question--it was obvious from Harding's
+tone that he did not know, either.
+
+He had an unpleasant feeling that Man's first venture into another
+dimension had produced catastrophic results. What had caused sun and
+Earth to disappear so quickly--and what force had riven and disfigured
+Earth?
+
+Then he realized the significance of Harding's statement about the sun
+receding into the ultraviolet.
+
+If the ship had been traveling at a high velocity away from the sun,
+the wave length of the sun's light would have been increased in
+proportion to the speed of the ship. The sun should have disappeared
+in the long-wave infrared end of the spectrum, not the short-wave
+ultraviolet.
+
+With the thought came the explanation of the way the continents
+and oceans of Earth had quivered and seethed. The shifting of the
+spectrum range had shortened normally visible rays into invisibly
+short ultraviolet radiations while at the same time formerly invisible
+long infrared radiations had been shortened into visible wave
+lengths. There had been a continuous displacement into and past the
+ultraviolet and each wave length would have reflected best from a
+different place--mountains, valleys, oceans, deserts, warm areas, cool
+areas,--and the steady progression into the ultraviolet had revealed
+each area in quick succession and given the appearance of agitated
+movement.
+
+So there was no catastrophe and everything had a logical explanation.
+Except how they could have been approaching a sun that he had seen
+clearly, visibly, racing away from them.
+
+"Engle--" The voice of Harding came through the speaker. "We're going
+back into normal space to make another observation. I don't know just
+where we are but we're certain to be far from the cruisers. Don't alter
+our course or velocity."
+
+"Yes, sir," he said.
+
+They came out of the warp at 11:53. The communicator burped suddenly
+and the viewscreen came to life; a deep, dull red that brightened
+quickly. A tiny coal flared up, swelling in size and shifting from red
+to orange to yellow--the sun. Earth appeared as a hazy red dot that
+enlarged and resolved itself into a planet with distorted continents
+that trembled and changed, to resume their natural shapes and colors.
+Within a few seconds the sun was shining as ever, Earth loomed large
+and blue-green before them and the stars of Orion glittered unchanged
+beyond. Even their position in space was the same--they had not moved.
+
+But the Slug cruisers had.
+
+One was very near and from its forward port came the violet haze that
+always preceded a blaster beam. There was no time to escape--no chance
+at all. He spoke into the mike, harsh and urgent:
+
+"_Into the warp!_ There's a blaster beam coming--_move!_"
+
+There was a silence from below that seemed to last an eternity, then
+the sound of a switch being slapped hastily. At the same time, the
+violet haze before the cruiser erupted into blue fire and the blaster
+beam lanced out at them.
+
+It struck somewhere astern. The power output needle swung jerkily as
+the generators went out and the emergency batteries took the heavy
+load of the shuttle's operation. There was a sensation of falling as
+the ship's artificial gravity units ceased functioning. The auxiliary
+speaker rattled wordlessly and there was a sound like a hard rush of
+wind through it, accompanied by quick bumping sounds.
+
+Then the speaker was still and there was no sound of any kind as the
+viewscreen shifted into the ultraviolet and Earth and stars and sun
+once again raced away and disappeared in the blackness.
+
+       *       *       *       *       *
+
+A myriad of lights above the board informed him the generators were
+destroyed, the stern section riddled and airless, the emergency
+batteries damaged and reduced to quarter charge, the shuttle room
+punctured and airless.
+
+And, of course, Harding and Garvin were dead.
+
+He felt a surge of futile anger. It had all been unnecessary. If only
+they had not considered him incompetent to be entrusted with anything
+more than the ship's operation--if only they had installed an emergency
+switch for the shuttle by his control board, there would not have been
+the two-second delay following his order and they would have been
+safely in the warp before the blaster beam struck.
+
+But they had not trusted him with responsibility and now he was alone
+in a space warp he did not understand; sole and full responsibility
+for the shuttle suddenly in his hands.
+
+He considered his course of action, then got into a pressure suit.
+Magnets in the soles of its heavy boots permitted him to walk in
+the absence of gravity and he went to the interroom airlock with
+metallically clicking steps. He let himself through the lock and walked
+down what had been the room's wall, then across to the center of its
+floor.
+
+But for the fact there was no one in the room, it was as he had last
+seen it. The shuttle, computer, and other equipment stood in their
+orderly positions with their lighted dials unchanged. Until one looked
+at the gash ripped in the hull and saw the stains along its edge where
+the occupants had been hurled through it by the escaping air.
+
+He went on to the next room and the next. The damage increased as he
+proceeded toward the stern. The power generators were sliced into
+ribbons and the emergency batteries in such condition it seemed a
+miracle they were functioning at all. The drives had received the
+greatest damage; they were an unrecognizable mass of wreckage.
+
+He made his way back to the shuttle room, there to appraise his
+circumstances. He reached automatically for a cigarette and stopped
+when his glove bumped the breast plate of his pressure suit.
+
+First, he would have to make the shuttle room livable; get out of the
+pressure suit. He would have to question the computer and he could not
+do that with the thick, clumsy gloves on his hands.
+
+The job didn't take long. There were repair plates on the ship and a
+quick-hardening plastic spray. He closed the sternward airlock when he
+was done and opened the airlock leading to the control room, as well
+as the locks beyond. Air filled the shuttle room, with only a minor
+over-all loss of air pressure. He removed the suit, attached a pair
+of magnetic soles to his shoes so he could operate the keys of the
+computer without the movements sending him floating away, and went to
+it.
+
+He had never been permitted to touch it before, nor even stand close
+enough to see what the keyboard looked like. Now, he saw that the
+alphabetical portion of the keyboard was minor compared with the
+mathematical portion, many of the symbols strange to him.
+
+The operation of an interplanetary ship required a certain knowledge of
+mathematics, but not the kind used by theoretical physicists. He typed,
+doubtfully:
+
+ARE YOU CAPABLE OF ANSWERING QUESTIONS PRESENTED IN NON-MATHEMATICAL
+FORM?
+
+The word, YES, appeared at once in the answer panel and relief came to
+him like the lifting of a heavy burden.
+
+The computer knew as much about the space warp as Harding or anyone
+else. It was connected with his drive controls and instruments and knew
+how far, how fast, and in what directions the flight had taken place.
+It had even been given blueprints of the ship's construction, in case
+the structure of the ship should affect the ship's performance in the
+warp, and knew every nut, bolt, plate and dimension in the ship.
+
+There was supposed to be a certain method of procedure when questioning
+the computer. "It knows--but it can't think," Garvin had once said. "It
+lacks the initiative to correlate data and arrive at conclusions unless
+the procedure of correlation is given it in detail."
+
+Perhaps he could manage to outline some method of correlation for the
+computer. The facts of his predicament were simple enough:
+
+He was in an unknown medium called "the Space Warp." Something not
+anticipated occurred when a ship went into the warp and Harding had
+not yet solved the mystery when he died. The physicists in Observation
+would be able to find the answer but he could not ask them. The
+forward movement of the ship was not transferred with it into the warp
+and if he emerged into normal space the waiting Slug cruisers would
+disintegrate him before he spoke three words to Observation.
+
+There was a pencil and a tablet of paper by the computer. He used
+them to calculate the time at which the charge in the damaged
+batteries would reach a critical low, beyond which the charge would be
+insufficient to activate the shuttle.
+
+The answer was 13:53. He would have to go out of the warp at 13:53 or
+remain in it forever. He had a great deal less than two hours in which
+to act.
+
+He typed the first question to the computer:
+
+WHAT IS THE POSITION OF THIS SHIP RELATIVE TO NORMAL SPACE?
+
+The answer appeared on the panel at once; the coordinates of a position
+more than a light-year toward Ophiuchus.
+
+He stared at the answer, feeling it must be an error. But it could not
+be an error--the computer did not make mistakes. How, then, could the
+ship have traveled more than a light-year during its second stay in
+the warp when it had not moved at all during the first stay? Had some
+factor of the warp unknown to him entered the picture?
+
+As a check he typed another question:
+
+WHAT WAS OUR POSITION, RELATIVE TO NORMAL SPACE, IMMEDIATELY BEFORE
+THIS SHIP WAS SHUTTLED BACK OUT OF THE WARP?
+
+The answer was a position light-days toward Ophiuchus.
+
+He typed: IMPOSSIBLE.
+
+The computer replied: THIS STATEMENT CONFLICTS WITH PREVIOUS DATA.
+
+He recalled the importance of keeping the computer free of all faulty
+or obscure data and typed quickly: CANCEL CONFLICTING STATEMENT.
+
+CONFLICTING STATEMENT CANCELED, it replied.
+
+He tried another tack. THIS SHIP EMERGED FROM THE SPACE WARP INTO THE
+SAME NORMAL SPACE POSITION IT HAD OCCUPIED BEFORE GOING INTO THE WARP.
+
+He thought the computer would proceed to give him some sort of an
+explanation. Instead, it non-committally replied: DATA ACKNOWLEDGED.
+
+He typed: EXPLAIN THIS DISCREPANCY BETWEEN SPACE WARP AND NORMAL SPACE
+POSITIONS.
+
+It answered: INSUFFICIENT DATA TO ACCOUNT FOR DISCREPANCY.
+
+He asked, HOW DID YOU DETERMINE OUR PRESENT POSITION?
+
+It replied: BY TRIANGULATION, BASED ON THE RECESSION OF EARTH, THE SUN,
+SIRIUS, ORION, AND OTHER STARS.
+
+BUT THE RECEDING SUN WENT INTO THE ULTRAVIOLET, he objected.
+
+Again it answered with the non-commital, DATA ACKNOWLEDGED.
+
+DID YOU ALREADY HAVE THIS DATA? he asked.
+
+YES.
+
+EXPLAIN WHY THE RECEDING SUN SHIFTED INTO THE ULTRAVIOLET INSTEAD OF
+THE INFRARED.
+
+It replied: DATA INSUFFICIENT TO ARRIVE AT LOGICAL EXPLANATION.
+
+He paused, pondering his next move. Time was speeding by and he was
+learning nothing of value. He would have to move the ship to some
+place in the warp where emergence into normal space would not put him
+under the blasters of the Slug cruisers. He could not know where to
+move the ship until he knew where the ship was at the present. He did
+not believe it was in the position given him by the computer, and its
+original space warp position had certainly not been the one given by
+the computer.
+
+The computer did not have the ability to use its knowledge to explain
+contradictory data. It had been ordered to compute their space warp
+position by triangulation of the receding sun and stars and was not
+at all disturbed by the contradicting shift of the sun into the
+ultraviolet. Suppose it had been ordered to calculate their position by
+computations based on the shift of the sun's and stars' spectrum into
+the ultraviolet?
+
+He asked it: WHAT IS OUR POSITION, IGNORING THE TRIANGULATION AND
+BASING YOUR COMPUTATIONS ON THE SHIFT OF THE SPECTRUMS OF THE SUN AND
+ORION INTO THE ULTRAVIOLET?
+
+It gave him the coordinates of a position almost two light-years
+toward Orion. The triangulation computations had shown the ship to be
+going backward at many times the speed of light; the spectrum-shift
+computations showed it to be going forward with approximately the same
+speed.
+
+THIS SHIP CANNOT SIMULTANEOUSLY BE IN TWO POSITIONS THREE LIGHT-YEARS
+APART. NEITHER CAN IT SIMULTANEOUSLY BE GOING FORWARD AND BACKWARD.
+
+DATA ACKNOWLEDGED, it agreed.
+
+USE THAT DATA TO EXPLAIN THE CONTRADICTIONS OF THE TWO POSITIONS YOU
+COMPUTED.
+
+DATA INSUFFICIENT TO ARRIVE AT LOGICAL EXPLANATION, it answered.
+
+ARE YOU CERTAIN THERE WAS NO ERROR IN YOUR CALCULATIONS?
+
+THERE WAS NO ERROR.
+
+DO YOU KNOW THAT IF WE DROPPED BACK INTO NORMAL SPACE, IT WOULD BE AT
+NEITHER OF THE POSITIONS YOU GAVE ME?
+
+It replied with the characteristic single-mindedness: DATA SHOWS OUR
+TWO POSITIONS TO BE THOSE GIVEN.
+
+He paused again. He was still getting nowhere while time fled by. How
+swiftly less than a hundred minutes could pass when they were all a
+man had left to him....
+
+The computer was a genius with the mental initiative of a moronic
+child. It could find the answer for him but first he would have to take
+it by the hand and lead it in the right direction. To do that he would
+have to know more about the warp.
+
+He wrote: EXPLAIN THE NATURE OF THE SPACE WARP AS SIMPLY AS POSSIBLE
+AND WITHOUT USING MATHEMATICS HIGHER THAN ALGEBRA.
+
+It answered at once: THIS CANNOT BE DONE.
+
+The chronometer read 12:30. He typed:
+
+THIS SHIP WILL HAVE TO RETURN TO NORMAL SPACE NO LATER THAN 13:53. IT
+MUST BE MOVED TO A DIFFERENT POSITION WHILE STILL IN THE WARP.
+
+DATA ACKNOWLEDGED, it replied.
+
+THIS SHIP CANNOT OCCUPY TWO POSITIONS AT THE SAME TIME. YOUR MEMORY
+FILES SHOULD CONTAIN SUFFICIENT DATA TO ENABLE YOU TO FIND THE
+EXPLANATION OF THIS TWO-POSITIONS PARADOX. FIND THAT EXPLANATION.
+
+SUBMIT METHOD OF PROCEDURE, it answered.
+
+I DO NOT KNOW HOW. YOU WILL HAVE TO ARRIVE AT THE EXPLANATION UNAIDED.
+
+THIS CANNOT BE DONE, it replied.
+
+He wrote, with morbid curiosity:
+
+IF YOU DO NOT FIND THE ANSWER UNAIDED YOU WILL BE DESTROYED ALONG WITH
+ME AT 13:53. DON'T YOU GIVE A DAMN?
+
+It answered: GIVE A DAMN IS A SEMANTIC EXPRESSION I DO NOT UNDERSTAND.
+CLARIFY QUESTION.
+
+He got out of the computer seat and walked about the room restlessly.
+He passed by the transdimensional viewscreen and communicator and
+pressed the communicator's signal button. A dial flickered in return,
+showing his signal was going out, but there was no sound in response.
+If only he could make contact with the brains in Observation--
+
+He was umpty billion miles east of the sun and umpty billion miles west
+of the sun. He was racing faster than light in two different directions
+at once and he was sitting motionless under the blasters of two Slug
+cruisers.
+
+Another thought came to him: even if he could move the ship while in
+the warp, where could he go?
+
+He would have to go far beyond the outer limits of the solar system to
+escape detection by the Slug cruisers. And at that distance the sun
+would be only a yellow star, incapable of energizing the little solar
+power units. He would not live long after the last of the power was
+drained from the batteries and the air regeneration equipment ceased
+functioning. He would not even dare sleep, toward the last. There were
+no convection currents in the air of a ship without gravity, and it was
+imperative that the air be circulated constantly. The air circulation
+blowers would cease functioning while the ship still contained pure air
+but he would have to move about continually to breathe that air. Should
+he lie down to sleep he would smother to death in a carbon dioxide
+bubble of his own making.
+
+If he managed to emerge into normal space at some point just outside
+Earth's atmosphere, beyond range of the cruisers, his driveless ship
+would descend as a blazing meteor. If, by some miracle, he could
+emerge into normal space just a few inches above the space-field it
+would be to materialize into space already occupied by air. Such
+a materialization would be simultaneously fatal to him and to the
+electronic components of the shuttle and computer.
+
+And if he did not move the ship, the Slug cruisers would disintegrate
+him. He had four hypothetical choices of his way to die, all equally
+unpleasant.
+
+He smiled wanly at his reflection in the bright metal bordering the
+viewscreen and said, "Brother--you've had it!"
+
+       *       *       *       *       *
+
+He went to the control room, there to brush his fingers across the
+useless control buttons and look into the viewscreen that revealed only
+black and limitless Nothing.
+
+What was the warp? Surely it must have definite physical laws of some
+kind. It was difficult to imagine any kind of existence--even the black
+nothing of the warp--as being utterly without rule or reason. If he
+knew the laws of the warp he might find some means of survival hitherto
+hidden from him.
+
+There was only one way he could learn about the warp. He would have to
+question the computer and continue questioning it until he learned or
+until his time was up.
+
+He returned to the computer and considered his next question. The
+computer had calculated their positions from observations of the sun
+and other stars in front of the ship--what would similar calculations
+based on observations of the stars behind the ship reveal? He typed:
+
+USE FIRST THE TRIANGULATION METHOD AND THEN THE SPECTRUM-SHIFT METHOD
+TO DETERMINE OUR POSITION FROM OBSERVATIONS MADE OF THE STARS OF
+OPHIUCHUS.
+
+The answers appeared. They showed the ship to be simultaneously
+speeding away from Ophiuchus and toward it.
+
+He asked: DO THESE TWO POSITIONS COINCIDE WITH THOSE RESULTING FROM THE
+OBSERVATIONS OF ORION?
+
+YES, it answered.
+
+Was the paradox limited to the line of flight?
+
+He asked the computer: WHAT IS OUR POSITION, COURSE AND SPEED AS
+INDICATED BY THE STARS AT RIGHT-ANGLES TO OUR FORWARD-BACKWARD COURSE;
+BY THE STARS OF URSA MINOR AND CRUX?
+
+The answer appeared on the panel: the ship was racing sideward through
+the warp in two diametrically opposed directions, but at only one-third
+the speed with which it was racing forward and backward.
+
+So now the ship had four impossible positions and two different speeds.
+
+He frowned at the computer, trying to find some clue in the new data.
+He noticed, absently, that the hand of one of the dials was near zero
+in the red section of the dial. He had not noticed any of the dials
+registering in the danger zone before....
+
+He jerked out of his preoccupation with apprehension and typed: TELL ME
+IN NON-TECHNICAL LANGUAGE THE MEANING OF THE HAND NEAR ZERO ON THE DIAL
+LABELED _MAX. ET. REF_.
+
+It answered: ONE OF MY CIRCUITS WAS DAMAGED BY THE SUDDEN RELEASE OF
+AIR PRESSURE. I WILL CEASE FUNCTIONING AT THE END OF FOUR MORE MINUTES
+OF OPERATION.
+
+He slammed the master switch to OFF. The lights on the board went out,
+the various needles swung to zero, leaving the computer a mindless
+structure more than ever resembling an overgrown refrigerator.
+
+Four minutes more of operation ... and he had so many questions to
+ask before he could hope to learn enough about the warp to know what
+he should do. He had wasted almost an hour of the computer's limited
+life, leaving it turned on when he was not using it. If only it had
+told him ... but it was not the nature of a machine to voluntarily give
+information. Besides, the receding hand of the dial was there for him
+to see. The computer neither knew nor cared that no one had thought it
+worthwhile to teach him the rudiments of its operation and maintenance.
+
+It was 12:52. One hour and one minute left.
+
+He put the thought aside and concentrated on the problem of finding the
+key to the paradox.
+
+What conceivable set of circumstances would cause receding stars to
+have a spectrum shift that showed them to be approaching the ship? Or,
+to rephrase the question, what conceivable set of circumstances would
+cause approaching stars to appear to dwindle in size?
+
+The answer came with startling suddenness and clarity:
+
+There was no paradox--the ship was expanding.
+
+He considered the solution, examining it for flaws of logic, and found
+none. If he and the ship were expanding the wave length of light would
+diminish in proportion to the increasing size of the retinas of his
+eyes and the scanner plates of the transdimensional viewscreens: would
+become shorter and go into the ultraviolet. At the same time, the
+increasing size of himself and the ship would make the Earth and sun
+relatively smaller and therefore apparently receding.
+
+The same theory explained the two different speeds of the ship: its
+length was three times its diameter so its longitudinal expansion would
+proceed at three times the speed of its cross-sectional expansion.
+
+Everything checked.
+
+How large was the ship now?
+
+He made a rough calculation and stared almost unbelievingly at the
+results. He was a giant, more than a third of a light-year tall, in a
+ship that was six light-years long and two light-years in diameter.
+Far Centauri, which had required thirty years to reach in the fastest
+interplanetary ship, floated seventy-one feet away in the blackness
+outside the hull.
+
+And the sun and Earth were in the room with him, going into the
+shuttle's silvery focal ball.
+
+He would have to ask the computer to make certain his theory was valid.
+His time was too critically short for him to waste any of it with
+speculation based on an erroneous theory.
+
+He switched on the computer and it lighted up again. He typed rapidly:
+
+ASSUME THIS SHIP TO BE MOTIONLESS AND EXPANDING WOULD THAT THEORY
+SATISFACTORILY EXPLAIN ALL THE HITHERTO CONTRADICTORY PHENOMENA?
+
+There was a brief pause as the computer evaluated its data, then it
+answered with one word:
+
+YES.
+
+He switched it off again, to squander none of its short period of
+usefulness until he had decided upon what his further questions should
+be. At last, he had some grounds for conjecture; had learned something
+about the warp the designers of the shuttle had not suspected. Their
+calculations had been correct when they showed a ship would travel in
+the warp at many times the normal space speed of light. But somewhere
+some little factor had been overlooked--or never found--and their
+precise mathematics had not indicated that the travel would be produced
+by expansion.
+
+_Nature abhors a vacuum._ And the black, empty warp was a vacuum more
+perfect than any that existed in normal space. In the normal space
+universe there were millions of stars in the galaxy and millions of
+galaxies. In the warp there was utter Nothing. Did the physical laws of
+the warp demand that matter be scattered throughout it, in emulation of
+its rich neighbor in the adjoining dimension? Was the warp hungry for
+matter?
+
+He rejected the thought as fantasy. There was some explanation that the
+physicists would eventually find. Perhaps there was a vast size-ratio
+difference between the two dimensions; perhaps the warp was far larger
+than the normal space universe and some co-universal law demanded that
+objects entering it become proportionally larger.
+
+None of that aspect of his circumstances, however, was of importance.
+There was only one prime problem facing him: how to move the ship
+within less than an hour to some point in the warp where his emergence
+into normal space would result in neither instant nor days-away
+death and where he would have the time to try to carry out the
+responsibility, so suddenly placed in his hands, of delivering the
+space warp shuttle to the _Thunderbolt_.
+
+The long-range task depended upon his immediate survival. He had to
+move the ship, and how did a man move a driveless ship? It might not
+require a very large propulsive force--perhaps even an oxygen tank
+would serve as a jet. Except that he had none.
+
+He could use part of the air in the ship. Its sudden release should
+move the ship. There was a sun very near: Alpha Centauri. If he had the
+proper tools, and the time, he could cut a hole in the hull opposite
+Centauri ... but he had neither the tools nor the time.
+
+And what good would it do him if he could emerge into normal space at
+the desired distance from Centauri? He would be provided with power for
+the air regenerators by the solar power units but not power sufficient
+to operate the shuttle. He would breathe, and eat, for a week. Then the
+small amount of food on the ship would be gone and he would breathe for
+another four or five weeks. And then he would die of starvation and his
+driveless ship would continue its slow drift into the sun, taking his
+bones and the shuttle with it.
+
+He would have to go to Sirius and he would have to reach it the first
+try or never. If he could emerge into normal space at the proper
+distance from Sirius he would have power from it to operate the
+communicator. The _Thunderbolt_ would come at once when it received
+his message and swallow the little _Argosy_ in its enormous hold. The
+return to Earth would be the swift one through the warp and the Slug
+cruisers, so bold in pursuit of unarmed interplanetary ships, would
+quickly cease to exist.
+
+At 13:53 Sirius would be somewhere in or near the bow of the ship.
+The ship would not have to be moved more than two thirds of its
+length--twenty meters. He could do that by releasing part of the air in
+the shuttle room through the sternward airlock.
+
+How much air?
+
+He tried to remember long-forgotten formulas. So many cubic feet of
+air at such and such a pressure when released through an opening of
+such and such a diameter would exert a propulsive force of.... Hell,
+he didn't know. And not even the computer would be able to tell him
+because there were so many unknown factors, such as the proportion of
+the ship's mass lost to the Slug blasters, the irregular shape of the
+airlock opening, the degree of smoothness of its metal....
+
+He made calculations with pencil and paper. He would have to move
+the ship with extreme precision. A light-hour short of the proper
+distance put him too far from the sun for it to power the communicator,
+a light-hour beyond put him in the sun's flaming white heart. One
+light-hour out of eight point six light-years was approximately one
+part out of seventy-five thousand. He would have to move the ship with
+an accuracy of point aught three centimeters--one hundredth of an inch.
+
+_One hundredth of an inch!_
+
+He laid the pencil back down, almost numbly. He could never open and
+close an airlock and move a mass of thousands of tons with an accuracy
+of a hundredth of an inch. The very thought was wildly fantastic.
+
+He was already far closer to Sirius than he would be if he tried to get
+any closer. And that was over eight light-years from it.
+
+He looked at the chronometer and saw the hands had already reached
+13:20. Thirty-three minutes left to him. Sirius was near--soon it would
+be in the bow of the ship--and Sirius was eight point six light-years
+away.
+
+How could he move the ship a certain distance accurate to one hundredth
+of an inch? He couldn't. The answer was blunt and ugly and irrefutable:
+he couldn't.
+
+He got up and walked across the room, feeling like a man who had in
+quick succession been condemned, reprieved, recondemned. He had been
+projected into a situation for which he had had no preliminary training
+whatever; had been made sole custodian and operator of a computer and a
+space warp shuttle that he had never before been permitted to touch. He
+had used the sound but not at all brilliant mind nature had given him
+to solve the riddle of the paradoxes and learn where he was and where
+he wanted to go. He had done quite well--he had solved every problem of
+his survival and the shuttle's delivery except the last one!
+
+He passed by the shuttle and stopped to rest his hand on the bright,
+silvery focal ball. The solar system would be deep inside the ball;
+the atoms of the ball larger than Earth, perhaps, and far more
+impalpable than the thinnest air. The Slug cruisers would be in there,
+infinitesimally tiny, waiting for him to return....
+
+No--faulty reasoning. The solar system was as it had always been, not
+diminished in size and not really in the ball. It was only that two
+different points in two different dimensions coincided in the ball....
+
+He saw the answer.
+
+He did not have to move the ship to Sirius--he had only to move the
+ball!
+
+       *       *       *       *       *
+
+There would be little time, very little time. First, to see if the warp
+shuttle was portable--
+
+It was. When he unfastened the clamp that held it to the stand it
+lifted up freely, trailing a heavy cable behind it. He saw it was only
+a power supply cable, with a plug that would fit one of the sockets in
+the bow of the ship. He left the shuttle floating in the air, leashed
+by the cable, and went to the computer. Next, he would have to know if
+Sirius would be fully in the ship--
+
+He switched the computer on and typed:
+
+DETERMINE THE DISTANCE FROM THE CENTER OF THE WARP SHUTTLE'S FOCAL BALL
+TO THE SPACE WARP POSITION OF SIRIUS AT 13:53, BASING YOUR COMPUTATIONS
+ON THE EXPANDING-SHIP THEORY.
+
+It gave him the answer a moment later: 18.3496 METERS.
+
+He visualized the distance, from his knowledge of the ship's interior,
+and saw the position would be within the forward spare-parts room.
+
+Next, to learn exactly where in that room he should place the shuttle.
+He could not do so by measuring from the present position of the
+shuttle. The most precise steel tape would have to be at exactly the
+right temperature for such a measurement to be neither too short nor
+too long. He had no such tape, and the distance from the focal ball
+was only part of the necessary measuring: he would have to measure
+off a certain distance and a precisely certain angle from the purely
+imaginary central line of the ship's axis to intersect the original
+line. Such a measurement would be impossible in the time he had.
+
+He considered what would be his last question to the computer. The
+hand was touching the zero and his question would have to be worded
+very clearly and subject to no misinterpretations. There would be no
+follow-up questions permitted.
+
+He began typing:
+
+IT IS DESIRED THAT THIS SHIP EMERGE INTO NORMAL SPACE ONE LIGHT-HOUR
+THIS SIDE OF SIRIUS AT 13:53. THIS WILL BE ACCOMPLISHED BY MOVING
+THE WARP SHUTTLE TO SUCH A POSITION THAT ITS FOCAL CENTER WILL BE IN
+A SPACE WARP POSITION COINCIDING WITH A NORMAL SPACE POSITION ONE
+LIGHT-HOUR THIS SIDE OF SIRIUS AT 13:53. CONSIDER ALL FACTORS THAT
+MIGHT HAVE AFFECTED THE DIMENSIONS OF THIS SHIP, SUCH AS TEMPERATURE
+CHANGES PRODUCED BY OUR NORMAL SPACE ACCELERATION AND DECELERATION,
+WHEN COMPUTING THE POSITION OF SIRIUS. THEN DEFINE THAT LOCATION IN
+RELATION TO THE STRUCTURAL FEATURES OF THE ROOM'S INTERIOR. DO THIS
+IN SUCH A MANNER THAT PLACING THE SHUTTLE IN THE PROPER POSITION WILL
+REQUIRE THE LEAST POSSIBLE AMOUNT OF MEASURING DISTANCES AND ANGLES.
+
+It seemed to take it an unduly long time to answer the question and he
+waited restlessly, unpleasantly aware of the hand touching zero and
+wondering if the computer's mind was baffled by the question; the mind
+that thought best in terms of orderly mathematics and could not know
+or care that measurement by protractor and tape would result in a
+position fatally far from that described by the neat, rigid figures.
+
+Then the answer appeared, beautifully concise:
+
+POSITION WILL BE IN CORNER OF ROOM, 764.2 CENTIMETERS ABOVE FLOOR
+PLATE, 820 CENTIMETERS PERPENDICULAR TO PANEL AA, 652.05 CENTIMETERS
+PERPENDICULAR TO PANEL AB.
+
+The computer died with an oddly human sigh. Its last act had been
+to give him the location of Sirius in such a manner that he could
+accurately position the shuttle's focal ball with the aid of the
+precision measuring devices in the ship's repair room.
+
+He went to the shuttle and picked it up in his arms. It was entirely
+weightless, and each magnet-clicking step he took toward the bow of the
+ship brought Sirius almost half a light-year nearer.
+
+       *       *       *       *       *
+
+He squinted against the white glare of Sirius in the viewscreen as he
+continued his terse report to the _Thunderbolt's_ commander: "I have
+about a week's supply of food. How long will it be until you reach me?"
+
+The commander's reply came after the pause caused by the distance
+involved:
+
+"We'll be there within three days. Go ahead and eat hearty. But how did
+you travel from Earth to Sirius in only two hours? My God, man--what
+kind of a drive did that ship have?"
+
+"Why, it didn't have any drive from the start," he said. "To get here
+I"--he frowned thoughtfully--"you might say I walked and carried the
+ship."
+
+
+
+
+
+End of the Project Gutenberg EBook of Brain Teaser, by Tom Godwin
+
+*** END OF THIS PROJECT GUTENBERG EBOOK BRAIN TEASER ***
+
+***** This file should be named 59581.txt or 59581.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/9/5/8/59581/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

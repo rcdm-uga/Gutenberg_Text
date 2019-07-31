@@ -1,0 +1,2146 @@
+The Project Gutenberg eBook, Aucassin and Nicolete, by Andrew Lang
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+
+
+
+Title: Aucassin and Nicolete
+
+Author: Andrew Lang
+
+Release Date: March 17, 2005  [eBook #1578]
+
+Language: English
+
+Character set encoding: ISO-646-US (US-ASCII)
+
+
+***START OF THE PROJECT GUTENBERG EBOOK AUCASSIN AND NICOLETE***
+
+
+
+
+
+Transcribed from the 1910 David Nutt edition by David Price, email
+ccx074@coventry.ac.uk
+
+
+
+
+
+AUCASSIN AND NICOLETE
+
+
+Dedicated to the Hon. James Russell Lowell.
+
+
+
+
+INTRODUCTION
+
+
+There is nothing in artistic poetry quite akin to "Aucassin and
+Nicolete."
+
+By a rare piece of good fortune the one manuscript of the Song-Story has
+escaped those waves of time, which have wrecked the bark of Menander, and
+left of Sappho but a few floating fragments.  The very form of the tale
+is peculiar; we have nothing else from the twelfth or thirteenth century
+in the alternate prose and verse of the _cante-fable_. {1}  We have
+fabliaux in verse, and prose Arthurian romances.  We have _Chansons de
+Geste_, heroic poems like "Roland," unrhymed assonant _laisses_, but we
+have not the alternations of prose with _laisses_ in seven-syllabled
+lines.  It cannot be certainly known whether the form of "Aucassin and
+Nicolete" was a familiar form--used by many _jogleors_, or wandering
+minstrels and story-tellers such as Nicolete, in the tale, feigned
+herself to be,--or whether this is a solitary experiment by "the old
+captive" its author, a contemporary, as M. Gaston Paris thinks him, of
+Louis VII (1130).  He was original enough to have invented, or adopted
+from popular tradition, a form for himself; his originality declares
+itself everywhere in his one surviving masterpiece.  True, he uses
+certain traditional formulae, that have survived in his time, as they
+survived in Homer's, from the manner of purely popular poetry, of
+_Volkslieder_.  Thus he repeats snatches of conversation always in the
+same, or very nearly the same words.  He has a stereotyped form, like
+Homer, for saying that one person addressed another, "ains traist au
+visconte de la vile si l'apela" [Greek text] . . . Like Homer, and like
+popular song, he deals in recurrent epithets, and changeless courtesies.
+To Aucassin the hideous plough-man is "Biax frere," "fair brother," just
+as the treacherous Aegisthus is [Greek text] in Homer; these are
+complimentary terms, with no moral sense in particular.  The _jogleor_ is
+not more curious than Homer, or than the poets of the old ballads, about
+giving novel descriptions of his characters.  As Homer's ladies are "fair-
+tressed," so Nicolete and Aucassin have, each of them, close yellow
+curls, eyes of vair (whatever that may mean), and red lips.  War cannot
+be mentioned except as war "where knights do smite and are smitten," and
+so forth.  The author is absolutely conventional in such matters,
+according to the convention of his age and profession.
+
+Nor is his matter more original.  He tells a story of thwarted and
+finally fortunate love, and his hero is "a Christened knight"--like
+Tamlane,--his heroine a Paynim lady.  To be sure, Nicolete was baptized
+before the tale begins, and it is she who is a captive among Christians,
+not her lover, as usual, who is a captive among Saracens.  The author has
+reversed the common arrangement, and he appears to have cared little more
+than his reckless hero, about creeds and differences of faith.  He is not
+much interested in the recognition of Nicolete by her great Paynim
+kindred, nor indeed in any of the "business" of the narrative, the
+fighting, the storms and tempests, and the burlesque of the kingdom of
+Torelore.
+
+What the nameless author does care for, is his telling of the love-story,
+the passion of Aucassin and Nicolete.  His originality lies in his
+charming medley of sentiment and humour, of a smiling compassion and
+sympathy with a touch of mocking mirth.  The love of Aucassin and
+Nicolete--
+
+   "Des grans paines qu'il soufri,"
+
+that is the one thing serious to him in the whole matter, and that is not
+so very serious. {2} The story-teller is no Mimnermus, Love and Youth are
+the best things he knew,--"deport du viel caitif,"--and now he has "come
+to forty years," and now they are with him no longer.  But he does not
+lament like Mimnermus, like Alcman, like Llwyarch Hen.  "What is Life,
+what is delight without golden Aphrodite?  May I die!" says Mimnermus,
+"when I am no more conversant with these, with secret love, and gracious
+gifts, and the bed of desire."  And Alcman, when his limbs waver beneath
+him, is only saddened by the faces and voices of girls, and would change
+his lot for the sea-birds. {3}
+
+   "Maidens with voices like honey for sweetness that breathe desire,
+   Would that I were a sea-bird with limbs that never could tire,
+   Over the foam-flowers flying with halcyons ever on wing,
+   Keeping a careless heart, a sea-blue bird of the spring."
+
+But our old captive, having said farewell to love, has yet a kindly
+smiling interest in its fever and folly.  Nothing better has he met, even
+now that he knows "a lad is an ass."  He tells a love story, a story of
+love overmastering, without conscience or care of aught but the beloved.
+And the _viel caitif_ tells it with sympathy, and with a smile.  "Oh
+folly of fondness," he seems to cry, "oh merry days of desolation"
+
+   "When I was young as you are young,
+   When lutes were touched and songs were sung,
+   And love lamps in the windows hung."
+
+It is the very tone of Thackeray, when Thackeray is tender, and the world
+heard it first from this elderly, nameless minstrel, strolling with his
+viol and his singing boys, perhaps, like a blameless d'Assoucy, from
+castle to castle in "the happy poplar land."  One seems to see him and
+hear him in the twilight, in the court of some chateau of Picardy, while
+the ladies on silken cushions sit around him listening, and their lovers,
+fettered with silver chains, lie at their feet.  They listen, and look,
+and do not think of the minstrel with his grey head and his green heart,
+but we think of him.  It is an old man's work, and a weary man's work.
+You can easily tell the places where he has lingered, and been pleased as
+he wrote.  They are marked, like the bower Nicolete built, with flowers
+and broken branches wet with dew.  Such a passage is the description of
+Nicolete at her window, in the strangely painted chamber,
+
+   "ki faite est par grant devisse
+   panturee a miramie."
+
+Thence
+
+      "she saw the roses blow,
+   Heard the birds sing loud and low."
+
+Again, the minstrel speaks out what many must have thought, in those
+incredulous ages of Faith, about Heaven and Hell, Hell where the gallant
+company makes up for everything.  When he comes to a battle-piece he
+makes Aucassin "mightily and knightly hurl through the press," like one
+of Malory's men.  His hero must be a man of his hands, no mere sighing
+youth incapable of arms.  But the minstrels heart is in other things, for
+example, in the verses where Aucassin transfers to Beauty the
+wonder-working powers of Holiness, and makes the sight of his lady heal
+the palmer, as the shadow of the Apostle, falling on the sick people,
+healed them by the Gate Beautiful.  The Flight of Nicolete is a familiar
+and beautiful picture, the daisy flowers look black in the ivory
+moonlight against her feet, fair as Bombyca's "feet of carven ivory" in
+the Sicilian idyll, long ago. {4} It is characteristic of the poet that
+the two lovers begin to wrangle about which loves best, in the very mouth
+of danger, while Aucassin is yet in prison, and the patrol go down the
+moonlit street, with swords in their hands, sworn to slay Nicolete.  That
+is the place and time chosen for this ancient controversy.  Aucassin's
+threat that if he loses Nicolete he will not wait for sword or knife, but
+will dash his head against a wall, is in the very temper of the prisoned
+warrior-poet, who actually chose this way of death.  Then the night
+scene, with its fantasy, and shadow, and moonlight on flowers and street,
+yields to a picture of the day, with the birds singing, and the shepherds
+laughing, in the green links between wood and water.  There the shepherds
+take Nicolete for a fairy, so bright a beauty shines about her.  Their
+mockery, their independence, may make us consider again our ideas of
+early Feudalism.  Probably they were in the service of townsmen, whose
+good town treated the Count as no more than an equal of its corporate
+dignity.  The bower of branches built by Nicolete is certainly one of the
+places where the minstrel himself has rested and been pleased with his
+work.  One can feel it still, the cool of that clear summer night, the
+sweet smell of broken boughs, and trodden grass, and deep dew, and the
+shining of the star that Aucassin deemed was the translated spirit of his
+lady.  Romance has touched the book here with her magic, as she has
+touched the lines where we read how Consuelo came by moonlight to the
+Canon's garden and the white flowers.  The pleasure here is the keener
+for contrast with the luckless hind whom Aucassin encountered in the
+forest: the man who had lost his master's ox, the ungainly man who wept,
+because his mother's bed had been taken from under her to pay his debt.
+This man was in that estate which Achilles, in Hades, preferred above the
+kingship of the dead outworn.  He was hind and hireling to a villein,
+
+   [Greek text]
+
+It is an unexpected touch of pity for the people, and for other than love-
+sorrows, in a poem intended for the great and courtly people of chivalry.
+
+At last the lovers meet, in the lodge of flowers beneath the stars.  Here
+the story should end, though one could ill spare the pretty lecture the
+girl reads her lover as they ride at adventure, and the picture of
+Nicolete, with her brown stain, and jogleor's attire, and her viol,
+playing before Aucassin in his own castle of Biaucaire.  The burlesque
+interlude of the country of Torelore is like a page out of Rabelais,
+stitched into the _cante-fable_ by mistake.  At such lands as Torelore
+Pantagruel and Panurge touched many a time in their vague voyaging.
+Nobody, perhaps, can care very much about Nicolete's adventures in
+Carthage, and her recognition by her Paynim kindred.  If the old captive
+had been a prisoner among the Saracens, he was too indolent or incurious
+to make use of his knowledge.  He hurries on to his journey's end;
+
+   "Journeys end in lovers meeting."
+
+So he finishes the tale.  What lives in it, what makes it live, is the
+touch of poetry, of tender heart, of humorous resignation.  The old
+captive says the story will gladden sad men:-
+
+   "Nus hom n'est si esbahis,
+   tant dolans ni entrepris,
+   de grant mal amaladis,
+   se il l'oit, ne soit garis,
+   et de joie resbaudis,
+      tant par est douce."
+
+This service it did for M. Bida, the painter, as he tells us when he
+translated Aucassin in 1870.  In dark and darkening days, _patriai
+tempore iniquo_, we too have turned to _Aucassin et Nicolete_. {5}
+
+
+
+
+BALLADE OF AUCASSIN
+
+
+Where smooth the Southern waters run
+   Through rustling leagues of poplars gray,
+Beneath a veiled soft Southern sun,
+   We wandered out of Yesterday;
+   Went Maying in that ancient May
+Whose fallen flowers are fragrant yet,
+   And lingered by the fountain spray
+With Aucassin and Nicolete.
+
+The grassgrown paths are trod of none
+   Where through the woods they went astray;
+The spider's traceries are spun
+   Across the darkling forest way;
+   There come no Knights that ride to slay,
+No Pilgrims through the grasses wet,
+   No shepherd lads that sang their say
+With Aucassin and Nicolete.
+
+'Twas here by Nicolete begun
+   Her lodge of boughs and blossoms gay;
+'Scaped from the cell of marble dun
+   'Twas here the lover found the Fay;
+   O lovers fond, O foolish play!
+How hard we find it to forget,
+   Who fain would dwell with them as they,
+With Aucassin and Nicolete.
+
+ENVOY.
+
+Prince, 'tis a melancholy lay!
+   For Youth, for Life we both regret:
+How fair they seem; how far away,
+   With Aucassin and Nicolete.
+
+A. L.
+
+
+
+
+BALLADE OF NICOLETE
+
+
+All bathed in pearl and amber light
+She rose to fling the lattice wide,
+And leaned into the fragrant night,
+Where brown birds sang of summertide;
+('Twas Love's own voice that called and cried)
+"Ah, Sweet!" she said, "I'll seek thee yet,
+Though thorniest pathways should betide
+The fair white feet of Nicolete."
+
+They slept, who would have stayed her flight;
+(Full fain were they the maid had died!)
+She dropped adown her prison's height
+On strands of linen featly tied.
+And so she passed the garden-side
+With loose-leaved roses sweetly set,
+And dainty daisies, dark beside
+The fair white feet of Nicolete!
+
+Her lover lay in evil plight
+(So many lovers yet abide!)
+I would my tongue could praise aright
+Her name, that should be glorified.
+Those lovers now, whom foes divide
+A little weep,--and soon forget.
+How far from these faint lovers glide
+The fair white feet of Nicolete.
+
+ENVOY.
+
+My Princess, doff thy frozen pride,
+Nor scorn to pay Love's golden debt,
+Through his dim woodland take for guide
+The fair white feet of Nicolete.
+
+GRAHAM R. TOMSON
+
+
+
+
+THE SONG-STORY OF AUCASSIN AND NICOLETE
+
+
+'Tis of Aucassin and Nicolete.
+
+   Who would list to the good lay
+   Gladness of the captive grey?
+   'Tis how two young lovers met,
+   Aucassin and Nicolete,
+   Of the pains the lover bore
+   And the sorrows he outwore,
+   For the goodness and the grace,
+   Of his love, so fair of face.
+
+   Sweet the song, the story sweet,
+   There is no man hearkens it,
+   No man living 'neath the sun,
+   So outwearied, so foredone,
+   Sick and woful, worn and sad,
+   But is healed, but is glad
+      'Tis so sweet.
+
+So say they, speak they, tell they the Tale:
+
+How the Count Bougars de Valence made war on Count Garin de Biaucaire,
+war so great, and so marvellous, and so mortal that never a day dawned
+but alway he was there, by the gates and walls, and barriers of the town
+with a hundred knights, and ten thousand men at arms, horsemen and
+footmen: so burned he the Count's land, and spoiled his country, and slew
+his men.  Now the Count Garin de Biaucaire was old and frail, and his
+good days were gone over.  No heir had he, neither son nor daughter, save
+one young man only; such an one as I shall tell you.  Aucassin was the
+name of the damoiseau: fair was he, goodly, and great, and featly
+fashioned of his body, and limbs.  His hair was yellow, in little curls,
+his eyes blue and laughing, his face beautiful and shapely, his nose high
+and well set, and so richly seen was he in all things good, that in him
+was none evil at all.  But so suddenly overtaken was he of Love, who is a
+great master, that he would not, of his will, be dubbed knight, nor take
+arms, nor follow tourneys, nor do whatsoever him beseemed.  Therefore his
+father and mother said to him;
+
+"Son, go take thine arms, mount thy horse, and hold thy land, and help
+thy men, for if they see thee among them, more stoutly will they keep in
+battle their lives, and lands, and thine, and mine."
+
+"Father," said Aucassin, "I marvel that you will be speaking.  Never may
+God give me aught of my desire if I be made knight, or mount my horse, or
+face stour and battle wherein knights smite and are smitten again, unless
+thou give me Nicolete, my true love, that I love so well."
+
+"Son," said the father, "this may not be.  Let Nicolete go, a slave girl
+she is, out of a strange land, and the captain of this town bought her of
+the Saracens, and carried her hither, and hath reared her and let
+christen the maid, and took her for his daughter in God, and one day will
+find a young man for her, to win her bread honourably.  Herein hast thou
+naught to make or mend, but if a wife thou wilt have, I will give thee
+the daughter of a King, or a Count.  There is no man so rich in France,
+but if thou desire his daughter, thou shalt have her."
+
+"Faith! my father," said Aucassin, "tell me where is the place so high in
+all the world, that Nicolete, my sweet lady and love, would not grace it
+well?  If she were Empress of Constantinople or of Germany, or Queen of
+France or England, it were little enough for her; so gentle is she and
+courteous, and debonaire, and compact of all good qualities."
+
+_Here singeth one_:
+
+   Aucassin was of Biaucaire
+   Of a goodly castle there,
+   But from Nicolete the fair
+   None might win his heart away
+   Though his father, many a day,
+   And his mother said him nay,
+   "Ha! fond child, what wouldest thou?
+   Nicolete is glad enow!
+   Was from Carthage cast away,
+   Paynims sold her on a day!
+   Wouldst thou win a lady fair
+   Choose a maid of high degree
+   Such an one is meet for thee."
+   "Nay of these I have no care,
+   Nicolete is debonaire,
+   Her body sweet and the face of her
+   Take my heart as in a snare,
+   Loyal love is but her share
+      That is so sweet."
+
+Then speak they, say they, tell they the Tale:
+
+When the Count Garin de Biaucaire knew that he would avail not to
+withdraw Aucassin his son from the love of Nicolete, he went to the
+Captain of the city, who was his man, and spake to him, saying:
+
+"Sir Count; away with Nicolete thy daughter in God; cursed be the land
+whence she was brought into this country, for by reason of her do I lose
+Aucassin, that will neither be dubbed knight, nor do aught of the things
+that fall to him to be done.  And wit ye well," he said, "that if I might
+have her at my will, I would burn her in a fire, and yourself might well
+be sore adread."
+
+"Sir," said the Captain, "this is grievous to me that he comes and goes
+and hath speech with her.  I had bought the maiden at mine own charges,
+and nourished her, and baptized, and made her my daughter in God.  Yea, I
+would have given her to a young man that should win her bread honourably.
+With this had Aucassin thy son naught to make or mend.  But, sith it is
+thy will and thy pleasure, I will send her into that land and that
+country where never will he see her with his eyes."
+
+"Have a heed to thyself," said the Count Garin, "thence might great evil
+come on thee."
+
+So parted they each from other.  Now the Captain was a right rich man: so
+had he a rich palace with a garden in face of it; in an upper chamber
+thereof he let place Nicolete, with one old woman to keep her company,
+and in that chamber put bread and meat and wine and such things as were
+needful.  Then he let seal the door, that none might come in or go forth,
+save that there was one window, over against the garden, and strait
+enough, where through came to them a little air.
+
+_Here singeth one_:
+
+   Nicolete as ye heard tell
+   Prisoned is within a cell
+   That is painted wondrously
+   With colours of a far countrie,
+   And the window of marble wrought,
+   There the maiden stood in thought,
+   With straight brows and yellow hair
+   Never saw ye fairer fair!
+   On the wood she gazed below,
+   And she saw the roses blow,
+   Heard the birds sing loud and low,
+   Therefore spoke she wofully:
+   "Ah me, wherefore do I lie
+   Here in prison wrongfully:
+   Aucassin, my love, my knight,
+   Am I not thy heart's delight,
+   Thou that lovest me aright!
+   'Tis for thee that I must dwell
+   In the vaulted chamber cell,
+   Hard beset and all alone!
+   By our Lady Mary's Son
+   Here no longer will I wonn,
+      If I may flee!
+
+Then speak they, say they, tell they the Tale:
+
+Nicolete was in prison, as ye have heard soothly, in the chamber.  And
+the noise and bruit of it went through all the country and all the land,
+how that Nicolete was lost.  Some said she had fled the country, and some
+that the Count Garin de Biaucaire had let slay her.  Whosoever had joy
+thereof, Aucassin had none, so he went to the Captain of the town and
+spoke to him, saying:
+
+"Sir Captain, what hast thou made of Nicolete, my sweet lady and love,
+the thing that best I love in all the world?  Hast thou carried her off
+or ravished her away from me?  Know well that if I die of it, the price
+shall be demanded of thee, and that will be well done, for it shall be
+even as if thou hadst slain me with thy two hands, for thou hast taken
+from me the thing that in this world I loved the best."
+
+"Fair Sir," said the Captain, "let these things be.  Nicolete is a
+captive that I did bring from a strange country.  Yea, I bought her at my
+own charges of the Saracens, and I bred her up and baptized her, and made
+her my daughter in God.  And I have cherished her, and one of these days
+I would have given her a young man, to win her bread honourably.  With
+this hast thou naught to make, but do thou take the daughter of a King or
+a Count.  Nay more, what wouldst thou deem thee to have gained, hadst
+thou made her thy leman, and taken her to thy bed?  Plentiful lack of
+comfort hadst thou got thereby, for in Hell would thy soul have lain
+while the world endures, and into Paradise wouldst thou have entered
+never."
+
+"In Paradise what have I to win?  Therein I seek not to enter, but only
+to have Nicolete, my sweet lady that I love so well.  For into Paradise
+go none but such folk as I shall tell thee now: Thither go these same old
+priests, and halt old men and maimed, who all day and night cower
+continually before the altars, and in the crypts; and such folk as wear
+old amices and old clouted frocks, and naked folk and shoeless, and
+covered with sores, perishing of hunger and thirst, and of cold, and of
+little ease.  These be they that go into Paradise, with them have I
+naught to make.  But into Hell would I fain go; for into Hell fare the
+goodly clerks, and goodly knights that fall in tourneys and great wars,
+and stout men at arms, and all men noble.  With these would I liefly go.
+And thither pass the sweet ladies and courteous that have two lovers, or
+three, and their lords also thereto.  Thither goes the gold, and the
+silver, and cloth of vair, and cloth of gris, and harpers, and makers,
+and the prince of this world.  With these I would gladly go, let me but
+have with me, Nicolete, my sweetest lady."
+
+"Certes," quoth the Captain, "in vain wilt thou speak thereof, for never
+shalt thou see her; and if thou hadst word with her, and thy father knew
+it, he would let burn in a fire both her and me, and thyself might well
+be sore adread."
+
+"That is even what irketh me," quoth Aucassin.  So he went from the
+Captain sorrowing.
+
+_Here singeth one_:
+
+   Aucassin did so depart
+   Much in dole and heavy at heart
+   For his love so bright and dear,
+   None might bring him any cheer,
+   None might give good words to hear,
+   To the palace doth he fare
+   Climbeth up the palace-stair,
+   Passeth to a chamber there,
+   Thus great sorrow doth he bear,
+   For his lady and love so fair.
+
+   "Nicolete how fair art thou,
+   Sweet thy foot-fall, sweet thine eyes,
+   Sweet the mirth of thy replies,
+   Sweet thy laughter, sweet thy face,
+   Sweet thy lips and sweet thy brow,
+   And the touch of thine embrace,
+   All for thee I sorrow now,
+   Captive in an evil place,
+   Whence I ne'er may go my ways
+   Sister, sweet friend!"
+
+So say they, speak they, tell they the Tale:
+
+While Aucassin was in the chamber sorrowing for Nicolete his love, even
+then the Count Bougars de Valence, that had his war to wage, forgat it no
+whit, but had called up his horsemen and his footmen, so made he for the
+castle to storm it.  And the cry of battle arose, and the din, and
+knights and men at arms busked them, and ran to walls and gates to hold
+the keep.  And the towns-folk mounted to the battlements, and cast down
+bolts and pikes.  Then while the assault was great, and even at its
+height, the Count Garin de Biaucaire came into the chamber where Aucassin
+was making lament, sorrowing for Nicolete, his sweet lady that he loved
+so well.
+
+"Ha! son," quoth he, "how caitiff art thou, and cowardly, that canst see
+men assail thy goodliest castle and strongest.  Know thou that if thou
+lose it, thou losest all.  Son, go to, take arms, and mount thy horse,
+and defend thy land, and help thy men, and fare into the stour.  Thou
+needst not smite nor be smitten.  If they do but see thee among them,
+better will they guard their substance, and their lives, and thy land and
+mine.  And thou art so great, and hardy of thy hands, that well mightst
+thou do this thing, and to do it is thy devoir."
+
+"Father," said Aucassin, "what is this thou sayest now?  God grant me
+never aught of my desire, if I be dubbed knight, or mount steed, or go
+into the stour where knights do smite and are smitten, if thou givest me
+not Nicolete, my sweet lady, whom I love so well."
+
+"Son," quoth his father, "this may never be: rather would I be quite
+disinherited and lose all that is mine, than that thou shouldst have her
+to thy wife, or to love _par amours_."
+
+So he turned him about.  But when Aucassin saw him going he called to him
+again, saying,
+
+"Father, go to now, I will make with thee fair covenant."
+
+"What covenant, fair son?"
+
+"I will take up arms, and go into the stour, on this covenant, that, if
+God bring me back sound and safe, thou wilt let me see Nicolete my sweet
+lady, even so long that I may have of her two words or three, and one
+kiss."
+
+"That will I grant," said his father.
+
+At this was Aucassin glad.
+
+Here one singeth:
+
+   Of the kiss heard Aucassin
+   That returning he shall win.
+   None so glad would he have been
+   Of a myriad marks of gold
+   Of a hundred thousand told.
+   Called for raiment brave of steel,
+   Then they clad him, head to heel,
+   Twyfold hauberk doth he don,
+   Firmly braced the helmet on.
+   Girt the sword with hilt of gold,
+   Horse doth mount, and lance doth wield,
+   Looks to stirrups and to shield,
+   Wondrous brave he rode to field.
+   Dreaming of his lady dear
+   Setteth spurs to the destrere,
+   Rideth forward without fear,
+   Through the gate and forth away
+      To the fray.
+
+So speak they, say they, tell they the Tale:
+
+Aucassin was armed and mounted as ye have heard tell.  God! how goodly
+sat the shield on his shoulder, the helm on his head, and the baldric on
+his left haunch!  And the damoiseau was tall, fair, featly fashioned, and
+hardy of his hands, and the horse whereon he rode swift and keen, and
+straight had he spurred him forth of the gate.  Now believe ye not that
+his mind was on kine, nor cattle of the booty, nor thought he how he
+might strike a knight, nor be stricken again: nor no such thing.  Nay, no
+memory had Aucassin of aught of these; rather he so dreamed of Nicolete,
+his sweet lady, that he dropped his reins, forgetting all there was to
+do, and his horse that had felt the spur, bore him into the press and
+hurled among the foe, and they laid hands on him all about, and took him
+captive, and seized away his spear and shield, and straightway they led
+him off a prisoner, and were even now discoursing of what death he should
+die.
+
+And when Aucassin heard them,
+
+"Ha! God," said he, "sweet Saviour.  Be these my deadly enemies that have
+taken me, and will soon cut off my head?  And once my head is off, no
+more shall I speak with Nicolete, my sweet lady, that I love so well.
+Natheless have I here a good sword, and sit a good horse unwearied.  If
+now I keep not my head for her sake, God help her never, if she love me
+more!"
+
+The damoiseau was tall and strong, and the horse whereon he sat was right
+eager.  And he laid hand to sword, and fell a-smiting to right and left,
+and smote through helm and _nasal_, and arm and clenched hand, making a
+murder about him, like a wild boar when hounds fall on him in the forest,
+even till he struck down ten knights, and seven be hurt, and straightway
+he hurled out of the press, and rode back again at full speed, sword in
+hand.  The Count Bougars de Valence heard say they were about hanging
+Aucassin, his enemy, so he came into that place, and Aucassin was ware of
+him, and gat his sword into his hand, and lashed at his helm with such a
+stroke that he drave it down on his head, and he being stunned, fell
+grovelling.  And Aucassin laid hands on him, and caught him by the
+_nasal_ of his helmet, and gave him to his father.
+
+"Father," quoth Aucassin, "lo here is your mortal foe, who hath so warred
+on you with all malengin.  Full twenty years did this war endure, and
+might not be ended by man."
+
+"Fair son," said his father, "thy feats of youth shouldst thou do, and
+not seek after folly."
+
+"Father," saith Aucassin, "sermon me no sermons, but fulfil my covenant."
+
+"Ha! what covenant, fair son?"
+
+"What, father, hast thou forgotten it?  By mine own head, whosoever
+forgets, will I not forget it, so much it hath me at heart.  Didst thou
+not covenant with me when I took up arms, and went into the stour, that
+if God brought me back safe and sound, thou wouldst let me see Nicolete,
+my sweet lady, even so long that I may have of her two words or three,
+and one kiss?  So didst thou covenant, and my mind is that thou keep thy
+word."
+
+"I!" quoth the father, "God forsake me when I keep this covenant!  Nay,
+if she were here, I would let burn her in the fire, and thyself shouldst
+be sore adread."
+
+"Is this thy last word?" quoth Aucassin.
+
+"So help me God," quoth his father, "yea!"
+
+"Certes," quoth Aucassin, "this is a sorry thing meseems, when a man of
+thine age lies!"
+
+"Count of Valence," quoth Aucassin, "I took thee?"
+
+"In sooth, Sir, didst thou," saith the Count.
+
+"Give me thy hand," saith Aucassin.
+
+"Sir, with good will."
+
+So he set his hand in the other's.
+
+"Now givest thou me thy word," saith Aucassin, "that never whiles thou
+art living man wilt thou avail to do my father dishonour, or harm him in
+body, or in goods, but do it thou wilt?"
+
+"Sir, in God's name," saith he, "mock me not, but put me to my ransom; ye
+cannot ask of me gold nor silver, horses nor palfreys, _vair_ nor _gris_,
+hawks nor hounds, but I will give you them."
+
+"What?" quoth Aucassin.  "Ha, knowest thou not it was I that took thee?"
+
+"Yea, sir," quoth the Count Bougars.
+
+"God help me never, but I will make thy head fly from thy shoulders, if
+thou makest not troth," said Aucassin.
+
+"In God's name," said he, "I make what promise thou wilt."
+
+So they did the oath, and Aucassin let mount him on a horse, and took
+another and so led him back till he was all in safety.
+
+Here one singeth:
+
+   When the Count Garin doth know
+   That his child would ne'er forego
+   Love of her that loved him so,
+   Nicolete, the bright of brow,
+   In a dungeon deep below
+   Childe Aucassin did he throw.
+   Even there the Childe must dwell
+   In a dun-walled marble cell.
+   There he waileth in his woe
+   Crying thus as ye shall know.
+
+   "Nicolete, thou lily white,
+   My sweet lady, bright of brow,
+   Sweeter than the grape art thou,
+   Sweeter than sack posset good
+   In a cup of maple wood!
+   Was it not but yesterday
+   That a palmer came this way,
+   Out of Limousin came he,
+   And at ease he might not be,
+   For a passion him possessed
+   That upon his bed he lay,
+   Lay, and tossed, and knew not rest
+   In his pain discomforted.
+   But thou camest by the bed,
+   Where he tossed amid his pain,
+   Holding high thy sweeping train,
+   And thy kirtle of ermine,
+   And thy smock of linen fine,
+   Then these fair white limbs of thine,
+   Did he look on, and it fell
+   That the palmer straight was well,
+   Straight was hale--and comforted,
+   And he rose up from his bed,
+   And went back to his own place,
+   Sound and strong, and full of face!
+   My sweet lady, lily white,
+   Sweet thy footfall, sweet thine eyes,
+   And the mirth of thy replies.
+   Sweet thy laughter, sweet thy face,
+   Sweet thy lips and sweet thy brow,
+   And the touch of thine embrace.
+   Who but doth in thee delight?
+   I for love of thee am bound
+   In this dungeon underground,
+   All for loving thee must lie
+   Here where loud on thee I cry,
+   Here for loving thee must die
+      For thee, my love."
+
+Then say they, speak they, tell they the Tale:
+
+Aucassin was cast into prison as ye have heard tell, and Nicolete, of her
+part, was in the chamber.  Now it was summer time, the month of May, when
+days are warm, and long, and clear, and the night still and serene.
+Nicolete lay one night on her bed, and saw the moon shine clear through a
+window, yea, and heard the nightingale sing in the garden, so she minded
+her of Aucassin her lover whom she loved so well.  Then fell she to
+thoughts of Count Garin de Biaucaire, that hated her to the death;
+therefore deemed she that there she would no longer abide, for that, if
+she were told of, and the Count knew whereas she lay, an ill death would
+he make her die.  Now she knew that the old woman slept who held her
+company.  Then she arose, and clad her in a mantle of silk she had by
+her, very goodly, and took napkins, and sheets of the bed, and knotted
+one to the other, and made therewith a cord as long as she might, so
+knitted it to a pillar in the window, and let herself slip down into the
+garden, then caught up her raiment in both hands, behind and before, and
+kilted up her kirtle, because of the dew that she saw lying deep on the
+grass, and so went her way down through the garden.
+
+Her locks were yellow and curled, her eyes blue and smiling, her face
+featly fashioned, the nose high and fairly set, the lips more red than
+cherry or rose in time of summer, her teeth white and small; her breasts
+so firm that they bore up the folds of her bodice as they had been two
+apples; so slim she was in the waist that your two hands might have
+clipped her, and the daisy flowers that brake beneath her as she went tip-
+toe, and that bent above her instep, seemed black against her feet, so
+white was the maiden.  She came to the postern gate, and unbarred it, and
+went out through the streets of Biaucaire, keeping always on the shadowy
+side, for the moon was shining right clear, and so wandered she till she
+came to the tower where her lover lay.  The tower was flanked with
+buttresses, and she cowered under one of them, wrapped in her mantle.
+Then thrust she her head through a crevice of the tower that was old and
+worn, and so heard she Aucassin wailing within, and making dole and
+lament for the sweet lady he loved so well.  And when she had listened to
+him she began to say:
+
+Here one singeth:
+
+   Nicolete the bright of brow
+   On a pillar leanest thou,
+   All Aucassin's wail dost hear
+   For his love that is so dear,
+   Then thou spakest, shrill and clear,
+   "Gentle knight withouten fear
+   Little good befalleth thee,
+   Little help of sigh or tear,
+   Ne'er shalt thou have joy of me.
+   Never shalt thou win me; still
+   Am I held in evil will
+   Of thy father and thy kin,
+   Therefore must I cross the sea,
+   And another land must win."
+   Then she cut her curls of gold,
+   Cast them in the dungeon hold,
+   Aucassin doth clasp them there,
+   Kissed the curls that were so fair,
+   Them doth in his bosom bear,
+   Then he wept, even as of old,
+      All for his love!
+
+Then say they, speak they, tell they the Tale:
+
+When Aucassin heard Nicolete say that she would pass into a far country,
+he was all in wrath.
+
+"Fair sweet friend," quoth he, "thou shalt not go, for then wouldst thou
+be my death.  And the first man that saw thee and had the might withal,
+would take thee straightway into his bed to be his leman.  And once thou
+camest into a man's bed, and that bed not mine, wit ye well that I would
+not tarry till I had found a knife to pierce my heart and slay myself.
+Nay, verily, wait so long I would not: but would hurl myself on it so
+soon as I could find a wall, or a black stone, thereon would I dash my
+head so mightily, that the eyes would start, and my brain burst.  Rather
+would I die even such a death, than know thou hadst lain in a man's bed,
+and that bed not mine."
+
+"Aucassin," she said, "I trow thou lovest me not as much as thou sayest,
+but I love thee more than thou lovest me."
+
+"Ah, fair sweet friend," said Aucassin, "it may not be that thou shouldst
+love me even as I love thee.  Woman may not love man as man loves woman,
+for a woman's love lies in the glance of her eye, and the bud of her
+breast, and her foot's tip-toe, but the love of man is in his heart
+planted, whence it can never issue forth and pass away."
+
+Now while Aucassin and Nicolete held this parley together, the town's
+guards came down a street, with swords drawn beneath their cloaks, for
+the Count Garin had charged them that if they could take her they should
+slay her.  But the sentinel that was on the tower saw them coming, and
+heard them speaking of Nicolete as they went, and threatening to slay
+her.
+
+"God!" quoth he, "this were great pity to slay so fair a maid!  Right
+great charity it were if I could say aught to her, and they perceive it
+not, and she should be on her guard against them, for if they slay her,
+then were Aucassin, my damoiseau, dead, and that were great pity."
+
+_Here one singeth_:
+
+   Valiant was the sentinel,
+   Courteous, kind, and practised well,
+   So a song did sing and tell
+   Of the peril that befell.
+   "Maiden fair that lingerest here,
+   Gentle maid of merry cheer,
+   Hair of gold, and eyes as clear
+   As the water in a mere,
+   Thou, meseems, hast spoken word
+   To thy lover and thy lord,
+   That would die for thee, his dear;
+   Now beware the ill accord,
+   Of the cloaked men of the sword,
+   These have sworn and keep their word,
+   They will put thee to the sword
+      Save thou take heed!"
+
+Then speak they, say they, tell they the Tale:
+
+"Ha!" quoth Nicolete, "be the soul of thy father and the soul of thy
+mother in the rest of Paradise, so fairly and so courteously hast thou
+spoken me!  Please God, I will be right ware of them, God keep me out of
+their hands."
+
+So she shrank under her mantle into the shadow of the pillar till they
+had passed by, and then took she farewell of Aucassin, and so fared till
+she came unto the castle wall.  Now that wall was wasted and broken, and
+some deal mended, so she clomb thereon till she came between wall and
+fosse, and so looked down, and saw that the fosse was deep and steep,
+whereat she was sore adread.
+
+"Ah God," saith she, "sweet Saviour!  If I let myself fall hence, I shall
+break my neck, and if here I abide, to-morrow they will take me and burn
+me in a fire.  Yet liefer would I perish here than that to-morrow the
+folk should stare on me for a gazing-stock."
+
+Then she crossed herself, and so let herself slip into the fosse, and
+when she had come to the bottom, her fair feet, and fair hands that had
+not custom thereof, were bruised and frayed, and the blood springing from
+a dozen places, yet felt she no pain nor hurt, by reason of the great
+dread wherein she went.  But if she were in cumber to win there, in worse
+was she to win out.  But she deemed that there to abide was of none
+avail, and she found a pike sharpened, that they of the city had thrown
+out to keep the hold.  Therewith made she one stepping place after
+another, till, with much travail, she climbed the wall.  Now the forest
+lay within two crossbow shots, and the forest was of thirty leagues this
+way and that.  Therein also were wild beasts, and beasts serpentine, and
+she feared that if she entered there they would slay her.  But anon she
+deemed that if men found her there they would hale her back into the town
+to burn her.
+
+_Here one singeth_:
+
+   Nicolete, the fair of face,
+   Climbed upon the coping stone,
+   There made she lament and moan
+   Calling on our Lord alone
+   For his mercy and his grace.
+
+   "Father, king of Majesty,
+   Listen, for I nothing know
+   Where to flee or whither go.
+   If within the wood I fare,
+   Lo, the wolves will slay me there,
+   Boars and lions terrible,
+   Many in the wild wood dwell,
+   But if I abide the day,
+   Surely worse will come of it,
+   Surely will the fire be lit
+   That shall burn my body away,
+   Jesus, lord of Majesty,
+   Better seemeth it to me,
+   That within the wood I fare,
+   Though the wolves devour me there
+   Than within the town to go,
+      Ne'er be it so!"
+
+Then speak they, say they, tell they the Tale:
+
+Nicolete made great moan, as ye have heard; then commended she herself to
+God, and anon fared till she came unto the forest.  But to go deep in it
+she dared not, by reason of the wild beasts, and beasts serpentine.  Anon
+crept she into a little thicket, where sleep came upon her, and she slept
+till prime next day, when the shepherds issued forth from the town and
+drove their bestial between wood and water.  Anon came they all into one
+place by a fair fountain which was on the fringe of the forest, thereby
+spread they a mantle, and thereon set bread.  So while they were eating,
+Nicolete wakened, with the sound of the singing birds, and the shepherds,
+and she went unto them, saying, "Fair boys, our Lord keep you!"
+
+"God bless thee," quoth he that had more words to his tongue than the
+rest.
+
+"Fair boys," quoth she, "know ye Aucassin, the son of Count Garin de
+Biaucaire?"
+
+"Yea, well we know him."
+
+"So may God help you, fair boys," quoth she, "tell him there is a beast
+in this forest, and bid him come chase it, and if he can take it, he
+would not give one limb thereof for a hundred marks of gold, nay, nor for
+five hundred, nor for any ransom."
+
+Then looked they on her, and saw her so fair that they were all astonied.
+
+"Will I tell him thereof?" quoth he that had more words to his tongue
+than the rest; "foul fall him who speaks of the thing or tells him the
+tidings.  These are but visions ye tell of, for there is no beast so
+great in this forest, stag, nor lion, nor boar, that one of his limbs is
+worth more than two deniers, or three at the most, and ye speak of such
+great ransom.  Foul fall him that believes your word, and him that
+telleth Aucassin.  Ye be a Fairy, and we have none liking for your
+company, nay, hold on your road."
+
+"Nay, fair boys," quoth she, "nay, ye will do my bidding.  For this beast
+is so mighty of medicine that thereby will Aucassin be healed of his
+torment.  And lo!  I have five sols in my purse, take them, and tell him:
+for within three days must he come hunting it hither, and if within three
+days he find it not, never will he be healed of his torment."
+
+"My faith," quoth he, "the money will we take, and if he come hither we
+will tell him, but seek him we will not."
+
+"In God's name," quoth she; and so took farewell of the shepherds, and
+went her way.
+
+_Here singeth one_:
+
+   Nicolete the bright of brow
+   From the shepherds doth she pass
+   All below the blossomed bough
+   Where an ancient way there was,
+   Overgrown and choked with grass,
+   Till she found the cross-roads where
+   Seven paths do all way fare,
+   Then she deemeth she will try,
+   Should her lover pass thereby,
+   If he love her loyally.
+   So she gathered white lilies,
+   Oak-leaf, that in green wood is,
+   Leaves of many a branch I wis,
+   Therewith built a lodge of green,
+   Goodlier was never seen,
+   Swore by God who may not lie,
+   "If my love the lodge should spy,
+   He will rest awhile thereby
+   If he love me loyally."
+   Thus his faith she deemed to try,
+   "Or I love him not, not I,
+      Nor he loves me!"
+
+Then speak they, say they, tell they the Tale:
+
+Nicolete built her lodge of boughs, as ye have heard, right fair and
+feteously, and wove it well, within and without, of flowers and leaves.
+So lay she hard by the lodge in a deep coppice to know what Aucassin will
+do.  And the cry and the bruit went abroad through all the country and
+all the land, that Nicolete was lost.  Some told that she had fled, and
+some that the Count Garin had let slay her.  Whosoever had joy thereof,
+no joy had Aucassin.  And the Count Garin, his father, had taken him out
+of prison, and had sent for the knights of that land, and the ladies, and
+let make a right great feast, for the comforting of Aucassin his son.  Now
+at the high time of the feast, was Aucassin leaning from a gallery, all
+woful and discomforted.  Whatsoever men might devise of mirth, Aucassin
+had no joy thereof, nor no desire, for he saw not her that he loved.  Then
+a knight looked on him, and came to him, and said:
+
+"Aucassin, of that sickness of thine have I been sick, and good counsel
+will I give thee, if thou wilt hearken to me--"
+
+"Sir," said Aucassin, "gramercy, good counsel would I fain hear."
+
+"Mount thy horse," quoth he, "and go take thy pastime in yonder forest,
+there wilt thou see the good flowers and grass, and hear the sweet birds
+sing.  Perchance thou shalt hear some word, whereby thou shalt be the
+better."
+
+"Sir," quoth Aucassin, "gramercy, that will I do."
+
+He passed out of the hall, and went down the stairs, and came to the
+stable where his horse was.  He let saddle and bridle him, and mounted,
+and rode forth from the castle, and wandered till he came to the forest,
+so rode till he came to the fountain and found the shepherds at point of
+noon.  And they had a mantle stretched on the grass, and were eating
+bread, and making great joy.
+
+_Here one singeth_:
+
+   There were gathered shepherds all,
+   Martin, Esmeric, and Hal,
+   Aubrey, Robin, great and small.
+   Saith the one, "Good fellows all,
+   God keep Aucassin the fair,
+   And the maid with yellow hair,
+   Bright of brow and eyes of vair.
+   She that gave us gold to ware.
+   Cakes therewith to buy ye know,
+   Goodly knives and sheaths also.
+   Flutes to play, and pipes to blow,
+      May God him heal!"
+
+Here speak they, say they, tell they the Tale:
+
+When Aucassin heard the shepherds, anon he bethought him of Nicolete, his
+sweet lady he loved so well, and he deemed that she had passed thereby;
+then set he spurs to his horse, and so came to the shepherds.
+
+"Fair boys, God be with you."
+
+"God bless you," quoth he that had more words to his tongue than the
+rest.
+
+"Fair boys," quoth Aucassin, "say the song again that anon ye sang."
+
+"Say it we will not," quoth he that had more words to his tongue than the
+rest, "foul fall him who will sing it again for you, fair sir!"
+
+"Fair boys," quoth Aucassin, "know ye me not?"
+
+"Yea, we know well that you are Aucassin, out damoiseau, natheless we be
+not your men, but the Count's."
+
+"Fair boys, yet sing it again, I pray you."
+
+"Hearken! by the Holy Heart," quoth he, "wherefore should I sing for you,
+if it likes me not?  Lo, there is no such rich man in this country,
+saving the body of Garin the Count, that dare drive forth my oxen, or my
+cows, or my sheep, if he finds them in his fields, or his corn, lest he
+lose his eyes for it, and wherefore should I sing for you, if it likes me
+not?"
+
+"God be your aid, fair boys, sing it ye will, and take ye these ten sols
+I have here in a purse."
+
+"Sir, the money will we take, but never a note will I sing, for I have
+given my oath, but I will tell thee a plain tale, if thou wilt."
+
+"By God," saith Aucassin, "I love a plain tale better than naught."
+
+"Sir, we were in this place, a little time agone, between prime and
+tierce, and were eating our bread by this fountain, even as now we do,
+and a maid came past, the fairest thing in the world, whereby we deemed
+that she should be a fay, and all the wood shone round about her.  Anon
+she gave us of that she had, whereby we made covenant with her, that if
+ye came hither we would bid you hunt in this forest, wherein is such a
+beast that, an ye might take him, ye would not give one limb of him for
+five hundred marks of silver, nor for no ransom; for this beast is so
+mighty of medicine, that, an ye could take him, ye should be healed of
+your torment, and within three days must ye take him, and if ye take him
+not then, never will ye look on him.  So chase ye the beast, an ye will,
+or an ye will let be, for my promise have I kept with her."
+
+"Fair boys," quoth Aucassin, "ye have said enough.  God grant me to find
+this quarry."
+
+_Here one singeth_:
+
+   Aucassin when he had heard,
+   Sore within his heart was stirred,
+   Left the shepherds on that word,
+   Far into the forest spurred
+   Rode into the wood; and fleet
+   Fled his horse through paths of it,
+   Three words spake he of his sweet,
+   "Nicolete the fair, the dear,
+   'Tis for thee I follow here
+   Track of boar, nor slot of deer,
+   But thy sweet body and eyes so clear,
+   All thy mirth and merry cheer,
+   That my very heart have slain,
+   So please God to me maintain
+   I shall see my love again,
+      Sweet sister, friend!"
+
+Then speak they, say they, tell they the Tale:
+
+Aucassin fared through the forest from path to path after Nicolete, and
+his horse bare him furiously.  Think ye not that the thorns him spared,
+nor the briars, nay, not so, but tare his raiment, that scarce a knot
+might be tied with the soundest part thereof, and the blood sprang from
+his arms, and flanks, and legs, in forty places, or thirty, so that
+behind the Childe men might follow on the track of his blood in the
+grass.  But so much he went in thoughts of Nicolete, his lady sweet, that
+he felt no pain nor torment, and all the day hurled through the forest in
+this fashion nor heard no word of her.  And when he saw Vespers draw
+nigh, he began to weep for that he found her not.  All down an old road,
+and grassgrown he fared, when anon, looking along the way before him, he
+saw such an one as I shall tell you.  Tall was he, and great of growth,
+laidly and marvellous to look upon: his head huge, and black as charcoal,
+and more than the breadth of a hand between his two eyes, and great
+cheeks, and a big nose and broad, big nostrils and ugly, and thick lips
+redder than a collop, and great teeth yellow and ugly, and he was shod
+with hosen and shoon of bull's hide, bound with cords of bark over the
+knee, and all about him a great cloak twy-fold, and he leaned on a
+grievous cudgel, and Aucassin came unto him, and was afraid when he
+beheld him.
+
+"Fair brother, God aid thee."
+
+"God bless you," quoth he.
+
+"As God he helpeth thee, what makest thou here?"
+
+"What is that to thee?"
+
+"Nay, naught, naught," saith Aucassin, "I ask but out of courtesy."
+
+"But for whom weepest thou," quoth he, "and makest such heavy lament?
+Certes, were I as rich a man as thou, the whole world should not make me
+weep."
+
+"Ha! know ye me?" saith Aucassin.
+
+"Yea, I know well that ye be Aucassin, the son of the Count, and if ye
+tell me for why ye weep, then will I tell you what I make here."
+
+"Certes," quoth Aucassin, "I will tell you right gladly.  Hither came I
+this morning to hunt in this forest; and with me a white hound, the
+fairest in the world; him have I lost, and for him I weep."
+
+"By the Heart our Lord bare in his breast," quoth he, "are ye weeping for
+a stinking hound?  Foul fall him that holds thee high henceforth! for
+there is no such rich man in the land, but if thy father asked it of him,
+he would give thee ten, or fifteen, or twenty, and be the gladder for it.
+But I have cause to weep and make dole."
+
+"Wherefore so, brother?"
+
+"Sir, I will tell thee.  I was hireling to a rich vilain, and drove his
+plough; four oxen had he.  But three days since came on me great
+misadventure, whereby I lost the best of mine oxen, Roger, the best of my
+team.  Him go I seeking, and have neither eaten nor drunken these three
+days, nor may I go to the town, lest they cast me into prison, seeing
+that I have not wherewithal to pay.  Out of all the wealth of the world
+have I no more than ye see on my body.  A poor mother bare me, that had
+no more but one wretched bed; this have they taken from under her, and
+she lies in the very straw.  This ails me more than mine own case, for
+wealth comes and goes; if now I have lost, another tide will I gain, and
+will pay for mine ox whenas I may; never for that will I weep.  But you
+weep for a stinking hound.  Foul fall whoso thinks well of thee!"
+
+"Certes thou art a good comforter, brother, blessed be thou!  And of what
+price was thine ox?"
+
+"Sir, they ask me twenty sols for him, whereof I cannot abate one doit."
+
+"Nay, then," quoth Aucassin, "take these twenty sols I have in my purse,
+and pay for thine ox."
+
+"Sir," saith he, "gramercy.  And God give thee to find that thou
+seekest."
+
+So they parted each from other, and Aucassin rode on: the night was fair
+and still, and so long he went that he came to the lodge of boughs, that
+Nicolete had builded and woven within and without, over and under, with
+flowers, and it was the fairest lodge that might be seen.  When Aucassin
+was ware of it, he stopped suddenly, and the light of the moon fell
+therein.
+
+"God!" quoth Aucassin, "here was Nicolete, my sweet lady, and this lodge
+builded she with her fair hands.  For the sweetness of it, and for love
+of her, will I alight, and rest here this night long."
+
+He drew forth his foot from the stirrup to alight, and the steed was
+great and tall.  He dreamed so much on Nicolete his right sweet lady,
+that he slipped on a stone, and drave his shoulder out of his place.  Then
+knew he that he was hurt sore, natheless he bore him with what force he
+might, and fastened with the other hand the mare's son to a thorn.  Then
+turned he on his side, and crept backwise into the lodge of boughs.  And
+he looked through a gap in the lodge and saw the stars in heaven, and one
+that was brighter than the rest; so began he to say:
+
+_Here one singeth_:
+
+   "Star, that I from far behold,
+   Star, the Moon calls to her fold,
+   Nicolete with thee doth dwell,
+   My sweet love with locks of gold,
+   God would have her dwell afar,
+   Dwell with him for evening star,
+   Would to God, whate'er befell,
+   Would that with her I might dwell.
+   I would clip her close and strait,
+   Nay, were I of much estate,
+   Some king's son desirable,
+   Worthy she to be my mate,
+   Me to kiss and clip me well,
+      Sister, sweet friend!"
+
+So speak they, say they, tell they the Tale:
+
+When Nicolete heard Aucassin, right so came she unto him, for she was not
+far away.  She passed within the lodge, and threw her arms about his
+neck, and clipped and kissed him.
+
+"Fair sweet friend, welcome be thou."
+
+"And thou, fair sweet love, be thou welcome."
+
+So either kissed and clipped the other, and fair joy was them between.
+
+"Ha! sweet love," quoth Aucassin, "but now was I sore hurt, and my
+shoulder wried, but I take no force of it, nor have no hurt therefrom
+since I have thee."
+
+Right so felt she his shoulder and found it was wried from its place.  And
+she so handled it with her white hands, and so wrought in her surgery,
+that by God's will who loveth lovers, it went back into its place.  Then
+took she flowers, and fresh grass, and leaves green, and bound these
+herbs on the hurt with a strip of her smock, and he was all healed.
+
+"Aucassin," saith she, "fair sweet love, take counsel what thou wilt do.
+If thy father let search this forest to-morrow, and men find me here,
+they will slay me, come to thee what will."
+
+"Certes, fair sweet love, therefore should I sorrow heavily, but, an if I
+may, never shall they take thee."
+
+Anon gat he on his horse, and his lady before him, kissing and clipping
+her, and so rode they at adventure.
+
+_Here one singeth_:
+
+   Aucassin the frank, the fair,
+   Aucassin of the yellow hair,
+   Gentle knight, and true lover,
+   From the forest doth he fare,
+   Holds his love before him there,
+   Kissing cheek, and chin, and eyes,
+   But she spake in sober wise,
+   "Aucassin, true love and fair,
+   To what land do we repair?"
+   Sweet my love, I take no care,
+   Thou art with me everywhere!
+   So they pass the woods and downs,
+   Pass the villages and towns,
+   Hills and dales and open land,
+   Came at dawn to the sea sand,
+   Lighted down upon the strand,
+      Beside the sea.
+
+Then say they, speak they, tell they the Tale:
+
+Aucassin lighted down and his love, as ye have heard sing.  He held his
+horse by the bridle, and his lady by the hands; so went they along the
+sea shore, and on the sea they saw a ship, and he called unto the
+sailors, and they came to him.  Then held he such speech with them, that
+he and his lady were brought aboard that ship, and when they were on the
+high sea, behold a mighty wind and tyrannous arose, marvellous and great,
+and drave them from land to land, till they came unto a strange country,
+and won the haven of the castle of Torelore.  Then asked they what this
+land might be, and men told them that it was the country of the King of
+Torelore.  Then he asked what manner of man was he, and was there war
+afoot, and men said,
+
+"Yea, and mighty!"
+
+Therewith took he farewell of the merchants, and they commended him to
+God.  Anon Aucassin mounted his horse, with his sword girt, and his lady
+before him, and rode at adventure till he was come to the castle.  Then
+asked he where the King was, and they said that he was in childbed.
+
+"Then where is his wife?"
+
+And they told him she was with the host, and had led with her all the
+force of that country.
+
+Now when Aucassin heard that saying, he made great marvel, and came into
+the castle, and lighted down, he and his lady, and his lady held his
+horse.  Right so went he up into the castle, with his sword girt, and
+fared hither and thither till he came to the chamber where the King was
+lying.
+
+_Here one singeth_:
+
+   Aucassin the courteous knight
+   To the chamber went forthright,
+   To the bed with linen dight
+   Even where the King was laid.
+   There he stood by him and said:
+   "Fool, what mak'st thou here abed?"
+   Quoth the King: "I am brought to bed
+   Of a fair son, and anon
+   When my month is over and gone,
+   And my healing fairly done,
+   To the Minster will I fare
+   And will do my churching there,
+   As my father did repair.
+   Then will sally forth to war,
+   Then will drive my foes afar
+      From my countrie!"
+
+Then speak they, say they, tell they the Tale:
+
+When Aucassin heard the King speak on this wise, he took all the sheets
+that covered him, and threw them all abroad about the chamber.  Then saw
+he behind him a cudgel, and caught it into his hand, and turned, and took
+the King, and beat him till he was well-nigh dead.
+
+"Ha! fair sir," quoth the King, "what would you with me?  Art thou beside
+thyself, that beatest me in mine own house?"
+
+"By God's heart," quoth Aucassin, "thou ill son of an ill wench, I will
+slay thee if thou swear not that never shall any man in all thy land lie
+in of child henceforth for ever."
+
+So he did that oath, and when he had done it,
+
+"Sir," said Aucassin, "bring me now where thy wife is with the host."
+
+"Sir, with good will," quoth the King.
+
+He mounted his horse, and Aucassin gat on his own, and Nicolete abode in
+the Queen's chamber.  Anon rode Aucassin and the King even till they came
+to that place where the Queen was, and lo! men were warring with baked
+apples, and with eggs, and with fresh cheeses, and Aucassin began to look
+on them, and made great marvel.
+
+_Here one singeth_:
+
+   Aucassin his horse doth stay,
+   From the saddle watched the fray,
+   All the stour and fierce array;
+   Right fresh cheeses carried they,
+   Apples baked, and mushrooms grey,
+   Whoso splasheth most the ford
+   He is master called and lord.
+   Aucassin doth gaze awhile,
+   Then began to laugh and smile
+      And made game.
+
+Then speak they, say they, tell they the Tale:
+
+When Aucassin beheld these marvels, he came to the King, and said, "Sir,
+be these thine enemies?"
+
+"Yea, Sir," quoth the King.
+
+"And will ye that I should avenge you of them?"
+
+"Yea," quoth he, "with all my heart."
+
+Then Aucassin put hand to sword, and hurled among them, and began to
+smite to the right hand and the left, and slew many of them.  And when
+the King saw that he slew them, he caught at his bridle and said,
+
+"Ha! fair sir, slay them not in such wise."
+
+"How," quoth Aucassin, "will ye not that I should avenge you of them?"
+
+"Sir," quoth the King, "overmuch already hast thou avenged me.  It is
+nowise our custom to slay each other."
+
+Anon turned they and fled.  Then the King and Aucassin betook them again
+to the castle of Torelore, and the folk of that land counselled the King
+to put Aucassin forth, and keep Nicolete for his son's wife, for that she
+seemed a lady high of lineage.  And Nicolete heard them, and had no joy
+of it, so began to say:
+
+_Here singeth one_:
+
+   Thus she spake the bright of brow:
+   "Lord of Torelore and king,
+   Thy folk deem me a light thing,
+   When my love doth me embrace,
+   Fair he finds me, in good case,
+   Then am I in such derray,
+   Neither harp, nor lyre, nor lay,
+   Dance nor game, nor rebeck play
+      Were so sweet."
+
+Then speak they, say they, tell they the Tale:
+
+Aucassin dwelt in the castle of Torelore, in great ease and great
+delight, for that he had with him Nicolete his sweet love, whom he loved
+so well.  Now while he was in such pleasure and such delight, came a
+troop of Saracens by sea, and laid siege to the castle and took it by
+main strength.  Anon took they the substance that was therein and carried
+off the men and maidens captives.  They seized Nicolete and Aucassin, and
+bound Aucassin hand and foot, and cast him into one ship, and Nicolete
+into another.  Then rose there a mighty wind over sea, and scattered the
+ships.  Now that ship wherein was Aucassin, went wandering on the sea,
+till it came to the castle of Biaucaire, and the folk of the country ran
+together to wreck her, and there found they Aucassin, and they knew him
+again.  So when they of Biaucaire saw their damoiseau, they made great
+joy of him, for Aucassin had dwelt full three years in the castle of
+Torelore, and his father and mother were dead.  So the people took him to
+the castle of Biaucaire, and there were they all his men.  And he held
+the land in peace.
+
+_Here singeth one_:
+
+   Lo ye, Aucassin hath gone
+   To Biaucaire that is his own,
+   Dwelleth there in joy and ease
+   And the kingdom is at peace.
+   Swears he by the Majesty
+   Of our Lord that is most high,
+   Rather would he they should die
+   All his kin and parentry,
+   So that Nicolete were nigh.
+   "Ah sweet love, and fair of brow,
+   I know not where to seek thee now,
+   God made never that countrie,
+   Not by land, and not by sea,
+   Where I would not search for thee,
+      If that might be!"
+
+Then speak they, say they, tell they the Tale:
+
+Now leave we Aucassin, and speak we of Nicolete.  The ship wherein she
+was cast pertained to the King of Carthage, and he was her father, and
+she had twelve brothers, all princes or kings.  When they beheld
+Nicolete, how fair she was, they did her great worship, and made much joy
+of her, and many times asked her who she was, for surely seemed she a
+lady of noble line and high parentry.  But she might not tell them of her
+lineage, for she was but a child when men stole her away.  So sailed they
+till they won the City of Carthage, and when Nicolete saw the walls of
+the castle, and the country-side, she knew that there had she been
+nourished and thence stolen away, being but a child.  Yet was she not so
+young a child but that well she knew she had been daughter of the King of
+Carthage; and of her nurture in that city.
+
+_Here singeth one_:
+
+   Nicolete the good and true
+   To the land hath come anew,
+   Sees the palaces and walls,
+   And the houses and the halls!
+   Then she spake and said, "Alas!
+   That of birth so great I was,
+   Cousin of the Amiral
+   And the very child of him
+   Carthage counts King of Paynim,
+   Wild folk hold me here withal;
+   Nay Aucassin, love of thee
+   Gentle knight, and true, and free,
+   Burns and wastes the heart of me.
+   Ah God grant it of his grace,
+   That thou hold me, and embrace,
+   That thou kiss me on the face
+      Love and lord!"
+
+Then speak they, say they, tell they the Tale:
+
+When the King of Carthage heard Nicolete speak in this wise, he cast his
+arms about her neck.
+
+"Fair sweet love," saith he, "tell me who thou art, and be not adread of
+me."
+
+"Sir," said she, "I am daughter to the King of Carthage, and was taken,
+being then a little child, it is now fifteen years gone."
+
+When all they of the court heard her speak thus, they knew well that she
+spake sooth: so made they great joy of her, and led her to the castle in
+great honour, as the King's daughter.  And they would have given her to
+her lord a King of Paynim, but she had no mind to marry.  There dwelt she
+three days or four.  And she considered by what means she might seek for
+Aucassin.  Then she got her a viol, and learned to play on it, till they
+would have married her on a day to a great King of Paynim, and she stole
+forth by night, and came to the sea-port, and dwelt with a poor woman
+thereby.  Then took she a certain herb, and therewith smeared her head
+and her face, till she was all brown and stained.  And she let make coat,
+and mantle, and smock, and hose, and attired herself as if she had been a
+harper.  So took she the viol and went to a mariner, and so wrought on
+him that he took her aboard his vessel.  Then hoisted they sail, and
+fared on the high seas even till they came to the land of Provence.  And
+Nicolete went forth and took the viol, and went playing through all that
+country, even till she came to the castle of Biaucaire, where Aucassin
+lay.
+
+_Here singeth one_:
+
+   At Biaucaire below the tower
+   Sat Aucassin, on an hour,
+   Heard the bird, and watched the flower,
+   With his barons him beside,
+   Then came on him in that tide,
+   The sweet influence of love
+   And the memory thereof;
+   Thought of Nicolete the fair,
+   And the dainty face of her
+   He had loved so many years,
+   Then was he in dule and tears!
+   Even then came Nicolete
+   On the stair a foot she set,
+   And she drew the viol bow
+   Through the strings and chanted so;
+   "Listen, lords and knights, to me,
+   Lords of high or low degree,
+   To my story list will ye
+   All of Aucassin and her
+   That was Nicolete the fair?
+   And their love was long to tell
+   Deep woods through he sought her well,
+   Paynims took them on a day
+   In Torelore and bound they lay.
+   Of Aucassin nought know we,
+   But fair Nicolete the free
+   Now in Carthage doth she dwell,
+   There her father loves her well,
+   Who is king of that countrie.
+   Her a husband hath he found,
+   Paynim lord that serves Mahound!
+   Ne'er with him the maid will go,
+   For she loves a damoiseau,
+   Aucassin, that ye may know,
+   Swears to God that never mo
+   With a lover will she go
+   Save with him she loveth so
+      In long desire."
+
+So speak they, say they, tell they the Tale:
+
+When Aucassin heard Nicolete speak in this wise, he was right joyful, and
+drew her on one side, and spoke, saying:
+
+"Sweet fair friend, know ye nothing of this Nicolete, of whom ye have
+thus sung?"
+
+"Yea, Sir, I know her for the noblest creature, and the most gentle, and
+the best that ever was born on ground.  She is daughter to the King of
+Carthage that took her there where Aucassin was taken, and brought her
+into the city of Carthage, till he knew that verily she was his own
+daughter, whereon he made right great mirth.  Anon wished he to give her
+for her lord one of the greatest kings of all Spain, but she would rather
+let herself be hanged or burned, than take any lord, how great soever."
+
+"Ha! fair sweet friend," quoth the Count Aucassin, "if thou wilt go into
+that land again, and bid her come and speak to me, I will give thee of my
+substance, more than thou wouldst dare to ask or take.  And know ye, that
+for the sake of her, I have no will to take a wife, howsoever high her
+lineage.  So wait I for her, and never will I have a wife, but her only.
+And if I knew where to find her, no need would I have to seek her."
+
+"Sir," quoth she, "if ye promise me that, I will go in quest of her for
+your sake, and for hers, that I love much."
+
+So he sware to her, and anon let give her twenty livres, and she departed
+from him, and he wept for the sweetness of Nicolete.  And when she saw
+him weeping, she said:
+
+"Sir, trouble not thyself so much withal.  For in a little while shall I
+have brought her into this city, and ye shall see her."
+
+When Aucassin heard that, he was right glad thereof.  And she departed
+from him, and went into the city to the house of the Captain's wife, for
+the Captain her father in God was dead.  So she dwelt there, and told all
+her tale; and the Captain's wife knew her, and knew well that she was
+Nicolete that she herself had nourished.  Then she let wash and bathe
+her, and there rested she eight full days.  Then took she an herb that
+was named _Eyebright_ and anointed herself therewith, and was as fair as
+ever she had been all the days of her life.  Then she clothed herself in
+rich robes of silk whereof the lady had great store, and then sat herself
+in the chamber on a silken coverlet, and called the lady and bade her go
+and bring Aucassin her love, and she did even so.  And when she came to
+the Palace she found Aucassin weeping, and making lament for Nicolete his
+love, for that she delayed so long.  And the lady spake unto him and
+said:
+
+"Aucassin, sorrow no more, but come thou on with me, and I will shew thee
+the thing in the world that thou lovest best; even Nicolete thy dear
+love, who from far lands hath come to seek of thee."  And Aucassin was
+right glad.
+
+_Here singeth one_:
+
+   When Aucassin heareth now
+   That his lady bright of brow
+   Dwelleth in his own countrie,
+   Never man was glad as he.
+   To her castle doth he hie
+   With the lady speedily,
+   Passeth to the chamber high,
+   Findeth Nicolete thereby.
+   Of her true love found again
+   Never maid was half so fain.
+   Straight she leaped upon her feet:
+   When his love he saw at last,
+   Arms about her did he cast,
+   Kissed her often, kissed her sweet
+   Kissed her lips and brows and eyes.
+   Thus all night do they devise,
+   Even till the morning white.
+   Then Aucassin wedded her,
+   Made her Lady of Biaucaire.
+   Many years abode they there,
+   Many years in shade or sun,
+   In great gladness and delight
+   Ne'er hath Aucassin regret
+   Nor his lady Nicolete.
+   Now my story all is done,
+      Said and sung!
+
+
+
+
+NOTES
+
+
+"THE BLENDING"--of alternate prose and verse--"is not unknown in various
+countries."  Thus in Dr. Steere's _Swahili Tales_ (London, 1870), p. vii.
+we read: "It is a constant characteristic of popular native tales to have
+a sort of burden, which all join in singing.  Frequently the skeleton of
+the story seems to be contained in these snatches of singing, which the
+story-teller connects by an extemporized account of the intervening
+history . . . Almost all these stories had sung parts, and of some of
+these, even those who sung them could scarcely explain the meaning . . .
+I have heard stories partly told, in which the verse parts were in the
+Yao and Nyamwezi languages."  The examples given (_Sultan Majnun_) are
+only verses supposed to be chanted by the characters in the tale.  It is
+improbable that the Yaos and Nyamwezis borrowed the custom of inserting
+verse into prose tales from Arab literature, where the intercalated verse
+is usually of a moral and reflective character.
+
+Mr. Jamieson, in _Illustrations of Northern Antiquities_ (p. 379),
+preserved a _cante-fable_ called _Rosmer Halfman_, or _The Merman
+Rosmer_.  Mr. Motherwell remarks (_Minstrelsy_, Glasgow, 1827, p. xv.):
+"Thus I have heard the ancient ballad of _Young Beichan and Susy Pye_
+dilated by a story-teller into a tale of remarkable dimensions--a
+paragraph of prose and then a _screed_ of rhyme alternately given."  The
+example published by Mr. Motherwell gives us the very form _of Aucassin
+and Nicolete_, surviving in Scotch folk lore:-
+
+"Well ye must know that in the Moor's Castle, there was a mafsymore,
+which is a dark deep dungeon for keeping prisoners.  It was twenty feet
+below the ground, and into this hole they closed poor Beichan.  There he
+stood, night and day, up to his waist in puddle-water; but night or day
+it was all one to him, for no ae styme of light ever got in.  So he lay
+there a lang and weary while, and thinking on his heavy weird, he made a
+murnfu' sang to pass the time--and this was the sang that he made, and
+grat when he sang it, for he never thought of escaping from the
+mafsymore, or of seeing his ain countrie again:
+
+   "My hounds they all run masterless,
+   My hawks they flee from tree to tree;
+   My youngest brother will heir my lands,
+   And fair England again I'll never see.
+
+   "O were I free as I hae been,
+   And my ship swimming once more on sea,
+   I'd turn my face to fair England,
+   And sail no more to a strange countrie."
+
+"Now the cruel Moor had a beautiful daughter called Susy Pye, who was
+accustomed to take a walk every morning in her garden, and as she was
+walking ae day she heard the sough o' Beichan's sang, coming as it were
+from below the ground."
+
+All this is clearly analogous in form no less than in matter to our
+_cante-fable_.  Mr. Motherwell speaks of _fabliaux_, intended partly for
+recitation, and partly for being sung; but does not refer by name to
+_Aucassin and Nicolete_.  If we may judge by analogy, then, the form of
+the _cante-fable_ is probably an early artistic adaptation of a popular
+narrative method.
+
+STOUR; an ungainly word enough, familiar in Scotch with the sense of wind-
+driven dust, it may be dust of battle.  The French is _Estor_.
+
+BIAUCAIRE, opposite Tarascon, also celebrated for its local hero, the
+deathless Tartarin.  There is a great deal of learning about Biaucaire;
+probably the author of the _cante-fable_ never saw the place, but he need
+not have thought it was on the sea-shore, as (p. 39) he seems to do.
+There he makes the people of Beaucaire set out to wreck a ship.  Ships do
+not go up the Rhone, and get wrecked there, after escaping the perils of
+the deep.
+
+On p. 42, the poet clearly thinks that Nicolete, after landing from her
+barque, had to travel a considerable distance before reaching Biaucaire.
+The fact is that the poet is perfectly reckless of geography, like him
+who wrote of the set-shore of Bohemia.
+
+PAINTED WONDROUSLY.  No one knows what is really meant by a _miramie_.
+
+PLENTIFUL LACK OF COMFORT: rather freely for _Mout i aries peu conquis_.
+
+MALENGIN: a favourite word of Sir Thomas Malory: "mischievous intent."
+
+FEATS OF YOUTH: ENFANCES, the regular term for the romance of a knight's
+early prowess.
+
+TWO APPLES; nois gauges in the original.  But _walnuts_ sound inadequate.
+
+Here the MS. has a _lacuna_.
+
+There is much useless learning about the realm of _Torelore_.  It is
+somewhere between Kor and Laputa.  The custom of the _Couvade_ was dimly
+known to the poet.  The feigned lying-in of the father may have been
+either a recognition of paternity (as in the sham birth whereby Hera
+adopted Heracles) or may have been caused by the belief that the health
+of the father at the time of the child's birth affected that of the
+child.  Either origin of the _Couvade_ is consistent with early beliefs
+and customs.
+
+EYEBRIGHT.  This is a purely fanciful rendering of _Esclaire_.
+
+
+
+
+Footnotes:
+
+
+{1}  Gaston Paris, in M. Bida's edition, p. xii.  Paris, 1878.  The
+blending is not unknown in various countries.  See note at end of
+Translation.
+
+{2}  I know not if I unconsciously transferred this criticism from M.
+Gaston Paris.
+
+{3}  "Love in Idleness."  London, 1883, p. 169.
+
+{4}  Theocritus, x. 37.
+
+{5}  I have not thought it necessary to discuss the conjectures,--they
+are no more,--about the Greek or Arabic origin of the cante-fable, about
+the derivation of Aucassin's name, the supposed copying of _Floire et
+Blancheflor_, the longitude and latitude of the land of Torelore, and so
+forth.  In truth "we are in Love's land to-day," where the ships sail
+without wind or compass, like the barques of the Phaeacians.  Brunner and
+Suchier add nothing positive to our knowledge, and M. Gaston Paris
+pretends to cast but little light on questions which it is too curious to
+consider at all.  In revising the translation I have used with profit the
+versions of M. Bida, of Mr. Bourdillon, the glossary of Suchier, and Mr.
+Bourdillon's glossary.  As for the style I have attempted, if not Old
+English, at least English which is elderly, with a memory of Malory.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK AUCASSIN AND NICOLETE***
+
+
+******* This file should be named 1578.txt or 1578.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/1/5/7/1578
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.gutenberg.net/fundraising/pglaf.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://www.gutenberg.net/about/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://www.gutenberg.net/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit:
+http://www.gutenberg.net/fundraising/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

@@ -1,0 +1,6214 @@
+The Project Gutenberg EBook of When We Dead Awaken, by Henrik Ibsen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: When We Dead Awaken
+
+Author: Henrik Ibsen
+
+Commentator: William Archer
+
+Translator: William Archer
+
+Release Date: December, 2003 [EBook #4782]
+Posting Date: February 17, 2010
+
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK WHEN WE DEAD AWAKEN ***
+
+
+
+
+Produced by Sonia K
+
+
+
+
+
+WHEN WE DEAD AWAKEN
+
+By Henrik Ibsen.
+
+
+Introduction and translation by William Archer.
+
+
+
+
+INTRODUCTION.
+
+
+From _Pillars of Society_ to _John Gabriel Borkman_, Ibsen's plays had
+followed each other at regular intervals of two years, save when his
+indignation over the abuse heaped upon _Ghosts_ reduced to a single
+year the interval between that play and _An Enemy of the People_. _John
+Gabriel Borkman_ having appeared in 1896, its successor was expected in
+1898; but Christmas came and brought no rumour of a new play. In a
+man now over seventy, this breach of a long-established habit seemed
+ominous. The new National Theatre in Christiania was opened in September
+of the following year; and when I then met Ibsen (for the last time) he
+told me that he was actually at work on a new play, which he thought of
+calling a "Dramatic Epilogue." "He wrote _When We Dead Awaken_,"
+says Dr. Elias, "with such labour and such passionate agitation, so
+spasmodically and so feverishly, that those around him were almost
+alarmed. He must get on with it, he must get on! He seemed to hear
+the beating of dark pinions over his head. He seemed to feel the grim
+Visitant, who had accompanied Alfred Allmers on the mountain paths,
+already standing behind him with uplifted hand. His relatives are firmly
+convinced that he knew quite clearly that this would be his last play,
+that he was to write no more. And soon the blow fell."
+
+_When We Dead Awaken_ was published very shortly before Christmas 1899.
+He had still a year of comparative health before him. We find him in
+March 1900, writing to Count Prozor: "I cannot say yet whether or not
+I shall write another drama; but if I continue to retain the vigour of
+body and mind which I at present enjoy, I do not imagine that I shall be
+able to keep permanently away from the old battlefields. However, if I
+were to make my appearance again, it would be with new weapons and
+in new armour." Was he hinting at the desire, which he had long ago
+confessed to Professor Herford, that his last work should be a drama in
+verse? Whatever his dream, it was not to be realised. His last letter
+(defending his attitude of philosophic impartiality with regard to the
+South African war) is dated December 9, 1900. With the dawn of the new
+century, the curtain descended upon the mind of the great dramatic poet
+of the age which had passed away.
+
+_When We Dead Awaken_ was acted during 1900 at most of the leading
+theatres in Scandinavia and Germany. In some German cities (notably
+in Frankfort on Main) it even attained a considerable number of
+representatives. I cannot learn, however, that it has anywhere held the
+stage. It was produced in London, by the State Society, at the Imperial
+Theatre, on January 25 and 26, 1903. Mr. G. S. Titheradge played Rubek,
+Miss Henrietta Watson Irene, Miss Mabel Hackney Maia, and Mr. Laurence
+Irving Ulfheim. I find no record of any American performance.
+
+In the above-mentioned letter to Count Prozor, Ibsen confirmed that
+critic's conjecture that "the series which ends with the Epilogue really
+began with _The Master Builder_." As the last confession, so to speak,
+of a great artist, the Epilogue will always be read with interest. It
+contains, moreover, many flashes of the old genius, many strokes of the
+old incommunicable magic. One may say with perfect sincerity that there
+is more fascination in the dregs of Ibsen's mind than in the "first
+sprightly running" of more common-place talents. But to his sane
+admirers the interest of the play must always be melancholy, because it
+is purely pathological. To deny this is, in my opinion, to cast a slur
+over all the poet's previous work, and in great measure to justify the
+criticisms of his most violent detractors. For _When We Dead Awaken_ is
+very like the sort of play that haunted the "anti-Ibsenite" imagination
+in the year 1893 or thereabouts. It is a piece of self-caricature, a
+series of echoes from all the earlier plays, an exaggeration of manner
+to the pitch of mannerism. Moreover, in his treatment of his symbolic
+motives, Ibsen did exactly what he had hitherto, with perfect justice,
+plumed himself upon never doing: he sacrificed the surface reality
+to the underlying meaning. Take, for instance, the history of Rubek's
+statue and its development into a group. In actual sculpture this
+development is a grotesque impossibility. In conceiving it we are
+deserting the domain of reality, and plunging into some fourth dimension
+where the properties of matter are other than those we know. This is an
+abandonment of the fundamental principle which Ibsen over and over again
+emphatically expressed--namely, that any symbolism his work might be
+found to contain was entirely incidental, and subordinate to the truth
+and consistency of his picture of life. Even when he dallied with the
+supernatural, as in _The Master Builder_ and _Little Eyolf_, he was
+always careful, as I have tried to show, not to overstep decisively
+the boundaries of the natural. Here, on the other hand, without any
+suggestion of the supernatural, we are confronted with the wholly
+impossible, the inconceivable. How remote is this alike from his
+principles of art and from the consistent, unvarying practice of his
+better years! So great is the chasm between _John Gabriel Borkman_ and
+_When We Dead Awaken_ that one could almost suppose his mental breakdown
+to have preceded instead of followed the writing of the latter play.
+Certainly it is one of the premonitions of the coming end. It is Ibsen's
+_Count Robert of Paris_. To pretend to rank it with his masterpieces is
+to show a very imperfect sense of the nature of their mastery.
+
+
+
+
+
+WHEN WE DEAD AWAKEN.
+
+A DRAMATIC EPILOGUE.
+
+
+CHARACTERS.
+
+
+      PROFESSOR ARNOLD RUBEK, a sculptor.
+      MRS. MAIA RUBEK, his wife.
+      THE INSPECTOR at the Baths.
+      ULFHEIM, a landed proprietor.
+      A STRANGER LADY.
+      A SISTER OF MERCY.
+
+      Servants, Visitors to the Baths, and Children.
+
+
+The First Act passes at a bathing establishment on the coast; the Second
+and Third Acts in the neighbourhood of a health resort, high in the
+mountains.
+
+
+
+
+ACT FIRST.
+
+
+   [Outside the Bath Hotel. A portion of the main building can be seen
+   to the right.
+
+   An open, park-like place with a fountain, groups
+   of fine old trees, and shrubbery.  To the left, a little pavilion
+   almost covered with ivy and Virginia creeper.  A table and chair
+   outside it.  At the back a view over the fjord, right out to sea,
+   with headlands and small islands in the distance.  It is a calm,
+   warm and sunny summer morning.
+
+   [PROFESSOR RUBEK and MRS. MAIA RUBEK are sitting in basket chairs
+   beside a covered table on the lawn outside the hotel, having just
+   breakfasted.  They have champagne and seltzer water on the table,
+   and each has a newspaper.  PROFESSOR RUBEK is an elderly man of
+   distinguished appearance, wearing a black velvet jacket, and
+   otherwise in light summer attire.  MAIA is quite young, with
+   a vivacious expression and lively, mocking eyes, yet with a
+   suggestion of fatigue.  She wears an elegant travelling dress.
+
+
+MAIA.
+
+[Sits for some time as though waiting for the PROFESSOR to say
+something, then lets her paper drop with a deep sigh.] Oh dear, dear,
+dear--!
+
+
+PROFESSOR RUBEK.
+
+[Looks up from his paper.] Well, Maia? What is the matter with you?
+
+
+MAIA.
+
+Just listen how silent it is here.
+
+
+PROFESSOR RUBEK.
+
+[Smiles indulgently.] And you can hear that?
+
+
+MAIA.
+
+What?
+
+
+PROFESSOR RUBEK.
+
+The silence?
+
+
+MAIA.
+
+Yes, indeed I can.
+
+
+PROFESSOR RUBEK.
+
+Well, perhaps you are right, _mein Kind_. One can really hear the
+silence.
+
+
+MAIA.
+
+Heaven knows you can--when it's so absolutely overpowering as it is
+here--
+
+
+PROFESSOR RUBEK.
+
+Here at the Baths, you mean?
+
+
+MAIA.
+
+Wherever you go at home here, it seems to me. Of course there was noise
+and bustle enough in the town. But I don't know how it is--even the
+noise and bustle seemed to have something dead about it.
+
+
+PROFESSOR RUBEK.
+
+[With a searching glance.] You don't seem particularly glad to be at
+home again, Maia?
+
+
+MAIA.
+
+[Looks at him.] Are you glad?
+
+
+PROFESSOR RUBEK.
+
+[Evasively.] I--?
+
+
+MAIA.
+
+Yes, you, who have been so much, much further away than I. Are you
+entirely happy, now that you are at home again?
+
+
+PROFESSOR RUBEK.
+
+No--to be quite candid--perhaps not entirely happy--
+
+
+MAIA.
+
+[With animation.] There, you see! Didn't I know it!
+
+
+PROFESSOR RUBEK.
+
+I have been too long abroad. I have drifted quite away from all
+this--this home life.
+
+
+MAIA.
+
+[Eagerly, drawing her chair nearer him.] There, you see, Rubek! We had
+much better get away again! As quickly as ever we can.
+
+
+PROFESSOR RUBEK.
+
+[Somewhat impatiently.] Well, well, that is what we intend to do, my
+dear Maia. You know that.
+
+
+MAIA.
+
+But why not now--at once? Only think how cozy and comfortable we could
+be down there, in our lovely new house--
+
+
+PROFESSOR RUBEK.
+
+[Smiles indulgently.] We ought by rights to say: our lovely new home.
+
+
+MAIA.
+
+[Shortly.] I prefer to say house--let us keep to that.
+
+
+PROFESSOR RUBEK.
+
+[His eyes dwelling on her.] You are really a strange little person.
+
+
+MAIA.
+
+Am I so strange?
+
+
+PROFESSOR RUBEK.
+
+Yes, I think so.
+
+
+MAIA.
+
+But why, pray? Perhaps because I'm not desperately in love with mooning
+about up here--?
+
+
+PROFESSOR RUBEK.
+
+Which of us was it that was absolutely bent on our coming north this
+summer?
+
+
+MAIA.
+
+I admit, it was I.
+
+
+PROFESSOR RUBEK.
+
+It was certainly not I, at any rate.
+
+
+MAIA.
+
+But good heavens, who could have dreamt that everything would have
+altered so terribly at home here? And in so short a time, too! Why, it
+is only just four years since I went away--
+
+
+PROFESSOR RUBEK.
+
+Since you were married, yes.
+
+
+MAIA.
+
+Married? What has that to do with the matter?
+
+
+PROFESSOR RUBEK.
+
+[Continuing.] --since you became the Frau Professor, and found yourself
+mistress of a charming home--I beg your pardon--a very handsome house, I
+ought to say. And a villa on the Lake of Taunitz, just at the point that
+has become most fashionable, too--. In fact it is all very handsome and
+distinguished, Maia, there's no denying that. And spacious too. We need
+not always be getting in each other's way--
+
+
+MAIA.
+
+[Lightly.] No, no, no--there's certainly no lack of house-room, and that
+sort of thing--
+
+
+PROFESSOR RUBEK.
+
+Remember, too, that you have been living in altogether more spacious
+and distinguished surroundings--in more polished society than you were
+accustomed to at home.
+
+
+MAIA.
+
+[Looking at him.] Ah, so you think it is _I_ that have changed?
+
+
+PROFESSOR RUBEK.
+
+Indeed I do, Maia.
+
+
+MAIA.
+
+I alone? Not the people here?
+
+
+PROFESSOR RUBEK.
+
+Oh yes, they too--a little, perhaps. And not at all in the direction of
+amiability. That I readily admit.
+
+
+MAIA.
+
+I should think you must admit it, indeed.
+
+
+PROFESSOR RUBEK.
+
+[Changing the subject.] Do you know how it affects me when I look at the
+life of the people around us here?
+
+
+MAIA.
+
+No. Tell me.
+
+
+PROFESSOR RUBEK.
+
+It makes me think of that night we spent in the train, when we were
+coming up here--
+
+
+MAIA.
+
+Why, you were sound asleep all the time.
+
+
+PROFESSOR RUBEK.
+
+Not quite. I noticed how silent it became at all the little roadside
+stations. I heard the silence--like you, Maia--
+
+
+MAIA.
+
+H'm,--like me, yes.
+
+
+PROFESSOR RUBEK. --and that assured me that we had crossed the
+frontier--that we were really at home. For the train stopped at all the
+little stations--although there was nothing doing at all.
+
+
+MAIA.
+
+Then why did it stop--though there was nothing to be done?
+
+
+PROFESSOR RUBEK.
+
+Can't say. No one got out or in; but all the same the train stopped a
+long, endless time. And at every station I could make out that there
+were two railway men walking up and down the platform--one with a
+lantern in his hand--and they said things to each other in the night,
+low, and toneless, and meaningless.
+
+
+MAIA.
+
+Yes, that is quite true. There are always two men walking up and down,
+and talking--
+
+
+PROFESSOR RUBEK. --of nothing. [Changing to a livelier tone.] But just
+wait till to-morrow. Then we shall have the great luxurious steamer
+lying in the harbour. We'll go on board her, and sail all round the
+coast--northward ho!--right to the polar sea.
+
+
+MAIA.
+
+Yes, but then you will see nothing of the country--and of the people.
+And that was what you particularly wanted.
+
+
+PROFESSOR RUBEK.
+
+[Shortly and snappishly.] I have seen more than enough.
+
+
+MAIA.
+
+Do you think a sea voyage will be better for you?
+
+
+PROFESSOR RUBEK.
+
+It is always a change.
+
+
+MAIA.
+
+Well, well, if only it is the right thing for you--
+
+
+PROFESSOR RUBEK.
+
+For me? The right thing? There is nothing in the world the matter with
+me.
+
+
+MAIA.
+
+[Rises and goes to him.] Yes, there is, Rubek. I am sure you must feel
+it yourself.
+
+
+PROFESSOR RUBEK.
+
+Why my dearest Maia--what should be amiss with me?
+
+
+MAIA.
+
+[Behind him, bending over the back of his chair.] That you must tell me.
+You have begun to wander about without a moment's peace. You cannot rest
+anywhere--neither at home nor abroad. You have become quite misanthropic
+of late.
+
+
+PROFESSOR RUBEK.
+
+[With a touch of sarcasm.] Dear me--have you noticed that?
+
+
+MAIA.
+
+No one that knows you can help noticing it. And then it seems to me so
+sad that you have lost all pleasure in your work.
+
+
+PROFESSOR RUBEK.
+
+That too, eh?
+
+
+MAIA.
+
+You that used to be so indefatigable--working from morning to night!
+
+
+PROFESSOR RUBEK.
+
+[Gloomily.] Used to be, yes--
+
+
+MAIA.
+
+But ever since you got your great masterpiece out of hand--
+
+
+PROFESSOR RUBEK.
+
+[Nods thoughtfully.] "The Resurrection Day"--
+
+
+MAIA. --the masterpiece that has gone round the whole world, and made
+you so famous--
+
+
+PROFESSOR RUBEK.
+
+Perhaps that is just the misfortune, Maia.
+
+
+MAIA.
+
+How so?
+
+
+PROFESSOR RUBEK.
+
+When I had finished this masterpiece of mine--[Makes a passionate
+movement with his hand]--for "The Resurrection Day" is a masterpiece! Or
+was one in the beginning. No, it is one still. It must, must, must be a
+masterpiece!
+
+
+MAIA.
+
+[Looks at him in astonishment.] Why, Rubek--all the world knows that.
+
+
+PROFESSOR RUBEK.
+
+[Short, repellently.] All the world knows nothing! Understands nothing!
+
+
+MAIA.
+
+Well, at any rate it can divine something--
+
+
+PROFESSOR RUBEK.
+
+Something that isn't there at all, yes. Something that never was in my
+mind. Ah yes, that they can all go into ecstasies over! [Growling to
+himself.] What is the good of working oneself to death for the mob and
+the masses--for "all the world"!
+
+
+MAIA.
+
+Do you think it is better, then--do you think it is worthy of you, to do
+nothing at all but portrait-bust now and then?
+
+
+PROFESSOR RUBEK.
+
+[With a sly smile.] They are not exactly portrait-busts that I turn out,
+Maia.
+
+
+MAIA.
+
+Yes, indeed they are--for the last two or three years--ever since you
+finished your great group and got it out of the house--
+
+
+PROFESSOR RUBEK.
+
+All the same, they are no mere portrait-busts, I assure you.
+
+
+MAIA.
+
+What are they, then?
+
+
+PROFESSOR RUBEK.
+
+There is something equivocal, something cryptic, lurking in and behind
+these busts--a secret something, that the people themselves cannot see--
+
+
+MAIA.
+
+Indeed?
+
+
+PROFESSOR RUBEK.
+
+[Decisively.] I alone can see it. And it amuses me unspeakably.--On the
+surface I give them the "striking likeness," as they call it, that they
+all stand and gape at in astonishment--[Lowers his voice]--but at bottom
+they are all respectable, pompous horse-faces, and self-opinionated
+donkey-muzzles, and lop-eared, low-browed dog-skulls, and fatted
+swine-snouts--and sometimes dull, brutal bull-fronts as well--
+
+
+MAIA.
+
+[Indifferently.] All the dear domestic animals, in fact.
+
+
+PROFESSOR RUBEK.
+
+Simply the dear domestic animals, Maia. All the animals which men have
+bedevilled in their own image--and which have bedevilled men in return.
+[Empties his champagne-glass and laughs.] And it is these double-faced
+works of art that our excellent plutocrats come and order of me. And
+pay for in all good faith--and in good round figures too--almost their
+weight in gold, as the saying goes.
+
+
+MAIA.
+
+[Fills his glass.] Come, Rubek! Drink and be happy.
+
+
+PROFESSOR RUBEK.
+
+[Passes his hand several times across his forehead and leans back in his
+chair.] I am happy, Maia. Really happy--in a way. [Short silence.]
+For after all there is a certain happiness in feeling oneself free and
+independent on every hand--in having at ones command everything one can
+possibly wish for--all outward things, that is to say. Do you not agree
+with me, Maia?
+
+
+MAIA.
+
+Oh yes, I agree. All that is well enough in its way. [Looking at
+him.] But do you remember what you promised me the day we came to an
+understanding on--on that troublesome point--
+
+
+PROFESSOR RUBEK.
+
+[Nods.] --on the subject of our marriage, yes. It was no easy matter for
+you, Maia.
+
+
+MAIA.
+
+[Continuing unruffled.] --and agreed that I was to go abroad with you,
+and live there for good and all--and enjoy myself.--Do you remember what
+you promised me that day?
+
+
+PROFESSOR RUBEK.
+
+[Shaking his head.] No, I can't say that I do. Well, what did I promise?
+
+
+MAIA.
+
+You said you would take me up to a high mountain and show me all the
+glory of the world.
+
+
+PROFESSOR RUBEK.
+
+[With a slight start.] Did I promise you that, too?
+
+
+MAIA.
+
+Me too? Who else, pray?
+
+
+PROFESSOR RUBEK.
+
+[Indifferently.] No, no, I only meant did I promise to show you--?
+
+
+MAIA. --all the glory of the world? Yes, you did. And all that glory
+should be mine, you said.
+
+
+PROFESSOR RUBEK.
+
+That is sort of figure of speech that I was in the habit of using once
+upon a time.
+
+
+MAIA.
+
+Only a figure of speech?
+
+
+PROFESSOR RUBEK.
+
+Yes, a schoolboy phrase--the sort of thing I used to say when I wanted
+to lure the neighbours' children out to play with me, in the woods and
+on the mountains.
+
+
+MAIA.
+
+[Looking hard at him.] Perhaps you only wanted to lure me out to play,
+as well?
+
+
+PROFESSOR RUBEK.
+
+[Passing it off as a jest.] Well, has it not been a tolerable amusing
+game, Maia?
+
+
+MAIA.
+
+[Coldly.] I did not go with you only to play.
+
+
+PROFESSOR RUBEK.
+
+No, no, I daresay not.
+
+
+MAIA.
+
+And you never took me up with you to any high mountain, or showed me--
+
+
+PROFESSOR RUBEK.
+
+[With irritation.] --all the glory of the world? No, I did not. For, let
+me tell you something: you are not really born to be a mountain-climber,
+little Maia.
+
+
+MAIA.
+
+[Trying to control herself.] Yet at one time you seemed to think I was.
+
+
+PROFESSOR RUBEK.
+
+Four or five years ago, yes. [Stretching himself in his chair.] Four or
+five years--it's a long, long time, Maia.
+
+
+MAIA.
+
+[Looking at him with a bitter expression.] Has the time seemed so very
+long to you, Rubek?
+
+
+PROFESSOR RUBEK.
+
+I am beginning now to find it a trifle long. [Yawning.] Now and then,
+you know.
+
+
+MAIA.
+
+[Returning to her place.] I shall not bore you any longer.
+
+      [She resumes her seat, takes up the newspaper, and begins turning
+       over the leaves.  Silence on both sides.
+
+
+PROFESSOR RUBEK.
+
+[Leaning on his elbows across the table, and looking at her teasingly.]
+Is the Frau Professor offended?
+
+
+MAIA.
+
+[Coldly, without looking up.] No, not at all.
+
+    [Visitors to the baths, most of them ladies, begin to pass,
+       singly and in groups, through the park from the right, and
+       out to the left.
+
+    [Waiters bring refreshments from the hotel, and go off behind
+       the pavilion.
+
+    [The INSPECTOR, wearing gloves and carrying a stick, comes from
+       his rounds in the park, meets visitors, bows politely, and
+       exchanges a few words with some of them.
+
+
+THE INSPECTOR.
+
+[Advancing to PROFESSOR RUBEK's table and politely taking off his hat.]
+I have the honour to wish you good morning, Mrs. Rubek.--Good morning,
+Professor Rubek.
+
+
+PROFESSOR RUBEK.
+
+Good morning, good morning Inspector.
+
+
+THE INSPECTOR.
+
+[Addressing himself to MRS. RUBEK.] May I venture to ask if you have
+slept well?
+
+
+MAIA.
+
+Yes, thank you; excellently--for my part. I always sleep like a stone.
+
+
+THE INSPECTOR.
+
+I am delighted to hear it. The first night in a strange place is often
+rather trying.--And the Professor--?
+
+
+PROFESSOR RUBEK.
+
+Oh, my night's rest is never much to boast of--especially of late.
+
+
+THE INSPECTOR.
+
+[With a show of sympathy.] Oh--that is a pity. But after a few weeks'
+stay at the Baths--you will quite get over that.
+
+
+PROFESSOR RUBEK.
+
+[Looking up at him.] Tell me, Inspector--are any of your patients in the
+habit of taking baths during the night?
+
+
+THE INSPECTOR.
+
+[Astonished.] During the night? No, I have never heard of such a thing.
+
+
+PROFESSOR RUBEK.
+
+Have you not?
+
+
+THE INSPECTOR.
+
+No, I don't know of any one so ill as to require such treatment.
+
+
+PROFESSOR RUBEK.
+
+Well, at any rate there is some one who is in the habit of walking about
+the park by night?
+
+
+THE INSPECTOR.
+
+[Smiling and shaking his head.] No, Professor--that would be against the
+rules.
+
+
+MAIA.
+
+[Impatiently.] Good Heavens, Rubek, I told you so this morning--you must
+have dreamt it.
+
+
+PROFESSOR RUBEK.
+
+[Drily.] Indeed? Must I? Thank you! [Turning to the INSPECTOR.] The fact
+is, I got up last night--I couldn't sleep--and I wanted to see what sort
+of night it was--
+
+
+THE INSPECTOR.
+
+[Attentively.] To be sure--and then--?
+
+
+PROFESSOR RUBEK.
+
+I looked out at the window--and caught sight of a white figure in there
+among the trees.
+
+
+MAIA.
+
+[Smiling to the INSPECTOR.] And the Professor declares that the figure
+was dressed in a bathing costume--
+
+
+PROFESSOR RUBEK. --or something like it, I said. Couldn't distinguish
+very clearly. But I am sure it was something white.
+
+
+THE INSPECTOR.
+
+Most remarkable. Was it a gentleman or a lady?
+
+
+PROFESSOR RUBEK.
+
+I could almost have sworn it was a lady. But then after it came another
+figure. And that one was quite dark--like a shadow--.
+
+
+THE INSPECTOR.
+
+[Starting.] A dark one? Quite black, perhaps?
+
+
+PROFESSOR RUBEK.
+
+Yes, I should almost have said so.
+
+
+THE INSPECTOR.
+
+[A light breaking in upon him.] And behind the white figure? Following
+close upon her--?
+
+
+PROFESSOR RUBEK.
+
+Yes--at a little distance--
+
+
+THE INSPECTOR.
+
+Aha! Then I think I can explain the mystery, Professor.
+
+
+PROFESSOR RUBEK.
+
+Well, what was it then?
+
+
+MAIA.
+
+[Simultaneously.] Was the professor really not dreaming?
+
+
+THE INSPECTOR.
+
+[Suddenly whispering, as he directs their attention towards the
+background on the right.] Hush, if you please! Look there--don't speak
+loud for a moment.
+
+    [A slender lady, dressed in fine, cream-white cashmere, and
+       followed by a SISTER OF MERCY in black, with a silver cross
+       hanging by a chain on her breast, comes forward from behind
+       the hotel and crosses the park towards the pavilion in front
+       on the left.  Her face is pale, and its lines seem to have
+       stiffened; the eyelids are drooped and the eyes appear as
+       though they saw nothing.  Her dress comes down to her feet
+       and clings to the body in perpendicular folds.  Over her head,
+       neck, breast, shoulders and arms she wears a large shawl of
+       white crape.  She keeps her arms crossed upon her breast.
+       She carries her body immovably, and her steps are stiff and
+       measured.  The SISTER's bearing is also measured, and she has
+       the air of a servant.  She keeps her brown piercing eyes
+       incessantly fixed upon the lady.  WAITERS, with napkins on
+       their arms, come forward in the hotel doorway, and cast
+       curious glances at the strangers, who take no notice of
+       anything, and, without looking round, enter the pavilion.
+
+
+PROFESSOR RUBEK.
+
+[Has risen slowly and involuntarily, and stands staring at the closed
+door of the pavilion.] Who was that lady?
+
+
+THE INSPECTOR.
+
+She is a stranger who has rented the little pavilion there.
+
+
+PROFESSOR RUBEK.
+
+A foreigner?
+
+
+THE INSPECTOR.
+
+Presumably. At any rate they both came from abroad--about a week ago.
+They have never been here before.
+
+
+PROFESSOR RUBEK.
+
+[Decidedly; looking at him.] It was she I saw in the park last night.
+
+
+THE INSPECTOR.
+
+No doubt it must have been. I thought so from the first.
+
+
+PROFESSOR RUBEK.
+
+What is this lady's name, Inspector?
+
+
+THE INSPECTOR.
+
+She has registered herself as "Madame de Satow, with companion." We know
+nothing more.
+
+
+PROFESSOR RUBEK.
+
+[Reflecting.] Satow? Satow--?
+
+
+MAIA. [Laughing mockingly.] Do you know any one of that name, Rubek? Eh?
+
+
+PROFESSOR RUBEK.
+
+[Shaking his head.] No, no one.--Satow? It sounds Russian--or in all
+events Slavonic. [To the INSPECTOR.] What language does she speak?
+
+
+THE INSPECTOR.
+
+When the two ladies talk to each other, it is in a language I cannot
+make out at all. But at other times she speaks Norwegian like a native.
+
+
+PROFESSOR RUBEK.
+
+[Exclaims with a start.] Norwegian? You are sure you are not mistaken?
+
+
+THE INSPECTOR.
+
+No, how could I be mistaken in that?
+
+
+PROFESSOR RUBEK.
+
+[Looks at him with eager interest.] You have heard her yourself?
+
+
+THE INSPECTOR.
+
+Yes. I myself have spoken to her--several times.--Only a few words,
+however; she is far from communicative. But--
+
+
+PROFESSOR RUBEK.
+
+But Norwegian it was?
+
+
+THE INSPECTOR.
+
+Thoroughly good Norwegian--perhaps with a little north-country accent.
+
+
+PROFESSOR RUBEK.
+
+[Gazing straight before him in amazement, whispers.] That too?
+
+
+MAIA.
+
+[A little hurt and jarred.] Perhaps this lady has been one of your
+models, Rubek? Search your memory.
+
+
+PROFESSOR RUBEK.
+
+[Looks cuttingly at her.] My models?
+
+
+MAIA.
+
+[With a provoking smile.] In your younger days, I mean. You are said to
+have had innumerable models--long ago, of course.
+
+
+PROFESSOR RUBEK.
+
+[In the same tone.] Oh no, little Frau Maia. I have in reality had only
+one single model. One and only one--for everything I have done.
+
+
+THE INSPECTOR.
+
+[Who has turned away and stands looking out to the left.] If you'll
+excuse me, I think I will take my leave. I see some one coming whom it
+is not particularly agreeable to meet. Especially in the presence of
+ladies.
+
+
+PROFESSOR RUBEK.
+
+[Looking in the same direction.] That sportsman there? Who is it?
+
+
+THE INSPECTOR.
+
+It is a certain Mr. Ulfheim, from--
+
+
+PROFESSOR RUBEK.
+
+Oh, Mr. Ulfheim--
+
+
+THE INSPECTOR. --the bear-killer, as they call him--
+
+
+PROFESSOR RUBEK.
+
+I know him.
+
+
+THE INSPECTOR.
+
+Who does not know him?
+
+
+PROFESSOR RUBEK.
+
+Very slightly, however. Is he on your list of patients--at last?
+
+
+THE INSPECTOR.
+
+No, strangely enough--not as yet. He comes here only once a year--on his
+way up to his hunting-grounds.--Excuse me for the moment--
+
+    [Makes a movement to go into the hotel.
+
+
+ULFHEIM's VOICE.
+
+[Heard outside.] Stop a moment, man! Devil take it all, can't you stop?
+Why do you always scuttle away from me?
+
+
+THE INSPECTOR.
+
+[Stops.] I am not scuttling at all, Mr. Ulfheim.
+
+    [ULFHEIM enters from the left followed by a servant with a
+       couple of sporting dogs in leash.  ULFHEIM is in shooting
+       costume, with high boots and a felt hat with a feather in
+       it.  He is a long, lank, sinewy personage, with matted hair
+       and beard, and a loud voice.  His appearance gives no precise
+       clue to his age, but he is no longer young.]
+
+
+ULFHEIM.
+
+[Pounces upon the INSPECTOR.] Is this a way to receive strangers, hey?
+You scamper away with your tail between your legs--as if you had the
+devil at your heels.
+
+
+THE INSPECTOR.
+
+[Calmly, without answering him.] Has Mr. Ulfheim arrived by the steamer?
+
+
+ULFHEIM.
+
+[Growls.] Haven't had the honour of seeing any steamer. [With his arms
+akimbo.] Don't you know that I sail my own cutter? [To the SERVANT.]
+Look well after your fellow-creatures, Lars. But take care you keep them
+ravenous, all the same. Fresh meat-bones--but not too much meat on them,
+do you hear? And be sure it's reeking raw, and bloody. And get something
+in your own belly while you're about it. [Aiming a kick at him.] Now
+then, go to hell with you!
+
+    [The SERVANT goes out with the dogs, behind the corner of the
+       hotel.]
+
+
+THE INSPECTOR.
+
+Would not Mr. Ulfheim like to go into the dining-room in the meantime?
+
+
+ULFHEIM.
+
+In among all the half-dead flies and people? No, thank you a thousand
+times, Mr. Inspector.
+
+
+THE INSPECTOR.
+
+Well, well, as you please.
+
+
+ULFHEIM.
+
+But get the housekeeper to prepare a hamper for me as usual. There must
+be plenty of provender in it--and lots of brandy--! You can tell her
+that I or Lars will come and play Old Harry with her if she doesn't--
+
+
+THE INSPECTOR.
+
+[Interrupting.] We know your ways of old. [Turning.] Can I give the
+waiter any orders, Professor? Can I send Mrs. Rubek anything?
+
+
+PROFESSOR RUBEK.
+
+No thank you; nothing for me.
+
+
+MAIA.
+
+Nor for me.
+
+    [The INSPECTOR goes into the hotel.
+
+
+ULFHEIM.
+
+[Stares at them for a moment; then lifts his hat.] Why, blast me if here
+isn't a country tyke that has strayed into regular tip-top society.
+
+
+PROFESSOR RUBEK.
+
+[Looking up.] What do you mean by that, Mr. Ulfheim?
+
+
+ULFHEIM.
+
+
+[More quietly and politely.] I believe I have the honour of addressing
+no less a person than the great Sculptor Rubek.
+
+
+PROFESSOR RUBEK.
+
+[Nods.] I remember meeting you once or twice--the autumn when I was last
+at home.
+
+
+ULFHEIM.
+
+That's many years ago, now. And then you weren't so illustrious as I
+hear you've since become. At that time even a dirty bear-hunter might
+venture to come near you.
+
+
+PROFESSOR RUBEK.
+
+[Smiling.] I don't bite even now.
+
+
+MAIA.
+
+[Looks with interest at ULFHEIM.] Are you really and truly a
+bear-hunter?
+
+
+ULFHEIM.
+
+[Seating himself at the next table, nearer the hotel.] A bear-hunter
+when I have the chance, madam. But I make the best of any sort of game
+that comes in my way--eagles, and wolves, and women, and elks, and
+reindeer--if only it's fresh and juicy and has plenty of blood in it.
+
+    [Drinks from his pocket-flask.
+
+
+MAIA.
+
+[Regarding him fixedly.] But you like bear-hunting best?
+
+
+ULFHEIM.
+
+I like it best, yes. For then one can have the knife handy at a pinch.
+[With a slight smile.] We both work in a hard material, madam--both your
+husband and I. He struggles with his marble blocks, I daresay; and I
+struggle with tense and quivering bear-sinews. And we both of us win
+the fight in the end--subdue and master our material. We never rest till
+we've got the upper hand of it, though it fight never so hard.
+
+
+PROFESSOR RUBEK.
+
+[Deep in thought.] There's a great deal of truth in what you say.
+
+
+ULFHEIM.
+
+Yes, for I take it the stone has something to fight for too. It is dead,
+and determined by no manner of means to let itself be hammered into
+life. Just like the bear when you come and prod him up in his lair.
+
+
+MAIA.
+
+Are you going up into the forests now to hunt?
+
+
+ULFHEIM.
+
+I am going right up into the high mountain.--I suppose you have never
+been in the high mountain, madam?
+
+
+MAIA.
+
+No, never.
+
+
+ULFHEIM.
+
+Confound it all then, you must be sure and come up there this very
+summer! I'll take you with me--both you and the Professor, with
+pleasure.
+
+
+MAIA.
+
+Thanks. But Rubek is thinking of taking a sea trip this summer.
+
+
+PROFESSOR RUBEK.
+
+Round the coast--through the island channels.
+
+
+ULFHEIM.
+
+Ugh--what the devil would you do in those damnable sickly
+gutters--floundering about in the brackish ditchwater? Dishwater I
+should rather call it.
+
+
+MAIA.
+
+There, you hear, Rubek!
+
+
+ULFHEIM.
+
+No, much better come up with me to the mountain--away, clean away, from
+the trail and taint of men. You cant' think what that means for me. But
+such a little lady--
+
+    [He stops.
+
+    [The SISTER OF MERCY comes out of the pavilion and goes into
+       the hotel.
+
+
+ULFHEIM.
+
+[Following her with his eyes.] Just look at her, do! That night-crow
+there!--Who is it that's to be buried?
+
+
+PROFESSOR RUBEK.
+
+I have not heard of any one--
+
+
+ULFHEIM.
+
+Well, there's some one on the point of giving up the ghost, then--in on
+corner or another.--People that are sickly and rickety should have the
+goodness to see about getting themselves buried--the sooner the better.
+
+
+MAIA.
+
+Have you ever been ill yourself, Mr. Ulfheim.
+
+
+ULFHEIM.
+
+Never. If I had, I shouldn't be here.--But my nearest friends--they have
+been ill, poor things.
+
+
+MAIA.
+
+And what did you do for your nearest friends?
+
+
+ULFHEIM.
+
+Shot them, of course.
+
+
+PROFESSOR RUBEK.
+
+[Looking at him.] Shot them?
+
+
+MAIA.
+
+[Moving her chair back.] Shot them dead?
+
+
+ULFHEIM.
+
+[Nods.] I never miss, madam.
+
+
+MAIA.
+
+But how can you possibly shoot people!
+
+
+ULFHEIM.
+
+I am not speaking of people--
+
+
+MAIA.
+
+You said your nearest friends--
+
+
+ULFHEIM.
+
+Well, who should they be but my dogs?
+
+
+MAIA.
+
+Are your dogs your nearest friends?
+
+
+ULFHEIM.
+
+I have none nearer. My honest, trusty, absolutely loyal comrades--. When
+one of them turns sick and miserable--bang!--and there's my friend sent
+packing--to the other world.
+
+    [The SISTER OF MERCY comes out of the hotel with a tray on which
+       is bread and milk.  She places it on the table outside the
+       pavilion, which she enters.
+
+
+ULFHEIM.
+
+[Laughs scornfully.] That stuff there--is that what you call food for
+human beings! Milk and water and soft, clammy bread. Ah, you should see
+my comrades feeding. Should you like to see it?
+
+
+MAIA.
+
+[Smiling across to the PROFESSOR and rising.] Yes, very much.
+
+
+ULFHEIM.
+
+[Also rising.] Spoken like a woman of spirit, madam! Come with me, then!
+They swallow whole great thumping meat-bones--gulp them up and then gulp
+them down again. Oh, it's a regular treat to see them. Come along and
+I'll show you--and while we're about it, we can talk over this trip to
+the mountains--
+
+    [He goes out by the corner of the hotel, MAIA following him.
+
+    [Almost at the same moment the STRANGE LADY comes out of the
+       pavilion and seats herself at the table.
+
+    [The LADY raises her glass of milk and is about to drink, but
+       stops and looks across at RUBEK with vacant, expressionless
+       eyes.
+
+
+PROFESSOR RUBEK.
+
+[Remains sitting at his table and gazes fixedly and earnestly at her.
+At last he rises, goes some steps towards her, stops, and says in a low
+voice.] I know you quite well, Irene.
+
+
+THE LADY.
+
+[In a toneless voice, setting down her glass.] You can guess who I am,
+Arnold?
+
+
+PROFESSOR RUBEK.
+
+[Without answering.] And you recognise me, too, I see.
+
+
+THE LADY.
+
+With you it is quite another matter.
+
+
+PROFESSOR RUBEK.
+
+With me?--How so?
+
+
+THE LADY.
+
+Oh, you are still alive.
+
+
+PROFESSOR RUBEK.
+
+[Not understanding.] Alive--?
+
+
+THE LADY.
+
+[After a short pause.] Who was the other? The woman you had with
+you--there at the table?
+
+
+PROFESSOR RUBEK.
+
+[A little reluctantly.] She? That was my--my wife.
+
+
+THE LADY.
+
+[Nods slowly.] Indeed. That is well, Arnold. Some one, then, who does
+not concern me--
+
+
+PROFESSOR RUBEK.
+
+[Nods.] No, of course not--
+
+
+THE LADY. --one whom you have taken to you after my lifetime.
+
+
+PROFESSOR RUBEK.
+
+[Suddenly looking hard at her.] After your--? What do you mean by that,
+Irene?
+
+
+IRENE.
+
+[Without answering.] And the child? I hear the child is prospering too.
+Our child survives me--and has come to honour and glory.
+
+
+PROFESSOR RUBEK.
+
+[Smiles as at a far-off recollection.] Our child? Yes, we called it
+so--then.
+
+
+IRENE.
+
+In my lifetime, yes.
+
+
+PROFESSOR RUBEK.
+
+[Trying to take a lighter tone.] Yes, Irene.--I can assure you "our
+child" has become famous all the wide world over. I suppose you have
+read about it.
+
+
+IRENE.
+
+[Nods.] And has made its father famous too.--That was your dream.
+
+
+PROFESSOR RUBEK.
+
+[More softly, with emotion.] It is to you I owe everything, everything,
+Irene--and I thank you.
+
+
+IRENE.
+
+[Lost in thought for a moment.] If I had then done what I had a right to
+do, Arnold--
+
+
+PROFESSOR RUBEK.
+
+Well? What then?
+
+
+IRENE.
+
+I should have killed that child.
+
+
+PROFESSOR RUBEK.
+
+Killed it, you say?
+
+
+IRENE.
+
+[Whispering.] Killed it--before I went away from you. Crushed
+it--crushed it to dust.
+
+
+PROFESSOR RUBEK.
+
+[Shakes his head reproachfully.] You would never have been able to,
+Irene. You had not the heart to do it.
+
+
+IRENE.
+
+No, in those days I had not that sort of heart.
+
+
+PROFESSOR RUBEK.
+
+But since then? Afterwards?
+
+
+IRENE.
+
+Since then I have killed it innumerable times. By daylight and in the
+dark. Killed it in hatred--and in revenge--and in anguish.
+
+
+PROFESSOR RUBEK.
+
+[Goes close up to the table and asks softly.] Irene--tell me now
+at last--after all these years--why did you go away from me? You
+disappeared so utterly--left not a trace behind--
+
+
+IRENE.
+
+[Shaking her head slowly.] Oh Arnold--why should I tell you that
+now--from the world beyond the grave.
+
+
+PROFESSOR RUBEK.
+
+Was there some one else whom you had come to love?
+
+
+IRENE.
+
+There was one who had no longer any use for my love--any use for my
+life.
+
+
+PROFESSOR RUBEK.
+
+[Changing the subject.] H'm--don't let us talk any more of the past--
+
+
+IRENE.
+
+No, no--by all means let us not talk of what is beyond the grave--what
+is now beyond the grave for me.
+
+
+PROFESSOR RUBEK.
+
+Where have you been, Irene? All my inquiries were fruitless--you seemed
+to have vanished away.
+
+
+IRENE.
+
+I went into the darkness--when the child stood transfigured in the
+light.
+
+
+PROFESSOR RUBEK.
+
+Have you travelled much about the world?
+
+
+IRENE.
+
+Yes. Travelled in many lands.
+
+
+PROFESSOR RUBEK.
+
+[Looks compassionately at her.] And what have you found to do, Irene?
+
+
+IRENE.
+
+[Turning her eyes upon him.] Wait a moment; let me see--. Yes, now I
+have it. I have posed on the turntable in variety-shows. Posed as a
+naked statue in living pictures. Raked in heaps of money. That was more
+than I could do with you; for you had none.--And then I turned the
+heads of all sorts of men. That too, was more than I could do with you,
+Arnold. You kept yourself better in hand.
+
+
+PROFESSOR RUBEK.
+
+[Hastening to pass the subject by.] And then you have married, too?
+
+
+IRENE.
+
+Yes; I married one of them.
+
+
+PROFESSOR RUBEK.
+
+Who is your husband?
+
+
+IRENE.
+
+He was a South American. A distinguished diplomatist. [Looks straight
+in front of her with a stony smile.] Him I managed to drive quite out of
+his mind; mad--incurably mad; inexorably mad.--It was great sport, I can
+tell you--while it was in the doing. I could have laughed within me all
+the time--if I had anything within me.
+
+
+PROFESSOR RUBEK.
+
+And where is he now?
+
+
+IRENE.
+
+Oh, in a churchyard somewhere or other. With a fine handsome monument
+over him. And with a bullet rattling in his skull.
+
+
+PROFESSOR RUBEK.
+
+Did he kill himself?
+
+
+IRENE.
+
+Yes, he was good enough to take that off my hands.
+
+
+PROFESSOR RUBEK.
+
+Do you not lament his loss, Irene?
+
+
+IRENE.
+
+[Not understanding.] Lament? What loss?
+
+
+PROFESSOR RUBEK.
+
+Why, the loss of Herr von Satow, of course.
+
+
+IRENE.
+
+His name was not Satow.
+
+
+PROFESSOR RUBEK.
+
+Was it not?
+
+
+IRENE.
+
+My second husband is called Satow. He is a Russian--
+
+
+PROFESSOR RUBEK.
+
+And where is he?
+
+
+IRENE.
+
+Far away in the Ural Mountains. Among all his gold-mines.
+
+
+PROFESSOR RUBEK.
+
+So he lives there?
+
+
+IRENE.
+
+[Shrugs her shoulders.] Lives? Lives? In reality I have killed him--
+
+
+PROFESSOR RUBEK.
+
+[Start.] Killed--!
+
+
+IRENE.
+
+Killed him with a fine sharp dagger which I always have with me in bed--
+
+
+PROFESSOR RUBEK.
+
+[Vehemently.] I don't believe you, Irene!
+
+
+IRENE.
+
+[With a gentle smile.] Indeed you may believe it, Arnold.
+
+
+PROFESSOR RUBEK.
+
+[Looks compassionately at her.] Have you never had a child?
+
+
+IRENE.
+
+Yes, I have had many children.
+
+
+PROFESSOR RUBEK.
+
+And where are your children now?
+
+
+IRENE.
+
+I killed them.
+
+
+PROFESSOR RUBEK.
+
+[Severely.] Now you are telling me lies again!
+
+
+IRENE.
+
+I have killed them, I tell you--murdered them pitilessly. As soon as
+ever they came into the world. Oh, long, long before. One after the
+other.
+
+
+PROFESSOR RUBEK.
+
+[Sadly and earnestly.] There is something hidden behind everything you
+say.
+
+
+IRENE.
+
+How can I help that? Every word I say is whispered into my ear.
+
+
+PROFESSOR RUBEK.
+
+I believe I am the only one that can divine your meaning.
+
+
+IRENE.
+
+Surely you ought to be the only one.
+
+
+PROFESSOR RUBEK.
+
+[Rests his hands on the table and looks intently at her.] Some of the
+strings of your nature have broken.
+
+
+IRENE.
+
+[Gently.] Does not that always happen when a young warm-blooded woman
+dies?
+
+
+PROFESSOR RUBEK.
+
+Oh Irene, have done with these wild imaginings--! You are living!
+Living--living!
+
+
+IRENE.
+
+[Rises slowly from her chair and says, quivering.] I was dead for many
+years. They came and bound me--laced my arms together behind my back--.
+Then they lowered me into a grave-vault, with iron bars before the
+loop-hole. And with padded walls--so that no one on the earth above
+could hear the grave-shrieks--. But now I am beginning, in a way, to
+rise from the dead.
+
+    [She seats herself again.]
+
+
+PROFESSOR RUBEK.
+
+[After a pause.] In all this, do you hold me guilty?
+
+
+IRENE.
+
+Yes.
+
+
+PROFESSOR RUBEK.
+
+Guilty of that--your death, as you call it.
+
+
+IRENE.
+
+Guilty of the fact that I had to die. [Changing her tone to one of
+indifference.] Why don't you sit down, Arnold?
+
+
+PROFESSOR RUBEK.
+
+May I?
+
+
+IRENE.
+
+Yes.--You need not be afraid of being frozen. I don't think I am quite
+turned to ice yet.
+
+
+PROFESSOR RUBEK.
+
+[Moves a chair and seats himself at her table.] There, Irene. Now we two
+are sitting together as in the old days.
+
+
+IRENE.
+
+A little way apart from each other--also as in the old days.
+
+
+PROFESSOR RUBEK.
+
+[Moving nearer.] It had to be so, then.
+
+
+IRENE.
+
+Had it?
+
+
+PROFESSOR RUBEK.
+
+[Decisively.] There had to be a distance between us--
+
+
+IRENE.
+
+Was it absolutely necessary, Arnold?
+
+
+PROFESSOR RUBEK.
+
+[Continuing.] Do you remember what you answered when I asked if you
+would go with me out into the wide world?
+
+
+IRENE.
+
+I held up three fingers in the air and swore that I would go with you
+to the world's end and to the end of life. And that I would serve you in
+all things--
+
+
+PROFESSOR RUBEK.
+
+As the model for my art--
+
+
+IRENE. --in frank, utter nakedness--
+
+
+PROFESSOR RUBEK.
+
+[With emotion.] And you did serve me, Irene--so bravely--so gladly and
+ungrudgingly.
+
+
+IRENE.
+
+Yes, with all the pulsing blood of my youth, I served you!
+
+
+PROFESSOR RUBEK.
+
+[Nodding, with a look of gratitude.] That you have every right to say.
+
+
+IRENE.
+
+I fell down at your feet and served you, Arnold! [Holding her clenched
+hand towards him.] But you, you,--you--!
+
+
+PROFESSOR RUBEK.
+
+[Defensively.] I never did you any wrong! Never, Irene!
+
+
+IRENE.
+
+Yes, you did! You did wrong to my innermost, inborn nature--
+
+
+PROFESSOR RUBEK.
+
+[Starting back.] I--!
+
+
+IRENE.
+
+Yes, you! I exposed myself wholly and unreservedly to your gaze--[More
+softly.] And never once did you touch me.
+
+
+PROFESSOR RUBEK.
+
+Irene, did you not understand that many a time I was almost beside
+myself under the spell of all your loveliness?
+
+
+IRENE.
+
+[Continuing undisturbed.] And yet--if you had touched me, I think I
+should have killed you on the spot. For I had a sharp needle always upon
+me--hidden in my hair-- [Strokes her forehead meditatively.] But after
+all--after all--that you could--
+
+
+PROFESSOR RUBEK.
+
+[Looks impressively at her.] I was an artist, Irene.
+
+
+IRENE.
+
+[Darkly.] That is just it. That is just it.
+
+
+PROFESSOR RUBEK.
+
+An artist first of all. And I was sick with the desire to achieve the
+great work of my life. [Losing himself in recollection.] It was to be
+called "The Resurrection Day"--figured in the likeness of a young woman,
+awakening from the sleep of death--
+
+
+IRENE.
+
+Our child, yes--
+
+
+PROFESSOR RUBEK.
+
+[Continuing.] It was to be the awakening of the noblest, purest, most
+ideal woman the world ever saw. Then I found you. You were what I
+required in every respect. And you consented so willingly--so gladly.
+You renounced home and kindred--and went with me.
+
+
+IRENE.
+
+To go with you meant for me the resurrection of my childhood.
+
+
+PROFESSOR RUBEK.
+
+That was just why I found in you all that I required--in you and in no
+one else. I came to look on you as a thing hallowed, not to be touched
+save in adoring thoughts. In those days I was still young, Irene. And
+the superstition took hold of me that if I touched you, if I desired you
+with my senses, my soul would be profaned, so that I should be unable
+to accomplish what I was striving for.--And I still think there was some
+truth in that.
+
+
+IRENE.
+
+[Nods with a touch of scorn.] The work of art first--then the human
+being.
+
+
+PROFESSOR RUBEK.
+
+You must judge me as you will; but at that time I was utterly dominated
+by my great task--and exultantly happy in it.
+
+
+IRENE.
+
+And you achieved your great task, Arnold.
+
+
+PROFESSOR RUBEK.
+
+Thanks and praise be to you, I achieved my great task. I wanted to
+embody the pure woman as I saw her awakening on the Resurrection Day.
+Not marvelling at anything new and unknown and undivined; but filled
+with a sacred joy at finding herself unchanged--she, the woman of
+earth--in the higher, freer, happier region--after the long, dreamless
+sleep of death. [More softly.] Thus did I fashion her.--I fashioned her
+in your image, Irene.
+
+
+IRENE.
+
+[Laying her hands flat upon the table and leaning against the back of
+her chair.] And then you were done with me--
+
+
+PROFESSOR RUBEK.
+
+[Reproachfully.] Irene!
+
+
+IRENE.
+
+You had no longer any use for me--
+
+
+PROFESSOR RUBEK.
+
+How can you say that!
+
+
+IRENE. --and began to look about you for other ideals--
+
+
+PROFESSOR RUBEK.
+
+I found none, none after you.
+
+
+IRENE.
+
+And no other models, Arnold?
+
+
+PROFESSOR RUBEK.
+
+You were no model to me. You were the fountainhead of my achievement.
+
+
+IRENE.
+
+[Is silent for a short time.] What poems have you made since? In marble
+I mean. Since the day I left you.
+
+
+PROFESSOR RUBEK.
+
+I have made no poems since that day--only frittered away my life in
+modelling.
+
+
+IRENE.
+
+And that woman, whom you are now living with--?
+
+
+PROFESSOR RUBEK.
+
+[Interrupting vehemently.] Do not speak of her now! It makes me tingle
+with shame.
+
+
+IRENE.
+
+Where are you thinking of going with her?
+
+
+PROFESSOR RUBEK.
+
+[Slack and weary.] Oh, on a tedious coasting-voyage to the North, I
+suppose.
+
+
+IRENE.
+
+[Looks at him, smiles almost imperceptibly, and whispers.] You should
+rather go high up into the mountains. As high as ever you can. Higher,
+higher,--always higher, Arnold.
+
+
+PROFESSOR RUBEK.
+
+[With eager expectation.] Are you going up there?
+
+
+IRENE.
+
+Have you the courage to meet me once again?
+
+
+PROFESSOR RUBEK.
+
+[Struggling with himself, uncertainly.] If we could--oh, if only we
+could--!
+
+
+IRENE.
+
+Why can we not do what we will? [Looks at him and whispers beseechingly
+with folded hands.] Come, come, Arnold! Oh, come up to me--!
+
+    [MAIA enters, glowing with pleasure, from behind the hotel,
+       and goes quickly up to the table where they were previously
+       sitting.]
+
+
+MAIA.
+
+[Still at the corner of the hotel, without looking around.] Oh, you
+may say what you please, Rubek, but--[Stops, as she catches sight of
+IRENE]--Oh, I beg your pardon--I see you have made an acquaintance.
+
+
+PROFESSOR RUBEK.
+
+[Curtly.] Renewed an acquaintance. [Rises.] What was it you wanted with
+me?
+
+
+MAIA.
+
+I only wanted to say this: you may do whatever you please, but _I_ am
+not going with you on that disgusting steamboat.
+
+
+PROFESSOR RUBEK.
+
+Why not?
+
+
+MAIA.
+
+Because I want to go up on the mountains and into the forests--that's
+what I want. [Coaxingly.] Oh, you must let me do it, Rubek.--I shall be
+so good, so good afterwards!
+
+
+PROFESSOR RUBEK.
+
+Who is it that has put these ideas into your head?
+
+
+MAIA.
+
+Why he--that horrid bear-killer. Oh you cannot conceive all the
+marvelous things he has to tell about the mountains. And about life up
+there! They're ugly, horrid, repulsive, most of the yarns he spins--for
+I almost believe he's lying--but wonderfully alluring all the same. Oh,
+won't you let me go with him? Only to see if what he says is true, you
+understand. May I, Rubek?
+
+
+PROFESSOR RUBEK.
+
+Yes, I have not the slightest objection. Off you go to the mountains--as
+far and as long as you please. I shall perhaps be going the same way
+myself.
+
+
+MAIA.
+
+[Quickly.] No, no, no, you needn't do that! Not on my account!
+
+
+PROFESSOR RUBEK.
+
+I want to go to the mountains. I have made up my mind to go.
+
+
+MAIA.
+
+Oh thanks, thanks! May I tell the bear-killer at once?
+
+
+PROFESSOR RUBEK.
+
+Tell the bear-killer whatever you please.
+
+
+MAIA.
+
+Oh thanks, thanks, thanks! [Is about to take his hand; he repels the
+movement.] Oh, how dear and good you are to-day, Rubek!
+
+    [She runs into the hotel.
+
+    [At the same time the door of the pavilion is softly and
+       noiselessly set ajar.  The SISTER OF MERCY stands in the
+       opening, intently on the watch.  No one sees her.
+
+
+PROFESSOR RUBEK.
+
+[Decidedly, turning to IRENE.] Shall we meet up there then?
+
+
+IRENE.
+
+[Rising slowly.] Yes, we shall certainly meet.--I have sought for you so
+long.
+
+
+PROFESSOR RUBEK.
+
+When did you begin to seek for me, Irene?
+
+
+IRENE.
+
+[With a touch of jesting bitterness.] From the moment I realised that I
+had given away to you something rather indispensable, Arnold. Something
+one ought never to part with.
+
+
+PROFESSOR RUBEK.
+
+[Bowing his head.] Yes, that is bitterly true. You gave me three or four
+years of your youth.
+
+
+IRENE.
+
+More, more than that I gave you--spend-thrift as I then was.
+
+
+PROFESSOR RUBEK.
+
+Yes, you were prodigal, Irene. You gave me all your naked loveliness--
+
+
+IRENE. --to gaze upon--
+
+
+PROFESSOR RUBEK. --and to glorify--
+
+
+IRENE.
+
+Yes, for your own glorification.--And the child's.
+
+
+PROFESSOR RUBEK.
+
+And yours too, Irene.
+
+
+IRENE.
+
+But you have forgotten the most precious gift.
+
+
+PROFESSOR RUBEK.
+
+The most precious--? What gift was that?
+
+
+IRENE.
+
+I gave you my young, living soul. And that gift left me empty
+within--soulless. [Looking at him with a fixed stare.] It was that I
+died of, Arnold.
+
+    [The SISTER OF MERCY opens the door wide and makes room for her.
+       She goes into the pavilion.
+
+
+PROFESSOR RUBEK.
+
+[Stands and looks after her; then whispers.] Irene!
+
+
+
+
+ACT SECOND.
+
+
+[Near a mountain resort. The landscape stretches, in the form of
+   an immense treeless upland, towards a long mountain lake.  Beyond
+   the lake rises a range of peaks with blue-white snow in the clefts.
+   In the foreground on the left a purling brook falls in severed
+   streamlets down a steep wall of rock, and thence flows smoothly
+   over the upland until it disappears to the right.  Dwarf trees,
+   plants, and stones along the course of the brook.  In the
+   foreground on the right a hillock, with a stone bench on the
+   top of it.  It is a summer afternoon, towards sunset.
+
+[At some distance over the upland, on the other side of the brook,
+   a troop of children is singing, dancing, and playing.  Some are
+   dressed in peasant costume, others in town-made clothes.  Their
+   happy laughter is heard, softened by distance, during the
+   following.
+
+[PROFESSOR RUBEK is sitting on the bench, with a plaid over his
+   shoulders, and looking down at the children's play.
+
+[Presently, MAIA comes forward from among some bushes on the upland
+   to the left, well back, and scans the prospect with her hand
+   shading her eyes.  She wears a flat tourist cap, a short skirt,
+   kilted up, reaching only midway between ankle and knee, and high,
+   stout lace-boots.  She has in her hand a long alpenstock.
+
+
+MAIA.
+
+[At last catches sight of RUBEK and calls.] Hallo!
+
+    [She advances over the upland, jumps over the brook, with the
+       aid of her alpenstock, and climbs up the hillock.
+
+
+MAIA.
+
+[Panting.] Oh, how I have been rushing around looking for you, Rubek.
+
+
+PROFESSOR RUBEK.
+
+[Nods indifferently and asks.] Have you just come from the hotel?
+
+
+MAIA.
+
+Yes, that was the last place I tried--that fly-trap.
+
+
+PROFESSOR RUBEK.
+
+[Looking at her for moment.] I noticed that you were not at the
+dinner-table.
+
+
+MAIA.
+
+No, we had our dinner in the open air, we two.
+
+
+PROFESSOR RUBEK.
+
+"We two"? What two?
+
+
+MAIA.
+
+Why, I and that horrid bear-killer, of course.
+
+
+PROFESSOR RUBEK.
+
+Oh, he.
+
+
+MAIA.
+
+Yes. And first thing to-morrow morning we are going off again.
+
+
+PROFESSOR RUBEK.
+
+After bears?
+
+
+MAIA.
+
+Yes. Off to kill a brown-boy.
+
+
+PROFESSOR RUBEK.
+
+Have you found the tracks of any?
+
+
+MAIA.
+
+[With superiority.] You don't suppose that bears are to be found in the
+naked mountains, do you?
+
+
+PROFESSOR RUBEK.
+
+Where, then?
+
+
+MAIA.
+
+Far beneath. On the lower slopes; in the thickest parts of the forest.
+Places your ordinary town-folk could never get through--
+
+
+PROFESSOR RUBEK.
+
+And you two are going down there to-morrow?
+
+
+MAIA.
+
+[Throwing herself down among the heather.] Yes, so we have arranged.--Or
+perhaps we may start this evening.--If you have no objection, that's to
+say?
+
+
+PROFESSOR RUBEK.
+
+I? Far be it from me to--
+
+
+MAIA.
+
+[Quickly.] Of course Lars goes with us--with the dogs.
+
+
+PROFESSOR RUBEK.
+
+I feel no curiosity as to the movements of Mr. Lars and his dogs.
+[Changing the subject.] Would you not rather sit properly on the seat?
+
+
+MAIA.
+
+[Drowsily.] No, thank you. I'm lying so delightfully in the soft
+heather.
+
+
+PROFESSOR RUBEK.
+
+I can see that you are tired.
+
+
+MAIA.
+
+[Yawning.] I almost think I'm beginning to feel tired.
+
+
+PROFESSOR RUBEK.
+
+You don't notice it till afterwards--when the excitement is over--
+
+
+MAIA.
+
+[In a drowsy tone.] Just so. I will lie and close my eyes.
+
+    [A short pause.
+
+MAIA.
+
+[With sudden impatience.] Ugh, Rubek--how can you endure to sit there
+listening to these children's screams! And to watch all the capers they
+are cutting, too!
+
+
+PROFESSOR RUBEK.
+
+There is something harmonious--almost like music--in their movements,
+now and then; amid all the clumsiness. And it amuses me to sit and watch
+for these isolated moments--when they come.
+
+
+MAIA.
+
+[With a somewhat scornful laugh.] Yes, you are always, always an artist.
+
+
+PROFESSOR RUBEK.
+
+And I propose to remain one.
+
+
+MAIA.
+
+[Lying on her side, so that her back is turned to him.] There's not a
+bit of the artist about him.
+
+
+PROFESSOR RUBEK.
+
+[With attention.] Who is it that's not an artist?
+
+
+MAIA.
+
+[Again in a sleepy tone.] Why, he--the other one, of course.
+
+
+PROFESSOR RUBEK.
+
+The bear-hunter, you mean?
+
+
+MAIA.
+
+Yes. There's not a bit of the artist about him--not the least little
+bit.
+
+
+PROFESSOR RUBEK.
+
+[Smiling.] No, I believe there's no doubt about that.
+
+
+MAIA.
+
+[Vehemently, without moving.] And so ugly as he is! [Plucks up a tuft of
+heather and throws it away.] So ugly, so ugly! Isch!
+
+
+PROFESSOR RUBEK.
+
+Is that why you are so ready to set off with him--out into the wilds?
+
+
+MAIA.
+
+[Curtly.] I don't know. [Turning towards him.] You are ugly, too, Rubek.
+
+
+PROFESSOR RUBEK.
+
+Have you only just discovered it?
+
+
+MAIA.
+
+No, I have seen it for long.
+
+
+PROFESSOR RUBEK.
+
+[Shrugging his shoulders.] One doesn't grow younger. One doesn't grow
+younger, Frau Maia.
+
+
+MAIA.
+
+It's not that sort of ugliness that I mean at all. But there has come to
+be such an expression of fatigue, of utter weariness, in your eyes--when
+you deign, once in a while, to cast a glance at me.
+
+
+PROFESSOR RUBEK.
+
+Have you noticed that?
+
+
+MAIA.
+
+[Nods.] Little by little this evil look has come into your eyes. It
+seems almost as though you were nursing some dark plot against me.
+
+
+PROFESSOR RUBEK.
+
+Indeed? [In a friendly but earnest tone.] Come here and sit beside me,
+Maia; and let us talk a little.
+
+
+MAIA.
+
+[Half rising.] Then will you let me sit upon your knee? As I used to in
+the early days?
+
+
+PROFESSOR RUBEK.
+
+No, you mustn't--people can see us from the hotel. [Moves a little.] But
+you can sit here on the bench--at my side.
+
+
+MAIA.
+
+No, thank you; in that case I'd rather lie here, where I am. I can hear
+you quite well here. [Looks inquiringly at him.] Well, what is it you
+want to say to me?
+
+
+PROFESSOR RUBEK.
+
+[Begins slowly.] What do you think was my real reason for agreeing to
+make this tour?
+
+
+MAIA.
+
+Well--I remember you declared, among other things, that it was going to
+do me such a tremendous lot of good. But--but--
+
+
+PROFESSOR RUBEK.
+
+But--?
+
+
+MAIA.
+
+But now I don't believe the least little bit that that was the reason--
+
+
+PROFESSOR RUBEK.
+
+Then what is your theory about it now?
+
+
+MAIA.
+
+I think now that it was on account of that pale lady.
+
+
+PROFESSOR RUBEK.
+
+Madame von Satow--!
+
+
+MAIA.
+
+Yes, she who is always hanging at our heels. Yesterday evening she made
+her appearance up here too.
+
+
+PROFESSOR RUBEK.
+
+But what in all the world--!
+
+
+MAIA.
+
+Oh, I know you knew her very well indeed--long before you knew me.
+
+
+PROFESSOR RUBEK.
+
+And had forgotten her, too--long before I knew you.
+
+
+MAIA.
+
+[Sitting upright.] Can you forget so easily, Rubek?
+
+
+PROFESSOR RUBEK.
+
+[Curtly.] Yes, very easily indeed. [Adds harshly.] When I want to
+forget.
+
+
+MAIA.
+
+Even a woman who has been a model to you?
+
+
+PROFESSOR RUBEK.
+
+When I have no more use for her--
+
+
+MAIA.
+
+One who has stood to you undressed?
+
+
+PROFESSOR RUBEK.
+
+That means nothing--nothing for us artists. [With a change of tone.]
+And then--may I venture to ask--how was I to guess that she was in this
+country?
+
+
+MAIA.
+
+Oh, you might have seen her name in a Visitor's List--in one of the
+newspapers.
+
+
+PROFESSOR RUBEK.
+
+But I had no idea of the name she now goes by. I had never heard of any
+Herr von Satow.
+
+
+MAIA.
+
+[Affecting weariness.] Oh well then, I suppose it must have been for
+some other reason that you were so set upon this journey.
+
+
+PROFESSOR RUBEK.
+
+[Seriously.] Yes, Maia--it was for another reason. A quite different
+reason. And that is what we must sooner or later have a clear
+explanation about.
+
+
+MAIA.
+
+[In a fit of suppressed laughter.] Heavens, how solemn you look!
+
+
+PROFESSOR RUBEK.
+
+[Suspiciously scrutinising her.] Yes, perhaps a little more solemn than
+necessary.
+
+
+MAIA.
+
+How so--?
+
+
+PROFESSOR RUBEK.
+
+And that is a very good thing for us both.
+
+
+MAIA.
+
+You begin to make me feel curious, Rubek.
+
+
+PROFESSOR RUBEK.
+
+Only curious? Not a little bit uneasy.
+
+
+MAIA.
+
+[Shaking her head.] Not in the least.
+
+
+PROFESSOR RUBEK.
+
+Good. Then listen.--You said that day down at the Baths that it seemed
+to you I had become very nervous of late--
+
+
+MAIA.
+
+Yes, and you really have.
+
+
+PROFESSOR RUBEK.
+
+And what do you think can be the reason of that?
+
+
+MAIA.
+
+How can I tell--? [Quickly.] Perhaps you have grown weary of this
+constant companionship with me.
+
+
+PROFESSOR RUBEK.
+
+Constant--? Why not say "everlasting"?
+
+
+MAIA.
+
+Daily companionship, then. Here have we two solitary people lived down
+there for four or five mortal years, and scarcely have an hour away from
+each other.--We two all by ourselves.
+
+
+PROFESSOR RUBEK.
+
+[With interest.] Well? And then--?
+
+
+MAIA.
+
+[A little oppressed.] You are not a particularly sociable man, Rubek.
+You like to keep to yourself and think your own thoughts. And of course
+I can't talk properly to you about your affairs. I know nothing about
+art and that sort of thing-- [With an impatient gesture.] And care very
+little either, for that matter!
+
+
+PROFESSOR RUBEK.
+
+Well, well; and that's why we generally sit by the fireside, and chat
+about your affairs.
+
+
+MAIA.
+
+Oh, good gracious--I have no affairs to chat about.
+
+
+PROFESSOR RUBEK.
+
+Well, they are trifles, perhaps; but at any rate the time passes for us
+in that way as well as another, Maia.
+
+
+MAIA.
+
+Yes, you are right. Time passes. It is passing away from you,
+Rubek.--And I suppose it is really that that makes you so uneasy--
+
+
+PROFESSOR RUBEK.
+
+[Nods vehemently.] And so restless! [Writhing in his seat.] No, I shall
+soon not be able to endure this pitiful life any longer.
+
+
+MAIA.
+
+[Rises and stands for a moment looking at him.] If you want to get rid
+of me, you have only to say so.
+
+
+PROFESSOR RUBEK.
+
+Why will you use such phrases? Get rid of you?
+
+
+MAIA.
+
+Yes, if you want to have done with me, please say so right out. And I
+will go that instant.
+
+
+PROFESSOR RUBEK.
+
+[With an almost imperceptible smile.] Do you intend that as a threat,
+Maia?
+
+
+MAIA.
+
+There can be no threat for you in what I said.
+
+
+PROFESSOR RUBEK.
+
+[Rising.] No, I confess you are right there. [Adds after a pause.] You
+and I cannot possibly go on living together like this--
+
+
+MAIA.
+
+Well? And then--?
+
+
+PROFESSOR RUBEK.
+
+There is no "then" about it. [With emphasis on his words.] Because we
+two cannot go on living together alone--it does not necessarily follow
+that we must part.
+
+
+MAIA.
+
+[Smiles scornfully.] Only draw away from each other a little, you mean?
+
+PROFESSOR RUBEK.
+
+[Shakes his head.] Even that is not necessary.
+
+
+MAIA.
+
+Well then? Come out with what you want to do with me.
+
+
+PROFESSOR RUBEK.
+
+[With some hesitation.] What I now feel so keenly--and so
+painfully--that I require, is to have some one about me who really and
+truly stands close to me--
+
+
+MAIA.
+
+[Interrupts him anxiously.] Don't I do that, Rubek?
+
+
+PROFESSOR RUBEK.
+
+[Waving her aside.] Not in that sense. What I need is the companionship
+of another person who can, as it were, complete me--supply what is
+wanting in me--be one with me in all my striving.
+
+
+MAIA.
+
+[Slowly.] It's true that things like that are a great deal too hard for
+me.
+
+
+PROFESSOR RUBEK.
+
+Oh no, they are not at all in your line, Maia.
+
+
+MAIA.
+
+[With an outburst.] And heaven knows I don't want them to be, either!
+
+
+PROFESSOR RUBEK.
+
+I know that very well.--And it was with no idea of finding any such help
+in my life-work that I married you.
+
+
+MAIA.
+
+[Observing him closely.] I can see in your face that you are thinking of
+some one else.
+
+
+PROFESSOR RUBEK.
+
+Indeed? I have never noticed before that you were a thought-reader. But
+you can see that, can you?
+
+
+MAIA.
+
+Yes, I can. Oh, I know you so well, so well, Rubek.
+
+
+PROFESSOR RUBEK.
+
+Then perhaps you can also see who it is I am thinking of?
+
+
+MAIA.
+
+Yes, indeed I can.
+
+
+PROFESSOR RUBEK.
+
+Well? Have the goodness to--?
+
+
+MAIA.
+
+You are thinking of that--that model you once used for-- [Suddenly
+letting slip the train of thought.] Do you know, the people down at the
+hotel think she's mad.
+
+
+PROFESSOR RUBEK.
+
+Indeed? And pray what do the people down at the hotel think of you and
+the bear-killer?
+
+
+MAIA.
+
+That has nothing to do with the matter. [Continuing the former train of
+thought.] But it was this pale lady you were thinking of.
+
+
+PROFESSOR RUBEK.
+
+[Calmly.] Precisely, of her.--When I had no more use for her--and when,
+besides, she went away from me--vanished without a word--
+
+
+MAIA.
+
+Then you accepted me as a sort of makeshift, I suppose?
+
+
+PROFESSOR RUBEK.
+
+[More unfeelingly.] Something of the sort, to tell the truth, little
+Maia. For a year or a year and a half I had lived there lonely and
+brooding, and had put the last touch--the very last touch, to my work.
+"The Resurrection Day" went out over the world and brought me fame--and
+everything else that heart could desire. [With greater warmth.] But I no
+longer loved my own work. Men's laurels and incense nauseated me, till I
+could have rushed away in despair and hidden myself in the depths of the
+woods. [Looking at her.] You, who are a thought-reader--can you guess
+what then occurred to me?
+
+
+MAIA.
+
+[Lightly.] Yes, it occurred to you to make portrait-busts of gentlemen
+and ladies.
+
+
+PROFESSOR RUBEK.
+
+[Nods.] To order, yes. With animals' faces behind the masks. Those I
+threw in gratis--into the bargain, you understand. [Smiling.] But that
+was not precisely what I had in my mind.
+
+
+MAIA.
+
+What, then?
+
+
+PROFESSOR RUBEK.
+
+[Again serious.] It was this, that all the talk about the artist's
+vocation and the artist's mission, and so forth, began to strike me as
+being very empty, and hollow, and meaningless at bottom.
+
+
+MAIA.
+
+Then what would you put in its place?
+
+
+PROFESSOR RUBEK.
+
+Life, Maia.
+
+
+MAIA.
+
+Life?
+
+
+PROFESSOR RUBEK.
+
+Yes, is not life in sunshine and in beauty a hundred times better worth
+while than to hang about to the end of your days in a raw, damp hole,
+and wear yourself out in a perpetual struggle with lumps of clay and
+blocks of stone?
+
+
+MAIA.
+
+[With a little sigh.] Yes, I have always thought so, certainly.
+
+
+PROFESSOR RUBEK.
+
+And then I had become rich enough to live in luxury and in indolent,
+quivering sunshine. I was able to build myself the villa on the Lake of
+Taunitz, and the palazzo in the capital,--and all the rest of it.
+
+
+MAIA.
+
+[Taking up his tone.] And last but not least, you could afford to
+treat yourself to me, too. And you gave me leave to share in all your
+treasures.
+
+
+PROFESSOR RUBEK.
+
+[Jesting, so as to turn the conversation.] Did I not promise to take you
+up to a high enough mountain and show you all the glory of the world?
+
+
+MAIA.
+
+[With a gentle expression.] You have perhaps taken me up with you to a
+high enough mountain, Rubek--but you have not shown me all the glory of
+the world.
+
+
+PROFESSOR RUBEK.
+
+[With a laugh of irritation.] How insatiable you are, Maia.! Absolutely
+insatiable! [With a vehement outburst.] But do you know what is the most
+hopeless thing of all, Maia? Can you guess that?
+
+
+MAIA.
+
+[With quiet defiance.] Yes, I suppose it is that you have gone and tied
+yourself to me--for life.
+
+
+PROFESSOR RUBEK.
+
+I would not have expressed myself so heartlessly.
+
+
+MAIA.
+
+But you would have meant it just as heartlessly.
+
+
+PROFESSOR RUBEK.
+
+You have no clear idea of the inner workings of an artist's nature.
+
+
+MAIA.
+
+[Smiling and shaking her head.] Good heavens, I haven't even a clear
+idea of the inner workings of my own nature.
+
+
+PROFESSOR RUBEK.
+
+[Continuing undisturbed.] I live at such high speed, Maia. We live so,
+we artists. I, for my part, have lived through a whole lifetime in the
+few years we two have known each other. I have come to realise that I
+am not at all adapted for seeking happiness in indolent enjoyment. Life
+does not shape itself that way for me and those like me. I must go on
+working--producing one work after another--right up to my dying day.
+[Forcing himself to continue.] That is why I cannot get on with you any
+longer, Maia--not with you alone.
+
+
+MAIA.
+
+[Quietly.] Does that mean, in plain language, that you have grown tired
+of me?
+
+
+PROFESSOR RUBEK.
+
+[Bursts forth.] Yes, that is what it means! I have grown
+tired--intolerably tired and fretted and unstrung--in this life with
+you! Now you know it. [Controlling himself.] These are hard, ugly words
+I am using. I know that very well. And you are not at all to blame in
+this matter;--that I willingly admit. It is simply and solely I myself,
+who have once more undergone a revolution--[Half to himself]--and
+awakening to my real life.
+
+
+MAIA.
+
+[Involuntarily folding her hands.] Why in all the world should we not
+part then?
+
+
+PROFESSOR RUBEK.
+
+[Looks at her in astonishment.] Should you be willing to?
+
+
+MAIA.
+
+[Shrugging her shoulders.] Oh yes--if there's nothing else for it,
+then--
+
+
+PROFESSOR RUBEK.
+
+[Eagerly.] But there is something else for it. There is an alternative--
+
+
+MAIA.
+
+[Holding up her forefinger.] Now you are thinking of the pale lady
+again!
+
+
+PROFESSOR RUBEK.
+
+Yes, to tell the truth, I cannot help constantly thinking of her. Ever
+since I met her again. [A step nearer her.] For now I will tell you a
+secret, Maia.
+
+
+MAIA.
+
+Well?
+
+
+PROFESSOR RUBEK.
+
+[Touching his own breast.] In here, you see--in here I have a little
+bramah-locked casket. And in that casket all my sculptor's visions are
+stored up. But when she disappeared and left no trace, the lock of
+the casket snapped to. And she had the key--and she took it away with
+her.--You, little Maia, you had no key; so all that the casket contains
+must lie unused. And the years pass! And I have no means of getting at
+the treasure.
+
+
+MAIA.
+
+[Trying to repress a subtle smile.] Then get her to open the casket for
+you again--
+
+
+PROFESSOR RUBEK.
+
+[Not understanding.] Maia--?
+
+
+MAIA. --for here she is, you see. And no doubt it's on account of this
+casket that she has come.
+
+
+PROFESSOR RUBEK.
+
+I have not said a single word to her on this subject!
+
+
+MAIA.
+
+[Looks innocently at him.] My dear Rubek--is it worth while to make all
+this fuss and commotion about so simple a matter?
+
+
+PROFESSOR RUBEK.
+
+Do you think this matter is so absolutely simple?
+
+
+MAIA.
+
+Yes, certainly I think so. Do you attach yourself to whoever you most
+require. [Nods to him.] I shall always manage to find a place for
+myself.
+
+
+PROFESSOR RUBEK.
+
+Where do you mean?
+
+
+MAIA.
+
+[Unconcerned, evasively.] Well--I need only take myself off to the
+villa, if it should be necessary. But it won't be; for in town--in all
+that great house of ours--there must surely, with a little good will, be
+room enough for three.
+
+
+PROFESSOR RUBEK.
+
+[Uncertainly.] And do you think that would work in the long run?
+
+
+MAIA.
+
+[In a light tone.] Very well, then--if it won't work, it won't. It is no
+good talking about it.
+
+
+PROFESSOR RUBEK.
+
+And what shall we do then, Maia--if it does not work?
+
+
+MAIA.
+
+[Untroubled.] Then we two will simply get out of each other's way--part
+entirely. I shall always find something new for myself, somewhere in the
+world. Something free! Free! Free!--No need to be anxious about that,
+Professor Rubek! [Suddenly points off to the right.] Look there! There
+we have her.
+
+
+PROFESSOR RUBEK.
+
+[Turning.] Where?
+
+
+MAIA.
+
+Out on the plain. Striding--like a marble stature. She is coming this
+way.
+
+
+PROFESSOR RUBEK.
+
+[Stands gazing with his hand over his eyes.] Does not she look like the
+Resurrection incarnate? [To himself.] And her I could displace--and move
+into the shade! Remodel her--. Fool that I was!
+
+
+MAIA.
+
+What do you mean by that?
+
+
+PROFESSOR RUBEK.
+
+[Putting the question aside.] Nothing. Nothing that you would
+understand.
+
+    [IRENE advances from the right over the upland.  The children
+       at their play have already caught sight of her and run to
+       meet her.  She is now surrounded by them; some appear confident
+       and at ease, others uneasy and timid.  She talks low to them
+       and indicates that they are to go down to the hotel; she
+       herself will rest a  little beside the brook.  The children
+       run down over the slope to the left, half way to the back.
+       IRENE goes up to the wall of rock, and lets the rillets of
+       the cascade flow over her hands, cooling them.
+
+
+MAIA.
+
+[In a low voice.] Go down and speak to her alone, Rubek.
+
+
+PROFESSOR RUBEK.
+
+And where will you go in the meantime?
+
+
+MAIA.
+
+[Looking significantly at him.] Henceforth I shall go my own ways.
+
+    [She descends form the hillock and leaps over the brook, by aid
+       of her alpenstock.  She stops beside IRENE.
+
+
+MAIA.
+
+Professor Rubek is up there, waiting for you, madam.
+
+
+IRENE.
+
+What does he want?
+
+
+MAIA.
+
+He wants you to help him to open a casket that has snapped to.
+
+
+IRENE.
+
+Can I help him in that?
+
+
+MAIA.
+
+He says you are the only person that can.
+
+
+IRENE.
+
+Then I must try.
+
+
+MAIA.
+
+Yes, you really must, madam.
+
+    [She goes down by the path to the hotel.
+
+    [In a little while PROFESSOR RUBEK comes down to IRENE, but stops
+       with the brook between them.
+
+
+IRENE.
+
+[After a short pause.] She--the other one--said that you had been
+waiting for me.
+
+
+PROFESSOR RUBEK.
+
+I have waited for you year after year--without myself knowing it.
+
+
+IRENE.
+
+I could not come to you, Arnold. I was lying down there, sleeping the
+long, deep, dreamful sleep.
+
+
+PROFESSOR RUBEK.
+
+But now you have awakened, Irene!
+
+
+IRENE.
+
+[Shakes her head.] I have the heavy, deep sleep still in my eyes.
+
+
+PROFESSOR RUBEK.
+
+You shall see that day will dawn and lighten for us both.
+
+
+IRENE.
+
+Do not believe that.
+
+
+PROFESSOR RUBEK.
+
+[Urgently.] I do believe it! And I know it! Now that I have found you
+again--
+
+
+IRENE.
+
+Risen from the grave.
+
+
+PROFESSOR RUBEK.
+
+Transfigured!
+
+
+IRENE.
+
+Only risen, Arnold. Not transfigured.
+
+    [He crosses over to her by means of stepping-stones below the
+       cascade.
+
+
+PROFESSOR RUBEK.
+
+Where have you been all day, Irene?
+
+
+IRENE.
+
+[Pointing.] Far, far over there, on the great dead waste--
+
+
+PROFESSOR RUBEK.
+
+[Turning the conversation.] You have not your--your friend with you
+to-day, I see.
+
+
+IRENE.
+
+[Smiling.] My friend is keeping a close watch on me, none the less.
+
+
+PROFESSOR RUBEK.
+
+Can she?
+
+
+IRENE.
+
+[Glancing furtively around.] You may be sure she can--wherever I may
+go. She never loses sight of me-- [Whispering.] Until, one fine sunny
+morning, I shall kill her.
+
+
+PROFESSOR RUBEK.
+
+Would you do that?
+
+
+IRENE.
+
+With the utmost delight--if only I could manage it.
+
+
+PROFESSOR RUBEK.
+
+Why do you want to?
+
+
+IRENE.
+
+Because she deals in witchcraft. [Mysteriously.] Only think, Arnold--she
+has changed herself into my shadow.
+
+
+PROFESSOR RUBEK.
+
+[Trying to calm her.] Well, well, well--a shadow we must all have.
+
+
+IRENE.
+
+I am my own shadow. [With an outburst.] Do you not understand that!
+
+
+PROFESSOR RUBEK.
+
+[Sadly.] Yes, yes, Irene, I understand.
+
+    [He seats himself on a stone beside the brook.  She stands behind
+       him, leaning against the wall of rock.
+
+
+IRENE.
+
+[After a pause.] Why do you sit there turning your eyes away from me?
+
+
+PROFESSOR RUBEK.
+
+[Softly, shaking his head.] I dare not--I dare not look at you.
+
+
+IRENE.
+
+Why dare you not look at me any more?
+
+
+PROFESSOR RUBEK.
+
+You have a shadow that tortures me. And I have the crushing weight of my
+conscience.
+
+
+IRENE.
+
+[With a glad cry of deliverance.] At last!
+
+
+PROFESSOR RUBEK.
+
+[Springs up.] Irene--what is it!
+
+
+IRENE.
+
+[Motioning him off.] Keep still, still, still! [Draws a deep breath and
+says, as though relieved of a burden.] There! Now they let me go. For
+this time.--Now we can sit down and talk as we used to--when I was
+alive.
+
+
+PROFESSOR RUBEK.
+
+Oh, if only we could talk as we used to.
+
+
+IRENE.
+
+Sit there, where you were sitting. I will sit here beside you.
+
+    [He sits down again.  She seats herself on another stone, close
+       to him.
+
+
+IRENE.
+
+[After a short interval of silence.] Now I have come back to you from
+the uttermost regions, Arnold.
+
+
+PROFESSOR RUBEK.
+
+Aye, truly, from an endless journey.
+
+
+IRENE.
+
+Come home to my lord and master--
+
+
+PROFESSOR RUBEK.
+
+To our home;--to our own home, Irene.
+
+
+IRENE.
+
+Have you looked for my coming every single day?
+
+
+PROFESSOR RUBEK.
+
+How dared I look for you?
+
+
+IRENE.
+
+[With a sidelong glance.] No, I suppose you dared not. For you
+understood nothing.
+
+
+PROFESSOR RUBEK.
+
+Was it really not for the sake of some one else that you all of a sudden
+disappeared from me in that way?
+
+
+IRENE.
+
+Might it not quite well be for your sake, Arnold?
+
+
+PROFESSOR RUBEK.
+
+[Looks doubtfully at her.] I don't understand you--?
+
+
+IRENE.
+
+When I had served you with my soul and with my body--when the statue
+stood there finished--our child as you called it--then I laid at your
+feet the most precious sacrifice of all--by effacing myself for all
+time.
+
+
+PROFESSOR RUBEK.
+
+[Bows his head.] And laying my life waste.
+
+
+IRENE.
+
+[Suddenly firing up.] It was just that I wanted! Never, never should you
+create anything again--after you had created that only child of ours.
+
+
+PROFESSOR RUBEK.
+
+Was it jealously that moved you, then?
+
+
+IRENE.
+
+[Coldly.] I think it was rather hatred.
+
+
+PROFESSOR RUBEK.
+
+Hatred? Hatred for me?
+
+
+IRENE.
+
+[Again vehemently.] Yes, for you--for the artist who had so lightly and
+carelessly taken a warm-blooded body, a young human life, and worn the
+soul out of it--because you needed it for a work of art.
+
+
+PROFESSOR RUBEK.
+
+And you can say that--you who threw yourself into my work with such
+saint-like passion and such ardent joy?--that work for which we two met
+together every morning, as for an act of worship.
+
+
+IRENE.
+
+[Coldly, as before.] I will tell you one thing, Arnold.
+
+
+PROFESSOR RUBEK.
+
+Well?
+
+
+IRENE.
+
+I never loved your art, before I met you.--Nor after either.
+
+
+PROFESSOR RUBEK.
+
+But the artist, Irene?
+
+
+IRENE.
+
+The artist I hate.
+
+
+PROFESSOR RUBEK.
+
+The artist in me too?
+
+
+IRENE.
+
+In you most of all. When I unclothed myself and stood for you, then I
+hated you, Arnold--
+
+
+PROFESSOR RUBEK.
+
+[Warmly.] That you did not, Irene! That is not true!
+
+
+IRENE.
+
+I hated you, because you could stand there so unmoved--
+
+
+PROFESSOR RUBEK.
+
+[Laughs.] Unmoved? Do you think so?
+
+
+IRENE. --at any rate so intolerably self-controlled. And because you
+were an artist and an artist only--not a man! [Changing to a tone full
+of warmth and feeling.] But that statue in the wet, living clay, that
+I loved--as it rose up, a vital human creature, out of those raw,
+shapeless masses--for that was our creation, our child. Mine and yours.
+
+
+PROFESSOR RUBEK.
+
+[Sadly.] It was so in spirit and in truth.
+
+
+IRENE.
+
+Let me tell you, Arnold--it is for the sake of this child of ours that I
+have undertaken this long pilgrimage.
+
+
+PROFESSOR RUBEK.
+
+[Suddenly alert.] For the statue's--?
+
+
+IRENE.
+
+Call it what you will. I call it our child.
+
+
+PROFESSOR RUBEK.
+
+And now you want to see it? Finished? In marble, which you always
+thought so cold? [Eagerly.] You do not know, perhaps, that it is
+installed in a great museum somewhere--far out in the world?
+
+
+IRENE.
+
+I have heard a sort of legend about it.
+
+
+PROFESSOR RUBEK.
+
+And museums were always a horror to you. You called them grave-vaults--
+
+
+IRENE.
+
+I will make a pilgrimage to the place where my soul and my child's soul
+lie buried.
+
+
+PROFESSOR RUBEK.
+
+[Uneasy and alarmed.] You must never see that statue again! Do you hear,
+Irene! I implore you--! Never, never see it again!
+
+
+IRENE.
+
+Perhaps you think it would mean death to me a second time?
+
+
+PROFESSOR RUBEK.
+
+[Clenching his hands together.] Oh, I don't know what I think.--But how
+could I ever imagine that you would fix your mind so immovably on that
+statue? You, who went away from me--before it was completed.
+
+
+IRENE.
+
+It was completed. That was why I could go away from you--and leave you
+alone.
+
+
+PROFESSOR RUBEK.
+
+[Sits with his elbows upon his knees, rocking his head from side to
+side, with his hands before his eyes.] It was not what it afterwards
+became.
+
+
+IRENE.
+
+[Quietly but quick as lightning, half-unsheathes a narrow-bladed sharp
+knife which she carried in her breast, and asks in a hoarse whisper.]
+Arnold--have you done any evil to our child?
+
+
+PROFESSOR RUBEK.
+
+[Evasively.] Any evil?--How can I be sure what you would call it?
+
+
+IRENE.
+
+[Breathless.] Tell me at once: what have you done to the child?
+
+
+PROFESSOR RUBEK.
+
+I will tell you, if you will sit and listen quietly to what I say.
+
+
+IRENE.
+
+[Hides the knife.] I will listen as quietly as a mother can when she--
+
+
+PROFESSOR RUBEK.
+
+[Interrupting.] And you must not look at me while I am telling you.
+
+
+IRENE.
+
+[Moves to a stone behind his back.] I will sit here, behind you.--Now
+tell me.
+
+
+PROFESSOR RUBEK.
+
+[Takes his hands from before his eyes and gazes straight in front of
+him. When I had found you, I knew at once how I should make use of you
+for my life-work.
+
+
+IRENE.
+
+"The Resurrection Day" you called your life-work.--I call it "our
+child."
+
+
+PROFESSOR RUBEK.
+
+I was young then--with no knowledge of life. The Resurrection, I
+thought, would be most beautifully and exquisitely figured as a young
+unsullied woman--with none of our earth-life's experiences--awakening
+to light and glory without having to put away from her anything ugly and
+impure.
+
+
+IRENE.
+
+[Quickly.] Yes--and so I stand there now, in our work?
+
+
+PROFESSOR RUBEK.
+
+[Hesitating.] Not absolutely and entirely so, Irene.
+
+
+IRENE.
+
+[In rising excitement.] Not absolutely--? Do I not stand as I always
+stood for you?
+
+
+PROFESSOR RUBEK.
+
+[Without answering.] I learned worldly wisdom in the years that
+followed, Irene. "The Resurrection Day" became in my mind's eye
+something more and something--something more complex. The little round
+plinth on which your figure stood erect and solitary--it no longer
+afforded room for all the imagery I now wanted to add--
+
+
+IRENE.
+
+[Groped for her knife, but desists.] What imagery did you add then? Tell
+me!
+
+
+PROFESSOR RUBEK.
+
+I imagined that which I saw with my eyes around me in the world. I had
+to include it--I could not help it, Irene. I expanded the plinth--made
+it wide and spacious. And on it I placed a segment of the curving,
+bursting earth. And up from the fissures of the soil there now swarm men
+and women with dimly-suggested animal-faces. Women and men--as I knew
+them in real life.
+
+
+IRENE.
+
+[In breathless suspense.] But in the middle of the rout there stands the
+young woman radiant with the joy of light?--Do I not stand so, Arnold?
+
+
+PROFESSOR RUBEK.
+
+[Evasively.] Not quite in the middle. I had unfortunately to move
+that figure a little back. For the sake of the general effect, you
+understand. Otherwise it would have dominated the whole too much.
+
+
+IRENE.
+
+But the joy in the light still transfigures my face?
+
+
+PROFESSOR RUBEK.
+
+Yes, it does, Irene--in a way. A little subdued perhaps--as my altered
+idea required.
+
+
+IRENE.
+
+[Rising noiselessly.] That design expresses the life you now see,
+Arnold.
+
+
+PROFESSOR RUBEK.
+
+Yes, I suppose it does.
+
+
+IRENE.
+
+And in that design you have shifted me back, a little toned down--to
+serve as a background-figure--in a group.
+
+    [She draws the knife.
+
+
+PROFESSOR RUBEK.
+
+Not a background-figure. Let us say, at most, a figure not quite in the
+foreground--or something of that sort.
+
+
+IRENE.
+
+[Whispers hoarsely.] There you uttered your own doom.
+
+    [On the point of striking.
+
+
+PROFESSOR RUBEK.
+
+[Turns and looks up at her.] Doom?
+
+
+IRENE.
+
+[Hastily hides the knife, and says as though choked with agony.] My
+whole soul--you and I--we, we, we and our child were in that solitary
+figure.
+
+
+PROFESSOR RUBEK.
+
+[Eagerly, taking off his hat and drying the drops of sweat upon his
+brow.] Yes, but let me tell you, too, how I have placed myself in the
+group. In front, beside a fountain--as it were here--sits a man weighed
+down with guilt, who cannot quite free himself from the earth-crust.
+I call him remorse for a forfeited life. He sits there and dips his
+fingers in the purling stream--to wash them clean--and he is gnawed and
+tortured by the thought that never, never will he succeed. Never in all
+eternity will he attain to freedom and the new life. He will remain for
+ever prisoned in his hell.
+
+
+IRENE.
+
+[Hardly and coldly.] Poet!
+
+
+PROFESSOR RUBEK.
+
+Why poet?
+
+
+IRENE.
+
+Because you are nerveless and sluggish and full of forgiveness for
+all the sins of your life, in thought and in act. You have killed
+my soul--so you model yourself in remorse, and self-accusation, and
+penance--[Smiling.] --and with that you think your account is cleared.
+
+
+PROFESSOR RUBEK.
+
+[Defiantly.] I am an artist, Irene. And I take no shame to myself for
+the frailties that perhaps cling to me. For I was born to be an artist,
+you see. And, do what I may, I shall never be anything else.
+
+
+IRENE.
+
+[Looks at him with a lurking evil smile, and says gently and softly.]
+You are a poet, Arnold. [Softly strokes his hair.] You dear, great,
+middle-aged child,--is it possible that you cannot see that!
+
+
+PROFESSOR RUBEK.
+
+[Annoyed.] Why do you keep on calling me a poet?
+
+
+IRENE.
+
+[With malign eyes.] Because there is something apologetic in the word,
+my friend. Something that suggests forgiveness of sins--and spreads
+a cloak over all frailty. [With a sudden change of tone.] But I was a
+human being--then! And I, too, had a life to live,--and a human destiny
+to fulfil. And all that, look you, I let slip--gave it all up in order
+to make myself your bondwoman.--Oh, it was self-murder--a deadly sin
+against myself! [Half whispering.] And that sin I can never expiate!
+
+    [She seats herself near him beside the brook, keeps close, though
+       unnoticed, watch upon him, and, as though in absence of mind,
+       plucks some flowers form the shrubs around them.
+
+
+IRENE.
+
+[With apparent self-control.] I should have borne children in the
+world--many children--real children--not such children as are hidden
+away in grave-vaults. That was my vocation. I ought never to have served
+you--poet.
+
+
+PROFESSOR RUBEK.
+
+[Lost in recollection.] Yet those were beautiful days, Irene.
+Marvellously beautiful days--as I now look back upon them--
+
+
+IRENE.
+
+[Looking at him with a soft expression.] Can you remember a little word
+that you said--when you had finished--finished with me and with our
+child? [Nods to him.] Can you remember that little word, Arnold?
+
+
+PROFESSOR RUBEK.
+
+[Looks inquiringly at her.] Did I say a little word then, which you
+still remember?
+
+
+IRENE.
+
+Yes, you did. Can you not recall it?
+
+
+PROFESSOR RUBEK.
+
+[Shaking his head.] No, I can't say that I do. Not at the present
+moment, at any rate.
+
+
+IRENE.
+
+You took both my hands and pressed them warmly. And I stood there in
+breathless expectation. And then you said: "So now, Irene, I thank you
+from my heart. This," you said, "has been a priceless episode for me."
+
+
+PROFESSOR RUBEK.
+
+[Looks doubtfully at her.] Did I say "episode"? It is not a word I am in
+the habit of using.
+
+
+IRENE.
+
+You said "episode."
+
+
+PROFESSOR RUBEK.
+
+[With assumed cheerfulness.] Well, well--after all, it was in reality an
+episode.
+
+
+IRENE.
+
+[Curtly.] At that word I left you.
+
+
+PROFESSOR RUBEK.
+
+You take everything so painfully to heart, Irene.
+
+
+IRENE.
+
+[Drawing her hand over her forehead.] Perhaps you are right. Let us
+shake off all the hard things that go to the heart. [Plucks off the
+leaves of a mountain rose and strews them on the brook.] Look there,
+Arnold. There are our birds swimming.
+
+
+PROFESSOR RUBEK.
+
+What birds are they?
+
+
+IRENE.
+
+Can you not see? Of course they are flamingoes. Are they not rose-red?
+
+
+PROFESSOR RUBEK.
+
+Flamingoes do not swim. They only wade.
+
+
+IRENE.
+
+Then they are not flamingoes. They are sea-gulls.
+
+
+PROFESSOR RUBEK.
+
+They may be sea-gulls with red bills, yes. [Plucks broad green leaves
+and throws them into the brook.] Now I send out my ships after them.
+
+
+IRENE.
+
+But there must be no harpoon-men on board.
+
+
+PROFESSOR RUBEK.
+
+No, there shall be no harpoon-men. [Smiles to her.] Can you remember the
+summer when we used to sit like this outside the little peasant hut on
+the Lake of Taunitz?
+
+
+IRENE.
+
+[Nods.] On Saturday evenings, yes,--when we had finished our week's
+work--
+
+
+PROFESSOR RUBEK. --And taken the train out to the lake--to stay there
+over Sunday--
+
+
+IRENE.
+
+[With an evil gleam of hatred in her eyes.] It was an episode, Arnold.
+
+
+PROFESSOR RUBEK.
+
+[As if not hearing.] Then, too, you used to set birds swimming in the
+brook. They were water-lilies which you--
+
+
+IRENE.
+
+They were white swans.
+
+
+PROFESSOR RUBEK.
+
+I meant swans, yes. And I remember that I fastened a great furry leaf to
+one of the swans. It looked like a burdock-leaf--
+
+
+IRENE.
+
+And then it turned into Lohengrin's boat--with the swan yoked to it.
+
+
+PROFESSOR RUBEK.
+
+How fond you were of that game, Irene.
+
+
+IRENE.
+
+We played it over and over again.
+
+
+PROFESSOR RUBEK.
+
+Every single Saturday, I believe,--all the summer through.
+
+
+IRENE.
+
+You said I was the swan that drew your boat.
+
+
+PROFESSOR RUBEK.
+
+Did I say so? Yes, I daresay I did. [Absorbed in the game.] Just see how
+the sea-gulls are swimming down the stream!
+
+
+IRENE.
+
+[Laughing.] And all your ships have run ashore.
+
+
+PROFESSOR RUBEK.
+
+[Throwing more leaves into the brook.] I have ships enough in reserve.
+[Follows the leaves with his eyes, throws more into the brook, and says
+after a pause.] Irene,--I have bought the little peasant hut beside the
+Lake of Taunitz.
+
+
+IRENE.
+
+Have you bought it? You often said you would, if you could afford it.
+
+
+PROFESSOR RUBEK.
+
+The day came when I could afford it easily enough; and so I bought it.
+
+
+IRENE.
+
+[With a sidelong look at him.] Then do you live out there now--in our
+old house?
+
+
+PROFESSOR RUBEK.
+
+No, I have had it pulled down long ago. And I have built myself a great,
+handsome, comfortable villa on the site--with a park around it. It is
+there that we-- [Stops and corrects himself.] --there that I usually
+live during the summer.
+
+
+IRENE.
+
+[Mastering herself.] So you and--and the other one live out there now?
+
+
+PROFESSOR RUBEK.
+
+[With a touch of defiance.] Yes. When my wife and I are not
+travelling--as we are this year.
+
+
+IRENE.
+
+[Looking far before her.] Life was beautiful, beautiful by the Lake of
+Taunitz.
+
+
+PROFESSOR RUBEK.
+
+[As though looking back into himself.] And yet, Irene--
+
+
+IRENE.
+
+[Completing his thought.] --yet we two let slip all that life and its
+beauty.
+
+
+PROFESSOR RUBEK.
+
+[Softly, urgently.] Does repentance come too late, now?
+
+
+IRENE.
+
+[Does not answer, but sits silent for a moment; then she points over
+the upland.] Look there, Arnold,--now the sun is going down behind the
+peaks. See what a red glow the level rays cast over all the heathery
+knolls out yonder.
+
+
+PROFESSOR RUBEK.
+
+[Looks where she is pointing.] It is long since I have seen a sunset in
+the mountains.
+
+
+IRENE.
+
+Or a sunrise?
+
+
+PROFESSOR RUBEK.
+
+A sunrise I don't think I have ever seen.
+
+
+IRENE.
+
+[Smiles as though lost in recollection.] I once saw a marvellously
+lovely sunrise.
+
+
+PROFESSOR RUBEK.
+
+Did you? Where was that?
+
+
+IRENE.
+
+High, high up on a dizzy mountain-top.--You beguiled me up there by
+promising that I should see all the glory of the world if only I--
+
+    [She stops suddenly.
+
+
+PROFESSOR RUBEK.
+
+If only you--? Well?
+
+
+IRENE.
+
+I did as you told me--went with you up to the heights. And there I
+fell upon my knees and worshipped you, and served you. [Is silent for a
+moment; then says softly.] Then I saw the sunrise.
+
+
+PROFESSOR RUBEK.
+
+[Turning at him with a scornful smile.] With you--and the other woman?
+
+
+PROFESSOR RUBEK.
+
+[Urgently.] With me--as in our days of creation. You could open all that
+is locked up in me. Can you not find it in your heart, Irene?
+
+
+IRENE.
+
+[Shaking her head.] I have no longer the key to you, Arnold.
+
+
+PROFESSOR RUBEK.
+
+You have the key! You and you alone possess it! [Beseechingly.] Help
+me--that I may be able to live my life over again!
+
+
+IRENE.
+
+[Immovable as before.] Empty dreams! Idle--dead dreams. For the life you
+and I led there is no resurrection.
+
+
+PROFESSOR RUBEK.
+
+[Curtly, breaking off.] Then let us go on playing.
+
+
+IRENE.
+
+Yes, playing, playing--only playing!
+
+    [They sit and strew leaves and petals over the brook, where they
+       float and sail away.
+
+    [Up the slope to the left at the back come ULFHEIM and MAIA in
+       hunting costume.  After them comes the SERVANT with the leash
+       of dogs, with which he goes out to the right.
+
+
+PROFESSOR RUBEK.
+
+[Catching sight of them.] Ah! There is little Maia, going out with the
+bear-hunter.
+
+
+IRENE.
+
+Your lady, yes.
+
+
+PROFESSOR RUBEK.
+
+Or the other's.
+
+
+MAIA.
+
+[Looks around as she is crossing the upland, sees the two sitting by
+the brook, and calls out.] Good-night, Professor! Dream of me. Now I am
+going off on my adventures!
+
+
+PROFESSOR RUBEK.
+
+[Calls back to her.] What sort of an adventure is this to be?
+
+
+MAIA.
+
+[Approaching.] I am going to let life take the place of all the rest.
+
+
+PROFESSOR RUBEK.
+
+[Mockingly.] Aha! So you too are going to do that, little Maia?
+
+
+MAIA.
+
+Yes. And I've made a verse about it, and this is how it goes:
+
+    [Sings triumphantly.]
+
+              I am free!  I am free!  I am free!
+              No more life in the prison for me!
+              I am free as a bird!  I am free!
+              For I believe I have awakened now--at last.
+
+
+PROFESSOR RUBEK.
+
+It almost seems so.
+
+
+MAIA.
+
+[Drawing a deep breath.] Oh--how divinely light one feels on waking!
+
+
+PROFESSOR RUBEK.
+
+Good-night, Frau Maia--and good luck to--
+
+
+ULFHEIM.
+
+[Calls out, interposing.] Hush, hush!--for the devil's sake let's have
+none of your wizard wishes. Don't you see that we are going out to
+shoot--
+
+
+PROFESSOR RUBEK.
+
+What will you bring me home from the hunting, Maia?
+
+
+MAIA.
+
+You shall have a bird of prey to model. I shall wing one for you.
+
+
+PROFESSOR RUBEK.
+
+[Laughs mockingly and bitterly.] Yes, to wing things--without knowing
+what you are doing--that has long been quite in your way.
+
+
+MAIA.
+
+[Tossing her head.] Oh, just let me take care of myself for the future,
+and I wish you then--! [Nods and laughs roguishly.] Good-bye--and a
+good, peaceful summer night on the upland!
+
+
+PROFESSOR RUBEK.
+
+[Jestingly.] Thanks! And all the ill-luck in the world over you and your
+hunting!
+
+
+ULFHEIM.
+
+[Roaring with laughter.] There now, that is a wish worth having!
+
+
+MAIA.
+
+[Laughing.] Thanks, thanks, thanks, Professor!
+
+    [They have both crossed the visible portion of the upland, and go
+       out through the bushes to the right.
+
+
+PROFESSOR RUBEK.
+
+[After a short pause.] A summer night on the upland! Yes, that would
+have been life!
+
+
+IRENE.
+
+[Suddenly, with a wild expression in her eyes.] Will you spend a summer
+night on the upland--with me?
+
+
+PROFESSOR RUBEK.
+
+[Stretching his arms wide.] Yes, yes,--come!
+
+
+IRENE.
+
+My adored lord and master!
+
+
+PROFESSOR RUBEK.
+
+Oh, Irene!
+
+
+IRENE.
+
+[Hoarsely, smiling and groping in her breast.] It will be only an
+episode-- [Quickly, whispering.] Hush!--do not look round, Arnold!
+
+
+PROFESSOR RUBEK.
+
+[Also in a low voice.] What is it?
+
+
+IRENE.
+
+A face that is staring at me.
+
+
+PROFESSOR RUBEK.
+
+[Turns involuntarily.] Where! [With a start.] Ah--!
+
+    [The SISTER OF MERCY's head is partly visible among the bushes
+       beside the descent to the left.  Her eyes are immovably fixed
+       on IRENE.
+
+
+IRENE.
+
+[Rises and says softly.] We must part then. No, you must remain sitting.
+Do you hear? You must not go with me. [Bends over him and whispers.]
+Till we meet again--to-night--on the upland.
+
+
+PROFESSOR RUBEK.
+
+And you will come, Irene?
+
+
+IRENE.
+
+Yes, surely I will come. Wait for me here.
+
+
+PROFESSOR RUBEK.
+
+[Repeats dreamily.] Summer night on the upland. With you. With you. [His
+eyes meet hers.] Oh, Irene--that might have been our life.--And that we
+have forfeited--we two.
+
+
+IRENE.
+
+We see the irretrievable only when--
+
+    [Breaks off.
+
+
+PROFESSOR RUBEK.
+
+[Looks inquiringly at her.] When--?
+
+
+IRENE.
+
+When we dead awaken.
+
+
+PROFESSOR RUBEK.
+
+[Shakes his head mournfully.] What do we really see then?
+
+
+IRENE.
+
+We see that we have never lived.
+
+    [She goes towards the slope and descends.
+
+    [The SISTER OF MERCY makes way for her and follows her.
+       PROFESSOR RUBEK remains sitting motionless beside the brook.
+
+
+MAIA.
+
+[Is heard singing triumphantly among the hills.]
+
+               I am free!  I am free!  I am free!
+               No more life in the prison for me!
+               I am free as a bird!  I am free!
+
+
+
+
+ACT THIRD.
+
+
+[A wild riven mountain-side, with sheer precipices at the back.
+   Snow-clad peaks rise to the right, and lose themselves in drifting
+   mists.  To the left, on a stone-scree, stands an old, half-ruined
+   hut.  It is early morning.  Dawn is breaking.  The sun has not
+   yet risen.
+
+[MAIA comes, flushed and irritated, down over the stone-scree on the
+   left. ULFHEIM follows, half angry, half laughing, holding her
+   fast by the sleeve.
+
+
+MAIA.
+
+[Trying to tear herself loose.] Let me go! Let me go, I say!
+
+
+ULFHEIM.
+
+Come, Come! are you going to bite now? You're as snappish as a wolf.
+
+
+MAIA.
+
+[Striking him over the hand.] Let me, I tell you? And be quiet!
+
+
+ULFHEIM.
+
+No, confound me if I will!
+
+
+MAIA.
+
+Then I will not go another step with you. Do you hear?--not a single
+step!
+
+
+ULFHEIM.
+
+Ho, ho! How can you get away from me, here, on the wild mountain-side?
+
+
+MAIA.
+
+I will jump over the precipice yonder, if need be--
+
+
+ULFHEIM.
+
+And mangle and mash yourself up into dogs'-meat! A juicy morsel! [Lets
+go his hold.] As you please. Jump over the precipice if you want to.
+It's a dizzy drop. There's only one narrow footpath down it, and that's
+almost impassable.
+
+
+MAIA.
+
+[Dusts her skirt with her hand, and looks at him with angry eyes.] Well,
+you are a nice one to go hunting with!
+
+
+ULFHEIM.
+
+Say rather, sporting.
+
+
+MAIA.
+
+Oh! So you call this sport, do you?
+
+
+ULFHEIM.
+
+Yes, I venture to take that liberty. It is the sort of sport I like best
+of all.
+
+
+MAIA.
+
+[Tossing her head.] Well--I must say! [After a pause; looks searchingly
+at him.] Why did you let the dogs loose up there?
+
+
+ULFHEIM.
+
+[Blinking his eyes and smiling.] So that they too might do a little
+hunting on their own account, don't you see?
+
+
+MAIA.
+
+There's not a word of truth in that! It wasn't for the dogs' sake that
+you let them go.
+
+
+ULFHEIM.
+
+[Still smiling.] Well, why did I let them go then? Let us hear.
+
+
+MAIA.
+
+You let them go because you wanted to get rid of Lars. He was to run
+after them and bring them in again, you said. And in the meant-time--.
+Oh, it was a pretty way to behave!
+
+
+ULFHEIM.
+
+In the meantime?
+
+
+MAIA.
+
+[Curtly breaking off.] No matter!
+
+
+ULFHEIM.
+
+[In a confidential tone.] Lars won't find them. You may safely swear to
+that. He won't come with them before the time's up.
+
+
+MAIA.
+
+[Looking angrily at him.] No, I daresay not.
+
+
+ULFHEIM.
+
+[Catching at her arm.] For Lars--he knows my--my methods of sport, you
+see.
+
+
+MAIA.
+
+[Eludes him, and measures him with a glance.] Do you know what you look
+like, Mr. Ulfheim?
+
+
+ULFHEIM.
+
+I should think I'm probably most like myself.
+
+
+MAIA.
+
+Yes, there you're exactly right. For you're the living image of a faun.
+
+
+ULFHEIM.
+
+A faun?
+
+
+MAIA.
+
+Yes, precisely; a faun.
+
+
+ULFHEIM.
+
+A faun! Isn't that a sort of monster? Or a kind of a wood demon, as you
+might call it?
+
+
+MAIA.
+
+Yes, just the sort of creature you are. A thing with a goat's beard and
+goat-legs. Yes, and the faun has horns too!
+
+
+ULFHEIM.
+
+So, so!--has he horns too?
+
+
+MAIA.
+
+A pair of ugly horns, just like yours, yes.
+
+
+ULFHEIM.
+
+Can you see the poor little horns _I_ have?
+
+
+MAIA.
+
+Yes, I seem to see them quite plainly.
+
+
+ULFHEIM.
+
+[Taking the dogs' leash out of his pocket.] Then I had better see about
+tying you.
+
+
+MAIA.
+
+Have you gone quite mad? Would you tie me?
+
+
+ULFHEIM.
+
+If I am a demon, let me be a demon! So that's the way of it! You can see
+the horns, can you?
+
+
+MAIA.
+
+[Soothingly.] There, there, there! Now try to behave nicely, Mr.
+Ulfheim. [Breaking off.] But what has become of that hunting-castle
+of yours, that you boasted so much of? You said it lay somewhere
+hereabouts.
+
+
+ULFHEIM.
+
+[Points with a flourish to the hut.] There you have it, before your very
+eyes.
+
+
+MAIA.
+
+[Looks at him.] That old pig-stye!
+
+
+ULFHEIM.
+
+[Laughing in his beard.] It has harboured more than one king's daughter,
+I can tell you.
+
+
+MAIA.
+
+Was it there that that horrid man you told me about came to the king's
+daughter in the form of a bear?
+
+
+ULFHEIM.
+
+Yes, my fair companion of the chase--this is the scene. [With a gesture
+of invitation.] If you would deign to enter--
+
+
+MAIA.
+
+Isch! If ever I set foot in it--! Isch!
+
+
+ULFHEIM.
+
+Oh, two people can doze away a summer night in there comfortably enough.
+Or a whole summer, if it comes to that!
+
+
+MAIA.
+
+Thanks! One would need to have a pretty strong taste for that kind of
+thing. [Impatiently.] But now I am tired both of you and the hunting
+expedition. Now I am going down to the hotel--before people awaken down
+there.
+
+
+ULFHEIM.
+
+How do you propose to get down from here?
+
+
+MAIA.
+
+That's your affair. There must be a way down somewhere or other, I
+suppose.
+
+
+ULFHEIM.
+
+[Pointing towards the back.] Oh, certainly! There is a sort of
+way--right down the face of the precipice yonder--
+
+
+MAIA.
+
+There, you see. With a little goodwill--
+
+
+ULFHEIM. --but just you try if you dare go that way.
+
+
+MAIA.
+
+[Doubtfully.] Do you think I can't?
+
+
+ULFHEIM.
+
+Never in this world--if you don't let me help you.
+
+
+MAIA.
+
+[Uneasily.] Why, then come and help me! What else are you here for?
+
+
+ULFHEIM.
+
+Would you rather I should take you on my back--?
+
+
+MAIA.
+
+Nonsense!
+
+
+ULFHEIM. --or carry you in my arms?
+
+
+MAIA.
+
+Now do stop talking that rubbish!
+
+
+ULFHEIM.
+
+[With suppressed exasperation.] I once took a young girl--lifted her up
+from the mire of the streets and carried her in my arms. Next my heart I
+carried her. So I would have borne her all through life--lest haply she
+should dash her foot against a stone. For her shoes were worn very thin
+when I found her--
+
+
+MAIA.
+
+And yet you took her up and carried her next your heart?
+
+
+ULFHEIM.
+
+Took her up out of the gutter and carried her as high and as carefully
+as I could. [With a growling laugh.] And do you know what I got for my
+reward?
+
+
+MAIA.
+
+No. What did you get?
+
+
+ULFHEIM.
+
+[Looks at her, smiles and nods.] I got the horns! The horns that you can
+see so plainly. Is not that a comical story, madam bear-murderess?
+
+
+MAIA.
+
+Oh yes, comical enough! But I know another story that is still more
+comical.
+
+
+ULFHEIM.
+
+How does that story go?
+
+
+MAIA.
+
+This is how it goes. There was once a stupid girl, who had both a father
+and a mother--but a rather poverty-stricken home. Then there came a high
+and mighty seigneur into the midst of all this poverty. And he took the
+girl in his arms--as you did--and travelled far, far away with her--
+
+
+ULFHEIM.
+
+Was she so anxious to be with him?
+
+
+MAIA.
+
+Yes, for she was stupid, you see.
+
+
+ULFHEIM.
+
+And he, no doubt, was a brilliant and beautiful personage?
+
+
+MAIA.
+
+Oh, no, he wasn't so superlatively beautiful either. But he pretended
+that he would take her with him to the top of the highest of mountains,
+where there were light and sunshine without end.
+
+
+ULFHEIM.
+
+So he was a mountaineer, was he, that man?
+
+
+MAIA.
+
+Yes, he was--in his way.
+
+
+ULFHEIM.
+
+And then he took the girl up with him--?
+
+
+MAIA.
+
+[With a toss of the head.] Took her up with him finely, you may be sure!
+Oh no! he beguiled her into a cold, clammy cage, where--as it seemed
+to her--there was neither sunlight nor fresh air, but only gilding and
+great petrified ghosts of people all around the walls.
+
+
+ULFHEIM.
+
+Devil take me, but it served her right!
+
+
+MAIA.
+
+Yes, but don't you think it's quite a comical story, all the same?
+
+
+ULFHEIM.
+
+[Looks at her moment.] Now listen to me, my good companion of the
+chase--
+
+
+MAIA.
+
+Well, what it is now?
+
+
+ULFHEIM.
+
+Should not we two tack our poor shreds of life together?
+
+
+MAIA.
+
+Is his worship inclined to set up as a patching-tailor?
+
+
+ULFHEIM.
+
+Yes, indeed he is. Might not we two try to draw the rags together here
+and there--so as to make some sort of a human life out of them?
+
+
+MAIA.
+
+And when the poor tatters were quite worn out--what then?
+
+
+ULFHEIM.
+
+[With a large gesture.] Then there we shall stand, free and serene--as
+the man and woman we really are!
+
+
+MAIA.
+
+[Laughing.] You with your goat-legs yes!
+
+
+ULFHEIM.
+
+And you with your--. Well, let that pass.
+
+
+MAIA.
+
+Yes, come--let us pass--on.
+
+
+ULFHEIM.
+
+Stop! Whither away, comrade?
+
+
+MAIA.
+
+Down to the hotel, of course.
+
+
+ULFHEIM.
+
+And afterward?
+
+
+MAIA.
+
+Then we'll take a polite leave of each other, with thanks for pleasant
+company.
+
+
+ULFHEIM.
+
+Can we part, we two? Do you think we can?
+
+
+MAIA.
+
+Yes, you didn't manage to tie me up, you know.
+
+
+ULFHEIM.
+
+I have a castle to offer you--
+
+
+MAIA.
+
+[Pointing to the hut.] A fellow to that one?
+
+
+ULFHEIM.
+
+It has not fallen to ruin yet.
+
+
+MAIA.
+
+And all the glory of the world, perhaps?
+
+
+ULFHEIM.
+
+A castle, I tell you--
+
+
+MAIA.
+
+Thanks! I have had enough of castles.
+
+
+ULFHEIM. --with splendid hunting-grounds stretching for miles around it.
+
+
+MAIA.
+
+Are there works of art too in this castle?
+
+
+ULFHEIM.
+
+[Slowly.] Well, no--it's true there are no works of art; but--
+
+
+MAIA.
+
+[Relieved.] Ah! that's one good thing, at any rate!
+
+
+ULFHEIM.
+
+Will you go with me, then--as far and as long as I want you?
+
+
+MAIA.
+
+There is a tame bird of prey keeping watch upon me.
+
+
+ULFHEIM.
+
+[Wildly.] We'll put a bullet in his wing, Maia!
+
+
+MAIA.
+
+[Looks at him a moment, and says resolutely.] Come then, and carry me
+down into the depths.
+
+
+ULFHEIM.
+
+[Puts his arm round her waist.] It is high time! The mist is upon us!
+
+
+MAIA.
+
+Is the way down terribly dangerous?
+
+
+ULFHEIM.
+
+The mountain is more dangerous still.
+
+    [She shakes him off, goes to the edge of the precipice and looks
+       over, but starts quickly back.
+
+
+ULFHEIM.
+
+[Goes towards her, laughing.] What? Does it make you a little giddy?
+
+
+MAIA.
+
+[Faintly.] Yes, that too. But go and look over. Those two, coming up--
+
+
+ULFHEIM.
+
+[Goes and bends over the edge of the precipice.] It's only your bird of
+prey--and his strange lady.
+
+
+MAIA.
+
+Can't we get past them--without their seeing us?
+
+
+ULFHEIM.
+
+Impossible! The path is far too narrow. And there's no other way down.
+
+
+MAIA.
+
+[Nerving herself.] Well, well--let us face them here, then!
+
+
+ULFHEIM.
+
+Spoken like a true bear-killer, comrade!
+
+    [PROFESSOR RUBEK and IRENE appear over the edge of the precipice
+       at the back. He has his plaid over his shoulders; she has a
+       fur cloak thrown loosely over her white dress, and a swansdown
+       hood over her head.
+
+
+PROFESSOR RUBEK.
+
+[Still only half visible above the edge.] What, Maia! So we two meet
+once again?
+
+
+MAIA.
+
+[With assumed coolness.] At your service. Won't you come up?
+
+    [PROFESSOR RUBEK climbs right up and holds out his hand to IRENE,
+       who also comes right to the top.
+
+
+PROFESSOR RUBEK.
+
+[Coldly to MAIA.] So you, too, have been all night on the mountain,--as
+we have?
+
+
+MAIA.
+
+I have been hunting--yes. You gave me permission, you know.
+
+
+ULFHEIM.
+
+[Pointing downward.] Have you come up that path there?
+
+
+PROFESSOR RUBEK.
+
+As you saw.
+
+
+ULFHEIM.
+
+And the strange lady too?
+
+
+PROFESSOR RUBEK.
+
+Yes, of course. [With a glance at MAIA.] Henceforth the strange lady and
+I do not intend our ways to part.
+
+
+ULFHEIM.
+
+Don't you know, then, that it is a deadly dangerous way you have come?
+
+
+PROFESSOR RUBEK.
+
+We thought we would try it, nevertheless. For it did not seem
+particularly hard at first.
+
+
+ULFHEIM.
+
+No, at first nothing seems hard. But presently you may come to a tight
+place where you can neither get forward nor back. And then you stick
+fast, Professor! Mountain-fast, as we hunters call it.
+
+
+PROFESSOR RUBEK.
+
+[Smiles and looks at him.] Am I to take these as oracular utterances,
+Mr. Ulfheim?
+
+
+ULFHEIM.
+
+Lord preserve me from playing the oracle! [Urgently, pointing up towards
+the heights.] But don't you see that the storm is upon us? Don't you
+hear the blasts of wind?
+
+
+PROFESSOR RUBEK.
+
+[Listening.] They sound like the prelude to the Resurrection Day.
+
+
+ULFHEIM.
+
+They are storm-blasts form the peaks, man! Just look how the clouds are
+rolling and sinking--soon they'll be all around us like a winding-sheet!
+
+
+IRENE.
+
+[With a start and shiver.] I know that sheet!
+
+
+MAIA.
+
+[Drawing ULFHEIM away.] Let us make haste and get down.
+
+
+ULFHEIM.
+
+[To PROFESSOR RUBEK.] I cannot help more than one. Take refuge in the
+hut in the mean-time--while the storm lasts. Then I shall send people up
+to fetch the two of you away.
+
+
+IRENE.
+
+[In terror.] To fetch us away! No, no!
+
+
+ULFHEIM.
+
+[Harshly.] To take you by force if necessary--for it's a matter of life
+and death here. Now, you know it. [To MAIA.] Come, then--and don't fear
+to trust yourself in your comrade's hands.
+
+
+MAIA.
+
+[Clinging to him.] Oh, how I shall rejoice and sing, if I get down with
+a whole skin!
+
+
+ULFHEIM.
+
+[Begins the descent and calls to the others.] You'll wait, then, in the
+hut, till the men come with ropes, and fetch you away.
+
+    [ULFHEIM, with MAIA in his arms, clambers rapidly but warily down
+       the precipice.
+
+
+IRENE.
+
+[Looks for some time at PROFESSOR RUBEK with terror-stricken eyes.] Did
+you hear that, Arnold?--men are coming up to fetch me away! Many men
+will come up here--
+
+
+PROFESSOR RUBEK.
+
+Do not be alarmed, Irene!
+
+
+IRENE.
+
+[In growing terror.] And she, the woman in black--she will come too. For
+she must have missed me long ago. And then she will seize me, Arnold!
+And put me in the strait-waistcoat. Oh, she has it with her, in her box.
+I have seen it with my own eyes--
+
+
+PROFESSOR RUBEK.
+
+Not a soul shall be suffered to touch you.
+
+
+IRENE.
+
+[With a wild smile.] Oh no--I myself have a resource against that.
+
+
+PROFESSOR RUBEK.
+
+What resource do you mean?
+
+
+IRENE.
+
+[Drawing out the knife.] This!
+
+
+PROFESSOR RUBEK.
+
+[Tries to seize it.] Have you a knife?
+
+
+IRENE.
+
+Always, always--both day and night--in bed as well!
+
+
+PROFESSOR RUBEK.
+
+Give me that knife, Irene!
+
+
+IRENE.
+
+[Concealing it.] You shall not have it. I may very likely find a use for
+it myself.
+
+
+PROFESSOR RUBEK.
+
+What use can you have for it, here?
+
+
+IRENE.
+
+[Looks fixedly at him.] It was intended for you, Arnold.
+
+
+PROFESSOR RUBEK.
+
+For me!
+
+
+IRENE.
+
+As we were sitting by the Lake of Taunitz last evening--
+
+
+PROFESSOR RUBEK.
+
+By the Lake of--
+
+
+IRENE. --outside the peasant's hut--and playing with swans and
+water-lilies--
+
+
+PROFESSOR RUBEK.
+
+What then--what then?
+
+
+IRENE. --and when I heard you say with such deathly, icy coldness--that
+I was nothing but an episode in your life--
+
+
+PROFESSOR RUBEK.
+
+It was you that said that, Irene, not I.
+
+
+IRENE.
+
+[Continuing.] --then I had my knife out. I wanted to stab you in the
+back with it.
+
+
+PROFESSOR RUBEK.
+
+[Darkly.] And why did you hold your hand?
+
+
+IRENE.
+
+Because it flashed upon me with a sudden horror that you were dead
+already--long ago.
+
+
+PROFESSOR RUBEK.
+
+Dead?
+
+
+IRENE.
+
+Dead. Dead, you as well as I. We sat there by the Lake of Taunitz, we
+two clay-cold bodies--and played with each other.
+
+
+PROFESSOR RUBEK.
+
+I do not call that being dead. But you do not understand me.
+
+
+IRENE.
+
+Then where is the burning desire for me that you fought and battled
+against when I stood freely forth before you as the woman arisen from
+the dead?
+
+
+PROFESSOR RUBEK.
+
+Our love is assuredly not dead, Irene.
+
+
+IRENE.
+
+The love that belongs to the life of earth--the beautiful, miraculous
+earth-life--the inscrutable earth-life--that is dead in both of us.
+
+
+PROFESSOR RUBEK.
+
+[Passionately.] And do you know that just that love--it is burning and
+seething in me as hotly as ever before?
+
+
+IRENE.
+
+And I? Have you forgotten who I now am?
+
+
+PROFESSOR RUBEK.
+
+Be who or what you please, for aught I care! For me, you are the woman I
+see in my dreams of you.
+
+
+IRENE.
+
+I have stood on the turn-table-naked--and made a show of myself to many
+hundreds of men--after you.
+
+
+PROFESSOR RUBEK.
+
+It was I that drove you to the turn-table--blind as I then was--I, who
+placed the dead clay-image above the happiness of life--of love.
+
+
+IRENE.
+
+[Looking down.] Too late--too late!
+
+
+PROFESSOR RUBEK.
+
+Not by a hairsbreadth has all that has passed in the interval lowered
+you in my eyes.
+
+
+IRENE.
+
+[With head erect.] Nor in my own!
+
+
+PROFESSOR RUBEK.
+
+Well, what then! Then we are free--and there is still time for us to
+live our life, Irene.
+
+
+IRENE.
+
+[Looks sadly at him.] The desire for life is dead in me, Arnold. Now I
+have arisen. And I look for you. And I find you.--And then I see that
+you and life lie dead--as I have lain.
+
+
+PROFESSOR RUBEK.
+
+Oh, how utterly you are astray! Both in us and around us life is
+fermenting and throbbing as fiercely as ever!
+
+
+IRENE.
+
+[Smiling and shaking her head.] The young woman of your Resurrection Day
+can see all life lying on its bier.
+
+
+PROFESSOR RUBEK.
+
+[Throwing his arms violently around her.] Then let two of the dead--us
+two--for once live life to its uttermost--before we go down to our
+graves again!
+
+
+IRENE.
+
+[With a shriek.] Arnold!
+
+
+PROFESSOR RUBEK.
+
+But not here in the half darkness! Not here with this hideous dank
+shroud flapping around us--
+
+
+IRENE.
+
+[Carried away by passion.] No, no--up in the light, and in all the
+glittering glory! Up to the Peak of Promise!
+
+
+PROFESSOR RUBEK.
+
+There we will hold our marriage-feast, Irene--oh, my beloved!
+
+
+IRENE.
+
+[Proudly.] The sun may freely look on us, Arnold.
+
+
+PROFESSOR RUBEK.
+
+All the powers of light may freely look on us--and all the powers
+of darkness too. [Seizes her hand.] Will you then follow me, oh my
+grace-given bride?
+
+
+IRENE.
+
+[As though transfigured.] I follow you, freely and gladly, my lord and
+master!
+
+
+PROFESSOR RUBEK.
+
+[Drawing her along with him.] We must first pass through the mists,
+Irene, and then--
+
+
+IRENE.
+
+Yes, through all the mists, and then right up to the summit of the tower
+that shines in the sunrise.
+
+    [The mist-clouds close in over the scene--PROFESSOR RUBEK and
+       IRENE, hand in hand, climb up over the snow-field to the right
+       and soon disappear among the lower clouds.  Keen storm-gusts
+       hurtle and whistle through the air.
+
+    [The SISTER OF MERCY appears upon the stone-scree to the left.
+       She stops and looks around silently and searchingly.
+
+
+MAIA.
+
+               I am free!  I am free!  I am free!
+               No more life in the prison for me!
+               I am free as a bird!  I am free!
+
+    [Suddenly a sound like thunder is heard from high up on the snow-
+       field, which glides and whirls downwards with headlong speed.
+       PROFESSOR RUBEK and IRENE can be dimly discerned as they are
+       whirled along with the masses of snow and buried in them.
+
+
+THE SISTER OF MERCY.
+
+[Gives a shriek, stretches out her arms towards them and cries.] Irene!
+
+    [Stands silent a moment, then makes the sign of the cross before
+       her in the air, and says.
+
+Pax vobiscum!
+
+    [MAIA's triumphant song sounds from still farther down below.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of When We Dead Awaken, by Henrik Ibsen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK WHEN WE DEAD AWAKEN ***
+
+***** This file should be named 4782.txt or 4782.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/7/8/4782/
+
+Produced by Sonia K
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,0 +1,4047 @@
+The Project Gutenberg EBook of Little Eyolf, by Henrik Ibsen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Little Eyolf
+
+Author: Henrik Ibsen
+
+Commentator: William Archer
+
+Translator: William Archer
+
+Release Date: April, 2005 [EBook #7942]
+Posting Date: August 4, 2009
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LITTLE EYOLF ***
+
+
+
+
+Produced by Nicole Apostola
+
+
+
+
+
+LITTLE EYOLF
+
+By Henrik Ibsen
+
+Translated, With an Introduction, by William Archer
+
+
+
+
+INTRODUCTION.
+
+Little Eyolf was written in Christiania during 1894, and published
+in Copenhagen on December 11 in that year. By this time Ibsen's
+correspondence has become so scanty as to afford us no clue to what may
+be called the biographical antecedents of the play. Even of anecdotic
+history very little attaches to it. For only one of the characters has a
+definite model been suggested. Ibsen himself told his French translator,
+Count Prozor, that the original of the Rat-Wife was "a little old woman
+who came to kill rats at the school where he was educated. She carried
+a little dog in a bag, and it was said that children had been drowned
+through following her." This means that Ibsen did not himself adapt
+to his uses the legend so familiar to us in Browning's _Pied Piper of
+Hamelin_, but found it ready adapted by the popular imagination of his
+native place, Skien. "This idea," Ibsen continued to Count Prozor, "was
+just what I wanted for bringing about the disappearance of Little Eyolf,
+in whom the infatuation [Note: The French word used by Count Prozor is
+"infatuation." I can think of no other rendering for it; but I do not
+quite know what it means as applied to Allmers and Eyolf.] and the
+feebleness of his father reproduced, but concentrated, exaggerated, as
+one often sees them in the son of such a father." Dr. Elias tells us
+that a well-known lady-artist, who in middle life suggested to him the
+figure of Lona Hessel, was in later years the model for the Rat-Wife.
+There is no inconsistency between these two accounts of the matter. The
+idea was doubtless suggested by his recollection of the rat-catcher of
+Skien, while traits of manner and physiognomy might be borrowed from the
+lady in question.
+
+The verse quoted on pp. 52 and 53 [Transcriber's Note: "There stood the
+champagne," etc., in ACT I] is the last line of a very well-known poem
+by Johan Sebastian Welhaven, entitled _Republikanerne_, written in 1839.
+An unknown guest in a Paris restaurant has been challenged by a noisy
+party of young Frenchmen to join them in drinking a health to Poland. He
+refuses; they denounce him as a craven and a slave; he bares his breast
+and shows the scars of wounds received in fighting for the country whose
+lost cause has become a subject for conventional enthusiasm and windy
+rhetoric.
+
+   "De saae pas hverandre. Han vandred sin vei.
+    De havde champagne, men rörte den ei."
+
+"They looked at each other. He went on his way. There stood their
+champagne, but they did not touch it." The champagne incident leads me
+to wonder whether the relation between Rita and Allmers may not have
+been partly suggested to Ibsen by the relation between Charlotte
+Stieglitz and her weakling of a husband. Their story must have been
+known to him through George Brandes's _Young Germany_, if not more
+directly. "From time to time," says Dr. Brandes, "there came over her
+what she calls her champagne-mood; she grieves that this is no longer
+the case with him." [Note: _Main Currents of Nineteenth Century
+Literature_, vol. vi. p. 299] Did the germ of the incident lie in these
+words?
+
+The first performance of the play in Norway took place at the
+Christiania Theatre on January 15, 1895, Fru Wettergren playing Rita And
+Fru Dybwad, Asta. In Copenhagen (March 13, 1895) Fru Oda Nielsen and Fru
+Hennings played Rita and Asta respectively, while Emil Poulsen played
+Allmers. The first German Rita (Deutsches Theater, Berlin, January 12,
+1895) was Frau Agnes Sorma, with Reicher as Allmers. Six weeks later
+Frl. Sandrock played Rita at the Burgtheater, Vienna. In May 1895 the
+play was acted by M. Lugné-Poë's company in Paris. The first performance
+in English took place at the Avenue Theatre, London, on the afternoon
+of November 23, 1896, with Miss Janet Achurch as Rita, Miss Elizabeth
+Robins as Asta, and Mrs. Patrick Campbell as the Rat-Wife. Miss
+Achurch's Rita made a profound impression. Mrs. Patrick Campbell
+afterwards played the part in a short series of evening performances.
+In the spring of 1895 the play was acted in Chicago by a company of
+Scandinavian amateurs, presumably in Norwegian. Fru Oda Nielsen has
+recently (I understand) given some performances of it in New York, and
+Madame Alla Nazimova has announced it for production during the coming
+season (1907-1908).
+
+As the external history of _Little Eyolf_ is so short. I am tempted to
+depart from my usual practice, and say a few words as to its matter and
+meaning.
+
+George Brandes, writing of this play, has rightly observed that "a kind
+of dualism has always been perceptible in Ibsen; he pleads the cause of
+Nature, and he castigates Nature with mystic morality; only sometimes
+Nature is allowed the first voice, sometimes morality. In _The Master
+Builder_ and in _Ghosts_ the lover of Nature in Ibsen was predominant;
+here, as in _Brand_ and _The Wild Duck_, the castigator is in the
+ascendant." So clearly is this the case in _Little Eyolf_ that Ibsen
+seems almost to fall into line with Mr. Thomas Hardy. To say nothing of
+analogies of detail between _Little Eyolf_ and _Jude the Obscure_, there
+is this radical analogy, that they are both utterances of a profound
+pessimism, both indictments of Nature.
+
+But while Mr. Hardy's pessimism is plaintive and passive, Ibsen's is
+stoical and almost bracing. It is true that in this play he is no
+longer the mere "indignation pessimist" whom Dr. Brandes quite justly
+recognised in his earlier works. His analysis has gone deeper into the
+heart of things, and he has put off the satirist and the iconoclast. But
+there is in his thought an incompressible energy of revolt. A pessimist
+in contemplation, he remains a meliorist in action. He is not, like Mr.
+Hardy, content to let the flag droop half-mast high; his protagonist
+still runs it up to the mast-head, and looks forward steadily to the
+"heavy day of work" before him. But although the note of the conclusion
+is resolute, almost serene, the play remains none the less an indictment
+of Nature, or at least of that egoism of passion which is one of her
+most potent subtleties. In this view, Allmers becomes a type of what
+we may roughly call the "free moral agent"; Eyolf, a type of humanity
+conceived as passive and suffering, thrust will-less into existence,
+with boundless aspirations and cruelly limited powers; Rita, a type of
+the egoistic instinct which is "a consuming fire"; and Asta, a type of
+the beneficent love which is possible only so long as it is exempt from
+"the law of change." Allmers, then, is self-conscious egoism, egoism
+which can now and then break its chains, look in its own visage, realise
+and shrink from itself; while Rita, until she has passed through
+the awful crisis which forms the matter of the play, is unconscious,
+reckless, and ruthless egoism, exigent and jealous, "holding to its
+rights," and incapable even of rising into the secondary stage of
+maternal love. The offspring and the victim of these egoisms is Eyolf,
+"little wounded warrior," who longs to scale the heights and dive into
+the depths, but must remain for ever chained to the crutch of human
+infirmity. For years Allmers has been a restless and half-reluctant
+slave to Rita's imperious temperament. He has dreamed and theorised
+about "responsibility," and has kept Eyolf poring over his books, in the
+hope that, despite his misfortune, he may one day minister to parental
+vanity. Finally he breaks away from Rita, for the first time "in all
+these ten years," goes up "into the infinite solitudes," looks Death in
+the face, and returns shrinking from passion, yearning towards selfless
+love, and filled with a profound and remorseful pity for the lot of poor
+maimed humanity. He will "help Eyolf to bring his desires into harmony
+with what lies attainable before him." He will "create a conscious
+happiness in his mind." And here the drama opens.
+
+Before the Rat-Wife enters, let me pause for a moment to point out that
+here again Ibsen adopts that characteristic method which, in writing of
+_The Lady from the Sea_ and _The Master Builder_, I have compared to
+the method of Hawthorne. The story he tells is not really, or rather not
+inevitably, supernatural. Everything is explicable within this limits
+of nature; but supernatural agency is also vaguely suggested, and the
+reader's imagination is stimulated, without any absolute violence to his
+sense of reality. On the plane of everyday life, then, the Rat-Wife is a
+crazy and uncanny old woman, fabled by the peasants to be a were-wolf in
+her leisure moments, who goes about the country killing vermin. Coming
+across an impressionable child, she tells him a preposterous tale,
+adapted from the old "Pied Piper" legends, of her method of fascinating
+her victims. The child, whose imagination has long dwelt on this
+personage, is in fact hypnotised by her, follows her down to the sea,
+and, watching her row away, turns dizzy, falls in, and is drowned. There
+is nothing impossible, nothing even improbable, in this. At the same
+time, there cannot be the least doubt, I think, that in the poet's mind
+the Rat-Wife is the symbol of Death, of the "still, soft darkness" that
+is at once so fearful and so fascinating to humanity. This is clear not
+only in the text of her single scene, but in the fact that Allmers, in
+the last act, treats her and his "fellow-traveller" of that night among
+the mountains, not precisely as identical, but as interchangeable,
+ideas. To tell the truth, I have even my own suspicions as to who is
+meant by "her sweetheart," whom she "lured" long ago, and who is now
+"down where all the rats are." This theory I shall keep to myself; it
+may be purely fantastic, and is at best inessential. What is certain is
+that death carries off Little Eyolf, and that, of all he was, only the
+crutch is left, mute witness to his hapless lot.
+
+He is gone; there was so little to bind him to life that he made not
+even a moment's struggle against the allurement of the "long, sweet
+sleep." Then, for the first time, the depth of the egoism which had
+created and conditioned his little life bursts upon his parents'
+horror-stricken gaze. Like accomplices in crime, they turn upon and
+accuse each other--"sorrow makes them wicked and hateful." Allmers, as
+the one whose eyes were already half opened, is the first to carry war
+into the enemy's country; but Rita is not slow to retort, and presently
+they both have to admit that their recriminations are only a vain
+attempt to drown the voice of self-reproach. In a sort of fierce frenzy
+they tear away veil after veil from their souls, until they realise that
+Eyolf never existed at all, so to speak, for his own sake, but only for
+the sake of their passions and vanities. "Isn't it curious," says Rita,
+summing up the matter, "that we should grieve like this over a little
+stranger boy?"
+
+In blind self-absorption they have played with life and death, and now
+"the great open eyes" of the stranger boy will be for ever upon them.
+Allmers would fain take refuge in a love untainted by the egoism, and
+unexposed to the revulsions, of passion. But not only is Asta's pity
+for Rita too strong to let her countenance this desertion: she has
+discovered that her relation to Allmers is _not_ "exempt from the law of
+change," and she "takes flight from him--and from herself." Meanwhile
+it appears that the agony which Allmers and Rita have endured in
+probing their wounds has been, as Halvard Solness would say, "salutary
+self-torture." The consuming fire of passion is now quenched, but "it,
+has left an empty place within them," and they feel it common need "to
+fill it up with something that is a little like love." They come to
+remember that there are other children in the world on whom reckless
+instinct has thrust the gift, of life--neglected children, stunted and
+maimed in mind if not in body. And now that her egoism is seared to the
+quick, the mother-instinct asserts itself in Rita. She will take these
+children to her--these children to whom her hand and her heart have
+hitherto been closed. They shall be outwardly in Eyolf's place, and
+perhaps in time they may fill the place in her heart that should have
+been Eyolf's. Thus she will try to "make her peace with the great open
+eyes." For now, at last, she has divined the secret of the unwritten
+book on "human responsibility" and has realised that motherhood
+means--atonement.
+
+So I read this terrible and beautiful work of art. This, I think, is _a_
+meaning inherent in it--not perhaps _the_ meaning, and still less all
+the meanings. Indeed, its peculiar fascination for me, among all Ibsen's
+works, lies in the fact that it seems to touch life at so many different
+points. But I must not be understood as implying that Ibsen constructed
+the play with any such definitely allegoric design as is here set forth.
+I do not believe that this creator of men and women ever started from an
+abstract conception. He did not first compose his philosophic tune and
+then set his puppets dancing to it. The germ in his mind was dramatic,
+not ethical; it was only as the drama developed that its meanings dawned
+upon him; and he left them implicit and fragmentary, like the symbolism
+of life itself, seldom formulated, never worked out with schematic
+precision. He simply took a cutting from the tree of life, and, planting
+it in the rich soil of his imagination, let it ramify and burgeon as it
+would.
+
+Even if one did not know the date of _Little Eyolf_, one could
+confidently assign it to the latest period of Ibsen's career, on
+noting a certain difference of scale between its foundations and its
+superstructure. In his earlier plays, down to and including _Hedda
+Gabler_, we feel his invention at work to the very last moment, often
+with more intensity in the last act than in the first; in his later
+plays he seems to be in haste to pass as early as possible from
+invention to pure analysis. In this play, after the death of Eyolf
+(surely one of the most inspired "situations" in all drama) there is
+practically no external action whatsoever. Nothing happens save in the
+souls of the characters; there is no further invention, but rather what
+one may perhaps call inquisition. This does not prevent the second act
+from being quite the most poignant or the third act from being one of
+the most moving that Ibsen ever wrote. Far from wishing to depreciate
+the play, I rate it more highly, perhaps, than most critics--among the
+very greatest of Ibsen's achievements. I merely note as a characteristic
+of the poet's latest manner this disparity of scale between the work
+foreshadowed, so to speak, and the work completed. We shall find it
+still more evident in the case of _John Gabriel Borkman_.
+
+
+
+
+LITTLE EYOLF
+
+(1894)
+
+
+
+
+CHARACTERS
+
+     ALFRED ALLMERS, landed proprietor and man of letters
+        formerly a tutor.
+     MRS. RITA ALLMERS, his wife.
+     EYOLF, their child, nine years old.
+     MISS ASTA ALLMERS, Alfred's younger half-sister.
+     ENGINEER BORGHEIM.
+     THE RAT-WIFE.
+
+The action takes place on ALLMERS'S property, bordering on the fjord,
+twelve or fourteen miles from Christiania.
+
+
+PLAY IN THREE ACTS
+
+
+
+
+ACT FIRST
+
+[A pretty and richly-decorated garden-room, full of furniture, flowers,
+and plants. At the back, open glass doors, leading out to a verandah. An
+extensive view over the fiord. In the distance, wooded hillsides. A door
+in each of the side walls, the one on the right a folding door, placed
+far back. In front on the right, a sofa, with cushions and rugs. Beside
+the sofa, a small table, and chairs. In front, on the left, a larger
+table, with arm-chairs around it. On the table stands an open hand-bag.
+It is an early summer morning, with warm sunshine.]
+
+[Mrs. RITA ALLMERS stands beside the table, facing towards the
+left, engaged in unpacking the bag. She is a handsome, rather tall,
+well-developed blonde, about thirty years of age, dressed in a
+light-coloured morning-gown.]
+
+[Shortly after, Miss ASTA ALLMERS enters by the door on the right,
+wearing a light brown summer dress, with hat, jacket, and parasol. Under
+her arm she carries a locked portfolio of considerable size. She
+is slim, of middle height, with dark hair, and deep, earnest eyes.
+Twenty-five years old.]
+
+ASTA. [As she enters.] Good-morning, my dear Rita.
+
+RITA. [Turns her head, and nods to her.] What! is that you, Asta? Come
+all the way from town so early?
+
+ASTA. [Takes of her things, and lays them on a chair beside the door.]
+Yes, such a restless feeling came over me. I felt I must come out
+to-day, and see how little Eyolf was getting on--and you too. [Lays the
+portfolio on the table beside the sofa.] So I took the steamer, and here
+I am.
+
+RITA. [Smiling to her.] And I daresay you met one or other of your
+friends on board? Quite by chance, of course.
+
+ASTA. [Quietly.] No, I did not meet a soul I knew. [Sees the bag.] Why,
+Rita, what have you got there?
+
+RITA. [Still unpacking.] Alfred's travelling-bag. Don't you recognise
+it?
+
+ASTA. [Joyfully, approaching her.] What! Has Alfred come home?
+
+RITA. Yes, only think--he came quite unexpectedly by the late train last
+night.
+
+ASTA. Oh, then that was what my feeling meant! It was that that drew
+me out here! And he hadn't written a line to let you know? Not even a
+post-card?
+
+RITA. Not a single word.
+
+ASTA. Did he not even telegraph?
+
+RITA. Yes, an hour before he arrived--quite curtly and coldly. [Laughs.]
+Don't you think that was like him, Asta?
+
+ASTA. Yes; he goes so quietly about everything.
+
+RITA. But that made it all the more delightful to have him again.
+
+ASTA. Yes, I am sure it would.
+
+RITA. A whole fortnight before I expected him!
+
+ASTA. And is he quite well? Not in low spirits?
+
+RITA. [Closes the bag with a snap, and smiles at her.] He looked quite
+transfigured as he stood in the doorway.
+
+ASTA. And was he not the least bit tired either?
+
+RITA. Oh, yes, he seemed to be tired enough--very tired, in fact. But,
+poor fellow, he had come on foot the greater part of the way.
+
+ASTA. And then perhaps the high mountain air may have been rather too
+keen for him.
+
+RITA. Oh, no; I don't think so at all. I haven't heard him cough once.
+
+ASTA. Ah, there you see now! It was a good thing, after all, that the
+doctor talked him into taking this tour.
+
+RITA. Yes, now that it is safely over.--But I can tell you it has been a
+terrible time for me, Asta. I have never cared to talk about it--and you
+so seldom came out to see me, too--
+
+ASTA. Yes, I daresay that wasn't very nice of me--but--
+
+RITA. Well, well, well, of course you had your school to attend to in
+town. [Smiling.] And then our road-maker friend--of course he was away
+too.
+
+ASTA. Oh, don't talk like that, Rita.
+
+RITA. Very well, then; we will leave the road-maker out of the
+question.--You can't think how I have been longing for Alfred! How empty
+the place seemed! How desolate! Ugh, it felt as if there had been a
+funeral in the house!
+
+ASTA. Why, dear me, only six or seven weeks--
+
+RITA. Yes; but you must remember that Alfred has never been away from
+me before--never so much as twenty-four hours. Not once in all these ten
+years.
+
+ASTA. No; but that is just why I really think it was high time he should
+have a little outing this year. He ought to have gone for a tramp in the
+mountains every summer--he really ought.
+
+RITA. [Half smiling.] Oh yes, it's all very well fair you to talk. If
+I were as--as reasonable its you, I suppose I should have let him go
+before--perhaps. But I positively could not, Asta! It seemed to me I
+should never get him back again. Surely you can understand that?
+
+ASTA. No. But I daresay that is because I have no one to lose.
+
+RITA. [With a teasing smile.] Really? No one at all?
+
+ASTA. Not that _I_ know of. [Changing the subject.] But tell me, Rita,
+where is Alfred? Is he still asleep?
+
+RITA. Oh, not at all. He got up as early as ever to-day.
+
+ASTA. Then he can't have been so very tired after all.
+
+RITA. Yes, he was last night--when he arrived. But now he has had little
+Eyolf with him in his room for a whole hour and more.
+
+ASTA. Poor little white-faced boy! Has he to be for ever at his lessons
+again?
+
+RITA. [With a slight shrug.] Alfred will have it so, you know.
+
+ASTA. Yes; but I think you ought to put down your foot about it, Rita.
+
+RITA. [Somewhat impatiently.] Oh no; come now, I really cannot meddle
+with that. Alfred knows so much better about these things than I do. And
+what would you have Eyolf do? He can't run about and play, you see--like
+other children.
+
+ASTA. [With decision.] I will talk to Alfred about this.
+
+RITA. Yes, do; I wish you would.--Oh! here he is.
+
+[ALFRED ALLMERS, dressed in light summer clothes, enters by the door on
+the left, leading EYOLF by the hand. He is a slim, lightly-built man of
+about thirty-six or thirty-seven, with gentle eyes, and thin brown hair
+and beard. His expression is serious and thoughtful. EYOLF wears a suit
+cut like a uniform, with gold braid and gilt military buttons. He is
+lame, and walks with a crutch under his left arm. His leg is shrunken.
+He is undersized, and looks delicate, but has beautiful intelligent
+eyes.]
+
+ALLMERS. [Drops EYOLF's hand, goes up to ASTA with an expression of
+marked pleasure, and holds out both his hands to her.] Asta! My dearest
+Asta! To think of your coming! To think of my seeing you so soon!
+
+ASTA. I felt I must--. Welcome home again!
+
+ALLMERS. [Shaking her hands.] Thank you for coming.
+
+RITA. Doesn't he look well?
+
+ASTA. [Gazes fixedly at him.] Splendid! Quite splendid! His eyes are so
+much brighter! And I suppose you have done a great deal of writing on
+your travels? [With an outburst of joy.] I shouldn't wonder if you had
+finished the whole book, Alfred?
+
+ALLMERS. [Shrugging his shoulders.] The book? Oh, the book--
+
+ASTA. Yes, I was sure you would find it go so easily when once you got
+away.
+
+ALLMERS. So I thought too. But, do you know, I didn't find it so at all.
+The truth is, I have not written a line of the book.
+
+ASTA. Not a line?
+
+RITA. Oho! I wondered when I found all the paper lying untouched in your
+bag.
+
+ASTA. But, my dear Alfred, what have you been doing all this time?
+
+ALLMERS. [Smiling.] Only thinking and thinking and thinking.
+
+RITA. [Putting her arm round his neck.] And thinking a little, too, of
+those you had left at home?
+
+ALLMERS. Yes, you may be sure of that. I have thought a great deal of
+you--every single day.
+
+RITA. [Taking her arm away.] Ah, that is all I care about.
+
+ASTA. But you haven't even touched the book! And yet you can look so
+happy and contented! That is not what you generally do--I mean when your
+work is going badly.
+
+ALLMERS. You are right there. You see, I have been such a fool hitherto.
+All the best that is in you goes into thinking. What you put on paper is
+worth very little.
+
+ASTA. [Exclaiming.] Worth very little!
+
+RITA. [Laughing.] What an absurd thing to say, Alfred.
+
+EYOLF. [Looks confidingly up at him.] Oh yes, Papa, what you write is
+worth a great deal!
+
+ALLMERS. [Smiling and stroking his hair.] Well, well, since you say
+so.--But I can tell you, some one is coming after me who will do it
+better.
+
+EYOLF. Who can that be? Oh, tell me!
+
+ALLMERS. Only wait--you may be sure he will come, and let us hear of
+him.
+
+EYOLF. And what will you do then?
+
+ALLMERS. [Seriously.] Then I will go to the mountains again--
+
+RITA. Fie, Alfred! For shame!
+
+ALLMERS.--up to the peaks and the great waste places.
+
+EYOLF. Papa, don't you think I shall soon be well enough for you to take
+me with you?
+
+ALLMERS. [With painful emotion.] Oh, yes, perhaps, my little boy.
+
+EYOLF. It would be so splendid, you know, if I could climb the
+mountains, like you.
+
+ASTA. [Changing the subject.] Why, how beautifully you are dressed
+to-day, Eyolf!
+
+EYOLF. Yes, don't you think so, Auntie?
+
+ASTA. Yes, indeed. Is it in honour of Papa that you have got your new
+clothes on?
+
+EYOLF. Yes, I asked Mama to let me. I wanted so to let Papa see me in
+them.
+
+ALLMERS. [In a low voice, to RITA.] You shouldn't have given him clothes
+like that.
+
+RITA. [In a low voice.] Oh, he has teased me so long about them--he had
+set his heart on them. He gave me no peace.
+
+EYOLF. And I forgot to tell you, Papa--Borgheim has bought me a new bow.
+And he has taught me how to shoot with it too.
+
+ALLMERS. Ah, there now--that's just the sort of thing for you, Eyolf.
+
+EYOLF. And next time he comes, I shall ask him to teach me to swim, too.
+
+ALLMERS. To swim! Oh, what makes you want to learn swimming?
+
+EYOLF. Well, you know, all the boys down at the beach can swim. I am the
+only one that can't.
+
+ALLMERS. [With emotion, taking him in his arms.] You shall learn
+whatever you like--everything you really want to.
+
+EYOLF. Then do you know what I want most of all, Papa?
+
+ALLMERS. No; tell me.
+
+EYOLF. I want most of all to be a soldier.
+
+ALLMERS. Oh, little Eyolf, there are many, many other things that are
+better than that.
+
+EYOLF. Ah, but when I grow big, then I shall have to be a soldier. You
+know that, don't you?
+
+ALLMERS. [Clenching his hands together.] Well, well, well: we shall
+see--
+
+ASTA. [Seating herself at the table on the left.] Eyolf! Come here to
+me, and I will tell you something.
+
+EYOLF. [Goes up to her.] What is it, Auntie?
+
+ASTA. What do you think, Eyolf--I have seen the Rat-Wife.
+
+EYOLF. What! Seen the Rat-Wife! Oh, you're only making a fool of me!
+
+ASTA. No; it's quite true. I saw her yesterday.
+
+EYOLF. Where did you see her?
+
+ASTA. I saw her on the road, outside the town.
+
+ALLMERS. I saw her, too, somewhere up in the country.
+
+RITA. [Who is sitting on the sofa.] Perhaps it will be out turn to see
+her next, Eyolf.
+
+EYOLF. Auntie, isn't it strange that she should be called the Rat-Wife?
+
+ASTA. Oh, people just give her that name because she wanders round the
+country driving away all the rats.
+
+ALLMERS. I have heard that her real name is Varg.
+
+EYOLF. Varg! That means a wolf, doesn't it?
+
+ALLMERS. [Patting him on the head.] So you know that, do you?
+
+EYOLF. [Cautiously.] Then perhaps it may be true, after all, that she is
+a were-wolf at night. Do you believe that, Papa?
+
+ALLMERS. Oh, no; I don't believe it. Now you ought to go and play a
+little in the garden.
+
+EYOLF. Should I not take some books with me?
+
+ALLMERS. No, no books after this. You had better go down to the beach to
+the other boys.
+
+EYOLF. [Shyly.] No, Papa, I won't go down to the boys to-day.
+
+ALLMERS. Why not?
+
+EYOLF. Oh, because I have these clothes on.
+
+ALLMERS. [Knitting his brows.] Do you mean that they make fun of--of
+your pretty clothes?
+
+EYOLF. [Evasively.] No, they daren't--for then I would thrash them.
+
+ALLMERS. Aha!--then why--?
+
+EYOLF. You see, they are so naughty, these boys. And then they say I can
+never be a soldier.
+
+ALLMERS. [With suppressed indignation.] Why do they say that, do you
+think?
+
+EYOLF. I suppose they are jealous of me. For you know, Papa, they are so
+poor, they have to go about barefoot.
+
+ALLMERS. [Softly, with choking voice.] Oh, Rita--how it wrings my heart!
+
+RITA. [Soothingly, rising.] There, there, there!
+
+ALLMERS. [Threateningly.] But these rascals shall soon find out who is
+the master down at the beach!
+
+ASTA. [Listening.] There is some one knocking.
+
+EYOLF. Oh, I'm sure it's Borgheim!
+
+RITA. Come in.
+
+[The RAT-WIFE comes softly and noiselessly in by the door on the right.
+She is a thin little shrunken figure, old and grey-haired, with keen,
+piercing eyes, dressed in an old-fashioned flowered gown, with a black
+hood and cloak. She has in her hand a large red umbrella, and carries a
+black bag by a loop over her arm.]
+
+EYOLF. [Softly, taking hold of ASTA's dress.] Auntie! That must surely
+be her!
+
+THE RAT-WIFE. [Curtseying at the door.] I humbly beg pardon--but are
+your worships troubled with any gnawing things in the house?
+
+ALLMERS. Here? No, I don't think so.
+
+THE RAT-WIFE. For it would be such a pleasure to me to rid your
+worships' house of them.
+
+RITA. Yes, yes; we understand. But we have nothing of the sort here.
+
+THE RAT-WIFE. That's very unlucky, that is; for I just happened to be
+on my rounds now, and goodness knows when I may be in these parts
+again.--Oh, how tired I am!
+
+ALLMERS. [Pointing to a chair.] Yes, you look tired.
+
+THE RAT-WIFE. I know one ought never to get tired of doing good to the
+poor little things that are hated and persecuted so cruelly. But it
+takes your strength out of you, it does.
+
+RITA. Won't you sit down and rest a little?
+
+THE RAT-WIFE. I thank your ladyship with all my heart. [Seats herself on
+a chair between the door and the sofa.] I have been out all night at my
+work.
+
+ALLMERS. Have you indeed?
+
+THE RAT-WIFE. Yes, over on the islands. [With a chuckling laugh.] The
+people sent for me, I can assure you. They didn't like it a bit; but
+there was nothing else to be done. They had to put a good face on it,
+and bite the sour apple. [Looks at EYOLF, and nods.] The sour apple,
+little master, the sour apple.
+
+EYOLF. [Involuntarily, a little timidly.] Why did they have to--?
+
+THE RAT-WIFE. What?
+
+EYOLF. To bite it?
+
+THE RAT-WIFE. Why, because they couldn't keep body and soul together
+on account of the rats and all the little rat-children, you see, young
+master.
+
+RITA. Ugh! Poor people! Have they so many of them?
+
+THE RAT-WIFE. Yes, it was all alive and swarming with them. [Laughs with
+quiet glee.] They came creepy-crawly up into the beds all night long.
+They plumped into the milk-cans, and they went pittering and pattering
+all over the floor, backwards and forwards, and up and down.
+
+EYOLF. [Softly, to ASTA.] I shall never go there, Auntie.
+
+THE RAT-WIFE. But then I came--I, and another along with me. And we took
+them with us, every one--the sweet little creatures! We made an end of
+every one of them.
+
+EYOLF. [With a shriek.] Papa--look! look!
+
+RITA. Good Heavens, Eyolf!
+
+ALLMERS. What's the matter?
+
+EYOLF. [Pointing.] There's something wriggling in the bag!
+
+RITA. [At the extreme left, shrieks.] Ugh! Send her away, Alfred.
+
+THE RAT-WIFE. [Laughing.] Oh, dearest lady, you needn't be frightened of
+such a little mannikin.
+
+ALLMERS. But what is the thing?
+
+THE RAT-WIFE. Why, it's only little Mopsëman. [Loosening the string of
+the bag.] Come up out of the dark, my own little darling friend.
+
+[A little dog with a broad black snout pokes its head out of the bag.]
+
+THE RAT-WIFE. [Nodding and beckoning to EYOLF.] Come along, don't be
+afraid, my little wounded warrior! He won't bite. Come here! Come here!
+
+EYOLF. [Clinging to ASTA.] No, I dare not.
+
+THE RAT-WIFE. Don't you think he has a gentle, lovable countenance, my
+young master?
+
+EYOLF. [Astonished, pointing.] That thing there?
+
+THE RAT-WIFE. Yes, this thing here.
+
+EYOLF. [Almost under his breath, staring fixedly at the dog.] I think he
+has the horriblest--countenance I ever saw.
+
+THE RAT-WIFE. [Closing the bag.] Oh, it will come--it will come, right
+enough.
+
+EYOLF. [Involuntarily drawing nearer, at last goes right up to her, and
+strokes the bag.] But he is lovely--lovely all the same.
+
+THE RAT-WIFE. [In a tone of caution.] But now he is so tired and weary,
+poor thing. He's utterly tired out, he is. [Looks at ALLMERS.] For it
+takes the strength out of you, that sort of game, I can tell you, sir.
+
+ALLMERS. What sort of game do you mean?
+
+THE RAT-WIFE. The luring game.
+
+ALLMERS. Do you mean that it is the dog that lures the rats?
+
+THE RAT-WIFE. [Nodding.] Mopsëman and I--we two do it together. And it
+goes so smoothly--for all you can see, at any rate. I just slip a string
+through his collar, and then I lead him three times round the house, and
+play on my Pan's-pipes. When they hear that, they have got to come up
+from the cellars, and down from the garrets, and out of flour boles, all
+the blessed little creatures.
+
+EYOLF. And does he bite them to death then?
+
+THE RAT-WIFE. Oh, not at all! No, we go down to the boat, he and I
+do--and then they follow after us, both the big ones and the little
+ratikins.
+
+EYOLF. [Eagerly.] And what then--tell me!
+
+THE RAT-WIFE. Then we push out from the land, and I scull with one
+oar, and play on my Pan's-pipes. And Mopsëman, he swims behind. [With
+glittering eyes.] And all the creepers and crawlers, they follow and
+follow us out into the deep, deep waters. Ay, for they have to.
+
+EYOLF. Why do they have to?
+
+THE RAT-WIFE. Just because they want not to--just because they are so
+deadly afraid of the water. That is why they have got to plunge into it.
+
+EYOLF. Are they drowned, then?
+
+THE RAT-WIFE. Every blessed one. [More softly.] And there it is all as
+still, and soft, and dark as their hearts can desire, the lovely little
+things. Down there they sleep a long, sweet sleep, with no one to hate
+them or persecute them any more. [Rises.] In the old days, I can tell
+you, I didn't need any Mopsëman. Then I did the luring myself--I alone.
+
+EYOLF. And what did you lure then?
+
+THE RAT-WIFE. Men. One most of all.
+
+EYOLF. [With eagerness.] Oh, who was that one? Tell me!
+
+THE RAT-WIFE. [Laughing.] It was my own sweetheart, it was, little
+heart-breaker!
+
+EYOLF. And where is he now, then?
+
+THE RAT-WIFE. [Harshly.] Down where all the rats are. [Resuming her
+milder tone.] But now I must be off and get to business again. Always on
+the move. [To RITA.] So your ladyship has no sort of use for me to-day?
+I could finish it all off while I am about it.
+
+RITA. No, thank you; I don't think we require anything.
+
+THE RAT-WIFE. Well, well, your sweet ladyship, you can never tell.
+If your ladyship should find that there is anything lure that keeps
+nibbling and gnawing, and creeping and crawling, then just see and get
+hold of me and Mopsëman.--Good-bye, good-bye, a kind good-bye to you
+all. [She goes out by the door on the right.]
+
+EYOLF. [Softly and triumphantly, to ASTA.] Only think, Auntie, now I
+have seen the Rat-Wife too!
+
+[RITA goes out upon the verandah, and fans herself with her
+pocket-handkerchief. Shortly afterwards, EYOLF slips cautiously and
+unnoticed out to the right.]
+
+ALLMERS. [Takes up the portfolio from the table by the sofa.] Is this
+your portfolio, Asta?
+
+ASTA. Yes. I have some of the old letters in it.
+
+ALLMERS. Ah, the family letters--
+
+ASTA. You know you asked me to arrange them for you while you were away.
+
+ALLMERS. [Pats her on the head.] And you have actually found time to do
+that, dear?
+
+ASTA. Oh, yes. I have done it partly out here and partly at my own rooms
+in town.
+
+ALLMERS. Thanks, dear. Did you find anything particular in them?
+
+ASTA. [Lightly.] Oh, you know you always find something or other in such
+old papers. [Speaking lower and seriously.] It is the letters to mother
+that are in this portfolio.
+
+ALLMERS. Those, of course, you must keep yourself.
+
+ASTA. [With an effort.] No; I am determined that you shall look through
+them, too, Alfred. Some time--later on in life. I haven't the key of the
+portfolio with me just now.
+
+ALLMERS. It doesn't matter, my dear Asta, for I shall never read your
+mother's letters in any case.
+
+ASTA. [Fixing her eyes on him.] Then some time or other--some quiet
+evening--I will tell you a little of what is in them.
+
+ALLMERS. Yes, that will be much better. But do you keep your mother's
+letters--you haven't so many mementos of her.
+
+[He hands ASTA the portfolio. She takes it, and lays it on the chair
+under her outdoor things. RITA comes into the room again.]
+
+RITA. Ugh! I feel as if that horrible old woman had brought a sort of
+graveyard smell with her.
+
+ALLMERS. Yes, she was rather horrible.
+
+RITA. I felt almost sick while she was in the room.
+
+ALLMERS. However, I can very well understand the sort of spellbound
+fascination that she talked about. The loneliness of the mountain-peaks
+and of the great waste places has something of the same magic about it.
+
+ASTA. [Looks attentively at him.] What is it that has happened to you,
+Alfred?
+
+ALLMERS. [Smiling.] To me?
+
+ASTA. Yes, something has happened--something seems almost to have
+transformed you. Rita noticed it too.
+
+RITA. Yes, I saw it the moment you came. A change for the better, I
+hope, Alfred?
+
+ALLMERS. It ought to be for the better. And it must and shall come to
+good.
+
+RITA. [With an outburst.] You have had some adventure on your journey!
+Don't deny it! I can see it in your face!
+
+ALLMERS. [Shaking his head.] No adventure in the world--outwardly at
+least. But--
+
+RITA. [Eagerly.] But--?
+
+ALLMERS. It is true that within me there has been something of a
+revolution.
+
+RITA. Oh Heavens--!
+
+ALLMERS. [Soothingly, patting her hand.] Only for the better, my dear
+Rita. You may be perfectly certain of that.
+
+RITA. [Seats herself on the sofa.] You must tell us all about it, at
+once--tell us everything!
+
+ALLMERS. [Turning to ASTA.] Yes, let us sit down, too, Asta. Then I will
+try to tell you as well as I can.
+
+[He seats himself on the sofa at RITA's side. ASTA moves a chair
+forward, and places herself near him.]
+
+RITA. [Looking at him expectantly.] Well--?
+
+ALLMERS. [Gazing straight before him.] When I look back over my
+life--and my fortunes--for the last ten or eleven years, it seems to me
+almost like a fairy-tale or a dream. Don't you think so too, Asta?
+
+ASTA. Yes, in many ways I think so.
+
+ALLMERS. [Continuing.] When I remember what we two used to be, Asta--we
+two poor orphan children--
+
+RITA. [Impatiently.] Oh, that is such an old, old story.
+
+ALLMERS. [Not listening to her.] And now here I am in comfort and
+luxury. I have been able to follow my vocation. I have been able to work
+and study--just as I had always longed to. [Holds out his hand.] And all
+this great--this fabulous good fortune we owe to you, my dearest Rita.
+
+RITA. [Half playfully, half angrily, slaps his hand.] Oh, I do wish you
+would stop talking like that.
+
+ALLMERS. I speak of it only as a sort of introduction.
+
+RITA. Then do skip the introduction!
+
+ALLMERS. Rita,--you must not think it was the doctor's advice that drove
+me up to the mountains.
+
+ASTA. Was it not, Alfred?
+
+RITA. What was it, then?
+
+ALLMERS. It was this: I found there was no more peace for me, there in
+my study.
+
+RITA. No peace! Why, who disturbed you?
+
+ALLMERS. [Shaking his head.] No one from without. But I felt as though
+I were positively abusing--or, say rather, wasting--my best
+powers--frittering away the time.
+
+ASTA. [With wide eyes.] When you were writing at your book?
+
+ALLMERS. [Nodding.] For I cannot think that my powers are confined to
+that alone. I must surely have it in me to do one or two other things as
+well.
+
+RITA. Was that what you sat there brooding over?
+
+ALLMERS. Yes, mainly that.
+
+RITA. And so that is what has made you so discontented with yourself
+of late; and with the rest of us as well. For you know you were
+discontented, Alfred.
+
+ALLMERS. [Gazing straight before him.] There I sat bent over my table,
+day after day, and often half the night too--writing and writing at the
+great thick book on "Human Responsibility." H'm!
+
+ASTA. [Laying her hand upon his arm.] But, Alfred--that book is to be
+your life-work.
+
+RITA. Yes, you have said so often enough.
+
+ALLMERS. I thought so. Ever since I grew up, I have thought so. [With an
+affectionate expression in his eyes.] And it was you that enabled me to
+devote myself to it, my dear Rita--
+
+RITA. Oh, nonsense!
+
+ALLMERS. [Smiling to her.]--you, with your gold, and your green
+forests--
+
+RITA. [Half laughing, half vexed.] If you begin all that rubbish again,
+I shall beat you.
+
+ASTA. [Looking sorrowfully at him.] But the book, Alfred?
+
+ALLMERS. It began, as it were, to drift away from me. But I was more and
+more beset by the thought of the higher duties that laid their claims
+upon me.
+
+RITA. [Beaming, seizes his hand.] Alfred!
+
+ALLMERS. The thought of Eyolf, my dear Rita.
+
+RITA. [Disappointed, drops his hand.] Ah--of Eyolf!
+
+ALLMERS. Poor little Eyolf has taken deeper and deeper hold of me. After
+that unlucky fall from the table--and especially since we have been
+assured that the injury is incurable--
+
+RITA. [Insistently.] But you take all the care you possibly can of him,
+Alfred!
+
+ALLMERS. As a schoolmaster, yes; but not as a father. And it is a father
+that I want henceforth to be to Eyolf.
+
+RITA. [Looking at him and shaking her head.] I don't think I quite
+understand you.
+
+ALLMERS. I mean that I will try with all my might to make his misfortune
+as painless and easy to him as it can possibly be.
+
+RITA. Oh, but, dear--thank Heaven, I don't think he feels it so deeply.
+
+ASTA. [With emotion.] Yes, Rita, he does.
+
+ALLMERS. Yes, you may be sure he feels it deeply.
+
+RITA. [Impatiently.] But, Alfred, what more can you do for him?
+
+ALLMERS. I will try to perfect all the rich possibilities that are
+dawning in his childish soul. I will foster all the germs of good in his
+nature--make them blossom and bear fruit. [With more and more warmth,
+rising.] And I will do more than that! I will help him to bring his
+desires into harmony with what lies attainable before him. That is just
+what at present they are not. All his longings are for things that
+must for ever remain unattainable to him. But I will create a conscious
+happiness in his mind. [He goes once or twice up and down the room. ASTA
+and RITA follow him with their eyes.]
+
+RITA. You should take these things more quietly, Alfred!
+
+ALLMERS. [Stops beside the table on the left, and looks at them.] Eyolf
+shall carry on my life-work--if he wants to. Or he shall choose one
+that is altogether his own. Perhaps that would be best. At all events, I
+shall let mine rest as it is.
+
+RITA. [Rising.] But, Alfred dear, can you not work both for yourself and
+for Eyolf?
+
+ALLMERS. No, I cannot. It is impossible! I cannot divide myself in this
+matter--and therefore I efface myself. Eyolf shall be the complete man
+of our race. And it shall be my new life-work to make him the complete
+man.
+
+ASTA. [Has risen and now goes up to him.] This must have cost you a
+terribly hard struggle, Alfred?
+
+ALLMERS. Yes, it has. At home here, I should never have conquered
+myself, never brought myself to the point of renunciation. Never at
+home!
+
+RITA. Then that was why you went away this summer?
+
+ALLMERS. [With shining eyes.] Yes! I went up into the infinite
+solitudes. I saw the sunrise gleaming on the mountain peaks. I felt
+myself nearer the stars--I seemed almost to be in sympathy and communion
+with them. And then I found the strength for it.
+
+ASTA. [Looking sadly at him.] But you will never write any more of your
+book on "Human Responsibility"?
+
+ALLMERS. No, never, Asta. I tell you I cannot split up my life between
+two vocations. But I will act out my "human responsibility"--in my own
+life.
+
+RITA. [With a smile.] Do you think you can live up to such high resolves
+at home here?
+
+ALLMERS. [Taking her hand.] With you to help me, I can. [Holds out the
+other hand.] And with you too, Asta.
+
+RITA. [Drawing her hand away.] Ah--with both of us! So, after all, you
+can divide yourself.
+
+ALLMERS. Why, my dearest Rita--!
+
+[RITA moves away from him and stands in the garden doorway. A light and
+rapid knock is heard at the door on the right. Engineer BORGHEIM enters
+quickly. He is a young man of a little over thirty. His expression is
+bright and cheerful, and he holds himself erect.]
+
+BORGHEIM. Good morning, Mrs. Allmers. [Stops with an expression of
+pleasure on seeing ALLMERS.] Why, what's this? Home again already, Mr.
+Allmers?
+
+ALLMERS. [Shaking hands with him.] Yes, I arrived list night.
+
+RITA. [Gaily.] His leave was up, Mr. Borgheim.
+
+ALLMERS. No, you know it wasn't, Rita--
+
+RITA. [Approaching.] Oh yes, but it was, though. His furlough had run
+out.
+
+BORGHEIM. I see you hold your husband well in hand, Mrs. Allmers.
+
+RITA. I hold to my rights. And besides, everything must have an end.
+
+BORGHEIM. Oh, not everything--I hope. Good morning, Miss Allmers!
+
+ASTA. [Holding aloof from him.] Good morning.
+
+RITA. [Looking at BORGHEIM.] Not everything, you say?
+
+BORGHEIM. Oh, I am firmly convinced that there are some things in the
+world that will never come to an end.
+
+RITA. I suppose you are thinking of love--and that sort of thing.
+
+BORGHEIM. [Warmly.] I am thinking of all that is lovely!
+
+RITA. And that never comes to an end. Yes, let us think of that, hope
+for that, all of us.
+
+ALLMERS. [Coming up to them.] I suppose you will soon have finished your
+road-work out here?
+
+BORGHEIM. I have finished it already--finished it yesterday. It has been
+a long business, but, thank Heaven, that has come to an end.
+
+RITA. And you are beaming with joy over that?
+
+BORGHEIM. Yes, I am indeed!
+
+RITA. Well, I must say--
+
+BORGHEIM. What, Mrs. Allmers?
+
+RITA. I don't think it is particularly nice of you, Mr. Borgheim.
+
+BORGHEIM. Indeed! Why not?
+
+RITA. Well, I suppose we sha'n't often see you in these parts after
+this.
+
+BORGHEIM. No, that is true. I hadn't thought of that.
+
+RITA. Oh well, I suppose you will be able to look in upon us now and
+then all the same.
+
+BORGHEIM. No, unfortunately that will be out of my power for a very long
+time.
+
+ALLMERS. Indeed! How so?
+
+BORGHEIM. The fact is, I have got a big piece of new work that I must
+set about at once.
+
+ALLMERS. Have you indeed?--[Pressing his hand.]--I am heartily glad to
+hear it.
+
+RITA. I congratulate you, Mr. Borgheim!
+
+BORGHEIM. Hush, hush--I really ought not to talk openly of it as
+yet! But I can't help coming out with it! It is a great piece of
+road-making--up in the north--with mountain ranges to cross, and
+the most tremendous difficulties to overcome!--[With an outburst of
+gladness.]--Oh, what a glorious world this is--and what a joy it is to
+be a road-maker in it!
+
+RITA. [Smiling, and looking teasingly at him.] Is it road-making
+business that has brought you out here to-day in such wild spirits?
+
+BORGHEIM. No, not that alone. I am thinking of all the bright and
+hopeful prospects that are opening out before me.
+
+RITA. Aha, then perhaps you have something still more exquisite in
+reserve!
+
+BORGHEIM. [Glancing towards ASTA.] Who knows! When once happiness comes
+to us, it is apt to come like it spring flood. [Turns to ASTA.] Miss
+Allmers, would you not like to take a little walk with me? As we used
+to?
+
+ASTA. [Quickly.] No--no, thank you. Not now. Not to-day.
+
+BORGHEIM. Oh, do come! Only a little bit of a walk! I have so much I
+want to talk to you about before I go.
+
+RITA. Something else, perhaps, that you must not talk openly about as
+yet?
+
+BORGHEIM. H'm, that depends--
+
+RITA. But there is nothing to prevent your whispering, you know. [Half
+aside.] Asta, you must really go with him.
+
+ASTA. But, my dear Rita--
+
+BORGHEIM. [Imploringly.] Miss Asta--remember it is to be a farewell
+walk--the last for many a day.
+
+ASTA. [Takes her hat and parasol.] Very well, suppose we take a stroll
+in the garden, then.
+
+BORGHEIM. Oh, thank you, thank you!
+
+ALLMERS. And while you are there you can see what Eyolf is doing.
+
+BORGHEIM. Ah, Eyolf, by the bye! Where is Eyolf to-day? I've got
+something for him.
+
+ALLMERS. He is out playing somewhere.
+
+BORGHEIM. Is he really! Then he has begun to play now? He used always to
+be sitting indoors over his books.
+
+ALLMERS. There is to be an end of that now. I am going to make a regular
+open-air boy of him.
+
+BORGHEIM. Ah, now, that's right! Out into the open air with him, poor
+little fellow! Good Lord, what can we possibly do better than play
+in this blessed world? For my part, I think all life is one long
+playtime!--Come, Miss Asta!
+
+[BORGHEIM and ASTA go out on the verandah and down through the garden.]
+
+ALLMERS. [Stands looking after them.] Rita--do you think there is
+anything between those two?
+
+RITA. I don't know what to say. I used to think there was. But Asta has
+grown so strange to me--so utterly incomprehensible of late.
+
+ALLMERS. Indeed! Has she? While I have been away?
+
+RITA. Yes, within the last week or two.
+
+ALLMERS. And you think she doesn't care very much about him now?
+
+RITA. Not, seriously; not utterly and entirely; not unreservedly--I am
+sure she doesn't. [Looks searchingly at him.] Would it displease you if
+she did?
+
+ALLMERS. It would not exactly displease me. But it would certainly be a
+disquieting thought--
+
+RITA. Disquieting?
+
+ALLMERS. Yes; you must remember that I am responsible for Asta--for her
+life's happiness.
+
+RITA. Oh, come--responsible! Surely Asta has come to years of
+discretion? I should say she was capable of choosing for herself.
+
+ALLMERS. Yes, we must hope so, Rita.
+
+RITA. For my part, I don't think at all ill of Borgheim.
+
+ALLMERS. No, dear--no more do I--quite the contrary. But all the same--
+
+RITA. [Continuing.] And I should be very glad indeed if he and Asta were
+to make a match of it.
+
+ALLMERS. [Annoyed.] Oh, why should you be?
+
+RITA. [With increasing excitement.] Why, for then she would have to go
+far, far away with him! Anal she could never come out here to us, as she
+does now.
+
+ALLMERS. [Stares at her in astonishment.] What! Can you really wish Asta
+to go away?
+
+RITA. Yes, yes, Alfred!
+
+ALLMERS. Why in all the world--?
+
+RITA. [Throwing her arms passionately round his neck.] For then, at
+last, I should have you to myself alone! And yet--not even then!
+Not wholly to myself! [Bursts into convulsive weeping.] Oh, Alfred,
+Alfred--I cannot give you up!
+
+ALLMERS. [Gently releasing himself.] My dearest Rita, do be reasonable!
+
+RITA. I don't care a bit about being reasonable! I care only for you!
+Only for you in all the world! [Again throwing her arms round his neck.]
+For you, for you, for you!
+
+ALLMERS. Let me go, let me go--you are strangling me!
+
+RITA. [Letting him go.] How I wish I could! [Looking at him with
+flashing eyes.] Oh, if you knew how I have hated you--!
+
+ALLMERS. Hated me--!
+
+RITA. Yes--when you shut yourself up in your room and brooded over your
+work--till long, long into the night. [Plaintively.] So long, so late,
+Alfred. Oh, how I hated your work!
+
+ALLMERS. But now I have done with that.
+
+RITA. [With a cutting laugh.] Oh yes! Now you have given yourself up to
+something worse.
+
+ALLMERS. [Shocked.] Worse! Do you call our child something worse?
+
+RITA. [Vehemently.] Yes, I do. As he comes between you and me, I call
+him so. For the book--the book was not a living being, as the child is.
+[With increasing impetuosity.] But I won't endure it, Alfred! I will not
+endure it--I tell you so plainly!
+
+ALLMERS. [Looks steadily at her, and says in a low voice.] I am often
+almost afraid of you, Rita.
+
+RITA. [Gloomily.] I am often afraid of myself. And for that very reason
+you must not awake the evil in me.
+
+ALLMERS. Why, good Heavens, do I do that?
+
+RITA. Yes, you do--when you tear to shreds the holiest bonds between us.
+
+ALLMERS. [Urgently.] Think what you're saying, Rita. It is your own
+child--our only child, that you are speaking of.
+
+RITA. The child is only half mine. [With another outburst.] But you
+shall be mine alone! You shall be wholly mine! That I have a right to
+demand of you!
+
+ALLMERS. [Shrugging his shoulders.] Oh, my dear Rita, it is of no use
+demanding anything. Everything must be freely given.
+
+RITA. [Looks anxiously at him.] And that you cannot do henceforth?
+
+ALLMERS. No, I cannot. I must divide myself between Eyolf and you.
+
+RITA. But if Eyolf had never been born? What then?
+
+ALLMERS. [Evasively.] Oh, that would be another matter. Then I should
+have only you to care for.
+
+RITA. [Softly, her voice quivering.] Then I wish he had never been born.
+
+ALLMERS. [Flashing out.] Rita! You don't know what you are saying!
+
+RITA. [Trembling with emotion.] It was in pain unspeakable that I
+brought him into the world. But I bore it all with joy and rapture for
+your sake.
+
+ALLMERS. [Warmly.] Oh yes, I know, I know.
+
+RITA. [With decision.] But there it must end. I will live my
+life--together with you--wholly with you. I cannot go on being only
+Eyolf's mother--only his mother and nothing more. I will not, I tell
+you! I cannot! I will be all in all to you! To you, Alfred!
+
+ALLMERS. But that is just what you are, Rita. Through our child--
+
+RITA. Oh--vapid, nauseous phrases--nothing else! No, Alfred, I am not to
+be put off like that. I was fitted to become the child's mother, but not
+to be a mother to him. You must take me as I am, Alfred.
+
+ALLMERS. And yet you used to be so fond of Eyolf.
+
+RITA. I was so sorry for him--because you troubled yourself so little
+about him. You kept him reading and grinding at books. You scarcely even
+saw him.
+
+ALLMERS. [Nodding slowly.] No; I was blind. The time had not yet come
+for me--
+
+RITA. [Looking in his face.] But now, I suppose, it has come?
+
+ALLMERS. Yes, at, last. Now I see that the highest task I can have in
+the world is to be a true father to Eyolf.
+
+RITA. And to me?--what will you be to me?
+
+ALLMERS. [Gently.] I will always go on caring for you--with calm, deep
+tenderness. [ He tries to take her hands.]
+
+RITA. [Evading him.] I don't care a bit for your calm, deep tenderness.
+I want you utterly and entirely--and alone! Just as I had you in the
+first rich, beautiful days. [Vehemently and harshly.] Never, never will
+I consent to be put off with scraps and leavings, Alfred!
+
+ALLMERS. [In a conciliatory tone.] I should have thought there was
+happiness in plenty for all three of us, Rita.
+
+RITA. [Scornfully.] Then you are easy to please. [Seats herself at the
+table on the left.] Now listen to me.
+
+ALLMERS. [Approaching.] Well, what is it?
+
+RITA. [Looking up at him with a veiled glow in her eyes.] When I got
+your telegram yesterday evening--
+
+ALLMERS. Yes? What then?
+
+RITA.--then I dressed myself in white--
+
+ALLMERS. Yes, I noticed you were in white when I arrived.
+
+RITA. I had let down my hair--
+
+ALLMERS. Your sweet masses of hair--
+
+RITA.--so that it flowed down my neck and shoulders--
+
+ALLMERS. I saw it, I saw it. Oh, how lovely you were, Rita!
+
+RITA. There were rose-tinted shades over both the lamps. And we were
+alone, we two--the only waking beings in the whole house. And there was
+champagne on the table.
+
+ALLMERS. I did not drink any of it.
+
+RITA. [Looking bitterly at him.] No, that is true. [Laughs harshly.]
+"There stood the champagne, but you tasted it not"--as the poet says.
+
+[She rises from the armchair, goes with an air of weariness over to the
+sofa, and seats herself, half reclining, upon it.]
+
+ALLMERS. [Crosses the room and stands before her.] I was so taken up
+with serious thoughts. I had made up my mind to talk to you of our
+future, Rita--and first and foremost of Eyolf.
+
+RITA. [Smiling.] And so you did--
+
+ALLMERS. No, I had not time to--for you began to undress.
+
+RITA. Yes, and meanwhile you talked about Eyolf. Don't you remember? You
+wanted to know all about little Eyolf's digestion.
+
+ALLMERS. [Looking reproachfully at her.] Rita--!
+
+RITA. And then you got into your bed, and slept the sleep of the just.
+
+ALLMERS. [Shaking his head.] Rita--Rita!
+
+RITA. [Lying at full length and looking up at him.] Alfred?
+
+ALLMERS. Yes?
+
+RITA. "There stood your champagne, but you tasted it not."
+
+ALLMERS. [Almost harshly.] No. I did not taste it.
+
+[He goes away from her and stands in the garden doorway. RITA lies for
+some time motionless, with closed eyes.]
+
+RITA. [Suddenly springing up.] But let me tell you one thing, Alfred.
+
+ALLMERS. [Turning in the doorway.] Well?
+
+RITA. You ought not to feel quite so secure as you do!
+
+ALLMERS. Not secure?
+
+RITA. No, you ought not to be so indifferent! Not certain of your
+property in me!
+
+ALLMERS. [Drawing nearer.] What do you mean by that?
+
+RITA. [With trembling lips.] Never in a single thought have I been
+untrue to you, Alfred! Never for an instant.
+
+ALLMERS. No, Rita, I know that--I, who know you so well.
+
+RITA. [With sparkling eyes.] But if you disdain me--!
+
+ALLMERS. Disdain! I don't understand what you mean!
+
+RITA. Oh, you don't know all that might rise up within me, if--
+
+ALLMERS. If?
+
+RITA. If I should ever see that you did not care for me--that you did
+not love me as you used to.
+
+ALLMERS. But, my dearest Rita--years bring a certain change with
+them--and that must one day occur even in us--as in every one else.
+
+RITA. Never in me! And I will not hear of any change in you either--I
+could not bear it, Alfred. I want to keep you to myself alone.
+
+ALLMERS. [Looking at her with concern.] You have a terribly jealous
+nature--
+
+RITA. I can't make myself different from what I am. [Threateningly.] If
+you go and divide yourself between me and any one else--
+
+ALLMERS. What then--?
+
+RITA. Then I will take my revenge on you, Alfred!
+
+ALLMERS. How "take your revenge"?
+
+RITA. I don't know how.--Oh yes, I do know, well enough!
+
+ALLMERS. Well?
+
+RITA. I will go and throw myself away--
+
+ALLMERS. Throw yourself away, do you say?
+
+RITA. Yes, that I will. I'll throw myself straight into the arms of of
+the first man that comes in my way--
+
+ALLMERS. [Looking tenderly at her and shaking his head.] That you will
+never do--my loyal, proud, true-hearted Rita!
+
+RITA. [Putting her arms round his neck.] Oh, you don't know what I might
+come to be if you--if you did not love me any more.
+
+ALLMERS. Did not love you, Rita? How can you say such a thing!
+
+RITA. [Half laughing, lets him go.] Why should I not spread my nets for
+that--that road-maker man that hangs about here?
+
+ALLMERS. [Relieved.] Oh, thank goodness--you are only joking.
+
+RITA. Not at all. He would do as well as any one else.
+
+ALLMERS. Ah, but I suspect he is more or less taken up already.
+
+RITA. So much the better! For then I should take him away from some one
+else; and that is just what Eyolf has done to me.
+
+ALLMERS. Can you say that our little Eyolf has done that?
+
+RITA. [Pointing with her forefinger.] There, you see! You see! The
+moment you mention Eyolf's name, you grow tender and your voice quivers!
+[Threateningly, clenching her hands.] Oh, you almost tempt we to wish--
+
+ALLMERS. [Looking at her anxiously.] What do I tempt you to wish,
+Rita?--
+
+RITA. [Vehemently, going away from him.] No, no, no--I won't tell you
+that! Never!
+
+ALLMERS. [Drawing nearer to her.] Rita! I implore you--for my sake and
+for your own--do not let yourself he tempted into evil.
+
+[BORGHEIM and ASTA come up from the garden. They both show signs of
+restrained emotion. They look serious and dejected. ASTA remains out on
+the verandah. BORGHEIM comes into the room.]
+
+BORGHEIM. So that is over--Miss Allmers and I have had our last walk
+together.
+
+RITA. [Looks at him with surprise.] Ah! And there is no longer journey
+to follow the walk?
+
+BORGHEIM. Yes, for me.
+
+RITA. For you alone?
+
+BORGHEIM. Yes, for me alone.
+
+RITA. [Glances darkly at ALLMERS.] Do you hear that? [Turns to
+BORGHEIM.] I'll wager it is some one with the evil eye that has played
+you this trick.
+
+BORGHEIM. [Looks at her.] The evil eye?
+
+RITA. [Nodding.] Yes, the evil eye.
+
+BORGHEIM. Do you believe in the evil eye, Mrs. Allmers?
+
+RITA. Yes. I have begun to believe in the evil eye. Especially in a
+child's evil eye.
+
+ALLMERS. [Shocked, whispers.] Rita--how can you--?
+
+RITA. [Speaking low.] It is you that make me so wicked and hateful,
+Alfred.
+
+[Confused cries and shrieks are heard in the distance, from the
+direction of the fiord.]
+
+BORGHEIM. [Going to the glass door.] What noise is that?
+
+ASTA. [In the doorway.] Look at all those people running down to the
+pier!
+
+ALLMERS. What can it be? [Looks out for a moment.] No doubt it's those
+street urchins at some mischief again.
+
+BORGHEIM. [Calls, leaning over the verandah railings.] I say, you boys
+down there! What's the matter?
+
+[Several voices are heard answering indistinctly and confusedly.]
+
+RITA. What do they say?
+
+BORGHEIM. They say it's a child that's drowned.
+
+ALLMERS. A child drowned?
+
+ASTA. [Uneasily.] A little boy, they say.
+
+ALLMERS. Oh, they can all swim, every one of them.
+
+RITA. [Shrieks in terror.] Where is Eyolf?
+
+ALLMERS. Keep quiet--quiet. Eyolf is down in the garden, playing.
+
+ASTA. No, he wasn't in the garden.
+
+RITA. [With upstretched arms.] Oh, if only it isn't he!
+
+BORGHEIM. [Listens, and calls down.] Whose child is it, do you say?
+
+[Indistinct voices are heard. BORGHEIM and ASTA utter a suppressed cry,
+and rush out through the garden.]
+
+ALLMERS. [In an agony of dread.] It isn't Eyolf! It isn't Eyolf, Rita!
+
+RITA. [On the verandah, listening.] Hush! Be quiet! Let me hear what
+they are saying!
+
+[RITA rushes back with a piercing shriek, into the room.]
+
+ALLMERS. [Following her.] What did they say?
+
+RITA. [Sinking down beside the armchair on the left.] They said: "The
+crutch is floating!"
+
+ALLMERS. [Almost paralysed.] No! No! No!
+
+RITA. [Hoarsely.] Eyolf! Eyolf! Oh, but they must save him!
+
+ALLMERS. [Half distracted.] They must, they must! So precious a life!
+
+[He rushes down through the garden.]
+
+
+
+
+ACT SECOND
+
+[A little narrow glen by the side of the fiord, on ALLMERS'S property.
+On the left, lofty old trees overarch the spot. Down the slope in the
+background a brook comes leaping, and loses itself among the stones on
+the margin of the wood. A path winds along by the brook-side. To the
+right there are only a few single trees, between which the fiord is
+visible. In front is seen the corner of a boat-shed with a boat drawn
+up. Under the old trees on the left stands a table with a bench and one
+or two chairs, all made of thin birch-staves. It is a heavy, damp day,
+with driving mist wreaths.]
+
+[ALFRED ALLMERS, dressed as before, sits on the bench, leaning his arms
+on the table. His hat lies before him. He gazes absently and immovably
+out over the water.]
+
+[Presently ASTA ALLMERS comes down the woodpath. She is carrying an open
+umbrella.]
+
+ASTA. [Goes quietly and cautiously up to him.] You ought not to sit down
+here in this gloomy weather, Alfred.
+
+ALLMERS. [Nods slowly without answering.]
+
+ASTA. [Closing her umbrella.] I have been searching for you such a long
+time.
+
+ALLMERS. [Without expression.] Thank you.
+
+ASTA. [Moves a chair and seats herself close to him.] Have you been
+sitting here long? All the time?
+
+ALLMERS. [Does not answer at first. Presently he says.] No, I cannot
+grasp it. It seems so utterly impossible.
+
+ASTA. [Laying her hand compassionately on his arm.] Poor Alfred!
+
+ALLMERS. [Gazing at her.] Is it really true then, Asta? Or have I gone
+mad? Or am I only dreaming? Oh, if it were only a dream! Just think, if
+I were to waken now!
+
+ASTA. Oh, if I could only waken you!
+
+ALLMERS. [Looking out over the water.] How pitiless the fiord looks
+to-day, lying so heavy and drowsy--leaden-grey--with splashes of
+yellow--and reflecting the rain-clouds.
+
+ASTA. [Imploringly.] Oh, Alfred, don't sit staring out over the fiord!
+
+ALLMERS. [Not heeding her.] Over the surface, yes. But in the
+depths--there sweeps the rushing undertow--
+
+ASTA. [In terror.] Oh, for God's sake don't think of the depths!
+
+ALLMERS. [Looking gently at her.] I suppose you think he is lying close
+outside here? But he is not, Asta. You must not think that. You must
+remember how fiercely the current sweeps gut here straight to the open
+sea.
+
+ASTA. [Throws herself forward against the table, and, sobbing, buries
+her face in her hands.] Oh, God! Oh, God!
+
+ALLMERS. [Heavily.] So you see, little Eyolf has passed so far--far away
+from us now.
+
+ASTA. [Looks imploringly up at him.] Oh, Alfred, don't say such things!
+
+ALLMERS. Why, you can reckon it out for yourself--you that are so
+clever. In eight-and-twenty hours--nine-and-twenty hours--Let me see--!
+Let me see--!
+
+ASTA. [Shrieking and stopping her ears.] Alfred!
+
+ALLMERS. [Clenching his hand firmly upon the table.] Can you conceive
+the meaning of a thing like this?
+
+ASTA. [Looks at him.] Of what?
+
+ALLMERS. Of this that has been done to Rita and me.
+
+ASTA. The meaning of it?
+
+ALLMERS. [Impatiently.] Yes, the meaning, I say. For, after all, there
+must be a meaning in it. Life, existence--destiny, cannot be so utterly
+meaningless.
+
+ASTA. Oh, who can say anything with certainty about these things, my
+dear Alfred?
+
+ALLMERS. [Laughs bitterly.] No, no; I believe you are right there.
+Perhaps the whole thing goes simply by hap-hazard--taking its own
+course, like a drifting wreck without a rudder. I daresay that is how it
+is. At least, it seems very like it.
+
+ASTA. [Thoughtfully.] What if it only seems--?
+
+ALLMERS. [Vehemently.] Ah? Perhaps you can unravel the mystery for me?
+I certainly cannot. [More gently.] Here is Eyolf, just entering
+upon conscious life: full of such infinite possibilities--splendid
+possibilities perhaps: he would have filled my life with pride and
+gladness. And then a crazy old woman has only to come this way--and show
+a cur in a bag--
+
+ASTA. But we don't in the least know how it really happened.
+
+ALLMERS. Yes, we do. The boys saw her row out over the fiord. They saw
+Eyolf standing alone at the very end of the pier. They saw him gazing
+after her--and then he seemed to turn giddy. [Quivering.] And that was
+how he fell over--and disappeared.
+
+ASTA. Yes, yes. But all the same--
+
+ALLMERS. She has drawn him down into the depths--that you may be sure
+of, dear.
+
+ASTA. But, Alfred, why should she?
+
+ALLMERS. Yes, that is just the question! Why should she? There is no
+retribution behind it all--no atonement, I mean. Eyolf never did her any
+harm. He never called names after her; he never threw stones at her dog.
+Why, he had never set eyes either on her or her dog till yesterday.
+So there is no retribution; the whole thing is utterly groundless and
+meaningless, Asta.--And yet the order of the world requires it.
+
+ASTA. Have you spoken to Rita of these things?
+
+ALLMERS. [Shakes his head.] I feel as if I can talk better to you about
+them. [Drawing a deep breath.] And about everything else as well.
+
+[ASTA takes serving-materials and a little paper parcel out of her
+pocket. ALLMERS sits looking on absently.]
+
+ALLMERS. What leave you got there, Asta?
+
+ASTA. [Taking his hat.] Some black crap.
+
+ALLMERS. Oh, whet is the use of that?
+
+ASTA. Rita asked me to put it on. May I?
+
+ALLMERS. Oh, yes; as far as I'm concerned--[She sews the crape on his
+hat.]
+
+ALLMERS. [Sitting and looking at her.] Where is Rita?
+
+ASTA. She is walking about the garden a little, I think. Borgheim is
+with her.
+
+ALLMERS. [Slightly surprised.] Indeed! Is Borgheim out here to-day
+again?
+
+ASTA. Yes. He came out by the mid-day train.
+
+ALLMERS. I didn't expect that.
+
+ASTA. [Serving.] He was so fond of Eyolf.
+
+ALLMERS. Borgheim is a faithful soul, Asta.
+
+ASTA. [With quiet warmth.] Yes, faithful he is, indeed. That is certain.
+
+ALLMERS. [Fixing his eyes upon her.] You are really fond of him?
+
+ASTA. Yes, I am.
+
+ALLMERS. And yet you cannot make up your mind to--?
+
+ASTA. [Interrupting.] Oh, my dear Alfred, don't talk of that!
+
+ALLMERS. Yes, yes; tell me why you cannot?
+
+ASTA. Oh, no! Please! You really must not ask me. You see, it's so
+painful for me.--There now! The hat is done.
+
+ALLMERS. Thank you.
+
+ASTA. And now for the left arm.
+
+ALLMERS. Am I to have crape on it too?
+
+ASTA. Yes, that is the custom.
+
+ALLMERS. Well--as you please.
+
+[She moves close up to him and begins to sew.]
+
+ASTA. Keep your arm still--then I won't prick you.
+
+ALLMERS. [With a half-smile.] This is like the old days.
+
+ASTA. Yes, don't you think so?
+
+ALLMERS. When you were a little girl you used to sit just like this,
+mending my clothes. The first thing you ever sewed for me--that was
+black crape, too.
+
+ASTA. Was it?
+
+ALLMERS. Round my student's cap--at the time of father's death.
+
+ASTA. Could I sew then? Fancy, I have forgotten it.
+
+ALLMERS. Oh, you were such a little thing then.
+
+ASTA. Yes, I was little then.
+
+ALLMERS. And then, two years afterwards--when we lost your mother--then
+again you sewed a big crape band on my sleeve.
+
+ASTA. I thought it was the right thing to do.
+
+ALLMERS. [Patting her hand.] Yes, yes, it was the right thing to do,
+Asta. And then when we were left alone in the world, we two--. Are you
+done already?
+
+ASTA. Yes. [Putting together her sewing-materials.] It was really a
+beautiful time for us, Alfred. We two alone.
+
+ALLMERS. Yes, it was--though we had to toil so hard.
+
+ASTA. You toiled.
+
+ALLMERS. [With more life.] Oh, you toiled too, in your way, I can assure
+you--[smiling]--my dear, faithful--Eyolf.
+
+ASTA. Oh--you mustn't remind me of that stupid nonsense about the name.
+
+ALLMERS. Well, if you had been a boy, you would have been called Eyolf.
+
+ASTA. Yes, if! But when you began to go to college--. [Smiling
+involuntarily.] I wonder how you could be so childish.
+
+ALLMERS. Was it I that was childish?
+
+ASTA. Yes, indeed, I think it was, as I look back upon it all. You were
+ashamed of having no brother--only a sister.
+
+ALLMERS. No, no, it was you, dear--you were ashamed.
+
+ASTA. Oh yes, I too, perhaps--a little. And somehow or other I was sorry
+for you--
+
+ALLMERS. Yes, I believe you were. And then you hunted up some of my old
+boy's clothes--
+
+ASTA. Your fine Sunday clothes--yes. Do you remember the blue blouse and
+knickerbockers?
+
+ALLMERS. [His eyes dwelling upon her.] I remember so well how you looked
+when you used to wear them.
+
+ASTA. Only when we were at home, alone, though.
+
+ALLMERS. And how serious we were, dear, and how mightily pleased with
+ourselves. I always called you Eyolf.
+
+ASTA. Oh, Alfred, I hope you have never told Rita this?
+
+ALLMERS. Yes, I believe I did once tell her.
+
+ASTA. Oh, Alfred, how could you do that?
+
+ALLMERS. Well, you see--one tells one's wife everything--very nearly.
+
+ASTA. Yes, I suppose one does.
+
+ALLMERS. [As if awakening, clutches at his forehead and starts up.] Oh,
+how can I sit here and--
+
+ASTA. [Rising, looks sorrowfully at him.] What is the matter?
+
+ALLMERS. He had almost passed away from me. He had passed quite away.
+
+ASTA. Eyolf!
+
+ALLMERS. Here I sat, living in these recollections--and he had no part
+in them.
+
+ASTA. Yes, Alfred--little Eyolf was behind it all.
+
+ALLMERS. No, he was not. He slipped out of my memory--out of my
+thoughts. I did not see him for a moment as we sat here talking. I
+utterly forgot him all that time.
+
+ASTA. But surely you must take some rest in your sorrow.
+
+ALLMERS. No, no, no; that is just what I will not do! I must not--I
+have no right--and no heart for it, either. [Going in great excitement
+towards the right.] All my thoughts must be out there, where he lies
+drifting in the depths!
+
+ASTA. [Following him and holding him back.] Alfred--Alfred! Don't go to
+the fiord.
+
+ALLMERS. I must go out to him! Let me go, Asta! I will take the boat.
+
+ASTA. [In terror.] Don't go to the fiord, I say!
+
+ALLMERS. [Yielding.] No, no--I will not. Only let me alone.
+
+ASTA. [Leading him back to the table.] You must rest from your thoughts,
+Alfred. Come here and sit down.
+
+ALLMERS. [Making as if to seat himself on the bench.] Well, well--as you
+please.
+
+ASTA. No, I won't let you sit there.
+
+ALLMERS. Yes, let me.
+
+ASTA. No, don't. For then you will only sit looking out--[Forces him
+down upon a chair, with his back to the right.] There now. Now that's
+right. [Seats herself upon the bench.] And now we can talk a little
+again.
+
+ALLMERS. [Drawing a deep breath audibly.] It was good to deaden the
+sorrow and heartache for a moment.
+
+ASTA. You insist do so, Alfred.
+
+ALLMERS. But don't you think it is terribly weak and unfeeling of me--to
+be able to do so?
+
+ASTA. Oh, no--I am sure it is impossible to keep circling for ever round
+one fixed thought.
+
+ALLMERS. Yes, for me it is impossible. Before you came to me, here I
+sat, torturing myself unspeakably with this crushing, gnawing sorrow--
+
+ASTA. Yes?
+
+ALLMERS. And would you believe it, Asta--? H'm--
+
+ASTA. Well?
+
+ALLMERS. In the midst of all the agony, I found myself speculating what
+we should have for dinner to-day.
+
+ASTA. [Soothingly.] Well, well, if only it rests you to--
+
+ALLMERS. Yes, just fancy, dear--it seemed as if it did give me rest.
+[Holds out, his hand to her across the table.] How good it is, Asta,
+that I have you with me. I am so glad of that. Glad, glad--even in my
+sorrow.
+
+ASTA. [Looking earnestly at him.] You ought most of all to be glad that
+you have Rita.
+
+ALLMERS. Yes, of course I should. But Rita is no kin to me--it isn't
+like having a sister.
+
+ASTA. [Eagerly.] Do you say that, Alfred?
+
+ALLMERS. Yes, our family is a thing apart. [Half jestingly.] We have
+always had vowels for our initials. Don't you remember how often we used
+to speak of that? And all our relations--all equally poor. And we have
+all the same colour of eyes.
+
+ASTA. Do you think I have--?
+
+ALLMERS. No, you take entirely after your mother. You are not in the
+least like the rest of us--not even like father. But all the same--
+
+ASTA. All the same--?
+
+ALLMERS. Well, I believe that living together has, as it were, stamped
+us in each other's image--mentally, I mean.
+
+ASTA. [With warm emotion.] Oh, you must never say that, Alfred. It is
+only I that have taken my stamp from you; and it is to you that I owe
+everything--every good thing in the world.
+
+ALLMERS. [Shaking his head.] You owe me nothing, Asta. On the contrary--
+
+ASTA. I owe you everything! You must never doubt that. No sacrifice has
+been too great for you--
+
+ALLMERS. [Interrupting.] Oh, nonsense--sacrifice! Don't talk of such a
+thing.--I have only loved you, Asta, ever since you were a little child.
+[After a short pause.] And then it always seemed to me that I had so
+much injustice to make up to you for.
+
+ASTA. [Astonished.] Injustice? You?
+
+ALLMERS. Not precisely on my own account. But--
+
+ASTA. [Eagerly.] But--?
+
+ALLMERS. On father's.
+
+ASTA. [Half rising from the bench.] On--father's! [Sitting down again.]
+What do you mean by that, Alfred?
+
+ALLMERS. Father was never really kind to you.
+
+ASTA. [Vehemently.] Oh, don't say that!
+
+ALLMERS. Yes, it is true. He did not love you--not as he ought to have.
+
+ASTA. [Evasively.] No, perhaps not as he loved you. That was only
+natural.
+
+ALLMERS. [Continuing.] And he was often hard to your mother, too--at
+least in the last years.
+
+ASTA. [Softly.] Mother was so much, much younger than he--remember that.
+
+ALLMERS. Do you think they were not quite suited to each other?
+
+ASTA. Perhaps not.
+
+ALLMERS. Yes, but still--. Father, who in other ways was so gentle and
+warm-hearted--so kindly towards every one--
+
+ASTA. [Quietly.] Mother, too, was not always as she ought to have been.
+
+ALLMERS. Your mother was not!
+
+ASTA. Perhaps not always.
+
+ALLMERS. Towards father, do you mean?
+
+ASTA. Yes.
+
+ALLMERS. I never noticed that.
+
+ASTA. [Struggling with her tears, rises.] Oh, my dear Alfred--let them
+rest--those who are gone. [She goes towards the right.]
+
+ALLMERS. [Rising.] Yes, let them rest. [Wringing his hands.] But those
+who are gone--it is they that won't let us rest, Asta. Neither day nor
+night.
+
+ASTA. [Looks warmly at him.] Time will make it all seem easier, Alfred.
+
+ALLMERS. [Looking helplessly at her.] Yes, don't you think it will?--But
+how I am to get over these terrible first days [Hoarsely.]--that is what
+I cannot imagine.
+
+ASTA. [Imploringly, laying her hands on his shoulders.] Go up to Rita.
+Oh, please do--
+
+ALLMERS. [Vehemently, withdrawing from her.] No, no, no--don't talk to
+me of that! I cannot, I tell you. [More calmly.] Let me remain here,
+with you.
+
+ASTA. Well, I will not leave you.
+
+ALLMERS. [Seizing her hand and holding it fast.] Thank you for that!
+[Looks out for a time over the fiord.] Where is my little Eyolf now?
+[Smiling sadly to her.] Can you tell me that my big, wise Eyolf?
+[Shaking his head.] No one in all the world can tell me that. I know
+only this one terrible thing--that he is gone from me.
+
+ASTA. [Looking up to the left, and withdrawing her hand.] Here they are
+coming.
+
+[MRS. ALLMERS and Engineer BORGHEIM come down by the wood-path, she
+leading the way. She wears a dark dress and a black veil over her head.
+He has an umbrella under his arm.]
+
+ALLMERS. [Going to meet her.] How is it with you, Rita?
+
+RITA. [Passing him.] Oh, don't ask.
+
+ALLMERS. Why do you come here?
+
+RITA. Only to look for you. What are you doing?
+
+ALLMERS. Nothing. Asta came down to me.
+
+RITA. Yes, but before Asta came? You have been away from me all the
+morning.
+
+ALLMERS. I have been sitting here looking out over the water.
+
+RITA. Ugh,--how can you?
+
+ALLMERS. [Impatiently.] I like best to be alone now.
+
+RITA. [Moving restlessly about.] And then to sit still! To stay in one
+place!
+
+ALLMERS. I have nothing in the world to move for.
+
+RITA. I cannot bear to be anywhere long. Least of all here--with the
+fiord at my very feet.
+
+ALLMERS. It is just the nearness of the fiord--
+
+RITA. [To BORGHEIM.] Don't you think he should come back with the rest
+of us?
+
+BORGHEIM. [To ALLMERS.] I believe it would be better for you.
+
+ALLMERS. No, no; let me stay where I am.
+
+RITA. Then I will stay with you, Alfred.
+
+ALLMERS. Very well; do so, then. You remain too, Asta.
+
+ASTA. [Whispers to BORGHEIM.] Let us leave them alone!
+
+BORGHEIM. [With a glance of comprehension.] Miss Allmers, shall we go a
+little further--along the shore? For the very last time?
+
+ASTA. [Taking her umbrella.] Yes, come. Let us go a little further.
+
+[ASTA and BORGHEIM go out together behind the boat-shed. ALLMERS wanders
+about for a little. Then he seats himself on a stone under the trees on
+the left.]
+
+RITA. [Comes up and stands before him, her hands folded and hanging
+down.] Can you think the thought, Alfred--that we have lost Eyolf?
+
+ALLMERS. [Looking sadly at the ground.] We must accustom ourselves to
+think it.
+
+RITA. I cannot. I cannot. And then that horrible sight that will haunt
+me all my life long.
+
+ALLMERS. [Looking up.] What sight? What have you seen?
+
+RITA. I have seen nothing myself. I have only heard it told. Oh--!
+
+ALLMERS. You may as well tell me at once.
+
+RITA. I got Borgheim to go down with me to the pier--
+
+ALLMERS. What did you want there?
+
+RITA. To question the boys as to how it happened.
+
+ALLMERS. But we know that.
+
+RITA. We got to know more.
+
+ALLMERS. Well?
+
+RITA. It is not true that he disappeared all at once.
+
+ALLMERS. Do they say that now?
+
+RITA. Yes. They say they saw him lying down on the bottom. Deep down in
+the clear water.
+
+ALLMERS. [Grinding his teeth.] And they didn't save him!
+
+RITA. I suppose they could not.
+
+ALLMERS. They could swim--every one of them. Did they tell you how he
+was lying whilst they could see him?
+
+RITA. Yes. They said he was lying on his back. And with great, open
+eyes.
+
+ALLMERS. Open eyes. But quite still?
+
+RITA. Yes, quite still. And then something came and swept him away. They
+called it the undertow.
+
+ALLMERS. [Nodding slowly.] So that was the last they saw of him.
+
+RITA. [Suffocated with tears.] Yes.
+
+ALLMERS. [In a dull voice.] And never--never will any one see him again.
+
+RITA. [Wailing.] I shall see him day and night, as he lay down there.
+
+ALLMERS. With great, open eyes.
+
+RITA. [Shuddering.] Yes, with great, open eyes. I see them! I see them
+now!
+
+ALLMERS. [Rises slowly and looks with quiet menace at her.] Were they
+evil, those eyes, Rita?
+
+RITA. [Turning pale.] Evil--!
+
+ALLMERS. [Going close up to her.] Were they evil eyes that stared up? Up
+from the depths?
+
+RITA. [Shrinking from him.] Alfred--!
+
+ALLMERS. [Following her.] Answer me! Were they a child's evil eyes?
+
+RITA. [Shrieks.] Alfred! Alfred!
+
+ALLMERS. Now things have come about--just as you wished, Rita.
+
+RITA. I! What did I wish?
+
+ALLMERS. That Eyolf were not here.
+
+RITA. Never for a moment have I wished that! That Eyolf should not stand
+between us--that was what I wished.
+
+ALLMERS. Well, well--he does not stand between us any more.
+
+RITA. [Softly, gazing straight before her.] Perhaps now more than ever.
+[With a sudden shudder.] Oh, that horrible sight!
+
+ALLMERS. [Nods.] The child's evil eyes.
+
+RITA. [In dread, recoiling from him.] Let me be, Alfred! I am afraid of
+you. I have never seen you like this before.
+
+ALLMERS. [Looks harshly and coldly at her.] Sorrow makes us wicked and
+hateful.
+
+RITA. [Terrified, and yet defiant.] That is what I feel, too.
+
+[ALLMERS goes towards the right and looks out over the fiord. RITA seats
+herself at the table. A short pause.]
+
+ALLMERS. [Turning his head towards her.] You never really and truly
+loved him--never!
+
+RITA. [With cold self-control.] Eyolf would never let me take him really
+and truly to my heart.
+
+ALLMERS. Because you did not want to.
+
+RITA. Oh yes, I did. I did want to. But some one stood in the way--even
+from the first.
+
+ALLMERS. [Turning right round.] Do you mean that _I_ stood in the way?
+
+RITA. Oh, no--not at first.
+
+ALLMERS. [Coming nearer her.] Who, then?
+
+RITA. His aunt.
+
+ALLMERS. Asta?
+
+RITA. Yes. Asta stood and barred the way for me.
+
+ALLMERS. Can you say that, Rita?
+
+RITA. Yes. Asta--she took him to her heart--from the moment that
+happened--that miserable fall.
+
+ALLMERS. If she did so, she did it in love.
+
+RITA. [Vehemently.] That is just it! I cannot endure to share anything
+with any one! Not in love.
+
+ALLMERS. We two should have shared him between us in love.
+
+RITA. [Looking scornfully at him.] We? Oh, the truth is you have never
+had any real love for him either.
+
+ALLMERS. [Looks at her in astonishment.] _I_ have not--!
+
+RITA. No, you have not. At first you were so utterly taken up by that
+book of yours--about Responsibility.
+
+ALLMERS. [Forcibly.] Yes, I was. But my very book--I sacrificed for
+Eyolf's sake.
+
+RITA. Not out of love for him.
+
+ALLMERS. Why then, do you suppose?
+
+RITA. Because you were consumed with mistrust of yourself. Because you
+had begun to doubt whether you had any great vocation to live for in the
+world.
+
+ALLMERS. [Observing her closely.] Could you see that in me?
+
+RITA. Oh, yes--little by little. And then you needed something new to
+fill up your life.--It seems _I_ was not enough for you any longer.
+
+ALLMERS. That is the law of change, Rita.
+
+RITA. And that was why you wanted to make a prodigy of poor little
+Eyolf.
+
+ALLMERS. That was not what I wanted. I wanted to make a happy human
+being of him.--That, and nothing more.
+
+RITA. But not out of love for him. Look into yourself! [With a certain
+shyness of expression.] Search out all that lies under--and behind your
+action.
+
+ALLMERS. [Avoiding her eyes.] There is something you shrink from saying.
+
+RITA. And you too.
+
+ALLMERS. [Looks thoughtfully at her.] If it is as you say, then we two
+have never really possessed our own child.
+
+RITA. No. Not in perfect love.
+
+ALLMERS. And yet we are sorrowing so bitterly for him.
+
+RITA. [With sarcasm.] Yes, isn't it curious that we should grieve like
+this over a little stranger boy?
+
+ALLMERS. [With an outburst.] Oh, don't call him a stranger!
+
+RITA. [Sadly shaking her head.] We never won the boy, Alfred. Not I--nor
+you either.
+
+ALLMERS. [Wringing his hands.] And now it is too late! Too late!
+
+RITA. And no consolation anywhere--in anything.
+
+ALLMERS. [With sudden passion.] You are the guilty one in this!
+
+RITA. [Rising.] I!
+
+ALLMERS. Yes, you! It was your fault that he became--what he was! It was
+your fault that he could not save himself when he fell into the water.
+
+RITA. [With a gesture of repulsion.] Alfred--you shall not throw the
+blame upon me!
+
+ALLMERS. [More and more beside himself.] Yes, yes, I do! It was you that
+left the helpless child unwatched upon the table.
+
+RITA. He was lying so comfortably among the cushions, and sleeping so
+soundly. And you had promised to look after him.
+
+ALLMERS. Yes, I had. [Lowering his voice.] But then you came--you, you,
+you--and lured me to you.
+
+RITA. [Looking defiantly at him.] Oh, better own at once that you forgot
+the child and everything else.
+
+ALLMERS. [In suppressed desperation.] Yes, that is true. [Lower.] I
+forgot the child--in your arms!
+
+RITA. [Exasperated.] Alfred! Alfred--this is intolerable of you!
+
+ALLMERS. [In a low voice, clenching his fists before her face.] In that
+hour you condemned little Eyolf to death.
+
+RITA. [Wildly.] You, too! You, too--if it is as you say!
+
+ALLMERS. Oh yes--call me to account, too--if you will. We have sinned,
+both of us. And so, after all, there was retribution in Eyolf's death.
+
+RITA. Retribution?
+
+ALLMERS. [With more self-control.] Yes. Judgment upon you and me. Now,
+as we stand here, we have our deserts. While he lived, we let ourselves
+shrink away from him in secret, abject remorse. We could not bear to see
+it--the thing he had to drag with him--
+
+RITA. [Whispers.] The crutch.
+
+ALLMERS. Yes, that. And now, what we now call sorrow and heartache--is
+really the gnawing of conscience, Rita. Nothing else.
+
+RITA. [Gazing helplessly at him.] I feel as if all this must end in
+despair--in madness for both of us. For we can never--never make it good
+again.
+
+ALLMERS. [Passing into a calmer mood.] I dreamed about Eyolf last night.
+I thought I saw him coming up from the pier. He could run like other
+boys. So nothing had happened to him--neither the one thing nor the
+other. And the torturing reality was nothing but a dream, I thought. Oh,
+how I thanked and blessed--[Checking himself.] H'm!
+
+RITA. [Looking at him.] Whom?
+
+ALLMERS. [Evasively.] Whom--?
+
+RITA. Yes; whom did you thank and bless?
+
+ALLMERS. [Putting aside the question.] I was only dreaming, you know--
+
+RITA. One whom you yourself do not believe in?
+
+ALLMERS. That was how I felt, all the same. Of course, I was sleeping--
+
+RITA. [Reproachfully.] You should not have taught me to doubt, Alfred.
+
+ALLMERS. Would it leave been right of me to let you go through life with
+your mind full of empty fictions?
+
+RITA. It would have been better for me; for then I should have had
+something to take refuge in. Now I am utterly at sea.
+
+ALLMERS. [Observing her closely.] If you had the choice now--. If you
+could follow Eyolf to where he is--?
+
+RITA. Yes? What then?
+
+ALLMERS. If you were fully assured that you would find him again--know
+him--understand him--?
+
+RITA. Yes, yes; what then?
+
+ALLMERS. Would you, of your own free will, take the leap over to him?
+Of your own free will leave everything behind you? Renounce your whole
+earthly life? Would you, Rita?
+
+RITA. [Softly.] Now, at once?
+
+ALLMERS. Yes; to-day. This very hour. Answer me--would you?
+
+RITA. [Hesitating.] Oh, I don't know, Alfred. No! I think I should have
+to stay here with you, a little while.
+
+ALLMERS. For my sake?
+
+RITA. Yes. Only for your sake.
+
+ALLMERS. And afterwards? Would you then--? Answer!
+
+RITA. Oh, what can I answer? I could not go away from you. Never! Never!
+
+ALLMERS. But suppose now _I_ went to Eyolf? And you had the fullest
+assurance that you would meet both him and me there. Then would you come
+over to us?
+
+RITA. I should want to--so much! so much! But--
+
+ALLMERS. Well? I I?
+
+RITA. [Moaning softly.] I could not--I feel it. No, no, I never could!
+Not for all the glory of heaven!
+
+ALLMERS. Nor I.
+
+RITA. No, you feel it so, too, don't you, Alfred! You could not either,
+could you?
+
+ALLMERS. No. For it is here, in the life of earth, that we living beings
+are at home.
+
+RITA. Yes, here lies the kind of happiness that we can understand.
+
+ALLMERS. [Darkly.] Oh, happiness--happiness--
+
+RITA. You mean that happiness--that we can never find it again? [Looks
+inquiringly at him.] But if--? [Vehemently.] No, no; I dare not say it!
+Nor even think it!
+
+ALLMERS. Yes, say it--say it, Rita.
+
+RITA. [Hesitatingly.] Could we not try to--? Would it not be possible to
+forget him?
+
+ALLMERS. Forget Eyolf?
+
+RITA. Forget the anguish and remorse, I mean.
+
+ALLMERS. Can you wish it?
+
+RITA. Yes,--if it were possible. [With an outburst.] For this--I cannot
+bear this for ever! Oh, can we not think of something that will bring
+its forgetfulness!
+
+ALLMERS. [Shakes his head.] What could that be?
+
+RITA. Could we not see what travelling would do--far away from here?
+
+ALLMERS. From home? When you know you are never really well anywhere but
+here.
+
+RITA. Well, then, let us have crowds of people about us! Keep open
+house! Plunge into something that can deaden and dull our thoughts!
+
+ALLMERS. Such it life would be impossible for me.--No,--rather than
+that, I would try to take up my work again.
+
+RITA. [Bitingly.] Your work--the work that has always stood like a dead
+wall between us!
+
+ALLMERS. [Slowly, looking fixedly at her.] There must always be a dead
+wall between us two, from this time forth.
+
+RITA. Why must there--?
+
+ALLMERS. Who knows but that a child's great, open eyes are watching us
+day and night.
+
+RITA. [Softly, shuddering.] Alfred--how terrible to think of!
+
+ALLMERS. Our love has been like a consuming fire. Now it must be
+quenched--
+
+RITA. [With a movement towards him.] Quenched!
+
+ALLMERS. [Hardly.] It is quenched--in one of us.
+
+RITA. [As if petrified.] And you dare say that to me!
+
+ALLMERS. [More gently.] It is dead, Rita. But in what I now feel for
+you--in our common guilt and need of atonement--I seem to foresee a sort
+of resurrection--
+
+RITA. [Vehemently.] I don't care a bit about any resurrection!
+
+ALLMERS. Rita!
+
+RITA. I am a warm-blooded being! I don't go drowsing about--with fishes'
+blood in my veins. [Wringing her hands.] And now to be imprisoned for
+life--in anguish and remorse! Imprisoned with one who is no longer mine,
+mine, mine!
+
+ALLMERS. It must have ended so, sometime, Rita.
+
+RITA. Must have ended so! The love that in the beginning rushed forth so
+eagerly to meet with love!
+
+ALLMERS. My love did not rush forth to you in the beginning.
+
+RITA. What did you feel for me, first of all?
+
+ALLMERS. Dread.
+
+RITA. That I can understand. How was it, then, that I won you after all?
+
+ALLMERS. [In a low voice.] You were so entrancingly beautiful, Rita.
+
+RITA. [Looks searchingly at him.] Then that was the only reason? Say it,
+Alfred! The only reason?
+
+ALLMERS. [Conquering himself.] No, there was another as well.
+
+RITA. [With an outburst.] I can guess what that was! It was "my gold,
+and my green forests," as you call it. Was it not so, Alfred?
+
+ALLMERS. Yes.
+
+RITA. [Looks at him with deep reproach.] How could you--how could you!
+
+ALLMERS. I had Asta to think of.
+
+RITA. [Angrily.] Yes, Asta! [Bitterly.] Then it was really Asta that
+brought us two together?
+
+ALLMERS. She knew nothing about it. She has no suspicion of it, even to
+this day.
+
+RITA. [Rejecting the plea.] It was Asta, nevertheless! [Smiling, with a
+sidelong glance of scorn. ] Or, no--it was little Eyolf. Little Eyolf,
+my dear!
+
+ALLMERS. Eyolf--?
+
+RITA. Yes, you used to call her Eyolf, did you not? I seem to remember
+your telling me so--once, in a moment of confidence. [Coming up to him.]
+Do you remember it--that entrancingly beautiful hour, Alfred?
+
+ALLMERS. [Recoiling, as if in horror.] I remember nothing! I will not
+remember!
+
+RITA. [Following him.] It was in that hour--when your other little Eyolf
+was crippled for life!
+
+ALLMERS. [In a hollow voice, supporting himself against the table.]
+Retribution!
+
+RITA. [Menacingly.] Yes, retribution!
+
+[ASTA and BORGHEIM return by way of the boat-shed. She is carrying some
+water-lilies in her hand.]
+
+RITA. [With self-control.] Well, Asta, have you and Mr. Borgheim talked
+things thoroughly over?
+
+ASTA. Oh, yes--pretty well.
+
+[She puts down her umbrella and lays the flowers upon a chair.]
+
+BORGHEIM. Miss Allmers has been very silent during our walk.
+
+RITA. Indeed, has she? Well, Alfred and I have talked things out
+thoroughly enough--
+
+ASTA. [Looking eagerly at both of them.] What is this--?
+
+RITA. Enough to last all our lifetime, I say. [Breaking off.] Come now,
+let us go up to the house, all four of us. We must have company about us
+in future. It will never do for Alfred and me to be alone.
+
+ALLMERS. Yes, do you go ahead, you two. [Turning.] I must speak a word
+to you before we go, Asta.
+
+RITA. [Looking at him.] Indeed? Well then, you come with me, Mr.
+Borgheim.
+
+[RITA and BORGHEIM go up the wood-path.]
+
+ASTA. [Anxiously.] Alfred, what is the matter?
+
+ALLMERS. [Darkly.] Only that I cannot endure to be here any more.
+
+ASTA. Here! With Rita, do you mean?
+
+ALLMERS. Yes. Rita and I cannot go on living together.
+
+ASTA. [Seizes his arm and shakes it.] Oh, Alfred--don't say anything so
+terrible!
+
+ALLMERS. It is the truth. I am telling you. We are making each other
+wicked and hateful.
+
+ASTA. [With painful emotion.] I had never--never dreamt of anything like
+this!
+
+ALLMERS. I did not realise it either, till to-day.
+
+ASTA. And now you want to--! What is it you really want, Alfred?
+
+ALLMERS. I want to get away from everything here--far, far away from it
+all.
+
+ASTA. And to stand quite alone in the world?
+
+ALLMERS. [Nods.] As I used to, before, yes.
+
+ASTA. But you are not fitted for living alone!
+
+ALLMERS. Oh, yes. I was so in the old days, at any rate.
+
+ASTA. In the old days, yes; for then you had me with you.
+
+ALLMERS. [Trying to take her hand.] Yes. And it is to you, Asta, that I
+now want to come home again.
+
+ASTA. [Eluding him.] To me! No, no, Alfred! That is quite impossible.
+
+ALLMERS. [Looks sadly at her.] Then Borgheim stands in the way after
+all?
+
+ASTA. [Earnestly.] No, no; he does not! That is quite a mistake!
+
+ALLMERS. Good. Then I will come to you--my dear, dear sister. I must
+come to you again--home to you, to be purified and ennobled after my
+life with--
+
+ASTA. [Shocked.] Alfred,--you are doing Rita a great wrong!
+
+ALLMERS. I have done her a great wrong. But not in this. Oh, think of
+it, Asta--think of our life together, yours and mine. Was it not like
+one long holy-day from first to last?
+
+ASTA. Yes, it was, Alfred. But we can never live it over again.
+
+ALLMERS. [Bitterly.] Do you mean that marriage has so irreparably ruined
+me?
+
+ASTA. [Quietly.] No, that is not what I mean.
+
+ALLMERS. Well, then we two will live our old life over again.
+
+ASTA. [With decision.] We cannot, Alfred.
+
+ALLMERS. Yes, we can. For the love of a brother and sister--
+
+ASTA. [Eagerly.] What of it?
+
+ALLMERS. That is the only relation in life that is not subject to the
+law of change.
+
+ASTA. [Softly and tremblingly.] But if that relation were not--
+
+ALLMERS. Not--?
+
+ASTA.--not our relation?
+
+ALLMERS. [Stares at her in astonishment.] Not ours? Why, what can you
+mean by that?
+
+ASTA. It is best I should tell you at once, Alfred.
+
+ALLMERS. Yes, yes; tell me!
+
+ASTA. The letters to mother--. Those in my portfolio--
+
+ALLMERS. Well?
+
+ASTA. You must read them--when I am gone.
+
+ALLMERS. Why must I?
+
+ASTA. [Struggling with herself.] For then you will see that--
+
+ALLMERS. Well?
+
+ASTA.--that I have no right to bear your father's name.
+
+ALLMERS. [Staggering backwards.] Asta! What is this you say!
+
+ASTA. Read the letters. Then you will see--and understand. And perhaps
+have some forgiveness--for mother, too.
+
+ALLMERS. [Clutching at his forehead.] I cannot grasp this--I cannot
+realise the thought. You, Asta--you are not--
+
+ASTA. You are not my brother, Alfred.
+
+ALLMERS. [Quickly, half defiantly, looking at her.] Well, but what
+difference does that really make in our relation? Practically none at
+all.
+
+ASTA. [Shaking her head.] It makes all the difference, Alfred. Our
+relation is not that of brother and sister.
+
+ALLMERS. No, no. But it is none the less sacred for that--it will always
+be equally sacred.
+
+ASTA. Do not forget--that it is subject to the law of change, as you
+said just now.
+
+ALLMERS. [Looks inquiringly at her.] Do you mean that--
+
+ASTA. [Quietly, but with rearm emotion.] Not a word more--my dear,
+dear Alfred. [Takes up the flowers from the chair.] Do you see these
+water-lilies?
+
+ALLMERS. [Nodding slowly.] They are the sort that shoot up--from the
+very depth.
+
+ASTA. I pulled them in the tarn--where it flows out into the fiord.
+[Holds them out to him.] Will you take them, Alfred?
+
+ALLMERS. [Taking them.] Thanks.
+
+ASTA. [With tears in her eyes.] They are a last greeting to you,
+from--from little Eyolf.
+
+ALLMERS. [Looking at her.] From Eyolf out yonder? Or from you?
+
+ASTA. [Softly.] From both of us. [Taking up her umbrella.] Now come with
+me to Rita.
+
+[She goes up the wood-path.]
+
+ALLMERS. [Takes up his hat from the table, and whispers sadly.] Asta.
+Eyolf. Little Eyolf--!
+
+[He follows her up the path.]
+
+
+
+
+ACT THIRD
+
+[An elevation, overgrown with shrubs, in ALLMERS'S garden. At the back
+a sheer cliff, with a railing along its edge, and with steps on the left
+leading downwards. An extensive view over the fiord, which lies deep
+below. A flagstaff with lines, but no flag, stands by the railing. In
+front, on the right, a summer-house, covered with creepers and wild
+vines. Outside it, a bench. It is a late summer evening, with clear sky.
+Deepening twilight.]
+
+[ASTA is sitting on the bench, with her hands in her lap. She is wearing
+her outdoor dress and a hat, has her parasol at her side, and a little
+travelling-bag on a strap over her shoulder.]
+
+[BORGHEIM comes up from the back on the left. He, too, has a
+travelling-bag over his shoulder. He is carrying a rolled-up flag.]
+
+BORGHEIM. [Catching sight of ASTA.] Oh, so you are up here!
+
+ASTA. Yes, I am taking my last look out over the fiord.
+
+BORGHEIM. Then I am glad I happened to come up.
+
+ASTA. Have you been searching for me?
+
+BORGHEIM. Yes, I have. I wanted to say good-bye to you for the present.
+Not for good and all, I hope.
+
+ASTA. [With a faint smile.] You are persevering.
+
+BORGHEIM. A road-maker has got to be.
+
+ASTA. Have you seen anything of Alfred? Or of Rita?
+
+BORGHEIM. Yes, I saw them both.
+
+ASTA. Together?
+
+BORGHEIM. No--apart.
+
+ASTA. What are you going to do with that flag?
+
+BORGHEIM. Mrs. Allmers asked me to come up and hoist it.
+
+ASTA. Hoist a flag just now?
+
+BORGHEIM. Half-mast high. She wants it to fly both night and day, she
+says.
+
+ASTA. [Sighing.] Poor Rita! And poor Alfred!
+
+BORGHEIM. [Busied with the flag.] Have you the heart to leave them? I
+ask, because I see you are in travelling-dress.
+
+ASTA. [In a low voice.] I must go.
+
+BORGHEIM. Well, if you must, then--
+
+ASTA. And you are going, too, to-night?
+
+BORGHEIM. I must, too. I am going by the train. Are you going that way?
+
+ASTA. No. I shall take the steamer.
+
+BORGHEIM. [Glancing at her.] We each take our own way, then?
+
+ASTA. Yes.
+
+[She sits and looks on while he hoists the flag half-mast high. When he
+has done he goes up to her.]
+
+BORGHEIM. Miss Asta--you can't think how grieved I am about little
+Eyolf.
+
+ASTA. [Looks up at him.] Yes, I am sure you feel it deeply.
+
+BORGHEIM. And the feeling tortures me. For the fact is, grief is not
+much in my way.
+
+ASTA. [Raising her eyes to the flag.] It will pass over in time--all of
+it. All our sorrow.
+
+BORGHEIM. All? Do you believe that?
+
+ASTA. Like a squall at sea. When once you have got far away from here,
+then--
+
+BORGHEIM. It will have to be very far away indeed.
+
+ASTA. And then you have this great new road-work, too.
+
+BORGHEIM. But no one to help me in it.
+
+ASTA. Oh yes, surely you have.
+
+BORGHEIM. [Shaking his head.] No one. No one to share the gladness with.
+For it is gladness that most needs sharing.
+
+ASTA. Not the labour and trouble?
+
+BORGHEIM. Pooh--that sort of thing one can always get through alone.
+
+ASTA. But the gladness--that must be shared with some one, you think?
+
+BORGHEIM. Yes; for if not, where would be the pleasure in being glad?
+
+ASTA. Ah yes--perhaps there is something in that.
+
+BORGHEIM. Oh, of course, for a certain time you can go on feeling glad
+in your own heart. But it won't do in the long run. No, it takes two to
+be glad.
+
+ASTA. Always two? Never more? Never many?
+
+BORGHEIM. Well, you see--then it becomes a quite different matter. Miss
+Asta--are you sure you can never make up your mind to share gladness and
+success and--and labour and trouble, with one--with one alone in all the
+world?
+
+ASTA. I have tried it--once.
+
+BORGHEIM. Have you?
+
+ASTA. Yes, all the time that my brother--that Alfred and I lived
+together.
+
+BORGHEIM. Oh, with your brother, yes. But that is altogether different.
+That ought rather to be called peace than happiness, I should say.
+
+ASTA. It was delightful, all the same.
+
+BORGHEIM. There now--you see even that seemed to you delightful. But
+just think now--if he had not been your brother!
+
+ASTA. [Makes a movement to rise, but remains sitting.] Then we should
+never have been together. For I was a child then--and he wasn't much
+more.
+
+BORGHEIM. [After a pause.] Was it so delightful--that time?
+
+ASTA. Oh yes, indeed it was.
+
+BORGHEIM. Was there much that was really bright and happy in your life
+then?
+
+ASTA. Oh yes, so much. You cannot think how much.
+
+BORGHEIM. Tell me a little about it, Miss Asta.
+
+ASTA. Oh, there are only trifles to tell.
+
+BORGHEIM. Such as--? Well?
+
+ASTA. Such as the time when Alfred had passed his examination--and had
+distinguished himself. And then, from time, to time, when he got a post
+in some school or other. Or when he would sit at home working at an
+article--and would read it aloud to me. And then when it would appear in
+some magazine.
+
+BORGHEIM. Yes, I can quite see that it must have been a peaceful,
+delightful life--a brother and sister sharing all their joys. [Shaking
+his head.] What I cannot understand is that your brother could ever give
+you up, Asta.
+
+ASTA. [With suppressed emotion.] Alfred married, you know.
+
+BORGHEIM. Was not that very hard for you?
+
+ASTA. Yes, at first. It seemed as though I had utterly lost him all at
+once.
+
+BORGHEIM. Well, luckily it was not so bad as that.
+
+ASTA. No.
+
+BORGHEIM. But, all the same--how could he! Go and marry, I mean--when he
+could have kept you with him, alone!
+
+ASTA. [Looking straight in front of her.] He was subject to the law of
+change, I suppose.
+
+BORGHEIM. The law of change?
+
+ASTA. So Alfred calls it.
+
+BORGHEIM. Pooh--what a stupid law that must be! I don't believe a bit in
+that law.
+
+ASTA. [Rising.] You may come to believe in it, in time.
+
+BORGHEIM. Never in all my life! [Insistently.] But listen now, Miss
+Asta! Do be reasonable for once in a way--in this matter, I mean--
+
+ASTA. [Interrupting him.] Oh, no, no--don't let us begin upon that
+again!
+
+BORGHEIM. [Continuing as before.] Yes, Asta--I can't possibly give you
+up so easily. Now your brother has everything as he wishes it. He can
+live his life quite contentedly without you. He doesn't require you at
+all. Then this--this--that at one blow has changed your whole position
+here--
+
+ASTA. [With a start.] What do you mean by that?
+
+BORGHEIM. The loss of the child. What else should I mean?
+
+ASTA. [Recovering her self-control.] Little Eyolf is gone, yes.
+
+BORGHEIM. And what more does that leave you to do here? You have not the
+poor little boy to take care of now. You have no duties--no claims upon
+you of any sort.
+
+ASTA. Oh, please, Mr. Borgheim--don't make it so hard for me.
+
+BORGHEIM. I must; I should be mad if I did not try my uttermost. I
+shall be leaving town before very long, rind perhaps I shall have no
+opportunity of meeting you there. Perhaps I shall not see you again for
+a long, long time. And who knows what may happen in the meanwhile?
+
+ASTA. [With a grave smile.] So you are afraid of the law of change,
+after all?
+
+BORGHEIM. No, not in the least. [Laughing bitterly.] And there is
+nothing to be changed, either--not in you. I mean. For I can see you
+don't care much about me.
+
+ASTA. You know very well that I do.
+
+BORGHEIM. Perhaps, but not nearly enough. Not as I want you to. [More
+forcibly.] By Heaven, Asta--Miss Asta--I cannot tell you how strongly I
+feel that you are wrong in this! A little onward, perhaps, from to-day
+and to-morrow, all life's happiness may be awaiting us. And we must
+needs pass it by! Do you think we will not come to repent of it, Asta?
+
+ASTA. [Quietly.] I don't know. I only know that they are not for us--all
+these bright possibilities.
+
+BORGHEIM. [Looks at her with self-control.] Then I must make my roads
+alone?
+
+ASTA. [Warmly.] Oh, how I wish I could stand by you in it all! Help you
+in the labour--share the gladness with you--
+
+BORGHEIM. Would you--if you could?
+
+ASTA. Yes, that I would.
+
+BORGHEIM. But you cannot?
+
+ASTA. [Looking down.] Would you be content to have only half of me?
+
+BORGHEIM. No. You must be utterly and entirely mine.
+
+ASTA. [Looks at him, and says quietly.] Then I cannot.
+
+BORGHEIM. Good-bye then, Miss Asta.
+
+[He is on the point of going. ALLMERS comes up from the left at the
+back. BORGHEIM stops.]
+
+ALLMERS. [The moment he has reached the top of the steps, points, and
+says in a low voice.] Is Rita in there--in the summer-house?
+
+BORGHEIM. No; there is no one here but Miss Asta.
+
+[ALLMERS comes forward.]
+
+ASTA. [Going towards him.] Shall I go down and look for her? Shall I get
+her to come up here?
+
+ALLMERS. [With a negative gesture.] No, no, no--let it alone. [To
+BORGHEIM.] Is it you that have hoisted the flag?
+
+BORGHEIM. Yes. Mrs. Allmers asked me to. That was what brought me up
+here.
+
+ALLMERS. And you are going to start to-night?
+
+BORGHEIM. Yes. To-night I go away in good earnest.
+
+ALLMERS. [With a glance at ASTA.] And you have made sure of pleasant
+company, I daresay.
+
+BORGHEIM. [Shaking his head.] I am going alone.
+
+ALLMERS. [With surprise.] Alone!
+
+BORGHEIM. Utterly alone.
+
+ALLMERS. [Absently.] Indeed?
+
+BORGHEIM. And I shall have to remain alone, too.
+
+ALLMERS. There is something horrible in being alone. The thought of it
+runs like ice through my blood--
+
+ASTA. Oh, but, Alfred, you are not alone.
+
+ALLMERS. There may be something horrible in that too, Asta.
+
+ASTA. [Oppressed.] Oh, don't talk like that! Don't think like that!
+
+ALLMERS. [Not listening to her.] But since you are not going with him--?
+Since there is nothing to bind you--? Why will you not remain out here
+with me--and with Rita?
+
+ASTA. [Uneasily.] No, no, I cannot. I must go back to town now.
+
+ALLMERS. But only in to town, Asta. Do you hear!
+
+ASTA. Yes.
+
+ALLMERS. And you must promise me that you will soon come out again.
+
+ASTA. [Quickly.] No, no, I dare not promise you that, for the present.
+
+ALLMERS. Well as you will. We shall soon meet in town, then.
+
+ASTA. [Imploringly.] But, Alfred, you must stay at home here with Rita
+now.
+
+ALLMERS. [Without answering, turns to BORGHEIM.] You may find it a good
+thing, after all, that you have to take your journey alone.
+
+BORGHEIM. [Annoyed.] Oh, how can you say such a thing?
+
+ALLMERS. You see, you can never tell whom you might happen to meet
+afterwards--on the way.
+
+ASTA. [Involuntarily.] Alfred!
+
+ALLMERS. The right fellow-traveller--when it is too late--too late.
+
+ASTA. [Softly, quivering.] Alfred! Alfred!
+
+BORGHEIM. [Looking front one to the other.] What is the meaning of this?
+I don't understand--
+
+[RITA comes up from the left at the back.]
+
+RITA. [Plaintively.] Oh, don't go away from me, all of you!
+
+ASTA. [Going towards her.] You said you preferred to be alone.
+
+RITA. Yes, but I dare not. It is getting so horribly dark. I seem to see
+great, open eyes fixed upon me!
+
+ASTA. [Tenderly and sympathetically.] What if it were so, Rita? You
+ought not to be afraid of those eyes.
+
+RITA. How can you say so! Not afraid!
+
+ALLMERS. [Insistently.] Asta, I beg you--for Heaven's sake--remain here
+with Rita!
+
+RITA. Yes! And with Alfred, too. Do! Do, Asta!
+
+ASTA. [Struggling with herself.] Oh, I want to so much--
+
+RITA. Well, then, do it! For Alfred and I cannot go alone through the
+sorrow and heartache.
+
+ALLMERS. [Darkly.] Say, rather--through the ranklings of remorse.
+
+RITA. Oh, whatever you like to call it--we cannot bear it alone, we two.
+Oh, Asta, I beg and implore you! Stay here and help us! Take Eyolf's
+place for us--
+
+ASTA. [Shrinking.] Eyolf's--
+
+RITA. Yes, would you not have it so, Alfred?
+
+ALLMERS. If she can and will.
+
+RITA. You used to call her your little Eyolf. [Seizes her hand.]
+Henceforth you shall be our Eyolf, Asta! Eyolf, as you were before.
+
+ALLMERS. [With concealed emotion.] Remain--and share our life with us,
+Asta. With Rita. With me. With me--your brother!
+
+ASTA. [With decision, snatches her hand away.] No. I cannot. [Turning.]
+Mr. Borgheim--what time does the steamer start?
+
+BORGHEIM. Now--at once.
+
+ASTA. Then I must go on board. Will you go with me?
+
+BORGHEIM. [With a suppressed outburst of joy.] Will I? Yes, yes!
+
+ASTA. Then come!
+
+RITA. [Slowly.] Ah! That is how it is. Well, then, you cannot stay with
+us.
+
+ASTA. [Throwing her arms round her neck.] Thanks for everything, Rita!
+(Goes up to ALLMERS and grasps his hand.) Alfred-good-bye! A thousand
+times, good-bye!
+
+ALLMERS. [Softly and eagerly.] What is this, Asta? It seems as though you
+were taking flight.
+
+ASTA. [In subdued anguish.] Yes, Alfred--I am taking flight.
+
+ALLMERS. Flight--from me!
+
+ASTA. [Whispering.] From you--and from myself.
+
+ALLMERS. [Shrinking back.] Ah--!
+
+[ASTA rushes down the steps at the back. BORGHEIM waves his hat and
+follows her. RITA leans against the entrance to the summer-house.
+ALLMERS goes, in strong inward emotion, up to the railing, and stands
+there gazing downwards. A pause.]
+
+ALLMERS. [Turns, and says with hard-won composure.] There comes the
+steamer. Look, Rita.
+
+RITA. I dare not look at it.
+
+ALLMERS. You dare not?
+
+RITA. No. For it has a red eye--and a green one, too. Great, glowing
+eyes.
+
+ALLMERS. Oh, those are only the lights, you know.
+
+RITA. Henceforth they are eyes--for me. They stare and stare out of the
+darkness--and into the darkness.
+
+ALLMERS. Now she is putting in to shore.
+
+RITA. Where are they mooring her this evening, then?
+
+ALLMERS. [Coming forward.] At the pier, as usual--
+
+RITA. [Drawing herself up.] How can they moor her there!
+
+ALLMERS. They must.
+
+RITA. But it was there that Eyolf--! How can they moor her there!
+
+ALLMERS. Yes, life is pitiless, Rita.
+
+RITA. Men are heartless. They take no thought--whether for the living or
+for the dead.
+
+ALLMERS. There you are right. Life goes its own way--just as if nothing
+in the world had happened.
+
+RITA. [Gazing straight before her.] And nothing has happened, either.
+Not to others. Only to us two.
+
+ALLMERS. [The pain re-awakening.] Yes, Rita--so it was to no purpose
+that you bore him in sorrow and anguish. For now he is gone again--and
+has left no trace behind him.
+
+RITA. Only the crutch was saved.
+
+ALLMERS. [Angrily.] Be silent! Do not let me hear that word!
+
+RITA. [Plaintively.] Oh, I cannot bear the thought that he is gone from
+us.
+
+ALLMERS. [Coldly and bitterly.] You could very well do without him while
+he was with us. Half the day would often pass without your setting eyes
+on him.
+
+RITA. Yes, for I knew that I could see him whenever I wanted to.
+
+ALLMERS. Yes, that is how we have gone and squandered the short time we
+had with Little Eyolf.
+
+RITA. [Listening, in dread.] Do you hear, Alfred! Now it is ringing
+again!
+
+ALLMERS. [Looking over the fiord.] It is the steamer's bell that is
+ringing. She is just starting.
+
+RITA. Oh, it's not that bell I mean. All day I have heard it ringing in
+my ears.--Now it is ringing again!
+
+ALLMERS. [Going up to her.] You are mistaken, Rita.
+
+RITA. No, I hear it so plainly. It sounds like a knell. Slow. Slow. And
+always the same words.
+
+ALLMERS. Words? What words?
+
+RITA. [Nodding her head in the rhythm.] "The crútch is--flóating. The
+crútch is--flóating." Oh, surely you must hear it, too!
+
+ALLMERS. [Shaking his head.] I hear nothing. And there is nothing to
+hear.
+
+RITA. Oh, you may say what you will--I hear it so plainly.
+
+ALLMERS. [Looking out over the railing.] Now they are on board, Rita.
+Now the steamer is on her way to the town.
+
+RITA. Is it possible you do not hear it? "The crútch is--flóating. The
+crútch is ------"
+
+ALLMERS. [Coming forward.] You shall not stand there listening to a
+sound that does not exist. I tell You, Asta and Borgheim are on board.
+They have started already. Asta is gone.
+
+RITA. [Looks timidly at him.] Then I suppose you will soon be gone, too,
+Alfred?
+
+ALLMERS. [Quickly.] What do you mean by that?
+
+RITA. That you will follow your sister.
+
+ALLMERS. Has Asta told you anything?
+
+RITA. No. But you said yourself it was for Asta's sake that--that we
+came together.
+
+ALLMERS. Yes, but you, you yourself, have bound me to you--by our life
+together.
+
+RITA. Oh, in your eyes I am not--I am not--entrancingly beautiful any
+more.
+
+ALLMERS. The law of change may perhaps keep us together, none the less.
+
+RITA. [Nodding slowly.] There is a change in me now--I feel the anguish
+of it.
+
+ALLMERS. Anguish?
+
+RITA. Yes, for change, too, is a sort of birth.
+
+ALLMERS. It is--or a resurrection. Transition to a higher life.
+
+RITA. [Gazing sadly before her.] Yes--with the loss of all, all life's
+happiness.
+
+ALLMERS. That loss is just the gain.
+
+RITA. [Vehemently.] Oh, phrases! Good God, we are creatures of earth
+after all.
+
+ALLMERS. But something akin to the sea and the heavens too, Rita.
+
+RITA. You perhaps. Not I.
+
+ALLMERS. Oh, yes--you too, more than you yourself suspect.
+
+RITA. [Advancing a pace towards him.] Tell me, Alfred--could you think
+of taking up your work again?
+
+ALLMERS. The work that you have hated so?
+
+RITA. I am easier to please now. I am willing to share you with the
+book.
+
+ALLMERS. Why?
+
+RITA. Only to keep you here with me--to have you near me.
+
+ALLMERS. Oh, it is so little I can do to help you, Rita.
+
+RITA. But perhaps I could help you.
+
+ALLMERS. With my book, do you mean?
+
+RITA. No; but to live your life.
+
+ALLMERS. [Shaking his head.] I seem to have no life to live.
+
+RITA. Well then, to endure your life.
+
+ALLMERS. [Darkly, looking away from her.] I think it would be best for
+both of us that we should part.
+
+RITA. [Looking curiously at him.] Then where would you go? Perhaps to
+Asta, after all?
+
+ALLMERS. No--never again to Asta.
+
+RITA. Where then?
+
+ALLMERS. Up into the solitudes.
+
+RITA. Up among the mountains? Is that what you mean?
+
+ALLMERS. Yes.
+
+RITA. But all that is mere dreaming, Alfred! You could not live up
+there.
+
+ALLMERS. And yet I feel myself drawn to them.
+
+RITA. Why? Tell me!
+
+ALLMERS. Sit down--and I will tell you something.
+
+RITA. Something that happened to you up there?
+
+ALLMERS. Yes.
+
+RITA. And that you never told Asta and me?
+
+ALLMERS. Yes.
+
+RITA. Oh, you are so silent about everything. You ought not to be.
+
+ALLMERS. Sit down there--and I will tell you about it.
+
+RITA. Yes, yes--tell me!
+
+[She sits on the bench beside the summer-house.]
+
+ALLMERS. I was alone up there, in the heart of the great mountains. I
+came to a wide, dreary mountain lake; and that lake I had to cross. But
+I could not--for there was neither a boat nor any one there.
+
+RITA. Well? And then?
+
+ALLMERS. Then I went without any guidance into a side valley. I thought
+that by that way I could push on over the heights and between the
+peaks--and then down again on the other side of the lake.
+
+RITA. Oh, and you lost yourself, Alfred!
+
+ALLMERS. Yes; I mistook the direction--for there was no path or track.
+And all day I went on--and all the next night. And at last I thought I
+should never see the face of man again.
+
+RITA. Not come home to us? Oh, then, I am sure your thoughts were with
+us here.
+
+ALLMERS. No--they were not.
+
+RITA. Not?
+
+ALLMERS. No. It was so strange. Both you and Eyolf seemed to have
+drifted far, far away from me--and Asta, too.
+
+RITA. Then what did you think of?
+
+ALLMERS. I did not think. I dragged myself along among the
+precipices--and revelled in the peace and luxury of death.
+
+RITA. [Springing up.] Oh, don't speak in that way of that horror!
+
+ALLMERS. I did not feel it so. I had no fear. Here went death and I,
+it seemed to me, like two good fellow-travellers. It all seemed so
+natural--so simple, I thought. In my family, we don't live to be old--
+
+RITA. Oh, don't say such things, Alfred! You see you came safely out of
+it, after all.
+
+ALLMERS. Yes; all of a sudden, I found myself where I wanted to be--on
+the other side of the lake.
+
+RITA. It must have been a night of terror for you, Alfred. But now that
+it is over, you will not admit it to yourself.
+
+ALLMERS. That night sealed my resolution. And it was then that I turned
+about and came straight homewards. To Eyolf.
+
+RITA. [Softly.] Too late.
+
+ALLMERS. Yes. And then when--my fellow-traveller came and took him--then
+I felt the horror of it; of it all; of all that, in spite of everything,
+we dare not tear ourselves away from. So earthbound are we, both of us,
+Rita.
+
+RITA. [With a gleam of joy.] Yes, you are, too, are you not! [Coming
+close to him.] Oh, let us live our life together as long as we can!
+
+ALLMERS. [Shrugging his shoulders.] Live our life, yes! And have nothing
+to fill life with. An empty void on all sides--wherever I look.
+
+RITA. [In fear.] Oh, sooner or later you will go away from me, Alfred! I
+feel it! I can see it in your face! You will go away from me.
+
+ALLMERS. With my fellow-traveller, do you mean?
+
+RITA. No, I mean worse than that. Of your own free will--you will leave
+me--for you think it's only here, with me, that you have nothing to live
+for. Is not that what is in your thoughts?
+
+ALLMERS. [Looking steadfastly at her.] What if it were--?
+
+[A disturbance, and the noise of angry, quarrelling voices is heard from
+down below, in the distance. ALLMERS goes to the railing.]
+
+RITA. What is that? [With an outburst.] Oh, you'll see, they have found
+him!
+
+ALLMERS. He will never be found.
+
+RITA. But what is it then?
+
+ALLMERS. [Coming forward.] Only fighting--as usual.
+
+RITA. Down on the beach?
+
+ALLMERS. Yes. The whole village down there ought to be swept away. Now
+the men have come home--drunk, as they always are. They are beating the
+children--do you hear the boys crying! The women are shrieking for help
+for them--
+
+RITA. Should we not get some one to go down and help them?
+
+ALLMERS. [Harshly and angrily.] Help them, who did not help Eyolf! Let
+them go--as they let Eyolf go.
+
+RITA. Oh, you must not talk like that, Alfred! Nor think like that!
+
+ALLMERS. I cannot think otherwise. All the old hovels ought to be torn
+down.
+
+RITA. And then what is to become of all the poor people?
+
+ALLMERS. They must go somewhere else.
+
+RITA. And the children, too?
+
+ALLMERS. Does it make much difference where they go to the dogs?
+
+RITA. [Quietly and reproachfully.] You are forcing yourself into this
+harshness, Alfred.
+
+ALLMERS. [Vehemently.] I have a right to be harsh now! It is my duty.
+
+RITA. Your duty?
+
+ALLMERS. My duty to Eyolf. He must not lie unavenged. Once for all,
+Rita--it is as I tell you! Think it over! Have the whole place down
+there razed to the ground--when I am gone.
+
+RITA. [Looks intently at him.] When you are gone?
+
+ALLMERS. Yes. For that will at least give you something to fill your
+life with--and something you must have.
+
+RITA. [Firmly and decidedly.] There you are right---I must. But can you
+guess what I will set about--when you are gone?
+
+ALLMERS. Well, what?
+
+RITA. [Slowly and with resolution.] As soon as you are gone from me,
+I will go down to the beach, and bring all the poor neglected children
+home with me. All the mischievous boys--
+
+ALLMERS. What will you do with them here?
+
+RITA. I will take them to my heart.
+
+ALLMERS. You!
+
+RITA. Yes, I will. From the day you leave me, they shall all be here,
+all of them, as if they were mine.
+
+ALLMERS. [Shocked.] In our little Eyolf's place!
+
+RITA. Yes, in our little Eyolf's place. They shall live in Eyolf's
+rooms. They shall read his books. They shall play with his toys. They
+shall take it in turns to sit in his chair at table.
+
+ALLMERS. But this is sheer madness in you! I do not know a creature in
+the world that is less fitted than you for anything of that sort.
+
+RITA. Then I shall have to educate myself for it; to train myself; to
+discipline myself.
+
+ALLMERS. If you are really in earnest about this--about all you
+say--then there must indeed be a change in you.
+
+RITA. Yes, there is, Alfred--and for that I have you to thank. You
+have made an empty place within me; and I must try to fill it up with
+something--with something that is a little like love.
+
+ALLMERS. [Stands for a moment lost in thought; then looks at her.] The
+truth is, we have not done much for the poor people down there.
+
+RITA. We have done nothing for them.
+
+ALLMERS. Scarcely even thought of them.
+
+RITA. Never thought of them in sympathy.
+
+ALLMERS. We, who had "the gold, and the green forests"--
+
+RITA. Our hands were closed to them. And our hearts too.
+
+ALLMERS. [Nods.] Then it was perhaps natural enough, after all, that
+they should not risk their lives to save little Eyolf.
+
+RITA. [Softly.] Think, Alfred! Are you so certain that--that we would
+have risked ours?
+
+ALLMERS. [With an uneasy gesture of repulsion.] You must never doubt
+that.
+
+RITA. Oh, we are children of earth.
+
+ALLMERS. What do you really think you can do with all these neglected
+children?
+
+RITA. I suppose I must try if I cannot lighten and--and ennoble their
+lot in life.
+
+ALLMERS. If you can do that--then Eyolf was not born in vain.
+
+RITA. Nor taken from us in vain, either.
+
+ALLMERS. [Looking steadfastly at her.] Be quite clear about one thing,
+Rita--it is not love that is driving you to this.
+
+RITA. No, it is not--at any rate, not yet.
+
+ALLMERS. Well, then what is it?
+
+RITA. [Half-evasively.] You have so often talked to Asta of human
+responsibility--
+
+ALLMERS. Of the book that you hated.
+
+RITA. I hate that book still. But I used to sit and listen to what you
+told her. And now I will try to continue it--in my own way.
+
+ALLMERS. [Shaking his head.] It is not for the sake of that unfinished
+book--
+
+RITA. No, I have another reason as well.
+
+ALLMERS. What is that?
+
+RITA. [Softly, with a melancholy smile.] I want to make my peace with
+the great, open eyes, you see.
+
+ALLMERS. [Struck, fixing his eyes upon her.] Perhaps, I could join you
+in that? And help you, Rita?
+
+RITA. Would you?
+
+ALLMERS. Yes--if I were only sure I could.
+
+RITA. [Hesitatingly.] But then you would have to remain here.
+
+ALLMERS. [Softly.] Let us try if it could not be so.
+
+RITA. [Almost inaudibly.] Yes, let us, Alfred.
+
+[Both are silent. Then ALLMERS goes up to the flagstaff and hoists the
+flag to the top. RITA stands beside the summer-house and looks at him in
+silence.]
+
+ALLMERS. [Coming forward again.] We have a heavy day of work before us,
+Rita.
+
+RITA. You will see--that now and then a Sabbath peace will descend on
+us.
+
+ALLMERS. [Quietly, with emotion.] Then, perhaps, we shall know that the
+spirits are with us.
+
+RITA. [Whispering.] The spirits?
+
+ALLMERS. [As before.] Yes, they will perhaps be around us--those whom we
+have lost.
+
+RITA. [Nods slowly.] Our little Eyolf. And your big Eyolf, too.
+
+ALLMERS. [Gazing straight before him.] Now and then, perhaps, we may
+still--on the way through life--have a little, passing glimpse of them.
+
+RITA. When, shall we look for them, Alfred?
+
+ALLMERS. [Fixing his eyes upon her.] Upwards.
+
+RITA. [Nods in approval.] Yes, yes--upwards.
+
+ALLMERS. Upwards--towards the peaks. Towards the stars. And towards the
+great silence.
+
+RITA. [Giving him her hand.] Thanks!
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Little Eyolf, by Henrik Ibsen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LITTLE EYOLF ***
+
+***** This file should be named 7942-8.txt or 7942-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/7/9/4/7942/
+
+Produced by Nicole Apostola
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

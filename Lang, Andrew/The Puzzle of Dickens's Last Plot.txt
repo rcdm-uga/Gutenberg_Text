@@ -1,0 +1,1971 @@
+The Project Gutenberg eBook, The Puzzle of Dickens's Last Plot, by Andrew
+Lang
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: The Puzzle of Dickens's Last Plot
+
+
+Author: Andrew Lang
+
+
+
+Release Date: February 5, 2013  [eBook #738]
+[This file was first posted on December 7, 1996]
+
+Language: English
+
+Character set encoding: UTF-8
+
+
+***START OF THE PROJECT GUTENBERG EBOOK THE PUZZLE OF DICKENS'S LAST
+PLOT***
+
+
+Transcribed from the 1905 Chapman and Hall edition by David Price, email
+ccx074@pglaf.org
+
+
+
+
+
+                              THE PUZZLE OF
+                           DICKENS’S LAST PLOT
+
+
+                                * * * * *
+
+                                    BY
+                               ANDREW LANG
+
+                                * * * * *
+
+                                  LONDON
+                           CHAPMAN & HALL, LD.
+                                   1905
+
+
+
+
+INTRODUCTION
+
+
+FORSTER tells us that Dickens, in his later novels, from _Bleak House_
+onwards (1853), “assiduously cultivated” construction, “this essential of
+his art.”  Some critics may think, that since so many of the best novels
+in the world “have no outline, or, if they have an outline, it is a
+demned outline,” elaborate construction is not absolutely “essential.”
+Really essential are character, “atmosphere,” humour.
+
+But as, in the natural changes of life, and under the strain of restless
+and unsatisfied activity, his old buoyancy and unequalled high spirits
+deserted Dickens, he certainly wrote no longer in what Scott, speaking of
+himself, calls the manner of “hab nab at a venture.”  He constructed
+elaborate plots, rich in secrets and surprises.  He emulated the manner
+of Wilkie Collins, or even of Gaboriau, while he combined with some of
+the elements of the detective novel, or _roman policier_, careful study
+of character.  Except _Great Expectations_, none of his later tales
+rivals in merit his early picaresque stories of the road, such as
+_Pickwick_ and _Nicholas Nickleby_.  “Youth will be served;” no sedulous
+care could compensate for the exuberance of “the first sprightly
+runnings.”  In the early books the melodrama of the plot, the secrets of
+Ralph Nickleby, of Monk, of Jonas Chuzzlewit, were the least of the
+innumerable attractions.  But Dickens was more and more drawn towards the
+secret that excites curiosity, and to the game of hide and seek with the
+reader who tried to anticipate the solution of the secret.
+
+In April, 1869, Dickens, outworn by the strain of his American readings;
+of that labour achieved under painful conditions of ominously bad
+health—found himself, as Sir Thomas Watson reported, “on the brink of an
+attack of paralysis of his left side, and possibly of apoplexy.”  He
+therefore abandoned a new series of Readings.  We think of Scott’s
+earlier seizures of a similar kind, after which _Peveril_, he said,
+“smacked of the apoplexy.”  But Dickens’s new story of _The Mystery of
+Edwin Drood_, first contemplated in July, 1869, and altered in character
+by the emergence of “a very curious and new idea,” early in August, does
+not “smack of the apoplexy.”  We may think that the mannerisms of Mr.
+Honeythunder, the philanthropist, and of Miss Twinkleton, the
+schoolmistress, are not in the author’s best vein of humour.  “The
+Billickin,” on the other hand, the lodging-house keeper, is “in very
+gracious fooling:” her unlooked-for sallies in skirmishes with Miss
+Twinkleton are rich in mirthful surprises.  Mr. Grewgious may be
+caricatured too much, but not out of reason; and Dickens, always good at
+boys, presents a _gamin_, in Deputy, who is in not unpleasant contrast
+with the pathetic Jo of _Bleak House_.  Opinions may differ as to Edwin
+and Rosa, but the more closely one studies Edwin, the better one thinks
+of that character.  As far as we are allowed to see Helena Landless, the
+restraint which she puts on her “tigerish blood” is admirable: she is
+very fresh and original.  The villain is all that melodrama can desire,
+but what we do miss, I think, is the “atmosphere” of a small cathedral
+town.  Here there is a lack of softness and delicacy of treatment: on the
+other hand, the opium den is studied from the life.
+
+On the whole, Dickens himself was perhaps most interested in his plot,
+his secret, his surprises, his game of hide and seek with the reader.  He
+threw himself into the sport with zest: he spoke to his sister-in-law,
+Miss Hogarth, about his fear that he had not sufficiently concealed his
+tracks in the latest numbers.  Yet, when he died in June, 1870, leaving
+three completed numbers still unpublished, he left his secret as a puzzle
+to the curious.  Many efforts have been made to decipher his purpose,
+especially his intentions as to the hero.  Was Edwin Drood killed, or did
+he escape?
+
+By a coincidence, in September, 1869, Dickens was working over the late
+Lord Lytton’s tale for _All The Year Round_, “The Disappearance of John
+Ackland,” for the purpose of mystifying the reader as to whether Ackland
+was alive or dead.  But he was conspicuously defunct!  (_All the Year
+Round_, September-October, 1869.)
+
+The most careful of the attempts at a reply about Edwin, a study based on
+deep knowledge of Dickens, is “Watched by the Dead,” by the late
+ingenious Mr. R. A. Proctor (1887).  This book, to which I owe much aid,
+is now out of print.  In 1905, Mr. Cuming Walters revived “the auld
+mysterie,” in his “Clues to Dickens’s Edwin Drood” (Chapman & Hall and
+Heywood, Manchester).  From the solution of Mr. Walters I am obliged to
+dissent.  Of Mr. Proctor’s theory I offer some necessary corrections, and
+I hope that I have unravelled some skeins which Mr. Proctor left in a
+state of tangle.  As one read and re-read the fragment, points very dark
+seemed, at least, to become suddenly clear: especially one appeared to
+understand the meaning half-revealed and half-concealed by Jasper’s
+babblings under the influence of opium.  He saw in his vision, “_that_, I
+never saw _that_ before.”  We may be sure that he was to see “_that_” in
+real life.  We must remember that, according to Forster, “such was
+Dickens’s interest in things supernatural that, but for the strong
+restraining power of his common sense, he might have fallen into the
+follies of spiritualism.”  His interest in such matters certainly peeps
+out in this novel—there are two specimens of the supernormal—and he may
+have gone to the limited extent which my hypothesis requires.  If I am
+right, Dickens went further, and fared worse, in the too material
+premonitions of “The Signalman” in _Mugby Junction_.
+
+With this brief preface, I proceed to the analysis of Dickens’s last
+plot.  Mr. William Archer has kindly read the proof sheets and made
+valuable suggestions, but is responsible for none of my theories.
+
+                                                              ANDREW LANG.
+
+ST. ANDREWS,
+
+      _September_ 4, 1905.
+
+
+
+
+THE STORY
+
+
+DRAMATIS PERSONÆ
+
+
+FOR the discovery of Dickens’s secret in _Edwin Drood_ it is necessary to
+obtain a clear view of the characters in the tale, and of their relations
+to each other.
+
+About the middle of the nineteenth century there lived in Cloisterham, a
+cathedral city sketched from Rochester, a young University man, Mr. Bud,
+who had a friend Mr. Drood, one of a firm of engineers—somewhere.  They
+were “fast friends and old college companions.”  Both married young.  Mr.
+Bud wedded a lady unnamed, by whom he was the father of one child, a
+daughter, Rosa Bud.  Mr. Drood, whose wife’s maiden name was Jasper, had
+one son, Edwin Drood.  Mrs. Bud was drowned in a boating accident, when
+her daughter, Rosa, was a child.  Mr. Drood, already a widower, and the
+bereaved Mr. Bud “betrothed” the two children, Rosa and Edwin, and then
+expired, when the orphans were about seven and eleven years old.  The
+guardian of Rosa was a lawyer, Mr. Grewgious, who had been in love with
+her mother.  To Grewgious Mr. Bud entrusted his wife’s engagement ring,
+rubies and diamonds, which Grewgious was to hand over to Edwin Drood, if,
+when he attained his majority, he and Rosa decided to marry.
+
+Grewgious was apparently legal agent for Edwin, while Edwin’s maternal
+uncle, John Jasper (aged about sixteen when the male parents died), was
+Edwin’s “trustee,” as well as his uncle and devoted friend.  Rosa’s
+little fortune was an annuity producing £250 a-year: Edwin succeeded to
+his father’s share in an engineering firm.
+
+When the story opens, Edwin is nearly twenty-one, and is about to proceed
+to Egypt, as an engineer.  Rosa, at school in Cloisterham, is about
+seventeen; John Jasper is twenty-six.  He is conductor of the Choir of
+the Cathedral, a “lay precentor;” he is very dark, with thick black
+whiskers, and, for a number of years, has been a victim to the habit of
+opium smoking.  He began very early.  He takes this drug both in his
+lodgings, over the gate of the Cathedral, and in a den in East London,
+kept by a woman nicknamed “The Princess Puffer.”  This hag, we learn, has
+been a determined drunkard,—“I drank heaven’s-hard,”—for sixteen years
+_before_ she took to opium.  If she has been dealing in opium for ten
+years (the exact period is not stated), she has been very disreputable
+for twenty-six years, that is ever since John Jasper’s birth.  Mr. Cuming
+Walters suggests that she is the mother of John Jasper, and, therefore,
+maternal grandmother of Edwin Drood.  She detests her client, Jasper, and
+plays the spy on his movements, for reasons unexplained.
+
+Jasper is secretly in love with Rosa, the _fiancée_ of his nephew, and
+his own pupil in the musical art.  He makes her aware of his passion,
+silently, and she fears and detests him, but keeps these emotions
+private.  She is a saucy school-girl, and she and Edwin are on
+uncomfortable terms: she does not love him, while he perhaps does love
+her, but is annoyed by her manner, and by the gossip about their
+betrothal.  “The bloom is off the plum” of their prearranged loves, he
+says to his friend, uncle, and confidant, Jasper, whose own concealed
+passion for Rosa is of a ferocious and homicidal character.  Rosa is
+aware of this fact; “a glaze comes over his eyes,” sometimes, she says,
+“and he seems to wander away into a frightful sort of dream, in which he
+threatens most . . . ”  The man appears to have these frightful dreams
+even when he is not under opium.
+
+
+
+OPENING OF THE TALE
+
+
+The tale opens abruptly with an opium-bred vision of the tower of
+Cloisterham Cathedral, beheld by Jasper as he awakens in the den of the
+Princess Puffer, between a Chinaman, a Lascar, and the hag herself.  This
+Cathedral tower, thus early and emphatically introduced, is to play a
+great but more or less mysterious part in the romance: that is certain.
+Jasper, waking, makes experiments on the talk of the old woman, the
+Lascar and Chinaman in their sleep.  He pronounces it “unintelligible,”
+which satisfies him that his own babble, when under opium, must be
+unintelligible also.  He is, presumably, acquainted with the languages of
+the eastern coast of India, and with Chinese, otherwise, how could he
+hope to understand the sleepers?  He is being watched by the hag, who
+hates him.
+
+Jasper returns to Cloisterham, where we are introduced to the Dean, a
+nonentity, and to Minor Canon Crisparkle, a muscular Christian in the
+pink of training, a classical scholar, and a good honest fellow.  Jasper
+gives Edwin a dinner, and gushes over “his bright boy,” a lively lad,
+full of chaff, but also full of confiding affection and tenderness of
+heart.  Edwin admits that his betrothal is a bore: Jasper admits that he
+loathes his life; and that the church singing “often sounds to me quite
+devilish,”—and no wonder.  After this dinner, Jasper has a “weird
+seizure;” “a strange film comes over Jasper’s eyes,” he “looks
+frightfully ill,” becomes rigid, and admits that he “has been taking
+opium for a pain, an agony that sometimes overcomes me.”  This “agony,”
+we learn, is the pain of hearing Edwin speak lightly of his love, whom
+Jasper so furiously desires.  “Take it as a warning,” Jasper says, but
+Edwin, puzzled, and full of confiding tenderness, does not understand.
+
+In the next scene we meet the school-girl, Rosa, who takes a walk and has
+a tiff with Edwin.  Sir Luke Fildes’s illustration shows Edwin as “a lad
+with the bloom of a lass,” with a _classic profile_; _and a gracious head
+of long_, _thick_, _fair hair_, long, though we learn it has just been
+cut.  He wears a soft slouched hat, and the pea-coat of the period.
+
+
+
+SAPSEA AND DURDLES
+
+
+Next, Jasper and Sapsea, a pompous ass, auctioneer, and mayor, sit at
+their wine, expecting a third guest.  Mr. Sapsea reads his absurd epitaph
+for his late wife, who is buried in a “Monument,” a vault of some sort in
+the Cathedral churchyard.  To them enter Durdles, a man never sober, yet
+trusted with the key of the crypt, “as contractor for rough repairs.”  In
+the crypt “he habitually sleeps off the fumes of liquor.”  Of course no
+Dean would entrust keys to this incredibly dissipated, dirty, and
+insolent creature, to whom Sapsea gives the key of his vault, for no
+reason at all, as the epitaph, of course, is to be engraved on the
+outside, by Durdles’s men.  However, Durdles insists on getting the key
+of the vault: he has two other large keys.  Jasper, trifling with them,
+keeps clinking them together, so as to know, even in the dark, by the
+sound, which is the key that opens Sapsea’s vault, in the railed-off
+burial ground, beside the cloister arches.  He has met Durdles at
+Sapsea’s for no other purpose than to obtain access at will to Mrs.
+Sapsea’s monument.  Later in the evening Jasper finds Durdles more or
+less drunk, and being stoned by a _gamin_, “Deputy,” a retainer of a
+tramp’s lodging-house.  Durdles fees Deputy, in fact, to drive him home
+every night after ten.  Jasper and Deputy fall into feud, and Jasper has
+thus a new, keen, and omnipresent enemy.  As he walks with Durdles that
+worthy explains (in reply to a question by Jasper), that, by tapping a
+wall, even if over six feet thick, with his hammer, he can detect the
+nature of the contents of the vault, “solid in hollow, and inside solid,
+hollow again.  Old ’un crumbled away in stone coffin, in vault.”  He can
+also discover the presence of “rubbish left in that same six foot space
+by Durdles’s men.”  Thus, if a foreign body were introduced into the
+Sapsea vault, Durdles could detect its presence by tapping the outside
+wall.  As Jasper’s purpose clearly is to introduce a foreign body—that of
+Edwin who stands between him and Rosa—into Mrs. Sapsea’s vault, this
+“gift” of Durdles is, for Jasper, an uncomfortable discovery.  He goes
+home, watches Edwin asleep, and smokes opium.
+
+
+
+THE LANDLESSES
+
+
+Two new characters are now introduced, Neville and Helena Landless, {11}
+twins, orphans, of Cingalese extraction, probably Eurasian; very dark,
+the girl “almost of the gipsy type;” both are “fierce of look.”  The
+young man is to read with Canon Crisparkle and live with him; the girl
+goes to the same school as Rosa.  The education of both has been utterly
+neglected; instruction has been denied to them.  Neville explains the
+cause of their fierceness to Crisparkle.  In Ceylon they were bullied by
+a cruel stepfather and several times ran away: the girl was the leader,
+always “_dressed as a boy_, _and showing the daring of a man_.”  Edwin
+Drood’s air of supercilious ownership of Rosa Bud (indicated as a fault
+of youth and circumstance, not of heart and character), irritates Neville
+Landless, who falls in love with Rosa at first sight.  As Rosa sings, at
+Crisparkle’s, while Jasper plays the piano, Jasper’s fixed stare produces
+an hysterical fit in the girl, who is soothed by Helena Landless.  Helena
+shows her aversion to Jasper, who, as even Edwin now sees, frightens
+Rosa.  “You would be afraid of him, under similar circumstances, wouldn’t
+you, Miss Landless?” asks Edwin.  “Not under any circumstances,” answers
+Helena, and Jasper “thanks Miss Landless for this vindication of his
+character.”
+
+The girls go back to their school, where Rosa explains to Helena her
+horror of Jasper’s silent love-making: “I feel that I am never safe from
+him . . . a glaze comes over his eyes and he seems to wander away into a
+frightful sort of dream in which he threatens most,” as already quoted.
+Helena thus, and she alone, except Rosa, understands Jasper thoroughly.
+She becomes Rosa’s protectress.  “_Let whomsoever it most concerned look
+well to it_.”
+
+Thus Jasper has a new observer and enemy, in addition to the omnipresent
+street boy, Deputy, and the detective old hag of the opium den.
+
+Leaving the Canon’s house, Neville and Edwin quarrel violently over Rosa,
+in the open air; they are followed by Jasper, and taken to his house to
+be reconciled over glasses of mulled wine.  Jasper drugs the wine, and
+thus provokes a violent scene; next day he tells Crisparkle that Neville
+is “murderous.”  “There is something of the tiger in his dark blood.”  He
+spreads the story of the _fracas_ in the town.
+
+
+
+MR. GREWGIOUS
+
+
+Grewgious, Rosa’s guardian, now comes down on business; the girl fails to
+explain to him the unsatisfactory relations between her and Edwin:
+Grewgious is to return to her “at Christmas,” if she sends for him, and
+she does send.  Grewgious, “an angular man,” all duty and sentiment (he
+had loved Rosa’s mother), has an interview with Edwin’s trustee, Jasper,
+for whom he has no enthusiasm, but whom he does not in any way suspect.
+They part on good terms, to meet at Christmas.  Crisparkle, with whom
+Helena has fallen suddenly in love, arranges with Jasper that Edwin and
+Landless shall meet and be reconciled, as both are willing to be, at a
+dinner in Jasper’s rooms, on Christmas Eve.  Jasper, when Crisparkle
+proposes this, denotes by his manner “some close internal calculation.”
+We see that he is reckoning how the dinner suits his plan of campaign,
+and “_close_ calculation” may refer, as in Mr. Proctor’s theory, to the
+period of the moon: _on Christmas Eve there will be no moonshine at
+midnight_.  Jasper, having worked out this problem, accepts Crisparkle’s
+proposal, and his assurances about Neville, and shows Crisparkle a diary
+in which he has entered his fears that Edwin’s life is in danger from
+Neville.  Edwin (who is not in Cloisterham at this moment) accepts, by
+letter, the invitation to meet Neville at Jasper’s on Christmas Eve.
+
+Meanwhile Edwin visits Grewgious in his London chambers; is lectured on
+his laggard and supercilious behaviour as a lover, and receives the
+engagement ring of the late Mrs. Bud, Rosa’s mother, which is very dear
+to Grewgious—in the presence of Bazzard, Grewgious’s clerk, a gloomy
+writer of an amateur unacted tragedy.  Edwin is to return the ring to
+Grewgious, if he and Rosa decide not to marry.  The ring is in a case,
+and Edwin places it “in his breast.”  We must understand, in the
+breast-pocket of his coat: no other interpretation will pass muster.
+“Her ring—will it come back to me?” reflects the mournful Grewgious.
+
+
+
+THE UNACCOUNTABLE EXPEDITION
+
+
+Jasper now tells Sapsea, and the Dean, that he is to make “a moonlight
+expedition with Durdles among the tombs, vaults, towers, and ruins
+to-night.”  The impossible Durdles has the keys necessary for this,
+“surely an unaccountable expedition,” Dickens keeps remarking.  The moon
+seems to rise on this night at about 7.30 p.m.  Jasper takes a big
+case-bottle of liquor—drugged, of course and goes to the den of Durdles.
+In the yard of this inspector of monuments he is bidden to beware of a
+mound of quicklime near the yard gate.  “With a little handy stirring,
+quick enough to eat your bones,” says Durdles.  There is some
+considerable distance between this “mound” of quicklime and the crypt, of
+which Durdles has the key, but the intervening space is quite empty of
+human presence, as the citizens are unwilling to meet ghosts.
+
+In the crypt Durdles drinks a good deal of the drugged liquor.  “They are
+to ascend the great Tower,”—and why they do that is part of the Mystery,
+though not an insoluble part.  Before they climb, Durdles tells Jasper
+that he was drunk and asleep in the crypt, last Christmas Eve, and was
+wakened by “the ghost of one terrific shriek, followed by the ghost of
+the howl of a dog, a long dismal, woeful howl, such as a dog gives when a
+person’s dead.”  Durdles has made inquiries and, as no one else heard the
+shriek and the howl, he calls these sounds “ghosts.”
+
+They are obviously meant to be understood as supranormal premonitory
+sounds; of the nature of second sight, or rather of second hearing.
+Forster gives examples of Dickens’s tendency to believe in such
+premonitions: Dickens had himself a curious premonitory dream.  He
+considerably overdid the premonitory business in his otherwise excellent
+story, _The Signalman_, or so it seems to a student of these things.  The
+shriek and howl heard by Durdles are to be repeated, we see, in real
+life, later, on a Christmas Eve.  The question is—when?  More probably
+_not_ on the Christmas Eve just imminent, when Edwin is to vanish, but,
+on the Christmas Eve following, when Jasper is to be unmasked.
+
+All this while, and later, Jasper examines Durdles very closely, studying
+the effects on him of the drugged drink.  When they reach the top of the
+tower, Jasper closely contemplates “that stillest part of it” (the
+landscape) “which the Cathedral overshadows; but he contemplates Durdles
+quite as curiously.”
+
+There is a motive for the scrutiny in either case.  Jasper examines the
+part of the precincts in the shadow of the Cathedral, because he wishes
+to assure himself that it is lonely enough for his later undescribed but
+easily guessed proceedings in this night of mystery.  He will have much
+to do that could not brook witnesses, after the drugged Durdles has
+fallen sound asleep.  We have already been assured that the whole area
+over which Jasper is to operate is “utterly deserted,” even when it lies
+in full moonlight, about 8.30 p.m.  “One might fancy that the tide of
+life was stemmed by Mr. Jasper’s own gate-house.”  The people of
+Cloisterham, we hear, would deny that they believe in ghosts; but they
+give this part of the precinct a wide berth (Chapter XII.).  If the
+region is “utterly deserted” at nine o’clock in the evening, when it lies
+in the ivory moonlight, much more will it be free from human presence
+when it lies in shadow, between one and two o’clock after midnight.
+Jasper, however, from the tower top closely scrutinizes the area of his
+future operations.  It is, probably, for this very purpose of discovering
+whether the coast be clear or not, that Jasper climbs the tower.
+
+He watches Durdles for the purpose of finding how the drug which he has
+administered works, with a view to future operations on Edwin.  Durdles
+is now in such a state that “he deems the ground so far below on a level
+with the tower, and would as lief walk off the tower into the air as
+not.”
+
+All this is apparently meant to suggest that Jasper, on Christmas Eve,
+will repeat his expedition, _with Edwin_, whom he will have drugged, and
+that he will allow Edwin to “walk off the tower into the air.”  There are
+later suggestions to the same effect, as we shall see, but they are
+deliberately misleading.  There are also strong suggestions to the very
+opposite effect: it is broadly indicated that Jasper is to strangle Edwin
+with a thick black-silk scarf, which he has just taken to wearing for the
+good of his throat.
+
+The pair return to the crypt, Durdles falls asleep, dreams that Jasper
+leaves him, “and that something touches him and something falls from his
+hand.  Then something clinks and gropes about,” and the lines of
+moonlight shift their direction, as Durdles finds that they have really
+done when he wakens, with Jasper beside him, while the Cathedral clock
+strikes two.  They have had many hours, not less than five, for their
+expedition.  The key of the crypt lies beside Durdles on the ground.
+They go out, and as Deputy begins stone-throwing, Jasper half strangles
+him.
+
+
+
+PURPOSE OF THE EXPEDITION
+
+
+Jasper has had ample time to take models in wax of all Durdles’s keys.
+But he could have done that in a few minutes, while Durdles slept, if he
+had wax with him, without leaving the crypt.  He has also had time to
+convey several wheelbarrowfuls of quicklime from Durdles’s yard to Mrs.
+Sapsea’s sepulchre, of which monument he probably took the key from
+Durdles, and tried its identity by clinking.  But even in a Cathedral
+town, even after midnight, several successive expeditions of a lay
+precentor with a wheelbarrow full of quicklime would have been apt to
+attract the comment of some belated physician, some cleric coming from a
+sick bed, or some local roysterers.  Therefore it is that Dickens insists
+on the “utterly deserted” character of the area, and shows us that Jasper
+has made sure of that essential fact by observations from the tower top.
+Still, his was a perilous expedition, with his wheelbarrow!  We should
+probably learn later, that Jasper was detected by the wakeful Deputy, who
+loathed him.  Moreover, next morning Durdles was apt to notice that some
+of his quicklime had been removed.  As far as is shown, Durdles noticed
+nothing of that kind, though he does observe peculiarities in Jasper’s
+behaviour.
+
+The next point in the tale is that Edwin and Rosa meet, and have sense
+enough to break off their engagement.  But Edwin, represented as really
+good-hearted, now begins to repent his past behaviour, and, though he has
+a kind of fancy for Miss Landless, he pretty clearly falls deeper in love
+with his late _fiancée_, and weeps his loss in private: so we are told.
+
+
+
+CHRISTMAS EVE
+
+
+Christmas Eve comes, the day of the dinner of three, Jasper, Landless,
+and Edwin.  The chapter describing this fateful day (xiv.) is headed,
+_When shall these Three meet again_? and Mr. Proctor argues that Dickens
+intends that _they shall_ meet again.  The intention, and the hint, are
+much in Dickens’s manner.  Landless means to start, next day, very early,
+on a solitary walking tour, and buys an exorbitantly heavy stick.  We
+casually hear that Jasper knows Edwin to possess no jewellery, except a
+watch and chain and a scarf-pin.  As Edwin moons about, he finds the old
+opium hag, come down from London, “seeking a needle in a bottle of hay,”
+she says—that is, hunting vainly for Jasper.
+
+Please remark that Jasper has run up to town, on December 23, and has
+saturated his system with a debauch of opium on the very eve of the day
+when he clearly means to kill Edwin.  This was a most injudicious
+indulgence, in the circumstances.  A maiden murder needs nerve!  We know
+that “fiddlestrings was weakness to express the state of” Jasper’s
+“nerves” on the day after the night of opium with which the story opens.
+On December 24, Jasper returned home, the hag at his heels.  The old
+woman, when met by Edwin, has a curious film over her eyes; “he seems to
+know her.”  “Great heaven,” he thinks, next moment.  “Like Jack that
+night!”  This refers to a kind of fit of Jasper’s, after dinner, on the
+first evening of the story.  Edwin has then seen Jack Jasper in one of
+his “filmy” seizures.  The woman prays Edwin for three shillings and
+sixpence, to buy opium.  He gives her the money; she asks his Christian
+name.  “Edwin.”  Is “Eddy” a sweetheart’s form of that?  He says that he
+has no sweetheart.  He is told to be thankful that his name is not Ned.
+Now, Jasper alone calls Edwin “Ned.”  “‘Ned’ is a threatened name, a
+dangerous name,” says the hag, who has heard Jasper threaten “Ned” in his
+opium dreams.
+
+Edwin determines to tell this adventure to Jasper, _but not on this
+night_: to-morrow will do.  Now, _did_ he tell the story to Jasper that
+night, in the presence of Landless, at dinner?  If so, Helena Landless
+might later learn the fact from Neville.  If she knew it, she would later
+tell Mr. Grewgious.
+
+The three men meet and dine.  There is a fearful storm.  “Stones are
+displaced upon the summit of the great tower.”  Next morning, early,
+Jasper yells to Crisparkle, who is looking out of his window in Minor
+Canon Row, that Edwin has disappeared.  Neville has already set out on
+his walking tour.
+
+
+
+AFTER THE DISAPPEARANCE
+
+
+Men go forth and apprehend Neville, who shows fight with his heavy stick.
+We learn that he and Drood left Jasper’s house at midnight, went for ten
+minutes to look at the river under the wind, and parted at Crisparkle’s
+door.  Neville now remains under suspicion: Jasper directs the search in
+the river, on December 25, 26, and 27.  On the evening of December 27,
+Grewgious visits Jasper.  Now, Grewgious, as we know, was to be at
+Cloisterham at Christmas.  True, he was engaged to dine on Christmas Day
+with Bazzard, his clerk; but, thoughtful as he was of the moody Bazzard,
+as Edwin was leaving Cloisterham he would excuse himself.  He would
+naturally take a great part in the search for Edwin, above all as Edwin
+had in his possession the ring so dear to the lawyer.  Edwin had not
+shown it to Rosa when they determined to part.  He “kept it in his
+breast,” and the ring, we learn, was “_gifted with invincible force to
+hold and drag_,” so Dickens warns us.
+
+The ring is obviously to be a _pièce de conviction_.  But our point, at
+present, is that we do not know how Grewgious, to whom this ring was so
+dear, employed himself at Cloisterham—after Edwin’s disappearance—between
+December 25 and December 27.  On the evening of the 27th, he came to
+Jasper, saying, “I have _just left Miss Landless_.”  He then slowly and
+watchfully told Jasper that Edwin’s engagement was broken off, while the
+precentor gasped, perspired, tore his hair, shrieked, and finally
+subsided into a heap of muddy clothes on the floor.  Meanwhile, Mr.
+Grewgious, calmly observing these phenomena, warmed his hands at the fire
+for some time before he called in Jasper’s landlady.
+
+Grewgious now knows by Jasper’s behaviour that he believes himself to
+have committed a superfluous crime, by murdering Edwin, who no longer
+stood between him and Rosa, as their engagement was already at an end.
+Whether a Jasper, in real life, would excite himself so much, is another
+question.  We do not know, as Mr. Proctor insists, what Mr. Grewgious had
+been doing at Cloisterham between Christmas Day and December 27, the date
+of his experiment on Jasper’s nerves.  Mr. Proctor supposes him to have
+met the living Edwin, and obtained information from him, after his escape
+from a murderous attack by Jasper.  Mr. Proctor insists that this is the
+only explanation of Grewgious’s conduct, any other “is absolutely
+impossible.”  In that case the experiment of Grewgious was not made to
+gain information from Jasper’s demeanour, but was the beginning of his
+punishment, and was intended by Grewgious to be so.
+
+But Dickens has been careful to suggest, with suspicious breadth of
+candour, another explanation of the source of Grewgious’s knowledge.  If
+Edwin has really escaped, and met Grewgious, Dickens does not want us to
+be sure of that, as Mr. Proctor was sure.  Dickens deliberately puts his
+readers on another trail, though neither Mr. Walters nor Mr. Proctor
+struck the scent.  As we have noted, Grewgious at once says to Jasper,
+“_I have just come from Miss Landless_.”  This tells Jasper nothing, but
+it tells a great deal to the watchful reader, who remembers that Miss
+Landless, and she only, is aware that Jasper loves, bullies, and insults
+Rosa, and that Rosa’s life is embittered by Jasper’s silent wooing, and
+his unspoken threats.  Helena may also know that “Ned is a threatened
+name,” as we have seen, and that the menace comes from Jasper.  As Jasper
+is now known to be Edwin’s rival in love, and as Edwin has vanished, the
+murderer, Mr. Grewgious reckons, is Jasper; and his experiment, with
+Jasper’s consequent shriek and fit, confirms the hypothesis.  Thus
+Grewgious had information enough, from Miss Landless, to suggest his
+experiment—Dickens intentionally made that clear (though not clear enough
+for Mr. Proctor and Mr. Cuming Walters)—while his experiment gives him a
+moral certainty of Jasper’s crime, but yields no legal evidence.
+
+But does Grewgious know no more than what Helena, and the fit and shriek
+of Jasper, have told him?  Is his knowledge limited to the evidence that
+Jasper has murdered Edwin?  Or does Grewgious know more, know that Edwin,
+in some way, has escaped from death?
+
+That is Dickens’s secret.  But whereas Grewgious, if he believes Jasper
+to be an actual murderer, should take him seriously; in point of fact, he
+speaks of Jasper in so light a tone, as “our local friend,” that we feel
+no certainty that he is not really aware of Edwin’s escape from a
+murderous attack by Jasper, and of his continued existence.
+
+Presently Crisparkle, under some mysterious impression, apparently
+telepathic (the book is rich in such psychical phenomena), visits the
+weir on the river, at night, and next day finds Edwin’s watch and chain
+in the timbers; his scarf-pin in the pool below.  The watch and chain
+must have been placed purposely where they were found, they could not
+float thither, and, if Neville had slain Edwin, he would not have stolen
+his property, of course, except as a blind, neutralised by the placing of
+the watch in a conspicuous spot.  However, the increased suspicions drive
+Neville away to read law in Staple Inn, where Grewgious also dwells, and
+incessantly watches Neville out of his window.
+
+About six months later, Helena Landless is to join Neville, who is
+watched at intervals by Jasper, who, again, is watched by Grewgious as
+the precentor lurks about Staple Inn.
+
+
+
+DICK DATCHERY
+
+
+About the time when Helena leaves Cloisterham for town, a new character
+appears in Cloisterham, “a white-headed personage with black eyebrows,
+_buttoned up in a tightish blue surtout_, with a buff waistcoat, grey
+trowsers, and something of a military air.”  His shock of white hair was
+unusually thick and ample.  This man, “a buffer living idly on his
+means,” named Datchery, is either, as Mr. Proctor believed, Edwin Drood,
+or, as Mr. Walters thinks, Helena Landless.  By making Grewgious drop the
+remark that Bazzard, his clerk, a moping owl of an amateur tragedian, “is
+off duty here,” at his chambers, Dickens hints that Bazzard is Datchery.
+But that is a mere false scent, a ruse of the author, scattering paper in
+the wrong place, in this long paper hunt.
+
+As for Helena, Mr. Walters justly argues that Dickens has marked her for
+some important part in the ruin of Jasper.  “There was a slumbering gleam
+of fire in her intense dark eyes.  Let whomsoever it most concerned look
+well to it.”  Again, we have been told that Helena had high courage.  She
+had told Jasper that she feared him “in no circumstances whatever.”
+Again, we have learned that in childhood she had dressed as a boy when
+she ran away from home; and she had the motives of protecting Rosa and
+her brother, Neville, from the machinations of Jasper, who needs
+watching, as he is trying to ruin Neville’s already dilapidated
+character, and, by spying on him, to break down his nerve.  Really, of
+course, Neville is quite safe.  There is no _corpus delicti_, no carcase
+of the missing Edwin Drood.
+
+For the reasons given, Datchery might be Helena in disguise.
+
+If so, the idea is highly ludicrous, while nothing is proved either by
+the blackness of Datchery’s eyebrows (Helena’s were black), or by
+Datchery’s habit of carrying his hat under his arm, not on his head.  A
+person who goes so far as to wear a conspicuous white wig, would not be
+afraid also to dye his eyebrows black, if he were Edwin; while either
+Edwin or Helena _must_ have “made up” the face, by the use of paint and
+sham wrinkles.  Either Helena or Edwin would have been detected in real
+life, of course, but we allow for the accepted fictitious convention of
+successful disguise, and for the necessities of the novelist.  A tightly
+buttoned surtout would show Helena’s feminine figure; but let that also
+pass.  As to the hat, Edwin’s own hair was long and thick: add a wig, and
+his hat would be a burden to him.
+
+What is most unlike the stern, fierce, sententious Helena, is Datchery’s
+habit of “chaffing.”  He fools the ass of a Mayor, Sapsea, by most
+exaggerated diference: his tone is always that of indolent mockery, which
+one doubts whether the “intense” and concentrated Helena could assume.
+He takes rooms in the same house as Jasper, to whom, as to Durdles and
+Deputy, he introduces himself on the night of his arrival at Cloisterham.
+He afterwards addresses Deputy, the little _gamin_, by the name “Winks,”
+which is given to him by the people at the Tramps’ lodgings: the name is
+a secret of Deputy’s.
+
+
+
+JASPER, ROSA, AND TARTAR
+
+
+Meanwhile Jasper formally proposes to Rosa, in the school garden:
+standing apart and leaning against a sundial, as the garden is commanded
+by many windows.  He offers to resign his hopes of bringing Landless to
+the gallows (perhaps this bad man would provide a _corpus delicti_ of his
+own making!) if Rosa will accept him: he threatens to “pursue her to the
+death,” if she will not; he frightens her so thoroughly that she rushes
+to Grewgious in his chambers in London.  She now suspects Jasper of
+Edwin’s murder, but keeps her thoughts to herself.  She tells Grewgious,
+who is watching Neville,—“I have a fancy for keeping him under my
+eye,”—that Jasper has made love to her, and Grewgious replies in a parody
+of “God save the King”!
+
+    “On Thee his hopes to fix
+       Damn him again!”
+
+Would he fool thus, if he knew Jasper to have killed Edwin?  He is not
+certain whether Rosa should visit Helena next day, in Landless’s rooms,
+opposite; and Mr. Walters suggests that he may be aware that Helena,
+dressed as Datchery, is really absent at Cloisterham.  However, next day,
+Helena is in her brother’s rooms.  Moreover, it is really a sufficient
+explanation of Grewgious’s doubt that Jasper is lurking around, and that
+not till next day is a _private_ way of communication arranged between
+Neville and his friends.  In any case, next day, Helena is in her
+brother’s rooms, and, by aid of a Mr. Tartar’s rooms, she and Rosa can
+meet privately.  There is a good deal of conspiring to watch Jasper when
+he watches Neville, and in this new friend, Mr. Tartar, a lover is
+provided for Rosa.  Tartar is a miraculously agile climber over roofs and
+up walls, a retired Lieutenant of the navy, and a handy man, being such a
+climber, to chase Jasper about the roof of the Cathedral, when Jasper’s
+day of doom arrives.
+
+
+
+JASPER’S OPIUM VISIONS
+
+
+In July, Jasper revisits the London opium den, and talks under opium,
+watched by the old hag.  He speaks of a thing which he often does in
+visions: “a hazardous and perilous journey, over abysses where a slip
+would be destruction.  Look down, look down!  You see what lies at the
+bottom there?”  He enacts the vision and says, “There was a fellow
+traveller.”  He “speaks in a whisper, and as if in the dark.”  The vision
+is, in this case, “a poor vision: no struggle, no consciousness of peril,
+no entreaty.”  Edwin, in the reminiscent vision, dies very easily and
+rapidly.  “When it comes to be real at last, it is so short that it seems
+unreal for the first time.”  “And yet I never saw _that_ before.  Look
+what a poor miserable mean thing it is.  _That_ must be real.  It’s
+over.”
+
+What can all this mean?  We have been told that, shortly before Christmas
+Eve, Jasper took to wearing a thick black-silk handkerchief for his
+throat.  He hung it over his arm, “his face knitted and stern,” as he
+entered his house for his Christmas Eve dinner.  If he strangled Edwin
+with the scarf, as we are to suppose, he did not lead him, drugged, to
+the tower top, and pitch him off.  Is part of Jasper’s vision
+reminiscent—the brief, unresisting death—while another part is a separate
+vision, is _prospective_, “premonitory”?  Does he see himself pitching
+Neville Landless off the tower top, or see him fallen from the Cathedral
+roof?  Is Neville’s body “_that_”—“I never saw _that_ before.  Look what
+a poor miserable mean thing it is!  _That_ must be real.”  Jasper “never
+saw _that_”—the dead body below the height—before.  _This_ vision, I
+think, is of the future, not of the past, and is meant to bewilder the
+reader who thinks that the whole represents the slaying of Drood.  The
+tale is rich in “warnings” and telepathy.
+
+
+
+DATCHERY AND THE OPIUM WOMAN
+
+
+The hag now tracks Jasper home to Cloisterham.  Here she meets Datchery,
+whom she asks how she can see Jasper?  If Datchery is Drood, he now
+learns, _what he did not know before_, _that there is some connection
+between Jasper and the hag_.  He walks with her to the place where Edwin
+met the hag, on Christmas Eve, and gave her money; and he jingles his own
+money as he walks.  The place, or the sound of the money, makes the woman
+tell Datchery about Edwin’s gift of three shillings and sixpence for
+opium.  Datchery, “with a sudden change of countenance, gives her a
+sudden look.”  It does not follow that he is _not_ Drood, for, though the
+hag’s love of opium was known to Drood, Datchery is not to reveal his
+recognition of the woman.  He does what any stranger would do; he “gives
+a sudden look,” as if surprised by the mention of opium.
+
+Mr. Walters says, “Drood would not have changed countenance on hearing a
+fact he had known six months previously.”  But if Drood was playing at
+being somebody else, he would, of course, give a kind of start and stare,
+on hearing of the opium.  When he also hears from the hag that her former
+benefactor’s name was Edwin, he asks her how she knew that—“a fatuously
+unnecessary question,” says Mr. Walters.  A needless question for
+Datchery’s information, if he be Drood, but as useful a question as
+another if Drood be Datchery, and wishes to maintain the conversation.
+
+
+
+DATCHERY’S SCORE
+
+
+Datchery keeps a tavern score of his discoveries behind a door, in
+cryptic chalk strokes.  He does this, says Mr. Walters, because, being
+Helena, he would betray himself if he wrote in a female hand.  But nobody
+would _write_ secrets on a door!  He adds “a moderate stroke,” after
+meeting the hag, though, says Mr. Walters, “Edwin Drood would have
+learned nothing new whatever” from the hag.
+
+But Edwin would have learned something quite new, and very important—that
+the hag was hunting Jasper.  Next day Datchery sees the woman shake her
+fists at Jasper in church, and hears from her that she knows Jasper
+“better far than all the reverend parsons put together know him.”
+Datchery then adds a long thick line to his chalked score, yet, says Mr.
+Walters, Datchery has learned “nothing new to Edwin Drood, if alive.”
+
+This is an obvious error.  It is absolutely new to Edwin Drood that the
+opium hag is intimately acquainted with his uncle, Jasper, and hates
+Jasper with a deadly hatred.  All this is not only new to Drood, if
+alive, but is rich in promise of further revelations.  Drood, on
+Christmas Eve, had learned from the hag only that she took opium, and
+that she had come from town to Cloisterham, and had “hunted for a needle
+in a bottle of hay.”  That was the sum of his information.  Now he learns
+that the woman knows, tracks, has found, and hates, his worthy uncle,
+Jasper.  He may well, therefore, add a heavy mark to his score.
+
+We must also ask, How could Helena, fresh from Ceylon, know “the old
+tavern way of keeping scores?  Illegible except to the scorer.  The
+scorer not committed, the scored debited with what is against him,” as
+Datchery observes.  An Eurasian girl of twenty, new to England, would not
+argue thus with herself: she would probably know nothing of English
+tavern scores.  We do not hear that Helena ever opened a book: we do know
+that education had been denied to her.  What acquaintance could she have
+with old English tavern customs?
+
+If Drood is Datchery, then Dickens used a form of a very old and
+favourite _ficelle_ of his: the watching of a villain by an improbable
+and unsuspected person, in this case thought to be dead.  If Helena is
+Datchery, the “assumption” or personation is in the highest degree
+improbable, her whole bearing is quite out of her possibilities, and the
+personation is very absurd.
+
+Here the story ends.
+
+
+
+
+THEORIES OF THE MYSTERY
+
+
+FORSTER’S EVIDENCE
+
+
+WE have some external evidence as to Dickens’s solution of his own
+problem, from Forster. {48}  On August 6, 1869, some weeks before he
+began to work at his tale, Dickens, in a letter, told Forster, “I have a
+very curious and new idea for my new story.  Not communicable (or the
+interest of the book would be gone), but a very strong one, though
+difficult to work.”  Forster must have instantly asked that the
+incommunicable secret should be communicated to _him_, for he tells us
+that “_immediately after_ I learnt”—the secret.  But did he learn it?
+Dickens was ill, and his plot, whatever it may have been, would be
+irritatingly criticized by Forster before it was fully thought out.
+“Fules and bairns should not see half-done work,” and Dickens may well
+have felt that Forster should not see work not even begun, but merely
+simmering in the author’s own fancy.
+
+Forster does not tell us that Dickens communicated the secret in a
+letter.  He quotes none: he says “I was told,” orally, that is.  When he
+writes, five years later (1874), “Landless was, _I think_, to have
+perished in assisting Tartar finally to unmask and seize the murderer,”
+he is clearly trusting, not to a letter of Dickens’s, but to a defective
+memory; and he knows it.  He says that a nephew was to be murdered by an
+uncle.  The criminal was to confess in the condemned cell.  He was to
+find out that his crime had been needless, and to be convicted by means
+of the ring (Rosa’s mother’s ring) remaining in the quicklime that had
+destroyed the body of Edwin.
+
+Nothing “new” in all this, as Forster must have seen.  “The originality,”
+he explains, “was to consist in the review of the murderer’s career by
+himself at the close, when its temptations were to be dwelt upon as if,
+not he the culprit, but some other man, were the tempted.”
+
+But all this is not “hard to work,” and is not “original.”  As Mr.
+Proctor remarks, Dickens had used that trick twice already.  (“Madman’s
+Manuscript,” _Pickwick_; “Clock Case Confession,” in _Master Humphrey’s
+Clock_.)  The quicklime trick is also very old indeed.  The disguise of a
+woman as a man is as ancient as the art of fiction: yet Helena _may_ be
+Datchery, though nobody guessed it before Mr. Cuming Walters.  She ought
+not to be Datchery; she is quite out of keeping in her speech and manner
+as Datchery, and is much more like Drood.
+
+
+
+“A NEW IDEA”
+
+
+There are no new ideas in plots.  “All the stories have been told,” and
+all the merit lies in the manner of the telling.  Dickens had used the
+unsuspected watcher, as Mr. Proctor shows, in almost all his novels.  In
+_Martin Chuzzlewit_, when Jonas finds that Nadgett has been the watcher,
+Dickens writes, “The dead man might have come out of his grave and not
+confounded and appalled him so.”  Now, to Jasper, Edwin _was_ “the dead
+man,” and Edwin’s grave contained quicklime.  Jasper was sure that he had
+done for Edwin: he had taken Edwin’s watch, chain, and scarf-pin; he
+believed that he had left him, drugged, in quicklime, in a locked vault.
+Consequently the reappearance of Edwin, quite well, in the vault where
+Jasper had buried him, would be a very new idea to Jasper; would
+“confound and appall him.”  Jasper would have emotions, at that
+spectacle, and so would the reader!  It is not every day, even in our age
+of sixpenny novels, that a murderer is compelled to visit, alone, at
+night, the vault which holds his victim’s “cold remains,” and therein
+finds the victim “come up, smiling.”
+
+Yes, for business purposes, this idea was new enough!  The idea was
+“difficult to work,” says Dickens, with obvious truth.  How was he to get
+the quicklime into the vault, and Drood, alive, out of the vault?  As to
+the reader, he would at first take Datchery for Drood, and then think,
+“No, that is impossible, and also is stale.  Datchery cannot be Drood,”
+and thus the reader would remain in a pleasant state of puzzledom, as he
+does, unto this day.
+
+If Edwin is dead, there is not much “Mystery” about him.  We have as good
+as seen Jasper strangle him and take his pin, chain, and watch.  Yet by
+adroitly managing the conduct of Mr. Grewgious, Dickens persuaded Mr.
+Proctor that certainly, Grewgious knew Edwin to be alive.  As Grewgious
+knew, from Helena, all that was necessary to provoke his experiment on
+Jasper’s nerves, Mr. Proctor argued on false premises, but that was due
+to the craft of Dickens.  Mr. Proctor rejected Forster’s report, from
+memory, of what he understood to be the “incommunicable secret” of
+Dickens’s plot, and I think that he was justified in the rejection.
+Forster does not seem to have cared about the thing—he refers lightly to
+“the reader curious in such matters”—when once he had received his
+explanation from Dickens.  His memory, in the space of five years, may
+have been inaccurate: he probably neither knew nor cared who Datchery
+was; and he may readily have misunderstood what Dickens told him, orally,
+about the ring, as the instrument of detection.  Moreover, Forster quite
+overlooked one source of evidence, as I shall show later.
+
+
+
+MR. PROCTOR’S THEORY
+
+
+Mr. Proctor’s theory of the story is that Jasper, after Edwin’s return at
+midnight on Christmas Eve, recommended a warm drink—mulled wine,
+drugged—and then proposed another stroll of inspection of the effects of
+the storm.  He then strangled him, somewhere, and placed him in the
+quicklime in the Sapsea vault, locked him in, and went to bed.  Next,
+according to Mr. Proctor, Durdles, then, “lying drunk in the precincts,”
+for some reason taps with his hammer on the wall of the Sapsea vault,
+detects the presence of a foreign body, opens the tomb, and finds Drood
+in the quicklime, “his face fortunately protected by the strong silk
+shawl with which Jasper has intended to throttle him.”
+
+
+
+A MISTAKEN THEORY
+
+
+This is “thin,” very “thin!”  Dickens must have had some better scheme
+than Mr. Proctor’s.  Why did Jasper not “mak sikker” like Kirkpatrick
+with the Red Comyn?  Why did he leave his silk scarf?  It might come to
+be asked for; to be sure the quicklime would destroy it, but why did
+Jasper leave it?  Why did the intoxicated Durdles come out of the crypt,
+if he was there, enter the graveyard, and begin tapping at the wall of
+the vault?  Why not open the door? he had the key.
+
+Suppose, however, all this to have occurred, and suppose, with Mr.
+Proctor, that Durdles and Deputy carried Edwin to the Tramps’ lodgings,
+would Durdles fail to recognize Edwin?  We are to guess that Grewgious
+was present, or disturbed at his inn, or somehow brought into touch with
+Edwin, and bribed Durdles to silence, “until a scheme for the punishment
+of Jasper had been devised.”
+
+All this set of conjectures is crude to the last degree.  We do not know
+how Dickens meant to get Edwin into and out of the vault.  Granting that
+Edwin was drugged, Jasper might lead Edwin in, considering the licence
+extended to the effects of drugs in novels, and might strangle him there.
+Above all, how did Grewgious, if in Cloisterham, come to be at hand at
+midnight?
+
+
+
+ANOTHER WAY
+
+
+If I must make a guess, I conjecture that Jasper had one of his “filmy”
+seizures, was “in a frightful sort of dream,” and bungled the murder:
+made an incomplete job of it.  Half-strangled men and women have often
+recovered.  In Jasper’s opium vision and reminiscence there was no
+resistance, all was very soon over.  Jasper might even bungle the locking
+of the door of the vault.  He was apt to have a seizure after opium, in
+moments of excitement, and _he had been at the opium den through the
+night of December_ 23, for the hag tracked him from her house in town to
+Cloisterham on December 24, the day of the crime.  Grant that his
+accustomed fit came upon him during the excitement of the murder, as it
+does come after “a nicht wi’ opium,” in chapter ii., when Edwin excites
+him by contemptuous talk of the girl whom Jasper loves so furiously—and
+then anything may happen!
+
+Jasper murders Edwin inefficiently; he has a fit; while he is unconscious
+the quicklime revives Edwin, by burning his hand, say, and, during
+Jasper’s swoon, Edwin, like another famous prisoner, “has a happy
+thought, he opens the door, and walks out.”
+
+Being drugged, he is in a dreamy state; knows not clearly what has
+occurred, or who attacked him.  Jasper revives, “look on’t again he dare
+not,”—on the body of his victim—and _he_ walks out and goes home, where
+his red lamp has burned all the time—“thinking it all wery capital.”
+
+“Another way,”—Jasper not only fails to strangle Drood, but fails to lock
+the door of the vault, and Drood walks out after Jasper has gone.  Jasper
+has, before his fit, “removed from the body the most lasting, the best
+known, and most easily recognizable things upon it, the watch and
+scarf-pin.”  So Dickens puts the popular view of the case against Neville
+Landless, and so we are to presume that Jasper acted.  If he removed no
+more things from the body than these, he made a fatal oversight.
+
+Meanwhile, how does Edwin, once out of the vault, make good a secret
+escape from Cloisterham?  Mr. Proctor invokes the aid of Mr. Grewgious,
+but does not explain why Grewgious was on the spot.  I venture to think
+it not inconceivable that Mr. Grewgious having come down to Cloisterham
+by a late train, on Christmas Eve, to keep his Christmas appointment with
+Rosa, paid a darkling visit to the tomb of his lost love, Rosa’s mother.
+Grewgious was very sentimental, but too secretive to pay such a visit by
+daylight.  “A night of memories and sighs” he might “consecrate” to his
+lost lady love, as Landor did to Rose Aylmer.  Grewgious was to have
+helped Bazzard to eat a turkey on Christmas Day.  But he could get out of
+that engagement.  He would wish to see Edwin and Rosa together, and Edwin
+was leaving Cloisterham.  The date of Grewgious’s arrival at Cloisterham
+is studiously concealed.  I offer at least a conceivable motive for
+Grewgious’s possible presence at the churchyard.  Mrs. Bud, his lost
+love, we have been told, was buried hard by the Sapsea monument.  If
+Grewgious visited her tomb, he was on the spot to help Edwin, supposing
+Edwin to escape.  Unlikelier things occur in novels.  I do not, in fact,
+call these probable occurrences in every-day life, but none of the story
+is probable.  Jasper’s “weird seizures” are meant to lead up to
+_something_.  They may have been meant to lead up to the failure of the
+murder and the escape of Edwin.  Of course Dickens would not have treated
+these incidents, when he came to make Edwin explain,—nobody else could
+explain,—in my studiously simple style.  The drugged Edwin himself would
+remember the circumstances but mistily: his evidence would be of no value
+against Jasper.
+
+Mr. Proctor next supposes, we saw, that Drood got into touch with
+Grewgious, and I have added the circumstances which might take Grewgious
+to the churchyard.  Next, when Edwin recovered health, he came down,
+perhaps, as Datchery, to spy on Jasper.  I have elsewhere said, as Mr.
+Cuming Walters quotes me, that “fancy can suggest no reason why Edwin
+Drood, if he escaped from his wicked uncle, should go spying about
+instead of coming openly forward.  No plausible unfantastic reason could
+be invented.”  Later, I shall explain why Edwin, if he is Datchery, might
+go spying alone.
+
+It is also urged that Edwin left Rosa in sorrow, and left blame on
+Neville Landless.  Why do this?  Mr. Proctor replies that Grewgious’s
+intense and watchful interest in Neville, otherwise unexplained, is due
+to his knowledge that Drood is alive, and that Neville must be cared for,
+while Grewgious has told Rosa that Edwin lives.  He also told her of
+Edwin’s real love of her, hence Miss Bud says, “Poor, poor Eddy,” quite
+_à propos de bottes_, when she finds herself many fathoms deep in love
+with Lieutenant Tartar, R.N.  “‘Poor, poor Eddy!’ thought Rosa, as they
+walked along,” Tartar and she.  This is a plausible suggestion of Mr.
+Proctor.  Edwin, though known to Rosa to be alive, has no chance!  But,
+as to my own remark, “why should not Edwin come forward at once, instead
+of spying about?”  Well, if he did, there would be no story.  As for “an
+unfantastic reason” for his conduct, Dickens is not writing an
+“unfantastic” novel.  Moreover, if things occurred as I have suggested, I
+do not see what evidence Drood had against Jasper.  Edwin’s clothes were
+covered with lime, but, when he told his story, Jasper would reply that
+Drood never returned to his house on Christmas Eve, but stayed out,
+“doing what was correct by the season, in the way of giving it the
+welcome it had the right to expect,” like Durdles on another occasion.
+Drood’s evidence, if it was what I have suggested, would sound like the
+dream of an intoxicated man, and what other evidence could be adduced?
+Thus I had worked out Drood’s condition, if he really was not killed, in
+this way: I had supposed him to escape, in a very mixed frame of mind,
+when he would be encountered by Grewgious, who, of course, could make
+little out of him in his befogged state.  Drood could not even prove that
+it was not Landless who attacked him.  The result would be that Drood
+would lie low, and later, would have reason enough for disguising himself
+as Datchery, and playing the spy in Cloisterham.
+
+At this point I was reinforced by an opinion which Mr. William Archer had
+expressed, unknown to me, in a newspaper article.  I had described
+Edwin’s confused knowledge of his own experience, if he were thoroughly
+drugged, and then half strangled.  Mr. Archer also took that point, and
+added that Edwin being a good-hearted fellow, and fond of his uncle
+Jasper, he would not bring, or let Grewgious bring, a terrible charge
+against Jasper, till he knew more certainly the whole state of the case.
+For that reason, he would come disguised to Cloisterham and make
+inquiries.  By letting Jasper know about the ring, he would compel him to
+enter the vault, and then, Mr. Archer thinks, would induce him to “repent
+and begin life afresh.”
+
+I scarcely think that Datchery’s purpose was so truly honourable: he
+rather seems to be getting up a case against Jasper.  Still, the idea of
+Mr. Archer is very plausible, and, at least, given Drood’s need of
+evidence, and the lack of evidence against Jasper, we see reason good, in
+a novel of this kind, for his playing the part of amateur detective.
+
+
+
+DICKENS’S UNUSED DRAFT OF A CHAPTER
+
+
+Forster found, and published, a very illegible sketch of a chapter of the
+tale: “How Mr. Sapsea ceased to be a Member of the Eight Club, Told by
+Himself.”  This was “a cramped, interlined, and blotted” draft, on paper
+of only half the size commonly used by Dickens.  Mr. Sapsea tells how his
+Club mocked him about a stranger, who had mistaken him for the Dean.  The
+jackass, Sapsea, left the Club, and met the stranger, _a young man_, who
+fooled him to the top of his bent, saying, “If I was to deny that I came
+to this town to see and hear you, Sir, what would it avail me?”
+Apparently this paper was a rough draft of an idea for introducing a
+detective, as a _young_ man, who mocks Sapsea just as Datchery does in
+the novel.  But to make the spy a _young_ man, whether the spy was Drood
+or Helena Landless, was too difficult; and therefore Dickens makes
+Datchery “an elderly buffer” in a white wig.  If I am right, it was
+easier for Helena, a girl, to pose as a young man, than for Drood to
+reappear as a young man, not himself.  Helena _may_ be Datchery, and yet
+Drood may be alive and biding his time; but I have disproved my old
+objection that there was no reason why Drood, if alive, should go spying
+about in disguise.  There were good Dickensian reasons.
+
+
+
+A QUESTION OF TASTE
+
+
+Mr. Cuming Walters argues that the story is very tame if Edwin is still
+alive, and left out of the marriages at the close.  Besides, “Drood is
+little more than a name-label, attached to a body, a man who never
+excites sympathy, whose fate causes no emotion, he is saved for no useful
+or sentimental purpose, and lags superfluous on the stage.  All of which
+is bad art, so bad that Dickens would never have been guilty of it.”
+
+That is a question of taste.  On rereading the novel, I see that Dickens
+makes Drood as sympathetic as he can.  He is very young, and speaks of
+Rosa with bad taste, but he is really in love with her, much more so than
+she with him, and he is piqued by her ceaseless mockery, and by their
+false position.  To Jasper he is singularly tender, and remorseful when
+he thinks that he has shown want of tact.  There is nothing ominous about
+his gaiety: as to his one fault, we leave him, on Christmas Eve, a
+converted character: he has a kind word and look for every one whom he
+meets, young and old.  He accepts Mr. Grewgious’s very stern lecture in
+the best manner possible.  In short, he is marked as faulty—“I am young,”
+so he excuses himself, in the very words of Darnley to Queen Mary! (if
+the Glasgow letter be genuine); but he is also marked as sympathetic.
+
+He was, I think, to have a lesson, and to become a good fellow.  Mr.
+Proctor rightly argues (and Forster “thinks”), that Dickens meant to kill
+Neville Landless: Mr. Cuming Walters agrees with him, but Mr. Proctor
+truly adds that Edwin has none of the signs of Dickens’s doomed men, his
+Sidney Cartons, and the rest.  You can tell, as it were by the sound of
+the voice of Dickens, says Mr. Proctor, that Edwin is to live.  The
+impression is merely subjective, but I feel the impression.  The doom of
+Landless is conspicuously fixed, and why is Landless to be killed by
+Jasper?  Merely to have a count on which to hang Jasper!  He cannot be
+hanged for killing Drood, if Drood is alive.
+
+
+
+MR. PROCTOR’S THEORY CONTINUED
+
+
+Mr. Proctor next supposes that Datchery and others, by aid of the opium
+hag, have found out a great deal of evidence against Jasper.  They have
+discovered from the old woman that his crime was long premeditated: he
+had threatened “Ned” in his opiated dreams: and had clearly removed
+Edwin’s trinkets and watch, because they would not be destroyed, with his
+body, by the quicklime.  This is all very well, but there is still, so
+far, no legal evidence, on my theory, that Jasper attempted to take
+Edwin’s life.  Jasper’s enemies, therefore, can only do their best to
+make his life a burden to him, and to give him a good fright, probably
+with the hope of terrifying him into avowals.
+
+Now the famous ring begins “to drag and hold” the murderer.  He is given
+to know, I presume, that, when Edwin disappeared, he had a gold ring in
+the pocket of his coat.  Jasper is thus compelled to revisit the vault,
+at night, and there, in the light of his lantern, he sees the long-lost
+Edwin, with his hand in the breast of his great coat.
+
+Horrified by this unexpected appearance, Jasper turns to fly.  But he is
+confronted by Neville Landless, Crisparkle, Tartar, and perhaps by Mr.
+Grewgious, who are all on the watch.  He rushes up through the only
+outlet, the winding staircase of the Cathedral tower, of which we know
+that he has had the key.  Neville, who leads his pursuers, “receives his
+death wound” (and, I think, is pitched off the top of the roof).  Then
+Jasper is collared by that agile climber, Tartar, and by Crisparkle,
+always in the pink of condition.  There is now something to hang Jasper
+for—the slaying of Landless (though, as far as I can see, _that_ was done
+in self-defence).  Jasper confesses all; Tartar marries Rosa; Helena
+marries Crisparkle.  Edwin is only twenty-one, and may easily find a
+consoler of the fair sex: indeed he is “ower young to marry yet.”
+
+The capture of Jasper was fixed, of course, for Christmas Eve.  The
+phantom cry foreheard by Durdles, two years before, was that of Neville
+as he fell; and the dog that howled was Neville’s dog, a character not
+yet introduced into the romance.
+
+
+
+MR. CUMING WALTERS’S THEORY
+
+
+Such is Mr. Proctor’s theory of the story, in which I mainly agree.  Mr.
+Proctor relies on a piece of evidence overlooked by Forster, and
+certainly misinterpreted, as I think I can prove to a certainty, by Mr.
+Cuming Walters, whose theory of the real conduct of the plot runs thus:
+After watching the storm at midnight with Edwin, Neville left him, and
+went home: “his way lay in an opposite direction.  Near to the Cathedral
+Jasper intercepted his nephew. . . . Edwin may have been already
+drugged.”  How the murder was worked Mr. Cuming Walters does not say, but
+he introduces at this point, the two sounds foreheard by Durdles, without
+explaining “the howl of a dog.”  Durdles would hear the cries, and Deputy
+“had seen what he could not understand,” whatever it was that he saw.
+Jasper, not aware of Drood’s possession of the ring, takes only his
+watch, chain, and pin, which he places on the timbers of the weir, and in
+the river, to be picked up by that persistent winter-bather, Crisparkle
+of the telescopic and microscopic eyesight.
+
+As to the ring, Mr. Cuming Walters erroneously declares that Mr. Proctor
+“ignores” the power of the ring “to hold and drag,” and says that potent
+passage is “without meaning and must be disregarded.”  Proctor, in fact,
+gives more than three pages to the meaning of the ring, which “drags”
+Jasper into the vault, when he hears of its existence. {74}  Next, Mr.
+Cuming Walters supposes Datchery to learn from Durdles, whom he is to
+visit, about the second hearing of the cry and the dog’s howl.  Deputy
+may have seen Jasper “carrying his burden” (Edwin) “towards the Sapsea
+vault.”  In fact, Jasper probably saved trouble by making the drugged
+Edwin walk into that receptacle.  “Datchery would not think of the Sapsea
+vault unaided.”  No—unless Datchery was Drood!  “Now Durdles is useful
+again.  Tapping with his hammer he would find a change . . . inquiry must
+be made.”  Why should Durdles tap the Sapsea monument?  As Durdles had
+the key, he would simply walk into the vault, and find the quicklime.
+Now, Jasper also, we presume, had a key, made from a wax impression of
+the original.  If he had any sense, he would have removed the quicklime
+as easily as he inserted it, for Mr. Sapsea was mortal: he might die any
+day, and be buried, and then the quicklime, lying where it ought not,
+would give rise to awkward inquiries.
+
+Inquiry being made, in consequence of Durdles’s tappings, the ring would
+be found, as Mr. Cuming Walters says.  But even then, unless Deputy
+actually saw Jasper carry a man into the vault, nobody could prove
+Jasper’s connection with the presence of the ring in the vault.
+Moreover, Deputy hated Jasper, and if he saw Jasper carrying the body of
+a man, on the night when a man disappeared, he was clever enough to lead
+Durdles to examine the vault, _at once_.  Deputy had a great dislike of
+the Law and its officers, but here was a chance for him to distinguish
+himself, and conciliate them.
+
+However these things may be, Mr. Cuming Walters supposes that Jasper,
+finding himself watched, re-enters the vault, perhaps, “to see that every
+trace of the crime had been removed.”  In the vault he finds—Datchery,
+that is, Helena Landless!  Jasper certainly visited the vault and found
+somebody.
+
+            [Picture: The cover of The Mystery of Edwin Drood]
+
+
+
+EVIDENCE OF COLLINS’S DRAWINGS
+
+
+We now come to the evidence which Forster strangely overlooked, which Mr.
+Proctor and Mr. Archer correctly deciphered, and which Mr. Cuming Walters
+misinterprets.  On December 22, 1869, Dickens wrote to Forster that two
+numbers of his romance were “now in type.  Charles Collins has designed
+an excellent cover.”  Mr. C. A. Collins had married a daughter of
+Dickens. {77}  He was an artist, a great friend of Dickens, and author of
+that charming book, “A Cruise on Wheels.”  His design of the paper cover
+of the story (it appeared in monthly numbers) contained, as usual,
+sketches which give an inkling of the events in the tale.  Mr. Collins
+was to have illustrated the book; but, finally, Mr. (now Sir) Luke Fildes
+undertook the task.  Mr. Collins died in 1873.  It appears that Forster
+never asked him the meaning of his designs—a singular oversight.
+
+The cover lies before the reader.  In the left-hand top corner appears an
+allegorical female figure of joy, with flowers.  The central top space
+contains the front of Cloisterham Cathedral, or rather, the nave.  To the
+left walks Edwin, with hyacinthine locks, and a thoroughly classical type
+of face, and Grecian nose.  _Like Datchery_, _he does not wear_, _but
+carries his hat_; this means nothing, if they are in the nave.  He seems
+bored.  On his arm is Rosa; _she_ seems bored; she trails her parasol,
+and looks away from Edwin, looks down, to her right.  On the spectator’s
+right march the surpliced men and boys of the Choir.  Behind them is
+Jasper, black whiskers and all; he stares after Edwin and Rosa; his right
+hand hides his mouth.  In the corner above him is an allegorical female,
+clasping a stiletto.
+
+Beneath Edwin and Rosa is, first, an allegorical female figure, looking
+at a placard, headed “LOST,” on a door.  Under that, again, is a girl in
+a garden-chair; a young man, whiskerless, with wavy hair, kneels and
+kisses her hand.  She looks rather unimpassioned.  I conceive the man to
+be Landless, taking leave of Rosa after urging his hopeless suit, for
+which Helena, we learn, “seems to compassionate him.”  He has avowed his
+passion, early in the story, to Crisparkle.  Below, the opium hag is
+smoking.  On the other side, under the figures of Jasper and the Choir,
+the young man who kneels to the girl is seen bounding up a spiral
+staircase.  His left hand is on the iron railing; he stoops over it,
+looking down at others who follow him.  His right hand, the index finger
+protruded, points upward, and, by chance or design, points straight at
+Jasper in the vignette above.  Beneath this man (clearly Landless)
+follows a tall man in a “bowler” hat, a “cut-away” coat, and trousers
+which show an inch of white stocking above the low shoes.  His profile is
+hid by the wall of the spiral staircase: he might be Grewgious of the
+shoes, white stockings, and short trousers, but he may be Tartar: he
+takes two steps at a stride.  Beneath him a youngish man, in a low, soft,
+clerical hat and a black pea-coat, ascends, looking downwards and
+backwards.  This is clearly Crisparkle.  A Chinaman is smoking opium
+beneath.
+
+In the central lowest space, a dark and whiskered man enters a dark
+chamber; his left hand is on the lock of the door; in his right he holds
+up a lantern.  The light of the lantern reveals a young man in a soft hat
+of Tyrolese shape.  His features are purely classical, his nose is
+Grecian, his locks are long (at least, according to the taste of to-day);
+he wears a light paletot, buttoned to the throat; his right arm hangs by
+his side; his left hand is thrust into the breast of his coat.  He calmly
+regards the dark man with the lantern.  That man, of course, is Jasper.
+The young man is EDWIN DROOD, of the Grecian nose, hyacinthine locks, and
+classic features, as in Sir L. Fildes’s third illustration.
+
+Mr. Proctor correctly understood the unmistakable meaning of this last
+design, Jasper entering the vault—
+
+    “_To-day the dead are living_,
+       _The lost is found to-day_.”
+
+Mr. Cuming Walters tells us that he did not examine these designs by Mr.
+Collins till he had formed his theory, and finished his book.  “On the
+conclusion of the whole work the pictures were referred to for the first
+time, and were then found to support in the most striking manner the
+opinions arrived at,” namely, that Drood was killed, and that Helena is
+Datchery.  Thus does theory blind us to facts!
+
+Mr. Cuming Walters connects the figure of the whiskerless young man
+kneeling to a girl in a garden seat, with the whiskered Jasper’s proposal
+to Rosa in a garden seat.  But Jasper does not kneel to Rosa; he stands
+apart, leaning on a sundial; he only once vaguely “touches” her, which
+she resents; he does not kneel; he does not kiss her hand (Rosa “took the
+kiss sedately,” like Maud in the poem); and—Jasper had lustrous thick
+black whiskers.
+
+Again, the same whiskerless young man, bounding up the spiral staircase
+in daylight, and wildly pointing upwards, is taken by Mr. Cuming Walters
+to represent Jasper climbing the staircase to reconnoitre, at night, with
+a lantern, and, of course, with black whiskers.  The two well-dressed men
+on the stairs (Grewgious, or Tartar, and Crisparkle) also, according to
+Mr. Cuming Walters, “relate to Jasper’s unaccountable expedition with
+Durdles to the Cathedral.”  Neither of them is Jasper; neither of them is
+Durdles, “in a suit of coarse flannel”—a disreputable jacket, as Sir L.
+Fildes depicts him—“with horn buttons,” and a battered old tall hat.
+These interpretations are quite demonstrably erroneous and even
+impossible.  Mr. Archer interprets the designs exactly as I do.
+
+As to the young man in the light of Jasper’s lamp, Mr. Cuming Walters
+says, “the large hat and the tightly-buttoned surtout must be observed;
+they are the articles of clothing on which most stress is laid in the
+description of Datchery.  But the face is young.”  The face of Datchery
+was elderly, and he had a huge shock of white hair, a wig.  Datchery wore
+“a tightish blue surtout, with a buff waistcoat and grey trousers; he had
+something of a military air.”  The young man in the vault has anything
+but a military air; he shows no waistcoat, and he does not wear “a
+tightish blue surtout,” or any surtout at all.
+
+                        [Picture: Under the trees]
+
+The surtout of the period is shown, worn by Jasper, in Sir L. Fildes’s
+sixth and ninth illustrations.  It is a frock-coat; the collar descends
+far below the top of the waistcoat (buff or otherwise), displaying that
+garment; the coat is tightly buttoned beneath, revealing the figure; the
+tails of the coat do not reach the knees of the wearer.  The young man in
+the vault, on the other hand, wears a loose paletot, buttoned to the
+throat (vaults are chilly places), and the coat falls so as to cover the
+knees; at least, partially.  The young man is not, like Helena, “very
+dark, and fierce of look, . . . of almost the gipsy type.”  He is blonde,
+sedate, and of the classic type, as Drood was.  He is no more like Helena
+than Crisparkle is like Durdles.  Mr. Cuming Walters says that Mr.
+Proctor was “unable to allude to the prophetic picture by Collins.”  As a
+fact, this picture is fully described by Mr. Proctor, but Mr. Walters
+used the wrong edition of his book, unwittingly.
+
+Mr. Proctor writes:—“Creeping down the crypt steps, oppressed by growing
+horror and by terror of coming judgment, sickening under fears engendered
+by the darkness of night and the charnel-house air he breathed, Jasper
+opens the door of the tomb and holds up his lantern, shuddering at the
+thought of what it may reveal to him.
+
+“And what sees he?  Is it the spirit of his victim that stands there, ‘in
+his habit as he lived,’ his hand clasped on his breast, where the ring
+had been when he was murdered?  What else can Jasper deem it?  There,
+clearly visible in the gloom at the back of the tomb, stands Edwin Drood,
+with stern look fixed on him—pale, silent, relentless!”
+
+         [Picture: Durdles Cautions Mr. Sapsea against Boasting]
+
+Again, “On the title-page are given two of the small pictures from the
+Love side of the cover, two from the Murder side, and the central picture
+below, which presents the central horror of the story—the end and aim of
+the ‘Datchery assumption’ and of Mr. Grewgious’s plans—showing Jasper
+driven to seek for the proofs of his crime amid the dust to which, as he
+thought, the flesh and bones, and the very clothes of his victim, had
+been reduced.”
+
+There are only two possible choices; either Collins, under Dickens’s oral
+instructions, depicted Jasper finding Drood alive in the vault, an
+incident which was to occur in the story; or Dickens bade Collins do this
+for the purpose of misleading his readers in an illegitimate manner;
+while the young man in the vault was really to be some person “made up”
+to look like Drood, and so to frighten Jasper with a pseudo-ghost of that
+hero.  The latter device, the misleading picture, would be childish, and
+the pseudo-ghost, exactly like Drood, could not be acted by the
+gipsy-like, fierce Helena, or by any other person in the romance.
+
+
+
+MR. WALTERS’S THEORY CONTINUED
+
+
+Mr. Cuming Walters guesses that Jasper was to aim a deadly blow (with his
+left hand, to judge from the picture) at Helena, and that Neville “was to
+give his life for hers.”  But, manifestly, Neville was to lead the hunt
+of Jasper up the spiral stair, as in Collins’s design, and was to be
+dashed from the roof: his body beneath was to be “_that_, I never saw
+before.  _That_ must be real.  Look what a poor mean miserable thing it
+is!” as Jasper says in his vision.
+
+Mr. Cuming Walters, pursuing his idea of Helena as both Datchery and also
+as the owner of “the _young_ face” of the youth in the vault (and also of
+the young hands, a young girl’s hands could never pass for those of “an
+elderly buffer”), exclaims: “Imagine the intense power of the dramatic
+climax, when Datchery, the elderly man, is re-transformed into Helena
+Landless, the young and handsome woman; and when she reveals the
+seemingly impenetrable secret which had been closed up in one guilty
+man’s mind.”
+
+The situations are startling, I admit, but how would Canon Crisparkle
+like them?  He is, we know, to marry Helena, “the young person, my dear,”
+Miss Twinkleton would say, “who for months lived alone, at inns, wearing
+a blue surtout, a buff waistcoat, and grey—”  Here horror chokes the
+utterance of Miss Twinkleton.  “Then she was in the vault in _another_
+disguise, not more womanly, at that awful scene when poor Mr. Jasper was
+driven mad, so that he confessed all sorts of nonsense, for, my dear, all
+the Close believes that it _was_ nonsense, and that Mr. Jasper was
+reduced to insanity by persecution.  And Mr. Crisparkle, with that
+elegant dainty mother of his—it has broken her heart—is marrying this
+half-caste gipsy _trollop_, with her blue surtout and grey—oh, it is a
+disgrace to Cloisterham!”
+
+The climax, in fact, as devised by Mr. Cuming Walters, is rather too
+dramatic for the comfort of a minor canon.  A humorist like Dickens ought
+to have seen the absurdity of the situation.  Mr. Walters _may_ be right,
+Helena may be Datchery, but she ought not to be.
+
+
+
+WHO WAS THE PRINCESS PUFFER?
+
+
+Who was the opium hag, the Princess Puffer?  Mr. Cuming Walters writes:
+“We make a guess, for Dickens gives us no solid facts.  But when we
+remember that not a word is said throughout the volume of Jasper’s
+antecedents, who he was, and where he came from; when we remember that
+but for his nephew he was a lonely man; when we see that he was both
+criminal and artist; when we observe his own wheedling propensity, his
+false and fulsome protestations of affection, his slyness, his subtlety,
+his heartlessness, his tenacity; and when, above all, we know that the
+opium vice is _hereditary_, and that a _young_ man would not be addicted
+to it unless born with the craving; {91} then, it is not too wild a
+conjecture that Jasper was the wayward progeny of this same opium-eating
+woman, all of whose characteristics he possessed, and, perchance, of a
+man of criminal instincts, but of a superior position.  Jasper is a
+morbid and diseased being while still in the twenties, a mixture of
+genius and vice.  He hates and he loves fiercely, as if there were wild
+gipsy blood in his veins.  Though seemingly a model of decorum and
+devoted to his art, he complains of his “daily drudging round” and “the
+cramped monotony of his existence.”  He commits his crime with the
+ruthlessness of a beast, his own nature being wholly untamed.  If we
+deduce that his father was an adventurer and a vagabond, we shall not be
+far wrong.  If we deduce that his mother was the opium-eater, prematurely
+aged, who had transmitted her vicious propensity to her child, we shall
+almost certainly be right.”
+
+
+
+WHO WAS JASPER?
+
+
+Who was Jasper?  He was the brother-in-law of the late Mr. Drood, a
+respected engineer, and University man.  We do not know whence came Mrs.
+Drood, Jasper’s sister, but is it likely that her mother “drank
+heaven’s-hard”—so the hag says of herself—then took to keeping an opium
+den, and there entertained her son Jasper, already an accomplished
+vocalist, but in a lower station than that to which his musical genius
+later raised him, as lay Precentor?  If the Princess Puffer be, as on Mr.
+Cuming Walters’s theory she is, Edwin’s long-lost grandmother, her
+discovery would be unwelcome to Edwin.  Probably she did not live much
+longer; “my lungs are like cabbage nets,” she says.  Mr. Cuming Walters
+goes on—
+
+“Her purpose is left obscure.  How easily, however, we see possibilities
+in a direction such as this.  The father, perhaps a proud, handsome man,
+deserts the woman, and removes the child.  The woman hates both for
+scorning her, but the father dies, or disappears, and is beyond her
+vengeance.  Then the child, victim to the ills in his blood, creeps back
+to the opium den, not knowing his mother, but immediately recognized by
+her.  She will make the child suffer for the sins of the father, who had
+destroyed her happiness.  Such a theme was one which appealed to Dickens.
+It must not, however, be urged; and the crucial question after all is
+concerned with the opium woman as one of the unconscious instruments of
+justice, aiding with her trifle of circumstantial evidence the Nemesis
+awaiting Jasper.
+
+“Another hypothesis—following on the Carker theme in ‘Dombey and Son’—is
+that Jasper, a dissolute and degenerate man, lascivious, and heartless,
+may have wronged a child of the woman’s; but it is not likely that
+Dickens would repeat the Mrs. Brown story.”
+
+Jasper, _père_, father of John Jasper and of Mrs. Drood, however
+handsome, ought not to have deserted Mrs. Jasper.  Whether John Jasper,
+prematurely devoted to opium, became Edwin’s guardian at about the age of
+fifteen, or whether, on attaining his majority, he succeeded to some
+other guardian, is not very obvious.  In short, we cannot guess why the
+Princess Puffer hated Jasper, a paying client of long standing.  We are
+only certain that Jasper was a bad fellow, and that the Princess Puffer
+said, “I know him, better than all the Reverend Parsons put together know
+him.”  On the other hand, Edwin “seems to know” the opium woman, when he
+meets her on Christmas Eve, which may be a point in favour of her being
+his long-lost grandmother.
+
+Jasper was certainly tried and condemned; for Dickens intended “to take
+Mr. Fildes to a condemned cell in Maidstone, or some other gaol, in order
+to make a drawing.” {96}  Possibly Jasper managed to take his own life,
+in the cell; possibly he was duly hanged.
+
+Jasper, after all, was a failure as a murderer, even if we suppose him to
+have strangled his nephew successfully.  “It is obvious to the most
+excruciatingly feeble capacity” that, if he meant to get rid of proofs of
+the identity of Drood’s body by means of quicklime, it did not suffice to
+remove Drood’s pin, watch, and chain.  Drood would have coins of the
+realm in his pockets, gold, silver, bronze.  Quicklime would not destroy
+these metallic objects, nor would it destroy keys, which would easily
+prove Drood’s identity.  If Jasper knew his business, he would, of
+course, rifle _all_ of Edwin’s pockets minutely, and would remove the
+metallic buttons of his braces, which generally display the maker’s name,
+or the tailor’s.  On research I find “H. Poole & Co., Savile Row” on my
+buttons.  In this inquiry of his, Jasper would have discovered the ring
+in Edwin’s breast pocket, and would have taken it away.  Perhaps Dickens
+never thought of that little fact: if he did think of it, no doubt he
+found some mode of accounting for Jasper’s unworkmanlike negligence.  The
+trouser-buttons would have led any inquirer straight to Edwin’s tailor; I
+incline to suspect that neither Dickens nor Jasper noticed that
+circumstance.  The conscientious artist in crime cannot afford to neglect
+the humblest and most obvious details.
+
+
+
+
+CONCLUSION
+
+
+ACCORDING to my theory, which mainly rests on the unmistakable evidence
+of the cover drawn by Collins under Dickens’s directions, all “ends
+well.”  Jasper comes to the grief he deserves: Helena, after her period
+of mourning for Neville, marries Crisparkle: Rosa weds her mariner.
+Edwin, at twenty-one, is not heart-broken, but, a greatly improved
+character, takes, to quote his own words, “a sensible interest in works
+of engineering skill, especially when they are to change the whole
+condition of an undeveloped country”—Egypt.
+
+These conclusions are inevitable unless we either suppose Dickens to have
+arranged a disappointment for his readers in the _tableau_ of Jasper and
+Drood, in the vault, on the cover, or can persuade ourselves that not
+Drood, but some other young man, is revealed by the light of Jasper’s
+lantern.  Now, the young man is very like Drood, and very unlike the dark
+fierce Helena Landless: disguised as Drood, this time, not as Datchery.
+All the difficulty as to why Drood, if he escaped alive, did not at once
+openly denounce Jasper, is removed when we remember, as Mr. Archer and I
+have independently pointed out, that Drood, when attacked by Jasper, was
+(like Durdles in the “unaccountable expedition”) stupefied by drugs, and
+so had no valid evidence against his uncle.  Whether science is
+acquainted with the drugs necessary for such purposes is another
+question.  They are always kept in stock by starving and venal
+apothecaries in fiction and the drama, and are a recognized convention of
+romance.
+
+So ends our unfolding of the Mystery of Edwin Drood.
+
+                                * * * * *
+
+                                 THE END
+
+                                * * * * *
+
+                                * * * * *
+
+     PRINTED BY WILLIAM CLOWES AND SON, LIMITED, LONDON AND BECCLES.
+
+
+
+
+FOOTNOTES
+
+
+{11}  Landless is not “Lackland,” but a form of de Laundeles, a Lothian
+name of the twelfth century, merged later in that of Ormistoun.
+
+{48}  _Life of Dickens_, vol. iii. pp. 425–439.
+
+{74}  J. Cuming Walters, p. 102; Proctor, pp. 131–135.  Mr. Cuming
+Walters used an edition of 1896, apparently a reprint of a paper by
+Proctor, written earlier than his final book of 1887.  Hence the error as
+to Mr. Proctor’s last theory.
+
+{77}  Mrs. Perugini, the books say, but certainly a daughter.
+
+{91}  What would Weissmann say to all this?
+
+{96}  So Mr. Cuming Walters quotes Mr. Hughes, who quotes Sir L. Fildes.
+_He_ believes that Jasper strangled Edwin with the black-silk scarf, and,
+no doubt, Jasper was for long of that opinion himself.
+
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK THE PUZZLE OF DICKENS'S LAST PLOT***
+
+
+******* This file should be named 738-0.txt or 738-0.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/7/3/738
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

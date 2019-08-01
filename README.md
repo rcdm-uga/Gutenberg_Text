@@ -13,3 +13,6 @@ There are some current issues with this specific dataset, listed [here](https://
 
 There are 98 authors in this dataset, two were just directories of indexes. Each containing a different ammount of txt files. Each txt file has a header and footer added by Project Dutenberg. Thus will needed to be removed when doing any type of analysis. 
 index.csv: A list of every file present in this repository. 
+
+*******
+If you are looking for some types of ideas on analyzing text, check out our web [tutorials](https://digi.uga.edu/text-analysis/). 

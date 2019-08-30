@@ -23,3 +23,5 @@ There are 98 authors in this dataset, two were just directories of indexes. Each
 
 *******
 If you are looking for some types of ideas on analyzing text, check out our web [tutorials](https://digi.uga.edu/text-analysis/). 
+
+I am making edits

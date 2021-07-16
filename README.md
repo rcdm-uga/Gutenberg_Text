@@ -11,7 +11,7 @@ There are some current issues with this specific dataset, listed [here](https://
 
 ### Dataset (1.7Gigabytes)
 
-There are 98 authors in this dataset, two were just directories of indexes. Each containing a different ammount of txt files. **Each txt file has a header and footer added by Project Dutenberg.** Thus will needed to be removed when doing any type of analysis. 
+There are 98 authors in this dataset, two were just directories of indexes. Each containing a different amount of txt files. **Each txt file has a header and footer added by Project Gutenberg.** Thus will needed to be removed when doing any type of analysis. 
   * authors.xls: a spreadsheet of meta data about each author. Some authors have a accent marks in their names and some programs overide the encoding of a csv. The encoding holds in .xls (Excel Format). Python and R can read excel files just as they can csv files. 
     * `Name`: `str` The author's name
     * `Nationality`: `str` The authors nationality
